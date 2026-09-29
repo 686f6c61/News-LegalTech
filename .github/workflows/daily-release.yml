@@ -1,0 +1,54 @@
+name: daily-observatorio
+
+on:
+  schedule:
+    # 06:17 Europe/Madrid ≈ 04:17 UTC (winter) / 05:17? Use fixed UTC; document in README
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Build artifacts without creating a GitHub Release"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Placeholder scan + digest build
+        id: build
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'true' }}
+        run: |
+          set -euo pipefail
+          DATE=$(date -u +%F)
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          echo "Observatorio LegalTech SOTA — skeleton CI ($DATE)"
+          echo "TODO: fetch sources/catalog.yaml tiers=core|watch"
+          echo "TODO: write events/ and content/digests/daily/"
+          echo "TODO: emit releases/<version>/graph.jsonld"
+          python scripts/build_digest.py --help || true
+          if [ ! -f content/digests/daily/2026/2026-09-29.md ]; then
+            echo "Missing day-1 digest fixture" >&2
+            exit 1
+          fi
+          echo "Fixture day-1 digest present. Dry skeleton OK."
+
+      - name: Create GitHub Release (disabled until scan is live)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run == 'false' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "Release step reserved for when daily scan is production-ready."
+          echo "Would tag and attach releases/*/graph.jsonld"

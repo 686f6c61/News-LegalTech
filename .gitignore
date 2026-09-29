@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+inbox/**
+!inbox/.gitkeep
+.DS_Store
+*.html.tmp

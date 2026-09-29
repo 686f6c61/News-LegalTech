@@ -1,0 +1,14 @@
+id: src-lefebvre-innovacion
+name: Lefebvre. Innovación / Observatorio
+url: "https://lefebvre.es/innovacion/"
+kind: research
+frequency: anual
+geo:
+  - ES
+  - EU
+lang:
+  - es
+ai_focus: true
+priority: 2
+notes: "Observatorio, estudios y GenIA-L."
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#68"

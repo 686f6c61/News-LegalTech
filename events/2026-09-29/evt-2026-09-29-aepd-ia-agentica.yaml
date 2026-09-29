@@ -1,0 +1,29 @@
+id: "evt-2026-09-29-aepd-ia-agentica"
+date: "2026-09-29"
+type: "guidance"
+sota_score: 9.5
+ai_legaltech: true
+title: "AEPD: Orientaciones \"Inteligencia artificial agéntica desde la perspectiva de protección de datos\" (V1.2)"
+summary_p1: "La guía marca el salto de la IA generativa pasiva a agentes que razonan, usan herramientas y actúan sobre datos personales. El riesgo deja de estar solo en lo que el modelo escribe y pasa a la autonomía operativa: memoria que persiste, varios agentes encadenados, acceso a sistemas internos y externos, y decisiones que se disparan sin un humano en cada paso. No vale el checklist genérico de GenAI; hay que rediseñar gobernanza, quién es responsable o encargado, la EIPD y controles frente a inyección de prompts, fugas por memoria compartida y falta de compartimentación."
+summary_p2: "Si tu firma o tu cliente pone agentes encima del correo, el DMS, el CRM o la knowledge base, cada integración es una operación de tratamiento: hay que acotar qué puede hacer el agente solo y dejar de fingir que \"hay supervisión humana\" cuando en la práctica no la hay. Si vendes LegalTech, el comprador serio va a pedir trazabilidad del razonamiento, pruebas repetibles, minimización fina de datos y contratos que no se rompan cuando el proveedor del modelo cambie los términos a mitad de mes. Y si eres DPO o llevas transformación legal, este texto es el marco español con el que exigir gobernanza única, fallo seguro y evidencia real en los pilots agénticos, no un powerpoint de seguridad de escaparate."
+why_sota: "Documento bandera ES/UE sobre IA agéntica y datos personales; define vocabulario y medidas accionables para el despliegue LegalTech agentic."
+why_now: "Pieza flagship del día 1 del Observatorio: cualquier stack agéntico en despachos españoles/UE debe leerse contra este marco AEPD."
+geo:
+- "ES"
+- "EU"
+topics:
+- "ia-agentica"
+- "rgpd"
+- "gobernanza"
+- "eipd"
+- "privacidad-desde-diseno"
+- "multiagente"
+sources:
+  - source_id: "src-aepd"
+    url: "https://www.aepd.es/guias/orientaciones-ia-agentica.pdf"
+    cited_title: "Inteligencia artificial agéntica desde la perspectiva de protección de datos (V1.2, febrero 2026)"
+    accessed: "2026-09-29"
+entities:
+- "ent-aepd"
+lang: "es"
+status: "published"

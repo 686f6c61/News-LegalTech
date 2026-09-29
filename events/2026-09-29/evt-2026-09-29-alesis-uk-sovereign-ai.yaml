@@ -1,0 +1,29 @@
+id: "evt-2026-09-29-alesis-uk-sovereign-ai"
+date: "2026-09-28"
+type: "product"
+sota_score: 8.0
+ai_legaltech: true
+title: "Alesis (L25 Group) entra en producción: asistente de IA soberano anclado solo en derecho del Reino Unido"
+summary_p1: "Frente al modelo US-global de los frontier labs, Alesis apuesta por soberanía jurisdiccional: grounding exclusivo en derecho de Inglaterra y Gales, Escocia e Irlanda del Norte, con datos retenidos en UK/UE, aislamiento por firma y sin entrenamiento cross-tenant, más verificación exhaustiva contra fuentes primarias (case law, Companies House, ombudsman). Ya está en PME e in-house, incluido un gran pension provider, con uso intensivo reportado: prueba de demanda por IA local en mercados regulados."
+summary_p2: "Para firmas mid-market UK/EU es una alternativa creíble cuando confidencialidad, residency y alucinaciones sobre derecho local bloquean un ChatGPT Enterprise genérico. En LegalTech ES el patrón es replicable (corpus BOE/CENDOJ, residency UE, no-training) y encaja con AEPD y con lo que piden colegios y clientes. Quien compra in-house debería meter soberanía de datos y citabilidad primaria en el RFP: no basta la accuracy de la demo; hay que pedir aislamiento tenant y política de retention explícita."
+why_sota: "Prueba de mercado de IA legal soberana por jurisdicción, no solo genérica con ZDR."
+why_now: "Entra en producción con uso intensivo reportado en PME e in-house UK."
+geo:
+- "UK"
+- "EU"
+topics:
+- "sovereign-ai"
+- "uk-law"
+- "hallucination"
+- "residency"
+sources:
+  - source_id: "src-legal-it-insider"
+    url: "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
+    cited_title: "Exclusive: Alesis, a sovereign AI assistant for UK law firms, goes live"
+    accessed: "2026-09-29"
+entities:
+- "ent-alesis"
+- "ent-l25-group"
+- "ent-legal-it-insider"
+lang: "es"
+status: "published"

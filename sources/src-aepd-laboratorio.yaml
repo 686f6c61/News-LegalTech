@@ -1,0 +1,13 @@
+id: src-aepd-laboratorio
+name: AEPD Laboratorio
+url: "https://laboratorio.aepd.es/"
+kind: blog
+frequency: irregular
+geo:
+  - ES
+lang:
+  - es
+ai_focus: true
+priority: 2
+notes: "Análisis técnicos AEPD sobre IA, privacidad y justicia."
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#71"

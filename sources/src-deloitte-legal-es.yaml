@@ -1,0 +1,15 @@
+id: src-deloitte-legal-es
+name: Deloitte Legal ES. Legal Management Consulting
+url: "https://www.deloitte.com/es/es/services/legal/services/legal-management-consulting.html"
+kind: consultancy
+frequency: continuo
+geo:
+  - ES
+  - Global
+lang:
+  - es
+  - en
+ai_focus: true
+priority: 2
+notes: LMC y Derecho Digital; puente NewLaw ES.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#106"

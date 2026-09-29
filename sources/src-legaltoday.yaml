@@ -1,0 +1,13 @@
+id: src-legaltoday
+name: LegalToday
+url: "https://www.legaltoday.com/"
+kind: news
+frequency: diario
+geo:
+  - ES
+lang:
+  - es
+ai_focus: true
+priority: 1
+notes: Medio jurídico ES con fuerte cobertura de IA jurídica y GLTH.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#64"

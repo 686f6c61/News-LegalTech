@@ -1,0 +1,14 @@
+id: src-aepd
+name: AEPD. Agencia Española de Protección de Datos
+url: "https://www.aepd.es/"
+kind: regulator
+frequency: irregular
+geo:
+  - ES
+  - EU
+lang:
+  - es
+ai_focus: true
+priority: 1
+notes: Orientaciones RGPD sobre IA (incl. IA agéntica y ámbito judicial).
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#70"

@@ -1,0 +1,10 @@
+id: ent-aepd
+name: Agencia Española de Protección de Datos
+type: regulator
+url: "https://www.aepd.es/"
+geo:
+  - ES
+  - EU
+aliases:
+  - AEPD
+notes: Autoridad de control RGPD en España; publica orientaciones técnicas sobre IA.

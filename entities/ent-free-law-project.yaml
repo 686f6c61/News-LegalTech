@@ -1,0 +1,9 @@
+id: ent-free-law-project
+name: Free Law Project
+type: other
+url: "https://free.law/"
+geo:
+  - US
+aliases:
+  - CourtListener
+notes: Nonprofit detrás de CourtListener; corpus de case law US integrado en Astra for Law.

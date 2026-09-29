@@ -1,0 +1,13 @@
+id: src-legal-futures
+name: Legal Futures
+url: "https://www.legalfutures.co.uk/"
+kind: news
+frequency: diario
+geo:
+  - UK
+lang:
+  - en
+ai_focus: false
+priority: 2
+notes: "Regulación, acceso a justicia y tech legal UK."
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#3"

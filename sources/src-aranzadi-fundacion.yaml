@@ -1,0 +1,13 @@
+id: src-aranzadi-fundacion
+name: Aranzadi LA LEY. Fundación
+url: "https://www.aranzadilaley.es/fundacion"
+kind: research
+frequency: anual
+geo:
+  - ES
+lang:
+  - es
+ai_focus: true
+priority: 2
+notes: guÍA e Informe Innovación y Tendencias sector legal ES.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#67"

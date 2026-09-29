@@ -1,0 +1,78 @@
+# Entities referenced by Phase-1 events
+entities:
+  - id: ent-aepd
+    name: Agencia Española de Protección de Datos
+    type: regulator
+    url: "https://www.aepd.es/"
+    geo:
+      - ES
+      - EU
+    aliases:
+      - AEPD
+    notes: Autoridad de control RGPD en España; publica orientaciones técnicas sobre IA.
+  - id: ent-openai
+    name: OpenAI
+    type: company
+    url: "https://openai.com/"
+    geo:
+      - US
+      - Global
+    aliases:
+    
+    notes: Lab de IA; lanza Astra for Law (GPT-6 Astra) orientado a firmas y LegalTech.
+  - id: ent-astra-for-law
+    name: Astra for Law
+    type: product
+    url: "https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/"
+    geo:
+      - US
+      - Global
+    aliases:
+      - GPT-6 Astra for Law
+    notes: Oferta legal de OpenAI con índice de research US y Trusted Access / ZDR.
+  - id: ent-l25-group
+    name: L25 Group
+    type: vendor
+    url: "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
+    geo:
+      - UK
+    aliases:
+      - L25
+    notes: Vendor UK de IA para sectores regulados; desarrolla Alesis y CMS AI-native.
+  - id: ent-alesis
+    name: Alesis
+    type: product
+    url: "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
+    geo:
+      - UK
+    aliases:
+    
+    notes: "Asistente de IA soberano anclado en derecho UK; datos en UK/UE, sin training cross-tenant."
+  - id: ent-free-law-project
+    name: Free Law Project
+    type: other
+    url: "https://free.law/"
+    geo:
+      - US
+    aliases:
+      - CourtListener
+    notes: Nonprofit detrás de CourtListener; corpus de case law US integrado en Astra for Law.
+  - id: ent-artificial-lawyer
+    name: Artificial Lawyer
+    type: media
+    url: "https://www.artificiallawyer.com/"
+    geo:
+      - Global
+    aliases:
+    
+    notes: Medio de referencia LegalTech / AI legal.
+  - id: ent-legal-it-insider
+    name: Legal IT Insider
+    type: media
+    url: "https://legaltechnology.com/"
+    geo:
+      - UK
+      - EU
+    aliases:
+    
+    notes: Medio exclusivas Legal IT UK/Europa.

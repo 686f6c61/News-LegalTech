@@ -1,0 +1,14 @@
+id: src-legal-it-insider
+name: Legal IT Insider
+url: "https://legaltechnology.com/"
+kind: news
+frequency: diario
+geo:
+  - UK
+  - EU
+lang:
+  - en
+ai_focus: true
+priority: 1
+notes: Noticias exclusivas Legal IT UK/Europa.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#4"

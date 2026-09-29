@@ -1,0 +1,9 @@
+id: ent-alesis
+name: Alesis
+type: product
+url: "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
+geo:
+  - UK
+aliases:
+
+notes: "Asistente de IA soberano anclado en derecho UK; datos en UK/UE, sin training cross-tenant."

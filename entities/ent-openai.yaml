@@ -1,0 +1,10 @@
+id: ent-openai
+name: OpenAI
+type: company
+url: "https://openai.com/"
+geo:
+  - US
+  - Global
+aliases:
+
+notes: Lab de IA; lanza Astra for Law (GPT-6 Astra) orientado a firmas y LegalTech.

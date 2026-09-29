@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://legaltech-sota.local/schemas/entity.schema.json",
+  "title": "Observatorio LegalTech SOTA. Entity",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "type"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^ent-[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "regulator",
+        "company",
+        "law_firm",
+        "vendor",
+        "association",
+        "media",
+        "academia",
+        "person",
+        "product",
+        "government",
+        "other"
+      ]
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "geo": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string"
+    },
+    "same_as": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "description": "Optional Linked Data identifiers (Wikidata, etc.)"
+    }
+  }
+}

@@ -1,0 +1,1164 @@
+# Catálogo completo de fuentes LegalTech (~128)
+# Generado desde /workspace/legaltech/fuentes-legaltech-mundiales.md
+# Campos: id, name, url, type, frequency, why, region, lang, tier (core|watch|archive)
+# Tipografia: ASCII double quotes only.
+version: "1.0.0"
+generated_from: "/workspace/legaltech/fuentes-legaltech-mundiales.md"
+count: 128
+tiers:
+  core: "Monitorización diaria prioritaria (señal alta ES/AI)"
+  watch: "Revisión periódica / semanal"
+  archive: "Blogs vendor y señal secundaria; consultar bajo demanda"
+sources:
+  - id: src-artificial-lawyer
+    name: "Artificial Lawyer"
+    url: "https://www.artificiallawyer.com/"
+    type: news
+    frequency: "diario"
+    why: "Referencia global en LegalTech e IA jurídica (startups, Big Law, inversión)."
+    region: "Global"
+    lang: "EN"
+    tier: core
+  - id: src-legaltech-news-law-com-alm
+    name: "Legaltech News (Law.com / ALM)"
+    url: "https://www.law.com/legaltechnews/"
+    type: news
+    frequency: "diario"
+    why: "Principal medio US de LegalTech; rundowns semanales e ILTACON/Legalweek."
+    region: "US / Global"
+    lang: "EN"
+    tier: core
+  - id: src-legal-futures
+    name: "Legal Futures"
+    url: "https://www.legalfutures.co.uk/"
+    type: news
+    frequency: "diario"
+    why: "Medio británico clave sobre regulación, acceso a justicia y tech legal."
+    region: "UK"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-it-insider
+    name: "Legal IT Insider"
+    url: "https://legaltechnology.com/"
+    type: news
+    frequency: "diario"
+    why: "Noticias exclusivas de Legal IT en UK/Europa (M&A, vendors, Big Law)."
+    region: "UK / EU"
+    lang: "EN"
+    tier: core
+  - id: src-lawsites-bob-ambrogi
+    name: "LawSites (Bob Ambrogi)"
+    url: "https://www.lawsitesblog.com/"
+    type: blog
+    frequency: "diario"
+    why: "Blog histórico sobre webs, tecnología y Derecho; termómetro práctico US."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-lawnext
+    name: "LawNext"
+    url: "https://www.lawnext.com/"
+    type: blog
+    frequency: "varios/semana"
+    why: "Hub de Ambrogi con noticias, LawNext y Legaltech Week."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-above-the-law
+    name: "Above the Law"
+    url: "https://abovethelaw.com/"
+    type: news
+    frequency: "varios/semana"
+    why: "Cobertura influyente de Big Law, AI y tecnología en la abogacía US."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-tribune-online-legal-tech
+    name: "Legal Tribune Online - Legal Tech"
+    url: "https://www.lto.de/recht/themen/recht/l/legal-tech"
+    type: news
+    frequency: "semanal"
+    why: "Medio jurídico alemán con sección LegalTech e IA en justicia."
+    region: "DE / EU"
+    lang: "DE"
+    tier: watch
+  - id: src-the-lawyer
+    name: "The Lawyer"
+    url: "https://www.thelawyer.com/"
+    type: news
+    frequency: "semanal"
+    why: "Prensa comercial UK con seguimiento de innovación y tecnología en firmas."
+    region: "UK"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-business
+    name: "Legal Business"
+    url: "https://www.legalbusiness.co.uk/"
+    type: news
+    frequency: "mensual"
+    why: "Análisis de negocio jurídico y tecnología para liderazgo de firmas."
+    region: "UK / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-bloomberg-law
+    name: "Bloomberg Law"
+    url: "https://pro.bloomberglaw.com/"
+    type: news
+    frequency: "continuo"
+    why: "Inteligencia legal premium con fuerte cobertura de IA y litigation tech."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-canadian-lawyer
+    name: "Canadian Lawyer"
+    url: "https://www.canadianlawyermag.com/"
+    type: news
+    frequency: "semanal"
+    why: "Cobertura canadiense de tecnología, ética e IA en la profesión."
+    region: "CA"
+    lang: "EN"
+    tier: watch
+  - id: src-3-geeks-and-a-law-blog
+    name: "3 Geeks and a Law Blog"
+    url: "https://www.geeklawblog.com/"
+    type: blog
+    frequency: "semanal"
+    why: "Clásico sobre KM, innovación y Legal Ops; sede de The Geek in Review."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-ediscovery-today
+    name: "eDiscovery Today"
+    url: "https://ediscoverytoday.com/"
+    type: blog
+    frequency: "diario"
+    why: "Noticias y case law de e-discovery, ciberseguridad y datos."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-complexdiscovery
+    name: "ComplexDiscovery"
+    url: "https://complexdiscovery.com/"
+    type: research
+    frequency: "semanal"
+    why: "Investigación independiente sobre e-discovery y digital risk."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-legaltech-hub
+    name: "Legaltech Hub"
+    url: "https://www.legaltechnologyhub.com/"
+    type: directory
+    frequency: "varios/semana"
+    why: "Directorio y análisis de mercado de proveedores LegalTech."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-rsgi-insights
+    name: "RSGI Insights"
+    url: "https://www.rsgi.co/insights"
+    type: research
+    frequency: "irregular"
+    why: "Análisis de innovación legal (partner research FT Innovative Lawyers)."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-ft-innovative-lawyers
+    name: "FT Innovative Lawyers"
+    url: "https://www.ft.com/innovative-lawyers"
+    type: research
+    frequency: "anual"
+    why: "Programa Financial Times que mide innovación real en servicios jurídicos."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-tech-trends-peter-duffy
+    name: "Legal Tech Trends (Peter Duffy)"
+    url: "https://legaltechtrends.substack.com/"
+    type: newsletter
+    frequency: "irregular"
+    why: "Una de las newsletters más citadas sobre tendencias, funding y AI LegalTech."
+    region: "Global / UK"
+    lang: "EN"
+    tier: watch
+  - id: src-titans-legal-tech-trends
+    name: "TITANS - Legal Tech Trends"
+    url: "https://www.titans.legal/the-newsletter"
+    type: newsletter
+    frequency: "quincenal"
+    why: "Landing del newsletter Duffy dirigida a Top-50 UK y Big 4."
+    region: "UK / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-the-intake-flank
+    name: "The Intake (Flank)"
+    url: "https://insights.flank.ai/briefings/"
+    type: newsletter
+    frequency: "semanal"
+    why: "Briefing de IA legal para equipos enterprise / in-house."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-the-brainyacts
+    name: "The Brainyacts"
+    url: "https://thebrainyacts.beehiiv.com/"
+    type: newsletter
+    frequency: "semanal"
+    why: "Enfoque práctico en GenAI, prompting y herramientas para abogados."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-the-legal-wire
+    name: "The Legal Wire"
+    url: "https://newsletter.thelegalwire.ai/"
+    type: newsletter
+    frequency: "semanal"
+    why: "Análisis de defensibilidad, política y mercado de Legal AI."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-legaltech-news-alertas-alm
+    name: "Legaltech News (alertas ALM)"
+    url: "https://www.law.com/legaltechnews/"
+    type: newsletter
+    frequency: "diario"
+    why: "Resumen matutino del mercado LegalTech vía Law.com."
+    region: "US"
+    lang: "EN"
+    tier: core
+  - id: src-artificial-lawyer-newsletter
+    name: "Artificial Lawyer (newsletter)"
+    url: "https://www.artificiallawyer.com/"
+    type: newsletter
+    frequency: "varios/semana"
+    why: "Alertas del medio Artificial Lawyer (productos, deals, opinión)."
+    region: "Global"
+    lang: "EN"
+    tier: core
+  - id: src-ilta-communications
+    name: "ILTA communications"
+    url: "https://iltanet.org/"
+    type: newsletter
+    frequency: "semanal"
+    why: "Comunicaciones de la asociación de tecnólogos legales."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-aceds-newsletters
+    name: "ACEDS newsletters"
+    url: "https://aceds.org/"
+    type: newsletter
+    frequency: "semanal"
+    why: "Actualizaciones de e-discovery y certificación."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-cloc-updates
+    name: "CLOC updates"
+    url: "https://cloc.org/"
+    type: newsletter
+    frequency: "mensual"
+    why: "Novedades de Legal Operations para departamentos jurídicos."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-thomson-reuters-future-of-professionals
+    name: "Thomson Reuters - Future of Professionals"
+    url: "https://europe.thomsonreuters.com/guides/future-of-professionals"
+    type: research
+    frequency: "anual"
+    why: "Encuesta global de referencia sobre IA y el futuro de las profesiones."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-thomson-reuters-state-of-the-corporate-law-department
+    name: "Thomson Reuters - State of the Corporate Law Department"
+    url: "https://insight.thomsonreuters.com/"
+    type: research
+    frequency: "anual"
+    why: "Radiografía de departamentos jurídicos, tech stack y prioridades."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-wolters-kluwer-future-ready-lawyer-survey
+    name: "Wolters Kluwer - Future Ready Lawyer Survey"
+    url: "https://www.wolterskluwer.com/"
+    type: research
+    frequency: "anual"
+    why: "Benchmark de madurez digital de abogados e in-house."
+    region: "EU / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-aba-techreport
+    name: "ABA TechReport"
+    url: "https://www.americanbar.org/groups/law_practice/resources/tech-report/"
+    type: research
+    frequency: "anual"
+    why: "Encuesta histórica de adopción tecnológica por abogados en EE. UU."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-ilta-technology-survey
+    name: "ILTA Technology Survey"
+    url: "https://iltanet.org/"
+    type: research
+    frequency: "anual"
+    why: "Encuesta de referencia entre profesionales de Legal IT en firmas."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-gartner-legal-risk-compliance-hype-cycle
+    name: "Gartner - Legal, Risk & Compliance / Hype Cycle"
+    url: "https://www.gartner.com/"
+    type: research
+    frequency: "anual"
+    why: "Ciclos de hype y guías para líderes de legal, risk y compliance."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-forrester-wave-document-mining-analytics
+    name: "Forrester Wave - Document Mining & Analytics"
+    url: "https://www.forrester.com/"
+    type: research
+    frequency: "anual"
+    why: "Evaluaciones comparativas de plataformas de analytics documental."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-cb-insights-legal-tech-market-map
+    name: "CB Insights - Legal Tech market map"
+    url: "https://www.cbinsights.com/research/legal-tech-market-map/"
+    type: research
+    frequency: "irregular"
+    why: "Mapas de mercado y funding de startups LegalTech."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-everlaw-legal-ai-adoption-impact-report
+    name: "Everlaw - Legal AI Adoption & Impact Report"
+    url: "https://www.everlaw.com/blog/"
+    type: research
+    frequency: "anual"
+    why: "Survey de adopción de GenAI en litigation (con ACEDS/ILTA)."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-codex-techindex-stanford
+    name: "CodeX TechIndex (Stanford)"
+    url: "https://techindex.law.stanford.edu/"
+    type: directory
+    frequency: "continuo"
+    why: "Índice curado de miles de companies LegalTech (categorías, funding, geo)."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-ciesco-sector-spotlight-legaltech
+    name: "Ciesco Sector Spotlight: LegalTech"
+    url: "https://www.ciesco.com/news-insights/"
+    type: research
+    frequency: "irregular"
+    why: "Spotlight de M&A e inversión en LegalTech."
+    region: "Global / EU"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-evolution-bill-henderson
+    name: "Legal Evolution (Bill Henderson)"
+    url: "https://www.legalevolution.org/"
+    type: research
+    frequency: "semanal"
+    why: "Análisis académico-práctico de innovación y estructura del mercado legal."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-fundacion-aranzadi-la-ley-informe-innovacion-y-tendencias
+    name: "Fundación Aranzadi LA LEY - Informe Innovación y Tendencias"
+    url: "https://www.aranzadilaley.es/dossier/informe-innovacion-y-tendencias-sector-legal-2026"
+    type: research
+    frequency: "anual"
+    why: "Radar estratégico del sector legal español (con datos CGAE)."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-lefebvre-observatorio-estudios-de-innovacion
+    name: "Lefebvre - Observatorio / Estudios de innovación"
+    url: "https://lefebvre.es/innovacion/observatorio/"
+    type: research
+    frequency: "anual"
+    why: "Estudios de innovación e IA en el sector jurídico español."
+    region: "ES / EU"
+    lang: "ES"
+    tier: core
+  - id: src-glth-index
+    name: "GLTH Index"
+    url: "https://www.hublegaltech.com/glthindex"
+    type: research
+    frequency: "anual"
+    why: "Índice neutral de adopción tecnológica del sector jurídico en España."
+    region: "ES"
+    lang: "ES / EN"
+    tier: watch
+  - id: src-acc-legal-ops-technology-maturity
+    name: "ACC - Legal Ops / Technology Maturity"
+    url: "https://www.acc.com/"
+    type: research
+    frequency: "anual"
+    why: "Modelos de madurez tech y Legal Ops para in-house."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-sra-technology-ai-publications
+    name: "SRA - Technology & AI publications"
+    url: "https://www.sra.org.uk/sra/research-publications/"
+    type: regulator
+    frequency: "irregular"
+    why: "Investigación del regulador UK sobre AI y tech en el mercado legal."
+    region: "UK"
+    lang: "EN"
+    tier: watch
+  - id: src-clio-legal-trends-report
+    name: "Clio Legal Trends Report"
+    url: "https://www.clio.com/resources/legal-trends/"
+    type: research
+    frequency: "anual"
+    why: "Datos de adopción tech en small/mid law (practice management)."
+    region: "US / CA"
+    lang: "EN"
+    tier: watch
+  - id: src-ilta
+    name: "ILTA"
+    url: "https://iltanet.org/"
+    type: association
+    frequency: "anual"
+    why: "Comunidad global de tecnólogos legales; encuesta, eventos y knowledge hub."
+    region: "Global / US"
+    lang: "EN"
+    tier: watch
+  - id: src-itechlaw
+    name: "ITechLaw"
+    url: "https://www.itechlaw.org/"
+    type: association
+    frequency: "continuo"
+    why: "Asociación internacional de abogados de tecnología (IT law + LegalTech)."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-elta-european-legal-tech-association
+    name: "ELTA (European Legal Tech Association)"
+    url: "https://elta.org/"
+    type: association
+    frequency: "continuo"
+    why: "Red europea de firmas, vendors y startups; advocacy e investigación."
+    region: "EU"
+    lang: "EN / DE"
+    tier: watch
+  - id: src-legal-tech-verband-deutschland
+    name: "Legal Tech Verband Deutschland"
+    url: "https://www.legaltechverband.de/"
+    type: association
+    frequency: "continuo"
+    why: "Asociación alemana de LegalTech; overview de mercado e informes."
+    region: "DE"
+    lang: "DE / EN"
+    tier: watch
+  - id: src-aceds
+    name: "ACEDS"
+    url: "https://aceds.org/"
+    type: association
+    frequency: "continuo"
+    why: "Certificación y comunidad de e-discovery specialists."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-cloc
+    name: "CLOC"
+    url: "https://cloc.org/"
+    type: association
+    frequency: "anual"
+    why: "Comunidad peer-driven de Legal Operations (tech, metrics, AI)."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-association-of-corporate-counsel-acc
+    name: "Association of Corporate Counsel (ACC)"
+    url: "https://www.acc.com/"
+    type: association
+    frequency: "continuo"
+    why: "Referencia in-house; Legal Ops Con y frameworks de technology management."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-aba-law-practice-division
+    name: "ABA Law Practice Division"
+    url: "https://www.americanbar.org/groups/law_practice/"
+    type: association
+    frequency: "continuo"
+    why: "Publica TechReport y guías de práctica tecnológica."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-lawtechuk
+    name: "LawtechUK"
+    url: "https://lawtechuk.io/"
+    type: other
+    frequency: "continuo"
+    why: "Programa del Ministry of Justice UK para adopción y crecimiento de lawtech."
+    region: "UK"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-geek
+    name: "Legal Geek"
+    url: "https://www.legalgeek.co/"
+    type: association
+    frequency: "anual"
+    why: "Comunidad y conferencia global de innovation/lawtech."
+    region: "UK / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-stanford-codex
+    name: "Stanford CodeX"
+    url: "https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/"
+    type: academia
+    frequency: "continuo"
+    why: "Centro pionero de legal informatics; ancla del TechIndex y FutureLaw."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-codex-futurelaw
+    name: "CodeX FutureLaw"
+    url: "https://conferences.law.stanford.edu/futurelaw/"
+    type: academia
+    frequency: "anual"
+    why: "Conferencia academia-industria sobre futuro del Derecho y tech."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-bucerius-legal-technology-operations
+    name: "Bucerius - Legal Technology & Operations"
+    url: "https://www.law-school.de/international/education/bucerius-summer-programs/legal-technology-and-operations"
+    type: academia
+    frequency: "anual"
+    why: "Programas intensivos europeos de Legal Tech & Ops."
+    region: "DE / EU"
+    lang: "EN"
+    tier: watch
+  - id: src-university-of-oxford-faculty-of-law
+    name: "University of Oxford - Faculty of Law"
+    url: "https://www.law.ox.ac.uk/"
+    type: academia
+    frequency: "continuo"
+    why: "Investigación y programas en LawTech, AI y regulación."
+    region: "UK"
+    lang: "EN"
+    tier: watch
+  - id: src-ie-law-school-lawahead
+    name: "IE Law School / LawAhead"
+    url: "https://www.ie.edu/law-school/"
+    type: academia
+    frequency: "continuo"
+    why: "Formación y pensamiento en Derecho digital e innovación legal."
+    region: "ES / EU"
+    lang: "ES / EN"
+    tier: watch
+  - id: src-cepej-council-of-europe
+    name: "CEPEJ (Council of Europe)"
+    url: "https://www.coe.int/en/web/cepej"
+    type: research
+    frequency: "irregular"
+    why: "Carta ética de IA en sistemas judiciales y resource centre cyberjustice."
+    region: "EU / CoE"
+    lang: "EN / FR"
+    tier: watch
+  - id: src-european-law-institute-eli
+    name: "European Law Institute (ELI)"
+    url: "https://www.europeanlawinstitute.eu/"
+    type: academia
+    frequency: "irregular"
+    why: "Principios y proyectos sobre digitalización de la justicia civil."
+    region: "EU"
+    lang: "EN"
+    tier: watch
+  - id: src-legaltoday
+    name: "LegalToday"
+    url: "https://www.legaltoday.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio jurídico ES con fuerte cobertura de IA jurídica, GLTH y editoriales."
+    region: "ES"
+    lang: "ES"
+    tier: core
+  - id: src-lawyerpress-news
+    name: "Lawyerpress NEWS"
+    url: "https://www.lawyerpress.com/"
+    type: news
+    frequency: "diario"
+    why: "Prensa del sector legal español; innovación, eventos y editoriales."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-global-legaltech-hub-glth
+    name: "Global LegalTech Hub (GLTH)"
+    url: "https://www.hublegaltech.com/"
+    type: hub
+    frequency: "continuo"
+    why: "Hub hispano-europeo (Madrid/Barcelona): firmas, startups y academia."
+    region: "ES / EU / LatAm"
+    lang: "ES / EN"
+    tier: core
+  - id: src-aranzadi-la-ley-fundacion
+    name: "Aranzadi LA LEY - Fundación"
+    url: "https://www.aranzadilaley.es/fundacion"
+    type: research
+    frequency: "continuo"
+    why: "Guías de IA (guÍA) e Informe de Innovación del sector legal ES."
+    region: "ES"
+    lang: "ES"
+    tier: core
+  - id: src-lefebvre-innovacion
+    name: "Lefebvre - Innovación"
+    url: "https://lefebvre.es/innovacion/"
+    type: research
+    frequency: "continuo"
+    why: "Observatorio, estudios y GenIA-L; partner frecuente de GLTH."
+    region: "ES / EU"
+    lang: "ES"
+    tier: core
+  - id: src-consejo-general-de-la-abogacia-espanola-cgae
+    name: "Consejo General de la Abogacía Española (CGAE)"
+    url: "https://www.abogacia.es/"
+    type: association
+    frequency: "continuo"
+    why: "Formación digital, datos demográficos y alianzas IA."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-aepd
+    name: "AEPD"
+    url: "https://www.aepd.es/"
+    type: regulator
+    frequency: "irregular"
+    why: "Orientación de protección de datos sobre IA (incl. ámbito judicial)."
+    region: "ES / EU"
+    lang: "ES"
+    tier: core
+  - id: src-aepd-laboratorio
+    name: "AEPD Laboratorio"
+    url: "https://laboratorio.aepd.es/"
+    type: blog
+    frequency: "irregular"
+    why: "Análisis técnicos AEPD sobre IA, privacidad y justicia."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-ministerio-de-justicia-espana
+    name: "Ministerio de Justicia (España)"
+    url: "https://www.mjusticia.gob.es/"
+    type: other
+    frequency: "irregular"
+    why: "Digitalización de la Justicia, eficiencia procesal e IA judicial."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-comision-europea-digitaljustice-2030
+    name: "Comisión Europea - DigitalJustice@2030"
+    url: "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/digitalisation-justice/communication-digitaljustice2030_en"
+    type: other
+    frequency: "irregular"
+    why: "Estrategia UE de justicia digital, Legal Data Space e IT toolbox."
+    region: "EU"
+    lang: "EN"
+    tier: watch
+  - id: src-european-e-justice-portal
+    name: "European e-Justice Portal"
+    url: "https://e-justice.europa.eu/"
+    type: other
+    frequency: "continuo"
+    why: "Portal oficial de e-Justice y cooperación judicial digital."
+    region: "EU"
+    lang: "multiidioma"
+    tier: watch
+  - id: src-eur-lex
+    name: "EUR-Lex"
+    url: "https://eur-lex.europa.eu/"
+    type: other
+    frequency: "continuo"
+    why: "Legislación y jurisprudencia UE; base ELI/ECLI del Legal Data Space."
+    region: "EU"
+    lang: "multiidioma"
+    tier: watch
+  - id: src-icam
+    name: "ICAM"
+    url: "https://web.icam.es/"
+    type: association
+    frequency: "irregular"
+    why: "Comisión/eventos de innovación tecnológica en la abogacía madrileña."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-vlex
+    name: "vLex"
+    url: "https://vlex.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Inteligencia jurídica multiidioma; fuerte presencia ES/LatAm y GLTH."
+    region: "ES / LatAm / Global"
+    lang: "ES / EN / PT"
+    tier: watch
+  - id: src-comision-europea-ai-act-digital-strategy
+    name: "Comisión Europea - AI Act / Digital Strategy"
+    url: "https://digital-strategy.ec.europa.eu/"
+    type: other
+    frequency: "irregular"
+    why: "Marco regulatorio de IA con impacto directo en LegalTech y compliance."
+    region: "EU"
+    lang: "EN"
+    tier: watch
+  - id: src-interoperable-europe-justice-it-toolbox
+    name: "Interoperable Europe - Justice IT Toolbox"
+    url: "https://interoperable-europe.ec.europa.eu/"
+    type: other
+    frequency: "irregular"
+    why: "Caja de herramientas IT/AI para justicia (DigitalJustice@2030)."
+    region: "EU"
+    lang: "EN"
+    tier: watch
+  - id: src-ab2l
+    name: "AB2L"
+    url: "https://ab2l.org.br/"
+    type: association
+    frequency: "continuo"
+    why: "Mayor ecosistema LegalTech de LatAm; radar, certificación y Lawtech Experience."
+    region: "BR / LatAm"
+    lang: "PT"
+    tier: watch
+  - id: src-alta-argentina
+    name: "ALTA (Argentina)"
+    url: "https://altargentina.tech/"
+    type: association
+    frequency: "continuo"
+    why: "Impulsa LegalTech en Argentina; JUS+LAW y reportes regionales."
+    region: "AR / LatAm"
+    lang: "ES"
+    tier: watch
+  - id: src-altech-chile
+    name: "Altech (Chile)"
+    url: "https://altechile.cl/"
+    type: association
+    frequency: "continuo"
+    why: "Asociación chilena de LegalTech; networking y agenda regulatoria."
+    region: "CL"
+    lang: "ES"
+    tier: watch
+  - id: src-altpe-peru
+    name: "ALTPE (Perú)"
+    url: "https://altpe.pe/"
+    type: association
+    frequency: "continuo"
+    why: "Asociación peruana de LegalTech."
+    region: "PE"
+    lang: "ES"
+    tier: watch
+  - id: src-alt-co-colombia
+    name: "alt+co (Colombia)"
+    url: "https://altco.org/"
+    type: association
+    frequency: "continuo"
+    why: "Asociación Colombiana de Legal Tech; directorio y comunidad."
+    region: "CO"
+    lang: "ES"
+    tier: watch
+  - id: src-abogado-digital
+    name: "Abogado Digital"
+    url: "https://abogadodigital.lat/"
+    type: hub
+    frequency: "continuo"
+    why: "Hub de innovación legal LatAm (México); congresos de gerencias legales."
+    region: "MX / LatAm"
+    lang: "ES"
+    tier: watch
+  - id: src-abogados-com-ar
+    name: "Abogados.com.ar"
+    url: "https://abogados.com.ar/"
+    type: news
+    frequency: "diario"
+    why: "Medio jurídico argentino con cobertura de benchmarks e innovación."
+    region: "AR"
+    lang: "ES"
+    tier: watch
+  - id: src-lexlatin
+    name: "LexLatin"
+    url: "https://lexlatin.com/"
+    type: news
+    frequency: "semanal"
+    why: "Medio regional de abogacía de negocios en LatAm (tech e innovación)."
+    region: "LatAm"
+    lang: "ES"
+    tier: watch
+  - id: src-iltacon
+    name: "ILTACON"
+    url: "https://iltanet.org/"
+    type: other
+    frequency: "anual"
+    why: "Gran conferencia de Legal IT/tecnología para firmas (product launches)."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-legalweek-alm
+    name: "Legalweek (ALM)"
+    url: "https://www.event.law.com/legalweek"
+    type: other
+    frequency: "anual"
+    why: "Semana emblemática de LegalTech en Nueva York."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-innovators
+    name: "Legal Innovators"
+    url: "https://www.legalinnovators.co.uk/"
+    type: other
+    frequency: "anual"
+    why: "Conferencias Cosmonauts/AL sobre innovación (UK/EU/US)."
+    region: "UK / EU / US"
+    lang: "EN"
+    tier: watch
+  - id: src-legal-geek-conference
+    name: "Legal Geek Conference"
+    url: "https://www.legalgeek.co/conference/"
+    type: other
+    frequency: "anual"
+    why: "Conferencia comunitaria de lawtech e innovación."
+    region: "UK / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-relativity-fest
+    name: "Relativity Fest"
+    url: "https://www.relativity.com/"
+    type: other
+    frequency: "anual"
+    why: "Evento mayor de e-discovery / legal data intelligence."
+    region: "US / EU"
+    lang: "EN"
+    tier: watch
+  - id: src-glth-events-glthday
+    name: "GLTH events / GLTHday"
+    url: "https://www.hublegaltech.com/hub-events"
+    type: other
+    frequency: "varios/semana"
+    why: "Encuentros GLTH (p. ej. con MWC) y lanzamientos de índice."
+    region: "ES / EU"
+    lang: "ES / EN"
+    tier: watch
+  - id: src-ab2l-lawtech-experience
+    name: "AB2L Lawtech Experience"
+    url: "https://ab2l.org.br/"
+    type: other
+    frequency: "anual"
+    why: "Principal evento LegalTech de Brasil/LatAm."
+    region: "BR"
+    lang: "PT"
+    tier: watch
+  - id: src-cloc-global-institute
+    name: "CLOC Global Institute"
+    url: "https://cloc.org/"
+    type: other
+    frequency: "anual"
+    why: "Encuentro global de Legal Operations."
+    region: "Global"
+    lang: "EN"
+    tier: watch
+  - id: src-lawnext-podcast
+    name: "LawNext Podcast"
+    url: "https://www.lawnext.com/"
+    type: other
+    frequency: "semanal"
+    why: "Entrevistas de Ambrogi con founders e innovadores LegalTech."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-legaltech-week
+    name: "Legaltech Week"
+    url: "https://www.lawnext.com/category/legaltech-week"
+    type: other
+    frequency: "semanal"
+    why: "Roundup semanal de periodistas LegalTech."
+    region: "US / Global"
+    lang: "EN"
+    tier: watch
+  - id: src-the-geek-in-review
+    name: "The Geek in Review"
+    url: "https://www.geeklawblog.com/podcast"
+    type: other
+    frequency: "semanal"
+    why: "Innovación, KM y creatividad legal (3 Geeks)."
+    region: "US"
+    lang: "EN"
+    tier: watch
+  - id: src-relativity-blog
+    name: "Relativity Blog"
+    url: "https://www.relativity.com/blog/"
+    type: vendor
+    frequency: "semanal"
+    why: "Tendencias de legal data / AI en discovery (alta señal de mercado)."
+    region: "US / Global"
+    lang: "EN"
+    tier: archive
+  - id: src-netdocuments-blog
+    name: "NetDocuments Blog"
+    url: "https://www.netdocuments.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Perspectiva DMS/AI enterprise sobre estado de la IA legal."
+    region: "US / Global"
+    lang: "EN"
+    tier: archive
+  - id: src-mitratech
+    name: "Mitratech"
+    url: "https://mitratech.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Cobertura GRC / Legal Ops enterprise (complementar con analistas)."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-imanage-insights
+    name: "iManage insights"
+    url: "https://imanage.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "KM/AI para firmas; webinars citados en Artificial Lawyer."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-litera-resources
+    name: "Litera resources"
+    url: "https://www.litera.com/"
+    type: vendor
+    frequency: "anual"
+    why: "Encuestas citadas sobre gobernanza y adopción de AI en firmas."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-epiq-insights
+    name: "Epiq insights"
+    url: "https://www.epiqglobal.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Señal de mercado ALSPs, e-discovery y legal operations."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-boe-boletin-oficial-del-estado
+    name: "BOE (Boletín Oficial del Estado)"
+    url: "https://www.boe.es/"
+    type: other
+    frequency: "diario"
+    why: "Fuente primaria de normas ES (justicia digital, IA, eficiencia procesal)."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-deloitte-legal-legal-management-consulting
+    name: "Deloitte Legal - Legal Management Consulting"
+    url: "https://www.deloitte.com/es/es/services/legal/services/legal-management-consulting.html"
+    type: consultancy
+    frequency: "continuo"
+    why: "LMC y tech legal (CLM, operating model); puente Deloitte Legal ES hacia LegalTech e in-house. Ver también Derecho Digital: https://www.deloitte.com/es/es/services/legal/services/derecho-digital.html"
+    region: "ES / Global"
+    lang: "ES / EN"
+    tier: core
+  - id: src-pwc-tax-legal-newlaw
+    name: "PwC Tax & Legal - NewLaw"
+    url: "https://www.pwc.es/es/asesoramiento-fiscal-legal/new-law.html"
+    type: consultancy
+    frequency: "continuo"
+    why: "Hub NewLaw ES: LegalTech services, Springboard con Microsoft y NewLaw Summit; referencia Big Four en tax/legal tech."
+    region: "ES"
+    lang: "ES"
+    tier: core
+  - id: src-ey-abogados-tech-labs
+    name: "EY Abogados Tech Labs"
+    url: "https://www.ey.com/es_es/ey-abogados/ey-abogados-tech-labs"
+    type: consultancy
+    frequency: "continuo"
+    why: "Espacio de transformación fiscal y legal con Legal Tech avanzado, IA y Legal Managed Services (EY Abogados ES)."
+    region: "ES"
+    lang: "ES"
+    tier: core
+  - id: src-kpmg-abogados-digitalizacion-y-tecnologia-juridica
+    name: "KPMG Abogados - Digitalización y tecnología jurídica"
+    url: "https://kpmg.com/es/es/servicios/abogados/kpmg-abogados-digital-suite/digitalizacion-tecnologia-juridica.html"
+    type: consultancy
+    frequency: "continuo"
+    why: "Digital Suite / Katalyst (Legal Intake, Mass Claims, etc.) y LOTS (Legal Operations & Transformation); señal FT Innovative Lawyers."
+    region: "ES"
+    lang: "ES"
+    tier: core
+  - id: src-confilegal
+    name: "Confilegal"
+    url: "https://confilegal.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio jurídico ES con cobertura intensa de IA jurídica, startups LegalTech y agenda profesional."
+    region: "ES"
+    lang: "ES"
+    tier: core
+  - id: src-economist-jurist
+    name: "Economist & Jurist"
+    url: "https://www.economistjurist.es/"
+    type: news
+    frequency: "diario"
+    why: "Prensa y ecosistema E&J (Global IA / JuristIA); seguimiento de digitalización e IA en abogacía."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-legaltechies
+    name: "Legaltechies"
+    url: "https://legaltechies.es/"
+    type: blog
+    frequency: "irregular"
+    why: "Pioneer mapping y análisis del ecosistema LegalTech ES/LatAm (Jorge Morell); formación y radar de mercado."
+    region: "ES / LatAm"
+    lang: "ES"
+    tier: watch
+  - id: src-el-derecho-lefebvre
+    name: "El Derecho (Lefebvre)"
+    url: "https://elderecho.com/"
+    type: news
+    frequency: "diario"
+    why: "Actualidad jurídica del grupo Lefebvre; canal de difusión de GenIA-L e innovación editorial."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-hay-derecho
+    name: "Hay Derecho"
+    url: "https://www.hayderecho.com/"
+    type: blog
+    frequency: "semanal"
+    why: "Fundación activa (Informe Estado de Derecho, premios 2026); Estado de derecho, instituciones y reforma - contexto para justicia digital."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-derecho-practico-guia-legaltech
+    name: "Derecho Práctico - Guía Legaltech"
+    url: "https://derechopractico.es/guialegaltech/"
+    type: directory
+    frequency: "anual"
+    why: "Guía/marketplace LegalTech ES (ediciones anuales); radar práctico de vendors y formación."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-icab-il-lustre-col-legi-de-l-advocacia-de-barcelona
+    name: "ICAB (Il·lustre Col·legi de l'Advocacia de Barcelona)"
+    url: "https://www.icab.es/"
+    type: association
+    frequency: "irregular"
+    why: "ALIAT y acuerdos IA (vLex, Lefebvre) para colegiados; polo de innovación de la abogacía catalana."
+    region: "ES (CAT)"
+    lang: "ES / CA"
+    tier: watch
+  - id: src-cendoj-poder-judicial
+    name: "CENDOJ / Poder Judicial"
+    url: "https://www.poderjudicial.es/cgpj/es/Temas/Centro-de-Documentacion-Judicial--CENDOJ-/"
+    type: other
+    frequency: "continuo"
+    why: "Publicación oficial de jurisprudencia CGPJ; base documental primaria para IA jurídica y open justice ES."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-lexnet
+    name: "LexNET"
+    url: "https://www.administraciondejusticia.gob.es/lexnet"
+    type: other
+    frequency: "continuo"
+    why: "Canal oficial de presentación telemática y notificaciones electrónicas; columna vertebral de la e-Justice ES."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-justicia-2030-administracion-de-justicia
+    name: "Justicia 2030 (Administración de Justicia)"
+    url: "https://www.administraciondejusticia.gob.es/justicia-2030"
+    type: other
+    frequency: "irregular"
+    why: "Plan de transformación digital de la Justicia (EJE, dato, robotización); marco de digitalización procesal."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-incibe
+    name: "INCIBE"
+    url: "https://www.incibe.es/"
+    type: other
+    frequency: "continuo"
+    why: "Instituto Nacional de Ciberseguridad; referencia para riesgo digital, catálogo de servicios y seguridad en despachos/firmas."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-observatorio-legaltech-garrigues-icade-comillas
+    name: "Observatorio Legaltech Garrigues-ICADE (Comillas)"
+    url: "https://www.comillas.edu/investigacion/observatorio-legaltech/"
+    type: academia
+    frequency: "continuo"
+    why: "Laboratorios IA, ciber, Legal DigComp y foros; puente universidad-despacho en LegalTech ES."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-esade-ia-y-transformacion-de-la-practica-juridica
+    name: "ESADE - IA y transformación de la práctica jurídica"
+    url: "https://www.esade.edu/executive-education/es/programa/ia-y-transformacion-de-la-practica-juridica-criterio-riesgo-y-decision"
+    type: academia
+    frequency: "anual"
+    why: "Programa EE de Esade Law School sobre criterio, riesgo y adopción de IA en la abogacía (alianzas Harvey/vLex)."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-tirant-lo-blanch
+    name: "Tirant lo Blanch"
+    url: "https://tirant.com/"
+    type: vendor
+    frequency: "continuo"
+    why: "Editorial jurídica con Tirant Tech / SOFIA (IA generativa jurídica); fuerte presencia ES y LatAm."
+    region: "ES / LatAm"
+    lang: "ES"
+    tier: watch
+  - id: src-sepin-helena-ia
+    name: "Sepín - Helena IA"
+    url: "https://helena-ia.sepin.es/"
+    type: vendor
+    frequency: "continuo"
+    why: "IA jurídica Helena sobre fondo documental Sepín; señal de adopción en abogacía generalista ES. Portal editorial: https://www.sepin.es/"
+    region: "ES"
+    lang: "ES"
+    tier: archive
+  - id: src-bigle-legal
+    name: "Bigle Legal"
+    url: "https://www.biglelegal.com/es/"
+    type: vendor
+    frequency: "continuo"
+    why: "LegalTech española de CLM/document automation (Libra GenAI); caso de éxito vendor ES citado en Artificial Lawyer."
+    region: "ES / Global"
+    lang: "ES / EN"
+    tier: archive
+  - id: src-iberley-ia-uxia
+    name: "Iberley IA (Uxía)"
+    url: "https://www.iberley.es/ia-abogados"
+    type: vendor
+    frequency: "continuo"
+    why: "IA jurídica sobre fondo Iberley/COLEX; alternativa editorial ES a Aranzadi/Lefebvre/Tirant en GenAI."
+    region: "ES"
+    lang: "ES"
+    tier: archive
+  - id: src-global-legaltech-competition-ie-law-school
+    name: "Global LegalTech Competition (IE Law School)"
+    url: "https://www.ie.edu/law-school/global-legaltech-competition/"
+    type: other
+    frequency: "anual"
+    why: "Competición global de startups LegalTech; finales recientes en South Summit Madrid."
+    region: "ES / Global"
+    lang: "EN / ES"
+    tier: watch
+  - id: src-south-summit-madrid
+    name: "South Summit Madrid"
+    url: "https://www.southsummit.io/"
+    type: other
+    frequency: "anual"
+    why: "Gran encuentro startup/inversión en Madrid; ancla habitual del Global LegalTech Competition y dealflow tech ES."
+    region: "ES / Global"
+    lang: "EN / ES"
+    tier: watch

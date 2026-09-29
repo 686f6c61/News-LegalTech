@@ -1,0 +1,180 @@
+# Starter subset (~14). Full ~128 catalog: /workspace/legaltech/fuentes-legaltech-mundiales.md
+sources:
+  - id: src-aepd
+    name: AEPD. Agencia Española de Protección de Datos
+    url: "https://www.aepd.es/"
+    kind: regulator
+    frequency: irregular
+    geo:
+      - ES
+      - EU
+    lang:
+      - es
+    ai_focus: true
+    priority: 1
+    notes: Orientaciones RGPD sobre IA (incl. IA agéntica y ámbito judicial).
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#70"
+  - id: src-artificial-lawyer
+    name: Artificial Lawyer
+    url: "https://www.artificiallawyer.com/"
+    kind: news
+    frequency: diario
+    geo:
+      - Global
+    lang:
+      - en
+    ai_focus: true
+    priority: 1
+    notes: Referencia global en LegalTech e IA jurídica.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#1"
+  - id: src-legaltech-news
+    name: Legaltech News (Law.com / ALM)
+    url: "https://www.law.com/legaltechnews/"
+    kind: news
+    frequency: diario
+    geo:
+      - US
+      - Global
+    lang:
+      - en
+    ai_focus: true
+    priority: 1
+    notes: Principal medio US de LegalTech.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#2"
+  - id: src-glth
+    name: Global LegalTech Hub (GLTH)
+    url: "https://www.hublegaltech.com/"
+    kind: hub
+    frequency: continuo
+    geo:
+      - ES
+      - EU
+      - LatAm
+    lang:
+      - es
+      - en
+    ai_focus: true
+    priority: 1
+    notes: Hub hispano-europeo; GLTH Index y eventos.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#66"
+  - id: src-legaltoday
+    name: LegalToday
+    url: "https://www.legaltoday.com/"
+    kind: news
+    frequency: diario
+    geo:
+      - ES
+    lang:
+      - es
+    ai_focus: true
+    priority: 1
+    notes: Medio jurídico ES con fuerte cobertura de IA jurídica y GLTH.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#64"
+  - id: src-deloitte-legal-es
+    name: Deloitte Legal ES. Legal Management Consulting
+    url: "https://www.deloitte.com/es/es/services/legal/services/legal-management-consulting.html"
+    kind: consultancy
+    frequency: continuo
+    geo:
+      - ES
+      - Global
+    lang:
+      - es
+      - en
+    ai_focus: true
+    priority: 2
+    notes: LMC y Derecho Digital; puente NewLaw ES.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#106"
+  - id: src-legal-it-insider
+    name: Legal IT Insider
+    url: "https://legaltechnology.com/"
+    kind: news
+    frequency: diario
+    geo:
+      - UK
+      - EU
+    lang:
+      - en
+    ai_focus: true
+    priority: 1
+    notes: Noticias exclusivas Legal IT UK/Europa.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#4"
+  - id: src-lefebvre-innovacion
+    name: Lefebvre. Innovación / Observatorio
+    url: "https://lefebvre.es/innovacion/"
+    kind: research
+    frequency: anual
+    geo:
+      - ES
+      - EU
+    lang:
+      - es
+    ai_focus: true
+    priority: 2
+    notes: "Observatorio, estudios y GenIA-L."
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#68"
+  - id: src-aranzadi-fundacion
+    name: Aranzadi LA LEY. Fundación
+    url: "https://www.aranzadilaley.es/fundacion"
+    kind: research
+    frequency: anual
+    geo:
+      - ES
+    lang:
+      - es
+    ai_focus: true
+    priority: 2
+    notes: guÍA e Informe Innovación y Tendencias sector legal ES.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#67"
+  - id: src-legal-futures
+    name: Legal Futures
+    url: "https://www.legalfutures.co.uk/"
+    kind: news
+    frequency: diario
+    geo:
+      - UK
+    lang:
+      - en
+    ai_focus: false
+    priority: 2
+    notes: "Regulación, acceso a justicia y tech legal UK."
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#3"
+  - id: src-lawsites
+    name: LawSites (Bob Ambrogi)
+    url: "https://www.lawsitesblog.com/"
+    kind: blog
+    frequency: diario
+    geo:
+      - US
+    lang:
+      - en
+    ai_focus: true
+    priority: 2
+    notes: "Termómetro práctico US de webs, tecnología y Derecho."
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#5"
+  - id: src-thomson-reuters-fop
+    name: Thomson Reuters. Future of Professionals
+    url: "https://europe.thomsonreuters.com/guides/future-of-professionals"
+    kind: research
+    frequency: anual
+    geo:
+      - Global
+    lang:
+      - en
+    ai_focus: true
+    priority: 2
+    notes: Encuesta global de referencia sobre IA y profesiones.
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#29"
+  - id: src-aepd-laboratorio
+    name: AEPD Laboratorio
+    url: "https://laboratorio.aepd.es/"
+    kind: blog
+    frequency: irregular
+    geo:
+      - ES
+    lang:
+      - es
+    ai_focus: true
+    priority: 2
+    notes: "Análisis técnicos AEPD sobre IA, privacidad y justicia."
+    catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#71"

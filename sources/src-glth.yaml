@@ -1,0 +1,16 @@
+id: src-glth
+name: Global LegalTech Hub (GLTH)
+url: "https://www.hublegaltech.com/"
+kind: hub
+frequency: continuo
+geo:
+  - ES
+  - EU
+  - LatAm
+lang:
+  - es
+  - en
+ai_focus: true
+priority: 1
+notes: Hub hispano-europeo; GLTH Index y eventos.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#66"

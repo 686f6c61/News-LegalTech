@@ -1,0 +1,13 @@
+id: src-artificial-lawyer
+name: Artificial Lawyer
+url: "https://www.artificiallawyer.com/"
+kind: news
+frequency: diario
+geo:
+  - Global
+lang:
+  - en
+ai_focus: true
+priority: 1
+notes: Referencia global en LegalTech e IA jurídica.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#1"

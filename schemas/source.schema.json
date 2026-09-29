@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://legaltech-sota.local/schemas/source.schema.json",
+  "title": "Observatorio LegalTech SOTA. Source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "url",
+    "kind",
+    "geo",
+    "lang"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^src-[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "news",
+        "blog",
+        "newsletter",
+        "regulator",
+        "hub",
+        "association",
+        "research",
+        "consultancy",
+        "vendor",
+        "academia",
+        "directory",
+        "other"
+      ]
+    },
+    "frequency": {
+      "type": "string",
+      "enum": [
+        "diario",
+        "varios/semana",
+        "semanal",
+        "quincenal",
+        "mensual",
+        "anual",
+        "irregular",
+        "continuo"
+      ]
+    },
+    "geo": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "lang": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "ai_focus": {
+      "type": "boolean",
+      "default": false
+    },
+    "priority": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "1=core daily, 5=occasional"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "catalog_ref": {
+      "type": "string",
+      "description": "Pointer into full 128-source catalog"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+id: src-lawsites
+name: LawSites (Bob Ambrogi)
+url: "https://www.lawsitesblog.com/"
+kind: blog
+frequency: diario
+geo:
+  - US
+lang:
+  - en
+ai_focus: true
+priority: 2
+notes: "Termómetro práctico US de webs, tecnología y Derecho."
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#5"

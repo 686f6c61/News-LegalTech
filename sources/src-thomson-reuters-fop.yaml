@@ -1,0 +1,13 @@
+id: src-thomson-reuters-fop
+name: Thomson Reuters. Future of Professionals
+url: "https://europe.thomsonreuters.com/guides/future-of-professionals"
+kind: research
+frequency: anual
+geo:
+  - Global
+lang:
+  - en
+ai_focus: true
+priority: 2
+notes: Encuesta global de referencia sobre IA y profesiones.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#29"

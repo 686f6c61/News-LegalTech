@@ -1,0 +1,14 @@
+id: src-legaltech-news
+name: Legaltech News (Law.com / ALM)
+url: "https://www.law.com/legaltechnews/"
+kind: news
+frequency: diario
+geo:
+  - US
+  - Global
+lang:
+  - en
+ai_focus: true
+priority: 1
+notes: Principal medio US de LegalTech.
+catalog_ref: "/workspace/legaltech/fuentes-legaltech-mundiales.md#2"

@@ -1,0 +1,138 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://legaltech-sota.local/schemas/event.schema.json",
+  "title": "Observatorio LegalTech SOTA. Event",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "date",
+    "type",
+    "sota_score",
+    "ai_legaltech",
+    "title",
+    "summary_p1",
+    "summary_p2",
+    "sources"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^evt-[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$",
+      "description": "Stable event id: evt-YYYY-MM-DD-slug"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Event / publication / curation date (YYYY-MM-DD)"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "regulation",
+        "guidance",
+        "product",
+        "funding",
+        "research",
+        "market",
+        "opinion",
+        "event",
+        "case_law",
+        "other"
+      ]
+    },
+    "sota_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 10,
+      "description": "Editorial SOTA relevance 0-10 for LegalTech / AI Legal"
+    },
+    "ai_legaltech": {
+      "type": "boolean",
+      "description": "True if primarily AI × LegalTech"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 280
+    },
+    "summary_p1": {
+      "type": "string",
+      "minLength": 40,
+      "description": "Paragraph 1: key idea why read (narrative prose, NOT a paraphrase of the source)"
+    },
+    "summary_p2": {
+      "type": "string",
+      "minLength": 40,
+      "description": "Paragraph 2: business impact in narrative prose (no A/B/C lists) for legal business / LegalTech"
+    },
+    "why_sota": {
+      "type": "string",
+      "description": "Why this belongs in the SOTA observatory"
+    },
+    "why_now": {
+      "type": "string",
+      "description": "Why it matters on this digest date"
+    },
+    "geo": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Jurisdiction / market tags (ES, EU, US, UK, Global…)"
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "source_id"
+        ],
+        "properties": {
+          "source_id": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "cited_title": {
+            "type": "string"
+          },
+          "accessed": {
+            "type": "string",
+            "format": "date"
+          }
+        }
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Entity ids referenced"
+    },
+    "lang": {
+      "type": "string",
+      "default": "es"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "published",
+        "archived"
+      ],
+      "default": "published"
+    }
+  }
+}

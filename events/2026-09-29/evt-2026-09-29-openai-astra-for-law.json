@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-09-29-openai-astra-for-law",
+  "date": "2026-09-18",
+  "type": "product",
+  "sota_score": 9.0,
+  "ai_legaltech": true,
+  "title": "OpenAI lanza Astra for Law (GPT-6 Astra) con índice legal US y Trusted Access para Big Law",
+  "summary_p1": "OpenAI deja de ser solo un LLM genérico embebido y pasa a competir como plataforma legal vertical: modelo propio, índice de research US con más de 230 millones de URLs anclado en CourtListener y Free Law Project, y configuración Trusted Access con Zero Data Retention. Los early adopters (Latham, Ropes & Gray, Cooley, Sullivan & Cromwell) ya montan analistas de acuerdos y playbooks encima, señal de que el campo de batalla se mueve del chat con PDFs a workflows propios de cada firma con búsqueda grounded.",
+  "summary_p2": "Para un despacho, toca reevaluar make-versus-buy en research y drafting, y exigir ZDR, exclusión de human review y control real de prompts y playbooks propios antes de firmar. Quien vende LegalTech siente la presión directa: o integra Astra por API o configuración legal, o defiende profundidad de corpus, citabilidad y workflow. En ES/UE el producto nace US-centric, así que queda margen para soberanía y corpus local (Lefebvre, Aranzadi, vLex) y, sobre todo, para aplicar el marco AEPD agéntico antes de conectar agentes a datos de cliente.",
+  "why_sota": "Frontier lab entra como plataforma legal vertical con índice US y Trusted Access; redefine el stack de research/drafting.",
+  "why_now": "Lanzamiento reciente con early adopters Big Law; presión inmediata sobre vendors y make-vs-buy.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "legal-ai",
+    "research",
+    "big-law",
+    "zdr"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/",
+      "cited_title": "OpenAI Launches Astra For Law",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [
+    "ent-openai",
+    "ent-astra-for-law",
+    "ent-free-law-project",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}
