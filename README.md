@@ -67,4 +67,4 @@ Workflow: `.github/workflows/daily-release.yml` (`daily-observatorio`).
 - Hoy es esqueleto: valida fixtures y deja hooks para scan + `graph.jsonld`.
 - Astro: fuera de alcance por ahora.
 
-Repo: https://github.com/686f6c61/legaltech-sota
+Repo: https://github.com/686f6c61/News-LegalTech
