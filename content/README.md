@@ -68,7 +68,8 @@ copiar `content/digests` hacia `src/content/digests`. Este repo mantiene
 2. **weekly** - agrega digests daily de la semana ISO; destaca flagships y tendencias.
 3. **biweekly** - agrega dos weeks o los daily del periodo; foco en señal SOTA y mercado.
 
-Stub de automatización: `scripts/build_digest.py`.
+Stub de rollup Markdown: `scripts/build_digest.py`.
+Release diaria JSON-LD: `scripts/build_release.py` (version `1.N.0`).
 
 ## Tipografía
 
