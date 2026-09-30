@@ -6,13 +6,13 @@
   },
   "@graph": [
     {
-      "@id": "https://legaltech-sota.local/releases/1.0.0",
+      "@id": "https://legaltech-sota.local/releases/26.09.29",
       "@type": [
         "schema:Dataset",
         "schema:CreativeWork"
       ],
-      "schema:name": "Observatorio LegalTech SOTA: Release 1.0.0",
-      "schema:version": "1.0.0",
+      "schema:name": "Radar LegalTech · 26.09.29",
+      "schema:version": "26.09.29",
       "schema:datePublished": "2026-09-29",
       "schema:description": "Primera release diaria del grafo Observatorio LegalTech SOTA (día 2026-09-29).",
       "schema:inLanguage": "es",

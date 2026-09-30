@@ -28,7 +28,7 @@ Cada Markdown lleva frontmatter YAML:
 - `title` (string)
 - `date` (YYYY-MM-DD)
 - `cadence`: `daily` | `weekly` | `biweekly`
-- `release` (semver, p. ej. `"1.0.0"`)
+- `release` (`YY.MM.DD`, p. ej. `"26.09.29"`)
 - `lang` (por defecto `es`)
 - `focus_ai_pct` (number, opcional; objetivo editorial ~65)
 - `event_ids` (lista de IDs `evt-...`)
@@ -69,7 +69,7 @@ copiar `content/digests` hacia `src/content/digests`. Este repo mantiene
 3. **biweekly** - agrega dos weeks o los daily del periodo; foco en señal SOTA y mercado.
 
 Stub de rollup Markdown: `scripts/build_digest.py`.
-Release diaria JSON-LD: `scripts/build_release.py` (version `1.N.0`).
+Release diaria JSON-LD: `scripts/build_release.py` (versión `YY.MM.DD`).
 
 ## Tipografía
 

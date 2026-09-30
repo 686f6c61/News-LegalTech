@@ -138,7 +138,7 @@ jobs:
             git push -u origin HEAD || git push --force-with-lease -u origin HEAD
             gh pr create --base main --head "$branch" \
               --title "chore(release): publica ${versions}" \
-              --body "Empaqueta events/ ya escritos en releases/<1.N.0>/. El scan editorial no forma parte de este PR."
+              --body "Empaqueta events/ ya escritos en releases/<YY.MM.DD>/. El scan editorial no forma parte de este PR."
             echo "pushed=pr" >> "$GITHUB_OUTPUT"
             exit 0
           fi
@@ -173,7 +173,7 @@ jobs:
             fi
             title="$(sed -n 's/^# //p' "$notes" | head -n 1)"
             if [ -z "$title" ]; then
-              title="Observatorio LegalTech SOTA ${version}"
+              title="Radar LegalTech · ${version}"
             fi
             gh release create "$version" \
               "${graph}#graph.jsonld" \

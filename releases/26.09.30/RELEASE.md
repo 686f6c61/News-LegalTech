@@ -1,14 +1,14 @@
-# Release 1.1.0: Observatorio LegalTech SOTA
+# Radar LegalTech · 26.09.30
 
 **Fecha:** 2026-09-30 (Europe/Madrid)  
-**Versión:** `1.1.0`  
-**Significado:** día operativo N=1 desde el baseline `1.0.0` (2026-09-29). Semver `1.N.0` con `N = (fecha - 2026-09-29).days`.
+**Versión:** `26.09.30`  
+**Significado:** release del día 2026-09-30 (Europe/Madrid). La versión es esa fecha en `YY.MM.DD`.
 
 ## Contenido
 
 | Artefacto | Ruta |
 |-----------|------|
-| Grafo JSON-LD del día | `releases/1.1.0/graph.jsonld` |
+| Grafo JSON-LD del día | `releases/26.09.30/graph.jsonld` |
 | Digest diario | `content/digests/daily/2026/2026-09-30.md` |
 | Eventos | `events/2026-09-30/` |
 | Schemas | `schemas/` |
@@ -31,19 +31,20 @@ Grafos emitidos por `scripts/build_release.py`:
 | Pieza | IRI |
 |-------|-----|
 | Prefijo `sota` | `https://legalnews.686f6c61.dev/ns#` |
-| `@id` de la release | `https://github.com/686f6c61/News-LegalTech/releases/1.1.0` |
+| `@id` de la release | `https://github.com/686f6c61/News-LegalTech/releases/26.09.30` |
 | `@id` de evento | `https://github.com/686f6c61/News-LegalTech/events/<evt-id>` |
 | `@id` de entidad | `https://github.com/686f6c61/News-LegalTech/entities/<ent-id>` |
-| Descarga | `https://github.com/686f6c61/News-LegalTech/releases/download/1.1.0/graph.jsonld` |
+| Descarga | `https://github.com/686f6c61/News-LegalTech/releases/download/26.09.30/graph.jsonld` |
 
-El repositorio público es la fuente de verdad de los datos abiertos, así que los `@id` de recursos viven en `github.com/686f6c61/News-LegalTech`. El vocabulario `sota:` usa el host de la landing (`legalnews.686f6c61.dev`) para que los términos no dependan de un blob de git. `releases/1.0.0/` conserva `https://legaltech-sota.local/` y no se reescribe.
+El repositorio público es la fuente de verdad de los datos abiertos, así que los `@id` de recursos viven en `github.com/686f6c61/News-LegalTech`. El vocabulario `sota:` usa el host de la landing (`legalnews.686f6c61.dev`) para que los términos no dependan de un blob de git. `releases/26.09.29/` conserva `https://legaltech-sota.local/` y no se reescribe, salvo las referencias de versión.
 
 ## Versionado
 
-- `1.0.0` = 2026-09-29 (baseline, primer día).
-- Esta fecha fija `1.1.0` (N=1).
-- El script contrasta carpetas `releases/` y tags git antes de escribir.
-- Un día sin `events/` no genera release: el menor puede saltarse y la fecha sigue mapeando al mismo `1.N.0`.
+- La versión del día es la fecha Europe/Madrid en `YY.MM.DD` (año corto, mes y día).
+- Esta fecha fija `26.09.30`.
+- El script contrasta `releases/26.09.30/RELEASE.md` con la fecha del día antes de escribir.
+- Un día sin carpeta `events/YYYY-MM-DD/` no genera release y no renumera otros días.
+- El tag de GitHub Release es el mismo `YY.MM.DD`. `/releases/latest` apunta al último tag publicado.
 
 ## Notas
 
