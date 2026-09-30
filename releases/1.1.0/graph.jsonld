@@ -1,0 +1,300 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/1.1.0",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Observatorio LegalTech SOTA: Release 1.1.0",
+      "schema:version": "1.1.0",
+      "schema:datePublished": "2026-09-30",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-09-30, 6 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/1.1.0/graph.jsonld",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-tr-ross-3rd-circuit"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-aepd-ia-curriculums"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-morae-morai-spend"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-relativity-clair-aap"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-ascom-aicom"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-8am-mycase-mcp"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-tr-ross-3rd-circuit",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-09-30-tr-ross-3rd-circuit",
+      "schema:headline": "3rd Circuit afirma la victoria de Thomson Reuters frente a ROSS Intelligence: primer fallo federal de apelacion sobre fair use en entrenamiento de IA",
+      "schema:datePublished": "2026-09-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Tercer Circuito federal de EE.UU. confirmo el 29 de septiembre de 2026 la sentencia de Delaware que condeno a ROSS Intelligence por infringir headnotes de Westlaw y rechazo el fair use al usar ese material para entrenar un buscador juridico competidor. Es el primer pronunciamiento de un tribunal de apelacion federal sobre fair use en entrenamiento de IA. El dictamen de fondo esta por ahora sellado: el publico solo tiene el juicio de una pagina (\"AFFIRMED\") mientras las partes proponen redactados.",
+      "schema:articleBody": "El Tercer Circuito federal de EE.UU. confirmo el 29 de septiembre de 2026 la sentencia de Delaware que condeno a ROSS Intelligence por infringir headnotes de Westlaw y rechazo el fair use al usar ese material para entrenar un buscador juridico competidor. Es el primer pronunciamiento de un tribunal de apelacion federal sobre fair use en entrenamiento de IA. El dictamen de fondo esta por ahora sellado: el publico solo tiene el juicio de una pagina (\"AFFIRMED\") mientras las partes proponen redactados.\n\nPara editores juridicos y vendors de research, el mensaje de mercado es claro aunque el razonamiento aun no se lea: copiar expresion editorial protegida para montar un sustituto comercial de la plataforma de origen no se vende como innovacion. Quien entrena o licencia corpus para IA legal debe revisar cadena de titulos, headnotes y materiales derivados, y no asumir que \"intermedio\" o \"solo para entrenar\" basta. En ES/UE el caso es US-centric y no generative AI puro, pero el liston contractual (licencias de entrenamiento, no-competencia de producto, auditoria de datos) sube ya para RFP de research y para cualquier stack que mezcle Westlaw-like content con modelos propios o de terceros. Cuando se deselle el opinion, habra que leer merger, intermediate copying y mercado potencial de datos de entrenamiento con lupa.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 9.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera affirmance federal de apelacion sobre fair use en AI training en el dominio legal (Westlaw headnotes vs ROSS).",
+      "sota:whyNow": "Fallado y reportado el 29 Sep 2026 (Ambrogi/Law360/CNA); opinion sellada con redacciones en 10 dias. NEW vs digest 2026-09-29.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "copyright",
+        "fair-use",
+        "ai-training",
+        "legal-research",
+        "westlaw",
+        "ross-intelligence"
+      ],
+      "sota:summaryP1": "El Tercer Circuito federal de EE.UU. confirmo el 29 de septiembre de 2026 la sentencia de Delaware que condeno a ROSS Intelligence por infringir headnotes de Westlaw y rechazo el fair use al usar ese material para entrenar un buscador juridico competidor. Es el primer pronunciamiento de un tribunal de apelacion federal sobre fair use en entrenamiento de IA. El dictamen de fondo esta por ahora sellado: el publico solo tiene el juicio de una pagina (\"AFFIRMED\") mientras las partes proponen redactados.",
+      "sota:summaryP2": "Para editores juridicos y vendors de research, el mensaje de mercado es claro aunque el razonamiento aun no se lea: copiar expresion editorial protegida para montar un sustituto comercial de la plataforma de origen no se vende como innovacion. Quien entrena o licencia corpus para IA legal debe revisar cadena de titulos, headnotes y materiales derivados, y no asumir que \"intermedio\" o \"solo para entrenar\" basta. En ES/UE el caso es US-centric y no generative AI puro, pero el liston contractual (licencias de entrenamiento, no-competencia de producto, auditoria de datos) sube ya para RFP de research y para cualquier stack que mezcle Westlaw-like content con modelos propios o de terceros. Cuando se deselle el opinion, habra que leer merger, intermediate copying y mercado potencial de datos de entrenamiento con lupa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html",
+          "schema:name": "3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed",
+          "sota:sourceId": "src-lawsites-bob-ambrogi"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://copyrightlately.com/thomson-reuters-v-ross-third-circuit/",
+          "schema:name": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS",
+          "sota:sourceId": "src-lawnext"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.channelnewsasia.com/business/us-appeals-court-upholds-thomson-reuters-landmark-win-in-ai-training-lawsuit-6419436",
+          "schema:name": "US appeals court upholds Thomson Reuters' landmark win in AI training lawsuit",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-aepd-ia-curriculums",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-09-30-aepd-ia-curriculums",
+      "schema:headline": "AEPD: advertencia preventiva sobre IA para cribado y puntuacion de curriculums (EXP202600427)",
+      "schema:datePublished": "2026-09-23",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La AEPD advierte a una empresa que proyectaba implantar un sistema de IA para analizar curriculums, asignar puntuaciones y priorizar candidaturas en seleccion y movilidad interna. La herramienta aun no estaba en produccion en Espana, pero ya se habia comunicado al personal. La Agencia recuerda proteccion de datos desde el diseno, evaluacion de riesgos (y EIPD si hay alto riesgo), transparencia frente a candidatos y, sobre todo, que la \"intervencion humana\" solo cuenta si quien decide puede discrepar de la puntuacion del sistema sin limitarse a homologarla.",
+      "schema:articleBody": "La AEPD advierte a una empresa que proyectaba implantar un sistema de IA para analizar curriculums, asignar puntuaciones y priorizar candidaturas en seleccion y movilidad interna. La herramienta aun no estaba en produccion en Espana, pero ya se habia comunicado al personal. La Agencia recuerda proteccion de datos desde el diseno, evaluacion de riesgos (y EIPD si hay alto riesgo), transparencia frente a candidatos y, sobre todo, que la \"intervencion humana\" solo cuenta si quien decide puede discrepar de la puntuacion del sistema sin limitarse a homologarla.\n\nDistinto del marco agéntico de ayer: aqui el foco es scoring laboral y art. 22 RGPD en un caso concreto de HR tech. Si tu firma o tu cliente usa (o vende) IA de reclutamiento, hay que documentar funcionamiento, informar con claridad el papel del modelo y probar supervision efectiva antes del go-live. Para LegalTech y DPO, es senal operativa de que la AEPD usa la advertencia preventiva del art. 58.2.a) RGPD como herramienta temprana, no solo sancion posterior. Cruza cualquier piloto de screening con EIPD, minimizacion de datos del CV y criterios de no discriminacion; el \"humano al final\" de powerpoint no basta.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 8.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera advertencia preventiva AEPD muy visible sobre IA de seleccion de personal; criterios accionables de transparencia y human oversight.",
+      "sota:whyNow": "Nota AEPD 23 Sep; amplificacion Iberley/El Economista 29 Sep. NO estaba en el digest 2026-09-29 (solo V1.2 agentica). NEW.",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "rgpd",
+        "ia-rrhh",
+        "seleccion",
+        "art-22",
+        "eipd",
+        "transparencia",
+        "aepd"
+      ],
+      "sota:summaryP1": "La AEPD advierte a una empresa que proyectaba implantar un sistema de IA para analizar curriculums, asignar puntuaciones y priorizar candidaturas en seleccion y movilidad interna. La herramienta aun no estaba en produccion en Espana, pero ya se habia comunicado al personal. La Agencia recuerda proteccion de datos desde el diseno, evaluacion de riesgos (y EIPD si hay alto riesgo), transparencia frente a candidatos y, sobre todo, que la \"intervencion humana\" solo cuenta si quien decide puede discrepar de la puntuacion del sistema sin limitarse a homologarla.",
+      "sota:summaryP2": "Distinto del marco agéntico de ayer: aqui el foco es scoring laboral y art. 22 RGPD en un caso concreto de HR tech. Si tu firma o tu cliente usa (o vende) IA de reclutamiento, hay que documentar funcionamiento, informar con claridad el papel del modelo y probar supervision efectiva antes del go-live. Para LegalTech y DPO, es senal operativa de que la AEPD usa la advertencia preventiva del art. 58.2.a) RGPD como herramienta temprana, no solo sancion posterior. Cruza cualquier piloto de screening con EIPD, minimizacion de datos del CV y criterios de no discriminacion; el \"humano al final\" de powerpoint no basta.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums",
+          "schema:name": "La Agencia recuerda las garantias para utilizar IA en el analisis de curriculums",
+          "sota:sourceId": "src-aepd"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.iberley.es/noticias/la-aepd-fija-garantias-usar-ia-seleccion-curriculums-37028",
+          "schema:name": "La AEPD fija garantias para usar IA en la seleccion de curriculums",
+          "sota:sourceId": "src-aepd"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-morae-morai-spend",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-09-30-morae-morai-spend",
+      "schema:headline": "Morae lanza Legal Intelligence Platform con MorAI Spend Intelligence (IA + revision humana de facturas)",
+      "schema:datePublished": "2026-09-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Morae presento el 29 de septiembre de 2026 una plataforma de inteligencia legal que se sienta encima del ELM, matter management y billing sin reemplazar los sistemas de registro. El primer modulo, MorAI Spend Intelligence, combina IA entrenada en facturacion legal con revision experta de facturas (no solo muestreo) para decidir que pagar y hacia donde dirigir el gasto de outside counsel. En un despliegue temprano con una aseguradora global, afirman haber pasado del 8,5% al 18% de ahorro y haber eliminado 14.000 horas de revision manual.",
+      "schema:articleBody": "Morae presento el 29 de septiembre de 2026 una plataforma de inteligencia legal que se sienta encima del ELM, matter management y billing sin reemplazar los sistemas de registro. El primer modulo, MorAI Spend Intelligence, combina IA entrenada en facturacion legal con revision experta de facturas (no solo muestreo) para decidir que pagar y hacia donde dirigir el gasto de outside counsel. En un despliegue temprano con una aseguradora global, afirman haber pasado del 8,5% al 18% de ahorro y haber eliminado 14.000 horas de revision manual.\n\nPara general counsel con >10M USD/GBP de spend, el pitch es \"connect not replace\" y time-to-value en semanas, no un rip-and-replace. Exige pedir evidencia del hibrido IA+humano, reglas de billing guidelines y trazabilidad de cada excepcion, no un dashboard mas. Para despachos, sube la presion sobre staffing mix, realization y justificación de rate increases cuando el cliente tiene una capa de decision encima del e-billing. En ES/UE, cualquier cruce de facturas y datos de asuntos con IA sigue siendo tratamiento: contratos de encargado, minimizacion y ubicacion de datos antes del piloto.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Lanzamiento concreto de capa de decision spend con IA billing-trained + human last-mile; senal Legal Ops enterprise del 29 Sep.",
+      "sota:whyNow": "Exclusive/coverage Legal IT Insider + Law.com 29 Sep. NEW vs digest 2026-09-29.",
+      "sota:geo": [
+        "US",
+        "UK",
+        "Global"
+      ],
+      "sota:topics": [
+        "legal-ops",
+        "spend-management",
+        "billing",
+        "elm",
+        "ai-hybrid",
+        "outside-counsel"
+      ],
+      "sota:summaryP1": "Morae presento el 29 de septiembre de 2026 una plataforma de inteligencia legal que se sienta encima del ELM, matter management y billing sin reemplazar los sistemas de registro. El primer modulo, MorAI Spend Intelligence, combina IA entrenada en facturacion legal con revision experta de facturas (no solo muestreo) para decidir que pagar y hacia donde dirigir el gasto de outside counsel. En un despliegue temprano con una aseguradora global, afirman haber pasado del 8,5% al 18% de ahorro y haber eliminado 14.000 horas de revision manual.",
+      "sota:summaryP2": "Para general counsel con >10M USD/GBP de spend, el pitch es \"connect not replace\" y time-to-value en semanas, no un rip-and-replace. Exige pedir evidencia del hibrido IA+humano, reglas de billing guidelines y trazabilidad de cada excepcion, no un dashboard mas. Para despachos, sube la presion sobre staffing mix, realization y justificación de rate increases cuando el cliente tiene una capa de decision encima del e-billing. En ES/UE, cualquier cruce de facturas y datos de asuntos con IA sigue siendo tratamiento: contratos de encargado, minimizacion y ubicacion de datos antes del piloto.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/morae-unveils-legal-intelligence-platform-starting-with-ai-powered-spend-intelligence/",
+          "schema:name": "Morae unveils Legal Intelligence Platform, starting with AI-powered Spend Intelligence",
+          "sota:sourceId": "src-legal-it-insider"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/09/29/morae-launches-ai-billing-platform-morai-spend-intelligence/",
+          "schema:name": "Morae Launches AI Billing Platform MorAI Spend Intelligence",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-relativity-clair-aap",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-09-30-relativity-clair-aap",
+      "schema:headline": "Relativity claiR: KPMG y Big Law entran en Advanced Access (GA prevista inicios 2027)",
+      "schema:datePublished": "2026-09-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "En RelFest Chicago (29 Sep 2026), Relativity anuncio que KPMG (primer alliance partner) y las firmas Latham & Watkins, Ashurst Perkins Coie y Troutman Pepper Locke se suman al programa Advanced Access de claiR, la experiencia conversacional sobre el record de matter dentro de Relativity aiR. Se unen a A&O Shearman, Skadden, K&L Gates y Foley & Lardner. La disponibilidad general se apunta a principios de 2027, incluida en el pricing integrado de aiR sin coste adicional anunciado.",
+      "schema:articleBody": "En RelFest Chicago (29 Sep 2026), Relativity anuncio que KPMG (primer alliance partner) y las firmas Latham & Watkins, Ashurst Perkins Coie y Troutman Pepper Locke se suman al programa Advanced Access de claiR, la experiencia conversacional sobre el record de matter dentro de Relativity aiR. Se unen a A&O Shearman, Skadden, K&L Gates y Foley & Lardner. La disponibilidad general se apunta a principios de 2027, incluida en el pricing integrado de aiR sin coste adicional anunciado.\n\nEl movimiento importa menos por el branding del evento y mas por quien esta moldeando el producto: firma + ALSP/advisory juntos sobre el mismo record gobernado. Quien compra eDiscovery/litigation AI debe pedir gobernanza, citabilidad al record y workflow firma-asesor, no solo demos de chat. El mismo dia Relativity recuerda Assist, MCP ampliado y el plan de llevar aiR a Word via la adquisicion de Gavel: senal de que la batalla se libra en el documento y en el conector, no solo en el review set. En ES/UE, valida residencia, privilegio y cadenas de custodia antes de abrir terabytes de matter a un agente conversacional.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Expansion tangible del AAP de IA conversacional litigation con KPMG + AmLaw/Magic-circle-adjacent; GA 2027.",
+      "sota:whyNow": "Anuncio RelFest 29 Sep (eDiscovery Today / PR). NEW vs digest 2026-09-29.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "ediscovery",
+        "litigation-ai",
+        "conversational-ai",
+        "mcp",
+        "relativity",
+        "clair"
+      ],
+      "sota:summaryP1": "En RelFest Chicago (29 Sep 2026), Relativity anuncio que KPMG (primer alliance partner) y las firmas Latham & Watkins, Ashurst Perkins Coie y Troutman Pepper Locke se suman al programa Advanced Access de claiR, la experiencia conversacional sobre el record de matter dentro de Relativity aiR. Se unen a A&O Shearman, Skadden, K&L Gates y Foley & Lardner. La disponibilidad general se apunta a principios de 2027, incluida en el pricing integrado de aiR sin coste adicional anunciado.",
+      "sota:summaryP2": "El movimiento importa menos por el branding del evento y mas por quien esta moldeando el producto: firma + ALSP/advisory juntos sobre el mismo record gobernado. Quien compra eDiscovery/litigation AI debe pedir gobernanza, citabilidad al record y workflow firma-asesor, no solo demos de chat. El mismo dia Relativity recuerda Assist, MCP ampliado y el plan de llevar aiR a Word via la adquisicion de Gavel: senal de que la batalla se libra en el documento y en el conector, no solo en el review set. En ES/UE, valida residencia, privilegio y cadenas de custodia antes de abrir terabytes de matter a un agente conversacional.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://ediscoverytoday.com/2026/09/29/at-relfest-chicago-relativity-announces-kpmg-and-three-global-law-firms-to-join-relativity-clair-adva",
+          "schema:name": "At RelFest Chicago, Relativity Announces KPMG and Three Global Law Firms to Join Relativity claiR Advanced Access Program",
+          "sota:sourceId": "src-ediscovery-today"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-ascom-aicom",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-09-30-ascom-aicom",
+      "schema:headline": "ASCOM lanza AICOM: certificacion profesional de Compliance en Inteligencia Artificial (EU AI Act)",
+      "schema:datePublished": "2026-09-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Asociacion Espanola de Compliance presento el 29 de septiembre de 2026 AICOM, una certificacion para acreditar a profesionales que supervisan desarrollo y uso de sistemas de IA. Combina EU AI Act y normas conexas con metodologia de Compliance, materiales en castellano e ingles, y actualizacion continua bajo comite academico. El marco llega cuando, segun datos de la presentacion, el 88% de las organizaciones ya usa IA y un 50% estaria implementando agentes.",
+      "schema:articleBody": "La Asociacion Espanola de Compliance presento el 29 de septiembre de 2026 AICOM, una certificacion para acreditar a profesionales que supervisan desarrollo y uso de sistemas de IA. Combina EU AI Act y normas conexas con metodologia de Compliance, materiales en castellano e ingles, y actualizacion continua bajo comite academico. El marco llega cuando, segun datos de la presentacion, el 88% de las organizaciones ya usa IA y un 50% estaria implementando agentes.\n\nNo es un producto vendor: es senal de profesionalizacion del control. Para despachos y in-house ES, anticipa que clientes y auditores pediran quien gobierna la IA con criterio acreditado, no solo un curso generico de prompting. Para quien vende LegalTech o servicios de AI governance, el comprador tendra un lenguaje comun (riesgo alto, transparencia, supervision) alineado con el AI Act. Util junto a la advertencia AEPD de curriculums: el mercado espanol esta pasando de \"adoptar IA\" a \"acreditar quien la controla\".",
+      "sota:type": "standards",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera certificacion ASCOM centrada en Compliance+IA en ventana; puente AI Act / governance profesional ES.",
+      "sota:whyNow": "Presentacion cubierta por Lawyerpress 29 Sep. NEW vs digest 2026-09-29.",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "compliance",
+        "ai-act",
+        "gobernanza",
+        "certificacion",
+        "ascom",
+        "agents"
+      ],
+      "sota:summaryP1": "La Asociacion Espanola de Compliance presento el 29 de septiembre de 2026 AICOM, una certificacion para acreditar a profesionales que supervisan desarrollo y uso de sistemas de IA. Combina EU AI Act y normas conexas con metodologia de Compliance, materiales en castellano e ingles, y actualizacion continua bajo comite academico. El marco llega cuando, segun datos de la presentacion, el 88% de las organizaciones ya usa IA y un 50% estaria implementando agentes.",
+      "sota:summaryP2": "No es un producto vendor: es senal de profesionalizacion del control. Para despachos y in-house ES, anticipa que clientes y auditores pediran quien gobierna la IA con criterio acreditado, no solo un curso generico de prompting. Para quien vende LegalTech o servicios de AI governance, el comprador tendra un lenguaje comun (riesgo alto, transparencia, supervision) alineado con el AI Act. Util junto a la advertencia AEPD de curriculums: el mercado espanol esta pasando de \"adoptar IA\" a \"acreditar quien la controla\".",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawyerpress.com/2026/09/29/ascom-lanza-aicom-para-acreditar-a-los-profesionales-responsables-del-compliance-en-inteligencia-arti",
+          "schema:name": "ASCOM lanza AICOM para acreditar a los profesionales responsables del Compliance en Inteligencia Artificial",
+          "sota:sourceId": "src-lawyerpress-news"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-8am-mycase-mcp",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-09-30-8am-mycase-mcp",
+      "schema:headline": "8am MyCase lanza conector MCP oficial para Claude (73 acciones) e IQ Firm Agent / Draft en roadmap",
+      "schema:datePublished": "2026-09-23",
+      "schema:inLanguage": "es",
+      "schema:abstract": "En su conferencia Kaleidoscope (23 Sep 2026), 8am anuncio el primer conector Claude MCP construido especificamente para practice management: 73 acciones de lectura sobre cases, clients, documents, billing e intake dentro de MyCase. Mas de 60 firmas (mayoria <=5 abogados) ya lo usaban en preview. En paralelo presento IQ Firm Agent (consultas cross-firm; beta Oct, GA Dic) e IQ Draft (plantillas y documentos poblados desde datos del matter), ademas de Smart Spend Intelligence y 8am Capital via LawPay.",
+      "schema:articleBody": "En su conferencia Kaleidoscope (23 Sep 2026), 8am anuncio el primer conector Claude MCP construido especificamente para practice management: 73 acciones de lectura sobre cases, clients, documents, billing e intake dentro de MyCase. Mas de 60 firmas (mayoria <=5 abogados) ya lo usaban en preview. En paralelo presento IQ Firm Agent (consultas cross-firm; beta Oct, GA Dic) e IQ Draft (plantillas y documentos poblados desde datos del matter), ademas de Smart Spend Intelligence y 8am Capital via LawPay.\n\nTras Astra for Law y el MCP de orquestacion (Mitratech/BotDojo en el digest de ayer), el patron se confirma: el sistema de registro del despacho se abre al LLM del cliente por conector tipado, no solo por chat embebido. Para small/mid law, baja la friccion de sacar datos a Claude; exige Tier correcto, politicas de que sale del DMS y claridad de que el MCP es read-only oficial. Para vendors ES de gestion, el liston competitivo es MCP + agente nativo con citas al expediente. No reincluir el ruido financiero (Capital) como SOTA: la senal es el conector y el agent layer sobre el matter data.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "MCP oficial Claude-for-PMS concreto (73 actions) + agent roadmap; pieza del stack agentic post-Astra.",
+      "sota:whyNow": "Cubierto por Ambrogi 23 Sep; ausente del PASS de 2026-09-29. NEW missed high-signal.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "mcp",
+        "practice-management",
+        "claude",
+        "agents",
+        "mycase",
+        "small-law"
+      ],
+      "sota:summaryP1": "En su conferencia Kaleidoscope (23 Sep 2026), 8am anuncio el primer conector Claude MCP construido especificamente para practice management: 73 acciones de lectura sobre cases, clients, documents, billing e intake dentro de MyCase. Mas de 60 firmas (mayoria <=5 abogados) ya lo usaban en preview. En paralelo presento IQ Firm Agent (consultas cross-firm; beta Oct, GA Dic) e IQ Draft (plantillas y documentos poblados desde datos del matter), ademas de Smart Spend Intelligence y 8am Capital via LawPay.",
+      "sota:summaryP2": "Tras Astra for Law y el MCP de orquestacion (Mitratech/BotDojo en el digest de ayer), el patron se confirma: el sistema de registro del despacho se abre al LLM del cliente por conector tipado, no solo por chat embebido. Para small/mid law, baja la friccion de sacar datos a Claude; exige Tier correcto, politicas de que sale del DMS y claridad de que el MCP es read-only oficial. Para vendors ES de gestion, el liston competitivo es MCP + agente nativo con citas al expediente. No reincluir el ruido financiero (Capital) como SOTA: la senal es el conector y el agent layer sobre el matter data.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
+          "schema:name": "At Its User Conference in Las Vegas, 8am Announces MCP Integration and New AI Tools for MyCase",
+          "sota:sourceId": "src-lawnext"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aepd"
+    }
+  ]
+}

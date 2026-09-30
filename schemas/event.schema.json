@@ -38,6 +38,8 @@
         "opinion",
         "event",
         "case_law",
+        "litigation",
+        "standards",
         "other"
       ]
     },

@@ -1,6 +1,7 @@
 # Full-radar events index
 scan_id: full-radar-2026-09-30
 date: '2026-09-30'
+release: 1.1.0
 count: 6
 ai_share: 1.0
 dedup_against: full-radar-2026-09-29 PASS (12 events) + landing archive 2026-09-29

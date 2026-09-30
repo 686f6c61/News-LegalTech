@@ -2,53 +2,182 @@ name: daily-observatorio
 
 on:
   schedule:
-    # 06:17 Europe/Madrid ≈ 04:17 UTC (winter) / 05:17? Use fixed UTC; document in README
+    # 05:17 UTC. En septiembre (CEST, UTC+2) son las 07:17 Europe/Madrid.
+    # El cron de GitHub es UTC; la fecha editorial se calcula con TZ=Europe/Madrid.
     - cron: "17 5 * * *"
   workflow_dispatch:
     inputs:
+      date:
+        description: "Fecha editorial Europe/Madrid (YYYY-MM-DD). Vacio = dias con events/ aun sin carpeta de release."
+        required: false
+        type: string
       dry_run:
-        description: "Build artifacts without creating a GitHub Release"
+        description: "Construye artefactos sin commit ni GitHub Release"
         type: boolean
-        default: true
+        default: false
+      publish:
+        description: "commit-main hace push a main; pull-request abre un PR"
+        type: choice
+        options:
+          - commit-main
+          - pull-request
+        default: commit-main
+  pull_request:
 
 permissions:
   contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-observatorio-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  release:
+  check:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          fetch-tags: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Placeholder scan + digest build
-        id: build
-        env:
-          DRY_RUN: ${{ github.event.inputs.dry_run || 'true' }}
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Unit tests
+        run: python scripts/test_build_release.py
+
+      - name: Los dias con eventos tienen carpeta de release
         run: |
           set -euo pipefail
-          DATE=$(date -u +%F)
-          echo "date=$DATE" >> "$GITHUB_OUTPUT"
-          echo "Observatorio LegalTech SOTA — skeleton CI ($DATE)"
-          echo "TODO: fetch sources/catalog.yaml tiers=core|watch"
-          echo "TODO: write events/ and content/digests/daily/"
-          echo "TODO: emit releases/<version>/graph.jsonld"
-          python scripts/build_digest.py --help || true
-          if [ ! -f content/digests/daily/2026/2026-09-29.md ]; then
-            echo "Missing day-1 digest fixture" >&2
+          pending="$(python scripts/build_release.py --list-pending)"
+          if [ -n "$pending" ]; then
+            echo "Faltan releases para:"
+            echo "$pending"
             exit 1
           fi
-          echo "Fixture day-1 digest present. Dry skeleton OK."
 
-      - name: Create GitHub Release (disabled until scan is live)
-        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run == 'false' }}
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: El arbol coincide con el script
+        run: python scripts/build_release.py --check-published
+
+  release:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid
+      GH_TOKEN: ${{ github.token }}
+      PUBLISH_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.publish || 'commit-main' }}
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+      INPUT_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.date || '' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Build releases from events/
+        id: build
         run: |
-          echo "Release step reserved for when daily scan is production-ready."
-          echo "Would tag and attach releases/*/graph.jsonld"
+          set -euo pipefail
+          args=()
+          if [ "$DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          if [ -n "${INPUT_DATE}" ]; then
+            python scripts/build_release.py --date "${INPUT_DATE}" "${args[@]}"
+          else
+            python scripts/build_release.py --pending "${args[@]}"
+            if [ "$DRY_RUN" != "true" ]; then
+              pending="$(python scripts/build_release.py --list-pending)"
+              if [ -n "$pending" ]; then
+                echo "Quedaron dias sin empaquetar:"
+                printf '%s\n' "$pending"
+                exit 1
+              fi
+            fi
+          fi
+
+      - name: Commit release tree
+        id: commit
+        if: env.DRY_RUN != 'true'
+        run: |
+          set -euo pipefail
+          git config user.name "686f6c61"
+          git config user.email "686f6c61@users.noreply.github.com"
+          git add -- releases content/digests digests/daily events
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios que commitear."
+            exit 0
+          fi
+          versions="$(git diff --cached --name-only | sed -n 's|^releases/\([^/]*\)/.*|\1|p' | sort -u | paste -sd, -)"
+          if [ -z "$versions" ]; then
+            versions="metadata"
+          fi
+          git commit -m "chore(release): publica ${versions}"
+          echo "versions=${versions}" >> "$GITHUB_OUTPUT"
+          if [ "$PUBLISH_MODE" = "pull-request" ]; then
+            branch="release/daily-$(TZ=Europe/Madrid date +%F)"
+            git checkout -B "$branch"
+            git push -u origin HEAD || git push --force-with-lease -u origin HEAD
+            gh pr create --base main --head "$branch" \
+              --title "chore(release): publica ${versions}" \
+              --body "Empaqueta events/ ya escritos en releases/<1.N.0>/. El scan editorial no forma parte de este PR."
+            echo "pushed=pr" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if git push origin HEAD:main; then
+            echo "pushed=main" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          branch="release/daily-$(TZ=Europe/Madrid date +%F-%H%M)"
+          git checkout -B "$branch"
+          git push -u origin HEAD
+          gh pr create --base main --head "$branch" \
+            --title "chore(release): publica ${versions}" \
+            --body "Push a main rechazado. El arbol de la release queda en este PR."
+          echo "pushed=pr" >> "$GITHUB_OUTPUT"
+
+      - name: Create GitHub Releases
+        if: env.DRY_RUN != 'true' && env.PUBLISH_MODE == 'commit-main' && steps.commit.outputs.pushed != 'pr'
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          target="$(git rev-parse HEAD)"
+          for dir in releases/*/; do
+            version="$(basename "$dir")"
+            graph="${dir}graph.jsonld"
+            notes="${dir}RELEASE.md"
+            if [ ! -f "$graph" ] || [ ! -f "$notes" ]; then
+              continue
+            fi
+            if gh release view "$version" >/dev/null 2>&1; then
+              echo "Release ${version} ya existe."
+              continue
+            fi
+            title="$(sed -n 's/^# //p' "$notes" | head -n 1)"
+            if [ -z "$title" ]; then
+              title="Observatorio LegalTech SOTA ${version}"
+            fi
+            gh release create "$version" \
+              "${graph}#graph.jsonld" \
+              --target "$target" \
+              --title "$title" \
+              --notes-file "$notes"
+          done
