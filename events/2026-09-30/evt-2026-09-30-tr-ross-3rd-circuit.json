@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-09-30-tr-ross-3rd-circuit",
+  "date": "2026-09-29",
+  "type": "litigation",
+  "sota_score": 9.2,
+  "ai_legaltech": true,
+  "title": "3rd Circuit afirma la victoria de Thomson Reuters frente a ROSS Intelligence: primer fallo federal de apelacion sobre fair use en entrenamiento de IA",
+  "summary_p1": "El Tercer Circuito federal de EE.UU. confirmo el 29 de septiembre de 2026 la sentencia de Delaware que condeno a ROSS Intelligence por infringir headnotes de Westlaw y rechazo el fair use al usar ese material para entrenar un buscador juridico competidor. Es el primer pronunciamiento de un tribunal de apelacion federal sobre fair use en entrenamiento de IA. El dictamen de fondo esta por ahora sellado: el publico solo tiene el juicio de una pagina (\"AFFIRMED\") mientras las partes proponen redactados.",
+  "summary_p2": "Para editores juridicos y vendors de research, el mensaje de mercado es claro aunque el razonamiento aun no se lea: copiar expresion editorial protegida para montar un sustituto comercial de la plataforma de origen no se vende como innovacion. Quien entrena o licencia corpus para IA legal debe revisar cadena de titulos, headnotes y materiales derivados, y no asumir que \"intermedio\" o \"solo para entrenar\" basta. En ES/UE el caso es US-centric y no generative AI puro, pero el liston contractual (licencias de entrenamiento, no-competencia de producto, auditoria de datos) sube ya para RFP de research y para cualquier stack que mezcle Westlaw-like content con modelos propios o de terceros. Cuando se deselle el opinion, habra que leer merger, intermediate copying y mercado potencial de datos de entrenamiento con lupa.",
+  "why_sota": "Primera affirmance federal de apelacion sobre fair use en AI training en el dominio legal (Westlaw headnotes vs ROSS).",
+  "why_now": "Fallado y reportado el 29 Sep 2026 (Ambrogi/Law360/CNA); opinion sellada con redacciones en 10 dias. NEW vs digest 2026-09-29.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "copyright",
+    "fair-use",
+    "ai-training",
+    "legal-research",
+    "westlaw",
+    "ross-intelligence"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawsites-bob-ambrogi",
+      "url": "https://www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html",
+      "cited_title": "3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed",
+      "accessed": "2026-09-30"
+    },
+    {
+      "source_id": "src-lawnext",
+      "url": "https://copyrightlately.com/thomson-reuters-v-ross-third-circuit/",
+      "cited_title": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS",
+      "accessed": "2026-09-30"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.channelnewsasia.com/business/us-appeals-court-upholds-thomson-reuters-landmark-win-in-ai-training-lawsuit-6419436",
+      "cited_title": "US appeals court upholds Thomson Reuters' landmark win in AI training lawsuit",
+      "accessed": "2026-09-30"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "draft"
+}

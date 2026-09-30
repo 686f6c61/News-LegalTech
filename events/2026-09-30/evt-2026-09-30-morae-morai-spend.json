@@ -1,0 +1,42 @@
+{
+  "id": "evt-2026-09-30-morae-morai-spend",
+  "date": "2026-09-29",
+  "type": "product",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Morae lanza Legal Intelligence Platform con MorAI Spend Intelligence (IA + revision humana de facturas)",
+  "summary_p1": "Morae presento el 29 de septiembre de 2026 una plataforma de inteligencia legal que se sienta encima del ELM, matter management y billing sin reemplazar los sistemas de registro. El primer modulo, MorAI Spend Intelligence, combina IA entrenada en facturacion legal con revision experta de facturas (no solo muestreo) para decidir que pagar y hacia donde dirigir el gasto de outside counsel. En un despliegue temprano con una aseguradora global, afirman haber pasado del 8,5% al 18% de ahorro y haber eliminado 14.000 horas de revision manual.",
+  "summary_p2": "Para general counsel con >10M USD/GBP de spend, el pitch es \"connect not replace\" y time-to-value en semanas, no un rip-and-replace. Exige pedir evidencia del hibrido IA+humano, reglas de billing guidelines y trazabilidad de cada excepcion, no un dashboard mas. Para despachos, sube la presion sobre staffing mix, realization y justificación de rate increases cuando el cliente tiene una capa de decision encima del e-billing. En ES/UE, cualquier cruce de facturas y datos de asuntos con IA sigue siendo tratamiento: contratos de encargado, minimizacion y ubicacion de datos antes del piloto.",
+  "why_sota": "Lanzamiento concreto de capa de decision spend con IA billing-trained + human last-mile; senal Legal Ops enterprise del 29 Sep.",
+  "why_now": "Exclusive/coverage Legal IT Insider + Law.com 29 Sep. NEW vs digest 2026-09-29.",
+  "geo": [
+    "US",
+    "UK",
+    "Global"
+  ],
+  "topics": [
+    "legal-ops",
+    "spend-management",
+    "billing",
+    "elm",
+    "ai-hybrid",
+    "outside-counsel"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/morae-unveils-legal-intelligence-platform-starting-with-ai-powered-spend-intelligence/",
+      "cited_title": "Morae unveils Legal Intelligence Platform, starting with AI-powered Spend Intelligence",
+      "accessed": "2026-09-30"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/09/29/morae-launches-ai-billing-platform-morai-spend-intelligence/",
+      "cited_title": "Morae Launches AI Billing Platform MorAI Spend Intelligence",
+      "accessed": "2026-09-30"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "draft"
+}
