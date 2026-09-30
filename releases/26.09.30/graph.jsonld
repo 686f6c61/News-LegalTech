@@ -6,17 +6,17 @@
   },
   "@graph": [
     {
-      "@id": "https://github.com/686f6c61/News-LegalTech/releases/1.1.0",
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/26.09.30",
       "@type": [
         "schema:Dataset",
         "schema:CreativeWork"
       ],
-      "schema:name": "Observatorio LegalTech SOTA: Release 1.1.0",
-      "schema:version": "1.1.0",
+      "schema:name": "Radar LegalTech · 26.09.30",
+      "schema:version": "26.09.30",
       "schema:datePublished": "2026-09-30",
       "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-09-30, 6 eventos).",
       "schema:inLanguage": "es",
-      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/1.1.0/graph.jsonld",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/26.09.30/graph.jsonld",
       "schema:hasPart": [
         {
           "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-09-30-tr-ross-3rd-circuit"

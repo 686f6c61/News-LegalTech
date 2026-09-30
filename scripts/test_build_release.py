@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Pruebas del versionado 1.N.0 y del grafo publico."""
+"""Pruebas del versionado YY.MM.DD y del grafo publico."""
 
 from __future__ import annotations
 
@@ -16,32 +16,31 @@ import build_release as br
 
 
 class VersionTests(unittest.TestCase):
-    def test_baseline_and_following_days(self) -> None:
-        self.assertEqual(br.version_for_date(date(2026, 9, 29)), "1.0.0")
-        self.assertEqual(br.version_for_date(date(2026, 9, 30)), "1.1.0")
-        self.assertEqual(br.version_for_date(date(2026, 10, 1)), "1.2.0")
-        self.assertEqual((date(2026, 10, 1) - br.BASELINE_DATE).days, 2)
+    def test_calendar_versions(self) -> None:
+        self.assertEqual(br.version_for_date(date(2026, 9, 29)), "26.09.29")
+        self.assertEqual(br.version_for_date(date(2026, 9, 30)), "26.09.30")
+        self.assertEqual(br.version_for_date(date(2026, 10, 1)), "26.10.01")
+        self.assertEqual(br.version_for_date(date(2026, 9, 28)), "26.09.28")
+        self.assertEqual(br.parse_calendar_version("26.10.01"), date(2026, 10, 1))
+        self.assertEqual(br.parse_calendar_version("v26.09.30"), date(2026, 9, 30))
+        self.assertIsNone(br.parse_calendar_version("1.1.0"))
+        self.assertIsNone(br.parse_calendar_version("26.10.1"))
+        self.assertIsNone(br.parse_calendar_version("26.13.01"))
 
-    def test_before_baseline_rejected(self) -> None:
-        with self.assertRaises(br.ReleaseError):
-            br.version_for_date(date(2026, 9, 28))
-
-    def test_date_wins_over_dense_gap(self) -> None:
+    def test_missing_day_does_not_renumber(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            (root / "releases" / "1.0.0").mkdir(parents=True)
-            (root / "releases" / "1.0.0" / "RELEASE.md").write_text(
+            (root / "releases" / "26.09.29").mkdir(parents=True)
+            (root / "releases" / "26.09.29" / "RELEASE.md").write_text(
                 "**Fecha:** 2026-09-29 (Europe/Madrid)\n",
                 encoding="utf-8",
             )
-            # Hueco: no existe 1.1.0. El 2026-10-01 sigue siendo 1.2.0.
-            self.assertEqual(br.next_folder_version(root), "1.1.0")
-            self.assertEqual(br.resolve_version(root, date(2026, 10, 1)), "1.2.0")
+            self.assertEqual(br.resolve_version(root, date(2026, 10, 1)), "26.10.01")
 
     def test_version_collision_with_other_date(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            notes = root / "releases" / "1.1.0"
+            notes = root / "releases" / "26.09.30"
             notes.mkdir(parents=True)
             (notes / "RELEASE.md").write_text(
                 "**Fecha:** 2026-10-02 (Europe/Madrid)\n",
@@ -77,21 +76,22 @@ class GraphTests(unittest.TestCase):
             "entities": ["ent-aepd"],
             "lang": "es",
         }
-        document = br.assemble_graph(date(2026, 9, 30), "1.1.0", [event])
+        document = br.assemble_graph(date(2026, 9, 30), "26.09.30", [event])
         text = br.dump_jsonld(document)
         self.assertNotIn(br.LEGACY_NS, text)
         self.assertIn(br.SOTA_NS, text)
         self.assertEqual(document["@context"]["sota"], br.SOTA_NS)
         dataset = document["@graph"][0]
-        self.assertEqual(dataset["schema:version"], "1.1.0")
+        self.assertEqual(dataset["schema:version"], "26.09.30")
+        self.assertEqual(dataset["schema:name"], "Radar LegalTech · 26.09.30")
         self.assertEqual(dataset["schema:datePublished"], "2026-09-30")
         self.assertEqual(
             dataset["@id"],
-            "https://github.com/686f6c61/News-LegalTech/releases/1.1.0",
+            "https://github.com/686f6c61/News-LegalTech/releases/26.09.30",
         )
         self.assertEqual(
             dataset["schema:url"],
-            "https://github.com/686f6c61/News-LegalTech/releases/download/1.1.0/graph.jsonld",
+            "https://github.com/686f6c61/News-LegalTech/releases/download/26.09.30/graph.jsonld",
         )
         article = document["@graph"][1]
         self.assertEqual(article["sota:type"], "litigation")
@@ -109,8 +109,8 @@ class GraphTests(unittest.TestCase):
             (root / "events").mkdir()
             result = br.build_day(root, date(2026, 10, 1), dry_run=True)
             self.assertTrue(result.skipped)
-            self.assertEqual(result.version, "1.2.0")
-            self.assertFalse((root / "releases" / "1.2.0").exists())
+            self.assertEqual(result.version, "26.10.01")
+            self.assertFalse((root / "releases" / "26.10.01").exists())
 
     def test_roundtrip_write_is_idempotent(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -139,23 +139,26 @@ class GraphTests(unittest.TestCase):
                 json.dumps(event),
                 encoding="utf-8",
             )
-            (day_dir / "index.yaml").write_text(
-                "date: '2026-09-30'\nevents:\n- id: evt-2026-09-30-demo\n",
-                encoding="utf-8",
-            )
             digest = root / "content" / "digests" / "daily" / "2026" / "2026-09-30.md"
             digest.parent.mkdir(parents=True)
             digest.write_text(
-                '---\ntitle: "Digest"\ndate: 2026-09-30\nrelease: "full-radar-local"\n---\n\nCuerpo\n',
+                '---\ntitle: "Digest"\ndate: 2026-09-30\nrelease: "1.1.0"\n---\n\nCuerpo\n',
+                encoding="utf-8",
+            )
+            (day_dir / "index.yaml").write_text(
+                "date: '2026-09-30'\nrelease: 1.1.0\nevents:\n- id: evt-2026-09-30-demo\n",
                 encoding="utf-8",
             )
             first = br.build_day(root, date(2026, 9, 30))
             self.assertTrue(first.changed)
-            self.assertEqual(first.version, "1.1.0")
-            graph = (root / "releases" / "1.1.0" / "graph.jsonld").read_text(encoding="utf-8")
+            self.assertEqual(first.version, "26.09.30")
+            graph = (root / "releases" / "26.09.30" / "graph.jsonld").read_text(encoding="utf-8")
             self.assertNotIn("legaltech-sota.local", graph)
-            self.assertIn('release: "1.1.0"', digest.read_text(encoding="utf-8"))
-            self.assertIn("release: 1.1.0", (day_dir / "index.yaml").read_text(encoding="utf-8"))
+            self.assertIn('release: "26.09.30"', digest.read_text(encoding="utf-8"))
+            self.assertIn("release: 26.09.30", (day_dir / "index.yaml").read_text(encoding="utf-8"))
+            notes = (root / "releases" / "26.09.30" / "RELEASE.md").read_text(encoding="utf-8")
+            self.assertTrue(notes.startswith("# Radar LegalTech · 26.09.30\n"))
+            self.assertNotIn("1.N.0", notes)
             second = br.build_day(root, date(2026, 9, 30))
             self.assertFalse(second.changed)
             checked = br.build_day(root, date(2026, 9, 30), check=True)
@@ -167,8 +170,8 @@ class RepoTests(unittest.TestCase):
         events = br.load_day_events(br.ROOT, date(2026, 9, 30))
         self.assertEqual(len(events), 6)
         self.assertEqual(events[0]["id"], "evt-2026-09-30-tr-ross-3rd-circuit")
-        self.assertEqual(br.version_for_date(date(2026, 9, 30)), "1.1.0")
-        document = br.assemble_graph(date(2026, 9, 30), "1.1.0", events)
+        self.assertEqual(br.version_for_date(date(2026, 9, 30)), "26.09.30")
+        document = br.assemble_graph(date(2026, 9, 30), "26.09.30", events)
         self.assertEqual(len(document["@graph"][0]["schema:hasPart"]), 6)
         self.assertNotIn(br.LEGACY_NS, br.dump_jsonld(document))
 

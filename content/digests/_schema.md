@@ -7,7 +7,7 @@ Campos de frontmatter YAML (equivalente Zod / `defineCollection`):
 | `title` | `string` | sí | Título editorial del digest |
 | `date` | `date` (YYYY-MM-DD) | sí | Fecha del periodo (día / fin de semana / fin de quincena) |
 | `cadence` | `"daily" \| "weekly" \| "biweekly"` | sí | Cadencia de publicación |
-| `release` | `string` (semver) | sí | Release asociada, p. ej. `"1.0.0"` |
+| `release` | `string` (`YY.MM.DD`) | sí | Release asociada, p. ej. `"26.09.29"` |
 | `lang` | `string` | sí | Por defecto `"es"` |
 | `focus_ai_pct` | `number` (0-100) | no | % estimado de foco AI LegalTech |
 | `event_ids` | `string[]` | sí | IDs de eventos enlazados (`evt-YYYY-MM-DD-...`) |

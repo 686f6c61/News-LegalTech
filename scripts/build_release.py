@@ -7,25 +7,26 @@ ni hace el scan editorial: si la carpeta del dia no tiene piezas, no hay release
 
 Versionado
 ----------
-Baseline fijo: 2026-09-29 = ``1.0.0`` (primer dia operativo).
-Para una fecha Madrid ``D``, ``N = (D - 2026-09-29).days`` y la version es
-``1.N.0``. Asi 2026-09-30 es ``1.1.0`` y 2026-10-01 es ``1.2.0``.
+La version del dia es la fecha editorial Europe/Madrid en ``YY.MM.DD``
+(año de dos digitos, mes y dia con dos digitos). Asi 2026-09-29 es
+``26.09.29``, 2026-09-30 es ``26.09.30`` y 2026-10-01 es ``26.10.01``.
+El siglo asumido al leer una carpeta es 2000-2099.
 
-Un dia sin eventos no consume carpeta: el menor puede saltarse. La version
-sigue siendo funcion de la fecha, para que un backfill no renumere dias ya
-publicados. Carpetas ``releases/`` y tags git se leen para no pisar una
-version asignada a otra fecha.
+Un dia sin carpeta ``events/YYYY-MM-DD/`` no genera release y no renumera
+otros dias: la version sigue siendo la fecha. La carpeta ``releases/YY.MM.DD/``
+se contrasta con la fecha declarada en ``RELEASE.md`` para no pisar otra fecha.
 
-Namespace (grafos que escribe este script, desde 1.1.0)
--------------------------------------------------------
+Namespace (grafos que escribe este script)
+------------------------------------------
 - Vocabulario ``sota:`` -> ``https://legalnews.686f6c61.dev/ns#``
 - ``@id`` de release, evento y entidad bajo
   ``https://github.com/686f6c61/News-LegalTech/...``
 - Descarga del artefacto:
   ``https://github.com/686f6c61/News-LegalTech/releases/download/<version>/graph.jsonld``
 
-``releases/1.0.0/graph.jsonld`` conserva ``https://legaltech-sota.local/`` y
-este script no lo reescribe.
+``releases/26.09.29/graph.jsonld`` conserva ``https://legaltech-sota.local/``
+(salvo las referencias de version, ya en ``26.09.29``) y este script no lo
+reescribe.
 
 Uso
 ---
@@ -41,7 +42,6 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import subprocess
 import sys
 from dataclasses import dataclass, field
 from datetime import date, datetime
@@ -56,14 +56,15 @@ except ImportError:  # pragma: no cover - el workflow instala PyYAML
 ROOT = Path(__file__).resolve().parents[1]
 MADRID = ZoneInfo("Europe/Madrid")
 
-BASELINE_DATE = date(2026, 9, 29)
-BASELINE_VERSION = "1.0.0"
-
 REPO_HTML = "https://github.com/686f6c61/News-LegalTech"
 SOTA_NS = "https://legalnews.686f6c61.dev/ns#"
 LEGACY_NS = "https://legaltech-sota.local/"
+PUBLIC_TITLE = "Radar LegalTech"
 
-SEMVER_RE = re.compile(r"^v?(?P<major>\d+)\.(?P<minor>\d+)\.(?P<patch>\d+)$")
+CALENDAR_VERSION_RE = re.compile(
+    r"^v?(?P<yy>\d{2})\.(?P<mm>0[1-9]|1[0-2])\.(?P<dd>0[1-9]|[12]\d|3[01])$"
+)
+LEGACY_RELEASE_RE = re.compile(r"^v?1\.\d+\.0$")
 DATE_IN_NOTES_RE = re.compile(r"\*\*Fecha:\*\*\s*(\d{4}-\d{2}-\d{2})")
 RELEASE_LINE_RE = re.compile(r"(?m)^release:\s*(.+?)\s*$")
 FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
@@ -110,64 +111,23 @@ def parse_day(value: str) -> date:
 
 
 def version_for_date(day: date) -> str:
-    """``1.N.0`` con N = dias de calendario desde el baseline."""
-    delta = (day - BASELINE_DATE).days
-    if delta < 0:
-        raise ReleaseError(
-            f"{day.isoformat()} es anterior al baseline {BASELINE_DATE.isoformat()} ({BASELINE_VERSION})"
-        )
-    return f"1.{delta}.0"
+    """Fecha editorial Europe/Madrid como ``YY.MM.DD``."""
+    return f"{day.year % 100:02d}.{day.month:02d}.{day.day:02d}"
 
 
-def parse_semver(name: str) -> tuple[int, int, int] | None:
-    match = SEMVER_RE.match(name.strip())
+def parse_calendar_version(name: str) -> date | None:
+    """Lee ``YY.MM.DD`` (o ``vYY.MM.DD``) como fecha del siglo 2000-2099."""
+    match = CALENDAR_VERSION_RE.match(name.strip())
     if not match:
         return None
-    return int(match.group("major")), int(match.group("minor")), int(match.group("patch"))
-
-
-def git_tags(root: Path) -> list[str]:
     try:
-        out = subprocess.check_output(
-            ["git", "tag", "--list"],
-            cwd=root,
-            text=True,
-            stderr=subprocess.DEVNULL,
+        return date(
+            2000 + int(match.group("yy")),
+            int(match.group("mm")),
+            int(match.group("dd")),
         )
-    except (subprocess.CalledProcessError, FileNotFoundError):
-        return []
-    return [line.strip() for line in out.splitlines() if line.strip()]
-
-
-def existing_version_names(root: Path) -> list[str]:
-    names: list[str] = []
-    releases = root / "releases"
-    if releases.is_dir():
-        for path in sorted(releases.iterdir()):
-            if path.is_dir() and parse_semver(path.name):
-                names.append(path.name)
-    for tag in git_tags(root):
-        if parse_semver(tag):
-            names.append(tag[1:] if tag.startswith("v") else tag)
-    # Unicos, orden semver
-    unique = {parse_semver(name): name for name in names if parse_semver(name)}
-    ordered = []
-    for key in sorted(unique):
-        raw = unique[key]
-        ordered.append(raw if not raw.startswith("v") else raw[1:])
-    return ordered
-
-
-def next_folder_version(root: Path) -> str:
-    """Siguiente ``1.M.0`` si solo se miran carpetas y tags (hueco denso)."""
-    minors = []
-    for name in existing_version_names(root):
-        parsed = parse_semver(name)
-        if parsed and parsed[0] == 1 and parsed[2] == 0:
-            minors.append(parsed[1])
-    if not minors:
-        return BASELINE_VERSION
-    return f"1.{max(minors) + 1}.0"
+    except ValueError:
+        return None
 
 
 def notes_date(notes_path: Path) -> date | None:
@@ -186,32 +146,15 @@ def is_historical_graph(graph_path: Path) -> bool:
 
 
 def resolve_version(root: Path, day: date) -> str:
-    """Version que fija la fecha, contrastada con carpetas y tags."""
+    """``YY.MM.DD`` de la fecha, contrastada con ``RELEASE.md`` de esa carpeta."""
     version = version_for_date(day)
-    folder = root / "releases" / version
-    notes = folder / "RELEASE.md"
+    notes = root / "releases" / version / "RELEASE.md"
     recorded = notes_date(notes)
     if recorded is not None and recorded != day:
         raise ReleaseError(
             f"{version} ya esta asignada a {recorded.isoformat()} "
             f"({notes}). {day.isoformat()} no puede reutilizarla.",
             code=2,
-        )
-    tag_names = set(git_tags(root))
-    if version in tag_names or f"v{version}" in tag_names:
-        if recorded is not None and recorded != day:
-            raise ReleaseError(
-                f"El tag {version} existe y la carpeta apunta a otra fecha.",
-                code=2,
-            )
-    dense = next_folder_version(root)
-    if dense != version and not (folder / "graph.jsonld").exists():
-        print(
-            f"aviso: el hueco denso segun carpetas/tags seria {dense}; "
-            f"la fecha {day.isoformat()} fija {version} "
-            f"(N={(day - BASELINE_DATE).days} desde {BASELINE_DATE.isoformat()}). "
-            f"Se usa {version}.",
-            file=sys.stderr,
         )
     return version
 
@@ -396,8 +339,7 @@ def assemble_graph(day: date, version: str, events: list[dict]) -> dict:
                 seen.add(entity_id)
                 entity_ids.append(str(entity_id))
     entity_ids.sort()
-    n = (day - BASELINE_DATE).days
-    if n == 0:
+    if day == date(2026, 9, 29):
         description = (
             f"Primera release diaria del grafo Observatorio LegalTech SOTA "
             f"(día {day.isoformat()})."
@@ -410,7 +352,7 @@ def assemble_graph(day: date, version: str, events: list[dict]) -> dict:
     dataset = {
         "@id": resource_id("releases", version),
         "@type": ["schema:Dataset", "schema:CreativeWork"],
-        "schema:name": f"Observatorio LegalTech SOTA: Release {version}",
+        "schema:name": f"{PUBLIC_TITLE} · {version}",
         "schema:version": version,
         "schema:datePublished": day.isoformat(),
         "schema:description": description,
@@ -442,7 +384,6 @@ def _digest_paths(root: Path, day: date) -> list[Path]:
 
 
 def render_release_notes(day: date, version: str, events: list[dict], root: Path) -> str:
-    n = (day - BASELINE_DATE).days
     ai = sum(1 for event in events if event.get("ai_legaltech"))
     digest_lines = []
     canonical = root / "content" / "digests" / "daily" / f"{day.year}" / f"{day.isoformat()}.md"
@@ -465,16 +406,12 @@ def render_release_notes(day: date, version: str, events: list[dict], root: Path
             f"{index}. `{event['id']}` (sota {event['sota_score']}, {event['type']}): {title}"
         )
     events_block = "\n".join(event_lines) if event_lines else "(sin eventos)"
-    meaning = (
-        "primera release diaria del Observatorio."
-        if n == 0
-        else f"día operativo N={n} desde el baseline `{BASELINE_VERSION}` ({BASELINE_DATE.isoformat()})."
-    )
-    return f"""# Release {version}: Observatorio LegalTech SOTA
+    meaning = f"release del día {day.isoformat()} (Europe/Madrid)."
+    return f"""# {PUBLIC_TITLE} · {version}
 
 **Fecha:** {day.isoformat()} (Europe/Madrid)  
 **Versión:** `{version}`  
-**Significado:** {meaning} Semver `1.N.0` con `N = (fecha - {BASELINE_DATE.isoformat()}).days`.
+**Significado:** {meaning} La versión es esa fecha en `YY.MM.DD`.
 
 ## Contenido
 
@@ -500,14 +437,15 @@ Grafos emitidos por `scripts/build_release.py`:
 | `@id` de entidad | `{REPO_HTML}/entities/<ent-id>` |
 | Descarga | `{download_url(version)}` |
 
-El repositorio público es la fuente de verdad de los datos abiertos, así que los `@id` de recursos viven en `github.com/686f6c61/News-LegalTech`. El vocabulario `sota:` usa el host de la landing (`legalnews.686f6c61.dev`) para que los términos no dependan de un blob de git. `releases/1.0.0/` conserva `{LEGACY_NS}` y no se reescribe.
+El repositorio público es la fuente de verdad de los datos abiertos, así que los `@id` de recursos viven en `github.com/686f6c61/News-LegalTech`. El vocabulario `sota:` usa el host de la landing (`legalnews.686f6c61.dev`) para que los términos no dependan de un blob de git. `releases/26.09.29/` conserva `{LEGACY_NS}` y no se reescribe, salvo las referencias de versión.
 
 ## Versionado
 
-- `{BASELINE_VERSION}` = {BASELINE_DATE.isoformat()} (baseline, primer día).
-- Esta fecha fija `{version}` (N={n}).
-- El script contrasta carpetas `releases/` y tags git antes de escribir.
-- Un día sin `events/` no genera release: el menor puede saltarse y la fecha sigue mapeando al mismo `1.N.0`.
+- La versión del día es la fecha Europe/Madrid en `YY.MM.DD` (año corto, mes y día).
+- Esta fecha fija `{version}`.
+- El script contrasta `releases/{version}/RELEASE.md` con la fecha del día antes de escribir.
+- Un día sin carpeta `events/YYYY-MM-DD/` no genera release y no renumera otros días.
+- El tag de GitHub Release es el mismo `YY.MM.DD`. `/releases/latest` apunta al último tag publicado.
 
 ## Notas
 
@@ -522,6 +460,19 @@ def _strip_scalar(value: str) -> str:
     return value.strip().strip("'\"").strip()
 
 
+def _replace_release_stamp(current: str, version: str, force: bool, path: Path) -> bool:
+    """Decide si `release:` pasa a la versión de calendario del día."""
+    if current == version:
+        return False
+    if force or current.lower() in PLACEHOLDER_RELEASES or LEGACY_RELEASE_RE.match(current):
+        return True
+    print(
+        f"aviso: {path.as_posix()} ya tiene release: {current}; no se reescribe",
+        file=sys.stderr,
+    )
+    return False
+
+
 def stamp_frontmatter_release(path: Path, version: str, force: bool) -> bool:
     text = path.read_text(encoding="utf-8")
     if not text.startswith("---"):
@@ -534,13 +485,7 @@ def stamp_frontmatter_release(path: Path, version: str, force: bool) -> bool:
     replacement = f'release: "{version}"'
     if found:
         current = _strip_scalar(found.group(1))
-        if current == version:
-            return False
-        if current.lower() not in PLACEHOLDER_RELEASES and SEMVER_RE.match(current) and not force:
-            print(
-                f"aviso: {path.as_posix()} ya tiene release: {current}; no se reescribe",
-                file=sys.stderr,
-            )
+        if not _replace_release_stamp(current, version, force, path):
             return False
         frontmatter = RELEASE_LINE_RE.sub(replacement, frontmatter, count=1)
     else:
@@ -558,13 +503,7 @@ def stamp_index_release(path: Path, version: str, force: bool) -> bool:
     line = f"release: {version}"
     if found:
         current = _strip_scalar(found.group(1))
-        if current == version:
-            return False
-        if current.lower() not in PLACEHOLDER_RELEASES and SEMVER_RE.match(current) and not force:
-            print(
-                f"aviso: {path.as_posix()} ya tiene release: {current}; no se reescribe",
-                file=sys.stderr,
-            )
+        if not _replace_release_stamp(current, version, force, path):
             return False
         new_text = RELEASE_LINE_RE.sub(line, text, count=1)
     else:
@@ -717,13 +656,14 @@ def check_published(root: Path) -> list[BuildResult]:
         return []
     results: list[BuildResult] = []
     for path in sorted(releases.iterdir()):
-        if not path.is_dir() or not parse_semver(path.name):
+        if not path.is_dir() or parse_calendar_version(path.name) is None:
             continue
         day = notes_date(path / "RELEASE.md")
         if day is None:
             raise ReleaseError(f"{path.name}: RELEASE.md no declara **Fecha:** YYYY-MM-DD")
         expected = version_for_date(day)
-        if expected != path.name:
+        parsed = parse_calendar_version(path.name)
+        if expected != path.name or parsed != day:
             raise ReleaseError(
                 f"{path.name} no coincide con la fecha {day.isoformat()} (esperado {expected})"
             )
@@ -759,14 +699,14 @@ def _print_result(result: BuildResult) -> None:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        description="Empaqueta events/ de un dia Madrid en releases/<1.N.0>/."
+        description="Empaqueta events/ de un dia Madrid en releases/<YY.MM.DD>/."
     )
     parser.add_argument("--root", type=Path, default=ROOT, help="Raiz del repo")
     parser.add_argument("--date", help="Fecha editorial Europe/Madrid YYYY-MM-DD")
     parser.add_argument(
         "--pending",
         action="store_true",
-        help="Construye cada events/YYYY-MM-DD que aun no tiene releases/1.N.0/",
+        help="Construye cada events/YYYY-MM-DD que aun no tiene releases/YY.MM.DD/",
     )
     parser.add_argument(
         "--list-pending",
@@ -781,7 +721,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--check-published",
         action="store_true",
-        help="Hace --check de cada releases/<semver>/ segun la fecha de RELEASE.md",
+        help="Hace --check de cada releases/YY.MM.DD/ segun la fecha de RELEASE.md",
     )
     parser.add_argument("--dry-run", action="store_true", help="No escribe ficheros")
     parser.add_argument(
