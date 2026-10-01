@@ -7,14 +7,21 @@ ni hace el scan editorial: si la carpeta del dia no tiene piezas, no hay release
 
 Versionado
 ----------
-La version del dia es la fecha editorial Europe/Madrid en ``YY.MM.DD``
-(año de dos digitos, mes y dia con dos digitos). Asi 2026-09-29 es
-``26.09.29``, 2026-09-30 es ``26.09.30`` y 2026-10-01 es ``26.10.01``.
-El siglo asumido al leer una carpeta es 2000-2099.
+La version de las releases futuras es la fecha editorial Europe/Madrid en
+``DD.MM.YY`` (dia, mes y año de dos digitos). Asi 2026-10-02 es ``02.10.26``
+y 2026-10-01 seria ``01.10.26``. El siglo asumido al leer una carpeta nueva
+es 2000-2099. El titulo publico es ``Radar LegalTech · DD.MM.YY``.
+``/releases/latest`` apunta al ultimo tag publicado.
+
+Lo ya publicado en ``YY.MM.DD`` no se migra ni se reescribe:
+``26.09.29``, ``26.09.30`` y ``26.10.01``.
 
 Un dia sin carpeta ``events/YYYY-MM-DD/`` no genera release y no renumera
-otros dias: la version sigue siendo la fecha. La carpeta ``releases/YY.MM.DD/``
-se contrasta con la fecha declarada en ``RELEASE.md`` para no pisar otra fecha.
+otros dias: la version sigue siendo la fecha. Antes de escribir, la carpeta
+``releases/DD.MM.YY/`` y el tag git del mismo nombre se contrastan con la
+fecha declarada en ``RELEASE.md`` para no pisar otra fecha. Una carpeta
+historica ``YY.MM.DD`` cuya fecha coincide con el dia no se convierte al
+formato nuevo.
 
 Namespace (grafos que escribe este script)
 ------------------------------------------
@@ -30,11 +37,11 @@ reescribe.
 
 Uso
 ---
-  python scripts/build_release.py --date 2026-09-30
+  python scripts/build_release.py --date 2026-10-02
   python scripts/build_release.py --pending
   python scripts/build_release.py --list-pending
   python scripts/build_release.py --check-published
-  python scripts/build_release.py --date 2026-10-01 --dry-run
+  python scripts/build_release.py --date 2026-10-02 --dry-run
 """
 
 from __future__ import annotations
@@ -42,6 +49,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import subprocess
 import sys
 from dataclasses import dataclass, field
 from datetime import date, datetime
@@ -61,9 +69,13 @@ SOTA_NS = "https://legalnews.686f6c61.dev/ns#"
 LEGACY_NS = "https://legaltech-sota.local/"
 PUBLIC_TITLE = "Radar LegalTech"
 
-CALENDAR_VERSION_RE = re.compile(
-    r"^v?(?P<yy>\d{2})\.(?P<mm>0[1-9]|1[0-2])\.(?P<dd>0[1-9]|[12]\d|3[01])$"
-)
+_DD = r"0[1-9]|[12]\d|3[01]"
+_MM = r"0[1-9]|1[0-2]"
+_YY = r"\d{2}"
+# Politica vigente: dia.mes.año corto.
+CALENDAR_VERSION_RE = re.compile(rf"^v?(?P<dd>{_DD})\.(?P<mm>{_MM})\.(?P<yy>{_YY})$")
+# Historico publicado (26.09.29, 26.09.30, 26.10.01). No se asigna a dias nuevos.
+LEGACY_CALENDAR_VERSION_RE = re.compile(rf"^v?(?P<yy>{_YY})\.(?P<mm>{_MM})\.(?P<dd>{_DD})$")
 LEGACY_RELEASE_RE = re.compile(r"^v?1\.\d+\.0$")
 DATE_IN_NOTES_RE = re.compile(r"\*\*Fecha:\*\*\s*(\d{4}-\d{2}-\d{2})")
 RELEASE_LINE_RE = re.compile(r"(?m)^release:\s*(.+?)\s*$")
@@ -111,15 +123,16 @@ def parse_day(value: str) -> date:
 
 
 def version_for_date(day: date) -> str:
-    """Fecha editorial Europe/Madrid como ``YY.MM.DD``."""
+    """Fecha editorial Europe/Madrid como ``DD.MM.YY``."""
+    return f"{day.day:02d}.{day.month:02d}.{day.year % 100:02d}"
+
+
+def legacy_version_for_date(day: date) -> str:
+    """Formato historico ``YY.MM.DD``. No se asigna a releases nuevas."""
     return f"{day.year % 100:02d}.{day.month:02d}.{day.day:02d}"
 
 
-def parse_calendar_version(name: str) -> date | None:
-    """Lee ``YY.MM.DD`` (o ``vYY.MM.DD``) como fecha del siglo 2000-2099."""
-    match = CALENDAR_VERSION_RE.match(name.strip())
-    if not match:
-        return None
+def _date_from_version_match(match: re.Match[str]) -> date | None:
     try:
         return date(
             2000 + int(match.group("yy")),
@@ -128,6 +141,29 @@ def parse_calendar_version(name: str) -> date | None:
         )
     except ValueError:
         return None
+
+
+def parse_calendar_version(name: str) -> date | None:
+    """Lee ``DD.MM.YY`` (o ``vDD.MM.YY``) como fecha del siglo 2000-2099."""
+    match = CALENDAR_VERSION_RE.match(name.strip())
+    if not match:
+        return None
+    return _date_from_version_match(match)
+
+
+def parse_legacy_calendar_version(name: str) -> date | None:
+    """Lee ``YY.MM.DD`` historico (o ``vYY.MM.DD``) como fecha del siglo 2000-2099."""
+    match = LEGACY_CALENDAR_VERSION_RE.match(name.strip())
+    if not match:
+        return None
+    return _date_from_version_match(match)
+
+
+def _is_calendar_release_name(name: str) -> bool:
+    return (
+        parse_calendar_version(name) is not None
+        or parse_legacy_calendar_version(name) is not None
+    )
 
 
 def notes_date(notes_path: Path) -> date | None:
@@ -145,8 +181,54 @@ def is_historical_graph(graph_path: Path) -> bool:
     return LEGACY_NS in graph_path.read_text(encoding="utf-8")
 
 
+def git_tags(root: Path) -> list[str]:
+    """Tags del repo, si ``root`` es un checkout git. Si no, lista vacia."""
+    if not (root / ".git").exists():
+        return []
+    try:
+        proc = subprocess.run(
+            ["git", "-C", str(root), "tag", "-l"],
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+    except OSError:
+        return []
+    if proc.returncode != 0:
+        return []
+    return [line.strip() for line in proc.stdout.splitlines() if line.strip()]
+
+
+def _tag_matches_version(tag: str, version: str) -> bool:
+    if tag == version:
+        return True
+    return tag == f"v{version}" and CALENDAR_VERSION_RE.match(tag) is not None
+
+
+def legacy_release_version(root: Path, day: date) -> str | None:
+    """Carpeta ``YY.MM.DD`` ya publicada para ``day``, o None.
+
+    Si el nombre historico coincide con ``DD.MM.YY`` (el dia es el año corto),
+    no hay una carpeta distinta que preservar.
+    """
+    legacy = legacy_version_for_date(day)
+    if legacy == version_for_date(day):
+        return None
+    folder = root / "releases" / legacy
+    graph = folder / "graph.jsonld"
+    if not graph.is_file():
+        return None
+    if notes_date(folder / "RELEASE.md") != day:
+        return None
+    return legacy
+
+
 def resolve_version(root: Path, day: date) -> str:
-    """``YY.MM.DD`` de la fecha, contrastada con ``RELEASE.md`` de esa carpeta."""
+    """``DD.MM.YY`` de la fecha, contrastada con carpeta y tag de ese nombre.
+
+    No reescribe una release historica ``YY.MM.DD``: el llamador debe
+    consultarla con ``legacy_release_version`` y dejarla intacta.
+    """
     version = version_for_date(day)
     notes = root / "releases" / version / "RELEASE.md"
     recorded = notes_date(notes)
@@ -156,6 +238,14 @@ def resolve_version(root: Path, day: date) -> str:
             f"({notes}). {day.isoformat()} no puede reutilizarla.",
             code=2,
         )
+    if recorded != day:
+        for tag in git_tags(root):
+            if _tag_matches_version(tag, version):
+                raise ReleaseError(
+                    f"El tag {tag} ya usa {version}. "
+                    f"{day.isoformat()} no puede reutilizarlo.",
+                    code=2,
+                )
     return version
 
 
@@ -411,7 +501,7 @@ def render_release_notes(day: date, version: str, events: list[dict], root: Path
 
 **Fecha:** {day.isoformat()} (Europe/Madrid)  
 **Versión:** `{version}`  
-**Significado:** {meaning} La versión es esa fecha en `YY.MM.DD`.
+**Significado:** {meaning} La versión es esa fecha en `DD.MM.YY`.
 
 ## Contenido
 
@@ -441,11 +531,13 @@ El repositorio público es la fuente de verdad de los datos abiertos, así que l
 
 ## Versionado
 
-- La versión del día es la fecha Europe/Madrid en `YY.MM.DD` (año corto, mes y día).
+- La versión del día es la fecha Europe/Madrid en `DD.MM.YY` (día, mes y año corto).
 - Esta fecha fija `{version}`.
-- El script contrasta `releases/{version}/RELEASE.md` con la fecha del día antes de escribir.
+- El título público es `{PUBLIC_TITLE} · {version}`.
+- El script contrasta la carpeta y el tag `{version}` con la fecha del día antes de escribir.
 - Un día sin carpeta `events/YYYY-MM-DD/` no genera release y no renumera otros días.
-- El tag de GitHub Release es el mismo `YY.MM.DD`. `/releases/latest` apunta al último tag publicado.
+- El tag de GitHub Release es el mismo `DD.MM.YY`. `/releases/latest` apunta al último tag publicado.
+- Las releases ya publicadas `26.09.29`, `26.09.30` y `26.10.01` siguen en `YY.MM.DD` y no se reescriben.
 
 ## Notas
 
@@ -543,8 +635,9 @@ def pending_dates(root: Path) -> list[date]:
             continue
         if not event_paths(path):
             continue
-        version = version_for_date(day)
-        graph = root / "releases" / version / "graph.jsonld"
+        if legacy_release_version(root, day):
+            continue
+        graph = root / "releases" / version_for_date(day) / "graph.jsonld"
         if not graph.is_file():
             found.append(day)
     return found
@@ -566,6 +659,20 @@ def build_day(
     dry_run: bool = False,
     check: bool = False,
 ) -> BuildResult:
+    legacy = legacy_release_version(root, day)
+    if legacy is not None:
+        folder = root / "releases" / legacy
+        return BuildResult(
+            day=day,
+            version=legacy,
+            historical=True,
+            graph_path=folder / "graph.jsonld",
+            notes_path=folder / "RELEASE.md",
+            message=(
+                f"{legacy} ({day.isoformat()}) es historica (YY.MM.DD); no se reescribe."
+            ),
+        )
+
     version = resolve_version(root, day)
     graph_path = root / "releases" / version / "graph.jsonld"
     notes_path = root / "releases" / version / "RELEASE.md"
@@ -656,18 +763,45 @@ def check_published(root: Path) -> list[BuildResult]:
         return []
     results: list[BuildResult] = []
     for path in sorted(releases.iterdir()):
-        if not path.is_dir() or parse_calendar_version(path.name) is None:
+        if not path.is_dir() or not _is_calendar_release_name(path.name):
             continue
         day = notes_date(path / "RELEASE.md")
         if day is None:
             raise ReleaseError(f"{path.name}: RELEASE.md no declara **Fecha:** YYYY-MM-DD")
-        expected = version_for_date(day)
-        parsed = parse_calendar_version(path.name)
-        if expected != path.name or parsed != day:
-            raise ReleaseError(
-                f"{path.name} no coincide con la fecha {day.isoformat()} (esperado {expected})"
+        current = version_for_date(day)
+        legacy = legacy_version_for_date(day)
+        if path.name == current:
+            parsed = parse_calendar_version(path.name)
+            if parsed != day:
+                raise ReleaseError(
+                    f"{path.name} no coincide con la fecha {day.isoformat()} (esperado {current})"
+                )
+            results.append(build_day(root, day, check=True))
+            continue
+        if path.name == legacy:
+            parsed = parse_legacy_calendar_version(path.name)
+            if parsed != day:
+                raise ReleaseError(
+                    f"{path.name} no coincide con la fecha historica {day.isoformat()}"
+                )
+            results.append(
+                BuildResult(
+                    day=day,
+                    version=path.name,
+                    historical=True,
+                    graph_path=path / "graph.jsonld",
+                    notes_path=path / "RELEASE.md",
+                    message=(
+                        f"{path.name} ({day.isoformat()}) es historica (YY.MM.DD); "
+                        "no se reescribe."
+                    ),
+                )
             )
-        results.append(build_day(root, day, check=True))
+            continue
+        raise ReleaseError(
+            f"{path.name} no coincide con la fecha {day.isoformat()} "
+            f"(esperado {current}; historico {legacy})"
+        )
     return results
 
 
@@ -699,14 +833,14 @@ def _print_result(result: BuildResult) -> None:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        description="Empaqueta events/ de un dia Madrid en releases/<YY.MM.DD>/."
+        description="Empaqueta events/ de un dia Madrid en releases/<DD.MM.YY>/."
     )
     parser.add_argument("--root", type=Path, default=ROOT, help="Raiz del repo")
     parser.add_argument("--date", help="Fecha editorial Europe/Madrid YYYY-MM-DD")
     parser.add_argument(
         "--pending",
         action="store_true",
-        help="Construye cada events/YYYY-MM-DD que aun no tiene releases/YY.MM.DD/",
+        help="Construye cada events/YYYY-MM-DD que aun no tiene releases/DD.MM.YY/",
     )
     parser.add_argument(
         "--list-pending",
@@ -721,7 +855,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--check-published",
         action="store_true",
-        help="Hace --check de cada releases/YY.MM.DD/ segun la fecha de RELEASE.md",
+        help="Hace --check de cada release segun la fecha de RELEASE.md",
     )
     parser.add_argument("--dry-run", action="store_true", help="No escribe ficheros")
     parser.add_argument(
