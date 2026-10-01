@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-01-onboard-ai-assist",
+  "date": "2026-09-30",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "OnBoard lanza AI Assist: IA conversacional con citas sobre el historial del consejo de administracion",
+  "summary_p1": "OnBoard (Passageways) lanzo el 30 de septiembre de 2026 AI Assist para todos sus clientes: una experiencia conversacional que deja preguntar en lenguaje natural sobre discusiones y decisiones previas del board, con respuestas citadas a materiales del propio board portal. Respeta permisos existentes, no usa datos del cliente para entrenar modelos y exige juicio humano antes de cualquier decision. En beta ayudo a sacar riesgos ocultos en packs antiguos o condiciones abiertas de inversiones previas. Forma parte de Governance IQ; hay demo prevista el 15 de octubre.",
+  "summary_p2": "Para secretarios del consejo, governance counsel y firmas de corporate, es senal de que la \"memoria institucional\" del board entra en chat con citas. El valor no es el LLM, sino permisos + citas + no-training. En ES/UE aplica RGPD y confidencialidad societaria: hay que validar residencia, quien ve que acta y como se audita la consulta. Util junto a Iberdrola/Harvey: el in-house no solo automatiza contratos, tambien gobierna el consejo. En RFP de board portals, pedid citabilidad y opt-out de training con la misma dureza que en DMS legal.",
+  "why_sota": "IA semantica full-context en board management con citas y permisos.",
+  "why_now": "GA/launch 30 Sep 2026 (PR Newswire). NEW.",
+  "geo": [
+    "US",
+    "Global",
+    "EU"
+  ],
+  "topics": [
+    "onboard",
+    "board-governance",
+    "ai-assist",
+    "corporate-governance",
+    "citas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://www.prnewswire.com/news-releases/onboard-launches-ai-assist-the-first-full-context-semantic-ai-in-board-management-302894476.html",
+      "cited_title": "OnBoard Launches AI Assist, the First Full-Context Semantic AI in Board Management",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "entities": [
+    "ent-onboard"
+  ],
+  "lang": "es",
+  "status": "published"
+}

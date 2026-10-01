@@ -1,0 +1,39 @@
+{
+  "id": "evt-2026-10-01-iberdrola-harvey",
+  "date": "2026-09-28",
+  "type": "market",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Iberdrola integra Harvey en juridico y fiscal: transformacion para 300-400 profesionales tras pilotos",
+  "summary_p1": "Iberdrola va a integrar la plataforma Harvey en sus servicios juridicos y fiscales dentro de un plan liderado por la Secretaria General que afecta a un equipo internacional de mas de 300 profesionales (Harvey habla de ponerla al alcance de mas de 400). No es un plug-and-play: el proyecto se articula en cinco ejes (redisenar procesos, generar valor, anticipar riesgos, formar en uso responsable y adoptar con mejora continua) y llega tras pilotos supervisados. El objetivo declarado es reducir tiempo en tareas rutinarias para liberar capacidad de asesoramiento estrategico en decenas de jurisdicciones del sector energetico.",
+  "summary_p2": "Es una de las senales in-house espanolas mas claras del mes: un IBEX con volumen regulatorio y M&A energetico elige Legal AI de referencia global, pero lo vende como cambio de proceso y gobierno, no como licencia suelta. Para despachos que sirven a utilities y para DPO/GC, el checklist es seguridad de datos, formacion, KPI de adopcion y que el \"humano en el centro\" este documentado. Para Harvey y competidores, el caso Iberdrola sera referencia comercial en ES/LatAm. Si tu departamento juridico esta en RFP de IA, pide el mismo marco de cinco ejes; si solo te venden seats, falta la mitad del proyecto.",
+  "why_sota": "Adopcion Harvey a escala en in-house energetico espanol con marco de transformacion.",
+  "why_now": "Lawyerpress 28 Sep; no estaba en PASS 09-29/09-30. High-value missed ES.",
+  "geo": [
+    "ES",
+    "EU",
+    "Global"
+  ],
+  "topics": [
+    "harvey",
+    "iberdrola",
+    "in-house",
+    "adopcion",
+    "energia",
+    "transformacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/09/28/iberdrola-lleva-la-ia-de-harvey-a-sus-servicios-juridicos-y-fiscales-para-transformar-el-trabajo-de-mas-de-400-profesionales/",
+      "cited_title": "Iberdrola lleva la IA de Harvey a sus servicios juridicos y fiscales",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-iberdrola"
+  ],
+  "lang": "es",
+  "status": "published"
+}

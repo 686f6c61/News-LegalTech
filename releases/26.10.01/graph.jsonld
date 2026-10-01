@@ -1,0 +1,573 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/26.10.01",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 26.10.01",
+      "schema:version": "26.10.01",
+      "schema:datePublished": "2026-10-01",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-01, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/26.10.01/graph.jsonld",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-clio-learned-hand"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-california-sb574"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-lexis-protege-mena"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-iberdrola-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-lexis-skills-india"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-ibm-content-cortex"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-casepoint-iq-agents"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-onboard-ai-assist"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-sra-pause-colp-cofa"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-es-ai-act-transparency"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-clio-learned-hand",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-clio-learned-hand",
+      "schema:headline": "Clio compra Learned Hand: IA construida para jueces y tribunales como base de su negocio judiciary",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Clio anuncio el 30 de septiembre de 2026 la adquisicion de Learned Hand, una startup de IA pensada solo para jueces y personal de tribunales. La plataforma conecta con los case management systems de las cortes, ayuda a organizar escritos, senalar inconsistencias, investigar y redactar bench memos y ordenes. Ya opera en varias cortes de EE.UU., incluida la Superior Court of Los Angeles County. El precio no se ha hecho publico. La compra corona una secuencia rapida: en agosto Clio ficho a Pablo Arredondo (cofundador de Casetext) como SVP judiciary y en septiembre a Bridget Mary McCormack (ex Chief Justice de Michigan y ex CEO de la AAA) como general manager judiciary.",
+      "schema:articleBody": "Clio anuncio el 30 de septiembre de 2026 la adquisicion de Learned Hand, una startup de IA pensada solo para jueces y personal de tribunales. La plataforma conecta con los case management systems de las cortes, ayuda a organizar escritos, senalar inconsistencias, investigar y redactar bench memos y ordenes. Ya opera en varias cortes de EE.UU., incluida la Superior Court of Los Angeles County. El precio no se ha hecho publico. La compra corona una secuencia rapida: en agosto Clio ficho a Pablo Arredondo (cofundador de Casetext) como SVP judiciary y en septiembre a Bridget Mary McCormack (ex Chief Justice de Michigan y ex CEO de la AAA) como general manager judiciary.\n\nEl mensaje de negocio es claro: si el despacho y el litigante aceleran con IA y la corte no, el cuello de botella solo se desplaza. Clio aporta el corpus de vLex/Docket (mas de mil millones de documentos y filings) sobre un producto ya disenado \"judiciary grade\", no un tool de abogado reciclado. Para vendors de court tech y para firmas con mucha litigacion US, sube la apuesta de quien controla el stack judicial. En ES/UE el caso es US-centric, pero el patron importa: quien vende a administracion de justicia tendra que demostrar workflow de juez/letrado, no demos de chat generico. Para in-house y Big Law con volumen US, conviene mapear que datos de docket y privilegio entran en esa capa cuando Clio anuncie el producto integrado.",
+      "sota:type": "market",
+      "sota:sotaScore": 9.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera M&A mayor de Clio hacia judiciary AI con producto en produccion en cortes reales.",
+      "sota:whyNow": "Anuncio 30 Sep 2026 (AL, LawSites, Legal IT Insider). No estaba en PASS 09-29 ni 09-30.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "m&a",
+        "judiciary",
+        "court-tech",
+        "ia-judicial",
+        "clio",
+        "learned-hand"
+      ],
+      "sota:summaryP1": "Clio anuncio el 30 de septiembre de 2026 la adquisicion de Learned Hand, una startup de IA pensada solo para jueces y personal de tribunales. La plataforma conecta con los case management systems de las cortes, ayuda a organizar escritos, senalar inconsistencias, investigar y redactar bench memos y ordenes. Ya opera en varias cortes de EE.UU., incluida la Superior Court of Los Angeles County. El precio no se ha hecho publico. La compra corona una secuencia rapida: en agosto Clio ficho a Pablo Arredondo (cofundador de Casetext) como SVP judiciary y en septiembre a Bridget Mary McCormack (ex Chief Justice de Michigan y ex CEO de la AAA) como general manager judiciary.",
+      "sota:summaryP2": "El mensaje de negocio es claro: si el despacho y el litigante aceleran con IA y la corte no, el cuello de botella solo se desplaza. Clio aporta el corpus de vLex/Docket (mas de mil millones de documentos y filings) sobre un producto ya disenado \"judiciary grade\", no un tool de abogado reciclado. Para vendors de court tech y para firmas con mucha litigacion US, sube la apuesta de quien controla el stack judicial. En ES/UE el caso es US-centric, pero el patron importa: quien vende a administracion de justicia tendra que demostrar workflow de juez/letrado, no demos de chat generico. Para in-house y Big Law con volumen US, conviene mapear que datos de docket y privilegio entran en esa capa cuando Clio anuncie el producto integrado.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands/",
+          "schema:name": "Clio Buys Learned Hand as Judiciary Strategy Expands",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html",
+          "schema:name": "Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product",
+          "sota:sourceId": "src-lawsites-bob-ambrogi"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/clio-buys-learned-hand-as-judiciary-strategy-takes-shape/",
+          "schema:name": "Clio buys Learned Hand as judiciary strategy takes shape",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-learned-hand"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-california-sb574",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-california-sb574",
+      "schema:headline": "California firma SB 574: prohibe delegar la abogacia a IA generativa y exige verificar citas (incluidas las de IA)",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El gobernador Gavin Newsom firmo el 30 de septiembre de 2026 la SB 574 (Umberg), una de las primeras leyes estatales de EE.UU. que regula de forma expresa el uso de IA generativa por abogados, arbitros y proveedores de ADR. La norma prohibe delegar el ejercicio de la abogacia a IA generativa, restringe introducir informacion confidencial o no publica en sistemas de IA publicos y obliga a verificar la exactitud de las salidas, en particular de todas las citas jurisprudenciales y legales. Todo escrito judicial debera llevar la firma individual de al menos un abogado de record, y ningun escrito podra incluir citas que el abogado responsable no haya verificado personalmente, incluidas las generadas por IA. Tambien limita que los arbitros deleguen su proceso de decision a IA y exige transparencia cuando usen material generado por IA.",
+      "schema:articleBody": "El gobernador Gavin Newsom firmo el 30 de septiembre de 2026 la SB 574 (Umberg), una de las primeras leyes estatales de EE.UU. que regula de forma expresa el uso de IA generativa por abogados, arbitros y proveedores de ADR. La norma prohibe delegar el ejercicio de la abogacia a IA generativa, restringe introducir informacion confidencial o no publica en sistemas de IA publicos y obliga a verificar la exactitud de las salidas, en particular de todas las citas jurisprudenciales y legales. Todo escrito judicial debera llevar la firma individual de al menos un abogado de record, y ningun escrito podra incluir citas que el abogado responsable no haya verificado personalmente, incluidas las generadas por IA. Tambien limita que los arbitros deleguen su proceso de decision a IA y exige transparencia cuando usen material generado por IA.\n\nPara firmas con asuntos en California (y para vendors que venden drafting/research alli), el liston deja de ser solo etica de colegio o local rule: pasa a estatuto. Hay que revisar politicas de uso de ChatGPT/Claude/Copilot con datos de cliente, flujos de citacion automatica y quien firma. El eco llega a ES/UE como senal de mercado: los compradores pediran trazabilidad de citas y humano responsable, alineado con alucinaciones y con el AI Act de transparencia. Cruza con tu playbook de supervision: si el modelo propone jurisprudencia, el abogado debe poder demostrar verificacion personal antes del filing.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 9.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera ley estatal US de amplio alcance sobre IA generativa en la abogacia y arbitraje.",
+      "sota:whyNow": "Firma 30 Sep 2026 (Gobierno CA / Bloomberg Law). NEW vs digests previos.",
+      "sota:geo": [
+        "US",
+        "CA"
+      ],
+      "sota:topics": [
+        "sb-574",
+        "california",
+        "citas",
+        "alucinaciones",
+        "etica",
+        "arbitraje",
+        "ia-generativa"
+      ],
+      "sota:summaryP1": "El gobernador Gavin Newsom firmo el 30 de septiembre de 2026 la SB 574 (Umberg), una de las primeras leyes estatales de EE.UU. que regula de forma expresa el uso de IA generativa por abogados, arbitros y proveedores de ADR. La norma prohibe delegar el ejercicio de la abogacia a IA generativa, restringe introducir informacion confidencial o no publica en sistemas de IA publicos y obliga a verificar la exactitud de las salidas, en particular de todas las citas jurisprudenciales y legales. Todo escrito judicial debera llevar la firma individual de al menos un abogado de record, y ningun escrito podra incluir citas que el abogado responsable no haya verificado personalmente, incluidas las generadas por IA. Tambien limita que los arbitros deleguen su proceso de decision a IA y exige transparencia cuando usen material generado por IA.",
+      "sota:summaryP2": "Para firmas con asuntos en California (y para vendors que venden drafting/research alli), el liston deja de ser solo etica de colegio o local rule: pasa a estatuto. Hay que revisar politicas de uso de ChatGPT/Claude/Copilot con datos de cliente, flujos de citacion automatica y quien firma. El eco llega a ES/UE como senal de mercado: los compradores pediran trazabilidad de citas y humano responsable, alineado con alucinaciones y con el AI Act de transparencia. Cruza con tu playbook de supervision: si el modelo propone jurisprudencia, el abogado debe poder demostrar verificacion personal antes del filing.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
+          "schema:name": "California AI framework: Governor Newsom signs SB 574 and related bills",
+          "sota:sourceId": "src-lawsites-bob-ambrogi"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574",
+          "schema:name": "Bill Text - SB-574 Attorneys, arbitrators, judicial officers, and alternative resolution providers",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-california"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sb574"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-lexis-protege-mena",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-lexis-protege-mena",
+      "schema:headline": "LexisNexis lanza Lexis+ con Protege en MENA: IA agentica anclada en derecho regional (UAE primero)",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LexisNexis anuncio el 1 de octubre de 2026 la disponibilidad comercial de Lexis+ con Protege en Oriente Medio y Norte de Africa, empezando por Emiratos. La plataforma combina IA agentica (flujos en pasos revisables: research, comparacion, due diligence, compliance, checklists) con corpus juridico MENA: derecho federal UAE y de los siete emiratos, legislacion, gazettes, jurisprudencia, practical guidance y contenido global bajo el mismo login. Incluye drafting asistido, analisis de documentos propios, apoyo bilingue arabe/ingles con terminologia jurisdiccional, y promesa de que los datos del cliente no entrenan modelos publicos.",
+      "schema:articleBody": "LexisNexis anuncio el 1 de octubre de 2026 la disponibilidad comercial de Lexis+ con Protege en Oriente Medio y Norte de Africa, empezando por Emiratos. La plataforma combina IA agentica (flujos en pasos revisables: research, comparacion, due diligence, compliance, checklists) con corpus juridico MENA: derecho federal UAE y de los siete emiratos, legislacion, gazettes, jurisprudencia, practical guidance y contenido global bajo el mismo login. Incluye drafting asistido, analisis de documentos propios, apoyo bilingue arabe/ingles con terminologia jurisdiccional, y promesa de que los datos del cliente no entrenan modelos publicos.\n\nPara despachos e in-house con asuntos GCC, el diferencial que hay que exigir en RFP no es \"tenemos un chat\", sino trazabilidad a fuente local, jerarquia normativa correcta y gobernanza bilingue. El lanzamiento encaja en la oleada Protégé (Skills en India el dia anterior): Lexis empuja workflows agenticos por region, no un unico modelo global. En ES/UE sirve de referencia de producto: cuando un editor ancla agentes en contenido propio y niega training con datos del cliente, el comprador debe pedir evidencia contractual (DPA, ubicacion, citas). Quien compita en research arabigo-anglosajon tendra que demostrar lo mismo o perder el shortlist.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Despliegue regional de Lexis+ Protégé agentico con corpus MENA localizado.",
+      "sota:whyNow": "Comunicado con fecha UAE 1 Oct 2026. NEW.",
+      "sota:geo": [
+        "MENA",
+        "UAE",
+        "Global"
+      ],
+      "sota:topics": [
+        "lexisnexis",
+        "protege",
+        "agentic-ai",
+        "mena",
+        "research",
+        "drafting"
+      ],
+      "sota:summaryP1": "LexisNexis anuncio el 1 de octubre de 2026 la disponibilidad comercial de Lexis+ con Protege en Oriente Medio y Norte de Africa, empezando por Emiratos. La plataforma combina IA agentica (flujos en pasos revisables: research, comparacion, due diligence, compliance, checklists) con corpus juridico MENA: derecho federal UAE y de los siete emiratos, legislacion, gazettes, jurisprudencia, practical guidance y contenido global bajo el mismo login. Incluye drafting asistido, analisis de documentos propios, apoyo bilingue arabe/ingles con terminologia jurisdiccional, y promesa de que los datos del cliente no entrenan modelos publicos.",
+      "sota:summaryP2": "Para despachos e in-house con asuntos GCC, el diferencial que hay que exigir en RFP no es \"tenemos un chat\", sino trazabilidad a fuente local, jerarquia normativa correcta y gobernanza bilingue. El lanzamiento encaja en la oleada Protégé (Skills en India el dia anterior): Lexis empuja workflows agenticos por region, no un unico modelo global. En ES/UE sirve de referencia de producto: cuando un editor ancla agentes en contenido propio y niega training con datos del cliente, el comprador debe pedir evidencia contractual (DPA, ubicacion, citas). Quien compita en research arabigo-anglosajon tendra que demostrar lo mismo o perder el shortlist.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lexisnexis.com/blogs/ae-legal/b/press-releases/posts/lexisnexis-marks-16-years-in-mena-with-launch-of-lexis-with-protege",
+          "schema:name": "LexisNexis Marks 16 years in MENA With Launch of Lexis+ with Protégé",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-iberdrola-harvey",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-iberdrola-harvey",
+      "schema:headline": "Iberdrola integra Harvey en juridico y fiscal: transformacion para 300-400 profesionales tras pilotos",
+      "schema:datePublished": "2026-09-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Iberdrola va a integrar la plataforma Harvey en sus servicios juridicos y fiscales dentro de un plan liderado por la Secretaria General que afecta a un equipo internacional de mas de 300 profesionales (Harvey habla de ponerla al alcance de mas de 400). No es un plug-and-play: el proyecto se articula en cinco ejes (redisenar procesos, generar valor, anticipar riesgos, formar en uso responsable y adoptar con mejora continua) y llega tras pilotos supervisados. El objetivo declarado es reducir tiempo en tareas rutinarias para liberar capacidad de asesoramiento estrategico en decenas de jurisdicciones del sector energetico.",
+      "schema:articleBody": "Iberdrola va a integrar la plataforma Harvey en sus servicios juridicos y fiscales dentro de un plan liderado por la Secretaria General que afecta a un equipo internacional de mas de 300 profesionales (Harvey habla de ponerla al alcance de mas de 400). No es un plug-and-play: el proyecto se articula en cinco ejes (redisenar procesos, generar valor, anticipar riesgos, formar en uso responsable y adoptar con mejora continua) y llega tras pilotos supervisados. El objetivo declarado es reducir tiempo en tareas rutinarias para liberar capacidad de asesoramiento estrategico en decenas de jurisdicciones del sector energetico.\n\nEs una de las senales in-house espanolas mas claras del mes: un IBEX con volumen regulatorio y M&A energetico elige Legal AI de referencia global, pero lo vende como cambio de proceso y gobierno, no como licencia suelta. Para despachos que sirven a utilities y para DPO/GC, el checklist es seguridad de datos, formacion, KPI de adopcion y que el \"humano en el centro\" este documentado. Para Harvey y competidores, el caso Iberdrola sera referencia comercial en ES/LatAm. Si tu departamento juridico esta en RFP de IA, pide el mismo marco de cinco ejes; si solo te venden seats, falta la mitad del proyecto.",
+      "sota:type": "market",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Adopcion Harvey a escala en in-house energetico espanol con marco de transformacion.",
+      "sota:whyNow": "Lawyerpress 28 Sep; no estaba en PASS 09-29/09-30. High-value missed ES.",
+      "sota:geo": [
+        "ES",
+        "EU",
+        "Global"
+      ],
+      "sota:topics": [
+        "harvey",
+        "iberdrola",
+        "in-house",
+        "adopcion",
+        "energia",
+        "transformacion"
+      ],
+      "sota:summaryP1": "Iberdrola va a integrar la plataforma Harvey en sus servicios juridicos y fiscales dentro de un plan liderado por la Secretaria General que afecta a un equipo internacional de mas de 300 profesionales (Harvey habla de ponerla al alcance de mas de 400). No es un plug-and-play: el proyecto se articula en cinco ejes (redisenar procesos, generar valor, anticipar riesgos, formar en uso responsable y adoptar con mejora continua) y llega tras pilotos supervisados. El objetivo declarado es reducir tiempo en tareas rutinarias para liberar capacidad de asesoramiento estrategico en decenas de jurisdicciones del sector energetico.",
+      "sota:summaryP2": "Es una de las senales in-house espanolas mas claras del mes: un IBEX con volumen regulatorio y M&A energetico elige Legal AI de referencia global, pero lo vende como cambio de proceso y gobierno, no como licencia suelta. Para despachos que sirven a utilities y para DPO/GC, el checklist es seguridad de datos, formacion, KPI de adopcion y que el \"humano en el centro\" este documentado. Para Harvey y competidores, el caso Iberdrola sera referencia comercial en ES/LatAm. Si tu departamento juridico esta en RFP de IA, pide el mismo marco de cinco ejes; si solo te venden seats, falta la mitad del proyecto.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawyerpress.com/2026/09/28/iberdrola-lleva-la-ia-de-harvey-a-sus-servicios-juridicos-y-fiscales-para-transformar-el-trabajo-de-mas-de-400-profesionales/",
+          "schema:name": "Iberdrola lleva la IA de Harvey a sus servicios juridicos y fiscales",
+          "sota:sourceId": "src-lawyerpress-news"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iberdrola"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-lexis-skills-india",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-lexis-skills-india",
+      "schema:headline": "LexisNexis lanza Skills en Lexis Advance with Protege en India: workflows guiados (DPA, PIA, demand letters)",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 30 de septiembre de 2026 LexisNexis anuncio en India Skills dentro de Lexis Advance with Protege: el usuario elige una Skill y Protege presenta un plan de trabajo estructurado en lugar de una sola respuesta, con salidas listas para revision. El portfolio inicial cubre regulatory/compliance, corporate, litigation, formacion y tareas generales; ejemplos citados incluyen Draft Written Resolutions, DPA Review, Privacy Impact Assessment Generation y Demand Letter Intake. Las Skills se anclan en contenido Lexis India, CaseAnalysis India, ficheros subidos y web; incorpora Skills de Lexis y de Anthropic, con Protégé Vault para colecciones de matter.",
+      "schema:articleBody": "El 30 de septiembre de 2026 LexisNexis anuncio en India Skills dentro de Lexis Advance with Protege: el usuario elige una Skill y Protege presenta un plan de trabajo estructurado en lugar de una sola respuesta, con salidas listas para revision. El portfolio inicial cubre regulatory/compliance, corporate, litigation, formacion y tareas generales; ejemplos citados incluyen Draft Written Resolutions, DPA Review, Privacy Impact Assessment Generation y Demand Letter Intake. Las Skills se anclan en contenido Lexis India, CaseAnalysis India, ficheros subidos y web; incorpora Skills de Lexis y de Anthropic, con Protégé Vault para colecciones de matter.\n\nEl patron Skills (plan visible + control humano) es el mismo eje agentico que MENA, pero con casos de uso privacy/compliance muy concretos para in-house. Para compradores ES/EU, sirve de checklist de RFP: pedid workflows reutilizables con estandares de firma, no prompts sueltos; pedid citas al corpus local y vault de matter. Quien venda GenIA o Sofia debera mostrar planes de tarea equivalentes (DPA, EIPD, cartas) con trazabilidad. No confundir con un lanzamiento generico de chat: la noticia es el catalogo de Skills y el control del plan.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Skills agenticos guiados sobre Lexis Advance India; senal de producto repetible.",
+      "sota:whyNow": "Lanzamiento 30 Sep 2026. NEW; complementa MENA del 1 Oct.",
+      "sota:geo": [
+        "IN",
+        "Global"
+      ],
+      "sota:topics": [
+        "lexisnexis",
+        "skills",
+        "protege",
+        "india",
+        "dpa",
+        "pia",
+        "workflows"
+      ],
+      "sota:summaryP1": "El 30 de septiembre de 2026 LexisNexis anuncio en India Skills dentro de Lexis Advance with Protege: el usuario elige una Skill y Protege presenta un plan de trabajo estructurado en lugar de una sola respuesta, con salidas listas para revision. El portfolio inicial cubre regulatory/compliance, corporate, litigation, formacion y tareas generales; ejemplos citados incluyen Draft Written Resolutions, DPA Review, Privacy Impact Assessment Generation y Demand Letter Intake. Las Skills se anclan en contenido Lexis India, CaseAnalysis India, ficheros subidos y web; incorpora Skills de Lexis y de Anthropic, con Protégé Vault para colecciones de matter.",
+      "sota:summaryP2": "El patron Skills (plan visible + control humano) es el mismo eje agentico que MENA, pero con casos de uso privacy/compliance muy concretos para in-house. Para compradores ES/EU, sirve de checklist de RFP: pedid workflows reutilizables con estandares de firma, no prompts sueltos; pedid citas al corpus local y vault de matter. Quien venda GenIA o Sofia debera mostrar planes de tarea equivalentes (DPA, EIPD, cartas) con trazabilidad. No confundir con un lanzamiento generico de chat: la noticia es el catalogo de Skills y el control del plan.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.republicworld.com/initiatives/lexisnexis-launches-skills-in-lexis-advance-with-protege-in-india-advancing-legal-ai-built-on-the-authority-legal-work-demands-2026-09-30-137999",
+          "schema:name": "LexisNexis Launches Skills in Lexis Advance With Protégé in India",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-ibm-content-cortex",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-ibm-content-cortex",
+      "schema:headline": "IBM Content Cortex Premium GA: agentes gobernados para redaccion, legal holds, clasificacion y busqueda",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "IBM declaro el 30 de septiembre de 2026 la disponibilidad general de Content Cortex Premium: agentes especializados para redaccion (redaction) de PII, legal holds, clasificacion, extraccion y busqueda semantica sobre el ciclo de vida del contenido empresarial. La tesis es que un agente sin politica es riesgo: el Premium evalua las politicas que configura la organizacion (que redactar, holds permanentes o por rol, cuando levantar un hold), propone el siguiente paso con score de confianza, pide aprobacion humana y deja traza inmutable de peticion, recomendacion, aprobacion y cambio. Corre donde ya vive el contenido (hibrido), con camino de continuidad para FileNet/CMEE/CMOD.",
+      "schema:articleBody": "IBM declaro el 30 de septiembre de 2026 la disponibilidad general de Content Cortex Premium: agentes especializados para redaccion (redaction) de PII, legal holds, clasificacion, extraccion y busqueda semantica sobre el ciclo de vida del contenido empresarial. La tesis es que un agente sin politica es riesgo: el Premium evalua las politicas que configura la organizacion (que redactar, holds permanentes o por rol, cuando levantar un hold), propone el siguiente paso con score de confianza, pide aprobacion humana y deja traza inmutable de peticion, recomendacion, aprobacion y cambio. Corre donde ya vive el contenido (hibrido), con camino de continuidad para FileNet/CMEE/CMOD.\n\nPara legal ops, eDiscovery e information governance, es senal de que el campo de batalla pasa de \"chat sobre documentos\" a \"agente que ejecuta hold/redact con audit\". En RFP hay que pedir: politicas versionadas, human-in-the-loop obligatorio en acciones de responsabilidad, y evidencia forense filtrable por agente. En ES/UE conecta con RGPD, retencion y lit-hold: si el agente puede purgar o liberar un hold, el DPO y el abogado de litigio deben firmar el diseno. Complementa (sin solapar) el relato Relativity claiR de ayer: aqui el foco es records/ECM enterprise, no solo review set.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "GA de agentes ECM con gobernanza explicita sobre legal hold y redaction.",
+      "sota:whyNow": "GA anunciada 30 Sep 2026. NEW.",
+      "sota:geo": [
+        "Global",
+        "US",
+        "EU"
+      ],
+      "sota:topics": [
+        "ibm",
+        "content-cortex",
+        "legal-hold",
+        "redaction",
+        "ig",
+        "agentes"
+      ],
+      "sota:summaryP1": "IBM declaro el 30 de septiembre de 2026 la disponibilidad general de Content Cortex Premium: agentes especializados para redaccion (redaction) de PII, legal holds, clasificacion, extraccion y busqueda semantica sobre el ciclo de vida del contenido empresarial. La tesis es que un agente sin politica es riesgo: el Premium evalua las politicas que configura la organizacion (que redactar, holds permanentes o por rol, cuando levantar un hold), propone el siguiente paso con score de confianza, pide aprobacion humana y deja traza inmutable de peticion, recomendacion, aprobacion y cambio. Corre donde ya vive el contenido (hibrido), con camino de continuidad para FileNet/CMEE/CMOD.",
+      "sota:summaryP2": "Para legal ops, eDiscovery e information governance, es senal de que el campo de batalla pasa de \"chat sobre documentos\" a \"agente que ejecuta hold/redact con audit\". En RFP hay que pedir: politicas versionadas, human-in-the-loop obligatorio en acciones de responsabilidad, y evidencia forense filtrable por agente. En ES/UE conecta con RGPD, retencion y lit-hold: si el agente puede purgar o liberar un hold, el DPO y el abogado de litigio deben firmar el diseno. Complementa (sin solapar) el relato Relativity claiR de ayer: aqui el foco es records/ECM enterprise, no solo review set.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.ibm.com/new/announcements/ibm-content-cortex-closing-the-data-value-gap",
+          "schema:name": "IBM Content Cortex Premium is here: Use governed content to propel your business",
+          "sota:sourceId": "src-ediscovery-today"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ibm"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-casepoint-iq-agents",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-casepoint-iq-agents",
+      "schema:headline": "Casepoint IQ: primeros agentes purpose-built (Relevance Determination e Issue Coding) con QC humano",
+      "schema:datePublished": "2026-09-23",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Casepoint anuncio el 23 de septiembre de 2026 los primeros agentes sobre Casepoint IQ: Relevance Determination Agent (relevancia/responsiveness con razonamiento y likelihood score) e Issue Coding Agent (codificacion contra issues del matter, con QC post-run de recall/precision por codigo). Ambos usan un proceso multi-modelo con cruce de salidas, obligan a validar rendimiento en una muestra antes de correr el set completo y registran cada decision humana y de IA en audit trail. Encajan en la plataforma unificada (legal hold, eDiscovery, FOIA, compliance) con autorizaciones FedRAMP High / DoD IL5-6.",
+      "schema:articleBody": "Casepoint anuncio el 23 de septiembre de 2026 los primeros agentes sobre Casepoint IQ: Relevance Determination Agent (relevancia/responsiveness con razonamiento y likelihood score) e Issue Coding Agent (codificacion contra issues del matter, con QC post-run de recall/precision por codigo). Ambos usan un proceso multi-modelo con cruce de salidas, obligan a validar rendimiento en una muestra antes de correr el set completo y registran cada decision humana y de IA en audit trail. Encajan en la plataforma unificada (legal hold, eDiscovery, FOIA, compliance) con autorizaciones FedRAMP High / DoD IL5-6.\n\nFrente al ruido de \"agente generico\", Casepoint apuesta por agentes especializados que se encadenan en el mismo entorno de gobierno. Para litigation support y agencias, el criterio de compra es medible: recall/precision por issue, sample gate y audit. En ES/UE, aunque el foco es gobierno US, el diseno (human validation gate + metricas) es el liston que deberias exigir a cualquier vendor de review agentic. No reincluir Relativity claiR de ayer: aqui la senal es el portfolio de agentes de review con metricas, no el chat conversacional sobre el record.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primeros agentes IQ en produccion early-access con metricas de recall/precision.",
+      "sota:whyNow": "Missed vs PASS 09-30 (ventana RelFest); high-value eDiscovery agentic. NEW.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "casepoint",
+        "ediscovery",
+        "agentes",
+        "relevance",
+        "issue-coding",
+        "fedramp"
+      ],
+      "sota:summaryP1": "Casepoint anuncio el 23 de septiembre de 2026 los primeros agentes sobre Casepoint IQ: Relevance Determination Agent (relevancia/responsiveness con razonamiento y likelihood score) e Issue Coding Agent (codificacion contra issues del matter, con QC post-run de recall/precision por codigo). Ambos usan un proceso multi-modelo con cruce de salidas, obligan a validar rendimiento en una muestra antes de correr el set completo y registran cada decision humana y de IA en audit trail. Encajan en la plataforma unificada (legal hold, eDiscovery, FOIA, compliance) con autorizaciones FedRAMP High / DoD IL5-6.",
+      "sota:summaryP2": "Frente al ruido de \"agente generico\", Casepoint apuesta por agentes especializados que se encadenan en el mismo entorno de gobierno. Para litigation support y agencias, el criterio de compra es medible: recall/precision por issue, sample gate y audit. En ES/UE, aunque el foco es gobierno US, el diseno (human validation gate + metricas) es el liston que deberias exigir a cualquier vendor de review agentic. No reincluir Relativity claiR de ayer: aqui la senal es el portfolio de agentes de review con metricas, no el chat conversacional sobre el record.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.casepoint.com/press/casepoint-expands-casepoint-iq-with-purpose-built-ai-agents/",
+          "schema:name": "Casepoint Expands Casepoint IQ With First Purpose-Built AI Agents",
+          "sota:sourceId": "src-ediscovery-today"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-casepoint"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-onboard-ai-assist",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-onboard-ai-assist",
+      "schema:headline": "OnBoard lanza AI Assist: IA conversacional con citas sobre el historial del consejo de administracion",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "OnBoard (Passageways) lanzo el 30 de septiembre de 2026 AI Assist para todos sus clientes: una experiencia conversacional que deja preguntar en lenguaje natural sobre discusiones y decisiones previas del board, con respuestas citadas a materiales del propio board portal. Respeta permisos existentes, no usa datos del cliente para entrenar modelos y exige juicio humano antes de cualquier decision. En beta ayudo a sacar riesgos ocultos en packs antiguos o condiciones abiertas de inversiones previas. Forma parte de Governance IQ; hay demo prevista el 15 de octubre.",
+      "schema:articleBody": "OnBoard (Passageways) lanzo el 30 de septiembre de 2026 AI Assist para todos sus clientes: una experiencia conversacional que deja preguntar en lenguaje natural sobre discusiones y decisiones previas del board, con respuestas citadas a materiales del propio board portal. Respeta permisos existentes, no usa datos del cliente para entrenar modelos y exige juicio humano antes de cualquier decision. En beta ayudo a sacar riesgos ocultos en packs antiguos o condiciones abiertas de inversiones previas. Forma parte de Governance IQ; hay demo prevista el 15 de octubre.\n\nPara secretarios del consejo, governance counsel y firmas de corporate, es senal de que la \"memoria institucional\" del board entra en chat con citas. El valor no es el LLM, sino permisos + citas + no-training. En ES/UE aplica RGPD y confidencialidad societaria: hay que validar residencia, quien ve que acta y como se audita la consulta. Util junto a Iberdrola/Harvey: el in-house no solo automatiza contratos, tambien gobierna el consejo. En RFP de board portals, pedid citabilidad y opt-out de training con la misma dureza que en DMS legal.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "IA semantica full-context en board management con citas y permisos.",
+      "sota:whyNow": "GA/launch 30 Sep 2026 (PR Newswire). NEW.",
+      "sota:geo": [
+        "US",
+        "Global",
+        "EU"
+      ],
+      "sota:topics": [
+        "onboard",
+        "board-governance",
+        "ai-assist",
+        "corporate-governance",
+        "citas"
+      ],
+      "sota:summaryP1": "OnBoard (Passageways) lanzo el 30 de septiembre de 2026 AI Assist para todos sus clientes: una experiencia conversacional que deja preguntar en lenguaje natural sobre discusiones y decisiones previas del board, con respuestas citadas a materiales del propio board portal. Respeta permisos existentes, no usa datos del cliente para entrenar modelos y exige juicio humano antes de cualquier decision. En beta ayudo a sacar riesgos ocultos en packs antiguos o condiciones abiertas de inversiones previas. Forma parte de Governance IQ; hay demo prevista el 15 de octubre.",
+      "sota:summaryP2": "Para secretarios del consejo, governance counsel y firmas de corporate, es senal de que la \"memoria institucional\" del board entra en chat con citas. El valor no es el LLM, sino permisos + citas + no-training. En ES/UE aplica RGPD y confidencialidad societaria: hay que validar residencia, quien ve que acta y como se audita la consulta. Util junto a Iberdrola/Harvey: el in-house no solo automatiza contratos, tambien gobierna el consejo. En RFP de board portals, pedid citabilidad y opt-out de training con la misma dureza que en DMS legal.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.prnewswire.com/news-releases/onboard-launches-ai-assist-the-first-full-context-semantic-ai-in-board-management-302894476.html",
+          "schema:name": "OnBoard Launches AI Assist, the First Full-Context Semantic AI in Board Management",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-onboard"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-sra-pause-colp-cofa",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-sra-pause-colp-cofa",
+      "schema:headline": "SRA pausa las nuevas reglas COLP/COFA tras presion de firmas SME (UK)",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Solicitors Regulation Authority britanica anuncio el 1 de octubre de 2026 una \"pausa\" en la implantacion de las nuevas reglas sobre compliance officers. Las normas ya aprobadas por el Legal Services Board impedian que un manager con poder de decision unilateral fuera COLP o COFA en firmas con facturacion superior a 600.000 GBP o mas de 2 millones GBP en client money. La reaccion de firmas pequenas y de la SME & Boutique Law Firm Alliance (incluido un posible voto de no confianza en la AGM de la Law Society) ha obligado a la SRA a \"tomar stock\" y consultar opciones proporcionales. Es improbable que el rollout de enero 2027 se mantenga si hacen falta nuevos vistos del LSB.",
+      "schema:articleBody": "La Solicitors Regulation Authority britanica anuncio el 1 de octubre de 2026 una \"pausa\" en la implantacion de las nuevas reglas sobre compliance officers. Las normas ya aprobadas por el Legal Services Board impedian que un manager con poder de decision unilateral fuera COLP o COFA en firmas con facturacion superior a 600.000 GBP o mas de 2 millones GBP en client money. La reaccion de firmas pequenas y de la SME & Boutique Law Firm Alliance (incluido un posible voto de no confianza en la AGM de la Law Society) ha obligado a la SRA a \"tomar stock\" y consultar opciones proporcionales. Es improbable que el rollout de enero 2027 se mantenga si hacen falta nuevos vistos del LSB.\n\nPieza no-AI a proposito: el radar no solo mira modelos. Para LegalTech UK y para firmas con presencia Londinense, la gobernanza COLP/COFA condiciona quien puede firmar compliance y que software de risk/AML se exige. Un cambio (o su pausa) mueve presupuestos de compliance tech y de outsourcing de COFA. En ES, el paralelo es quien ostenta la funcion de compliance/RGPD cuando la firma escala: no asumas que el socio unico puede ser a la vez decision unilateral y organo de control. Seguimiento: texto final tras la consulta de las proximas semanas.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Pausa regulatoria material sobre governance de firmas UK; impacto en compliance ops.",
+      "sota:whyNow": "Anuncio SRA 1 Oct 2026 (Legal Futures). NEW; balance no-AI del dia.",
+      "sota:geo": [
+        "UK"
+      ],
+      "sota:topics": [
+        "sra",
+        "colp",
+        "cofa",
+        "compliance",
+        "sme",
+        "governance"
+      ],
+      "sota:summaryP1": "La Solicitors Regulation Authority britanica anuncio el 1 de octubre de 2026 una \"pausa\" en la implantacion de las nuevas reglas sobre compliance officers. Las normas ya aprobadas por el Legal Services Board impedian que un manager con poder de decision unilateral fuera COLP o COFA en firmas con facturacion superior a 600.000 GBP o mas de 2 millones GBP en client money. La reaccion de firmas pequenas y de la SME & Boutique Law Firm Alliance (incluido un posible voto de no confianza en la AGM de la Law Society) ha obligado a la SRA a \"tomar stock\" y consultar opciones proporcionales. Es improbable que el rollout de enero 2027 se mantenga si hacen falta nuevos vistos del LSB.",
+      "sota:summaryP2": "Pieza no-AI a proposito: el radar no solo mira modelos. Para LegalTech UK y para firmas con presencia Londinense, la gobernanza COLP/COFA condiciona quien puede firmar compliance y que software de risk/AML se exige. Un cambio (o su pausa) mueve presupuestos de compliance tech y de outsourcing de COFA. En ES, el paralelo es quien ostenta la funcion de compliance/RGPD cuando la firma escala: no asumas que el socio unico puede ser a la vez decision unilateral y organo de control. Seguimiento: texto final tras la consulta de las proximas semanas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/sra-announces-pause-to-compliance-officer-rule-changes",
+          "schema:name": "SRA announces pause to compliance officer rule changes",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-01-es-ai-act-transparency",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-01-es-ai-act-transparency",
+      "schema:headline": "Espana: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA lo declaran con claridad)",
+      "schema:datePublished": "2026-09-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Un analisis publicado el 29 de septiembre de 2026 en Cinco Dias (Gary Robertson, Ecix) revisa 113 empresas que operan en Espana frente a las obligaciones de transparencia del art. 50 del Reglamento de IA aplicables desde el 2 de agosto. Hallazgos clave: solo el 6% etiqueta contenidos generados o editados con IA cuando podrian confundirse con realidad; el 43% atiende con asistente conversacional y el 84% de esos usa tecnicas de IA; de los chatbots con IA, solo el 54% informa de forma clara, un 41% usa formulas ambiguas (\"asistente virtual\") y un 5% no dice nada. Un 32% publica algun tipo de politica de uso de IA (mejor en seguros).",
+      "schema:articleBody": "Un analisis publicado el 29 de septiembre de 2026 en Cinco Dias (Gary Robertson, Ecix) revisa 113 empresas que operan en Espana frente a las obligaciones de transparencia del art. 50 del Reglamento de IA aplicables desde el 2 de agosto. Hallazgos clave: solo el 6% etiqueta contenidos generados o editados con IA cuando podrian confundirse con realidad; el 43% atiende con asistente conversacional y el 84% de esos usa tecnicas de IA; de los chatbots con IA, solo el 54% informa de forma clara, un 41% usa formulas ambiguas (\"asistente virtual\") y un 5% no dice nada. Un 32% publica algun tipo de politica de uso de IA (mejor en seguros).\n\nNo es una sancion AEPD, pero es termometro accionable para GC, DPO y vendors con chatbot en ES. El AI Act ya pide aviso expreso de interaccion con IA; disfrazarlo de \"ayudante\" no cumple el criterio de la Comision. Para LegalTech y contact centers juridicos: audita copy de disclaimer, proveedores (la obligacion primaria es del provider, pero el responsable del canal debe exigir cumplimiento) y etiquetado de deepfakes. Encaja con la linea AEPD de esta semana: Espana esta pasando de adoptar IA a demostrar control y transparencia. Checklist corto: inventariar sistemas que hablan con personas, revisar textos, y documentar politicas publicas de uso de IA.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Evidencia empirica ES sobre cumplimiento art. 50 AI Act post-2 ago 2026.",
+      "sota:whyNow": "Publicado 29 Sep; no estaba en PASS previos. Balance ES regulatoria.",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "ai-act",
+        "art-50",
+        "transparencia",
+        "chatbots",
+        "espana",
+        "compliance"
+      ],
+      "sota:summaryP1": "Un analisis publicado el 29 de septiembre de 2026 en Cinco Dias (Gary Robertson, Ecix) revisa 113 empresas que operan en Espana frente a las obligaciones de transparencia del art. 50 del Reglamento de IA aplicables desde el 2 de agosto. Hallazgos clave: solo el 6% etiqueta contenidos generados o editados con IA cuando podrian confundirse con realidad; el 43% atiende con asistente conversacional y el 84% de esos usa tecnicas de IA; de los chatbots con IA, solo el 54% informa de forma clara, un 41% usa formulas ambiguas (\"asistente virtual\") y un 5% no dice nada. Un 32% publica algun tipo de politica de uso de IA (mejor en seguros).",
+      "sota:summaryP2": "No es una sancion AEPD, pero es termometro accionable para GC, DPO y vendors con chatbot en ES. El AI Act ya pide aviso expreso de interaccion con IA; disfrazarlo de \"ayudante\" no cumple el criterio de la Comision. Para LegalTech y contact centers juridicos: audita copy de disclaimer, proveedores (la obligacion primaria es del provider, pero el responsable del canal debe exigir cumplimiento) y etiquetado de deepfakes. Encaja con la linea AEPD de esta semana: Espana esta pasando de adoptar IA a demostrar control y transparencia. Checklist corto: inventariar sistemas que hablan con personas, revisar textos, y documentar politicas publicas de uso de IA.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://cincodias.elpais.com/legal/2026-09-29/la-regulacion-de-la-ia-ya-esta-aqui-la-transparencia-todavia-no.html",
+          "schema:name": "La regulacion de la IA ya esta aqui. La transparencia, todavia no",
+          "sota:sourceId": "src-lawyerpress-news"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai-act"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ecix"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai-act",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ai-act"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-california",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-california"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-casepoint",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-casepoint"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clio"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ecix",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ecix"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iberdrola",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-iberdrola"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ibm",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ibm"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-learned-hand",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-learned-hand"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lexisnexis"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-onboard",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-onboard"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sb574",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sb574"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sra"
+    }
+  ]
+}

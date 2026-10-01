@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-01-casepoint-iq-agents",
+  "date": "2026-09-23",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Casepoint IQ: primeros agentes purpose-built (Relevance Determination e Issue Coding) con QC humano",
+  "summary_p1": "Casepoint anuncio el 23 de septiembre de 2026 los primeros agentes sobre Casepoint IQ: Relevance Determination Agent (relevancia/responsiveness con razonamiento y likelihood score) e Issue Coding Agent (codificacion contra issues del matter, con QC post-run de recall/precision por codigo). Ambos usan un proceso multi-modelo con cruce de salidas, obligan a validar rendimiento en una muestra antes de correr el set completo y registran cada decision humana y de IA en audit trail. Encajan en la plataforma unificada (legal hold, eDiscovery, FOIA, compliance) con autorizaciones FedRAMP High / DoD IL5-6.",
+  "summary_p2": "Frente al ruido de \"agente generico\", Casepoint apuesta por agentes especializados que se encadenan en el mismo entorno de gobierno. Para litigation support y agencias, el criterio de compra es medible: recall/precision por issue, sample gate y audit. En ES/UE, aunque el foco es gobierno US, el diseno (human validation gate + metricas) es el liston que deberias exigir a cualquier vendor de review agentic. No reincluir Relativity claiR de ayer: aqui la senal es el portfolio de agentes de review con metricas, no el chat conversacional sobre el record.",
+  "why_sota": "Primeros agentes IQ en produccion early-access con metricas de recall/precision.",
+  "why_now": "Missed vs PASS 09-30 (ventana RelFest); high-value eDiscovery agentic. NEW.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "casepoint",
+    "ediscovery",
+    "agentes",
+    "relevance",
+    "issue-coding",
+    "fedramp"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ediscovery-today",
+      "url": "https://www.casepoint.com/press/casepoint-expands-casepoint-iq-with-purpose-built-ai-agents/",
+      "cited_title": "Casepoint Expands Casepoint IQ With First Purpose-Built AI Agents",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "entities": [
+    "ent-casepoint"
+  ],
+  "lang": "es",
+  "status": "published"
+}

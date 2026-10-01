@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-01-lexis-protege-mena",
+  "date": "2026-10-01",
+  "type": "product",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "LexisNexis lanza Lexis+ con Protege en MENA: IA agentica anclada en derecho regional (UAE primero)",
+  "summary_p1": "LexisNexis anuncio el 1 de octubre de 2026 la disponibilidad comercial de Lexis+ con Protege en Oriente Medio y Norte de Africa, empezando por Emiratos. La plataforma combina IA agentica (flujos en pasos revisables: research, comparacion, due diligence, compliance, checklists) con corpus juridico MENA: derecho federal UAE y de los siete emiratos, legislacion, gazettes, jurisprudencia, practical guidance y contenido global bajo el mismo login. Incluye drafting asistido, analisis de documentos propios, apoyo bilingue arabe/ingles con terminologia jurisdiccional, y promesa de que los datos del cliente no entrenan modelos publicos.",
+  "summary_p2": "Para despachos e in-house con asuntos GCC, el diferencial que hay que exigir en RFP no es \"tenemos un chat\", sino trazabilidad a fuente local, jerarquia normativa correcta y gobernanza bilingue. El lanzamiento encaja en la oleada Protégé (Skills en India el dia anterior): Lexis empuja workflows agenticos por region, no un unico modelo global. En ES/UE sirve de referencia de producto: cuando un editor ancla agentes en contenido propio y niega training con datos del cliente, el comprador debe pedir evidencia contractual (DPA, ubicacion, citas). Quien compita en research arabigo-anglosajon tendra que demostrar lo mismo o perder el shortlist.",
+  "why_sota": "Despliegue regional de Lexis+ Protégé agentico con corpus MENA localizado.",
+  "why_now": "Comunicado con fecha UAE 1 Oct 2026. NEW.",
+  "geo": [
+    "MENA",
+    "UAE",
+    "Global"
+  ],
+  "topics": [
+    "lexisnexis",
+    "protege",
+    "agentic-ai",
+    "mena",
+    "research",
+    "drafting"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.lexisnexis.com/blogs/ae-legal/b/press-releases/posts/lexisnexis-marks-16-years-in-mena-with-launch-of-lexis-with-protege",
+      "cited_title": "LexisNexis Marks 16 years in MENA With Launch of Lexis+ with Protégé",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "entities": [
+    "ent-lexisnexis"
+  ],
+  "lang": "es",
+  "status": "published"
+}

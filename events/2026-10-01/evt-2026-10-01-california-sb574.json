@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-01-california-sb574",
+  "date": "2026-09-30",
+  "type": "regulation",
+  "sota_score": 9.0,
+  "ai_legaltech": true,
+  "title": "California firma SB 574: prohibe delegar la abogacia a IA generativa y exige verificar citas (incluidas las de IA)",
+  "summary_p1": "El gobernador Gavin Newsom firmo el 30 de septiembre de 2026 la SB 574 (Umberg), una de las primeras leyes estatales de EE.UU. que regula de forma expresa el uso de IA generativa por abogados, arbitros y proveedores de ADR. La norma prohibe delegar el ejercicio de la abogacia a IA generativa, restringe introducir informacion confidencial o no publica en sistemas de IA publicos y obliga a verificar la exactitud de las salidas, en particular de todas las citas jurisprudenciales y legales. Todo escrito judicial debera llevar la firma individual de al menos un abogado de record, y ningun escrito podra incluir citas que el abogado responsable no haya verificado personalmente, incluidas las generadas por IA. Tambien limita que los arbitros deleguen su proceso de decision a IA y exige transparencia cuando usen material generado por IA.",
+  "summary_p2": "Para firmas con asuntos en California (y para vendors que venden drafting/research alli), el liston deja de ser solo etica de colegio o local rule: pasa a estatuto. Hay que revisar politicas de uso de ChatGPT/Claude/Copilot con datos de cliente, flujos de citacion automatica y quien firma. El eco llega a ES/UE como senal de mercado: los compradores pediran trazabilidad de citas y humano responsable, alineado con alucinaciones y con el AI Act de transparencia. Cruza con tu playbook de supervision: si el modelo propone jurisprudencia, el abogado debe poder demostrar verificacion personal antes del filing.",
+  "why_sota": "Primera ley estatal US de amplio alcance sobre IA generativa en la abogacia y arbitraje.",
+  "why_now": "Firma 30 Sep 2026 (Gobierno CA / Bloomberg Law). NEW vs digests previos.",
+  "geo": [
+    "US",
+    "CA"
+  ],
+  "topics": [
+    "sb-574",
+    "california",
+    "citas",
+    "alucinaciones",
+    "etica",
+    "arbitraje",
+    "ia-generativa"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawsites-bob-ambrogi",
+      "url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
+      "cited_title": "California AI framework: Governor Newsom signs SB 574 and related bills",
+      "accessed": "2026-10-01"
+    },
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574",
+      "cited_title": "Bill Text - SB-574 Attorneys, arbitrators, judicial officers, and alternative resolution providers",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "entities": [
+    "ent-california",
+    "ent-sb574"
+  ],
+  "lang": "es",
+  "status": "published"
+}

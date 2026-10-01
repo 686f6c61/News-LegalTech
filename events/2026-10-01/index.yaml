@@ -1,0 +1,68 @@
+scan_id: full-radar-2026-10-01
+date: '2026-10-01'
+release: 26.10.01
+count: 10
+ai_share: 0.9
+dedup_against: events/2026-09-29 + events/2026-09-30 + scans full-radar 09-29/09-30
+  PASS
+event_ids:
+- evt-2026-10-01-clio-learned-hand
+- evt-2026-10-01-california-sb574
+- evt-2026-10-01-lexis-protege-mena
+- evt-2026-10-01-iberdrola-harvey
+- evt-2026-10-01-lexis-skills-india
+- evt-2026-10-01-ibm-content-cortex
+- evt-2026-10-01-casepoint-iq-agents
+- evt-2026-10-01-onboard-ai-assist
+- evt-2026-10-01-sra-pause-colp-cofa
+- evt-2026-10-01-es-ai-act-transparency
+events:
+- id: evt-2026-10-01-clio-learned-hand
+  sota_score: 9.2
+  ai_legaltech: true
+  title: 'Clio compra Learned Hand: IA construida para jueces y tribunales como base
+    de su negocio judiciary'
+- id: evt-2026-10-01-california-sb574
+  sota_score: 9.0
+  ai_legaltech: true
+  title: 'California firma SB 574: prohibe delegar la abogacia a IA generativa y exige
+    verificar citas (incluidas las de IA)'
+- id: evt-2026-10-01-lexis-protege-mena
+  sota_score: 8.2
+  ai_legaltech: true
+  title: 'LexisNexis lanza Lexis+ con Protege en MENA: IA agentica anclada en derecho
+    regional (UAE primero)'
+- id: evt-2026-10-01-iberdrola-harvey
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'Iberdrola integra Harvey en juridico y fiscal: transformacion para 300-400
+    profesionales tras pilotos'
+- id: evt-2026-10-01-lexis-skills-india
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'LexisNexis lanza Skills en Lexis Advance with Protege en India: workflows
+    guiados (DPA, PIA, demand letters)'
+- id: evt-2026-10-01-ibm-content-cortex
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'IBM Content Cortex Premium GA: agentes gobernados para redaccion, legal
+    holds, clasificacion y busqueda'
+- id: evt-2026-10-01-casepoint-iq-agents
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'Casepoint IQ: primeros agentes purpose-built (Relevance Determination e
+    Issue Coding) con QC humano'
+- id: evt-2026-10-01-onboard-ai-assist
+  sota_score: 6.8
+  ai_legaltech: true
+  title: 'OnBoard lanza AI Assist: IA conversacional con citas sobre el historial
+    del consejo de administracion'
+- id: evt-2026-10-01-sra-pause-colp-cofa
+  sota_score: 6.6
+  ai_legaltech: false
+  title: SRA pausa las nuevas reglas COLP/COFA tras presion de firmas SME (UK)
+- id: evt-2026-10-01-es-ai-act-transparency
+  sota_score: 6.5
+  ai_legaltech: true
+  title: 'Espana: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA
+    lo declaran con claridad)'

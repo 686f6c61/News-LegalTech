@@ -1,0 +1,50 @@
+{
+  "id": "evt-2026-10-01-clio-learned-hand",
+  "date": "2026-09-30",
+  "type": "market",
+  "sota_score": 9.2,
+  "ai_legaltech": true,
+  "title": "Clio compra Learned Hand: IA construida para jueces y tribunales como base de su negocio judiciary",
+  "summary_p1": "Clio anuncio el 30 de septiembre de 2026 la adquisicion de Learned Hand, una startup de IA pensada solo para jueces y personal de tribunales. La plataforma conecta con los case management systems de las cortes, ayuda a organizar escritos, senalar inconsistencias, investigar y redactar bench memos y ordenes. Ya opera en varias cortes de EE.UU., incluida la Superior Court of Los Angeles County. El precio no se ha hecho publico. La compra corona una secuencia rapida: en agosto Clio ficho a Pablo Arredondo (cofundador de Casetext) como SVP judiciary y en septiembre a Bridget Mary McCormack (ex Chief Justice de Michigan y ex CEO de la AAA) como general manager judiciary.",
+  "summary_p2": "El mensaje de negocio es claro: si el despacho y el litigante aceleran con IA y la corte no, el cuello de botella solo se desplaza. Clio aporta el corpus de vLex/Docket (mas de mil millones de documentos y filings) sobre un producto ya disenado \"judiciary grade\", no un tool de abogado reciclado. Para vendors de court tech y para firmas con mucha litigacion US, sube la apuesta de quien controla el stack judicial. En ES/UE el caso es US-centric, pero el patron importa: quien vende a administracion de justicia tendra que demostrar workflow de juez/letrado, no demos de chat generico. Para in-house y Big Law con volumen US, conviene mapear que datos de docket y privilegio entran en esa capa cuando Clio anuncie el producto integrado.",
+  "why_sota": "Primera M&A mayor de Clio hacia judiciary AI con producto en produccion en cortes reales.",
+  "why_now": "Anuncio 30 Sep 2026 (AL, LawSites, Legal IT Insider). No estaba en PASS 09-29 ni 09-30.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "m&a",
+    "judiciary",
+    "court-tech",
+    "ia-judicial",
+    "clio",
+    "learned-hand"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands/",
+      "cited_title": "Clio Buys Learned Hand as Judiciary Strategy Expands",
+      "accessed": "2026-10-01"
+    },
+    {
+      "source_id": "src-lawsites-bob-ambrogi",
+      "url": "https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html",
+      "cited_title": "Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product",
+      "accessed": "2026-10-01"
+    },
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/clio-buys-learned-hand-as-judiciary-strategy-takes-shape/",
+      "cited_title": "Clio buys Learned Hand as judiciary strategy takes shape",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "entities": [
+    "ent-clio",
+    "ent-learned-hand"
+  ],
+  "lang": "es",
+  "status": "published"
+}

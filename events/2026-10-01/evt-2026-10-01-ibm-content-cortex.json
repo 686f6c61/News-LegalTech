@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-01-ibm-content-cortex",
+  "date": "2026-09-30",
+  "type": "product",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "IBM Content Cortex Premium GA: agentes gobernados para redaccion, legal holds, clasificacion y busqueda",
+  "summary_p1": "IBM declaro el 30 de septiembre de 2026 la disponibilidad general de Content Cortex Premium: agentes especializados para redaccion (redaction) de PII, legal holds, clasificacion, extraccion y busqueda semantica sobre el ciclo de vida del contenido empresarial. La tesis es que un agente sin politica es riesgo: el Premium evalua las politicas que configura la organizacion (que redactar, holds permanentes o por rol, cuando levantar un hold), propone el siguiente paso con score de confianza, pide aprobacion humana y deja traza inmutable de peticion, recomendacion, aprobacion y cambio. Corre donde ya vive el contenido (hibrido), con camino de continuidad para FileNet/CMEE/CMOD.",
+  "summary_p2": "Para legal ops, eDiscovery e information governance, es senal de que el campo de batalla pasa de \"chat sobre documentos\" a \"agente que ejecuta hold/redact con audit\". En RFP hay que pedir: politicas versionadas, human-in-the-loop obligatorio en acciones de responsabilidad, y evidencia forense filtrable por agente. En ES/UE conecta con RGPD, retencion y lit-hold: si el agente puede purgar o liberar un hold, el DPO y el abogado de litigio deben firmar el diseno. Complementa (sin solapar) el relato Relativity claiR de ayer: aqui el foco es records/ECM enterprise, no solo review set.",
+  "why_sota": "GA de agentes ECM con gobernanza explicita sobre legal hold y redaction.",
+  "why_now": "GA anunciada 30 Sep 2026. NEW.",
+  "geo": [
+    "Global",
+    "US",
+    "EU"
+  ],
+  "topics": [
+    "ibm",
+    "content-cortex",
+    "legal-hold",
+    "redaction",
+    "ig",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ediscovery-today",
+      "url": "https://www.ibm.com/new/announcements/ibm-content-cortex-closing-the-data-value-gap",
+      "cited_title": "IBM Content Cortex Premium is here: Use governed content to propel your business",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "entities": [
+    "ent-ibm"
+  ],
+  "lang": "es",
+  "status": "published"
+}
