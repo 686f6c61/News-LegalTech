@@ -138,7 +138,7 @@ jobs:
             git push -u origin HEAD || git push --force-with-lease -u origin HEAD
             gh pr create --base main --head "$branch" \
               --title "chore(release): publica ${versions}" \
-              --body "Empaqueta events/ ya escritos en releases/<YY.MM.DD>/. El scan editorial no forma parte de este PR."
+              --body "Empaqueta events/ ya escritos en releases/<DD.MM.YY>/. El scan editorial no forma parte de este PR. Las releases historicas YY.MM.DD no se renombran."
             echo "pushed=pr" >> "$GITHUB_OUTPUT"
             exit 0
           fi

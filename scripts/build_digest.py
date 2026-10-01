@@ -28,7 +28,7 @@ Rollup previsto
    - Frontmatter cadence=biweekly; event_ids = union del periodo
    - Cuerpo: tendencias, releases y foco AI (~focus_ai_pct)
 
-Release JSON-LD (releases/X.Y.Z/) la construye scripts/build_release.py.
+Release JSON-LD (releases/DD.MM.YY/ en dias futuros) la construye scripts/build_release.py.
 Este stub solo planifica el rollup Markdown de content/ y no escribe ficheros.
 """
 
