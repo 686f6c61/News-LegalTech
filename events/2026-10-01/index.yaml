@@ -25,17 +25,17 @@ events:
 - id: evt-2026-10-01-california-sb574
   sota_score: 9.0
   ai_legaltech: true
-  title: 'California firma SB 574: prohibe delegar la abogacia a IA generativa y exige
+  title: 'California firma SB 574: prohíbe delegar la abogacía a IA generativa y exige
     verificar citas (incluidas las de IA)'
 - id: evt-2026-10-01-lexis-protege-mena
   sota_score: 8.2
   ai_legaltech: true
-  title: 'LexisNexis lanza Lexis+ con Protege en MENA: IA agentica anclada en derecho
+  title: 'LexisNexis lanza Lexis+ con Protege en MENA: IA agéntica anclada en derecho
     regional (UAE primero)'
 - id: evt-2026-10-01-iberdrola-harvey
   sota_score: 8.0
   ai_legaltech: true
-  title: 'Iberdrola integra Harvey en juridico y fiscal: transformacion para 300-400
+  title: 'Iberdrola integra Harvey en jurídico y fiscal: transformación para 300-400
     profesionales tras pilotos'
 - id: evt-2026-10-01-lexis-skills-india
   sota_score: 7.6
@@ -45,8 +45,8 @@ events:
 - id: evt-2026-10-01-ibm-content-cortex
   sota_score: 7.4
   ai_legaltech: true
-  title: 'IBM Content Cortex Premium GA: agentes gobernados para redaccion, legal
-    holds, clasificacion y busqueda'
+  title: 'IBM Content Cortex Premium GA: agentes gobernados para redacción, legal
+    holds, clasificación y búsqueda'
 - id: evt-2026-10-01-casepoint-iq-agents
   sota_score: 7.0
   ai_legaltech: true
@@ -56,13 +56,13 @@ events:
   sota_score: 6.8
   ai_legaltech: true
   title: 'OnBoard lanza AI Assist: IA conversacional con citas sobre el historial
-    del consejo de administracion'
+    del consejo de administración'
 - id: evt-2026-10-01-sra-pause-colp-cofa
   sota_score: 6.6
   ai_legaltech: false
-  title: SRA pausa las nuevas reglas COLP/COFA tras presion de firmas SME (UK)
+  title: SRA pausa las nuevas reglas COLP/COFA tras presión de firmas SME (UK)
 - id: evt-2026-10-01-es-ai-act-transparency
   sota_score: 6.5
   ai_legaltech: true
-  title: 'Espana: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA
+  title: 'España: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA
     lo declaran con claridad)'

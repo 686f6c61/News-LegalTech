@@ -1,10 +1,10 @@
-# Alias: el catalogo canonico es sources/catalog.yaml
+# Alias: el catálogo canónico es sources/catalog.yaml
 # Este fichero duplica el contenido para tools que esperan full-catalog.yaml.
 
 # Catálogo completo de fuentes LegalTech (~128)
 # Generado desde /workspace/legaltech/fuentes-legaltech-mundiales.md
 # Campos: id, name, url, type, frequency, why, region, lang, tier (core|watch|archive)
-# Tipografia: ASCII double quotes only.
+# Tipografia: comillas dobles ASCII. El español de los campos va en UTF-8 (ñ y tildes).
 version: "1.0.0"
 generated_from: "/workspace/legaltech/fuentes-legaltech-mundiales.md"
 count: 128

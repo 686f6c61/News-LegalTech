@@ -4,11 +4,11 @@
   "type": "regulation",
   "sota_score": 6.6,
   "ai_legaltech": false,
-  "title": "SRA pausa las nuevas reglas COLP/COFA tras presion de firmas SME (UK)",
-  "summary_p1": "La Solicitors Regulation Authority britanica anuncio el 1 de octubre de 2026 una \"pausa\" en la implantacion de las nuevas reglas sobre compliance officers. Las normas ya aprobadas por el Legal Services Board impedian que un manager con poder de decision unilateral fuera COLP o COFA en firmas con facturacion superior a 600.000 GBP o mas de 2 millones GBP en client money. La reaccion de firmas pequenas y de la SME & Boutique Law Firm Alliance (incluido un posible voto de no confianza en la AGM de la Law Society) ha obligado a la SRA a \"tomar stock\" y consultar opciones proporcionales. Es improbable que el rollout de enero 2027 se mantenga si hacen falta nuevos vistos del LSB.",
-  "summary_p2": "Pieza no-AI a proposito: el radar no solo mira modelos. Para LegalTech UK y para firmas con presencia Londinense, la gobernanza COLP/COFA condiciona quien puede firmar compliance y que software de risk/AML se exige. Un cambio (o su pausa) mueve presupuestos de compliance tech y de outsourcing de COFA. En ES, el paralelo es quien ostenta la funcion de compliance/RGPD cuando la firma escala: no asumas que el socio unico puede ser a la vez decision unilateral y organo de control. Seguimiento: texto final tras la consulta de las proximas semanas.",
+  "title": "SRA pausa las nuevas reglas COLP/COFA tras presión de firmas SME (UK)",
+  "summary_p1": "La Solicitors Regulation Authority británica anunció el 1 de octubre de 2026 una \"pausa\" en la implantación de las nuevas reglas sobre compliance officers. Las normas ya aprobadas por el Legal Services Board impedían que un manager con poder de decisión unilateral fuera COLP o COFA en firmas con facturación superior a 600.000 GBP o más de 2 millones GBP en client money. La reacción de firmas pequeñas y de la SME & Boutique Law Firm Alliance (incluido un posible voto de no confianza en la AGM de la Law Society) ha obligado a la SRA a \"tomar stock\" y consultar opciones proporcionales. Es improbable que el rollout de enero 2027 se mantenga si hacen falta nuevos vistos del LSB.",
+  "summary_p2": "Pieza no-AI a propósito: el radar no solo mira modelos. Para LegalTech UK y para firmas con presencia Londinense, la gobernanza COLP/COFA condiciona quien puede firmar compliance y que software de risk/AML se exige. Un cambio (o su pausa) mueve presupuestos de compliance tech y de outsourcing de COFA. En ES, el paralelo es quien ostenta la función de compliance/RGPD cuando la firma escala: no asumas que el socio único puede ser a la vez decisión unilateral y órgano de control. Seguimiento: texto final tras la consulta de las próximas semanas.",
   "why_sota": "Pausa regulatoria material sobre governance de firmas UK; impacto en compliance ops.",
-  "why_now": "Anuncio SRA 1 Oct 2026 (Legal Futures). NEW; balance no-AI del dia.",
+  "why_now": "Anuncio SRA 1 Oct 2026 (Legal Futures). NEW; balance no-AI del día.",
   "geo": [
     "UK"
   ],

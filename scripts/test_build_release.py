@@ -47,7 +47,10 @@ def _write_event(root: Path, day: date) -> None:
         ],
         "entities": [],
     }
-    (day_dir / f"{event_id}.json").write_text(json.dumps(event), encoding="utf-8")
+    (day_dir / f"{event_id}.json").write_text(
+        json.dumps(event, ensure_ascii=False),
+        encoding="utf-8",
+    )
 
 
 class VersionTests(unittest.TestCase):
@@ -296,6 +299,95 @@ class RepoTests(unittest.TestCase):
         self.assertFalse(by_version["02.10.26"].historical)
         self.assertTrue(all(by_version[v].historical for v in ("26.09.29", "26.09.30", "26.10.01")))
         self.assertEqual(br.resolve_version(br.ROOT, date(2026, 10, 2)), "02.10.26")
+
+
+class OrthographyTests(unittest.TestCase):
+    def test_restore_keeps_utf8_and_english_quotes(self) -> None:
+        import orthography as orth
+
+        self.assertEqual(orth.restore_prose("senalar la pagina"), "señalar la página")
+        self.assertEqual(orth.restore_prose("esta ventana"), "esta ventana")
+        self.assertEqual(orth.restore_prose("Ivo anuncio el dato"), "Ivo anunció el dato")
+        self.assertEqual(orth.restore_prose("Anuncio RelFest"), "Anuncio RelFest")
+        self.assertEqual(
+            orth.restore_prose('la decision y "The decision is final"'),
+            'la decisión y "The decision is final"',
+        )
+        self.assertEqual(orth.restore_prose("pension provider"), "pension provider")
+        self.assertEqual(
+            orth.restore_prose("https://ejemplo.test/pagina senalar"),
+            "https://ejemplo.test/pagina señalar",
+        )
+        restored = orth.restore_prose("señalar")
+        self.assertEqual(orth.restore_prose(restored), restored)
+
+    def test_utf8_roundtrip_in_graph(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            day = date(2026, 10, 3)
+            day_dir = root / "events" / day.isoformat()
+            day_dir.mkdir(parents=True)
+            event_id = f"evt-{day.isoformat()}-enie"
+            event = {
+                "id": event_id,
+                "date": day.isoformat(),
+                "type": "product",
+                "sota_score": 7.0,
+                "ai_legaltech": True,
+                "title": "Hay que señalar la página",
+                "summary_p1": "La señal está en la página y no en un senuelo plano con longitud suficiente.",
+                "summary_p2": "Impacto de negocio del producto de prueba con longitud suficiente para el esquema.",
+                "sources": [
+                    {
+                        "source_id": "src-demo",
+                        "url": "https://example.com/a",
+                        "cited_title": "Fuente",
+                    }
+                ],
+                "entities": [],
+            }
+            raw = json.dumps(event, ensure_ascii=False)
+            self.assertIn("señalar", raw)
+            self.assertNotIn("\\u00f1", raw)
+            (day_dir / f"{event_id}.json").write_text(raw, encoding="utf-8")
+            result = br.build_day(root, day)
+            self.assertFalse(result.skipped)
+            graph = result.graph_path.read_text(encoding="utf-8")
+            self.assertIn("señalar", graph)
+            self.assertIn("página", graph)
+            self.assertNotIn("\\u00f1", graph)
+
+    def test_folded_spanish_is_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            day_dir = root / "events" / "2026-10-03"
+            day_dir.mkdir(parents=True)
+            event = {
+                "id": "evt-2026-10-03-malo",
+                "date": "2026-10-03",
+                "type": "product",
+                "sota_score": 7.0,
+                "ai_legaltech": True,
+                "title": "Hay que senalar la pagina",
+                "summary_p1": "Idea clave del producto de prueba con longitud suficiente para el esquema.",
+                "summary_p2": "Impacto de negocio del producto de prueba con longitud suficiente para el esquema.",
+                "sources": [
+                    {
+                        "source_id": "src-demo",
+                        "url": "https://example.com/a",
+                        "cited_title": "Fuente",
+                    }
+                ],
+            }
+            path = day_dir / "evt-2026-10-03-malo.json"
+            path.write_text(json.dumps(event, ensure_ascii=False), encoding="utf-8")
+            with self.assertRaises(br.ReleaseError):
+                br.load_event(path)
+
+    def test_recent_corpus_orthography(self) -> None:
+        import orthography as orth
+
+        self.assertEqual(orth.recent_problem_paths(br.ROOT), [])
 
 
 if __name__ == "__main__":

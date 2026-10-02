@@ -43,3 +43,9 @@ export const collections = {
 
 - Comillas dobles ASCII `"` solamente (no tipográficas).
 - Sin rayas em dash (U+2014); usar guion ASCII `-` o frases reformuladas.
+- Ortografía española en UTF-8: `ñ`, `á`, `é`, `í`, `ó`, `ú`, `ü` (`señalar`, `página`). El ASCII de esta sección es solo para comillas y guion.
+- `scripts/orthography.py --check` rechaza prosa reciente con formas planas (`senalar`, `pagina`).
+
+## Inglés y español
+
+Mantener el término inglés de LegalTech o de producto y, en el primer uso del título y del cuerpo, añadir el español entre paréntesis. Ejemplo: `legal hold (retención de documentos)`. No sustituir el inglés, no alargar la pieza y no añadir métricas.

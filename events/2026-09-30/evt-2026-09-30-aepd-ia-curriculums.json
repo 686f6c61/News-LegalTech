@@ -4,11 +4,11 @@
   "type": "guidance",
   "sota_score": 8.8,
   "ai_legaltech": true,
-  "title": "AEPD: advertencia preventiva sobre IA para cribado y puntuacion de curriculums (EXP202600427)",
-  "summary_p1": "La AEPD advierte a una empresa que proyectaba implantar un sistema de IA para analizar curriculums, asignar puntuaciones y priorizar candidaturas en seleccion y movilidad interna. La herramienta aun no estaba en produccion en Espana, pero ya se habia comunicado al personal. La Agencia recuerda proteccion de datos desde el diseno, evaluacion de riesgos (y EIPD si hay alto riesgo), transparencia frente a candidatos y, sobre todo, que la \"intervencion humana\" solo cuenta si quien decide puede discrepar de la puntuacion del sistema sin limitarse a homologarla.",
-  "summary_p2": "Distinto del marco agéntico de ayer: aqui el foco es scoring laboral y art. 22 RGPD en un caso concreto de HR tech. Si tu firma o tu cliente usa (o vende) IA de reclutamiento, hay que documentar funcionamiento, informar con claridad el papel del modelo y probar supervision efectiva antes del go-live. Para LegalTech y DPO, es senal operativa de que la AEPD usa la advertencia preventiva del art. 58.2.a) RGPD como herramienta temprana, no solo sancion posterior. Cruza cualquier piloto de screening con EIPD, minimizacion de datos del CV y criterios de no discriminacion; el \"humano al final\" de powerpoint no basta.",
-  "why_sota": "Primera advertencia preventiva AEPD muy visible sobre IA de seleccion de personal; criterios accionables de transparencia y human oversight.",
-  "why_now": "Nota AEPD 23 Sep; amplificacion Iberley/El Economista 29 Sep. NO estaba en el digest 2026-09-29 (solo V1.2 agentica). NEW.",
+  "title": "AEPD: advertencia preventiva sobre IA para cribado y puntuación de currículums (EXP202600427)",
+  "summary_p1": "La AEPD advierte a una empresa que proyectaba implantar un sistema de IA para analizar currículums, asignar puntuaciones y priorizar candidaturas en selección y movilidad interna. La herramienta aún no estaba en producción en España, pero ya se había comunicado al personal. La Agencia recuerda protección de datos desde el diseño, evaluación de riesgos (y EIPD si hay alto riesgo), transparencia frente a candidatos y, sobre todo, que la \"intervención humana\" solo cuenta si quien decide puede discrepar de la puntuación del sistema sin limitarse a homologarla.",
+  "summary_p2": "Distinto del marco agéntico de ayer: aquí el foco es scoring laboral y art. 22 RGPD en un caso concreto de HR tech. Si tu firma o tu cliente usa (o vende) IA de reclutamiento, hay que documentar funcionamiento, informar con claridad el papel del modelo y probar supervisión efectiva antes del go-live. Para LegalTech y DPO, es señal operativa de que la AEPD usa la advertencia preventiva del art. 58.2.a) RGPD como herramienta temprana, no solo sanción posterior. Cruza cualquier piloto de screening con EIPD, minimización de datos del CV y criterios de no discriminación; el \"humano al final\" de powerpoint no basta.",
+  "why_sota": "Primera advertencia preventiva AEPD muy visible sobre IA de selección de personal; criterios accionables de transparencia y human oversight.",
+  "why_now": "Nota AEPD 23 Sep; amplificación Iberley/El Economista 29 Sep. NO estaba en el digest 2026-09-29 (solo V1.2 agéntica). NEW.",
   "geo": [
     "ES",
     "EU"
@@ -26,13 +26,13 @@
     {
       "source_id": "src-aepd",
       "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/agencia-recuerda-garantias-para-utilizar-ia-en-analisis-curriculums",
-      "cited_title": "La Agencia recuerda las garantias para utilizar IA en el analisis de curriculums",
+      "cited_title": "La Agencia recuerda las garantías para utilizar IA en el análisis de currículums",
       "accessed": "2026-09-30"
     },
     {
       "source_id": "src-aepd",
       "url": "https://www.iberley.es/noticias/la-aepd-fija-garantias-usar-ia-seleccion-curriculums-37028",
-      "cited_title": "La AEPD fija garantias para usar IA en la seleccion de curriculums",
+      "cited_title": "La AEPD fija garantías para usar IA en la selección de currículums",
       "accessed": "2026-09-30"
     }
   ],

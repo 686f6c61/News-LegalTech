@@ -15,11 +15,11 @@
 
 ## Eventos incluidos
 
-1. `evt-2026-09-30-tr-ross-3rd-circuit` (sota 9.2, litigation): 3rd Circuit afirma la victoria de Thomson Reuters frente a ROSS Intelligence: primer fallo federal de apelacion sobre fair use en entrenamiento de IA
-2. `evt-2026-09-30-aepd-ia-curriculums` (sota 8.8, guidance): AEPD: advertencia preventiva sobre IA para cribado y puntuacion de curriculums (EXP202600427)
-3. `evt-2026-09-30-morae-morai-spend` (sota 7.6, product): Morae lanza Legal Intelligence Platform con MorAI Spend Intelligence (IA + revision humana de facturas)
+1. `evt-2026-09-30-tr-ross-3rd-circuit` (sota 9.2, litigation): 3rd Circuit afirma la victoria de Thomson Reuters frente a ROSS Intelligence: primer fallo federal de apelación sobre fair use en entrenamiento de IA
+2. `evt-2026-09-30-aepd-ia-curriculums` (sota 8.8, guidance): AEPD: advertencia preventiva sobre IA para cribado y puntuación de currículums (EXP202600427)
+3. `evt-2026-09-30-morae-morai-spend` (sota 7.6, product): Morae lanza Legal Intelligence Platform con MorAI Spend Intelligence (IA + revisión humana de facturas)
 4. `evt-2026-09-30-relativity-clair-aap` (sota 7.2, product): Relativity claiR: KPMG y Big Law entran en Advanced Access (GA prevista inicios 2027)
-5. `evt-2026-09-30-ascom-aicom` (sota 7.0, standards): ASCOM lanza AICOM: certificacion profesional de Compliance en Inteligencia Artificial (EU AI Act)
+5. `evt-2026-09-30-ascom-aicom` (sota 7.0, standards): ASCOM lanza AICOM: certificación profesional de Compliance en Inteligencia Artificial (EU AI Act)
 6. `evt-2026-09-30-8am-mycase-mcp` (sota 6.8, product): 8am MyCase lanza conector MCP oficial para Claude (73 acciones) e IQ Firm Agent / Draft en roadmap
 
 **Foco AI LegalTech:** 6/6 eventos del día.

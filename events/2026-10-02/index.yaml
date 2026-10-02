@@ -30,12 +30,12 @@ events:
 - id: evt-2026-10-02-birss-lip-ai-page-limits
   sota_score: 8.3
   ai_legaltech: true
-  title: Sir Colin Birss propone limite de paginas para litigantes en persona que
+  title: Sir Colin Birss propone límite de páginas para litigantes en persona que
     usan IA (UK)
 - id: evt-2026-10-02-aepd-brecha-agente-ia
   sota_score: 8.0
   ai_legaltech: true
-  title: 'AEPD: primera notificacion en Espana de brecha de datos ejecutada por un
+  title: 'AEPD: primera notificación en España de brecha de datos ejecutada por un
     agente de IA'
 - id: evt-2026-10-02-leo-ai-complaints
   sota_score: 7.6
@@ -55,14 +55,14 @@ events:
   sota_score: 6.9
   ai_legaltech: true
   title: 'Repario adquiere UnitedLex: ALSP a escala enterprise con workflows AI y
-    soberania de datos'
+    soberanía de datos'
 - id: evt-2026-10-02-opus2-ingenuity-depositions
   sota_score: 6.7
   ai_legaltech: true
-  title: 'Opus 2 Ingenuity: workflow agentico de deposition designations con audit
+  title: 'Opus 2 Ingenuity: workflow agéntico de deposition designations con audit
     trail'
 - id: evt-2026-10-02-ai-value-gap
   sota_score: 6.5
   ai_legaltech: true
-  title: 'AI Value Gap: el 91% ve a su organizacion por debajo del potencial de la
+  title: 'AI Value Gap: el 91% ve a su organización por debajo del potencial de la
     IA (y solo el 18% mide ROI)'
