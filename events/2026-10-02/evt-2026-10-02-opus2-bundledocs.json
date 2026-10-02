@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-02-opus2-bundledocs",
+  "date": "2026-10-01",
+  "type": "market",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Opus 2 compra Bundledocs: bundling colaborativo AI-ready para disputas comerciales",
+  "summary_p1": "Opus 2 anuncio el 1 de octubre de 2026 la adquisicion de Bundledocs (Cork), software cloud de document bundling colaborativo \"AI-ready\" usado por unos 1.900 clientes en 35 paises, incluidos mas de 100 del UK Top 200. Es la tercera compra de Opus 2 en cinco anos y refuerza su apuesta por el ciclo de disputes, sobre la plataforma Ingenuity (agentic AI) ya presente en el 98% del Am Law 50 y el 96% del top 50 global. El objetivo declarado: automatizar preparacion, revision y gestion segura de bundles complejos en firmas multi-jurisdiccionales.",
+  "summary_p2": "Para litigation support y disputes UK/EU, consolida un stack de sala (transcripts, bundles, collaboration) bajo un vendor con narrativa agentica. En RFP, pide hoja de ruta de integracion Bundledocs-Ingenuity, certificaciones (ISO 27001 / SOC 2 Type II ya citadas) y que el \"AI-ready\" se traduzca en agentes auditables, no solo OCR. En ES, firmas con arbitraje/litigio internacional deben vigilar solape con DMS y con herramientas de bundling locales. Pieza de M&A practico: menos hype de modelo, mas workflow de documento de sala.",
+  "why_sota": "M&A relevante en disputes tech UK/IE con base de clientes Top 200 y ancla a plataforma agentica Opus 2.",
+  "why_now": "LawNext / Law.com 1 Oct 2026. NEW.",
+  "geo": [
+    "UK",
+    "IE",
+    "Global"
+  ],
+  "topics": [
+    "m&a",
+    "disputes",
+    "document-bundling",
+    "opus2",
+    "bundledocs"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/opus-2-acquires-bundledocs-to-advance-its-position-as-the-leader-in-commercial-disputes-software.html",
+      "cited_title": "Opus 2 acquires Bundledocs to advance its position as the leader in commercial disputes software",
+      "accessed": "2026-10-02"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/01/opus-2-acquires-bundledocs-aiming-to-build-out-document-bundling-capabilities/",
+      "cited_title": "Opus 2 Acquires Bundledocs, Aiming to Build Out Document Bundling Capabilities",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [
+    "ent-opus2",
+    "ent-bundledocs"
+  ],
+  "lang": "es",
+  "status": "published"
+}

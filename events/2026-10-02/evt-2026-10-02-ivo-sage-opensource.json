@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-02-ivo-sage-opensource",
+  "date": "2026-10-01",
+  "type": "product",
+  "sota_score": 9.0,
+  "ai_legaltech": true,
+  "title": "Ivo publica Ivo Sage open-source para contratos y pone en GA Collaborate (ciclo de vida completo)",
+  "summary_p1": "Ivo anuncio el 1 de octubre de 2026, en su conferencia Inscribe, Ivo Sage: el primer modelo open-source de una legal AI company post-entrenado para trabajo contractual de largo horizonte. El modelo se construyo con River AI partiendo de DeepSeek V4 Flash, con datos publicos y sinteticos generados por abogados; tras reinforcement learning paso del 70% al 91% de los criterios del Legal Agent Benchmark (LAB) Contracts, con eficiencia de tokens superior a modelos frontier mas grandes. En el mismo acto presento el Ivo-micro1 Contract Bench (con micro1), que mide no solo ediciones sino juicio: priorizar issues, contenerse, adaptar al deal, escalar y seguir el playbook. Hallazgos tempranos: los modelos ceden con facilidad (46% acierto al contraproponer frente a 82% al aceptar), apenas escalan (23% de criterios de escalado) y empeoran cuando el deal cambia la respuesta correcta.",
+  "summary_p2": "Ademas, Ivo declaro la disponibilidad general de Collaborate: plataforma end-to-end que lleva el contrato desde intake hasta firma y, despues, Intelligence para buscar obligaciones y patrones en el portfolio. Para in-house Fortune 500 y vendors CLM, la senal doble importa: (1) open-weight legal domain deja de ser teoria y obliga a preguntar en RFP por benchmark, licencia y fine-tune on-prem; (2) el valor comercial sigue en workflow + playbook + escalation, no en el chat. En ES/UE, un modelo descargable implica EIPD, residencia y quien controla los pesos si hay datos de cliente en el fine-tune. Checklist: pedir el Contract Bench publico, DPA de Collaborate y politica de no-training; no confundir \"open-source\" con \"listo para produccion sin gobierno\".",
+  "why_sota": "Primera legal AI company que libera un modelo OSS post-entrenado para contratos + GA de plataforma ciclo de vida.",
+  "why_now": "Anuncio 1 Oct 2026 (GlobeNewswire / Inscribe). NEW vs PASS 09-29/09-30/10-01.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "open-source",
+    "contract-ai",
+    "clm",
+    "benchmark",
+    "ivo",
+    "collaborate"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.globenewswire.com/news-release/2026/10/01/3372932/0/en/ivo-becomes-the-first-legal-ai-company-to-publish-a-free-open-source-model-post-trained-for-long-horizon-contract-work.html",
+      "cited_title": "Ivo Becomes The First Legal AI Company to Publish a Free Open-Source Model Post-Trained for Long-Horizon Contract Work",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [
+    "ent-ivo"
+  ],
+  "lang": "es",
+  "status": "published"
+}

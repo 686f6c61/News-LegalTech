@@ -1,0 +1,32 @@
+{
+  "id": "evt-2026-10-02-leo-ai-complaints",
+  "date": "2026-10-01",
+  "type": "regulation",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Legal Ombudsman (UK): la IA ya triaje quejas de clientes y puede reducir o alargar el conflicto",
+  "summary_p1": "El Legal Ombudsman britanico publico el 1 de octubre de 2026 el informe \"AI and complaints: removing barriers, reinforcing divides?\" (encuesta Ipsos a 2.196 adultos + revision de 200 expedientes). De quienes formularon o consideraron una queja formal en 12 meses (22%), el 54% uso IA; en la muestra de ficheros LeO, el 51% mostraba indicios (formato excesivo, citas legales no sustentadas, peticiones poco practicas). Matiz clave: entre quienes usaron IA para decidir si quejarse, el 47% decidio no quejarse y el 32% si — triage informal, no solo generador de volumen. La IA ayuda a entender el proceso (75%) y a neurodivergentes/traduccion, pero tambien alarga y juridifica mal las reclamaciones. Brecha digital: 70% de menores de 35 frente a 16% de mayores de 55.",
+  "summary_p2": "LeO publico guias Spotlight para consumidores (con prompt plantilla) y para proveedores. Aviso a firmas: responder con IA \"a toda costa\" puede sabotear la resolucion. Para compliance UK y eco en colegios ES, hay que adaptar intake de quejas a estilo IA-asistido, formar al personal y medir si la IA del cliente mejora o empeora el time-to-resolution. No asumir que mas IA = mas quejas; asumir que cambia la forma. Vendors de client intake / CRM legal: oportunidad de detectores de \"AI-shaped complaint\" y flujos de aclaracion temprana.",
+  "why_sota": "Primer estudio regulador UK a escala sobre IA en el ciclo de quejas legales con datos cuantitativos.",
+  "why_now": "Legal Futures 1 Oct 2026. NEW.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "legal-ombudsman",
+    "complaints",
+    "consumer-ai",
+    "uk-regulation"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/leo-unhappy-clients-turning-to-ai-but-thats-might-not-be-bad",
+      "cited_title": "LeO: Unhappy clients turning to AI – but that might not be so bad",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "published"
+}

@@ -288,8 +288,13 @@ class RepoTests(unittest.TestCase):
             self.assertFalse((br.ROOT / "releases" / br.version_for_date(day)).exists())
         self.assertEqual(br.pending_dates(br.ROOT), [])
         checked = br.check_published(br.ROOT)
-        self.assertEqual([item.version for item in checked], ["26.09.29", "26.09.30", "26.10.01"])
-        self.assertTrue(all(item.historical for item in checked))
+        self.assertEqual(
+            [item.version for item in checked],
+            ["02.10.26", "26.09.29", "26.09.30", "26.10.01"],
+        )
+        by_version = {item.version: item for item in checked}
+        self.assertFalse(by_version["02.10.26"].historical)
+        self.assertTrue(all(by_version[v].historical for v in ("26.09.29", "26.09.30", "26.10.01")))
         self.assertEqual(br.resolve_version(br.ROOT, date(2026, 10, 2)), "02.10.26")
 
 

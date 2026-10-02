@@ -1,0 +1,68 @@
+scan_id: full-radar-2026-10-02
+date: '2026-10-02'
+release: 02.10.26
+count: 10
+ai_share: 1.0
+dedup_against: events/2026-09-29 + events/2026-09-30 + events/2026-10-01 + scans full-radar
+  09-29/09-30/10-01 PASS
+event_ids:
+- evt-2026-10-02-ivo-sage-opensource
+- evt-2026-10-02-arceus-raises-17m
+- evt-2026-10-02-birss-lip-ai-page-limits
+- evt-2026-10-02-aepd-brecha-agente-ia
+- evt-2026-10-02-leo-ai-complaints
+- evt-2026-10-02-driven-lawyers-nl
+- evt-2026-10-02-opus2-bundledocs
+- evt-2026-10-02-repario-unitedlex
+- evt-2026-10-02-opus2-ingenuity-depositions
+- evt-2026-10-02-ai-value-gap
+events:
+- id: evt-2026-10-02-ivo-sage-opensource
+  sota_score: 9.0
+  ai_legaltech: true
+  title: Ivo publica Ivo Sage open-source para contratos y pone en GA Collaborate
+    (ciclo de vida completo)
+- id: evt-2026-10-02-arceus-raises-17m
+  sota_score: 8.6
+  ai_legaltech: true
+  title: 'Arceus (New Model law firm) levanta 17 millones liderados por Greycroft:
+    abogados + agentes IA + CounselOS'
+- id: evt-2026-10-02-birss-lip-ai-page-limits
+  sota_score: 8.3
+  ai_legaltech: true
+  title: Sir Colin Birss propone limite de paginas para litigantes en persona que
+    usan IA (UK)
+- id: evt-2026-10-02-aepd-brecha-agente-ia
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'AEPD: primera notificacion en Espana de brecha de datos ejecutada por un
+    agente de IA'
+- id: evt-2026-10-02-leo-ai-complaints
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'Legal Ombudsman (UK): la IA ya triaje quejas de clientes y puede reducir
+    o alargar el conflicto'
+- id: evt-2026-10-02-driven-lawyers-nl
+  sota_score: 7.3
+  ai_legaltech: true
+  title: Driven Lawyers (ex-Freshfields) lanza New Model AI-native en Amsterdam con
+    Driven Drafter propio
+- id: evt-2026-10-02-opus2-bundledocs
+  sota_score: 7.1
+  ai_legaltech: true
+  title: 'Opus 2 compra Bundledocs: bundling colaborativo AI-ready para disputas comerciales'
+- id: evt-2026-10-02-repario-unitedlex
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'Repario adquiere UnitedLex: ALSP a escala enterprise con workflows AI y
+    soberania de datos'
+- id: evt-2026-10-02-opus2-ingenuity-depositions
+  sota_score: 6.7
+  ai_legaltech: true
+  title: 'Opus 2 Ingenuity: workflow agentico de deposition designations con audit
+    trail'
+- id: evt-2026-10-02-ai-value-gap
+  sota_score: 6.5
+  ai_legaltech: true
+  title: 'AI Value Gap: el 91% ve a su organizacion por debajo del potencial de la
+    IA (y solo el 18% mide ROI)'

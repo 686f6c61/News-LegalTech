@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-02-arceus-raises-17m",
+  "date": "2026-10-01",
+  "type": "market",
+  "sota_score": 8.6,
+  "ai_legaltech": true,
+  "title": "Arceus (New Model law firm) levanta 17 millones liderados por Greycroft: abogados + agentes IA + CounselOS",
+  "summary_p1": "Arceus, firma New Model lanzada en 2026 en San Francisco, anuncio el 1 de octubre una ronda de 17 millones de dolares liderada por Greycroft. El modelo combina abogados licenciados con agentes de IA y software propio (CounselOS) para trabajo comercial: revision, redaccion y negociacion de contratos a precio fijo, con garantia de revision estandar en ocho horas o gratis. CounselOS aporta contexto del negocio del cliente (preferencias, acuerdos previos, historial de negociacion) y se conecta a HubSpot, Salesforce, Gmail y Slack para enrutar matters. El CEO Mac Liu ataca el billable hour; Greycroft resume la apuesta: reconstruir la firma, no solo vender software a las existentes.",
+  "summary_p2": "La cifra importa porque eleva el liston de capital temprano en NewMods frente a peers que habian levantado menos al inicio. Para Big Law e in-house ES/EU, el mensaje competitivo es claro: velocidad + flat fee + riesgo de SLA asumido por la firma, no solo \"tenemos Copilot\". Quien compita en contracts for startups/scale-ups tendra que demostrar turnaround medible y sistema operativo propio, no demos sueltos. Para vendors LegalTech, Arceus es cliente y rival a la vez: consume stack propio y reduce el TAM de herramientas vendidas a firmas tradicionales. Seguimiento: expansion geografica y si el SLA de ocho horas aguanta el volumen.",
+  "why_sota": "Una de las mayores rondas tempranas de NewMod AI-native en 2026; valida el formato MSO+agents+OS.",
+  "why_now": "Artificial Lawyer 1 Oct 2026. NEW vs PASS previos.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "new-model",
+    "funding",
+    "contract-ai",
+    "arceus",
+    "mso"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m/",
+      "cited_title": "New Model Law Firm Arceus Raises $17m",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [
+    "ent-arceus"
+  ],
+  "lang": "es",
+  "status": "published"
+}

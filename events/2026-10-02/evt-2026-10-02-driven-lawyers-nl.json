@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-02-driven-lawyers-nl",
+  "date": "2026-09-29",
+  "type": "market",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "Driven Lawyers (ex-Freshfields) lanza New Model AI-native en Amsterdam con Driven Drafter propio",
+  "summary_p1": "El 29 de septiembre de 2026 Artificial Lawyer cubrio el lanzamiento en Amsterdam de Driven Lawyers, firma New Model creada por Jelle Drok (hasta hace poco partner de Freshfields) y Arvid van Oorschot (ex Vondst / Freshfields). Especializada en disputes comerciales, IP y contratos/responsabilidad, integra IA en trabajo y operaciones \"como base, no como tool\". Precio fijo basado en patrones automatizados mas juicio sobre lo imprevisible. Nucleo tecnico: Driven Drafter, plataforma propia donde el conocimiento se embebe en frameworks y cada afirmacion se ancla a fuente verificable en un entorno controlado.",
+  "summary_p2": "Senal europea: el formato NewMod deja de ser solo US/UK y atrae talento Magic Circle a jurisdicciones UE. Para despachos ES/NL/DE, el liston reputacional sube cuando un ex-Freshfields dice preferir \"construir IA\" a \"reuniones sobre IA\". Para buyers in-house, fija expectativa de fixed fee + trazabilidad de fuentes en drafting. Para regulators UE, refuerza que el modelo de negocio (MSO/fees) y el anclaje a fuentes son tan relevantes como el modelo de lenguaje. No reincorpora Arceus del mismo dia editorial: aqui el angulo es Europa continental y founders Big Law.",
+  "why_sota": "NewMod UE con founders partner-level Freshfields y stack propio anclado a fuentes.",
+  "why_now": "AL 29 Sep; ausente de PASS 09-29/09-30/10-01. Ventana activa NewMod.",
+  "geo": [
+    "NL",
+    "EU"
+  ],
+  "topics": [
+    "new-model",
+    "netherlands",
+    "drafting",
+    "freshfields",
+    "driven-lawyers"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/29/ex-freshfields-lawyers-launch-new-model-firm/",
+      "cited_title": "Ex-Freshfields Lawyers Launch New Model Firm",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [
+    "ent-driven-lawyers"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "evt-2026-10-02-ai-value-gap",
+  "date": "2026-09-30",
+  "type": "research",
+  "sota_score": 6.5,
+  "ai_legaltech": true,
+  "title": "AI Value Gap: el 91% ve a su organizacion por debajo del potencial de la IA (y solo el 18% mide ROI)",
+  "summary_p1": "El 30 de septiembre de 2026 Artificial Lawyer publico el analisis de AI Futures Forum \"The AI Value Gap\", anclado en el Future of Professionals 2026 de Thomson Reuters: el 91% de fee earners cree que su organizacion se queda corta respecto a lo que la IA podria entregar. Solo el 18% recoge metricas de ROI de forma sistematica; las firmas con estrategia de IA visible tienen casi cuatro veces mas probabilidad de retorno medible. El diagnostico no es solo inmadurez del tool: es brecha de confianza y ownership en el partnership — incluso entre heavy users, solo alrededor de un tercio ha hablado del impacto con la mayoria de sus clientes.",
+  "summary_p2": "Anade tension estructural: quien se apropia del valor cuando se entrena sobre el juicio acumulado de socios (spin-offs, plataformas propietarias tipo el compromiso multimillonario de algunas firmas) y la amenaza de labs (Claude for Legal, Astra for Law) que suben a la capa de aplicacion. Para managing partners ES/EU: nombrar accountable de adopcion, medir outcomes antes de comprar mas seats, y tener la conversacion de ownership con la partnership. Util junto a Iberdrola/Harvey de ayer: sin KPI y gobierno, la licencia no cierra el value gap.",
+  "why_sota": "Sintesis accionable del gap adopcion-vs-valor con datos TR 2026 y angulo de ownership/NewMod.",
+  "why_now": "AL 30 Sep; NEW vs PASS previos; contraste editorial con oleada de launches.",
+  "geo": [
+    "UK",
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "roi",
+    "adoption",
+    "strategy",
+    "thomson-reuters",
+    "ai-futures-forum"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off/",
+      "cited_title": "The AI Value Gap: Why Your Investment Isn't Paying Off",
+      "accessed": "2026-10-02"
+    },
+    {
+      "source_id": "src-thomson-reuters-future-of-professionals",
+      "url": "https://europe.thomsonreuters.com/guides/future-of-professionals",
+      "cited_title": "Thomson Reuters - Future of Professionals (contexto)",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-02-repario-unitedlex",
+  "date": "2026-09-28",
+  "type": "market",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Repario adquiere UnitedLex: ALSP a escala enterprise con workflows AI y soberania de datos",
+  "summary_p1": "El 28 de septiembre de 2026 Repario (eDiscovery / IaaS / managed review, respaldada por JLL) anuncio la adquisicion de UnitedLex (litigation, contracts, legal ops, IP, AI advisory e incident response; ~2.000 profesionales). El relato conjunto: servicios legales tech-led con IA aplicada a workflows complejos, principios de IA publicados y enfasis en que el cliente no debe elegir entre innovacion y control de datos. Centros en EE.UU., Mexico, India, Reino Unido y UE. Terminos economicos no divulgados.",
+  "summary_p2": "Mueve el tablero ALSP: escala operativa UnitedLex + narrativa AI/agile de Repario frente a peers tipo Consilio/Epiq. Para GC y litigation managers, la pregunta de RFP pasa a ser cadena de custodia multi-pais, soberania y si el \"AI you can defend\" esta documentado (principios, audit, human review). En ES/UE, relevant para incident response y eDiscovery cross-border. No estaba en PASS previos pese a cobertura Law.com / Legal IT Insider — se incorpora como missed de ventana.",
+  "why_sota": "Combinacion ALSP mayor con tesis explicita AI + data sovereignty a escala multinacional.",
+  "why_now": "PR 28 Sep; missed en 09-29/09-30/10-01; sigue en ventana editorial.",
+  "geo": [
+    "US",
+    "UK",
+    "EU",
+    "Global"
+  ],
+  "topics": [
+    "alsp",
+    "m&a",
+    "ediscovery",
+    "unitedlex",
+    "repario"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/exclusive-unitedlex-to-be-acquired-by-jll-backed-ediscovery-vendor-repario-from-cvc/",
+      "cited_title": "Exclusive: UnitedLex to be acquired by JLL-backed eDiscovery vendor Repario from CVC",
+      "accessed": "2026-10-02"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://repariodata.com/press-releases/repario-acquires-unitedlex/",
+      "cited_title": "Repario Acquires UnitedLex to Create a Technology-Led Legal Services Company with Enterprise Scale",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [
+    "ent-repario",
+    "ent-unitedlex"
+  ],
+  "lang": "es",
+  "status": "published"
+}

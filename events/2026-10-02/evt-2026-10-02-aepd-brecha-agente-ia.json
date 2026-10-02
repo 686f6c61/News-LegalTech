@@ -1,0 +1,42 @@
+{
+  "id": "evt-2026-10-02-aepd-brecha-agente-ia",
+  "date": "2026-09-27",
+  "type": "regulation",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "AEPD: primera notificacion en Espana de brecha de datos ejecutada por un agente de IA",
+  "summary_p1": "La AEPD recibio la primera notificacion de una brecha de datos personales en la que, segun la entidad afectada, el ataque lo ejecuto un agente de inteligencia artificial: un sistema capaz de perseguir un objetivo, decidir pasos y actuar con autonomia (no un chatbot que solo responde). Segun el relato publicado el 27 de septiembre de 2026 (analisis de Francisco Perez Bes en el blog de la Agencia, recogido por Confilegal), el agente busco vulnerabilidades, inicio sesion, exploro fallos de la aplicacion, modifico datos personales y accedio a facturas. La Agencia insiste en prudencia: un solo caso no hace tendencia; no se ha publicado el nombre de la empresa ni el modelo; el uso de un modelo concreto no implica compromiso del proveedor.",
+  "summary_p2": "Juridicamente no cambia el articulo 33 RGPD: siguen las 72 horas y la prioridad de contener. Lo nuevo es el mensaje operativo: incluir ataques asistidos o ejecutados por IA en el analisis de riesgos, porque automatizan probabilidad, velocidad y alcance. Para DPO, CISO y vendors LegalTech con agentes sobre correo/DMS/ERP, el caso espanol aterriza la guia de IA agentica de la propia AEPD. Checklist: inventariar herramientas con capacidad de actuar, limitar permisos, human-in-the-loop en acciones destructivas, y ensayar notificacion asumiendo que el \"atacante\" puede ser autonomo. No esperar a la sancion para actualizar el registro de actividades y la EIPD.",
+  "why_sota": "Primera brecha notificada en ES atribuida a agente IA; puente directo con orientaciones AEPD sobre IA agentica.",
+  "why_now": "Confilegal/AEPD 27 Sep; no estaba en PASS 09-29/09-30/10-01 (si orientaciones agenticas y CV).",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "aepd",
+    "rgpd",
+    "breach",
+    "agentic-ai",
+    "cybersecurity"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20260927-aepd-primera-brecha-datos-atribuida-agente-ia/",
+      "cited_title": "La AEPD recibe la primera notificación en España de una brecha de datos ejecutada por un agente de inteligencia artificial",
+      "accessed": "2026-10-02"
+    },
+    {
+      "source_id": "src-aepd",
+      "url": "https://www.aepd.es/",
+      "cited_title": "AEPD (contexto regulatorio)",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "entities": [
+    "ent-aepd"
+  ],
+  "lang": "es",
+  "status": "published"
+}
