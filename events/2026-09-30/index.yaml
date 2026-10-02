@@ -10,17 +10,17 @@ events:
   sota_score: 9.2
   ai_legaltech: true
   title: '3rd Circuit afirma la victoria de Thomson Reuters frente a ROSS Intelligence:
-    primer fallo federal de apelacion sobre fair use en entrenamiento de IA'
+    primer fallo federal de apelación sobre fair use en entrenamiento de IA'
 - id: evt-2026-09-30-aepd-ia-curriculums
   sota_score: 8.8
   ai_legaltech: true
-  title: 'AEPD: advertencia preventiva sobre IA para cribado y puntuacion de curriculums
+  title: 'AEPD: advertencia preventiva sobre IA para cribado y puntuación de currículums
     (EXP202600427)'
 - id: evt-2026-09-30-morae-morai-spend
   sota_score: 7.6
   ai_legaltech: true
   title: Morae lanza Legal Intelligence Platform con MorAI Spend Intelligence (IA
-    + revision humana de facturas)
+    + revisión humana de facturas)
 - id: evt-2026-09-30-relativity-clair-aap
   sota_score: 7.2
   ai_legaltech: true
@@ -29,7 +29,7 @@ events:
 - id: evt-2026-09-30-ascom-aicom
   sota_score: 7.0
   ai_legaltech: true
-  title: 'ASCOM lanza AICOM: certificacion profesional de Compliance en Inteligencia
+  title: 'ASCOM lanza AICOM: certificación profesional de Compliance en Inteligencia
     Artificial (EU AI Act)'
 - id: evt-2026-09-30-8am-mycase-mcp
   sota_score: 6.8

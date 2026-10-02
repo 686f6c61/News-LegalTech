@@ -4,11 +4,11 @@
   "type": "standards",
   "sota_score": 7.0,
   "ai_legaltech": true,
-  "title": "ASCOM lanza AICOM: certificacion profesional de Compliance en Inteligencia Artificial (EU AI Act)",
-  "summary_p1": "La Asociacion Espanola de Compliance presento el 29 de septiembre de 2026 AICOM, una certificacion para acreditar a profesionales que supervisan desarrollo y uso de sistemas de IA. Combina EU AI Act y normas conexas con metodologia de Compliance, materiales en castellano e ingles, y actualizacion continua bajo comite academico. El marco llega cuando, segun datos de la presentacion, el 88% de las organizaciones ya usa IA y un 50% estaria implementando agentes.",
-  "summary_p2": "No es un producto vendor: es senal de profesionalizacion del control. Para despachos y in-house ES, anticipa que clientes y auditores pediran quien gobierna la IA con criterio acreditado, no solo un curso generico de prompting. Para quien vende LegalTech o servicios de AI governance, el comprador tendra un lenguaje comun (riesgo alto, transparencia, supervision) alineado con el AI Act. Util junto a la advertencia AEPD de curriculums: el mercado espanol esta pasando de \"adoptar IA\" a \"acreditar quien la controla\".",
-  "why_sota": "Primera certificacion ASCOM centrada en Compliance+IA en ventana; puente AI Act / governance profesional ES.",
-  "why_now": "Presentacion cubierta por Lawyerpress 29 Sep. NEW vs digest 2026-09-29.",
+  "title": "ASCOM lanza AICOM: certificación profesional de Compliance en Inteligencia Artificial (EU AI Act)",
+  "summary_p1": "La Asociación Española de Compliance presentó el 29 de septiembre de 2026 AICOM, una certificación para acreditar a profesionales que supervisan desarrollo y uso de sistemas de IA. Combina EU AI Act y normas conexas con metodología de Compliance, materiales en castellano e inglés, y actualización continua bajo comité académico. El marco llega cuando, según datos de la presentación, el 88% de las organizaciones ya usa IA y un 50% estaria implementando agentes.",
+  "summary_p2": "No es un producto vendor: es señal de profesionalización del control. Para despachos y in-house ES, anticipa que clientes y auditores pedirán quien gobierna la IA con criterio acreditado, no solo un curso genérico de prompting. Para quien vende LegalTech o servicios de AI governance, el comprador tendrá un lenguaje común (riesgo alto, transparencia, supervisión) alineado con el AI Act. Útil junto a la advertencia AEPD de currículums: el mercado español está pasando de \"adoptar IA\" a \"acreditar quien la controla\".",
+  "why_sota": "Primera certificación ASCOM centrada en Compliance+IA en ventana; puente AI Act / governance profesional ES.",
+  "why_now": "Presentación cubierta por Lawyerpress 29 Sep. NEW vs digest 2026-09-29.",
   "geo": [
     "ES",
     "EU"

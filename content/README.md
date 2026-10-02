@@ -73,4 +73,4 @@ Release diaria JSON-LD: `scripts/build_release.py` (versión futura `DD.MM.YY`; 
 
 ## Tipografía
 
-Comillas dobles ASCII `"` solamente. Sin em dashes.
+Comillas dobles ASCII `"` solamente. Sin em dashes. El español se escribe en UTF-8 con ñ y tildes (`señalar`). El detalle y la regla de inglés con glosa en español (`legal hold (retención de documentos)`) están en `digests/_schema.md`.

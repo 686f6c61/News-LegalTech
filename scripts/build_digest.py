@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """Stub: rollup daily -> weekly -> biweekly digests.
 
-Documenta el flujo previsto. No escribe ficheros todavia (salvo --dry-run info).
+Documenta el flujo previsto. No escribe ficheros todavía (salvo --dry-run info).
+
+Ortografía: UTF-8, con ñ y tildes. La regla de comillas ASCII no aplana el español.
+Inglés de producto se conserva y, en el primer uso, lleva el español entre paréntesis
+(`legal hold (retención de documentos)`). Ver `content/digests/_schema.md`.
 
 Uso:
   python scripts/build_digest.py --cadence daily --date 2026-09-29
@@ -14,21 +18,21 @@ Rollup previsto
    - Lee events/YYYY-MM-DD/*.yaml (+ index.yaml)
    - Emite content/digests/daily/YYYY/YYYY-MM-DD.md con frontmatter
      (title, date, cadence=daily, release, lang, focus_ai_pct, event_ids)
-   - Cuerpo: impacto narrativo en dos parrafos por evento (regla editorial)
+   - Cuerpo: impacto narrativo en dos párrafos por evento (regla editorial)
 
 2. weekly
    - Agrupa digests daily de la semana ISO que contiene --date
    - Emite content/digests/weekly/YYYY/YYYY-Www.md (o YYYY-MM-DD fin de semana)
    - Frontmatter cadence=weekly; event_ids = union de los daily
-   - Cuerpo: senales SOTA de la semana + impacto de negocio agregado
+   - Cuerpo: señales SOTA de la semana + impacto de negocio agregado
 
 3. biweekly
-   - Agrupa dos semanas ISO (o 14 dias cerrados en --date)
+   - Agrupa dos semanas ISO (o 14 días cerrados en --date)
    - Emite content/digests/biweekly/YYYY/...
    - Frontmatter cadence=biweekly; event_ids = union del periodo
    - Cuerpo: tendencias, releases y foco AI (~focus_ai_pct)
 
-Release JSON-LD (releases/DD.MM.YY/ en dias futuros) la construye scripts/build_release.py.
+Release JSON-LD (releases/DD.MM.YY/ en días futuros) la construye scripts/build_release.py.
 Este stub solo planifica el rollup Markdown de content/ y no escribe ficheros.
 """
 

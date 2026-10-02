@@ -4,9 +4,9 @@
   "type": "product",
   "sota_score": 6.7,
   "ai_legaltech": true,
-  "title": "Opus 2 Ingenuity: workflow agentico de deposition designations con audit trail",
-  "summary_p1": "Opus 2 anuncio el 29 de septiembre de 2026 un workflow nativo de IA para deposition designations sobre su framework agentico Ingenuity. El sistema usa inteligencia del matter y issues conectados para senalar pasajes relevantes del transcript; el abogado acepta, rechaza o ajusta. Las designations aprobadas se escriben en el record estructurado del matter, ligadas a issues, con atribucion al revisor, timestamp y audit trail. Encaja en la plataforma ya usada a escala Am Law / global firms.",
-  "summary_p2": "Complementa (sin duplicar) la compra de Bundledocs del 1 de octubre: alli el angulo es M&A de bundling; aqui el producto agentico sobre transcripts. Para disputes US/UK, el criterio de compra es citabilidad al matter record y QC humano, no el claim generico de \"AI designations\". En ES/UE aplica a arbitraje internacional con depositions/anglosphere. Pedir en demo: tasa de aceptacion, manejo de privilegio y export al bundle final.",
+  "title": "Opus 2 Ingenuity: workflow agéntico de deposition designations con audit trail",
+  "summary_p1": "Opus 2 anunció el 29 de septiembre de 2026 un workflow nativo de IA para deposition designations sobre su framework agéntico Ingenuity. El sistema usa inteligencia del matter y issues conectados para señalar pasajes relevantes del transcript; el abogado acepta, rechaza o ajusta. Las designations aprobadas se escriben en el record estructurado del matter, ligadas a issues, con atribución al revisor, timestamp y audit trail. Encaja en la plataforma ya usada a escala Am Law / global firms.",
+  "summary_p2": "Complementa (sin duplicar) la compra de Bundledocs del 1 de octubre: allí el ángulo es M&A de bundling; aquí el producto agéntico sobre transcripts. Para disputes US/UK, el criterio de compra es citabilidad al matter record y QC humano, no el claim genérico de \"AI designations\". En ES/UE aplica a arbitraje internacional con depositions/anglosphere. Pedir en demo: tasa de aceptación, manejo de privilegio y export al bundle final.",
   "why_sota": "Agente de litigation con escritura auditada al matter record (no solo sugerencias sueltas).",
   "why_now": "LawNext/PR 29 Sep; NEW; empareja con Bundledocs sin solapar relato Relativity claiR.",
   "geo": [

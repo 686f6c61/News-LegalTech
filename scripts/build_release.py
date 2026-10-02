@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Empaqueta la release diaria de datos abiertos.
 
+Lee y escribe UTF-8. El JSON-LD usa ``ensure_ascii=False`` para conservar
+ñ y tildes. Antes de empaquetar, ``scripts/orthography.py`` rechaza prosa
+con formas planas (``senalar``, ``pagina``).
+
 Lee ``events/YYYY-MM-DD/`` (y el digest ya escrito, si existe) y emite
 ``releases/<version>/graph.jsonld`` mas ``RELEASE.md``. No inventa eventos
 ni hace el scan editorial: si la carpeta del dia no tiene piezas, no hay release.
@@ -319,6 +323,7 @@ def load_event(path: Path) -> dict:
         data = yaml.safe_load(text)
     if not isinstance(data, dict):
         raise ReleaseError(f"{path} no es un objeto de evento")
+    _require_spanish_orthography(data, path)
     return data
 
 
@@ -336,6 +341,24 @@ def load_day_events(root: Path, day: date) -> list[dict]:
         _require_event_fields(event, paths[event_id])
         events.append(event)
     return events
+
+
+def _require_spanish_orthography(event: dict, path: Path) -> None:
+    """Falla si la prosa del evento perdió ñ o tildes (``senalar``, ``pagina``)."""
+    import orthography
+
+    blobs: list[str] = []
+    for key in ("title", "summary_p1", "summary_p2", "why_sota", "why_now"):
+        value = event.get(key)
+        if isinstance(value, str):
+            blobs.append(value)
+    tokens = orthography.folded_tokens("\n".join(blobs))
+    if tokens:
+        sample = ", ".join(tokens[:8])
+        raise ReleaseError(
+            f"{path.name}: español sin tilde o sin eñe ({sample}). "
+            "Escribir UTF-8. Ver README.md, sección Tipografía."
+        )
 
 
 def _require_event_fields(event: dict, path: Path) -> None:
@@ -872,6 +895,12 @@ def main(argv: list[str] | None = None) -> int:
     root = args.root.resolve()
 
     try:
+        import orthography
+
+        problems = orthography.recent_problem_paths(root)
+        if problems:
+            rels = ", ".join(path.relative_to(root).as_posix() for path, _tokens in problems[:5])
+            raise ReleaseError(f"Ortografía española pendiente en {rels}")
         if args.list_pending:
             for day in pending_dates(root):
                 print(day.isoformat())

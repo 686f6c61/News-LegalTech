@@ -46,7 +46,19 @@ Exactamente **dos párrafos**, cero relleno:
 
 ## Tipografía
 
-Comillas dobles ASCII `"` solamente. Sin em dashes.
+- Comillas dobles ASCII `"` solamente. Sin comillas tipográficas.
+- Sin rayas em dash (U+2014). Usar guion ASCII `-` o reformular la frase.
+- El español va en UTF-8 con su ortografía: `ñ` y las tildes (`señalar`, `página`, `también`). La regla de comillas ASCII cubre las comillas y el guion.
+- Eventos, digests y releases se leen y se escriben en UTF-8. El grafo JSON-LD usa `json.dumps(..., ensure_ascii=False)`.
+- `python scripts/orthography.py --check` falla si la prosa reciente vuelve a formas planas (`senalar`, `pagina`, `informacion`).
+
+## Inglés y español
+
+Los términos de LegalTech y de producto se quedan en inglés. En el título y en el cuerpo, la primera vez se añade el español entre paréntesis. El término inglés permanece.
+
+Ejemplo: `legal hold (retención de documentos)`.
+
+No aplica a nombres propios (Clio, Harvey, AEPD) ni alarga la pieza: el paréntesis va en el primer uso, sin más métricas ni un resumen para un lector no técnico.
 
 ## Versionado
 

@@ -16,15 +16,15 @@
 ## Eventos incluidos
 
 1. `evt-2026-10-01-clio-learned-hand` (sota 9.2, market): Clio compra Learned Hand: IA construida para jueces y tribunales como base de su negocio judiciary
-2. `evt-2026-10-01-california-sb574` (sota 9.0, regulation): California firma SB 574: prohibe delegar la abogacia a IA generativa y exige verificar citas (incluidas las de IA)
-3. `evt-2026-10-01-lexis-protege-mena` (sota 8.2, product): LexisNexis lanza Lexis+ con Protege en MENA: IA agentica anclada en derecho regional (UAE primero)
-4. `evt-2026-10-01-iberdrola-harvey` (sota 8.0, market): Iberdrola integra Harvey en juridico y fiscal: transformacion para 300-400 profesionales tras pilotos
+2. `evt-2026-10-01-california-sb574` (sota 9.0, regulation): California firma SB 574: prohíbe delegar la abogacía a IA generativa y exige verificar citas (incluidas las de IA)
+3. `evt-2026-10-01-lexis-protege-mena` (sota 8.2, product): LexisNexis lanza Lexis+ con Protege en MENA: IA agéntica anclada en derecho regional (UAE primero)
+4. `evt-2026-10-01-iberdrola-harvey` (sota 8.0, market): Iberdrola integra Harvey en jurídico y fiscal: transformación para 300-400 profesionales tras pilotos
 5. `evt-2026-10-01-lexis-skills-india` (sota 7.6, product): LexisNexis lanza Skills en Lexis Advance with Protege en India: workflows guiados (DPA, PIA, demand letters)
-6. `evt-2026-10-01-ibm-content-cortex` (sota 7.4, product): IBM Content Cortex Premium GA: agentes gobernados para redaccion, legal holds, clasificacion y busqueda
+6. `evt-2026-10-01-ibm-content-cortex` (sota 7.4, product): IBM Content Cortex Premium GA: agentes gobernados para redacción, legal holds, clasificación y búsqueda
 7. `evt-2026-10-01-casepoint-iq-agents` (sota 7.0, product): Casepoint IQ: primeros agentes purpose-built (Relevance Determination e Issue Coding) con QC humano
-8. `evt-2026-10-01-onboard-ai-assist` (sota 6.8, product): OnBoard lanza AI Assist: IA conversacional con citas sobre el historial del consejo de administracion
-9. `evt-2026-10-01-sra-pause-colp-cofa` (sota 6.6, regulation): SRA pausa las nuevas reglas COLP/COFA tras presion de firmas SME (UK)
-10. `evt-2026-10-01-es-ai-act-transparency` (sota 6.5, research): Espana: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA lo declaran con claridad)
+8. `evt-2026-10-01-onboard-ai-assist` (sota 6.8, product): OnBoard lanza AI Assist: IA conversacional con citas sobre el historial del consejo de administración
+9. `evt-2026-10-01-sra-pause-colp-cofa` (sota 6.6, regulation): SRA pausa las nuevas reglas COLP/COFA tras presión de firmas SME (UK)
+10. `evt-2026-10-01-es-ai-act-transparency` (sota 6.5, research): España: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA lo declaran con claridad)
 
 **Foco AI LegalTech:** 9/10 eventos del día.
 

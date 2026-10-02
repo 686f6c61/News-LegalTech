@@ -4,9 +4,9 @@
   "type": "research",
   "sota_score": 6.5,
   "ai_legaltech": true,
-  "title": "Espana: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA lo declaran con claridad)",
-  "summary_p1": "Un analisis publicado el 29 de septiembre de 2026 en Cinco Dias (Gary Robertson, Ecix) revisa 113 empresas que operan en Espana frente a las obligaciones de transparencia del art. 50 del Reglamento de IA aplicables desde el 2 de agosto. Hallazgos clave: solo el 6% etiqueta contenidos generados o editados con IA cuando podrian confundirse con realidad; el 43% atiende con asistente conversacional y el 84% de esos usa tecnicas de IA; de los chatbots con IA, solo el 54% informa de forma clara, un 41% usa formulas ambiguas (\"asistente virtual\") y un 5% no dice nada. Un 32% publica algun tipo de politica de uso de IA (mejor en seguros).",
-  "summary_p2": "No es una sancion AEPD, pero es termometro accionable para GC, DPO y vendors con chatbot en ES. El AI Act ya pide aviso expreso de interaccion con IA; disfrazarlo de \"ayudante\" no cumple el criterio de la Comision. Para LegalTech y contact centers juridicos: audita copy de disclaimer, proveedores (la obligacion primaria es del provider, pero el responsable del canal debe exigir cumplimiento) y etiquetado de deepfakes. Encaja con la linea AEPD de esta semana: Espana esta pasando de adoptar IA a demostrar control y transparencia. Checklist corto: inventariar sistemas que hablan con personas, revisar textos, y documentar politicas publicas de uso de IA.",
+  "title": "España: brecha de transparencia art. 50 AI Act (solo 54% de chatbots IA lo declaran con claridad)",
+  "summary_p1": "Un análisis publicado el 29 de septiembre de 2026 en Cinco Días (Gary Robertson, Ecix) revisa 113 empresas que operan en España frente a las obligaciones de transparencia del art. 50 del Reglamento de IA aplicables desde el 2 de agosto. Hallazgos clave: solo el 6% etiqueta contenidos generados o editados con IA cuando podrían confundirse con realidad; el 43% atiende con asistente conversacional y el 84% de esos usa técnicas de IA; de los chatbots con IA, solo el 54% informa de forma clara, un 41% usa fórmulas ambiguas (\"asistente virtual\") y un 5% no dice nada. Un 32% publica algún tipo de política de uso de IA (mejor en seguros).",
+  "summary_p2": "No es una sanción AEPD, pero es termómetro accionable para GC, DPO y vendors con chatbot en ES. El AI Act ya pide aviso expreso de interacción con IA; disfrazarlo de \"ayudante\" no cumple el criterio de la Comisión. Para LegalTech y contact centers jurídicos: audita copy de disclaimer, proveedores (la obligación primaria es del provider, pero el responsable del canal debe exigir cumplimiento) y etiquetado de deepfakes. Encaja con la línea AEPD de esta semana: España está pasando de adoptar IA a demostrar control y transparencia. Checklist corto: inventariar sistemas que hablan con personas, revisar textos, y documentar políticas públicas de uso de IA.",
   "why_sota": "Evidencia empirica ES sobre cumplimiento art. 50 AI Act post-2 ago 2026.",
   "why_now": "Publicado 29 Sep; no estaba en PASS previos. Balance ES regulatoria.",
   "geo": [
@@ -25,7 +25,7 @@
     {
       "source_id": "src-lawyerpress-news",
       "url": "https://cincodias.elpais.com/legal/2026-09-29/la-regulacion-de-la-ia-ya-esta-aqui-la-transparencia-todavia-no.html",
-      "cited_title": "La regulacion de la IA ya esta aqui. La transparencia, todavia no",
+      "cited_title": "La regulación de la IA ya está aquí. La transparencia, todavía no",
       "accessed": "2026-10-01"
     }
   ],
