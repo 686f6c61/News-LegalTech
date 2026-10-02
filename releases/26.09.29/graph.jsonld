@@ -168,42 +168,66 @@
     {
       "@id": "https://legaltech-sota.local/entities/ent-aepd",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-aepd"
+      "schema:identifier": "ent-aepd",
+      "schema:name": "Agencia Española de Protección de Datos",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.aepd.es/"
     },
     {
       "@id": "https://legaltech-sota.local/entities/ent-alesis",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-alesis"
+      "schema:identifier": "ent-alesis",
+      "schema:name": "Alesis",
+      "sota:entityType": "product",
+      "schema:url": "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
     },
     {
       "@id": "https://legaltech-sota.local/entities/ent-artificial-lawyer",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-artificial-lawyer"
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
     },
     {
       "@id": "https://legaltech-sota.local/entities/ent-astra-for-law",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-astra-for-law"
+      "schema:identifier": "ent-astra-for-law",
+      "schema:name": "Astra for Law",
+      "sota:entityType": "product",
+      "schema:url": "https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/"
     },
     {
       "@id": "https://legaltech-sota.local/entities/ent-free-law-project",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-free-law-project"
+      "schema:identifier": "ent-free-law-project",
+      "schema:name": "Free Law Project",
+      "sota:entityType": "other",
+      "schema:url": "https://free.law/"
     },
     {
       "@id": "https://legaltech-sota.local/entities/ent-l25-group",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-l25-group"
+      "schema:identifier": "ent-l25-group",
+      "schema:name": "L25 Group",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
     },
     {
       "@id": "https://legaltech-sota.local/entities/ent-legal-it-insider",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-legal-it-insider"
+      "schema:identifier": "ent-legal-it-insider",
+      "schema:name": "Legal IT Insider",
+      "sota:entityType": "media",
+      "schema:url": "https://legaltechnology.com/"
     },
     {
       "@id": "https://legaltech-sota.local/entities/ent-openai",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-openai"
+      "schema:identifier": "ent-openai",
+      "schema:name": "OpenAI",
+      "sota:entityType": "company",
+      "schema:url": "https://openai.com/"
     }
   ]
 }

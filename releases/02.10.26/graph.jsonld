@@ -17,6 +17,7 @@
       "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-02, 10 eventos).",
       "schema:inLanguage": "es",
       "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/02.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
       "schema:hasPart": [
         {
           "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-02-ivo-sage-opensource"
@@ -83,7 +84,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.globenewswire.com/news-release/2026/10/01/3372932/0/en/ivo-becomes-the-first-legal-ai-company-to-publish-a-free-open-source-model-post-trained-for-long-horizon-contract-work.html",
           "schema:name": "Ivo Becomes The First Legal AI Company to Publish a Free Open-Source Model Post-Trained for Long-Horizon Contract Work",
-          "sota:sourceId": "src-legaltech-news-law-com-alm"
+          "sota:sourceId": "src-globenewswire"
         }
       ],
       "schema:about": [
@@ -382,7 +383,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://repariodata.com/press-releases/repario-acquires-unitedlex/",
           "schema:name": "Repario Acquires UnitedLex to Create a Technology-Led Legal Services Company with Enterprise Scale",
-          "sota:sourceId": "src-legaltech-news-law-com-alm"
+          "sota:sourceId": "src-repario"
         }
       ],
       "schema:about": [
@@ -482,42 +483,69 @@
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-aepd"
+      "schema:identifier": "ent-aepd",
+      "schema:name": "Agencia Española de Protección de Datos",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.aepd.es/"
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-arceus",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-arceus"
+      "schema:identifier": "ent-arceus",
+      "schema:name": "Arceus",
+      "sota:entityType": "law_firm",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bundledocs",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-bundledocs"
+      "schema:identifier": "ent-bundledocs",
+      "schema:name": "Bundledocs",
+      "sota:entityType": "vendor",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-driven-lawyers",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-driven-lawyers"
+      "schema:identifier": "ent-driven-lawyers",
+      "schema:name": "Driven Lawyers",
+      "sota:entityType": "law_firm",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ivo",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-ivo"
+      "schema:identifier": "ent-ivo",
+      "schema:name": "Ivo",
+      "sota:entityType": "vendor",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-opus2",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-opus2"
+      "schema:identifier": "ent-opus2",
+      "schema:name": "Opus 2",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.opus2.com/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-repario",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-repario"
+      "schema:identifier": "ent-repario",
+      "schema:name": "Repario",
+      "sota:entityType": "vendor",
+      "schema:url": "https://repariodata.com/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unitedlex",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-unitedlex"
+      "schema:identifier": "ent-unitedlex",
+      "schema:name": "UnitedLex",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.unitedlex.com/",
+      "sota:stub": true
     }
   ]
 }

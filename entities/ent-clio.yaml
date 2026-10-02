@@ -1,0 +1,9 @@
+id: ent-clio
+name: "Clio"
+type: vendor
+url: "https://www.clio.com/"
+geo:
+  - US
+  - Global
+notes: "Vendor de practice management y de producto para tribunales. Ficha mínima."
+stub: true

@@ -1,0 +1,9 @@
+id: ent-unitedlex
+name: "UnitedLex"
+type: vendor
+url: "https://www.unitedlex.com/"
+geo:
+  - US
+  - Global
+notes: "ALSP adquirido por Repario. Ficha mínima."
+stub: true

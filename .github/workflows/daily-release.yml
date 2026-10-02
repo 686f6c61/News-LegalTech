@@ -62,6 +62,9 @@ jobs:
       - name: Ortografia espanola en UTF-8
         run: python scripts/orthography.py --check
 
+      - name: Integridad fuente/URL y fichas de entidad
+        run: python scripts/build_release.py --check-integrity
+
       - name: Los dias con eventos tienen carpeta de release
         run: |
           set -euo pipefail
@@ -101,6 +104,9 @@ jobs:
 
       - name: Ortografia espanola en UTF-8
         run: python scripts/orthography.py --check
+
+      - name: Integridad fuente/URL y fichas de entidad
+        run: python scripts/build_release.py --check-integrity
 
       - name: Build releases from events/
         id: build

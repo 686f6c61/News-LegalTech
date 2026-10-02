@@ -59,6 +59,10 @@
         "format": "uri"
       },
       "description": "Optional Linked Data identifiers (Wikidata, etc.)"
+    },
+    "stub": {
+      "type": "boolean",
+      "description": "True when the record only exists so a cited id is not dangling. id, name and type are still required."
     }
   }
 }

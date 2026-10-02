@@ -1,0 +1,10 @@
+id: ent-ivo
+name: "Ivo"
+type: vendor
+geo:
+  - US
+  - Global
+aliases:
+  - "Ivo Sage"
+notes: "Compañía de IA contractual. Ficha mínima; el dataset no trae un URL de producto verificado."
+stub: true

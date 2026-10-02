@@ -1,0 +1,8 @@
+id: ent-bundledocs
+name: "Bundledocs"
+type: vendor
+geo:
+  - IE
+  - UK
+notes: "Software de document bundling (Cork) adquirido por Opus 2. Ficha mínima."
+stub: true

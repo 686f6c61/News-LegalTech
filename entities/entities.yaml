@@ -76,3 +76,196 @@ entities:
     aliases:
     
     notes: Medio exclusivas Legal IT UK/Europa.
+  - id: ent-ai-act
+    name: "EU AI Act (Reglamento de IA)"
+    type: other
+    url: "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689"
+    geo:
+      - EU
+    aliases:
+      - "AI Act"
+      - "Reglamento de IA"
+      - "RIA"
+    notes: "Reglamento (UE) 2024/1689. Ficha mínima para que el id citado no quede suelto."
+    stub: true
+  - id: ent-arceus
+    name: "Arceus"
+    type: law_firm
+    geo:
+      - US
+    aliases:
+      - "Arceus New Model"
+    notes: "Firma New Model en San Francisco. Ficha mínima; sin URL estable verificada."
+    stub: true
+  - id: ent-bundledocs
+    name: "Bundledocs"
+    type: vendor
+    geo:
+      - IE
+      - UK
+    notes: "Software de document bundling (Cork) adquirido por Opus 2. Ficha mínima."
+    stub: true
+  - id: ent-california
+    name: "State of California (Estado de California)"
+    type: government
+    url: "https://www.ca.gov/"
+    geo:
+      - US
+    aliases:
+      - "California"
+      - "Estado de California"
+    same_as:
+      - "https://www.wikidata.org/wiki/Q99"
+    notes: "Estado de California. Ficha mínima del id citado junto a SB 574."
+    stub: true
+  - id: ent-casepoint
+    name: "Casepoint"
+    type: vendor
+    url: "https://www.casepoint.com/"
+    geo:
+      - US
+    aliases:
+      - "Casepoint IQ"
+    notes: "Vendor de eDiscovery. Ficha mínima."
+    stub: true
+  - id: ent-clio
+    name: "Clio"
+    type: vendor
+    url: "https://www.clio.com/"
+    geo:
+      - US
+      - Global
+    notes: "Vendor de practice management y de producto para tribunales. Ficha mínima."
+    stub: true
+  - id: ent-driven-lawyers
+    name: "Driven Lawyers"
+    type: law_firm
+    geo:
+      - NL
+      - EU
+    aliases:
+      - "Driven Drafter"
+    notes: "Firma New Model en Ámsterdam. Ficha mínima; sin URL estable verificada."
+    stub: true
+  - id: ent-ecix
+    name: "Ecix"
+    type: company
+    geo:
+      - ES
+    notes: "Autor del análisis de transparencia del art. 50 publicado en Cinco Días. Ficha mínima."
+    stub: true
+  - id: ent-harvey
+    name: "Harvey"
+    type: vendor
+    url: "https://www.harvey.ai/"
+    geo:
+      - US
+      - Global
+    aliases:
+      - "Harvey AI"
+    notes: "Vendor de IA jurídica. Ficha mínima."
+    stub: true
+  - id: ent-iberdrola
+    name: "Iberdrola"
+    type: company
+    url: "https://www.iberdrola.com/"
+    geo:
+      - ES
+    notes: "Compañía energética. Ficha mínima del despliegue de Harvey en su equipo jurídico."
+    stub: true
+  - id: ent-ibm
+    name: "IBM"
+    type: company
+    url: "https://www.ibm.com/"
+    geo:
+      - Global
+    same_as:
+      - "https://www.wikidata.org/wiki/Q37156"
+    notes: "IBM. Ficha mínima del anuncio de Content Cortex."
+    stub: true
+  - id: ent-ivo
+    name: "Ivo"
+    type: vendor
+    geo:
+      - US
+      - Global
+    aliases:
+      - "Ivo Sage"
+    notes: "Compañía de IA contractual. Ficha mínima; el dataset no trae un URL de producto verificado."
+    stub: true
+  - id: ent-learned-hand
+    name: "Learned Hand"
+    type: vendor
+    geo:
+      - US
+    notes: "Producto de IA para jueces y tribunales, adquirido por Clio. Ficha mínima."
+    stub: true
+  - id: ent-lexisnexis
+    name: "LexisNexis"
+    type: vendor
+    url: "https://www.lexisnexis.com/"
+    geo:
+      - Global
+    aliases:
+      - "Lexis+"
+    notes: "Vendor de research jurídico. Ficha mínima."
+    stub: true
+  - id: ent-onboard
+    name: "OnBoard"
+    type: vendor
+    url: "https://www.onboardmeetings.com/"
+    geo:
+      - US
+    aliases:
+      - "OnBoard AI Assist"
+    notes: "Vendor de gestión de consejos. Ficha mínima."
+    stub: true
+  - id: ent-opus2
+    name: "Opus 2"
+    type: vendor
+    url: "https://www.opus2.com/"
+    geo:
+      - UK
+      - Global
+    aliases:
+      - "Opus 2 Ingenuity"
+    notes: "Vendor de software de disputes. Ficha mínima."
+    stub: true
+  - id: ent-repario
+    name: "Repario"
+    type: vendor
+    url: "https://repariodata.com/"
+    geo:
+      - US
+    notes: "Vendor de eDiscovery. Ficha mínima."
+    stub: true
+  - id: ent-sb574
+    name: "SB 574 (California)"
+    type: other
+    url: "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574"
+    geo:
+      - US
+    aliases:
+      - "SB 574"
+      - "Senate Bill 574"
+    notes: "Ley de California sobre IA generativa en la abogacía y el arbitraje. Ficha mínima."
+    stub: true
+  - id: ent-sra
+    name: "Solicitors Regulation Authority"
+    type: regulator
+    url: "https://www.sra.org.uk/"
+    geo:
+      - UK
+    aliases:
+      - "SRA"
+    notes: "Regulador de solicitors en Inglaterra y Gales. Ficha mínima."
+    stub: true
+  - id: ent-unitedlex
+    name: "UnitedLex"
+    type: vendor
+    url: "https://www.unitedlex.com/"
+    geo:
+      - US
+      - Global
+    notes: "ALSP adquirido por Repario. Ficha mínima."
+    stub: true

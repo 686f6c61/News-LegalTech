@@ -390,5 +390,132 @@ class OrthographyTests(unittest.TestCase):
         self.assertEqual(orth.recent_problem_paths(br.ROOT), [])
 
 
+class IntegrityTests(unittest.TestCase):
+    def test_hosts_align(self) -> None:
+        self.assertFalse(
+            br.hosts_align(
+                "https://www.lawsitesblog.com/",
+                "https://www.gov.ca.gov/2026/09/30/bill",
+            )
+        )
+        self.assertFalse(
+            br.hosts_align(
+                "https://www.lawyerpress.com/",
+                "https://cincodias.elpais.com/legal/pieza.html",
+            )
+        )
+        self.assertTrue(
+            br.hosts_align(
+                "https://www.lawnext.com/",
+                "https://www.lawnext.com/2026/09/pieza.html",
+            )
+        )
+        self.assertTrue(
+            br.hosts_align(
+                "https://www.law.com/legaltechnews/",
+                "https://www.law.com/legaltechnews/2026/10/01/pieza/",
+            )
+        )
+        self.assertFalse(
+            br.hosts_align(
+                "https://www.gov.ca.gov/",
+                "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml",
+            )
+        )
+        self.assertTrue(
+            br.hosts_align(
+                "https://www.aepd.es/",
+                "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/nota",
+            )
+        )
+
+    def test_utf8_is_not_escaped(self) -> None:
+        text = br.dump_jsonld({"schema:name": "España"})
+        self.assertIn("España", text)
+        self.assertNotIn("\\u00f1", text)
+
+    def test_entity_stub_and_license_land_in_graph(self) -> None:
+        event = {
+            "id": "evt-2026-10-02-demo",
+            "date": "2026-10-02",
+            "type": "product",
+            "sota_score": 7.0,
+            "ai_legaltech": True,
+            "title": "Titulo de prueba suficientemente largo",
+            "summary_p1": "Parrafo uno con la idea clave del evento de prueba para el grafo.",
+            "summary_p2": "Parrafo dos con el impacto de negocio del evento de prueba para el grafo.",
+            "sources": [
+                {
+                    "source_id": "src-demo",
+                    "url": "https://example.com/demo",
+                    "cited_title": "Demo",
+                }
+            ],
+            "entities": ["ent-demo"],
+        }
+        document = br.assemble_graph(
+            date(2026, 10, 2),
+            "02.10.26",
+            [event],
+            {
+                "ent-demo": {
+                    "id": "ent-demo",
+                    "name": "Demo",
+                    "type": "vendor",
+                    "url": "https://example.com/",
+                    "stub": True,
+                }
+            },
+        )
+        self.assertEqual(
+            document["@graph"][0]["schema:license"],
+            "https://spdx.org/licenses/MIT.html",
+        )
+        entity = document["@graph"][2]
+        self.assertEqual(entity["schema:name"], "Demo")
+        self.assertEqual(entity["sota:entityType"], "vendor")
+        self.assertTrue(entity["sota:stub"])
+
+    def test_mismatch_is_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "sources").mkdir()
+            (root / "sources" / "catalog.yaml").write_text(
+                "count: 1\n"
+                "sources:\n"
+                "  - id: src-lawsites-bob-ambrogi\n"
+                "    url: https://www.lawsitesblog.com/\n",
+                encoding="utf-8",
+            )
+            day = root / "events" / "2026-10-02"
+            day.mkdir(parents=True)
+            event = {
+                "id": "evt-2026-10-02-demo",
+                "date": "2026-10-02",
+                "type": "regulation",
+                "sota_score": 8,
+                "ai_legaltech": True,
+                "title": "Governor signs a statute on generative tools",
+                "summary_p1": "The governor signed a statute that limits how lawyers delegate work to a model.",
+                "summary_p2": "Firms that file in that state need a human to check every citation before submission.",
+                "sources": [
+                    {
+                        "source_id": "src-lawsites-bob-ambrogi",
+                        "url": "https://www.gov.ca.gov/2026/09/30/bill",
+                    }
+                ],
+                "entities": [],
+            }
+            (day / "evt-2026-10-02-demo.json").write_text(
+                json.dumps(event),
+                encoding="utf-8",
+            )
+            problems = br.integrity_problems(root)
+            self.assertTrue(any("gov.ca.gov" in item for item in problems), problems)
+
+    def test_repo_integrity(self) -> None:
+        self.assertEqual(br.integrity_problems(br.ROOT), [])
+
+
 if __name__ == "__main__":
     unittest.main()

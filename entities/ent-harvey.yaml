@@ -1,0 +1,11 @@
+id: ent-harvey
+name: "Harvey"
+type: vendor
+url: "https://www.harvey.ai/"
+geo:
+  - US
+  - Global
+aliases:
+  - "Harvey AI"
+notes: "Vendor de IA jurídica. Ficha mínima."
+stub: true

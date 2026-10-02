@@ -1,0 +1,10 @@
+id: ent-lexisnexis
+name: "LexisNexis"
+type: vendor
+url: "https://www.lexisnexis.com/"
+geo:
+  - Global
+aliases:
+  - "Lexis+"
+notes: "Vendor de research jurídico. Ficha mínima."
+stub: true

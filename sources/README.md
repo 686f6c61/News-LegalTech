@@ -15,3 +15,7 @@ Tiers:
 ## Starter subset
 
 Subconjunto de arranque ES + AI LegalTech: YAML individuales `src-*.yaml` e índice `sources.yaml` (compatible con `schemas/source.schema.json`).
+
+## Host de la cita
+
+El `source_id` de un evento apunta a la ficha cuyo URL comparte host con la cita (`www` no cuenta; un subdominio del otro sí). `python scripts/build_release.py --check-integrity` lo comprueba contra `catalog.yaml`. Si el artículo enlazado es de otro dominio, se cambia la etiqueta, o el URL cuando el artículo enlazado era el equivocado. La etiqueta queda en el dominio que sí está enlazado.

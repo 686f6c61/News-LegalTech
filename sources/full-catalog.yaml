@@ -1,13 +1,13 @@
 # Alias: el catálogo canónico es sources/catalog.yaml
 # Este fichero duplica el contenido para tools que esperan full-catalog.yaml.
 
-# Catálogo completo de fuentes LegalTech (~128)
+# Catálogo completo de fuentes LegalTech (~141)
 # Generado desde /workspace/legaltech/fuentes-legaltech-mundiales.md
 # Campos: id, name, url, type, frequency, why, region, lang, tier (core|watch|archive)
 # Tipografia: comillas dobles ASCII. El español de los campos va en UTF-8 (ñ y tildes).
 version: "1.0.0"
 generated_from: "/workspace/legaltech/fuentes-legaltech-mundiales.md"
-count: 128
+count: 141
 tiers:
   core: "Monitorización diaria prioritaria (señal alta ES/AI)"
   watch: "Revisión periódica / semanal"
@@ -1165,3 +1165,121 @@ sources:
     region: "ES / Global"
     lang: "EN / ES"
     tier: watch
+
+  - id: src-iberley
+    name: "Iberley"
+    url: "https://www.iberley.es/"
+    type: news
+    frequency: "diario"
+    why: "Editorial jurídica ES (COLEX). Cubre noticias en iberley.es."
+    region: "ES"
+    lang: "ES"
+    tier: archive
+  - id: src-copyright-lately
+    name: "Copyright Lately"
+    url: "https://copyrightlately.com/"
+    type: blog
+    frequency: "irregular"
+    why: "Cobertura de copyright y litigios de entrenamiento de IA. Se cita cuando la URL es de este dominio."
+    region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-channel-newsasia
+    name: "Channel NewsAsia"
+    url: "https://www.channelnewsasia.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio que publicó la pieza de negocio enlazada sobre Thomson Reuters v. ROSS."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-california-governor
+    name: "Governor of California"
+    url: "https://www.gov.ca.gov/"
+    type: regulator
+    frequency: "irregular"
+    why: "Notas oficiales del gobernador de California (gov.ca.gov), incluida la firma de SB 574."
+    region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-california-legislature
+    name: "California Legislative Information"
+    url: "https://leginfo.legislature.ca.gov/"
+    type: regulator
+    frequency: "continuo"
+    why: "Texto oficial de proyectos de ley de California (leginfo)."
+    region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-casepoint
+    name: "Casepoint"
+    url: "https://www.casepoint.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Notas de prensa del vendor en casepoint.com."
+    region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-cinco-dias
+    name: "Cinco Días"
+    url: "https://cincodias.elpais.com/"
+    type: news
+    frequency: "diario"
+    why: "Diario económico de PRISA. Las piezas de cincodias.elpais.com se atribuyen a Cinco Días."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-ibm-newsroom
+    name: "IBM"
+    url: "https://www.ibm.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Anuncios de producto en ibm.com, incluido Content Cortex."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-lexisnexis
+    name: "LexisNexis"
+    url: "https://www.lexisnexis.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Comunicados y blogs del propio LexisNexis (lexisnexis.com)."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-republic-world
+    name: "Republic World"
+    url: "https://www.republicworld.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio que publicó el lanzamiento de Skills de LexisNexis en India."
+    region: "IN"
+    lang: "EN"
+    tier: archive
+  - id: src-pr-newswire
+    name: "PR Newswire"
+    url: "https://www.prnewswire.com/"
+    type: news
+    frequency: "continuo"
+    why: "Servicio de notas de prensa. Una URL de prnewswire.com se etiqueta como PR Newswire."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-globenewswire
+    name: "GlobeNewswire"
+    url: "https://www.globenewswire.com/"
+    type: news
+    frequency: "continuo"
+    why: "Servicio de notas de prensa. La URL de globenewswire.com se atribuye a este medio."
+    region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-repario
+    name: "Repario"
+    url: "https://repariodata.com/"
+    type: vendor
+    frequency: "irregular"
+    why: "Nota de prensa del vendor en repariodata.com."
+    region: "US"
+    lang: "EN"
+    tier: archive
