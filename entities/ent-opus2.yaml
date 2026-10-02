@@ -1,0 +1,11 @@
+id: ent-opus2
+name: "Opus 2"
+type: vendor
+url: "https://www.opus2.com/"
+geo:
+  - UK
+  - Global
+aliases:
+  - "Opus 2 Ingenuity"
+notes: "Vendor de software de disputes. Ficha mínima."
+stub: true

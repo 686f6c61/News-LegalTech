@@ -1,0 +1,10 @@
+id: ent-casepoint
+name: "Casepoint"
+type: vendor
+url: "https://www.casepoint.com/"
+geo:
+  - US
+aliases:
+  - "Casepoint IQ"
+notes: "Vendor de eDiscovery. Ficha mínima."
+stub: true

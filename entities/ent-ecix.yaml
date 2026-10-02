@@ -1,0 +1,7 @@
+id: ent-ecix
+name: "Ecix"
+type: company
+geo:
+  - ES
+notes: "Autor del análisis de transparencia del art. 50 publicado en Cinco Días. Ficha mínima."
+stub: true

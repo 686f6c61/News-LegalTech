@@ -1,0 +1,13 @@
+id: ent-california
+name: "State of California (Estado de California)"
+type: government
+url: "https://www.ca.gov/"
+geo:
+  - US
+aliases:
+  - "California"
+  - "Estado de California"
+same_as:
+  - "https://www.wikidata.org/wiki/Q99"
+notes: "Estado de California. Ficha mínima del id citado junto a SB 574."
+stub: true

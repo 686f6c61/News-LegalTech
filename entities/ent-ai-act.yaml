@@ -1,0 +1,12 @@
+id: ent-ai-act
+name: "EU AI Act (Reglamento de IA)"
+type: other
+url: "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689"
+geo:
+  - EU
+aliases:
+  - "AI Act"
+  - "Reglamento de IA"
+  - "RIA"
+notes: "Reglamento (UE) 2024/1689. Ficha mínima para que el id citado no quede suelto."
+stub: true

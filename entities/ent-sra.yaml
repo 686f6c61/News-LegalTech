@@ -1,0 +1,10 @@
+id: ent-sra
+name: "Solicitors Regulation Authority"
+type: regulator
+url: "https://www.sra.org.uk/"
+geo:
+  - UK
+aliases:
+  - "SRA"
+notes: "Regulador de solicitors en Inglaterra y Gales. Ficha mínima."
+stub: true

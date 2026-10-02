@@ -1,0 +1,7 @@
+id: ent-learned-hand
+name: "Learned Hand"
+type: vendor
+geo:
+  - US
+notes: "Producto de IA para jueces y tribunales, adquirido por Clio. Ficha mínima."
+stub: true

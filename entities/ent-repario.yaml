@@ -1,0 +1,8 @@
+id: ent-repario
+name: "Repario"
+type: vendor
+url: "https://repariodata.com/"
+geo:
+  - US
+notes: "Vendor de eDiscovery. Ficha mínima."
+stub: true

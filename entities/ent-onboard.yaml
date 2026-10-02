@@ -1,0 +1,10 @@
+id: ent-onboard
+name: "OnBoard"
+type: vendor
+url: "https://www.onboardmeetings.com/"
+geo:
+  - US
+aliases:
+  - "OnBoard AI Assist"
+notes: "Vendor de gestión de consejos. Ficha mínima."
+stub: true

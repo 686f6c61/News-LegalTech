@@ -10,7 +10,35 @@ Repo: [https://github.com/686f6c61/News-LegalTech](https://github.com/686f6c61/N
 
 Capturar cada día lo que mueve el estado del arte (SOTA) en tecnología jurídica, regulación, producto y mercado, con resúmenes accionables para negocio legal / LegalTech.
 
-El scan que elige y redacta los eventos es agent-driven. El script de release solo empaqueta lo que ya está en `events/` y en el digest.
+El scan que elige y redacta los eventos es agent-driven. El script de release solo empaqueta lo que ya está en `events/` y en el digest. El agente editorial y la landing quedan fuera de este repo; el detalle está en la sección de licencia.
+
+## Licencia
+
+MIT (`LICENSE`). Cubre el código de este repositorio y el dataset publicado.
+
+Reutilizable bajo MIT:
+
+- `events/`
+- digests (`content/digests/` y el stub `digests/`)
+- `releases/*/graph.jsonld`
+- `schemas/`
+- `scripts/build_release.py`
+
+Las fichas `entities/` y el catálogo `sources/` forman parte del mismo dataset y van bajo la misma licencia. La prosa publicada conserva la ortografía UTF-8 y la glosa inglés (español) de las secciones de más abajo.
+
+Fuera de alcance: el agente editorial y la landing. Este repo publica datos abiertos y el empaquetado.
+
+## Integridad fuente y entidades
+
+El `source_id` de una cita es el medio del URL. El host de `sources[].url` coincide con el host de la ficha en `sources/catalog.yaml` (igual, o uno subdominio del otro, sin `www`). La regla falla, por ejemplo, si LawSites (`lawsitesblog.com`) apunta a `gov.ca.gov`, o si Lawyerpress apunta a `cincodias.elpais.com`.
+
+```bash
+python scripts/build_release.py --check-integrity
+```
+
+Ese chequeo también corre en `--check-published` y antes de empaquetar un día. Cada id `ent-*` citado en un evento tiene ficha en `entities/ent-*.yaml` (y en `entities/entities.yaml`). Las fichas que solo cierran el grafo llevan `stub: true`.
+
+Las carpetas históricas `YY.MM.DD` conservan su versión y su namespace. En su `graph.jsonld` se corrige `sota:sourceId` cuando la URL era de otro dominio, y el nodo de entidad gana nombre y tipo sin mover el `@id`.
 
 ## Estructura
 
@@ -24,7 +52,7 @@ News-LegalTech/
 │       ├── weekly/YYYY/
 │       └── biweekly/YYYY/
 ├── schemas/                 # event, source, entity (JSON Schema 2020-12)
-├── sources/                 # starter YAML + catalog.yaml (~128)
+├── sources/                 # starter YAML + catalog.yaml (~141)
 ├── entities/
 ├── events/YYYY-MM-DD/       # eventos del día (entrada de la release)
 ├── digests/                 # LEGACY stub -> content/digests/
@@ -35,7 +63,7 @@ News-LegalTech/
 
 Los digests canónicos viven en `content/digests/` (ver `content/README.md` y `content/digests/_schema.md`).
 
-Catálogo de fuentes (~128): `sources/catalog.yaml` (alias `sources/full-catalog.yaml`). El subset de arranque ES/AI sigue en `sources/src-*.yaml` + `sources.yaml`.
+Catálogo de fuentes (~141): `sources/catalog.yaml` (alias `sources/full-catalog.yaml`). El subset de arranque ES/AI sigue en `sources/src-*.yaml` + `sources.yaml`. Las fichas añadidas para cerrar una URL citada (Cinco Días, Governor of California, GlobeNewswire, etc.) viven en ese catálogo.
 
 ## Regla de resumen (obligatoria)
 

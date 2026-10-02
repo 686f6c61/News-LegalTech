@@ -55,6 +55,7 @@ El repositorio público es la fuente de verdad de los datos abiertos, así que l
 ## Notas
 
 - Repositorio público de datos abiertos: https://github.com/686f6c61/News-LegalTech
+- Licencia MIT (`LICENSE`): cubre este grafo, los eventos, los digests, los schemas y `scripts/build_release.py`.
 - Landing editorial privada: https://legalnews.686f6c61.dev
-- El scan editorial sigue siendo agent-driven. Este artefacto empaqueta `events/` y el digest ya escritos.
+- El scan editorial sigue siendo agent-driven y no forma parte de este repositorio. Este artefacto empaqueta `events/` y el digest ya escritos.
 - Sin Obsidian.

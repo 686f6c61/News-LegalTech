@@ -1,0 +1,10 @@
+id: ent-driven-lawyers
+name: "Driven Lawyers"
+type: law_firm
+geo:
+  - NL
+  - EU
+aliases:
+  - "Driven Drafter"
+notes: "Firma New Model en Ámsterdam. Ficha mínima; sin URL estable verificada."
+stub: true

@@ -1,0 +1,8 @@
+id: ent-iberdrola
+name: "Iberdrola"
+type: company
+url: "https://www.iberdrola.com/"
+geo:
+  - ES
+notes: "Compañía energética. Ficha mínima del despliegue de Harvey en su equipo jurídico."
+stub: true

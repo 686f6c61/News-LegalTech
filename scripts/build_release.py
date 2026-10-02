@@ -45,7 +45,15 @@ Uso
   python scripts/build_release.py --pending
   python scripts/build_release.py --list-pending
   python scripts/build_release.py --check-published
+  python scripts/build_release.py --check-integrity
   python scripts/build_release.py --date 2026-10-02 --dry-run
+
+Integridad fuente / URL
+-----------------------
+El host de ``sources[].url`` tiene que coincidir con el host de la ficha
+``source_id`` en ``sources/catalog.yaml`` (igual, o uno subdominio del otro,
+sin ``www``). Un ``ent-*`` citado tiene ficha en ``entities/ent-*.yaml``.
+``--check-integrity`` y cada empaquetado fallan si no.
 """
 
 from __future__ import annotations
@@ -58,6 +66,7 @@ import sys
 from dataclasses import dataclass, field
 from datetime import date, datetime
 from pathlib import Path
+from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 try:
@@ -434,15 +443,178 @@ def event_node(event: dict) -> dict:
     return node
 
 
-def entity_node(entity_id: str) -> dict:
-    return {
+def citation_host(url: str) -> str:
+    """Host en minúsculas, sin ``www.`` ni punto final."""
+    host = (urlparse(url).hostname or "").lower().rstrip(".")
+    if host.startswith("www."):
+        host = host[4:]
+    return host
+
+
+def hosts_align(source_url: str, citation_url: str) -> bool:
+    """El host de la cita coincide con el de la ficha, o uno es subdominio del otro.
+
+    Regla barata: no resuelve redirecciones ni compara el artículo. Solo el
+    dominio. ``lawsitesblog.com`` contra ``gov.ca.gov`` falla.
+    ``lawyerpress.com`` contra ``cincodias.elpais.com`` falla.
+    ``law.com`` contra ``www.law.com/legaltechnews/...`` pasa.
+    """
+    source_host = citation_host(source_url)
+    cited_host = citation_host(citation_url)
+    if not source_host or not cited_host:
+        return False
+    return (
+        source_host == cited_host
+        or cited_host.endswith("." + source_host)
+        or source_host.endswith("." + cited_host)
+    )
+
+
+def load_source_homes(root: Path) -> dict[str, str]:
+    """``source_id`` -> URL de portada en ``sources/catalog.yaml``."""
+    catalog = root / "sources" / "catalog.yaml"
+    if yaml is None or not catalog.is_file():
+        return {}
+    data = yaml.safe_load(catalog.read_text(encoding="utf-8"))
+    homes: dict[str, str] = {}
+    if not isinstance(data, dict):
+        return homes
+    for item in data.get("sources") or []:
+        if isinstance(item, dict) and item.get("id") and item.get("url"):
+            homes[str(item["id"])] = str(item["url"])
+    return homes
+
+
+def load_entity_records(root: Path) -> dict[str, dict]:
+    """Fichas ``entities/ent-*.yaml`` por id. No lee el índice ``entities.yaml``."""
+    folder = root / "entities"
+    records: dict[str, dict] = {}
+    if yaml is None or not folder.is_dir():
+        return records
+    for path in sorted(folder.glob("ent-*.yaml")):
+        data = yaml.safe_load(path.read_text(encoding="utf-8"))
+        if isinstance(data, dict) and data.get("id"):
+            records[str(data["id"])] = data
+    return records
+
+
+def iter_events(root: Path) -> list[tuple[Path, dict]]:
+    events_root = root / "events"
+    found: list[tuple[Path, dict]] = []
+    if not events_root.is_dir():
+        return found
+    for day_dir in sorted(path for path in events_root.iterdir() if path.is_dir()):
+        try:
+            parse_day(day_dir.name)
+        except ReleaseError:
+            continue
+        paths = event_paths(day_dir)
+        if not paths:
+            continue
+        for event_id in ordered_event_ids(day_dir):
+            path = paths[event_id]
+            found.append((path, load_event(path)))
+    return found
+
+
+def integrity_problems(
+    root: Path,
+    events: list[tuple[Path, dict]] | None = None,
+) -> list[str]:
+    """Desajustes source/URL y ids de entidad sin ficha.
+
+    Si no hay catálogo ni fichas (fixtures), no exige nada.
+    """
+    problems: list[str] = []
+    homes = load_source_homes(root)
+    records = load_entity_records(root)
+    if not homes and not records:
+        return problems
+    loaded = events if events is not None else iter_events(root)
+
+    if homes:
+        for path, event in loaded:
+            event_id = str(event.get("id") or path.name)
+            for source in event.get("sources") or []:
+                if not isinstance(source, dict):
+                    continue
+                source_id = str(source.get("source_id") or "")
+                url = str(source.get("url") or "")
+                label = f"{event_id}: {source_id or '(sin source_id)'}"
+                if not source_id or source_id not in homes:
+                    problems.append(f"{label} no está en sources/catalog.yaml")
+                    continue
+                if url and not hosts_align(homes[source_id], url):
+                    problems.append(
+                        f"{label} ({citation_host(homes[source_id])}) "
+                        f"no coincide con {citation_host(url)}"
+                    )
+
+    if records:
+        index_path = root / "entities" / "entities.yaml"
+        if index_path.is_file():
+            data = yaml.safe_load(index_path.read_text(encoding="utf-8")) or {}
+            indexed: dict[str, dict] = {}
+            for item in data.get("entities") or []:
+                if isinstance(item, dict) and item.get("id"):
+                    indexed[str(item["id"])] = item
+            missing_index = sorted(set(records) - set(indexed))
+            extra_index = sorted(set(indexed) - set(records))
+            if missing_index or extra_index:
+                problems.append(
+                    "entities.yaml no cubre las fichas "
+                    f"(faltan {', '.join(missing_index) or '-'}; "
+                    f"sobran {', '.join(extra_index) or '-'})"
+                )
+            for entity_id, record in records.items():
+                other = indexed.get(entity_id)
+                if not other:
+                    continue
+                if (
+                    other.get("name") != record.get("name")
+                    or other.get("type") != record.get("type")
+                    or bool(other.get("stub")) != bool(record.get("stub"))
+                ):
+                    problems.append(
+                        f"{entity_id}: name, type o stub no coinciden entre ficha e índice"
+                    )
+        for path, event in loaded:
+            event_id = str(event.get("id") or path.name)
+            for entity_id in event.get("entities") or []:
+                if entity_id and str(entity_id) not in records:
+                    problems.append(f"{event_id}: {entity_id} no tiene ficha en entities/")
+    return problems
+
+
+def entity_node(entity_id: str, record: dict | None = None) -> dict:
+    node: dict = {
         "@id": resource_id("entities", entity_id),
         "@type": "schema:Thing",
         "schema:identifier": entity_id,
     }
+    if not record:
+        return node
+    if record.get("name"):
+        node["schema:name"] = record["name"]
+    if record.get("type"):
+        node["sota:entityType"] = record["type"]
+    if record.get("url"):
+        node["schema:url"] = record["url"]
+    same_as = [str(item) for item in record.get("same_as") or [] if item]
+    if same_as:
+        node["schema:sameAs"] = same_as
+    if record.get("stub") is True:
+        node["sota:stub"] = True
+    return node
 
 
-def assemble_graph(day: date, version: str, events: list[dict]) -> dict:
+def assemble_graph(
+    day: date,
+    version: str,
+    events: list[dict],
+    entity_records: dict[str, dict] | None = None,
+) -> dict:
+    records = entity_records or {}
     event_nodes = [event_node(event) for event in events]
     entity_ids: list[str] = []
     seen: set[str] = set()
@@ -471,6 +643,7 @@ def assemble_graph(day: date, version: str, events: list[dict]) -> dict:
         "schema:description": description,
         "schema:inLanguage": "es",
         "schema:url": download_url(version),
+        "schema:license": "https://spdx.org/licenses/MIT.html",
         "schema:hasPart": [{"@id": node["@id"]} for node in event_nodes],
     }
     return {
@@ -479,7 +652,11 @@ def assemble_graph(day: date, version: str, events: list[dict]) -> dict:
             "sota": SOTA_NS,
             "xsd": "http://www.w3.org/2001/XMLSchema#",
         },
-        "@graph": [dataset, *event_nodes, *[entity_node(entity_id) for entity_id in entity_ids]],
+        "@graph": [
+            dataset,
+            *event_nodes,
+            *[entity_node(entity_id, records.get(entity_id)) for entity_id in entity_ids],
+        ],
     }
 
 
@@ -565,8 +742,9 @@ El repositorio público es la fuente de verdad de los datos abiertos, así que l
 ## Notas
 
 - Repositorio público de datos abiertos: {REPO_HTML}
+- Licencia MIT (`LICENSE`): cubre este grafo, los eventos, los digests, los schemas y `scripts/build_release.py`.
 - Landing editorial privada: https://legalnews.686f6c61.dev
-- El scan editorial sigue siendo agent-driven. Este artefacto empaqueta `events/` y el digest ya escritos.
+- El scan editorial sigue siendo agent-driven y no forma parte de este repositorio. Este artefacto empaqueta `events/` y el digest ya escritos.
 - Sin Obsidian.
 """
 
@@ -714,6 +892,11 @@ def build_day(
         result.message = f"Sin eventos en events/{day.isoformat()}/. No hay release."
         return result
 
+    pairs = [(root / "events" / day.isoformat() / f"{event['id']}.json", event) for event in events]
+    problems = integrity_problems(root, pairs)
+    if problems:
+        raise ReleaseError("Integridad fuente/URL o entidades: " + "; ".join(problems))
+
     types = known_event_types(root)
     if types:
         for event in events:
@@ -723,7 +906,7 @@ def build_day(
                     file=sys.stderr,
                 )
 
-    document = assemble_graph(day, version, events)
+    document = assemble_graph(day, version, events, load_entity_records(root))
     graph_text = dump_jsonld(document)
     notes_text = render_release_notes(day, version, events, root)
     result.event_count = len(events)
@@ -784,6 +967,9 @@ def check_published(root: Path) -> list[BuildResult]:
     releases = root / "releases"
     if not releases.is_dir():
         return []
+    problems = integrity_problems(root)
+    if problems:
+        raise ReleaseError("Integridad fuente/URL o entidades: " + "; ".join(problems))
     results: list[BuildResult] = []
     for path in sorted(releases.iterdir()):
         if not path.is_dir() or not _is_calendar_release_name(path.name):
@@ -880,6 +1066,11 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Hace --check de cada release segun la fecha de RELEASE.md",
     )
+    parser.add_argument(
+        "--check-integrity",
+        action="store_true",
+        help="Falla si source_id y URL no comparten host, o si falta una ficha ent-*",
+    )
     parser.add_argument("--dry-run", action="store_true", help="No escribe ficheros")
     parser.add_argument(
         "--force",
@@ -901,9 +1092,16 @@ def main(argv: list[str] | None = None) -> int:
         if problems:
             rels = ", ".join(path.relative_to(root).as_posix() for path, _tokens in problems[:5])
             raise ReleaseError(f"Ortografía española pendiente en {rels}")
+        integrity = integrity_problems(root)
+        if integrity:
+            raise ReleaseError("Integridad fuente/URL o entidades: " + "; ".join(integrity))
         if args.list_pending:
             for day in pending_dates(root):
                 print(day.isoformat())
+            return 0
+
+        if args.check_integrity:
+            print(f"integridad: OK ({len(iter_events(root))} eventos)")
             return 0
 
         if args.check_published:
@@ -922,7 +1120,9 @@ def main(argv: list[str] | None = None) -> int:
         elif args.date:
             days = [parse_day(args.date)]
         else:
-            parser.error("indica --date, --pending, --list-pending o --check-published")
+            parser.error(
+                "indica --date, --pending, --list-pending, --check-published o --check-integrity"
+            )
             return 2
 
         exit_code = 0

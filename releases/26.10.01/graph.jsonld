@@ -89,7 +89,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html",
           "schema:name": "Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product",
-          "sota:sourceId": "src-lawsites-bob-ambrogi"
+          "sota:sourceId": "src-lawnext"
         },
         {
           "@type": "schema:CreativeWork",
@@ -141,13 +141,13 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
           "schema:name": "California AI framework: Governor Newsom signs SB 574 and related bills",
-          "sota:sourceId": "src-lawsites-bob-ambrogi"
+          "sota:sourceId": "src-california-governor"
         },
         {
           "@type": "schema:CreativeWork",
           "schema:url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574",
           "schema:name": "Bill Text - SB-574 Attorneys, arbitrators, judicial officers, and alternative resolution providers",
-          "sota:sourceId": "src-legal-futures"
+          "sota:sourceId": "src-california-legislature"
         }
       ],
       "schema:about": [
@@ -193,7 +193,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.lexisnexis.com/blogs/ae-legal/b/press-releases/posts/lexisnexis-marks-16-years-in-mena-with-launch-of-lexis-with-protege",
           "schema:name": "LexisNexis Marks 16 years in MENA With Launch of Lexis+ with Protégé",
-          "sota:sourceId": "src-artificial-lawyer"
+          "sota:sourceId": "src-lexisnexis"
         }
       ],
       "schema:about": [
@@ -282,7 +282,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.republicworld.com/initiatives/lexisnexis-launches-skills-in-lexis-advance-with-protege-in-india-advancing-legal-ai-built-on-the-authority-legal-work-demands-2026-09-30-137999",
           "schema:name": "LexisNexis Launches Skills in Lexis Advance With Protégé in India",
-          "sota:sourceId": "src-artificial-lawyer"
+          "sota:sourceId": "src-republic-world"
         }
       ],
       "schema:about": [
@@ -325,7 +325,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.ibm.com/new/announcements/ibm-content-cortex-closing-the-data-value-gap",
           "schema:name": "IBM Content Cortex Premium is here: Use governed content to propel your business",
-          "sota:sourceId": "src-ediscovery-today"
+          "sota:sourceId": "src-ibm-newsroom"
         }
       ],
       "schema:about": [
@@ -367,7 +367,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.casepoint.com/press/casepoint-expands-casepoint-iq-with-purpose-built-ai-agents/",
           "schema:name": "Casepoint Expands Casepoint IQ With First Purpose-Built AI Agents",
-          "sota:sourceId": "src-ediscovery-today"
+          "sota:sourceId": "src-casepoint"
         }
       ],
       "schema:about": [
@@ -409,7 +409,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://www.prnewswire.com/news-releases/onboard-launches-ai-assist-the-first-full-context-semantic-ai-in-board-management-302894476.html",
           "schema:name": "OnBoard Launches AI Assist, the First Full-Context Semantic AI in Board Management",
-          "sota:sourceId": "src-legal-it-insider"
+          "sota:sourceId": "src-pr-newswire"
         }
       ],
       "schema:about": [
@@ -492,7 +492,7 @@
           "@type": "schema:CreativeWork",
           "schema:url": "https://cincodias.elpais.com/legal/2026-09-29/la-regulacion-de-la-ia-ya-esta-aqui-la-transparencia-todavia-no.html",
           "schema:name": "La regulación de la IA ya está aquí. La transparencia, todavía no",
-          "sota:sourceId": "src-lawyerpress-news"
+          "sota:sourceId": "src-cinco-dias"
         }
       ],
       "schema:about": [
@@ -507,67 +507,123 @@
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai-act",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-ai-act"
+      "schema:identifier": "ent-ai-act",
+      "schema:name": "EU AI Act (Reglamento de IA)",
+      "sota:entityType": "other",
+      "schema:url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-california",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-california"
+      "schema:identifier": "ent-california",
+      "schema:name": "State of California (Estado de California)",
+      "sota:entityType": "government",
+      "schema:url": "https://www.ca.gov/",
+      "schema:sameAs": [
+        "https://www.wikidata.org/wiki/Q99"
+      ],
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-casepoint",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-casepoint"
+      "schema:identifier": "ent-casepoint",
+      "schema:name": "Casepoint",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.casepoint.com/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-clio"
+      "schema:identifier": "ent-clio",
+      "schema:name": "Clio",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.clio.com/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ecix",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-ecix"
+      "schema:identifier": "ent-ecix",
+      "schema:name": "Ecix",
+      "sota:entityType": "company",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-harvey"
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iberdrola",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-iberdrola"
+      "schema:identifier": "ent-iberdrola",
+      "schema:name": "Iberdrola",
+      "sota:entityType": "company",
+      "schema:url": "https://www.iberdrola.com/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ibm",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-ibm"
+      "schema:identifier": "ent-ibm",
+      "schema:name": "IBM",
+      "sota:entityType": "company",
+      "schema:url": "https://www.ibm.com/",
+      "schema:sameAs": [
+        "https://www.wikidata.org/wiki/Q37156"
+      ],
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-learned-hand",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-learned-hand"
+      "schema:identifier": "ent-learned-hand",
+      "schema:name": "Learned Hand",
+      "sota:entityType": "vendor",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-lexisnexis"
+      "schema:identifier": "ent-lexisnexis",
+      "schema:name": "LexisNexis",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lexisnexis.com/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-onboard",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-onboard"
+      "schema:identifier": "ent-onboard",
+      "schema:name": "OnBoard",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.onboardmeetings.com/",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sb574",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-sb574"
+      "schema:identifier": "ent-sb574",
+      "schema:name": "SB 574 (California)",
+      "sota:entityType": "other",
+      "schema:url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574",
+      "sota:stub": true
     },
     {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra",
       "@type": "schema:Thing",
-      "schema:identifier": "ent-sra"
+      "schema:identifier": "ent-sra",
+      "schema:name": "Solicitors Regulation Authority",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.sra.org.uk/",
+      "sota:stub": true
     }
   ]
 }

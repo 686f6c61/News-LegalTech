@@ -1,0 +1,10 @@
+id: ent-ibm
+name: "IBM"
+type: company
+url: "https://www.ibm.com/"
+geo:
+  - Global
+same_as:
+  - "https://www.wikidata.org/wiki/Q37156"
+notes: "IBM. Ficha mínima del anuncio de Content Cortex."
+stub: true

@@ -24,13 +24,13 @@
   ],
   "sources": [
     {
-      "source_id": "src-lawsites-bob-ambrogi",
+      "source_id": "src-california-governor",
       "url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
       "cited_title": "California AI framework: Governor Newsom signs SB 574 and related bills",
       "accessed": "2026-10-01"
     },
     {
-      "source_id": "src-legal-futures",
+      "source_id": "src-california-legislature",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574",
       "cited_title": "Bill Text - SB-574 Attorneys, arbitrators, judicial officers, and alternative resolution providers",
       "accessed": "2026-10-01"

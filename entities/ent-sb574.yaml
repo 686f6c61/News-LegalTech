@@ -1,0 +1,11 @@
+id: ent-sb574
+name: "SB 574 (California)"
+type: other
+url: "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574"
+geo:
+  - US
+aliases:
+  - "SB 574"
+  - "Senate Bill 574"
+notes: "Ley de California sobre IA generativa en la abogacía y el arbitraje. Ficha mínima."
+stub: true

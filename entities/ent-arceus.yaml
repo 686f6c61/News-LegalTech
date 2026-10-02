@@ -1,0 +1,9 @@
+id: ent-arceus
+name: "Arceus"
+type: law_firm
+geo:
+  - US
+aliases:
+  - "Arceus New Model"
+notes: "Firma New Model en San Francisco. Ficha mínima; sin URL estable verificada."
+stub: true
