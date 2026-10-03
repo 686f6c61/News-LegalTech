@@ -1,0 +1,12 @@
+id: ent-imanage
+name: "iManage"
+type: vendor
+url: "https://imanage.com/"
+geo:
+  - US
+  - Global
+aliases:
+  - "iManage Work"
+  - "Context Fabric"
+notes: "DMS/knowledge; plugin ChatGPT Enterprise. Ficha mínima."
+stub: true

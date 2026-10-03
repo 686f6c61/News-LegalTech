@@ -1,0 +1,11 @@
+id: ent-audiencia-barcelona
+name: "Audiencia Provincial de Barcelona"
+type: other
+url: "https://www.poderjudicial.es/"
+geo:
+  - ES
+  - EU
+aliases:
+  - "AP Barcelona"
+notes: "Sentencia 460/2026 sobre IA como argumento de autoridad. Ficha mínima."
+stub: true

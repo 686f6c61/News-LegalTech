@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-03-barcelona-ia-autoridad",
+  "date": "2026-10-03",
+  "type": "case_law",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Audiencia de Barcelona: la IA no es un «argumento de autoridad» en un recurso judicial",
+  "summary_p1": "Confilegal publicó el 3 de octubre de 2026 la Sentencia 460/2026 (Sección Primera de la Audiencia Provincial de Barcelona, ponente Luis Rodríguez Vega, 21 de julio de 2026) en un recurso hipotecario frente a Banco Sabadell. La Sala desestimó la apelación sobre una cláusula de año comercial 360 días tras concluir que el sistema aplicado era 360/360 (no 365/360) y no acreditaba desequilibrio. El reproche añadido: el recurrente usó un «sorprendente argumento de “autoridad” de la inteligencia artificial» en lugar de concretar el perjuicio económico con un cálculo. La resolución no nombra la herramienta ni desarrolla doctrina general sobre ChatGPT; el mensaje es puntual pero claro.",
+  "summary_p2": "Para litigio ES, la IA puede ayudar a redactar, pero no sustituye acreditar el daño ni convierte la respuesta del modelo en precedente. Encaja con la línea de responsabilidad profesional (el abogado responde) y con SB 574 / SRA warnings ya cubiertos: verificación y prueba, no authority theatre. Checklist procesal: si usas IA para cuantificar, adjunta el cálculo verificable; no cites el chat como si fuera STS. Vendors de drafting judicial: diseñar outputs con cifras auditables y fuentes, no tono de autoridad.",
+  "why_sota": "Audiencia Provincial ES niega expresamente valor de «autoridad» a la IA en recurso.",
+  "why_now": "Cobertura Confilegal 3 Oct 2026 (sentencia 21 jul 2026). NEW.",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "audiencia-barcelona",
+    "judicial-ai",
+    "argumento-autoridad",
+    "litigation",
+    "spain"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261003-la-audiencia-de-barcelona-recuerda-que-la-ia-no-es-un-argumento-de-autoridad-en-un-recurso-judicial/",
+      "cited_title": "La Audiencia de Barcelona recuerda que la IA no es un «argumento de autoridad» en un recurso judicial",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-audiencia-barcelona"
+  ],
+  "lang": "es",
+  "status": "published"
+}

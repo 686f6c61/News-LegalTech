@@ -1,0 +1,12 @@
+id: ent-thomson-reuters
+name: "Thomson Reuters"
+type: vendor
+url: "https://www.thomsonreuters.com/"
+geo:
+  - US
+  - Global
+aliases:
+  - "TR"
+  - "Westlaw"
+notes: "Legal research / Westlaw; litigios AI copyright y market. Ficha mínima."
+stub: true

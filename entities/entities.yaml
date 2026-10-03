@@ -1,271 +1,427 @@
-# Entities referenced by Phase-1 events
 entities:
-  - id: ent-aepd
-    name: Agencia Española de Protección de Datos
-    type: regulator
-    url: "https://www.aepd.es/"
-    geo:
-      - ES
-      - EU
-    aliases:
-      - AEPD
-    notes: Autoridad de control RGPD en España; publica orientaciones técnicas sobre IA.
-  - id: ent-openai
-    name: OpenAI
-    type: company
-    url: "https://openai.com/"
-    geo:
-      - US
-      - Global
-    aliases:
-    
-    notes: Lab de IA; lanza Astra for Law (GPT-6 Astra) orientado a firmas y LegalTech.
-  - id: ent-astra-for-law
-    name: Astra for Law
-    type: product
-    url: "https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/"
-    geo:
-      - US
-      - Global
-    aliases:
-      - GPT-6 Astra for Law
-    notes: Oferta legal de OpenAI con índice de research US y Trusted Access / ZDR.
-  - id: ent-l25-group
-    name: L25 Group
-    type: vendor
-    url: "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
-    geo:
-      - UK
-    aliases:
-      - L25
-    notes: Vendor UK de IA para sectores regulados; desarrolla Alesis y CMS AI-native.
-  - id: ent-alesis
-    name: Alesis
-    type: product
-    url: "https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/"
-    geo:
-      - UK
-    aliases:
-    
-    notes: "Asistente de IA soberano anclado en derecho UK; datos en UK/UE, sin training cross-tenant."
-  - id: ent-free-law-project
-    name: Free Law Project
-    type: other
-    url: "https://free.law/"
-    geo:
-      - US
-    aliases:
-      - CourtListener
-    notes: Nonprofit detrás de CourtListener; corpus de case law US integrado en Astra for Law.
-  - id: ent-artificial-lawyer
-    name: Artificial Lawyer
-    type: media
-    url: "https://www.artificiallawyer.com/"
-    geo:
-      - Global
-    aliases:
-    
-    notes: Medio de referencia LegalTech / AI legal.
-  - id: ent-legal-it-insider
-    name: Legal IT Insider
-    type: media
-    url: "https://legaltechnology.com/"
-    geo:
-      - UK
-      - EU
-    aliases:
-    
-    notes: Medio exclusivas Legal IT UK/Europa.
-  - id: ent-ai-act
-    name: "EU AI Act (Reglamento de IA)"
-    type: other
-    url: "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689"
-    geo:
-      - EU
-    aliases:
-      - "AI Act"
-      - "Reglamento de IA"
-      - "RIA"
-    notes: "Reglamento (UE) 2024/1689. Ficha mínima para que el id citado no quede suelto."
-    stub: true
-  - id: ent-arceus
-    name: "Arceus"
-    type: law_firm
-    geo:
-      - US
-    aliases:
-      - "Arceus New Model"
-    notes: "Firma New Model en San Francisco. Ficha mínima; sin URL estable verificada."
-    stub: true
-  - id: ent-bundledocs
-    name: "Bundledocs"
-    type: vendor
-    geo:
-      - IE
-      - UK
-    notes: "Software de document bundling (Cork) adquirido por Opus 2. Ficha mínima."
-    stub: true
-  - id: ent-california
-    name: "State of California (Estado de California)"
-    type: government
-    url: "https://www.ca.gov/"
-    geo:
-      - US
-    aliases:
-      - "California"
-      - "Estado de California"
-    same_as:
-      - "https://www.wikidata.org/wiki/Q99"
-    notes: "Estado de California. Ficha mínima del id citado junto a SB 574."
-    stub: true
-  - id: ent-casepoint
-    name: "Casepoint"
-    type: vendor
-    url: "https://www.casepoint.com/"
-    geo:
-      - US
-    aliases:
-      - "Casepoint IQ"
-    notes: "Vendor de eDiscovery. Ficha mínima."
-    stub: true
-  - id: ent-clio
-    name: "Clio"
-    type: vendor
-    url: "https://www.clio.com/"
-    geo:
-      - US
-      - Global
-    notes: "Vendor de practice management y de producto para tribunales. Ficha mínima."
-    stub: true
-  - id: ent-driven-lawyers
-    name: "Driven Lawyers"
-    type: law_firm
-    geo:
-      - NL
-      - EU
-    aliases:
-      - "Driven Drafter"
-    notes: "Firma New Model en Ámsterdam. Ficha mínima; sin URL estable verificada."
-    stub: true
-  - id: ent-ecix
-    name: "Ecix"
-    type: company
-    geo:
-      - ES
-    notes: "Autor del análisis de transparencia del art. 50 publicado en Cinco Días. Ficha mínima."
-    stub: true
-  - id: ent-harvey
-    name: "Harvey"
-    type: vendor
-    url: "https://www.harvey.ai/"
-    geo:
-      - US
-      - Global
-    aliases:
-      - "Harvey AI"
-    notes: "Vendor de IA jurídica. Ficha mínima."
-    stub: true
-  - id: ent-iberdrola
-    name: "Iberdrola"
-    type: company
-    url: "https://www.iberdrola.com/"
-    geo:
-      - ES
-    notes: "Compañía energética. Ficha mínima del despliegue de Harvey en su equipo jurídico."
-    stub: true
-  - id: ent-ibm
-    name: "IBM"
-    type: company
-    url: "https://www.ibm.com/"
-    geo:
-      - Global
-    same_as:
-      - "https://www.wikidata.org/wiki/Q37156"
-    notes: "IBM. Ficha mínima del anuncio de Content Cortex."
-    stub: true
-  - id: ent-ivo
-    name: "Ivo"
-    type: vendor
-    geo:
-      - US
-      - Global
-    aliases:
-      - "Ivo Sage"
-    notes: "Compañía de IA contractual. Ficha mínima; el dataset no trae un URL de producto verificado."
-    stub: true
-  - id: ent-learned-hand
-    name: "Learned Hand"
-    type: vendor
-    geo:
-      - US
-    notes: "Producto de IA para jueces y tribunales, adquirido por Clio. Ficha mínima."
-    stub: true
-  - id: ent-lexisnexis
-    name: "LexisNexis"
-    type: vendor
-    url: "https://www.lexisnexis.com/"
-    geo:
-      - Global
-    aliases:
-      - "Lexis+"
-    notes: "Vendor de research jurídico. Ficha mínima."
-    stub: true
-  - id: ent-onboard
-    name: "OnBoard"
-    type: vendor
-    url: "https://www.onboardmeetings.com/"
-    geo:
-      - US
-    aliases:
-      - "OnBoard AI Assist"
-    notes: "Vendor de gestión de consejos. Ficha mínima."
-    stub: true
-  - id: ent-opus2
-    name: "Opus 2"
-    type: vendor
-    url: "https://www.opus2.com/"
-    geo:
-      - UK
-      - Global
-    aliases:
-      - "Opus 2 Ingenuity"
-    notes: "Vendor de software de disputes. Ficha mínima."
-    stub: true
-  - id: ent-repario
-    name: "Repario"
-    type: vendor
-    url: "https://repariodata.com/"
-    geo:
-      - US
-    notes: "Vendor de eDiscovery. Ficha mínima."
-    stub: true
-  - id: ent-sb574
-    name: "SB 574 (California)"
-    type: other
-    url: "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574"
-    geo:
-      - US
-    aliases:
-      - "SB 574"
-      - "Senate Bill 574"
-    notes: "Ley de California sobre IA generativa en la abogacía y el arbitraje. Ficha mínima."
-    stub: true
-  - id: ent-sra
-    name: "Solicitors Regulation Authority"
-    type: regulator
-    url: "https://www.sra.org.uk/"
-    geo:
-      - UK
-    aliases:
-      - "SRA"
-    notes: "Regulador de solicitors en Inglaterra y Gales. Ficha mínima."
-    stub: true
-  - id: ent-unitedlex
-    name: "UnitedLex"
-    type: vendor
-    url: "https://www.unitedlex.com/"
-    geo:
-      - US
-      - Global
-    notes: "ALSP adquirido por Repario. Ficha mínima."
-    stub: true
+- id: ent-aepd
+  name: Agencia Española de Protección de Datos
+  type: regulator
+  url: https://www.aepd.es/
+  geo:
+  - ES
+  - EU
+  aliases:
+  - AEPD
+  notes: Autoridad de control RGPD en España; publica orientaciones técnicas sobre
+    IA.
+- id: ent-openai
+  name: OpenAI
+  type: company
+  url: https://openai.com/
+  geo:
+  - US
+  - Global
+  aliases: null
+  notes: Lab de IA; lanza Astra for Law (GPT-6 Astra) orientado a firmas y LegalTech.
+- id: ent-astra-for-law
+  name: Astra for Law
+  type: product
+  url: https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/
+  geo:
+  - US
+  - Global
+  aliases:
+  - GPT-6 Astra for Law
+  notes: Oferta legal de OpenAI con índice de research US y Trusted Access / ZDR.
+- id: ent-l25-group
+  name: L25 Group
+  type: vendor
+  url: https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/
+  geo:
+  - UK
+  aliases:
+  - L25
+  notes: Vendor UK de IA para sectores regulados; desarrolla Alesis y CMS AI-native.
+- id: ent-alesis
+  name: Alesis
+  type: product
+  url: https://legaltechnology.com/exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live/
+  geo:
+  - UK
+  aliases: null
+  notes: Asistente de IA soberano anclado en derecho UK; datos en UK/UE, sin training
+    cross-tenant.
+- id: ent-free-law-project
+  name: Free Law Project
+  type: other
+  url: https://free.law/
+  geo:
+  - US
+  aliases:
+  - CourtListener
+  notes: Nonprofit detrás de CourtListener; corpus de case law US integrado en Astra
+    for Law.
+- id: ent-artificial-lawyer
+  name: Artificial Lawyer
+  type: media
+  url: https://www.artificiallawyer.com/
+  geo:
+  - Global
+  aliases: null
+  notes: Medio de referencia LegalTech / AI legal.
+- id: ent-legal-it-insider
+  name: Legal IT Insider
+  type: media
+  url: https://legaltechnology.com/
+  geo:
+  - UK
+  - EU
+  aliases: null
+  notes: Medio exclusivas Legal IT UK/Europa.
+- id: ent-ai-act
+  name: EU AI Act (Reglamento de IA)
+  type: other
+  url: https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689
+  geo:
+  - EU
+  aliases:
+  - AI Act
+  - Reglamento de IA
+  - RIA
+  notes: Reglamento (UE) 2024/1689. Ficha mínima para que el id citado no quede suelto.
+  stub: true
+- id: ent-arceus
+  name: Arceus
+  type: law_firm
+  geo:
+  - US
+  aliases:
+  - Arceus New Model
+  notes: Firma New Model en San Francisco. Ficha mínima; sin URL estable verificada.
+  stub: true
+- id: ent-bundledocs
+  name: Bundledocs
+  type: vendor
+  geo:
+  - IE
+  - UK
+  notes: Software de document bundling (Cork) adquirido por Opus 2. Ficha mínima.
+  stub: true
+- id: ent-california
+  name: State of California (Estado de California)
+  type: government
+  url: https://www.ca.gov/
+  geo:
+  - US
+  aliases:
+  - California
+  - Estado de California
+  same_as:
+  - https://www.wikidata.org/wiki/Q99
+  notes: Estado de California. Ficha mínima del id citado junto a SB 574.
+  stub: true
+- id: ent-casepoint
+  name: Casepoint
+  type: vendor
+  url: https://www.casepoint.com/
+  geo:
+  - US
+  aliases:
+  - Casepoint IQ
+  notes: Vendor de eDiscovery. Ficha mínima.
+  stub: true
+- id: ent-clio
+  name: Clio
+  type: vendor
+  url: https://www.clio.com/
+  geo:
+  - US
+  - Global
+  notes: Vendor de practice management y de producto para tribunales. Ficha mínima.
+  stub: true
+- id: ent-driven-lawyers
+  name: Driven Lawyers
+  type: law_firm
+  geo:
+  - NL
+  - EU
+  aliases:
+  - Driven Drafter
+  notes: Firma New Model en Ámsterdam. Ficha mínima; sin URL estable verificada.
+  stub: true
+- id: ent-ecix
+  name: Ecix
+  type: company
+  geo:
+  - ES
+  notes: Autor del análisis de transparencia del art. 50 publicado en Cinco Días.
+    Ficha mínima.
+  stub: true
+- id: ent-harvey
+  name: Harvey
+  type: vendor
+  url: https://www.harvey.ai/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Harvey AI
+  notes: Vendor de IA jurídica. Ficha mínima.
+  stub: true
+- id: ent-iberdrola
+  name: Iberdrola
+  type: company
+  url: https://www.iberdrola.com/
+  geo:
+  - ES
+  notes: Compañía energética. Ficha mínima del despliegue de Harvey en su equipo jurídico.
+  stub: true
+- id: ent-ibm
+  name: IBM
+  type: company
+  url: https://www.ibm.com/
+  geo:
+  - Global
+  same_as:
+  - https://www.wikidata.org/wiki/Q37156
+  notes: IBM. Ficha mínima del anuncio de Content Cortex.
+  stub: true
+- id: ent-ivo
+  name: Ivo
+  type: vendor
+  geo:
+  - US
+  - Global
+  aliases:
+  - Ivo Sage
+  notes: Compañía de IA contractual. Ficha mínima; el dataset no trae un URL de producto
+    verificado.
+  stub: true
+- id: ent-learned-hand
+  name: Learned Hand
+  type: vendor
+  geo:
+  - US
+  notes: Producto de IA para jueces y tribunales, adquirido por Clio. Ficha mínima.
+  stub: true
+- id: ent-lexisnexis
+  name: LexisNexis
+  type: vendor
+  url: https://www.lexisnexis.com/
+  geo:
+  - Global
+  aliases:
+  - Lexis+
+  notes: Vendor de research jurídico. Ficha mínima.
+  stub: true
+- id: ent-onboard
+  name: OnBoard
+  type: vendor
+  url: https://www.onboardmeetings.com/
+  geo:
+  - US
+  aliases:
+  - OnBoard AI Assist
+  notes: Vendor de gestión de consejos. Ficha mínima.
+  stub: true
+- id: ent-opus2
+  name: Opus 2
+  type: vendor
+  url: https://www.opus2.com/
+  geo:
+  - UK
+  - Global
+  aliases:
+  - Opus 2 Ingenuity
+  notes: Vendor de software de disputes. Ficha mínima.
+  stub: true
+- id: ent-repario
+  name: Repario
+  type: vendor
+  url: https://repariodata.com/
+  geo:
+  - US
+  notes: Vendor de eDiscovery. Ficha mínima.
+  stub: true
+- id: ent-sb574
+  name: SB 574 (California)
+  type: other
+  url: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574
+  geo:
+  - US
+  aliases:
+  - SB 574
+  - Senate Bill 574
+  notes: Ley de California sobre IA generativa en la abogacía y el arbitraje. Ficha
+    mínima.
+  stub: true
+- id: ent-sra
+  name: Solicitors Regulation Authority
+  type: regulator
+  url: https://www.sra.org.uk/
+  geo:
+  - UK
+  aliases:
+  - SRA
+  notes: Regulador de solicitors en Inglaterra y Gales. Ficha mínima.
+  stub: true
+- id: ent-unitedlex
+  name: UnitedLex
+  type: vendor
+  url: https://www.unitedlex.com/
+  geo:
+  - US
+  - Global
+  notes: ALSP adquirido por Repario. Ficha mínima.
+  stub: true
+- id: ent-falcon
+  name: Falcon
+  type: law_firm
+  url: https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/
+  geo:
+  - BE
+  - EU
+  aliases:
+  - Falcon Law
+  notes: New Model AI-native belga; flat fee same-day contracts. Ficha mínima.
+  stub: true
+- id: ent-allen-overy
+  name: Allen & Overy
+  type: law_firm
+  url: https://www.allenovery.com/
+  geo:
+  - UK
+  - Global
+  aliases:
+  - A&O
+  - A&O Shearman
+  notes: Magic Circle; Dejonghe fue global senior partner. Ficha mínima.
+  stub: true
+- id: ent-mitratech
+  name: Mitratech
+  type: vendor
+  url: https://mitratech.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Mitratech Legal
+  - ARIES
+  notes: Legal/compliance/HR tech; ARIES AI. Ficha mínima.
+  stub: true
+- id: ent-botdojo
+  name: BotDojo
+  type: vendor
+  url: https://mitratech.com/resource-hub/pressreleases/mitratech-acquires-botdojo/
+  geo:
+  - US
+  aliases: []
+  notes: Infraestructura de agentes IA; adquirida por Mitratech. Ficha mínima.
+  stub: true
+- id: ent-legalscape
+  name: Legalscape
+  type: vendor
+  url: https://legalscape.jp/
+  geo:
+  - JP
+  aliases:
+  - Legal Intelligence
+  notes: Legal research/AI japonés; partnership Harvey. Ficha mínima.
+  stub: true
+- id: ent-ministerio-justicia-es
+  name: Ministerio de Justicia (España)
+  type: government
+  url: https://www.mjusticia.gob.es/
+  geo:
+  - ES
+  - EU
+  aliases:
+  - Ministerio de la Presidencia, Justicia y Relaciones con las Cortes
+  notes: Desarrolla IA para tramitación en el TS. Ficha mínima.
+  stub: true
+- id: ent-tribunal-supremo-es
+  name: Tribunal Supremo (España)
+  type: other
+  url: https://www.poderjudicial.es/
+  geo:
+  - ES
+  - EU
+  aliases:
+  - TS
+  - Sala de lo Civil
+  notes: Alto tribunal ES; Sala Civil usa IA de tramitación. Ficha mínima.
+  stub: true
+- id: ent-audiencia-barcelona
+  name: Audiencia Provincial de Barcelona
+  type: other
+  url: https://www.poderjudicial.es/
+  geo:
+  - ES
+  - EU
+  aliases:
+  - AP Barcelona
+  notes: Sentencia 460/2026 sobre IA como argumento de autoridad. Ficha mínima.
+  stub: true
+- id: ent-ross-intelligence
+  name: ROSS Intelligence
+  type: vendor
+  url: https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html
+  geo:
+  - US
+  aliases:
+  - ROSS
+  notes: Legal research AI; disputa copyright con Thomson Reuters. Ficha mínima.
+  stub: true
+- id: ent-thomson-reuters
+  name: Thomson Reuters
+  type: vendor
+  url: https://www.thomsonreuters.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - TR
+  - Westlaw
+  notes: Legal research / Westlaw; litigios AI copyright y market. Ficha mínima.
+  stub: true
+- id: ent-pierson-ferdinand
+  name: Pierson Ferdinand
+  type: law_firm
+  url: https://pierferd.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - PierFerd
+  notes: New Model partner-only (Zero Associates) con Harvey. Ficha mínima.
+  stub: true
+- id: ent-relativity
+  name: Relativity
+  type: vendor
+  url: https://www.relativity.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Relativity aiR
+  - RelativityOne
+  notes: eDiscovery / aiR; estrategia frontier labs. Ficha mínima.
+  stub: true
+- id: ent-infotrack
+  name: InfoTrack
+  type: vendor
+  url: https://www.infotrack.co.uk/
+  geo:
+  - UK
+  aliases:
+  - DCMI
+  notes: Conveyancing platform; Digital Conveyancing Maturity Index. Ficha mínima.
+  stub: true
+- id: ent-imanage
+  name: iManage
+  type: vendor
+  url: https://imanage.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - iManage Work
+  - Context Fabric
+  notes: DMS/knowledge; plugin ChatGPT Enterprise. Ficha mínima.
+  stub: true

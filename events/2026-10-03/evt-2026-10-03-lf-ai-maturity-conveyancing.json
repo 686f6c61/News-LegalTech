@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-03-lf-ai-maturity-conveyancing",
+  "date": "2026-10-03",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "InfoTrack DCMI UK: madurez digital +10% relativo, pero IA firm-wide solo en el 18%",
+  "summary_p1": "Legal Futures publicó el 3 de octubre de 2026 el Digital Conveyancing Maturity Index 2026 de InfoTrack: la madurez digital media de firmas de property law en UK/Irlanda subió del 54,4% (2024) al 59,8% (2026), un +9,9% relativo. La nueva sección de IA arranca en 29,3%, la más baja de seis bloques: el 85% usa algún tipo de IA, pero solo el 14% la describe como práctica estándar y el 69% como experimentación individual; apenas el 18% la ha desplegado en un equipo. Casos de uso top: client reports (42%), document analysis (38%) y enquiries (38%).",
+  "summary_p2": "El COO de InfoTrack UK lo resume como «AI contradiction»: uso extendido, adopción gobernada escasa. Para managing partners de conveyancing y eco en inmobiliario ES, el gap no es acceso al tool sino playbook, KPI y ownership. Encaja con el AI Value Gap de la pasada 10-02: sin métrica y gobierno, más seats no cierran valor. Vendors: vender workflow medible (AP1, triage de riesgo), no otro chat. Regulators y insurers: vigilar experimentación individual sobre datos de cliente sin política.",
+  "why_sota": "Datos sectoriales UK: adopción IA amplia vs gobierno firm-wide mínimo en conveyancing.",
+  "why_now": "Informe / Legal Futures 3 Oct 2026. NEW.",
+  "geo": [
+    "UK",
+    "IE"
+  ],
+  "topics": [
+    "infotrack",
+    "dcmi",
+    "conveyancing",
+    "ai-adoption",
+    "maturity",
+    "legal-ops"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/associate-news/new-report-finds-10-rise-in-digital-maturity-among-law-firms-despite-limited-firm-wide-ai-strategies",
+      "cited_title": "New report finds 10% rise in digital maturity among law firms, despite limited firm-wide AI strategies",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-infotrack"
+  ],
+  "lang": "es",
+  "status": "published"
+}

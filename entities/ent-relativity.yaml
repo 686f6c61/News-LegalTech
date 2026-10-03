@@ -1,0 +1,12 @@
+id: ent-relativity
+name: "Relativity"
+type: vendor
+url: "https://www.relativity.com/"
+geo:
+  - US
+  - Global
+aliases:
+  - "Relativity aiR"
+  - "RelativityOne"
+notes: "eDiscovery / aiR; estrategia frontier labs. Ficha mínima."
+stub: true

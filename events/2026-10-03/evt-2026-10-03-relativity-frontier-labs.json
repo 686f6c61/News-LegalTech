@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-03-relativity-frontier-labs",
+  "date": "2026-10-02",
+  "type": "product",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Relativity: deadline cloud 2028 se mantiene y prioriza labs frontier frente a Harvey/Legora",
+  "summary_p1": "El 2 de octubre de 2026, en Relativity Fest (Chicago), el CEO Phil Saunders confirmó que desde el 1 de enero de 2028 ningún matter nuevo irá a Relativity Server (el Server no se apaga; se corta el net-new). Casi el 84% del ARR ya está en Relativity aiR (antes RelativityOne). Frente a partners no alineados, el mensaje fue duro: «Know we're going to run through you». En la misma briefing, Saunders dijo que la prioridad de partnerships es con labs frontier (Anthropic, OpenAI, Google), no con legal AI companies como Harvey o Legora —siguen las conversaciones, pero la prioridad está en los frontier models, porque los clientes corporativos ya corren varios y ve más perdurabilidad en los labs.",
+  "summary_p2": "Para eDiscovery y litigation support, dos decisiones de arquitectura: (1) migrar o morir en net-new 2028; (2) el MCP de matter intelligence hacia Claude u otros (2027) asume que el desktop del abogado tendrá frontier model. En RFP Relativity: pedir plan de créditos a partners híbridos, estado de claiR nativo y hoja de ruta MCP. No reincorpora Relativity claiR AAP del 09-30: aquí el ángulo es estrategia frontier-first + deadline Server. En ES/UE, soberanía y dónde vive el matter si el query sale hacia Claude.",
+  "why_sota": "Vendor eDiscovery dominante fija frontier-first y corta Server net-new en 2028.",
+  "why_now": "RelFest briefing 2 Oct 2026 (LawNext). NEW.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "relativity",
+    "air",
+    "frontier-labs",
+    "mcp",
+    "harvey",
+    "legora",
+    "cloud"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
+      "cited_title": "Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering with Frontier Labs Over Legal AI Companies",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-relativity"
+  ],
+  "lang": "es",
+  "status": "published"
+}

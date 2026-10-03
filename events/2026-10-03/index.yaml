@@ -1,0 +1,67 @@
+scan_id: full-radar-2026-10-03
+date: '2026-10-03'
+release: 03.10.26
+count: 10
+ai_share: 1.0
+dedup_against: events/2026-09-29 + 2026-09-30 + 2026-10-01 + 2026-10-02 + scans PASS
+event_ids:
+- evt-2026-10-03-falcon-dejonghe
+- evt-2026-10-03-mitratech-botdojo
+- evt-2026-10-03-harvey-legalscape
+- evt-2026-10-03-es-ts-ia-recursos
+- evt-2026-10-03-barcelona-ia-autoridad
+- evt-2026-10-03-ross-scotus-petition
+- evt-2026-10-03-pierson-ferdinand-300
+- evt-2026-10-03-relativity-frontier-labs
+- evt-2026-10-03-lf-ai-maturity-conveyancing
+- evt-2026-10-03-imanage-chatgpt
+events:
+- id: evt-2026-10-03-falcon-dejonghe
+  sota_score: 8.8
+  ai_legaltech: true
+  title: 'Wim Dejonghe (ex-A&O) respalda Falcon: New Model AI-native belga con flat
+    fee y revisión same-day'
+- id: evt-2026-10-03-mitratech-botdojo
+  sota_score: 8.5
+  ai_legaltech: true
+  title: 'Mitratech adquiere BotDojo: agentes gobernados y MCP bidireccional sobre
+    ARIES'
+- id: evt-2026-10-03-harvey-legalscape
+  sota_score: 8.4
+  ai_legaltech: true
+  title: 'Harvey se asocia con Legalscape: derecho japonés (leyes, jurisprudencia
+    y libros) dentro de Harvey'
+- id: evt-2026-10-03-es-ts-ia-recursos
+  sota_score: 8.2
+  ai_legaltech: true
+  title: Ministerio de Justicia pone IA en la Sala Civil del Tribunal Supremo para
+    tramitar recursos
+- id: evt-2026-10-03-barcelona-ia-autoridad
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'Audiencia de Barcelona: la IA no es un «argumento de autoridad» en un recurso
+    judicial'
+- id: evt-2026-10-03-ross-scotus-petition
+  sota_score: 7.9
+  ai_legaltech: true
+  title: ROSS pedirá al Supreme Court revisar el fallo del 3rd Circuit a favor de
+    Thomson Reuters
+- id: evt-2026-10-03-pierson-ferdinand-300
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Pierson Ferdinand (Zero Associates, Harvey) supera 300 partners globales
+- id: evt-2026-10-03-relativity-frontier-labs
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'Relativity: deadline cloud 2028 se mantiene y prioriza labs frontier frente
+    a Harvey/Legora'
+- id: evt-2026-10-03-lf-ai-maturity-conveyancing
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'InfoTrack DCMI UK: madurez digital +10% relativo, pero IA firm-wide solo
+    en el 18%'
+- id: evt-2026-10-03-imanage-chatgpt
+  sota_score: 6.8
+  ai_legaltech: true
+  title: iManage lanza plugin de ChatGPT Enterprise con knowledge gobernado (ethical
+    walls y audit)

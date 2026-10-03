@@ -1,0 +1,11 @@
+id: ent-falcon
+name: "Falcon"
+type: law_firm
+url: "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/"
+geo:
+  - BE
+  - EU
+aliases:
+  - "Falcon Law"
+notes: "New Model AI-native belga; flat fee same-day contracts. Ficha mínima."
+stub: true

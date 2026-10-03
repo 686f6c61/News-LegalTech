@@ -1,0 +1,12 @@
+id: ent-allen-overy
+name: "Allen & Overy"
+type: law_firm
+url: "https://www.allenovery.com/"
+geo:
+  - UK
+  - Global
+aliases:
+  - "A&O"
+  - "A&O Shearman"
+notes: "Magic Circle; Dejonghe fue global senior partner. Ficha mínima."
+stub: true

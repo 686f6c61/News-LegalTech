@@ -1,0 +1,12 @@
+id: ent-tribunal-supremo-es
+name: "Tribunal Supremo (España)"
+type: other
+url: "https://www.poderjudicial.es/"
+geo:
+  - ES
+  - EU
+aliases:
+  - "TS"
+  - "Sala de lo Civil"
+notes: "Alto tribunal ES; Sala Civil usa IA de tramitación. Ficha mínima."
+stub: true

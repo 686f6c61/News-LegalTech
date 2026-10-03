@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-03-ross-scotus-petition",
+  "date": "2026-10-02",
+  "type": "regulation",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "ROSS pedirá al Supreme Court revisar el fallo del 3rd Circuit a favor de Thomson Reuters",
+  "summary_p1": "El 2 de octubre de 2026 Bob Ambrogi (LawNext) informó de que ROSS Intelligence, tras el fallo del Third Circuit a favor de Thomson Reuters en la disputa de copyright sobre entrenamiento de su plataforma de research jurídico, anunció que solicitará revisión ante el Supreme Court de EE.UU. Yar Chaikovsky (White & Case), en nombre de ROSS, discrepó de la decisión y sostuvo que genera incertidumbre sobre la aplicación del copyright al training de modelos de IA, con implicaciones para la innovación. Es un paso procesal distinto del PASS 09-30 (opinión sellada / affirmance): aquí la señal es la vía certiorari.",
+  "summary_p2": "Para LegalTech y labs, el tablero US de fair use / training data sigue abierto en la cúspide. Quien entrene sobre bases propietarias tipo Westlaw debe asumir years of litigation risk; quien compre research AI debe preguntar por lineage de datos y indemnities. En ES/UE el paralelo es la Directiva de copyright y el AI Act sobre datos de entrenamiento: distinto régimen, misma pregunta de negocio. No reescribe el fondo del 3rd Cir.; añade la probabilidad de que el SCOTUS acote o confirme el marco.",
+  "why_sota": "Intento de llevar al SCOTUS el copyright de training en legal AI (ROSS v. Thomson Reuters).",
+  "why_now": "Declaración 2 Oct 2026 (LawNext). NEW frente a tr-ross-3rd-circuit del 09-30.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ross",
+    "thomson-reuters",
+    "copyright",
+    "supreme-court",
+    "ai-training",
+    "fair-use"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+      "cited_title": "ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-ross-intelligence",
+    "ent-thomson-reuters"
+  ],
+  "lang": "es",
+  "status": "published"
+}

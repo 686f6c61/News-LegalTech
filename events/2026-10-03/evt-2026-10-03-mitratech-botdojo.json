@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-03-mitratech-botdojo",
+  "date": "2026-09-28",
+  "type": "market",
+  "sota_score": 8.5,
+  "ai_legaltech": true,
+  "title": "Mitratech adquiere BotDojo: agentes gobernados y MCP bidireccional sobre ARIES",
+  "summary_p1": "El 28 de septiembre de 2026 Mitratech Legal anunció la adquisición de BotDojo, startup de infraestructura para construir, monitorizar y evaluar agentes de IA, para acelerar ARIES, su plataforma de legal/compliance/HR. El relato: embeber agentes autónomos en los systems of record (matters, spend, documentos e historial) hacia un «System of Action», con MCP (Model Context Protocol) bidireccional previsto para este otoño: publicar contexto Mitratech como servicios MCP gobernados y consumir herramientas externas. Incluye agentes role-ready (intake, invoice review, contract turnarounds, matter reporting), asignación desde colas/triggers con handoff humano, 50+ conectores y permisos allow/deny/require-approval. Términos no divulgados; demo en Interact (octubre).",
+  "summary_p2": "Para legal ops y GC, la tesis es clara: el agente vale lo que valga el dato propietario y el permiso. En RFP, pedir aislamiento sandbox, model/cloud-agnostic, audit del MCP y política de escalate-to-human. En ES/UE, MCP sobre matters implica EIPD, DPA y control de quién puede invocar el servidor MCP desde copilots externos. No estaba en PASS 09-29/09-30/10-01/10-02 pese a cobertura Law.com — se incorpora como missed de ventana (ayer se listó en DROP editorial, nunca publicado como evento).",
+  "why_sota": "Compra de infraestructura agentica + MCP bidireccional anclado a SoR legal a escala Mitratech.",
+  "why_now": "PR 28 Sep 2026; Interact octubre. NEW id; no publicado en PASS previos.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "mitratech",
+    "botdojo",
+    "aries",
+    "mcp",
+    "agentic-ai",
+    "legal-ops"
+  ],
+  "sources": [
+    {
+      "source_id": "src-mitratech",
+      "url": "https://mitratech.com/resource-hub/pressreleases/mitratech-acquires-botdojo/",
+      "cited_title": "Mitratech Fast-Tracks Autonomous Legal Execution with New AI Acquisition",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-mitratech",
+    "ent-botdojo"
+  ],
+  "lang": "es",
+  "status": "published"
+}

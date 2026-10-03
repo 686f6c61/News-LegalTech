@@ -1,0 +1,10 @@
+id: ent-infotrack
+name: "InfoTrack"
+type: vendor
+url: "https://www.infotrack.co.uk/"
+geo:
+  - UK
+aliases:
+  - "DCMI"
+notes: "Conveyancing platform; Digital Conveyancing Maturity Index. Ficha mínima."
+stub: true

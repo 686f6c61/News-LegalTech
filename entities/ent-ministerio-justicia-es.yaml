@@ -1,0 +1,11 @@
+id: ent-ministerio-justicia-es
+name: "Ministerio de Justicia (España)"
+type: government
+url: "https://www.mjusticia.gob.es/"
+geo:
+  - ES
+  - EU
+aliases:
+  - "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes"
+notes: "Desarrolla IA para tramitación en el TS. Ficha mínima."
+stub: true

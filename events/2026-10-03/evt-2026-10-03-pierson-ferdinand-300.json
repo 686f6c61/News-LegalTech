@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-03-pierson-ferdinand-300",
+  "date": "2026-09-30",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Pierson Ferdinand (Zero Associates, Harvey) supera 300 partners globales",
+  "summary_p1": "El 30 de septiembre de 2026 Artificial Lawyer informó de que Pierson Ferdinand (PierFerd), firma New Model partner-only sin associates, superó los 300 partners globales en menos de tres años desde su lanzamiento en enero de 2024. El modelo sustituye el leverage de juniors por plataformas de IA —notablemente Harvey— para research, drafting y review, manteniendo partners en contacto directo con el cliente en litigation, real estate, cross-border, executive compensation y más. El co-chairman Michael Pierson subrayó que la IA está embebida en prácticas y operaciones desde el origen.",
+  "summary_p2": "Señal de escala: el experimento «zero associates» deja de ser boutique anecdótica y se mide en cientos de partners. Para Big Law, tensiona formación de talento y pricing; para Harvey y peers, valida un ICP (ideal customer profile) de partner-only firms. En ES/UE, el eco regulatorio y cultural es distinto (acceso a la abogacía, training contracts), pero el mensaje de efficiency + senior leverage llega a buyers in-house. Distinto de Falcon/Arceus (contratos flat fee SME): aquí el ángulo es headcount partner-only a escala global.",
+  "why_sota": "Zero Associates + Harvey alcanza 300 partners: escala del modelo partner-only AI-levered.",
+  "why_now": "AL 30 Sep 2026. NEW (no en PASS previos).",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "pierson-ferdinand",
+    "zero-associates",
+    "harvey",
+    "new-model",
+    "partner-only"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners/",
+      "cited_title": "'Zero Associates' Firm Pierson Ferdinand Hits 300 Partners",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-pierson-ferdinand",
+    "ent-harvey"
+  ],
+  "lang": "es",
+  "status": "published"
+}

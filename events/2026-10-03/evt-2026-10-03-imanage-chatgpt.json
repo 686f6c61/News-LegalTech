@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-03-imanage-chatgpt",
+  "date": "2026-09-17",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "iManage lanza plugin de ChatGPT Enterprise con knowledge gobernado (ethical walls y audit)",
+  "summary_p1": "El 17 de septiembre de 2026 iManage anunció un plugin para ChatGPT Enterprise que permite buscar, leer, organizar y guardar contenido de iManage desde el chatbot de OpenAI manteniendo permisos, ethical walls (barreras éticas) y audit trails. Sobre Context Fabric, el modelo razona con contexto conectado (matter, acuerdos previos, correspondence) y puede versionar el output de vuelta al workspace. Neil Araujo (CEO iManage) insiste en choice de AI tools sin romper governance; Jason Boehmig (GM Legal, OpenAI) enmarca el siguiente paso de legal AI alrededor del knowledge distintivo de cada firma. Cobertura adicional el 1 de octubre en SecurityBrief mantuvo la pieza en circulación.",
+  "summary_p2": "Para firmas con iManage como DMS, reduce el shadow-IT de pegar docs en chats genéricos. En RFP: verificar que ethical walls se respetan en el plugin, retención de prompts, ZDR/no-training y quién es controlador del log. En ES/UE, EIPD del flujo ChatGPT Enterprise + DMS y ubicación del tenant. Missed de ventana media (como Repario ayer): no estaba en PASS 09-29/09-30/10-01/10-02. Distinto de Astra for Law (09-29): aquí el ángulo es DMS gobernado dentro de ChatGPT, no el research index de OpenAI.",
+  "why_sota": "DMS legal dominante expone knowledge gobernado dentro de ChatGPT Enterprise.",
+  "why_now": "PR iManage 17 Sep 2026; eco 1 Oct. NEW id; no publicado antes.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "imanage",
+    "chatgpt-enterprise",
+    "openai",
+    "dms",
+    "ethical-walls",
+    "context-fabric"
+  ],
+  "sources": [
+    {
+      "source_id": "src-imanage-insights",
+      "url": "https://imanage.com/resources/resource-center/news/imanage-delivers-governed-ai-knowledge-work-in-chatgpt-enterprise/",
+      "cited_title": "iManage to Deliver Governed AI-powered Knowledge Work in ChatGPT Enterprise",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-imanage",
+    "ent-openai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

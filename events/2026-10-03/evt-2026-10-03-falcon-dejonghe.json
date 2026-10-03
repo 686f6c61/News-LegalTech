@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-03-falcon-dejonghe",
+  "date": "2026-10-02",
+  "type": "market",
+  "sota_score": 8.8,
+  "ai_legaltech": true,
+  "title": "Wim Dejonghe (ex-A&O) respalda Falcon: New Model AI-native belga con flat fee y revisión same-day",
+  "summary_p1": "El 2 de octubre de 2026 Artificial Lawyer cubrió el lanzamiento de Falcon, firma New Model creada por los fundadores belgas de Mbrella (Amaury Gérard, Quinten Vandermeulen y David Nguyen) junto al ex-Freshfields Rémy Bonnaffé, con respaldo financiero y estratégico de Wim Dejonghe, ex global senior partner de Allen & Overy. Han levantado unos 1,5 millones de euros. Falcon apunta al mercado europeo de soporte legal comercial para pymes (estimado en unos 49.000 millones de euros al año): NDAs, DPAs, MSAs y contratos de cliente/proveedor, con precio fijo, IA y revisión firmada por abogado cualificado el mismo día, vía Slack o Microsoft Teams. Dejonghe, non-executive co-founder, lo enmarca como el «neo-bank moment» del sector: la IA acelera el trabajo pero el billable hour (hora facturable) sigue premiando el tiempo.",
+  "summary_p2": "La señal Europea continental refuerza la ola NewMod tras Arceus (US) y Driven Lawyers (NL) de pasadas recientes, pero con un perfil distinto: capital Magic Circle + founders HR-tech + foco SME same-day. Para despachos ES/BE/FR, el mensaje competitivo es turnaround medible y flat fee, no solo «tenemos Copilot». Para in-house y vendors CLM, Falcon consume stack propio y reduce el TAM de herramientas vendidas a firmas tradicionales en el segmento de contratos rutinarios. Checklist: pedir SLA de same-day, DPA, política de no-training y quién firma el output; no confundir el respaldo reputacional de Dejonghe con madurez operativa a escala.",
+  "why_sota": "Ex-A&O global senior partner cofunda/respalda New Model AI-native europeo con flat fee same-day.",
+  "why_now": "Anuncio y entrevista AL 2 Oct 2026. NEW vs PASS previos (no reincorpora Arceus ni Driven).",
+  "geo": [
+    "BE",
+    "EU"
+  ],
+  "topics": [
+    "new-model",
+    "falcon",
+    "allen-overy",
+    "flat-fee",
+    "contract-ai",
+    "sme"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
+      "cited_title": "Wim Dejonghe, Ex-A&O Boss, Backs Falcon + AL Interview",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-falcon",
+    "ent-allen-overy"
+  ],
+  "lang": "es",
+  "status": "published"
+}

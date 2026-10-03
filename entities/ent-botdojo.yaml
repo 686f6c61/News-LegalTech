@@ -1,0 +1,10 @@
+id: ent-botdojo
+name: "BotDojo"
+type: vendor
+url: "https://mitratech.com/resource-hub/pressreleases/mitratech-acquires-botdojo/"
+geo:
+  - US
+aliases:
+  []
+notes: "Infraestructura de agentes IA; adquirida por Mitratech. Ficha mínima."
+stub: true

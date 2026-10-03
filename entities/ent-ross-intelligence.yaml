@@ -1,0 +1,10 @@
+id: ent-ross-intelligence
+name: "ROSS Intelligence"
+type: vendor
+url: "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html"
+geo:
+  - US
+aliases:
+  - "ROSS"
+notes: "Legal research AI; disputa copyright con Thomson Reuters. Ficha mínima."
+stub: true

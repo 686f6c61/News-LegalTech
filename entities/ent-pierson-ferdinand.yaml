@@ -1,0 +1,11 @@
+id: ent-pierson-ferdinand
+name: "Pierson Ferdinand"
+type: law_firm
+url: "https://pierferd.com/"
+geo:
+  - US
+  - Global
+aliases:
+  - "PierFerd"
+notes: "New Model partner-only (Zero Associates) con Harvey. Ficha mínima."
+stub: true

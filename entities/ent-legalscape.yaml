@@ -1,0 +1,10 @@
+id: ent-legalscape
+name: "Legalscape"
+type: vendor
+url: "https://legalscape.jp/"
+geo:
+  - JP
+aliases:
+  - "Legal Intelligence"
+notes: "Legal research/AI japonés; partnership Harvey. Ficha mínima."
+stub: true

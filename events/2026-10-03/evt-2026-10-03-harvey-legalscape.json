@@ -1,0 +1,39 @@
+{
+  "id": "evt-2026-10-03-harvey-legalscape",
+  "date": "2026-10-02",
+  "type": "product",
+  "sota_score": 8.4,
+  "ai_legaltech": true,
+  "title": "Harvey se asocia con Legalscape: derecho japonés (leyes, jurisprudencia y libros) dentro de Harvey",
+  "summary_p1": "El 2 de octubre de 2026 Legalscape (Tokio) y Harvey anunciaron un acuerdo para conectar Legal Intelligence —el sistema de research de Legalscape con leyes, jurisprudencia, guidelines y libros licenciados de editores japoneses— a la plataforma Harvey vía API. El usuario de Harvey podrá preguntar sobre derecho japonés y recibir resumen con fuentes citadas; el rollout está previsto a partir de inicios de 2027, primero para usuarios internacionales con asuntos Japan-related y después también para clientes domésticos. El acuerdo contó con apoyo de Mori Hamada & Matsumoto, que colaboraba con ambas. Legaltech News (Law.com) lo destacó en su rundown del mismo día junto a otros movimientos del mercado.",
+  "summary_p2": "Para firmas globales y GC con deals JP, reduce el salto entre el copiloto US-centric y la doctrina japonesa en libros de pago. Para vendors de research local, fija el patrón: no «traducir Westlaw», sino API de autoridad doméstica dentro del OS legal del cliente. En ES/UE el eco es metodológico: quien venda IA jurídica multi-jurisdicción tendrá que demostrar licencias editoriales, citabilidad y residencia, no solo un modelo que «habla el idioma». Checklist en RFP Harvey/Legalscape: fecha GA 2027, alcance de corpus, tratamiento de libros licenciados y responsabilidad por alucinación en cita japonesa.",
+  "why_sota": "Harvey incorpora research japonés con corpus editorial licenciado vía Legalscape (API).",
+  "why_now": "PR Legalscape / cobertura Law.com 2 Oct 2026. NEW vs PASS previos.",
+  "geo": [
+    "JP",
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "harvey",
+    "legalscape",
+    "japan",
+    "legal-research",
+    "api",
+    "multi-jurisdiction"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/02/legaltech-rundown-harvey-partners-with-japanese-legal-data-company-ivo-unveils-open-source-model-and-more-/",
+      "cited_title": "Legaltech Rundown: Harvey Partners With Japanese Legal Data Company, Ivo Unveils Open-Source Model, and More",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-legalscape"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,638 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/03.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 03.10.26",
+      "schema:version": "03.10.26",
+      "schema:datePublished": "2026-10-03",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-03, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/03.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-falcon-dejonghe"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-mitratech-botdojo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-harvey-legalscape"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-es-ts-ia-recursos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-barcelona-ia-autoridad"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-ross-scotus-petition"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-pierson-ferdinand-300"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-relativity-frontier-labs"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-lf-ai-maturity-conveyancing"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-imanage-chatgpt"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-falcon-dejonghe",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-falcon-dejonghe",
+      "schema:headline": "Wim Dejonghe (ex-A&O) respalda Falcon: New Model AI-native belga con flat fee y revisión same-day",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026 Artificial Lawyer cubrió el lanzamiento de Falcon, firma New Model creada por los fundadores belgas de Mbrella (Amaury Gérard, Quinten Vandermeulen y David Nguyen) junto al ex-Freshfields Rémy Bonnaffé, con respaldo financiero y estratégico de Wim Dejonghe, ex global senior partner de Allen & Overy. Han levantado unos 1,5 millones de euros. Falcon apunta al mercado europeo de soporte legal comercial para pymes (estimado en unos 49.000 millones de euros al año): NDAs, DPAs, MSAs y contratos de cliente/proveedor, con precio fijo, IA y revisión firmada por abogado cualificado el mismo día, vía Slack o Microsoft Teams. Dejonghe, non-executive co-founder, lo enmarca como el «neo-bank moment» del sector: la IA acelera el trabajo pero el billable hour (hora facturable) sigue premiando el tiempo.",
+      "schema:articleBody": "El 2 de octubre de 2026 Artificial Lawyer cubrió el lanzamiento de Falcon, firma New Model creada por los fundadores belgas de Mbrella (Amaury Gérard, Quinten Vandermeulen y David Nguyen) junto al ex-Freshfields Rémy Bonnaffé, con respaldo financiero y estratégico de Wim Dejonghe, ex global senior partner de Allen & Overy. Han levantado unos 1,5 millones de euros. Falcon apunta al mercado europeo de soporte legal comercial para pymes (estimado en unos 49.000 millones de euros al año): NDAs, DPAs, MSAs y contratos de cliente/proveedor, con precio fijo, IA y revisión firmada por abogado cualificado el mismo día, vía Slack o Microsoft Teams. Dejonghe, non-executive co-founder, lo enmarca como el «neo-bank moment» del sector: la IA acelera el trabajo pero el billable hour (hora facturable) sigue premiando el tiempo.\n\nLa señal Europea continental refuerza la ola NewMod tras Arceus (US) y Driven Lawyers (NL) de pasadas recientes, pero con un perfil distinto: capital Magic Circle + founders HR-tech + foco SME same-day. Para despachos ES/BE/FR, el mensaje competitivo es turnaround medible y flat fee, no solo «tenemos Copilot». Para in-house y vendors CLM, Falcon consume stack propio y reduce el TAM de herramientas vendidas a firmas tradicionales en el segmento de contratos rutinarios. Checklist: pedir SLA de same-day, DPA, política de no-training y quién firma el output; no confundir el respaldo reputacional de Dejonghe con madurez operativa a escala.",
+      "sota:type": "market",
+      "sota:sotaScore": 8.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Ex-A&O global senior partner cofunda/respalda New Model AI-native europeo con flat fee same-day.",
+      "sota:whyNow": "Anuncio y entrevista AL 2 Oct 2026. NEW vs PASS previos (no reincorpora Arceus ni Driven).",
+      "sota:geo": [
+        "BE",
+        "EU"
+      ],
+      "sota:topics": [
+        "new-model",
+        "falcon",
+        "allen-overy",
+        "flat-fee",
+        "contract-ai",
+        "sme"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026 Artificial Lawyer cubrió el lanzamiento de Falcon, firma New Model creada por los fundadores belgas de Mbrella (Amaury Gérard, Quinten Vandermeulen y David Nguyen) junto al ex-Freshfields Rémy Bonnaffé, con respaldo financiero y estratégico de Wim Dejonghe, ex global senior partner de Allen & Overy. Han levantado unos 1,5 millones de euros. Falcon apunta al mercado europeo de soporte legal comercial para pymes (estimado en unos 49.000 millones de euros al año): NDAs, DPAs, MSAs y contratos de cliente/proveedor, con precio fijo, IA y revisión firmada por abogado cualificado el mismo día, vía Slack o Microsoft Teams. Dejonghe, non-executive co-founder, lo enmarca como el «neo-bank moment» del sector: la IA acelera el trabajo pero el billable hour (hora facturable) sigue premiando el tiempo.",
+      "sota:summaryP2": "La señal Europea continental refuerza la ola NewMod tras Arceus (US) y Driven Lawyers (NL) de pasadas recientes, pero con un perfil distinto: capital Magic Circle + founders HR-tech + foco SME same-day. Para despachos ES/BE/FR, el mensaje competitivo es turnaround medible y flat fee, no solo «tenemos Copilot». Para in-house y vendors CLM, Falcon consume stack propio y reduce el TAM de herramientas vendidas a firmas tradicionales en el segmento de contratos rutinarios. Checklist: pedir SLA de same-day, DPA, política de no-training y quién firma el output; no confundir el respaldo reputacional de Dejonghe con madurez operativa a escala.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
+          "schema:name": "Wim Dejonghe, Ex-A&O Boss, Backs Falcon + AL Interview",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-falcon"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-allen-overy"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-mitratech-botdojo",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-mitratech-botdojo",
+      "schema:headline": "Mitratech adquiere BotDojo: agentes gobernados y MCP bidireccional sobre ARIES",
+      "schema:datePublished": "2026-09-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 28 de septiembre de 2026 Mitratech Legal anunció la adquisición de BotDojo, startup de infraestructura para construir, monitorizar y evaluar agentes de IA, para acelerar ARIES, su plataforma de legal/compliance/HR. El relato: embeber agentes autónomos en los systems of record (matters, spend, documentos e historial) hacia un «System of Action», con MCP (Model Context Protocol) bidireccional previsto para este otoño: publicar contexto Mitratech como servicios MCP gobernados y consumir herramientas externas. Incluye agentes role-ready (intake, invoice review, contract turnarounds, matter reporting), asignación desde colas/triggers con handoff humano, 50+ conectores y permisos allow/deny/require-approval. Términos no divulgados; demo en Interact (octubre).",
+      "schema:articleBody": "El 28 de septiembre de 2026 Mitratech Legal anunció la adquisición de BotDojo, startup de infraestructura para construir, monitorizar y evaluar agentes de IA, para acelerar ARIES, su plataforma de legal/compliance/HR. El relato: embeber agentes autónomos en los systems of record (matters, spend, documentos e historial) hacia un «System of Action», con MCP (Model Context Protocol) bidireccional previsto para este otoño: publicar contexto Mitratech como servicios MCP gobernados y consumir herramientas externas. Incluye agentes role-ready (intake, invoice review, contract turnarounds, matter reporting), asignación desde colas/triggers con handoff humano, 50+ conectores y permisos allow/deny/require-approval. Términos no divulgados; demo en Interact (octubre).\n\nPara legal ops y GC, la tesis es clara: el agente vale lo que valga el dato propietario y el permiso. En RFP, pedir aislamiento sandbox, model/cloud-agnostic, audit del MCP y política de escalate-to-human. En ES/UE, MCP sobre matters implica EIPD, DPA y control de quién puede invocar el servidor MCP desde copilots externos. No estaba en PASS 09-29/09-30/10-01/10-02 pese a cobertura Law.com — se incorpora como missed de ventana (ayer se listó en DROP editorial, nunca publicado como evento).",
+      "sota:type": "market",
+      "sota:sotaScore": 8.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Compra de infraestructura agentica + MCP bidireccional anclado a SoR legal a escala Mitratech.",
+      "sota:whyNow": "PR 28 Sep 2026; Interact octubre. NEW id; no publicado en PASS previos.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "mitratech",
+        "botdojo",
+        "aries",
+        "mcp",
+        "agentic-ai",
+        "legal-ops"
+      ],
+      "sota:summaryP1": "El 28 de septiembre de 2026 Mitratech Legal anunció la adquisición de BotDojo, startup de infraestructura para construir, monitorizar y evaluar agentes de IA, para acelerar ARIES, su plataforma de legal/compliance/HR. El relato: embeber agentes autónomos en los systems of record (matters, spend, documentos e historial) hacia un «System of Action», con MCP (Model Context Protocol) bidireccional previsto para este otoño: publicar contexto Mitratech como servicios MCP gobernados y consumir herramientas externas. Incluye agentes role-ready (intake, invoice review, contract turnarounds, matter reporting), asignación desde colas/triggers con handoff humano, 50+ conectores y permisos allow/deny/require-approval. Términos no divulgados; demo en Interact (octubre).",
+      "sota:summaryP2": "Para legal ops y GC, la tesis es clara: el agente vale lo que valga el dato propietario y el permiso. En RFP, pedir aislamiento sandbox, model/cloud-agnostic, audit del MCP y política de escalate-to-human. En ES/UE, MCP sobre matters implica EIPD, DPA y control de quién puede invocar el servidor MCP desde copilots externos. No estaba en PASS 09-29/09-30/10-01/10-02 pese a cobertura Law.com — se incorpora como missed de ventana (ayer se listó en DROP editorial, nunca publicado como evento).",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://mitratech.com/resource-hub/pressreleases/mitratech-acquires-botdojo/",
+          "schema:name": "Mitratech Fast-Tracks Autonomous Legal Execution with New AI Acquisition",
+          "sota:sourceId": "src-mitratech"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-mitratech"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-botdojo"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-harvey-legalscape",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-harvey-legalscape",
+      "schema:headline": "Harvey se asocia con Legalscape: derecho japonés (leyes, jurisprudencia y libros) dentro de Harvey",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026 Legalscape (Tokio) y Harvey anunciaron un acuerdo para conectar Legal Intelligence —el sistema de research de Legalscape con leyes, jurisprudencia, guidelines y libros licenciados de editores japoneses— a la plataforma Harvey vía API. El usuario de Harvey podrá preguntar sobre derecho japonés y recibir resumen con fuentes citadas; el rollout está previsto a partir de inicios de 2027, primero para usuarios internacionales con asuntos Japan-related y después también para clientes domésticos. El acuerdo contó con apoyo de Mori Hamada & Matsumoto, que colaboraba con ambas. Legaltech News (Law.com) lo destacó en su rundown del mismo día junto a otros movimientos del mercado.",
+      "schema:articleBody": "El 2 de octubre de 2026 Legalscape (Tokio) y Harvey anunciaron un acuerdo para conectar Legal Intelligence —el sistema de research de Legalscape con leyes, jurisprudencia, guidelines y libros licenciados de editores japoneses— a la plataforma Harvey vía API. El usuario de Harvey podrá preguntar sobre derecho japonés y recibir resumen con fuentes citadas; el rollout está previsto a partir de inicios de 2027, primero para usuarios internacionales con asuntos Japan-related y después también para clientes domésticos. El acuerdo contó con apoyo de Mori Hamada & Matsumoto, que colaboraba con ambas. Legaltech News (Law.com) lo destacó en su rundown del mismo día junto a otros movimientos del mercado.\n\nPara firmas globales y GC con deals JP, reduce el salto entre el copiloto US-centric y la doctrina japonesa en libros de pago. Para vendors de research local, fija el patrón: no «traducir Westlaw», sino API de autoridad doméstica dentro del OS legal del cliente. En ES/UE el eco es metodológico: quien venda IA jurídica multi-jurisdicción tendrá que demostrar licencias editoriales, citabilidad y residencia, no solo un modelo que «habla el idioma». Checklist en RFP Harvey/Legalscape: fecha GA 2027, alcance de corpus, tratamiento de libros licenciados y responsabilidad por alucinación en cita japonesa.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Harvey incorpora research japonés con corpus editorial licenciado vía Legalscape (API).",
+      "sota:whyNow": "PR Legalscape / cobertura Law.com 2 Oct 2026. NEW vs PASS previos.",
+      "sota:geo": [
+        "JP",
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "harvey",
+        "legalscape",
+        "japan",
+        "legal-research",
+        "api",
+        "multi-jurisdiction"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026 Legalscape (Tokio) y Harvey anunciaron un acuerdo para conectar Legal Intelligence —el sistema de research de Legalscape con leyes, jurisprudencia, guidelines y libros licenciados de editores japoneses— a la plataforma Harvey vía API. El usuario de Harvey podrá preguntar sobre derecho japonés y recibir resumen con fuentes citadas; el rollout está previsto a partir de inicios de 2027, primero para usuarios internacionales con asuntos Japan-related y después también para clientes domésticos. El acuerdo contó con apoyo de Mori Hamada & Matsumoto, que colaboraba con ambas. Legaltech News (Law.com) lo destacó en su rundown del mismo día junto a otros movimientos del mercado.",
+      "sota:summaryP2": "Para firmas globales y GC con deals JP, reduce el salto entre el copiloto US-centric y la doctrina japonesa en libros de pago. Para vendors de research local, fija el patrón: no «traducir Westlaw», sino API de autoridad doméstica dentro del OS legal del cliente. En ES/UE el eco es metodológico: quien venda IA jurídica multi-jurisdicción tendrá que demostrar licencias editoriales, citabilidad y residencia, no solo un modelo que «habla el idioma». Checklist en RFP Harvey/Legalscape: fecha GA 2027, alcance de corpus, tratamiento de libros licenciados y responsabilidad por alucinación en cita japonesa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/02/legaltech-rundown-harvey-partners-with-japanese-legal-data-company-ivo-unveils-open-source-model-and-more-/",
+          "schema:name": "Legaltech Rundown: Harvey Partners With Japanese Legal Data Company, Ivo Unveils Open-Source Model, and More",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalscape"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-es-ts-ia-recursos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-es-ts-ia-recursos",
+      "schema:headline": "Ministerio de Justicia pone IA en la Sala Civil del Tribunal Supremo para tramitar recursos",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Desde el 1 de octubre de 2026 la Sala de lo Civil del Tribunal Supremo dispone de una herramienta de IA desarrollada por el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, entrenada con el gabinete técnico del Alto Tribunal. Analiza recursos y documentación, extrae partes, materia, normativa citada y argumentos, organiza la información, asigna grupos de asuntos a equipos, muestra estado de revisión y enlaza al expediente electrónico. El Ministerio subraya que «la IA no decide, no resuelve ni propone sentencias»: solo organiza y automatiza tareas repetitivas. Corre sobre sistemas operativos libres del Estado, en servidores públicos y entornos aislados; hubo formación en el Supremo. Solo en el primer semestre de 2026 la Sala Primera registró 7.279 asuntos nuevos (6.881 casaciones).",
+      "schema:articleBody": "Desde el 1 de octubre de 2026 la Sala de lo Civil del Tribunal Supremo dispone de una herramienta de IA desarrollada por el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, entrenada con el gabinete técnico del Alto Tribunal. Analiza recursos y documentación, extrae partes, materia, normativa citada y argumentos, organiza la información, asigna grupos de asuntos a equipos, muestra estado de revisión y enlaza al expediente electrónico. El Ministerio subraya que «la IA no decide, no resuelve ni propone sentencias»: solo organiza y automatiza tareas repetitivas. Corre sobre sistemas operativos libres del Estado, en servidores públicos y entornos aislados; hubo formación en el Supremo. Solo en el primer semestre de 2026 la Sala Primera registró 7.279 asuntos nuevos (6.881 casaciones).\n\nPieza de justicia digital ES con mensaje útil para AI Act y abogacía: asistencia documentada, no adjudicación automatizada. Para LegalTech que venda a AAPP o despachos de casación, el listón es on-prem/soberanía, trazabilidad y human-in-the-loop (humano en el bucle) explícito. Para letrados del gabinete, cambia el intake de volumen homogéneo; para recurrentes, no cambia el estándar de motivación. Vigilancia: métricas de tiempo, sesgo en clustering de asuntos similares y si el «no propone sentencias» se mantiene cuando el resumen condicione el orden de lectura.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera IA del Gobierno en producción en Sala Civil del TS para tramitación (no adjudicación).",
+      "sota:whyNow": "Activación 1 Oct 2026 (Confilegal / EFE). NEW vs PASS previos.",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "tribunal-supremo",
+        "ministerio-justicia",
+        "judiciary-ai",
+        "casacion",
+        "soberania",
+        "spain"
+      ],
+      "sota:summaryP1": "Desde el 1 de octubre de 2026 la Sala de lo Civil del Tribunal Supremo dispone de una herramienta de IA desarrollada por el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, entrenada con el gabinete técnico del Alto Tribunal. Analiza recursos y documentación, extrae partes, materia, normativa citada y argumentos, organiza la información, asigna grupos de asuntos a equipos, muestra estado de revisión y enlaza al expediente electrónico. El Ministerio subraya que «la IA no decide, no resuelve ni propone sentencias»: solo organiza y automatiza tareas repetitivas. Corre sobre sistemas operativos libres del Estado, en servidores públicos y entornos aislados; hubo formación en el Supremo. Solo en el primer semestre de 2026 la Sala Primera registró 7.279 asuntos nuevos (6.881 casaciones).",
+      "sota:summaryP2": "Pieza de justicia digital ES con mensaje útil para AI Act y abogacía: asistencia documentada, no adjudicación automatizada. Para LegalTech que venda a AAPP o despachos de casación, el listón es on-prem/soberanía, trazabilidad y human-in-the-loop (humano en el bucle) explícito. Para letrados del gabinete, cambia el intake de volumen homogéneo; para recurrentes, no cambia el estándar de motivación. Vigilancia: métricas de tiempo, sesgo en clustering de asuntos similares y si el «no propone sentencias» se mantiene cuando el resumen condicione el orden de lectura.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261001-el-supremo-utilizara-una-ia-desarrollada-por-el-gobierno-para-tramitar-y-analizar-los-recursos/",
+          "schema:name": "El Supremo utilizará una IA del Gobierno para tramitar y analizar los recursos",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-justicia-es"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-es"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-barcelona-ia-autoridad",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-barcelona-ia-autoridad",
+      "schema:headline": "Audiencia de Barcelona: la IA no es un «argumento de autoridad» en un recurso judicial",
+      "schema:datePublished": "2026-10-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Confilegal publicó el 3 de octubre de 2026 la Sentencia 460/2026 (Sección Primera de la Audiencia Provincial de Barcelona, ponente Luis Rodríguez Vega, 21 de julio de 2026) en un recurso hipotecario frente a Banco Sabadell. La Sala desestimó la apelación sobre una cláusula de año comercial 360 días tras concluir que el sistema aplicado era 360/360 (no 365/360) y no acreditaba desequilibrio. El reproche añadido: el recurrente usó un «sorprendente argumento de “autoridad” de la inteligencia artificial» en lugar de concretar el perjuicio económico con un cálculo. La resolución no nombra la herramienta ni desarrolla doctrina general sobre ChatGPT; el mensaje es puntual pero claro.",
+      "schema:articleBody": "Confilegal publicó el 3 de octubre de 2026 la Sentencia 460/2026 (Sección Primera de la Audiencia Provincial de Barcelona, ponente Luis Rodríguez Vega, 21 de julio de 2026) en un recurso hipotecario frente a Banco Sabadell. La Sala desestimó la apelación sobre una cláusula de año comercial 360 días tras concluir que el sistema aplicado era 360/360 (no 365/360) y no acreditaba desequilibrio. El reproche añadido: el recurrente usó un «sorprendente argumento de “autoridad” de la inteligencia artificial» en lugar de concretar el perjuicio económico con un cálculo. La resolución no nombra la herramienta ni desarrolla doctrina general sobre ChatGPT; el mensaje es puntual pero claro.\n\nPara litigio ES, la IA puede ayudar a redactar, pero no sustituye acreditar el daño ni convierte la respuesta del modelo en precedente. Encaja con la línea de responsabilidad profesional (el abogado responde) y con SB 574 / SRA warnings ya cubiertos: verificación y prueba, no authority theatre. Checklist procesal: si usas IA para cuantificar, adjunta el cálculo verificable; no cites el chat como si fuera STS. Vendors de drafting judicial: diseñar outputs con cifras auditables y fuentes, no tono de autoridad.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Audiencia Provincial ES niega expresamente valor de «autoridad» a la IA en recurso.",
+      "sota:whyNow": "Cobertura Confilegal 3 Oct 2026 (sentencia 21 jul 2026). NEW.",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "audiencia-barcelona",
+        "judicial-ai",
+        "argumento-autoridad",
+        "litigation",
+        "spain"
+      ],
+      "sota:summaryP1": "Confilegal publicó el 3 de octubre de 2026 la Sentencia 460/2026 (Sección Primera de la Audiencia Provincial de Barcelona, ponente Luis Rodríguez Vega, 21 de julio de 2026) en un recurso hipotecario frente a Banco Sabadell. La Sala desestimó la apelación sobre una cláusula de año comercial 360 días tras concluir que el sistema aplicado era 360/360 (no 365/360) y no acreditaba desequilibrio. El reproche añadido: el recurrente usó un «sorprendente argumento de “autoridad” de la inteligencia artificial» en lugar de concretar el perjuicio económico con un cálculo. La resolución no nombra la herramienta ni desarrolla doctrina general sobre ChatGPT; el mensaje es puntual pero claro.",
+      "sota:summaryP2": "Para litigio ES, la IA puede ayudar a redactar, pero no sustituye acreditar el daño ni convierte la respuesta del modelo en precedente. Encaja con la línea de responsabilidad profesional (el abogado responde) y con SB 574 / SRA warnings ya cubiertos: verificación y prueba, no authority theatre. Checklist procesal: si usas IA para cuantificar, adjunta el cálculo verificable; no cites el chat como si fuera STS. Vendors de drafting judicial: diseñar outputs con cifras auditables y fuentes, no tono de autoridad.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261003-la-audiencia-de-barcelona-recuerda-que-la-ia-no-es-un-argumento-de-autoridad-en-un-recurso-judicial/",
+          "schema:name": "La Audiencia de Barcelona recuerda que la IA no es un «argumento de autoridad» en un recurso judicial",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-audiencia-barcelona"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-ross-scotus-petition",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-ross-scotus-petition",
+      "schema:headline": "ROSS pedirá al Supreme Court revisar el fallo del 3rd Circuit a favor de Thomson Reuters",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026 Bob Ambrogi (LawNext) informó de que ROSS Intelligence, tras el fallo del Third Circuit a favor de Thomson Reuters en la disputa de copyright sobre entrenamiento de su plataforma de research jurídico, anunció que solicitará revisión ante el Supreme Court de EE.UU. Yar Chaikovsky (White & Case), en nombre de ROSS, discrepó de la decisión y sostuvo que genera incertidumbre sobre la aplicación del copyright al training de modelos de IA, con implicaciones para la innovación. Es un paso procesal distinto del PASS 09-30 (opinión sellada / affirmance): aquí la señal es la vía certiorari.",
+      "schema:articleBody": "El 2 de octubre de 2026 Bob Ambrogi (LawNext) informó de que ROSS Intelligence, tras el fallo del Third Circuit a favor de Thomson Reuters en la disputa de copyright sobre entrenamiento de su plataforma de research jurídico, anunció que solicitará revisión ante el Supreme Court de EE.UU. Yar Chaikovsky (White & Case), en nombre de ROSS, discrepó de la decisión y sostuvo que genera incertidumbre sobre la aplicación del copyright al training de modelos de IA, con implicaciones para la innovación. Es un paso procesal distinto del PASS 09-30 (opinión sellada / affirmance): aquí la señal es la vía certiorari.\n\nPara LegalTech y labs, el tablero US de fair use / training data sigue abierto en la cúspide. Quien entrene sobre bases propietarias tipo Westlaw debe asumir years of litigation risk; quien compre research AI debe preguntar por lineage de datos y indemnities. En ES/UE el paralelo es la Directiva de copyright y el AI Act sobre datos de entrenamiento: distinto régimen, misma pregunta de negocio. No reescribe el fondo del 3rd Cir.; añade la probabilidad de que el SCOTUS acote o confirme el marco.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Intento de llevar al SCOTUS el copyright de training en legal AI (ROSS v. Thomson Reuters).",
+      "sota:whyNow": "Declaración 2 Oct 2026 (LawNext). NEW frente a tr-ross-3rd-circuit del 09-30.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ross",
+        "thomson-reuters",
+        "copyright",
+        "supreme-court",
+        "ai-training",
+        "fair-use"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026 Bob Ambrogi (LawNext) informó de que ROSS Intelligence, tras el fallo del Third Circuit a favor de Thomson Reuters en la disputa de copyright sobre entrenamiento de su plataforma de research jurídico, anunció que solicitará revisión ante el Supreme Court de EE.UU. Yar Chaikovsky (White & Case), en nombre de ROSS, discrepó de la decisión y sostuvo que genera incertidumbre sobre la aplicación del copyright al training de modelos de IA, con implicaciones para la innovación. Es un paso procesal distinto del PASS 09-30 (opinión sellada / affirmance): aquí la señal es la vía certiorari.",
+      "sota:summaryP2": "Para LegalTech y labs, el tablero US de fair use / training data sigue abierto en la cúspide. Quien entrene sobre bases propietarias tipo Westlaw debe asumir years of litigation risk; quien compre research AI debe preguntar por lineage de datos y indemnities. En ES/UE el paralelo es la Directiva de copyright y el AI Act sobre datos de entrenamiento: distinto régimen, misma pregunta de negocio. No reescribe el fondo del 3rd Cir.; añade la probabilidad de que el SCOTUS acote o confirme el marco.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+          "schema:name": "ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ross-intelligence"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-pierson-ferdinand-300",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-pierson-ferdinand-300",
+      "schema:headline": "Pierson Ferdinand (Zero Associates, Harvey) supera 300 partners globales",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 30 de septiembre de 2026 Artificial Lawyer informó de que Pierson Ferdinand (PierFerd), firma New Model partner-only sin associates, superó los 300 partners globales en menos de tres años desde su lanzamiento en enero de 2024. El modelo sustituye el leverage de juniors por plataformas de IA —notablemente Harvey— para research, drafting y review, manteniendo partners en contacto directo con el cliente en litigation, real estate, cross-border, executive compensation y más. El co-chairman Michael Pierson subrayó que la IA está embebida en prácticas y operaciones desde el origen.",
+      "schema:articleBody": "El 30 de septiembre de 2026 Artificial Lawyer informó de que Pierson Ferdinand (PierFerd), firma New Model partner-only sin associates, superó los 300 partners globales en menos de tres años desde su lanzamiento en enero de 2024. El modelo sustituye el leverage de juniors por plataformas de IA —notablemente Harvey— para research, drafting y review, manteniendo partners en contacto directo con el cliente en litigation, real estate, cross-border, executive compensation y más. El co-chairman Michael Pierson subrayó que la IA está embebida en prácticas y operaciones desde el origen.\n\nSeñal de escala: el experimento «zero associates» deja de ser boutique anecdótica y se mide en cientos de partners. Para Big Law, tensiona formación de talento y pricing; para Harvey y peers, valida un ICP (ideal customer profile) de partner-only firms. En ES/UE, el eco regulatorio y cultural es distinto (acceso a la abogacía, training contracts), pero el mensaje de efficiency + senior leverage llega a buyers in-house. Distinto de Falcon/Arceus (contratos flat fee SME): aquí el ángulo es headcount partner-only a escala global.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Zero Associates + Harvey alcanza 300 partners: escala del modelo partner-only AI-levered.",
+      "sota:whyNow": "AL 30 Sep 2026. NEW (no en PASS previos).",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "pierson-ferdinand",
+        "zero-associates",
+        "harvey",
+        "new-model",
+        "partner-only"
+      ],
+      "sota:summaryP1": "El 30 de septiembre de 2026 Artificial Lawyer informó de que Pierson Ferdinand (PierFerd), firma New Model partner-only sin associates, superó los 300 partners globales en menos de tres años desde su lanzamiento en enero de 2024. El modelo sustituye el leverage de juniors por plataformas de IA —notablemente Harvey— para research, drafting y review, manteniendo partners en contacto directo con el cliente en litigation, real estate, cross-border, executive compensation y más. El co-chairman Michael Pierson subrayó que la IA está embebida en prácticas y operaciones desde el origen.",
+      "sota:summaryP2": "Señal de escala: el experimento «zero associates» deja de ser boutique anecdótica y se mide en cientos de partners. Para Big Law, tensiona formación de talento y pricing; para Harvey y peers, valida un ICP (ideal customer profile) de partner-only firms. En ES/UE, el eco regulatorio y cultural es distinto (acceso a la abogacía, training contracts), pero el mensaje de efficiency + senior leverage llega a buyers in-house. Distinto de Falcon/Arceus (contratos flat fee SME): aquí el ángulo es headcount partner-only a escala global.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners/",
+          "schema:name": "'Zero Associates' Firm Pierson Ferdinand Hits 300 Partners",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pierson-ferdinand"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-relativity-frontier-labs",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-relativity-frontier-labs",
+      "schema:headline": "Relativity: deadline cloud 2028 se mantiene y prioriza labs frontier frente a Harvey/Legora",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026, en Relativity Fest (Chicago), el CEO Phil Saunders confirmó que desde el 1 de enero de 2028 ningún matter nuevo irá a Relativity Server (el Server no se apaga; se corta el net-new). Casi el 84% del ARR ya está en Relativity aiR (antes RelativityOne). Frente a partners no alineados, el mensaje fue duro: «Know we're going to run through you». En la misma briefing, Saunders dijo que la prioridad de partnerships es con labs frontier (Anthropic, OpenAI, Google), no con legal AI companies como Harvey o Legora —siguen las conversaciones, pero la prioridad está en los frontier models, porque los clientes corporativos ya corren varios y ve más perdurabilidad en los labs.",
+      "schema:articleBody": "El 2 de octubre de 2026, en Relativity Fest (Chicago), el CEO Phil Saunders confirmó que desde el 1 de enero de 2028 ningún matter nuevo irá a Relativity Server (el Server no se apaga; se corta el net-new). Casi el 84% del ARR ya está en Relativity aiR (antes RelativityOne). Frente a partners no alineados, el mensaje fue duro: «Know we're going to run through you». En la misma briefing, Saunders dijo que la prioridad de partnerships es con labs frontier (Anthropic, OpenAI, Google), no con legal AI companies como Harvey o Legora —siguen las conversaciones, pero la prioridad está en los frontier models, porque los clientes corporativos ya corren varios y ve más perdurabilidad en los labs.\n\nPara eDiscovery y litigation support, dos decisiones de arquitectura: (1) migrar o morir en net-new 2028; (2) el MCP de matter intelligence hacia Claude u otros (2027) asume que el desktop del abogado tendrá frontier model. En RFP Relativity: pedir plan de créditos a partners híbridos, estado de claiR nativo y hoja de ruta MCP. No reincorpora Relativity claiR AAP del 09-30: aquí el ángulo es estrategia frontier-first + deadline Server. En ES/UE, soberanía y dónde vive el matter si el query sale hacia Claude.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Vendor eDiscovery dominante fija frontier-first y corta Server net-new en 2028.",
+      "sota:whyNow": "RelFest briefing 2 Oct 2026 (LawNext). NEW.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "relativity",
+        "air",
+        "frontier-labs",
+        "mcp",
+        "harvey",
+        "legora",
+        "cloud"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026, en Relativity Fest (Chicago), el CEO Phil Saunders confirmó que desde el 1 de enero de 2028 ningún matter nuevo irá a Relativity Server (el Server no se apaga; se corta el net-new). Casi el 84% del ARR ya está en Relativity aiR (antes RelativityOne). Frente a partners no alineados, el mensaje fue duro: «Know we're going to run through you». En la misma briefing, Saunders dijo que la prioridad de partnerships es con labs frontier (Anthropic, OpenAI, Google), no con legal AI companies como Harvey o Legora —siguen las conversaciones, pero la prioridad está en los frontier models, porque los clientes corporativos ya corren varios y ve más perdurabilidad en los labs.",
+      "sota:summaryP2": "Para eDiscovery y litigation support, dos decisiones de arquitectura: (1) migrar o morir en net-new 2028; (2) el MCP de matter intelligence hacia Claude u otros (2027) asume que el desktop del abogado tendrá frontier model. En RFP Relativity: pedir plan de créditos a partners híbridos, estado de claiR nativo y hoja de ruta MCP. No reincorpora Relativity claiR AAP del 09-30: aquí el ángulo es estrategia frontier-first + deadline Server. En ES/UE, soberanía y dónde vive el matter si el query sale hacia Claude.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
+          "schema:name": "Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering with Frontier Labs Over Legal AI Companies",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-relativity"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-lf-ai-maturity-conveyancing",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-lf-ai-maturity-conveyancing",
+      "schema:headline": "InfoTrack DCMI UK: madurez digital +10% relativo, pero IA firm-wide solo en el 18%",
+      "schema:datePublished": "2026-10-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal Futures publicó el 3 de octubre de 2026 el Digital Conveyancing Maturity Index 2026 de InfoTrack: la madurez digital media de firmas de property law en UK/Irlanda subió del 54,4% (2024) al 59,8% (2026), un +9,9% relativo. La nueva sección de IA arranca en 29,3%, la más baja de seis bloques: el 85% usa algún tipo de IA, pero solo el 14% la describe como práctica estándar y el 69% como experimentación individual; apenas el 18% la ha desplegado en un equipo. Casos de uso top: client reports (42%), document analysis (38%) y enquiries (38%).",
+      "schema:articleBody": "Legal Futures publicó el 3 de octubre de 2026 el Digital Conveyancing Maturity Index 2026 de InfoTrack: la madurez digital media de firmas de property law en UK/Irlanda subió del 54,4% (2024) al 59,8% (2026), un +9,9% relativo. La nueva sección de IA arranca en 29,3%, la más baja de seis bloques: el 85% usa algún tipo de IA, pero solo el 14% la describe como práctica estándar y el 69% como experimentación individual; apenas el 18% la ha desplegado en un equipo. Casos de uso top: client reports (42%), document analysis (38%) y enquiries (38%).\n\nEl COO de InfoTrack UK lo resume como «AI contradiction»: uso extendido, adopción gobernada escasa. Para managing partners de conveyancing y eco en inmobiliario ES, el gap no es acceso al tool sino playbook, KPI y ownership. Encaja con el AI Value Gap de la pasada 10-02: sin métrica y gobierno, más seats no cierran valor. Vendors: vender workflow medible (AP1, triage de riesgo), no otro chat. Regulators y insurers: vigilar experimentación individual sobre datos de cliente sin política.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos sectoriales UK: adopción IA amplia vs gobierno firm-wide mínimo en conveyancing.",
+      "sota:whyNow": "Informe / Legal Futures 3 Oct 2026. NEW.",
+      "sota:geo": [
+        "UK",
+        "IE"
+      ],
+      "sota:topics": [
+        "infotrack",
+        "dcmi",
+        "conveyancing",
+        "ai-adoption",
+        "maturity",
+        "legal-ops"
+      ],
+      "sota:summaryP1": "Legal Futures publicó el 3 de octubre de 2026 el Digital Conveyancing Maturity Index 2026 de InfoTrack: la madurez digital media de firmas de property law en UK/Irlanda subió del 54,4% (2024) al 59,8% (2026), un +9,9% relativo. La nueva sección de IA arranca en 29,3%, la más baja de seis bloques: el 85% usa algún tipo de IA, pero solo el 14% la describe como práctica estándar y el 69% como experimentación individual; apenas el 18% la ha desplegado en un equipo. Casos de uso top: client reports (42%), document analysis (38%) y enquiries (38%).",
+      "sota:summaryP2": "El COO de InfoTrack UK lo resume como «AI contradiction»: uso extendido, adopción gobernada escasa. Para managing partners de conveyancing y eco en inmobiliario ES, el gap no es acceso al tool sino playbook, KPI y ownership. Encaja con el AI Value Gap de la pasada 10-02: sin métrica y gobierno, más seats no cierran valor. Vendors: vender workflow medible (AP1, triage de riesgo), no otro chat. Regulators y insurers: vigilar experimentación individual sobre datos de cliente sin política.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/associate-news/new-report-finds-10-rise-in-digital-maturity-among-law-firms-despite-limited-firm-wide-ai-strategies",
+          "schema:name": "New report finds 10% rise in digital maturity among law firms, despite limited firm-wide AI strategies",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-infotrack"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-03-imanage-chatgpt",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-03-imanage-chatgpt",
+      "schema:headline": "iManage lanza plugin de ChatGPT Enterprise con knowledge gobernado (ethical walls y audit)",
+      "schema:datePublished": "2026-09-17",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 17 de septiembre de 2026 iManage anunció un plugin para ChatGPT Enterprise que permite buscar, leer, organizar y guardar contenido de iManage desde el chatbot de OpenAI manteniendo permisos, ethical walls (barreras éticas) y audit trails. Sobre Context Fabric, el modelo razona con contexto conectado (matter, acuerdos previos, correspondence) y puede versionar el output de vuelta al workspace. Neil Araujo (CEO iManage) insiste en choice de AI tools sin romper governance; Jason Boehmig (GM Legal, OpenAI) enmarca el siguiente paso de legal AI alrededor del knowledge distintivo de cada firma. Cobertura adicional el 1 de octubre en SecurityBrief mantuvo la pieza en circulación.",
+      "schema:articleBody": "El 17 de septiembre de 2026 iManage anunció un plugin para ChatGPT Enterprise que permite buscar, leer, organizar y guardar contenido de iManage desde el chatbot de OpenAI manteniendo permisos, ethical walls (barreras éticas) y audit trails. Sobre Context Fabric, el modelo razona con contexto conectado (matter, acuerdos previos, correspondence) y puede versionar el output de vuelta al workspace. Neil Araujo (CEO iManage) insiste en choice de AI tools sin romper governance; Jason Boehmig (GM Legal, OpenAI) enmarca el siguiente paso de legal AI alrededor del knowledge distintivo de cada firma. Cobertura adicional el 1 de octubre en SecurityBrief mantuvo la pieza en circulación.\n\nPara firmas con iManage como DMS, reduce el shadow-IT de pegar docs en chats genéricos. En RFP: verificar que ethical walls se respetan en el plugin, retención de prompts, ZDR/no-training y quién es controlador del log. En ES/UE, EIPD del flujo ChatGPT Enterprise + DMS y ubicación del tenant. Missed de ventana media (como Repario ayer): no estaba en PASS 09-29/09-30/10-01/10-02. Distinto de Astra for Law (09-29): aquí el ángulo es DMS gobernado dentro de ChatGPT, no el research index de OpenAI.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "DMS legal dominante expone knowledge gobernado dentro de ChatGPT Enterprise.",
+      "sota:whyNow": "PR iManage 17 Sep 2026; eco 1 Oct. NEW id; no publicado antes.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "imanage",
+        "chatgpt-enterprise",
+        "openai",
+        "dms",
+        "ethical-walls",
+        "context-fabric"
+      ],
+      "sota:summaryP1": "El 17 de septiembre de 2026 iManage anunció un plugin para ChatGPT Enterprise que permite buscar, leer, organizar y guardar contenido de iManage desde el chatbot de OpenAI manteniendo permisos, ethical walls (barreras éticas) y audit trails. Sobre Context Fabric, el modelo razona con contexto conectado (matter, acuerdos previos, correspondence) y puede versionar el output de vuelta al workspace. Neil Araujo (CEO iManage) insiste en choice de AI tools sin romper governance; Jason Boehmig (GM Legal, OpenAI) enmarca el siguiente paso de legal AI alrededor del knowledge distintivo de cada firma. Cobertura adicional el 1 de octubre en SecurityBrief mantuvo la pieza en circulación.",
+      "sota:summaryP2": "Para firmas con iManage como DMS, reduce el shadow-IT de pegar docs en chats genéricos. En RFP: verificar que ethical walls se respetan en el plugin, retención de prompts, ZDR/no-training y quién es controlador del log. En ES/UE, EIPD del flujo ChatGPT Enterprise + DMS y ubicación del tenant. Missed de ventana media (como Repario ayer): no estaba en PASS 09-29/09-30/10-01/10-02. Distinto de Astra for Law (09-29): aquí el ángulo es DMS gobernado dentro de ChatGPT, no el research index de OpenAI.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://imanage.com/resources/resource-center/news/imanage-delivers-governed-ai-knowledge-work-in-chatgpt-enterprise/",
+          "schema:name": "iManage to Deliver Governed AI-powered Knowledge Work in ChatGPT Enterprise",
+          "sota:sourceId": "src-imanage-insights"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-imanage"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-allen-overy",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-allen-overy",
+      "schema:name": "Allen & Overy",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.allenovery.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-audiencia-barcelona",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-audiencia-barcelona",
+      "schema:name": "Audiencia Provincial de Barcelona",
+      "sota:entityType": "other",
+      "schema:url": "https://www.poderjudicial.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-botdojo",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-botdojo",
+      "schema:name": "BotDojo",
+      "sota:entityType": "vendor",
+      "schema:url": "https://mitratech.com/resource-hub/pressreleases/mitratech-acquires-botdojo/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-falcon",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-falcon",
+      "schema:name": "Falcon",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-imanage",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-imanage",
+      "schema:name": "iManage",
+      "sota:entityType": "vendor",
+      "schema:url": "https://imanage.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-infotrack",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-infotrack",
+      "schema:name": "InfoTrack",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.infotrack.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalscape",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legalscape",
+      "schema:name": "Legalscape",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legalscape.jp/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-justicia-es",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ministerio-justicia-es",
+      "schema:name": "Ministerio de Justicia (España)",
+      "sota:entityType": "government",
+      "schema:url": "https://www.mjusticia.gob.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-mitratech",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-mitratech",
+      "schema:name": "Mitratech",
+      "sota:entityType": "vendor",
+      "schema:url": "https://mitratech.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-openai",
+      "schema:name": "OpenAI",
+      "sota:entityType": "company",
+      "schema:url": "https://openai.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pierson-ferdinand",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pierson-ferdinand",
+      "schema:name": "Pierson Ferdinand",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://pierferd.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-relativity",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-relativity",
+      "schema:name": "Relativity",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.relativity.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ross-intelligence",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ross-intelligence",
+      "schema:name": "ROSS Intelligence",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-thomson-reuters",
+      "schema:name": "Thomson Reuters",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.thomsonreuters.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-es",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tribunal-supremo-es",
+      "schema:name": "Tribunal Supremo (España)",
+      "sota:entityType": "other",
+      "schema:url": "https://www.poderjudicial.es/",
+      "sota:stub": true
+    }
+  ]
+}

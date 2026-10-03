@@ -1,0 +1,12 @@
+id: ent-mitratech
+name: "Mitratech"
+type: vendor
+url: "https://mitratech.com/"
+geo:
+  - US
+  - Global
+aliases:
+  - "Mitratech Legal"
+  - "ARIES"
+notes: "Legal/compliance/HR tech; ARIES AI. Ficha mínima."
+stub: true
