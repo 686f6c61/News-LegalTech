@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-04-tirant-prime",
+  "date": "2026-10-01",
+  "type": "product",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Tirant Prime: de editorial a entorno de trabajo con Sofía, Word y ~30 soluciones LegalTech",
+  "summary_p1": "El 1 de octubre de 2026 Confilegal publicó una entrevista con Salvador Vives, CEO de Grupo Tirant, alineada con la campaña de Tirant Prime («la IA está en todas partes, pero el conocimiento no. Exige más»). Prime reúne búsqueda jurídica con IA, Gestión de Despachos con asistente virtual, Biblioteca Virtual, Consultoría y más de 30 soluciones LegalTech; Sofía es la cara visible de IA generativa (anonimización, traducción jurídica, transcripción, conexión con Word). Vives sitúa la tecnología como el área más importante del grupo, con crecimiento ~3× el resto, y dice producir alrededor del 30% de lo que se publica en Derecho en España. El mensaje: pasar de vender información a ofrecer herramientas de trabajo en un único entorno, con tecnología programada en castellano y presencia en LatAm.",
+  "summary_p2": "Para despachos ES, refuerza el eje publisher-native frente a labs US: corpus editorial + Word + practice management en el mismo login. Distinto de un relanzamiento puntual de Sofía 4.0: aquí el ángulo es Prime como sistema operativo del jurista y la tesis de conocimiento estructurado como diferenciador cuando «pase la ola». En RFP: citabilidad, vigencia, certificados de seguridad, política de espacios privados y precio. Para Lefebvre/Aranzadi/vLex, el listón de integración workflow sube otra vez.",
+  "why_sota": "CEO Tirant posiciona Prime como OS jurídico ES con Sofía + 30+ LegalTech.",
+  "why_now": "Entrevista Confilegal 1 Oct 2026. NEW como evento (no estaba en PASS 09-29→10-03).",
+  "geo": [
+    "ES",
+    "LATAM"
+  ],
+  "topics": [
+    "tirant",
+    "sofia",
+    "prime",
+    "editorial-ai",
+    "spain"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261001-salvador-vives-tirant-prime-inteligencia-artificial-abogados/",
+      "cited_title": "Salvador Vives, CEO del Grupo Tirant: «La inteligencia artificial está en todas partes; el conocimiento jurídico, no»",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-tirant"
+  ],
+  "lang": "es",
+  "status": "published"
+}

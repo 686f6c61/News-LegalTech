@@ -1,0 +1,12 @@
+id: ent-acc
+name: Association of Corporate Counsel
+type: other
+url: https://www.acc.com/
+geo:
+- US
+- Global
+- EU
+aliases:
+- ACC
+notes: Encuesta CLO/Europa sobre adopción IA. Ficha mínima.
+stub: true

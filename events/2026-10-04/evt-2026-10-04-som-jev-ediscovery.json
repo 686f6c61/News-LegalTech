@@ -1,0 +1,39 @@
+{
+  "id": "evt-2026-10-04-som-jev-ediscovery",
+  "date": "2026-10-02",
+  "type": "product",
+  "sota_score": 8.6,
+  "ai_legaltech": true,
+  "title": "SOM (System One Model): Jev y Litigaze abren clasificación barata para privilege en eDiscovery",
+  "summary_p1": "El 2 de octubre de 2026 Artificial Lawyer dedicó su Wrap a los SOM (System One Model o decisión model), una familia nueva de modelos de IA. El primero, Jev, lo publicó TypeSafe AI el 15 de septiembre de 2026; el 1 de octubre Cloudflare lanzó Clef. A diferencia de un LLM (large language model), un SOM acepta lenguaje natural pero responde solo con probabilidades sobre un conjunto cerrado de etiquetas (por ejemplo {spam: 95%; not_spam: 5%}), sin generar texto libre. Len Hickey (Litigaze) explicó a AL el atractivo: menos variabilidad, más velocidad y coste muy inferior en tareas de clasificación. En eDiscovery, eso acerca la revisión probabilística de privilege (privilegio) sobre colecciones de un millón de documentos sin el coste típico de pasar un LLM documento a documento. Litigaze ya planea deprecar features pay-as-you-go basadas en LLM a favor de revisiones SOM gratuitas.",
+  "summary_p2": "Para litigation support y eDiscovery en ES/UE, el mensaje no es «sustituye a Claude»: es un classifier general-purpose sin entrenamiento ML tradicional, útil donde el output debe ser etiqueta + score, no prosa. En RFP, pedir métricas de accuracy frente a privilege review humano, trazabilidad del label set, residencia del modelo y cómo se combina con QC humano. Vendors de claiR/aiR y peers: la presión de coste por documento sube. Checklist: no tratar el score SOM como verdad jurídica; documentar umbrales, muestreo y quién firma el claim de privilege.",
+  "why_sota": "Nueva clase de modelo (SOM) con caso de uso legal concreto: privilege review a escala a coste LLM-inviable.",
+  "why_now": "Cobertura AL Wrap 2 Oct 2026; Jev 15 Sep + Clef 1 Oct. NEW vs PASS previos.",
+  "geo": [
+    "Global",
+    "US",
+    "AU"
+  ],
+  "topics": [
+    "som",
+    "jev",
+    "ediscovery",
+    "privilege",
+    "classification",
+    "litigaze"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "cited_title": "Jev + the SOM Revolution, Legal Innovators UK Express Tickets +",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-litigaze",
+    "ent-typesafe-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

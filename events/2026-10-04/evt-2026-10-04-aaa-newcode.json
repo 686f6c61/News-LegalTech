@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-04-aaa-newcode",
+  "date": "2026-10-01",
+  "type": "product",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "AAA y Newcode integran cláusulas ADR en workflows agénticos de redacción contractual",
+  "summary_p1": "El 1-2 de octubre de 2026 Artificial Lawyer y LexisNexis UK informaron de la alianza entre la American Arbitration Association (AAA) y Newcode, un harness configurable de IA agéntica para trabajo jurídico complejo. Las cláusulas ADR (alternative dispute resolution / resolución alternativa de conflictos) de arbitraje y mediación de la AAA quedarán disponibles dentro de Newcode para insertar lenguaje de cláusula establecido desde el inicio del drafting. El relato: equipos legales y de negocio incorporan cláusulas AAA en contratos, workflows y herramientas de drafting con agentes, en un entorno que se presenta como confidencial y auditable.",
+  "summary_p2": "Para in-house y despachos de commercial/dispute, baja la fricción de «copiar la cláusula buena» y sube la expectativa de que el agente cite un corpus institucional, no un invento del modelo. En ES/UE el paralelo es obvio con cámaras de arbitraje y cláusulas modelo: quien venda drafting agéntico necesitará licencias y provenance de clause libraries. Checklist RFP: versión de la cláusula, jurisdicción, auditoría del agente, retención de prompts y quién aprueba el output antes de firmar.",
+  "why_sota": "Institución ADR de referencia embebe clause library en plataforma agéntica de drafting.",
+  "why_now": "Alianza publicada ~1 Oct 2026 (AL Wrap 2 Oct; Lexis 1 Oct). NEW.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "aaa",
+    "newcode",
+    "adr",
+    "arbitration",
+    "agentic-drafting"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "cited_title": "Jev + the SOM Revolution… (AAA–Newcode)",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-aaa",
+    "ent-newcode"
+  ],
+  "lang": "es",
+  "status": "published"
+}

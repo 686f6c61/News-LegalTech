@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-04-epiq-canopy",
+  "date": "2026-09-25",
+  "type": "ma",
+  "sota_score": 8.4,
+  "ai_legaltech": true,
+  "title": "Epiq adquiere Canopy: Auto Review agéntico para data breach response dentro de Epiq AI",
+  "summary_p1": "El 25 de septiembre de 2026 Legal IT Insider informó de que Epiq adquirió Canopy, compañía de tecnología para respuesta a data breaches (brechas de datos). Canopy evalúa datos expuestos, detecta información sensible e identifica afectados; su Auto Review usa agentic AI (IA agéntica) para automatizar el first-level data mining review y pasar de culling a quality control. La plataforma se integrará en Epiq AI y será accesible vía Epiq Service Cloud. Adi Elliott (ex-COO de Canopy) entra como VP Product Management, Cyber. Términos no divulgados.",
+  "summary_p2": "Para cyber, privacy y litigation support, es M&A de stack: breach response deja de ser solo panel de servicios y se empaqueta como agente sobre el corpus expuesto. En ES/UE encaja con notificación RGPD, listas de afectados y legal hold (retención de documentos): el comprador debe pedir DPA, residencia, audit del Auto Review y umbral de escalate-to-human antes de comunicar a la AEPD o al cliente. Missed de ventana respecto a PASS 09-29→10-03: no se había publicado como evento.",
+  "why_sota": "ALSP/eDiscovery global compra plataforma agéntica de breach response.",
+  "why_now": "Anuncio 25 Sep 2026 (LITI); missed vs PASS previos. NEW.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "epiq",
+    "canopy",
+    "breach-response",
+    "agentic-ai",
+    "cyber"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/epiq-acquires-data-breach-response-tech-company-canopy/",
+      "cited_title": "Epiq acquires data breach response tech company Canopy",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-epiq",
+    "ent-canopy"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,605 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/04.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 04.10.26",
+      "schema:version": "04.10.26",
+      "schema:datePublished": "2026-10-04",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-04, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/04.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-som-jev-ediscovery"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-aaa-newcode"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-zuva-waisberg"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-epiq-canopy"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-aspiracloud-sra-it"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-tirant-prime"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-levelpath-ranger"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-acc-europe-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-lawshift-ai-pi"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-ao-deepfake-intesa"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-som-jev-ediscovery",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-som-jev-ediscovery",
+      "schema:headline": "SOM (System One Model): Jev y Litigaze abren clasificación barata para privilege en eDiscovery",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026 Artificial Lawyer dedicó su Wrap a los SOM (System One Model o decisión model), una familia nueva de modelos de IA. El primero, Jev, lo publicó TypeSafe AI el 15 de septiembre de 2026; el 1 de octubre Cloudflare lanzó Clef. A diferencia de un LLM (large language model), un SOM acepta lenguaje natural pero responde solo con probabilidades sobre un conjunto cerrado de etiquetas (por ejemplo {spam: 95%; not_spam: 5%}), sin generar texto libre. Len Hickey (Litigaze) explicó a AL el atractivo: menos variabilidad, más velocidad y coste muy inferior en tareas de clasificación. En eDiscovery, eso acerca la revisión probabilística de privilege (privilegio) sobre colecciones de un millón de documentos sin el coste típico de pasar un LLM documento a documento. Litigaze ya planea deprecar features pay-as-you-go basadas en LLM a favor de revisiones SOM gratuitas.",
+      "schema:articleBody": "El 2 de octubre de 2026 Artificial Lawyer dedicó su Wrap a los SOM (System One Model o decisión model), una familia nueva de modelos de IA. El primero, Jev, lo publicó TypeSafe AI el 15 de septiembre de 2026; el 1 de octubre Cloudflare lanzó Clef. A diferencia de un LLM (large language model), un SOM acepta lenguaje natural pero responde solo con probabilidades sobre un conjunto cerrado de etiquetas (por ejemplo {spam: 95%; not_spam: 5%}), sin generar texto libre. Len Hickey (Litigaze) explicó a AL el atractivo: menos variabilidad, más velocidad y coste muy inferior en tareas de clasificación. En eDiscovery, eso acerca la revisión probabilística de privilege (privilegio) sobre colecciones de un millón de documentos sin el coste típico de pasar un LLM documento a documento. Litigaze ya planea deprecar features pay-as-you-go basadas en LLM a favor de revisiones SOM gratuitas.\n\nPara litigation support y eDiscovery en ES/UE, el mensaje no es «sustituye a Claude»: es un classifier general-purpose sin entrenamiento ML tradicional, útil donde el output debe ser etiqueta + score, no prosa. En RFP, pedir métricas de accuracy frente a privilege review humano, trazabilidad del label set, residencia del modelo y cómo se combina con QC humano. Vendors de claiR/aiR y peers: la presión de coste por documento sube. Checklist: no tratar el score SOM como verdad jurídica; documentar umbrales, muestreo y quién firma el claim de privilege.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Nueva clase de modelo (SOM) con caso de uso legal concreto: privilege review a escala a coste LLM-inviable.",
+      "sota:whyNow": "Cobertura AL Wrap 2 Oct 2026; Jev 15 Sep + Clef 1 Oct. NEW vs PASS previos.",
+      "sota:geo": [
+        "Global",
+        "US",
+        "AU"
+      ],
+      "sota:topics": [
+        "som",
+        "jev",
+        "ediscovery",
+        "privilege",
+        "classification",
+        "litigaze"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026 Artificial Lawyer dedicó su Wrap a los SOM (System One Model o decisión model), una familia nueva de modelos de IA. El primero, Jev, lo publicó TypeSafe AI el 15 de septiembre de 2026; el 1 de octubre Cloudflare lanzó Clef. A diferencia de un LLM (large language model), un SOM acepta lenguaje natural pero responde solo con probabilidades sobre un conjunto cerrado de etiquetas (por ejemplo {spam: 95%; not_spam: 5%}), sin generar texto libre. Len Hickey (Litigaze) explicó a AL el atractivo: menos variabilidad, más velocidad y coste muy inferior en tareas de clasificación. En eDiscovery, eso acerca la revisión probabilística de privilege (privilegio) sobre colecciones de un millón de documentos sin el coste típico de pasar un LLM documento a documento. Litigaze ya planea deprecar features pay-as-you-go basadas en LLM a favor de revisiones SOM gratuitas.",
+      "sota:summaryP2": "Para litigation support y eDiscovery en ES/UE, el mensaje no es «sustituye a Claude»: es un classifier general-purpose sin entrenamiento ML tradicional, útil donde el output debe ser etiqueta + score, no prosa. En RFP, pedir métricas de accuracy frente a privilege review humano, trazabilidad del label set, residencia del modelo y cómo se combina con QC humano. Vendors de claiR/aiR y peers: la presión de coste por documento sube. Checklist: no tratar el score SOM como verdad jurídica; documentar umbrales, muestreo y quién firma el claim de privilege.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+          "schema:name": "Jev + the SOM Revolution, Legal Innovators UK Express Tickets +",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-litigaze"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-typesafe-ai"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-aaa-newcode",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-aaa-newcode",
+      "schema:headline": "AAA y Newcode integran cláusulas ADR en workflows agénticos de redacción contractual",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 1-2 de octubre de 2026 Artificial Lawyer y LexisNexis UK informaron de la alianza entre la American Arbitration Association (AAA) y Newcode, un harness configurable de IA agéntica para trabajo jurídico complejo. Las cláusulas ADR (alternative dispute resolution / resolución alternativa de conflictos) de arbitraje y mediación de la AAA quedarán disponibles dentro de Newcode para insertar lenguaje de cláusula establecido desde el inicio del drafting. El relato: equipos legales y de negocio incorporan cláusulas AAA en contratos, workflows y herramientas de drafting con agentes, en un entorno que se presenta como confidencial y auditable.",
+      "schema:articleBody": "El 1-2 de octubre de 2026 Artificial Lawyer y LexisNexis UK informaron de la alianza entre la American Arbitration Association (AAA) y Newcode, un harness configurable de IA agéntica para trabajo jurídico complejo. Las cláusulas ADR (alternative dispute resolution / resolución alternativa de conflictos) de arbitraje y mediación de la AAA quedarán disponibles dentro de Newcode para insertar lenguaje de cláusula establecido desde el inicio del drafting. El relato: equipos legales y de negocio incorporan cláusulas AAA en contratos, workflows y herramientas de drafting con agentes, en un entorno que se presenta como confidencial y auditable.\n\nPara in-house y despachos de commercial/dispute, baja la fricción de «copiar la cláusula buena» y sube la expectativa de que el agente cite un corpus institucional, no un invento del modelo. En ES/UE el paralelo es obvio con cámaras de arbitraje y cláusulas modelo: quien venda drafting agéntico necesitará licencias y provenance de clause libraries. Checklist RFP: versión de la cláusula, jurisdicción, auditoría del agente, retención de prompts y quién aprueba el output antes de firmar.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Institución ADR de referencia embebe clause library en plataforma agéntica de drafting.",
+      "sota:whyNow": "Alianza publicada ~1 Oct 2026 (AL Wrap 2 Oct; Lexis 1 Oct). NEW.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "aaa",
+        "newcode",
+        "adr",
+        "arbitration",
+        "agentic-drafting"
+      ],
+      "sota:summaryP1": "El 1-2 de octubre de 2026 Artificial Lawyer y LexisNexis UK informaron de la alianza entre la American Arbitration Association (AAA) y Newcode, un harness configurable de IA agéntica para trabajo jurídico complejo. Las cláusulas ADR (alternative dispute resolution / resolución alternativa de conflictos) de arbitraje y mediación de la AAA quedarán disponibles dentro de Newcode para insertar lenguaje de cláusula establecido desde el inicio del drafting. El relato: equipos legales y de negocio incorporan cláusulas AAA en contratos, workflows y herramientas de drafting con agentes, en un entorno que se presenta como confidencial y auditable.",
+      "sota:summaryP2": "Para in-house y despachos de commercial/dispute, baja la fricción de «copiar la cláusula buena» y sube la expectativa de que el agente cite un corpus institucional, no un invento del modelo. En ES/UE el paralelo es obvio con cámaras de arbitraje y cláusulas modelo: quien venda drafting agéntico necesitará licencias y provenance de clause libraries. Checklist RFP: versión de la cláusula, jurisdicción, auditoría del agente, retención de prompts y quién aprueba el output antes de firmar.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+          "schema:name": "Jev + the SOM Revolution… (AAA–Newcode)",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aaa"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-newcode"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-zuva-waisberg",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-zuva-waisberg",
+      "schema:headline": "Zuva (Noah Waisberg / ex-Kira) pivota al sell-side M&A: software de Q&A de compradores + diligence con IA",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 1 de octubre de 2026 Bob Ambrogi (LawNext) entrevistó a Noah Waisberg sobre Zuva, la compañía que lanzó tras vender Kira Systems a Litera hace cinco años. En la venta retuvo una copia de la tecnología Kira y unos 30 de ~180 empleados. Zuva empezó como API-only y ahora se centra en el lado vendedor del M&A: tras entrevistar a unos 200 dealmakers sobre el dolor de vender un negocio, construyó software para gestionar la avalancha de preguntas de postores y un servicio de diligence tech-enabled que combina la IA de Kira con ex-associates de Big Law, prometiendo work product comparable a Big Law a una fracción del coste. La conversación coincidió con el día del último mega-funding de Harvey; Waisberg habló de «peak legal tech», de límites de la IA que el mercado subestima y del billable hour como freno a la efficiency tech.",
+      "schema:articleBody": "El 1 de octubre de 2026 Bob Ambrogi (LawNext) entrevistó a Noah Waisberg sobre Zuva, la compañía que lanzó tras vender Kira Systems a Litera hace cinco años. En la venta retuvo una copia de la tecnología Kira y unos 30 de ~180 empleados. Zuva empezó como API-only y ahora se centra en el lado vendedor del M&A: tras entrevistar a unos 200 dealmakers sobre el dolor de vender un negocio, construyó software para gestionar la avalancha de preguntas de postores y un servicio de diligence tech-enabled que combina la IA de Kira con ex-associates de Big Law, prometiendo work product comparable a Big Law a una fracción del coste. La conversación coincidió con el día del último mega-funding de Harvey; Waisberg habló de «peak legal tech», de límites de la IA que el mercado subestima y del billable hour como freno a la efficiency tech.\n\nSeñal de producto: el founder de contract AI deja de vender solo API horizontal y ataca el workflow del sell-side (bidder Q&A + diligence). Para corporate y PE en ES/EU, el checklist es custody de data room, Quién revisa el output del associate+IA, y si el pricing ALSP escala en deals multi-bidder. Para Litera/Kira y peers CLM, Zuva compite en servicio empaquetado, no solo en licence seats. Distinto de Ivo Sage / Arceus (ya PASS): aquí el ángulo es founder narrative + sell-side M&A ops.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Pivote de Zuva al sell-side M&A con Kira AI + ex-Big Law associates.",
+      "sota:whyNow": "LawNext 1 Oct 2026. NEW vs PASS previos.",
+      "sota:geo": [
+        "US",
+        "CA",
+        "Global"
+      ],
+      "sota:topics": [
+        "zuva",
+        "kira",
+        "m&a",
+        "diligence",
+        "sell-side",
+        "waisberg"
+      ],
+      "sota:summaryP1": "El 1 de octubre de 2026 Bob Ambrogi (LawNext) entrevistó a Noah Waisberg sobre Zuva, la compañía que lanzó tras vender Kira Systems a Litera hace cinco años. En la venta retuvo una copia de la tecnología Kira y unos 30 de ~180 empleados. Zuva empezó como API-only y ahora se centra en el lado vendedor del M&A: tras entrevistar a unos 200 dealmakers sobre el dolor de vender un negocio, construyó software para gestionar la avalancha de preguntas de postores y un servicio de diligence tech-enabled que combina la IA de Kira con ex-associates de Big Law, prometiendo work product comparable a Big Law a una fracción del coste. La conversación coincidió con el día del último mega-funding de Harvey; Waisberg habló de «peak legal tech», de límites de la IA que el mercado subestima y del billable hour como freno a la efficiency tech.",
+      "sota:summaryP2": "Señal de producto: el founder de contract AI deja de vender solo API horizontal y ataca el workflow del sell-side (bidder Q&A + diligence). Para corporate y PE en ES/EU, el checklist es custody de data room, Quién revisa el output del associate+IA, y si el pricing ALSP escala en deals multi-bidder. Para Litera/Kira y peers CLM, Zuva compite en servicio empaquetado, no solo en licence seats. Distinto de Ivo Sage / Arceus (ya PASS): aquí el ángulo es founder narrative + sell-side M&A ops.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html",
+          "schema:name": "Noah Waisberg on Why Selling a Business Hurts, and How Zuva Aims to Fix It",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-zuva"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-epiq-canopy",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-epiq-canopy",
+      "schema:headline": "Epiq adquiere Canopy: Auto Review agéntico para data breach response dentro de Epiq AI",
+      "schema:datePublished": "2026-09-25",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 25 de septiembre de 2026 Legal IT Insider informó de que Epiq adquirió Canopy, compañía de tecnología para respuesta a data breaches (brechas de datos). Canopy evalúa datos expuestos, detecta información sensible e identifica afectados; su Auto Review usa agentic AI (IA agéntica) para automatizar el first-level data mining review y pasar de culling a quality control. La plataforma se integrará en Epiq AI y será accesible vía Epiq Service Cloud. Adi Elliott (ex-COO de Canopy) entra como VP Product Management, Cyber. Términos no divulgados.",
+      "schema:articleBody": "El 25 de septiembre de 2026 Legal IT Insider informó de que Epiq adquirió Canopy, compañía de tecnología para respuesta a data breaches (brechas de datos). Canopy evalúa datos expuestos, detecta información sensible e identifica afectados; su Auto Review usa agentic AI (IA agéntica) para automatizar el first-level data mining review y pasar de culling a quality control. La plataforma se integrará en Epiq AI y será accesible vía Epiq Service Cloud. Adi Elliott (ex-COO de Canopy) entra como VP Product Management, Cyber. Términos no divulgados.\n\nPara cyber, privacy y litigation support, es M&A de stack: breach response deja de ser solo panel de servicios y se empaqueta como agente sobre el corpus expuesto. En ES/UE encaja con notificación RGPD, listas de afectados y legal hold (retención de documentos): el comprador debe pedir DPA, residencia, audit del Auto Review y umbral de escalate-to-human antes de comunicar a la AEPD o al cliente. Missed de ventana respecto a PASS 09-29→10-03: no se había publicado como evento.",
+      "sota:type": "ma",
+      "sota:sotaScore": 8.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "ALSP/eDiscovery global compra plataforma agéntica de breach response.",
+      "sota:whyNow": "Anuncio 25 Sep 2026 (LITI); missed vs PASS previos. NEW.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "epiq",
+        "canopy",
+        "breach-response",
+        "agentic-ai",
+        "cyber"
+      ],
+      "sota:summaryP1": "El 25 de septiembre de 2026 Legal IT Insider informó de que Epiq adquirió Canopy, compañía de tecnología para respuesta a data breaches (brechas de datos). Canopy evalúa datos expuestos, detecta información sensible e identifica afectados; su Auto Review usa agentic AI (IA agéntica) para automatizar el first-level data mining review y pasar de culling a quality control. La plataforma se integrará en Epiq AI y será accesible vía Epiq Service Cloud. Adi Elliott (ex-COO de Canopy) entra como VP Product Management, Cyber. Términos no divulgados.",
+      "sota:summaryP2": "Para cyber, privacy y litigation support, es M&A de stack: breach response deja de ser solo panel de servicios y se empaqueta como agente sobre el corpus expuesto. En ES/UE encaja con notificación RGPD, listas de afectados y legal hold (retención de documentos): el comprador debe pedir DPA, residencia, audit del Auto Review y umbral de escalate-to-human antes de comunicar a la AEPD o al cliente. Missed de ventana respecto a PASS 09-29→10-03: no se había publicado como evento.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/epiq-acquires-data-breach-response-tech-company-canopy/",
+          "schema:name": "Epiq acquires data breach response tech company Canopy",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-epiq"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canopy"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-aspiracloud-sra-it",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-aspiracloud-sra-it",
+      "schema:headline": "AspiraCloud: un tercio de firmas UK no sabe si su IT aguantaría el escrutinio de la SRA (IA sin política)",
+      "schema:datePublished": "2026-09-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 28 de septiembre de 2026 Legal Futures cubrió el informe State of IT in UK Law Firms de AspiraCloud: un tercio de las firmas encuestadas no confía en que su IT actual resista el escrutinio de la Solicitors Regulation Authority (SRA), sobre todo en hybrid working. El mismo estudio señala adopción de IA por delante de governance formal: una proporción significativa ya usa herramientas de IA sin política documentada sobre tools aprobados, manejo de datos de cliente o revisión del trabajo asistido por IA. Adrian Edgar (CEO) resume el riesgo: no es que hayan encontrado gaps, es que «genuinely don’t know the answer». El contexto es el warning notice de agosto de la SRA sobre misuse de IA: competence, confidentiality y supervisión aplican igual, y la accuracy del output sigue siendo del solicitor.",
+      "schema:articleBody": "El 28 de septiembre de 2026 Legal Futures cubrió el informe State of IT in UK Law Firms de AspiraCloud: un tercio de las firmas encuestadas no confía en que su IT actual resista el escrutinio de la Solicitors Regulation Authority (SRA), sobre todo en hybrid working. El mismo estudio señala adopción de IA por delante de governance formal: una proporción significativa ya usa herramientas de IA sin política documentada sobre tools aprobados, manejo de datos de cliente o revisión del trabajo asistido por IA. Adrian Edgar (CEO) resume el riesgo: no es que hayan encontrado gaps, es que «genuinely don’t know the answer». El contexto es el warning notice de agosto de la SRA sobre misuse de IA: competence, confidentiality y supervisión aplican igual, y la accuracy del output sigue siendo del solicitor.\n\nPara managing partners UK (y eco en ES con CGAE/ICAM y AEPD), la métrica útil no es «tenemos Copilot», sino política escrita + evidencia de supervisión. Vendors de M365/security: el buyer pide mapeo de permisos, DLP y registro de uso de IA, no otro webinar. Distinto del PASS InfoTrack DCMI (10-03) y del LeO (10-02): aquí el ángulo es incertidumbre reguladora IT/SRA + gap de política de IA en firmas UK.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato cuantificado: 1/3 firmas UK inseguras ante SRA; IA sin política documentada.",
+      "sota:whyNow": "Legal Futures 28 Sep 2026. NEW vs PASS previos.",
+      "sota:geo": [
+        "UK"
+      ],
+      "sota:topics": [
+        "sra",
+        "governance",
+        "aspiracloud",
+        "hybrid-working",
+        "ai-policy"
+      ],
+      "sota:summaryP1": "El 28 de septiembre de 2026 Legal Futures cubrió el informe State of IT in UK Law Firms de AspiraCloud: un tercio de las firmas encuestadas no confía en que su IT actual resista el escrutinio de la Solicitors Regulation Authority (SRA), sobre todo en hybrid working. El mismo estudio señala adopción de IA por delante de governance formal: una proporción significativa ya usa herramientas de IA sin política documentada sobre tools aprobados, manejo de datos de cliente o revisión del trabajo asistido por IA. Adrian Edgar (CEO) resume el riesgo: no es que hayan encontrado gaps, es que «genuinely don’t know the answer». El contexto es el warning notice de agosto de la SRA sobre misuse de IA: competence, confidentiality y supervisión aplican igual, y la accuracy del output sigue siendo del solicitor.",
+      "sota:summaryP2": "Para managing partners UK (y eco en ES con CGAE/ICAM y AEPD), la métrica útil no es «tenemos Copilot», sino política escrita + evidencia de supervisión. Vendors de M365/security: el buyer pide mapeo de permisos, DLP y registro de uso de IA, no otro webinar. Distinto del PASS InfoTrack DCMI (10-03) y del LeO (10-02): aquí el ángulo es incertidumbre reguladora IT/SRA + gap de política de IA en firmas UK.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/associate-news/a-third-of-uk-law-firms-unsure-their-it-would-satisfy-the-sra-new-aspiracloud-research-finds-ahead-of-october-debate-evenings",
+          "schema:name": "A third of UK law firms unsure their IT would satisfy the SRA…",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aspiracloud"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-tirant-prime",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-tirant-prime",
+      "schema:headline": "Tirant Prime: de editorial a entorno de trabajo con Sofía, Word y ~30 soluciones LegalTech",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 1 de octubre de 2026 Confilegal publicó una entrevista con Salvador Vives, CEO de Grupo Tirant, alineada con la campaña de Tirant Prime («la IA está en todas partes, pero el conocimiento no. Exige más»). Prime reúne búsqueda jurídica con IA, Gestión de Despachos con asistente virtual, Biblioteca Virtual, Consultoría y más de 30 soluciones LegalTech; Sofía es la cara visible de IA generativa (anonimización, traducción jurídica, transcripción, conexión con Word). Vives sitúa la tecnología como el área más importante del grupo, con crecimiento ~3× el resto, y dice producir alrededor del 30% de lo que se publica en Derecho en España. El mensaje: pasar de vender información a ofrecer herramientas de trabajo en un único entorno, con tecnología programada en castellano y presencia en LatAm.",
+      "schema:articleBody": "El 1 de octubre de 2026 Confilegal publicó una entrevista con Salvador Vives, CEO de Grupo Tirant, alineada con la campaña de Tirant Prime («la IA está en todas partes, pero el conocimiento no. Exige más»). Prime reúne búsqueda jurídica con IA, Gestión de Despachos con asistente virtual, Biblioteca Virtual, Consultoría y más de 30 soluciones LegalTech; Sofía es la cara visible de IA generativa (anonimización, traducción jurídica, transcripción, conexión con Word). Vives sitúa la tecnología como el área más importante del grupo, con crecimiento ~3× el resto, y dice producir alrededor del 30% de lo que se publica en Derecho en España. El mensaje: pasar de vender información a ofrecer herramientas de trabajo en un único entorno, con tecnología programada en castellano y presencia en LatAm.\n\nPara despachos ES, refuerza el eje publisher-native frente a labs US: corpus editorial + Word + practice management en el mismo login. Distinto de un relanzamiento puntual de Sofía 4.0: aquí el ángulo es Prime como sistema operativo del jurista y la tesis de conocimiento estructurado como diferenciador cuando «pase la ola». En RFP: citabilidad, vigencia, certificados de seguridad, política de espacios privados y precio. Para Lefebvre/Aranzadi/vLex, el listón de integración workflow sube otra vez.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "CEO Tirant posiciona Prime como OS jurídico ES con Sofía + 30+ LegalTech.",
+      "sota:whyNow": "Entrevista Confilegal 1 Oct 2026. NEW como evento (no estaba en PASS 09-29→10-03).",
+      "sota:geo": [
+        "ES",
+        "LATAM"
+      ],
+      "sota:topics": [
+        "tirant",
+        "sofia",
+        "prime",
+        "editorial-ai",
+        "spain"
+      ],
+      "sota:summaryP1": "El 1 de octubre de 2026 Confilegal publicó una entrevista con Salvador Vives, CEO de Grupo Tirant, alineada con la campaña de Tirant Prime («la IA está en todas partes, pero el conocimiento no. Exige más»). Prime reúne búsqueda jurídica con IA, Gestión de Despachos con asistente virtual, Biblioteca Virtual, Consultoría y más de 30 soluciones LegalTech; Sofía es la cara visible de IA generativa (anonimización, traducción jurídica, transcripción, conexión con Word). Vives sitúa la tecnología como el área más importante del grupo, con crecimiento ~3× el resto, y dice producir alrededor del 30% de lo que se publica en Derecho en España. El mensaje: pasar de vender información a ofrecer herramientas de trabajo en un único entorno, con tecnología programada en castellano y presencia en LatAm.",
+      "sota:summaryP2": "Para despachos ES, refuerza el eje publisher-native frente a labs US: corpus editorial + Word + practice management en el mismo login. Distinto de un relanzamiento puntual de Sofía 4.0: aquí el ángulo es Prime como sistema operativo del jurista y la tesis de conocimiento estructurado como diferenciador cuando «pase la ola». En RFP: citabilidad, vigencia, certificados de seguridad, política de espacios privados y precio. Para Lefebvre/Aranzadi/vLex, el listón de integración workflow sube otra vez.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261001-salvador-vives-tirant-prime-inteligencia-artificial-abogados/",
+          "schema:name": "Salvador Vives, CEO del Grupo Tirant: «La inteligencia artificial está en todas partes; el conocimiento jurídico, no»",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tirant"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-levelpath-ranger",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-levelpath-ranger",
+      "schema:headline": "Levelpath lanza Ranger: procurement autónomo con renovación contractual y contrato discovery",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Artificial Lawyer (Wrap del 2 de octubre de 2026) destacó el lanzamiento de Ranger por Levelpath, plataforma de procurement: un sistema de IA pensado para ejecutar procesos de procurement de punta a punta, incluido contract review, renewals y risk work. Según el relato recogido por AL y el anuncio de Levelpath (30 de septiembre de 2026), Ranger calcula la ventana de notice de cada contrato, lanza la renewal review 30 días antes del vencimiento y recomienda renovar, renegociar, terminar o no actuar con rationale puntuado; permite elegir qué paths exigen humano. También ofrece contract discovery (una pregunta sobre hasta 10.000 contratos con evidencia citada) y workflows de sourcing, onboarding de suppliers, risk review e invoices, con log append-only atribuido al agente.",
+      "schema:articleBody": "Artificial Lawyer (Wrap del 2 de octubre de 2026) destacó el lanzamiento de Ranger por Levelpath, plataforma de procurement: un sistema de IA pensado para ejecutar procesos de procurement de punta a punta, incluido contract review, renewals y risk work. Según el relato recogido por AL y el anuncio de Levelpath (30 de septiembre de 2026), Ranger calcula la ventana de notice de cada contrato, lanza la renewal review 30 días antes del vencimiento y recomienda renovar, renegociar, terminar o no actuar con rationale puntuado; permite elegir qué paths exigen humano. También ofrece contract discovery (una pregunta sobre hasta 10.000 contratos con evidencia citada) y workflows de sourcing, onboarding de suppliers, risk review e invoices, con log append-only atribuido al agente.\n\nAunque el buyer primario es procurement, el impacto legal-ops es directo: renovaciones, NDAs/MSAs de cola y discovery sobre el corpus contractual dejan de ser ticket manual. Para GC y legal ops ES/UE, checklist: techo de autonomía por categoría, DPA, residencia, y que el agente «pueda decir sí pero no no» (según Levelpath) no sustituya la aprobación de riesgos altos. Vendors CLM: presión de agentes que vigilan vencimientos sin waiting for the lawyer.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Agente de procurement con ownership de renewals y discovery contractual a escala.",
+      "sota:whyNow": "AL Wrap 2 Oct cubre lanzamiento ~30 Sep. NEW.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "levelpath",
+        "ranger",
+        "procurement",
+        "contract-renewal",
+        "agentic"
+      ],
+      "sota:summaryP1": "Artificial Lawyer (Wrap del 2 de octubre de 2026) destacó el lanzamiento de Ranger por Levelpath, plataforma de procurement: un sistema de IA pensado para ejecutar procesos de procurement de punta a punta, incluido contract review, renewals y risk work. Según el relato recogido por AL y el anuncio de Levelpath (30 de septiembre de 2026), Ranger calcula la ventana de notice de cada contrato, lanza la renewal review 30 días antes del vencimiento y recomienda renovar, renegociar, terminar o no actuar con rationale puntuado; permite elegir qué paths exigen humano. También ofrece contract discovery (una pregunta sobre hasta 10.000 contratos con evidencia citada) y workflows de sourcing, onboarding de suppliers, risk review e invoices, con log append-only atribuido al agente.",
+      "sota:summaryP2": "Aunque el buyer primario es procurement, el impacto legal-ops es directo: renovaciones, NDAs/MSAs de cola y discovery sobre el corpus contractual dejan de ser ticket manual. Para GC y legal ops ES/UE, checklist: techo de autonomía por categoría, DPA, residencia, y que el agente «pueda decir sí pero no no» (según Levelpath) no sustituya la aprobación de riesgos altos. Vendors CLM: presión de agentes que vigilan vencimientos sin waiting for the lawyer.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+          "schema:name": "Jev + the SOM Revolution… (Levelpath Ranger)",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-levelpath"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-acc-europe-ai",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-acc-europe-ai",
+      "schema:headline": "ACC Europa: 83% de legales in-house ya usan IA, pero solo el 11% mide ROI con métricas duras",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Wrap de Artificial Lawyer del 2 de octubre de 2026 recogió la última encuesta ACC (Association of Corporate Counsel) enfocada en Europa: el 83% de los departamentos legales europeos ya usan IA en su trabajo (alineado con el 85% global). El 89% espera que la IA agilice procesos estándar como document review y el 64% espera menor coste de proveedores externos. En cambio, solo el 11% de los legal departments europeos trackea métricas de negocio duras para medir ROI de IA, y el 28% no mide ROI en absoluto. El 31% está desplazando juniors hacia trabajo estratégico de más valor (casi el doble del 16% global), pero el 44% no ha cambiado development ni hiring.",
+      "schema:articleBody": "El Wrap de Artificial Lawyer del 2 de octubre de 2026 recogió la última encuesta ACC (Association of Corporate Counsel) enfocada en Europa: el 83% de los departamentos legales europeos ya usan IA en su trabajo (alineado con el 85% global). El 89% espera que la IA agilice procesos estándar como document review y el 64% espera menor coste de proveedores externos. En cambio, solo el 11% de los legal departments europeos trackea métricas de negocio duras para medir ROI de IA, y el 28% no mide ROI en absoluto. El 31% está desplazando juniors hacia trabajo estratégico de más valor (casi el doble del 16% global), pero el 44% no ha cambiado development ni hiring.\n\nMisma contradicción que InfoTrack DCMI y el AI Value Gap ya cubiertos, ahora con sello in-house Europa: adopción alta, medición baja. Para GC ES/EU, el board preguntará por KPI antes que por el siguiente pilot. Para ALSPs y Big Law, el 64% que espera bajar spend externo es presión de pricing. Checklist interno: definir 2-3 métricas (cycle time, % review automatizado, cost/matter) antes de renovar seats.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato ACC Europa: 83% usó vs 11% ROI hard metrics.",
+      "sota:whyNow": "AL Wrap 2 Oct 2026. NEW (distinto de Value Gap 10-02 / DCMI 10-03).",
+      "sota:geo": [
+        "EU",
+        "Global"
+      ],
+      "sota:topics": [
+        "acc",
+        "in-house",
+        "roi",
+        "adoption",
+        "europe"
+      ],
+      "sota:summaryP1": "El Wrap de Artificial Lawyer del 2 de octubre de 2026 recogió la última encuesta ACC (Association of Corporate Counsel) enfocada en Europa: el 83% de los departamentos legales europeos ya usan IA en su trabajo (alineado con el 85% global). El 89% espera que la IA agilice procesos estándar como document review y el 64% espera menor coste de proveedores externos. En cambio, solo el 11% de los legal departments europeos trackea métricas de negocio duras para medir ROI de IA, y el 28% no mide ROI en absoluto. El 31% está desplazando juniors hacia trabajo estratégico de más valor (casi el doble del 16% global), pero el 44% no ha cambiado development ni hiring.",
+      "sota:summaryP2": "Misma contradicción que InfoTrack DCMI y el AI Value Gap ya cubiertos, ahora con sello in-house Europa: adopción alta, medición baja. Para GC ES/EU, el board preguntará por KPI antes que por el siguiente pilot. Para ALSPs y Big Law, el 64% que espera bajar spend externo es presión de pricing. Checklist interno: definir 2-3 métricas (cycle time, % review automatizado, cost/matter) antes de renovar seats.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+          "schema:name": "Jev + the SOM Revolution… (ACC Europe survey)",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-acc"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-lawshift-ai-pi",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-lawshift-ai-pi",
+      "schema:headline": "LawSHIFT AI for PI Index: 250.000+ respuestas de IA y el «AI Authority Gap» en personal injury",
+      "schema:datePublished": "2026-09-24",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 24 de septiembre de 2026 LawNext publicó el anuncio de LawSHIFT sobre The AI for PI Index, mini-libro que analiza cómo ChatGPT, Claude, Perplexity y Google AI Overviews recomiendan firmas de personal injury cuando el consumidor pide guía legal. El índice cubre más de 1.800 firmas en los 50 estados y DC, con updates de 20.000+ respuestas; el corpus acumulado supera 250.000. Hallazgo clave: la correlación entre autoridad SEO tradicional y visibilidad en IA fue 0,076 en un set inicial de 81 firmas; el SEO explicaría solo ~2-11% de la AI visibility. Solo siete firmas nacionales aparecieron en más del 1% de respuestas; Morgan & Morgan ~7%. LawSHIFT llama AI Authority Gap a la distancia entre la autoridad construida y la que los sistemas de IA reconocen, y Pre-Intake Problem al tramo anterior al intake.",
+      "schema:articleBody": "El 24 de septiembre de 2026 LawNext publicó el anuncio de LawSHIFT sobre The AI for PI Index, mini-libro que analiza cómo ChatGPT, Claude, Perplexity y Google AI Overviews recomiendan firmas de personal injury cuando el consumidor pide guía legal. El índice cubre más de 1.800 firmas en los 50 estados y DC, con updates de 20.000+ respuestas; el corpus acumulado supera 250.000. Hallazgo clave: la correlación entre autoridad SEO tradicional y visibilidad en IA fue 0,076 en un set inicial de 81 firmas; el SEO explicaría solo ~2-11% de la AI visibility. Solo siete firmas nacionales aparecieron en más del 1% de respuestas; Morgan & Morgan ~7%. LawSHIFT llama AI Authority Gap a la distancia entre la autoridad construida y la que los sistemas de IA reconocen, y Pre-Intake Problem al tramo anterior al intake.\n\nPara marketing jurídico y managing partners de PI (y eco en ES en accidentes/civil), el canal de captación se mueve al chat del consumidor antes del formulario web. No es un producto de research jurídico, pero sí LegalTech de demanda: si la IA dice que «no necesitas abogado», el lead muere invisible. Checklist: medir menciones por plataforma/geo, no solo Domain Rating; vendors de SEO legal deben demostrar citas en AI Overviews, no solo rankings Google clásicos. Missed de ventana vs PASS previos.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Medición a escala de recomendaciones de IA a consumidores PI y gap vs SEO.",
+      "sota:whyNow": "LawNext 24 Sep 2026; no estaba en PASS 09-29→10-03. NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "lawshift",
+        "personal-injury",
+        "ai-visibility",
+        "consumer",
+        "marketing"
+      ],
+      "sota:summaryP1": "El 24 de septiembre de 2026 LawNext publicó el anuncio de LawSHIFT sobre The AI for PI Index, mini-libro que analiza cómo ChatGPT, Claude, Perplexity y Google AI Overviews recomiendan firmas de personal injury cuando el consumidor pide guía legal. El índice cubre más de 1.800 firmas en los 50 estados y DC, con updates de 20.000+ respuestas; el corpus acumulado supera 250.000. Hallazgo clave: la correlación entre autoridad SEO tradicional y visibilidad en IA fue 0,076 en un set inicial de 81 firmas; el SEO explicaría solo ~2-11% de la AI visibility. Solo siete firmas nacionales aparecieron en más del 1% de respuestas; Morgan & Morgan ~7%. LawSHIFT llama AI Authority Gap a la distancia entre la autoridad construida y la que los sistemas de IA reconocen, y Pre-Intake Problem al tramo anterior al intake.",
+      "sota:summaryP2": "Para marketing jurídico y managing partners de PI (y eco en ES en accidentes/civil), el canal de captación se mueve al chat del consumidor antes del formulario web. No es un producto de research jurídico, pero sí LegalTech de demanda: si la IA dice que «no necesitas abogado», el lead muere invisible. Checklist: medir menciones por plataforma/geo, no solo Domain Rating; vendors de SEO legal deben demostrar citas en AI Overviews, no solo rankings Google clásicos. Missed de ventana vs PASS previos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/09/lawshift-publishes-ai-for-pi-index-mini-book-examining-more-than-250000-ai-responses.html",
+          "schema:name": "LawSHIFT Publishes AI for PI Index Mini-Book…",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawshift"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-04-ao-deepfake-intesa",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-04-ao-deepfake-intesa",
+      "schema:headline": "Deepfake de voz: clonan al socio director de A&O Shearman Italia en fraude de 95 M€ a Intesa Sanpaolo",
+      "schema:datePublished": "2026-09-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 29 de septiembre de 2026 Confilegal relató, citando al Corriere della Será, un fraude del CEO ejecutado en febrero de 2026 contra Fideuram–Intesa Sanpaolo Private Banking. Paolo Molesini, entonces presidente de Fideuram, recibió un WhatsApp falso atribuido a Carlo Messina (CEO de Intesa) y una llamada en la que reconoció la voz de Paolo Nastasi, socio director de A&O Shearman en Italia, presentado como intermediario. Nastasi y la firma fueron ajenos: la voz había sido clonada con IA. Se movieron unos 95 millones de euros hacia China y Hong Kong; se recuperaron o bloquearon en torno a 53-59 millones (China, Portugal/Eurojust y otros); al menos 36 millones siguen sin localizar y habrían pasado a cripto. Molesini no está investigado; dimitió en marzo por «razones personales».",
+      "schema:articleBody": "El 29 de septiembre de 2026 Confilegal relató, citando al Corriere della Será, un fraude del CEO ejecutado en febrero de 2026 contra Fideuram–Intesa Sanpaolo Private Banking. Paolo Molesini, entonces presidente de Fideuram, recibió un WhatsApp falso atribuido a Carlo Messina (CEO de Intesa) y una llamada en la que reconoció la voz de Paolo Nastasi, socio director de A&O Shearman en Italia, presentado como intermediario. Nastasi y la firma fueron ajenos: la voz había sido clonada con IA. Se movieron unos 95 millones de euros hacia China y Hong Kong; se recuperaron o bloquearon en torno a 53-59 millones (China, Portugal/Eurojust y otros); al menos 36 millones siguen sin localizar y habrían pasado a cripto. Molesini no está investigado; dimitió en marzo por «razones personales».\n\nPara Big Law, banking y compliance, el deepfake de voz elimina la verificación intuitiva «reconozco quién habla» y usa la reputación de un abogado real como segunda capa. Checklist operativo: callback a número conocido, canales out-of-band, límites de pago urgente y formación anti-CEO-fraud con IA. En ES/UE, el eco llega a despachos y banca privada: políticas de voice authentication y de no confirmar transferencias solo por llamada. Vendors de security legal: oportunidad de controles, no de otro chatbot.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Caso real: voz clonada de managing partner Magic Circle en fraude bancario a escala.",
+      "sota:whyNow": "Confilegal 29 Sep 2026. NEW vs PASS previos.",
+      "sota:geo": [
+        "IT",
+        "EU"
+      ],
+      "sota:topics": [
+        "deepfake",
+        "ceo-fraud",
+        "allen-overy",
+        "voice-clone",
+        "cyber"
+      ],
+      "sota:summaryP1": "El 29 de septiembre de 2026 Confilegal relató, citando al Corriere della Será, un fraude del CEO ejecutado en febrero de 2026 contra Fideuram–Intesa Sanpaolo Private Banking. Paolo Molesini, entonces presidente de Fideuram, recibió un WhatsApp falso atribuido a Carlo Messina (CEO de Intesa) y una llamada en la que reconoció la voz de Paolo Nastasi, socio director de A&O Shearman en Italia, presentado como intermediario. Nastasi y la firma fueron ajenos: la voz había sido clonada con IA. Se movieron unos 95 millones de euros hacia China y Hong Kong; se recuperaron o bloquearon en torno a 53-59 millones (China, Portugal/Eurojust y otros); al menos 36 millones siguen sin localizar y habrían pasado a cripto. Molesini no está investigado; dimitió en marzo por «razones personales».",
+      "sota:summaryP2": "Para Big Law, banking y compliance, el deepfake de voz elimina la verificación intuitiva «reconozco quién habla» y usa la reputación de un abogado real como segunda capa. Checklist operativo: callback a número conocido, canales out-of-band, límites de pago urgente y formación anti-CEO-fraud con IA. En ES/UE, el eco llega a despachos y banca privada: políticas de voice authentication y de no confirmar transferencias solo por llamada. Vendors de security legal: oportunidad de controles, no de otro chatbot.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20260929-fraude-ceo-ia-voz-clonada-a-o-shearman-intesa-sanpaolo/",
+          "schema:name": "Clonan la voz del socio director de A&O Shearman en Italia y estafan 95 millones €…",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-allen-overy"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aaa",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aaa",
+      "schema:name": "American Arbitration Association",
+      "sota:entityType": "other",
+      "schema:url": "https://www.adr.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-acc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-acc",
+      "schema:name": "Association of Corporate Counsel",
+      "sota:entityType": "other",
+      "schema:url": "https://www.acc.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-allen-overy",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-allen-overy",
+      "schema:name": "Allen & Overy",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.allenovery.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aspiracloud",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aspiracloud",
+      "schema:name": "AspiraCloud",
+      "sota:entityType": "company",
+      "schema:url": "https://www.legalfutures.co.uk/associate-news/a-third-of-uk-law-firms-unsure-their-it-would-satisfy-the-sra-new-aspiracloud-research-finds-ahead-of-october-debate-evenings",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canopy",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-canopy",
+      "schema:name": "Canopy",
+      "sota:entityType": "company",
+      "schema:url": "https://legaltechnology.com/epiq-acquires-data-breach-response-tech-company-canopy/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-epiq",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-epiq",
+      "schema:name": "Epiq",
+      "sota:entityType": "company",
+      "schema:url": "https://legaltechnology.com/epiq-acquires-data-breach-response-tech-company-canopy/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawshift",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawshift",
+      "schema:name": "LawSHIFT",
+      "sota:entityType": "company",
+      "schema:url": "https://www.lawnext.com/2026/09/lawshift-publishes-ai-for-pi-index-mini-book-examining-more-than-250000-ai-responses.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-levelpath",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-levelpath",
+      "schema:name": "Levelpath",
+      "sota:entityType": "company",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-litigaze",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-litigaze",
+      "schema:name": "Litigaze",
+      "sota:entityType": "company",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-newcode",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-newcode",
+      "schema:name": "Newcode",
+      "sota:entityType": "company",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sra",
+      "schema:name": "Solicitors Regulation Authority",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.sra.org.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tirant",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tirant",
+      "schema:name": "Grupo Tirant",
+      "sota:entityType": "company",
+      "schema:url": "https://confilegal.com/20261001-salvador-vives-tirant-prime-inteligencia-artificial-abogados/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-typesafe-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-typesafe-ai",
+      "schema:name": "TypeSafe AI",
+      "sota:entityType": "company",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-zuva",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-zuva",
+      "schema:name": "Zuva",
+      "sota:entityType": "company",
+      "schema:url": "https://www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html",
+      "sota:stub": true
+    }
+  ]
+}

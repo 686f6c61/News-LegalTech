@@ -1,0 +1,10 @@
+id: ent-aaa
+name: American Arbitration Association
+type: other
+url: https://www.adr.org/
+geo:
+- US
+aliases:
+- AAA
+notes: Alianza con Newcode para cláusulas ADR en drafting agéntico. Ficha mínima.
+stub: true

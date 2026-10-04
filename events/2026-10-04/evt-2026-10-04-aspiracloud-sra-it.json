@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-04-aspiracloud-sra-it",
+  "date": "2026-09-28",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "AspiraCloud: un tercio de firmas UK no sabe si su IT aguantaría el escrutinio de la SRA (IA sin política)",
+  "summary_p1": "El 28 de septiembre de 2026 Legal Futures cubrió el informe State of IT in UK Law Firms de AspiraCloud: un tercio de las firmas encuestadas no confía en que su IT actual resista el escrutinio de la Solicitors Regulation Authority (SRA), sobre todo en hybrid working. El mismo estudio señala adopción de IA por delante de governance formal: una proporción significativa ya usa herramientas de IA sin política documentada sobre tools aprobados, manejo de datos de cliente o revisión del trabajo asistido por IA. Adrian Edgar (CEO) resume el riesgo: no es que hayan encontrado gaps, es que «genuinely don’t know the answer». El contexto es el warning notice de agosto de la SRA sobre misuse de IA: competence, confidentiality y supervisión aplican igual, y la accuracy del output sigue siendo del solicitor.",
+  "summary_p2": "Para managing partners UK (y eco en ES con CGAE/ICAM y AEPD), la métrica útil no es «tenemos Copilot», sino política escrita + evidencia de supervisión. Vendors de M365/security: el buyer pide mapeo de permisos, DLP y registro de uso de IA, no otro webinar. Distinto del PASS InfoTrack DCMI (10-03) y del LeO (10-02): aquí el ángulo es incertidumbre reguladora IT/SRA + gap de política de IA en firmas UK.",
+  "why_sota": "Dato cuantificado: 1/3 firmas UK inseguras ante SRA; IA sin política documentada.",
+  "why_now": "Legal Futures 28 Sep 2026. NEW vs PASS previos.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "sra",
+    "governance",
+    "aspiracloud",
+    "hybrid-working",
+    "ai-policy"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/associate-news/a-third-of-uk-law-firms-unsure-their-it-would-satisfy-the-sra-new-aspiracloud-research-finds-ahead-of-october-debate-evenings",
+      "cited_title": "A third of UK law firms unsure their IT would satisfy the SRA…",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-aspiracloud",
+    "ent-sra"
+  ],
+  "lang": "es",
+  "status": "published"
+}

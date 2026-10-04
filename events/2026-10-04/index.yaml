@@ -1,0 +1,69 @@
+scan_id: full-radar-2026-10-04
+date: '2026-10-04'
+release: 04.10.26
+count: 10
+ai_share: 1.0
+dedup_against: events/2026-09-29 + 2026-09-30 + 2026-10-01 + 2026-10-02 + 2026-10-03
+  + scans PASS
+event_ids:
+- evt-2026-10-04-som-jev-ediscovery
+- evt-2026-10-04-aaa-newcode
+- evt-2026-10-04-zuva-waisberg
+- evt-2026-10-04-epiq-canopy
+- evt-2026-10-04-aspiracloud-sra-it
+- evt-2026-10-04-tirant-prime
+- evt-2026-10-04-levelpath-ranger
+- evt-2026-10-04-acc-europe-ai
+- evt-2026-10-04-lawshift-ai-pi
+- evt-2026-10-04-ao-deepfake-intesa
+events:
+- id: evt-2026-10-04-som-jev-ediscovery
+  sota_score: 8.6
+  ai_legaltech: true
+  title: 'SOM (System One Model): Jev y Litigaze abren clasificación barata para privilege
+    en eDiscovery'
+- id: evt-2026-10-04-aaa-newcode
+  sota_score: 8.1
+  ai_legaltech: true
+  title: AAA y Newcode integran cláusulas ADR en workflows agénticos de redacción
+    contractual
+- id: evt-2026-10-04-zuva-waisberg
+  sota_score: 8.3
+  ai_legaltech: true
+  title: 'Zuva (Noah Waisberg / ex-Kira) pivota al sell-side M&A: software de Q&A
+    de compradores + diligence con IA'
+- id: evt-2026-10-04-epiq-canopy
+  sota_score: 8.4
+  ai_legaltech: true
+  title: 'Epiq adquiere Canopy: Auto Review agéntico para data breach response dentro
+    de Epiq AI'
+- id: evt-2026-10-04-aspiracloud-sra-it
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'AspiraCloud: un tercio de firmas UK no sabe si su IT aguantaría el escrutinio
+    de la SRA (IA sin política)'
+- id: evt-2026-10-04-tirant-prime
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'Tirant Prime: de editorial a entorno de trabajo con Sofía, Word y ~30 soluciones
+    LegalTech'
+- id: evt-2026-10-04-levelpath-ranger
+  sota_score: 7.5
+  ai_legaltech: true
+  title: 'Levelpath lanza Ranger: procurement autónomo con renovación contractual
+    y contrato discovery'
+- id: evt-2026-10-04-acc-europe-ai
+  sota_score: 7.3
+  ai_legaltech: true
+  title: 'ACC Europa: 83% de legales in-house ya usan IA, pero solo el 11% mide ROI
+    con métricas duras'
+- id: evt-2026-10-04-lawshift-ai-pi
+  sota_score: 7.1
+  ai_legaltech: true
+  title: 'LawSHIFT AI for PI Index: 250.000+ respuestas de IA y el «AI Authority Gap»
+    en personal injury'
+- id: evt-2026-10-04-ao-deepfake-intesa
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Deepfake de voz: clonan al socio director de A&O Shearman Italia en fraude
+    de 95 M€ a Intesa Sanpaolo'

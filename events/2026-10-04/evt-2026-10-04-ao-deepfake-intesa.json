@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-04-ao-deepfake-intesa",
+  "date": "2026-09-29",
+  "type": "market",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Deepfake de voz: clonan al socio director de A&O Shearman Italia en fraude de 95 M€ a Intesa Sanpaolo",
+  "summary_p1": "El 29 de septiembre de 2026 Confilegal relató, citando al Corriere della Será, un fraude del CEO ejecutado en febrero de 2026 contra Fideuram–Intesa Sanpaolo Private Banking. Paolo Molesini, entonces presidente de Fideuram, recibió un WhatsApp falso atribuido a Carlo Messina (CEO de Intesa) y una llamada en la que reconoció la voz de Paolo Nastasi, socio director de A&O Shearman en Italia, presentado como intermediario. Nastasi y la firma fueron ajenos: la voz había sido clonada con IA. Se movieron unos 95 millones de euros hacia China y Hong Kong; se recuperaron o bloquearon en torno a 53-59 millones (China, Portugal/Eurojust y otros); al menos 36 millones siguen sin localizar y habrían pasado a cripto. Molesini no está investigado; dimitió en marzo por «razones personales».",
+  "summary_p2": "Para Big Law, banking y compliance, el deepfake de voz elimina la verificación intuitiva «reconozco quién habla» y usa la reputación de un abogado real como segunda capa. Checklist operativo: callback a número conocido, canales out-of-band, límites de pago urgente y formación anti-CEO-fraud con IA. En ES/UE, el eco llega a despachos y banca privada: políticas de voice authentication y de no confirmar transferencias solo por llamada. Vendors de security legal: oportunidad de controles, no de otro chatbot.",
+  "why_sota": "Caso real: voz clonada de managing partner Magic Circle en fraude bancario a escala.",
+  "why_now": "Confilegal 29 Sep 2026. NEW vs PASS previos.",
+  "geo": [
+    "IT",
+    "EU"
+  ],
+  "topics": [
+    "deepfake",
+    "ceo-fraud",
+    "allen-overy",
+    "voice-clone",
+    "cyber"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20260929-fraude-ceo-ia-voz-clonada-a-o-shearman-intesa-sanpaolo/",
+      "cited_title": "Clonan la voz del socio director de A&O Shearman en Italia y estafan 95 millones €…",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-allen-overy"
+  ],
+  "lang": "es",
+  "status": "published"
+}

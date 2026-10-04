@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-04-zuva-waisberg",
+  "date": "2026-10-01",
+  "type": "product",
+  "sota_score": 8.3,
+  "ai_legaltech": true,
+  "title": "Zuva (Noah Waisberg / ex-Kira) pivota al sell-side M&A: software de Q&A de compradores + diligence con IA",
+  "summary_p1": "El 1 de octubre de 2026 Bob Ambrogi (LawNext) entrevistó a Noah Waisberg sobre Zuva, la compañía que lanzó tras vender Kira Systems a Litera hace cinco años. En la venta retuvo una copia de la tecnología Kira y unos 30 de ~180 empleados. Zuva empezó como API-only y ahora se centra en el lado vendedor del M&A: tras entrevistar a unos 200 dealmakers sobre el dolor de vender un negocio, construyó software para gestionar la avalancha de preguntas de postores y un servicio de diligence tech-enabled que combina la IA de Kira con ex-associates de Big Law, prometiendo work product comparable a Big Law a una fracción del coste. La conversación coincidió con el día del último mega-funding de Harvey; Waisberg habló de «peak legal tech», de límites de la IA que el mercado subestima y del billable hour como freno a la efficiency tech.",
+  "summary_p2": "Señal de producto: el founder de contract AI deja de vender solo API horizontal y ataca el workflow del sell-side (bidder Q&A + diligence). Para corporate y PE en ES/EU, el checklist es custody de data room, Quién revisa el output del associate+IA, y si el pricing ALSP escala en deals multi-bidder. Para Litera/Kira y peers CLM, Zuva compite en servicio empaquetado, no solo en licence seats. Distinto de Ivo Sage / Arceus (ya PASS): aquí el ángulo es founder narrative + sell-side M&A ops.",
+  "why_sota": "Pivote de Zuva al sell-side M&A con Kira AI + ex-Big Law associates.",
+  "why_now": "LawNext 1 Oct 2026. NEW vs PASS previos.",
+  "geo": [
+    "US",
+    "CA",
+    "Global"
+  ],
+  "topics": [
+    "zuva",
+    "kira",
+    "m&a",
+    "diligence",
+    "sell-side",
+    "waisberg"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html",
+      "cited_title": "Noah Waisberg on Why Selling a Business Hurts, and How Zuva Aims to Fix It",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-zuva"
+  ],
+  "lang": "es",
+  "status": "published"
+}

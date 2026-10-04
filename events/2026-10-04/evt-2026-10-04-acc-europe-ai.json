@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-04-acc-europe-ai",
+  "date": "2026-10-02",
+  "type": "market",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "ACC Europa: 83% de legales in-house ya usan IA, pero solo el 11% mide ROI con métricas duras",
+  "summary_p1": "El Wrap de Artificial Lawyer del 2 de octubre de 2026 recogió la última encuesta ACC (Association of Corporate Counsel) enfocada en Europa: el 83% de los departamentos legales europeos ya usan IA en su trabajo (alineado con el 85% global). El 89% espera que la IA agilice procesos estándar como document review y el 64% espera menor coste de proveedores externos. En cambio, solo el 11% de los legal departments europeos trackea métricas de negocio duras para medir ROI de IA, y el 28% no mide ROI en absoluto. El 31% está desplazando juniors hacia trabajo estratégico de más valor (casi el doble del 16% global), pero el 44% no ha cambiado development ni hiring.",
+  "summary_p2": "Misma contradicción que InfoTrack DCMI y el AI Value Gap ya cubiertos, ahora con sello in-house Europa: adopción alta, medición baja. Para GC ES/EU, el board preguntará por KPI antes que por el siguiente pilot. Para ALSPs y Big Law, el 64% que espera bajar spend externo es presión de pricing. Checklist interno: definir 2-3 métricas (cycle time, % review automatizado, cost/matter) antes de renovar seats.",
+  "why_sota": "Dato ACC Europa: 83% usó vs 11% ROI hard metrics.",
+  "why_now": "AL Wrap 2 Oct 2026. NEW (distinto de Value Gap 10-02 / DCMI 10-03).",
+  "geo": [
+    "EU",
+    "Global"
+  ],
+  "topics": [
+    "acc",
+    "in-house",
+    "roi",
+    "adoption",
+    "europe"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "cited_title": "Jev + the SOM Revolution… (ACC Europe survey)",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-acc"
+  ],
+  "lang": "es",
+  "status": "published"
+}

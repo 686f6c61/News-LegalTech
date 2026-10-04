@@ -1,0 +1,10 @@
+id: ent-epiq
+name: Epiq
+type: company
+url: https://legaltechnology.com/epiq-acquires-data-breach-response-tech-company-canopy/
+geo:
+- US
+- Global
+aliases: []
+notes: ALSP/eDiscovery; adquiere Canopy. Ficha mínima.
+stub: true

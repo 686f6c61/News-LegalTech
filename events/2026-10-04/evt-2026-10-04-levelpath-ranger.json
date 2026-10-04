@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-04-levelpath-ranger",
+  "date": "2026-09-30",
+  "type": "product",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Levelpath lanza Ranger: procurement autónomo con renovación contractual y contrato discovery",
+  "summary_p1": "Artificial Lawyer (Wrap del 2 de octubre de 2026) destacó el lanzamiento de Ranger por Levelpath, plataforma de procurement: un sistema de IA pensado para ejecutar procesos de procurement de punta a punta, incluido contract review, renewals y risk work. Según el relato recogido por AL y el anuncio de Levelpath (30 de septiembre de 2026), Ranger calcula la ventana de notice de cada contrato, lanza la renewal review 30 días antes del vencimiento y recomienda renovar, renegociar, terminar o no actuar con rationale puntuado; permite elegir qué paths exigen humano. También ofrece contract discovery (una pregunta sobre hasta 10.000 contratos con evidencia citada) y workflows de sourcing, onboarding de suppliers, risk review e invoices, con log append-only atribuido al agente.",
+  "summary_p2": "Aunque el buyer primario es procurement, el impacto legal-ops es directo: renovaciones, NDAs/MSAs de cola y discovery sobre el corpus contractual dejan de ser ticket manual. Para GC y legal ops ES/UE, checklist: techo de autonomía por categoría, DPA, residencia, y que el agente «pueda decir sí pero no no» (según Levelpath) no sustituya la aprobación de riesgos altos. Vendors CLM: presión de agentes que vigilan vencimientos sin waiting for the lawyer.",
+  "why_sota": "Agente de procurement con ownership de renewals y discovery contractual a escala.",
+  "why_now": "AL Wrap 2 Oct cubre lanzamiento ~30 Sep. NEW.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "levelpath",
+    "ranger",
+    "procurement",
+    "contract-renewal",
+    "agentic"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "cited_title": "Jev + the SOM Revolution… (Levelpath Ranger)",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-levelpath"
+  ],
+  "lang": "es",
+  "status": "published"
+}

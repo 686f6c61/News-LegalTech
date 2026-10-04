@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-04-lawshift-ai-pi",
+  "date": "2026-09-24",
+  "type": "market",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "LawSHIFT AI for PI Index: 250.000+ respuestas de IA y el «AI Authority Gap» en personal injury",
+  "summary_p1": "El 24 de septiembre de 2026 LawNext publicó el anuncio de LawSHIFT sobre The AI for PI Index, mini-libro que analiza cómo ChatGPT, Claude, Perplexity y Google AI Overviews recomiendan firmas de personal injury cuando el consumidor pide guía legal. El índice cubre más de 1.800 firmas en los 50 estados y DC, con updates de 20.000+ respuestas; el corpus acumulado supera 250.000. Hallazgo clave: la correlación entre autoridad SEO tradicional y visibilidad en IA fue 0,076 en un set inicial de 81 firmas; el SEO explicaría solo ~2-11% de la AI visibility. Solo siete firmas nacionales aparecieron en más del 1% de respuestas; Morgan & Morgan ~7%. LawSHIFT llama AI Authority Gap a la distancia entre la autoridad construida y la que los sistemas de IA reconocen, y Pre-Intake Problem al tramo anterior al intake.",
+  "summary_p2": "Para marketing jurídico y managing partners de PI (y eco en ES en accidentes/civil), el canal de captación se mueve al chat del consumidor antes del formulario web. No es un producto de research jurídico, pero sí LegalTech de demanda: si la IA dice que «no necesitas abogado», el lead muere invisible. Checklist: medir menciones por plataforma/geo, no solo Domain Rating; vendors de SEO legal deben demostrar citas en AI Overviews, no solo rankings Google clásicos. Missed de ventana vs PASS previos.",
+  "why_sota": "Medición a escala de recomendaciones de IA a consumidores PI y gap vs SEO.",
+  "why_now": "LawNext 24 Sep 2026; no estaba en PASS 09-29→10-03. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "lawshift",
+    "personal-injury",
+    "ai-visibility",
+    "consumer",
+    "marketing"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/09/lawshift-publishes-ai-for-pi-index-mini-book-examining-more-than-250000-ai-responses.html",
+      "cited_title": "LawSHIFT Publishes AI for PI Index Mini-Book…",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "entities": [
+    "ent-lawshift"
+  ],
+  "lang": "es",
+  "status": "published"
+}

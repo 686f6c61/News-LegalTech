@@ -425,3 +425,126 @@ entities:
   - Context Fabric
   notes: DMS/knowledge; plugin ChatGPT Enterprise. Ficha mínima.
   stub: true
+- id: ent-litigaze
+  name: Litigaze
+  type: company
+  url: https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/
+  geo:
+  - AU
+  - Global
+  aliases: []
+  notes: LegalTech eDiscovery; adopta SOM para privilege review. Ficha mínima.
+  stub: true
+- id: ent-typesafe-ai
+  name: TypeSafe AI
+  type: company
+  url: https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/
+  geo:
+  - Global
+  aliases:
+  - Jev
+  notes: Publicó Jev, primer SOM (System One Model), 15 Sep 2026. Ficha mínima.
+  stub: true
+- id: ent-aaa
+  name: American Arbitration Association
+  type: other
+  url: https://www.adr.org/
+  geo:
+  - US
+  aliases:
+  - AAA
+  notes: Alianza con Newcode para cláusulas ADR en drafting agéntico. Ficha mínima.
+  stub: true
+- id: ent-newcode
+  name: Newcode
+  type: company
+  url: https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Harness agéntico de drafting; alianza AAA. Ficha mínima.
+  stub: true
+- id: ent-zuva
+  name: Zuva
+  type: company
+  url: https://www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html
+  geo:
+  - CA
+  - US
+  aliases: []
+  notes: Ex-Kira; pivote sell-side M&A. Ficha mínima.
+  stub: true
+- id: ent-epiq
+  name: Epiq
+  type: company
+  url: https://legaltechnology.com/epiq-acquires-data-breach-response-tech-company-canopy/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: ALSP/eDiscovery; adquiere Canopy. Ficha mínima.
+  stub: true
+- id: ent-canopy
+  name: Canopy
+  type: company
+  url: https://legaltechnology.com/epiq-acquires-data-breach-response-tech-company-canopy/
+  geo:
+  - US
+  aliases: []
+  notes: Breach response tech con Auto Review agéntico; adquirida por Epiq. Ficha
+    mínima.
+  stub: true
+- id: ent-aspiracloud
+  name: AspiraCloud
+  type: company
+  url: https://www.legalfutures.co.uk/associate-news/a-third-of-uk-law-firms-unsure-their-it-would-satisfy-the-sra-new-aspiracloud-research-finds-ahead-of-october-debate-evenings
+  geo:
+  - UK
+  aliases: []
+  notes: IT partner UK law firms; State of IT report. Ficha mínima.
+  stub: true
+- id: ent-tirant
+  name: Grupo Tirant
+  type: company
+  url: https://confilegal.com/20261001-salvador-vives-tirant-prime-inteligencia-artificial-abogados/
+  geo:
+  - ES
+  - LATAM
+  aliases:
+  - Tirant
+  - Tirant Prime
+  - Sofía
+  notes: Editorial/LegalTech ES; Prime + Sofía. Ficha mínima.
+  stub: true
+- id: ent-levelpath
+  name: Levelpath
+  type: company
+  url: https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/
+  geo:
+  - US
+  aliases:
+  - Ranger
+  notes: Procurement AI; lanza Ranger. Ficha mínima.
+  stub: true
+- id: ent-acc
+  name: Association of Corporate Counsel
+  type: other
+  url: https://www.acc.com/
+  geo:
+  - US
+  - Global
+  - EU
+  aliases:
+  - ACC
+  notes: Encuesta CLO/Europa sobre adopción IA. Ficha mínima.
+  stub: true
+- id: ent-lawshift
+  name: LawSHIFT
+  type: company
+  url: https://www.lawnext.com/2026/09/lawshift-publishes-ai-for-pi-index-mini-book-examining-more-than-250000-ai-responses.html
+  geo:
+  - US
+  aliases: []
+  notes: AI for PI Index. Ficha mínima.
+  stub: true
