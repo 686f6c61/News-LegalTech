@@ -1,0 +1,10 @@
+id: ent-3-geeks-and-a-law-blog
+name: 3 Geeks and a Law Blog
+type: media
+url: https://www.geeklawblog.com/
+geo:
+- US
+aliases:
+- 3 Geeks
+notes: Blog de KM e innovación legal (Ryan McClead y otros). Ficha mínima.
+stub: true

@@ -1,0 +1,41 @@
+{
+  "id": "evt-2026-10-05-trump-super-intelligence-force",
+  "date": "2026-10-04",
+  "type": "regulation",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Trump crea la «Super Intelligence Force» con Jay Clayton al frente tras un acuerdo voluntario con las grandes de IA",
+  "summary_p1": "El 4 de octubre de 2026 Republic World informó de que Donald Trump encargó a Jay Clayton, al que identifica como su director de National Intelligence (inteligencia nacional), liderar un nuevo grupo de trabajo federal sobre inteligencia artificial bautizado como «Super Intelligence Force», en línea con su intento de rebautizar la IA como «super intelligence». El anuncio llega después de que la Casa Blanca recibiera la semana pasada a los principales ejecutivos de compañías de IA, que firmaron un voluntary accord (acuerdo voluntario) para autorregular el desarrollo de la tecnología. La task force (grupo de trabajo) coordinará el esfuerzo federal y consultará a consumidores, grupos de interés público, organizaciones religiosas, operadores de critical infrastructure (infraestructuras críticas) y empresas de IA. La integran también Andrew Ferguson, presidente de la Federal Trade Commission (FTC); Emil Michael, CTO del Pentágono; y Scott Kupor, director de la Office of Personnel Management. Reportará a Trump y a su jefa de gabinete, Susie Wiles.",
+  "summary_p2": "Para despachos y equipos legales con clientes en EE. UU., la lectura es de gobernanza blanda: un acuerdo voluntario no crea obligaciones exigibles, y Above the Law ya lo ha calificado de compromiso «morally binding» sin dientes. La presencia del presidente de la FTC en el grupo apunta a que la vía de enforcement (aplicación) seguirá siendo la protección del consumidor y las prácticas engañosas, no una ley federal de IA. Para in-house europeos, la distancia regulatoria con el AI Act se ensancha: los compliance programs (programas de cumplimiento) transatlánticos deben seguir anclados en la norma más exigente y llevar a los contratos los compromisos voluntarios que asuma cada proveedor de modelos, porque no figuran en ninguna regla.",
+  "why_sota": "Nuevo órgano federal de IA en EE. UU. + acuerdo voluntario de autorregulación de la industria.",
+  "why_now": "Anuncio 4 Oct 2026 (Republic World); contexto ATL 2 Oct. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "politica-ia",
+    "autorregulacion",
+    "ftc",
+    "casa-blanca"
+  ],
+  "sources": [
+    {
+      "source_id": "src-republic-world",
+      "url": "https://www.republicworld.com/global-news/after-white-house-meet-with-ai-ceos-trump-taps-jay-clayton-to-lead-new-super-intelligence-force-on-ai-2026-10-04-138282",
+      "cited_title": "After White House Meet With AI CEOs, Trump Taps Jay Clayton To Lead New 'Super Intelligence Force' On AI",
+      "accessed": "2026-10-05"
+    },
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/trumps-morally-binding-new-ai-guardrails-are-meaningless-pudding/",
+      "cited_title": "Trump’s ‘Morally Binding’ New AI Guardrails Are Meaningless Pudding",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-gobierno-eeuu",
+    "ent-ftc"
+  ],
+  "lang": "es",
+  "status": "published"
+}

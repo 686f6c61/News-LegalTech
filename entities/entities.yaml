@@ -548,3 +548,148 @@ entities:
   aliases: []
   notes: AI for PI Index. Ficha mínima.
   stub: true
+- id: ent-comision-europea
+  name: Comisión Europea
+  type: government
+  url: https://commission.europa.eu/
+  geo:
+  - EU
+  aliases:
+  - European Commission
+  notes: Propone el KIDS Act (17 Sep 2026). Ficha mínima.
+  stub: true
+- id: ent-kids-act
+  name: KIDS Act (propuesta UE)
+  type: other
+  url: https://www.lto.de/recht/hintergruende/h/kids-act-eu-kommission-will-kinder-vor-ki-freunden-schuetzen
+  geo:
+  - EU
+  aliases:
+  - Keeping Internet Digital Spaces Accountable and Trustworthy Act
+  notes: Propuesta de reglamento con obligaciones para AI companions y chatbots generales
+    frente a menores. Ficha mínima.
+  stub: true
+- id: ent-gobierno-eeuu
+  name: Gobierno de EE. UU. (Casa Blanca)
+  type: government
+  url: https://www.whitehouse.gov/
+  geo:
+  - US
+  aliases:
+  - White House
+  notes: Crea la Super Intelligence Force (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-ftc
+  name: Federal Trade Commission
+  type: regulator
+  url: https://www.ftc.gov/
+  geo:
+  - US
+  aliases:
+  - FTC
+  notes: Su presidente, Andrew Ferguson, integra la Super Intelligence Force. Ficha
+    mínima.
+  stub: true
+- id: ent-audiencia-nacional
+  name: Audiencia Nacional
+  type: government
+  url: https://www.poderjudicial.es/
+  geo:
+  - ES
+  aliases: []
+  notes: Órgano judicial español; magistrado Joaquín Delgado (Sala de lo Penal). Ficha
+    mínima.
+  stub: true
+- id: ent-wolters-kluwer
+  name: Wolters Kluwer
+  type: company
+  url: https://www.wolterskluwer.com/
+  geo:
+  - NL
+  - Global
+  aliases:
+  - Wolters Kluwer Legal & Regulatory
+  notes: Editorial y software profesional; LEX (Polonia) y Libra. Ficha mínima.
+  stub: true
+- id: ent-libra
+  name: Libra by Wolters Kluwer
+  type: product
+  url: https://www.wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland
+  geo:
+  - EU
+  aliases:
+  - Libra
+  notes: Legal AI workspace de Wolters Kluwer; CEO Viktor von Essen. Ficha mínima.
+  stub: true
+- id: ent-3-geeks-and-a-law-blog
+  name: 3 Geeks and a Law Blog
+  type: media
+  url: https://www.geeklawblog.com/
+  geo:
+  - US
+  aliases:
+  - 3 Geeks
+  notes: Blog de KM e innovación legal (Ryan McClead y otros). Ficha mínima.
+  stub: true
+- id: ent-notorio
+  name: Notorio
+  type: company
+  url: https://legaltechnology.com/startup-corner-notorio-one-place-to-organise-your-legal-business/
+  geo:
+  - US
+  aliases: []
+  notes: Startup de infraestructura jurídica para fundadores (2025). Ficha mínima.
+  stub: true
+- id: ent-lcm
+  name: Litigation Capital Management
+  type: company
+  url: https://www.legalfutures.co.uk/latest-news/listed-litigation-funder-goes-into-run-off-after-string-of-losses
+  geo:
+  - UK
+  - AU
+  aliases:
+  - LCM
+  notes: Financiador de litigios cotizado en AIM; run-off en Oct 2026. Ficha mínima.
+  stub: true
+- id: ent-northleaf
+  name: Northleaf Capital Partners
+  type: company
+  url: https://www.northleafcapital.com/
+  geo:
+  - CA
+  - Global
+  aliases:
+  - Northleaf
+  notes: Prestamista de LCM. Ficha mínima.
+  stub: true
+- id: ent-offit-kurman
+  name: Offit Kurman
+  type: law_firm
+  url: https://www.offitkurman.com/
+  geo:
+  - US
+  aliases: []
+  notes: Despacho de Maryland; demanda a Actionstep (Sep 2026). Ficha mínima.
+  stub: true
+- id: ent-actionstep
+  name: Actionstep
+  type: vendor
+  url: https://www.actionstep.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Software de practice management; demandado por Offit Kurman. Ficha mínima.
+  stub: true
+- id: ent-dsw-capital
+  name: DSW Capital (Dow Schofield Watts)
+  type: company
+  url: https://www.legalfutures.co.uk/latest-news/aim-listed-professional-services-group-attracts-first-law-firm-licensee
+  geo:
+  - UK
+  aliases:
+  - DSW
+  - DSW Legal
+  notes: Grupo de servicios profesionales cotizado en AIM; modelo de licencia en despachos.
+    Ficha mínima.
+  stub: true

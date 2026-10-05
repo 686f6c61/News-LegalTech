@@ -1,0 +1,11 @@
+id: ent-wolters-kluwer
+name: Wolters Kluwer
+type: company
+url: https://www.wolterskluwer.com/
+geo:
+- NL
+- Global
+aliases:
+- Wolters Kluwer Legal & Regulatory
+notes: Editorial y software profesional; LEX (Polonia) y Libra. Ficha mínima.
+stub: true

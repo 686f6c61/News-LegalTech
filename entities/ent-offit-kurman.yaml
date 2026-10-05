@@ -1,0 +1,9 @@
+id: ent-offit-kurman
+name: Offit Kurman
+type: law_firm
+url: https://www.offitkurman.com/
+geo:
+- US
+aliases: []
+notes: Despacho de Maryland; demanda a Actionstep (Sep 2026). Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-northleaf
+name: Northleaf Capital Partners
+type: company
+url: https://www.northleafcapital.com/
+geo:
+- CA
+- Global
+aliases:
+- Northleaf
+notes: Prestamista de LCM. Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-kids-act
+name: KIDS Act (propuesta UE)
+type: other
+url: https://www.lto.de/recht/hintergruende/h/kids-act-eu-kommission-will-kinder-vor-ki-freunden-schuetzen
+geo:
+- EU
+aliases:
+- Keeping Internet Digital Spaces Accountable and Trustworthy Act
+notes: Propuesta de reglamento con obligaciones para AI companions y chatbots generales
+  frente a menores. Ficha mínima.
+stub: true

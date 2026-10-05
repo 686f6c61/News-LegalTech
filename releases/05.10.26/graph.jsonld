@@ -1,0 +1,616 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/05.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 05.10.26",
+      "schema:version": "05.10.26",
+      "schema:datePublished": "2026-10-05",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-05, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/05.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-kids-act-chatbots"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-trump-super-intelligence-force"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-delgado-ia-responsabilidad-penal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-wolters-kluwer-libra-lex"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-km-bajo-it-chief-ai-officer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-relfest-jueces-alucinaciones"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-notorio-infraestructura-societaria"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-lcm-run-off"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-offit-kurman-actionstep"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-dsw-legal-apex"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-kids-act-chatbots",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-kids-act-chatbots",
+      "schema:headline": "KIDS Act: Bruselas exige rediseñar los chatbots generales y los AI companions (compañeros de IA) si pueden usarlos menores",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 1 de octubre de 2026 Legal Tribune Online (LTO) analizó el EU Keeping Internet Digital Spaces Accountable and Trustworthy Act (KIDS Act), que la Comisión Europea propuso el 17 de septiembre. Junto a reglas para redes sociales, app stores, videojuegos y plataformas de vídeo, el borrador introduce por primera vez obligaciones para proveedores de AI companions (compañeros de IA) y de chatbots de propósito general. La definición del art. 3.5.c es muy amplia: cualquier sistema que ofrezca una interacción persistente y personalizada que simule una relación social o emocional, lo que alcanza a Replika, pero también a ChatGPT, Claude, Gemini o DeepSeek; solo quedan fuera los chatbots limitados a una tarea concreta, como el soporte técnico. El art. 14.1 fija seis medidas mínimas de diseño: no simular relaciones que generen dependencia emocional, con pausas que protejan el horario escolar y de sueño; memoria a largo plazo, ubicación, micrófono, cámara y notificaciones push desactivados por defecto; prohibición de recompensas variables y de incentivos al gasto impulsivo; y, para menores de 13 años, parental controls (control parental), pruebas previas al lanzamiento y market monitoring (vigilancia poscomercialización) con respuesta a incidentes graves. Basta con que un menor pueda acceder al sistema.",
+      "schema:articleBody": "El 1 de octubre de 2026 Legal Tribune Online (LTO) analizó el EU Keeping Internet Digital Spaces Accountable and Trustworthy Act (KIDS Act), que la Comisión Europea propuso el 17 de septiembre. Junto a reglas para redes sociales, app stores, videojuegos y plataformas de vídeo, el borrador introduce por primera vez obligaciones para proveedores de AI companions (compañeros de IA) y de chatbots de propósito general. La definición del art. 3.5.c es muy amplia: cualquier sistema que ofrezca una interacción persistente y personalizada que simule una relación social o emocional, lo que alcanza a Replika, pero también a ChatGPT, Claude, Gemini o DeepSeek; solo quedan fuera los chatbots limitados a una tarea concreta, como el soporte técnico. El art. 14.1 fija seis medidas mínimas de diseño: no simular relaciones que generen dependencia emocional, con pausas que protejan el horario escolar y de sueño; memoria a largo plazo, ubicación, micrófono, cámara y notificaciones push desactivados por defecto; prohibición de recompensas variables y de incentivos al gasto impulsivo; y, para menores de 13 años, parental controls (control parental), pruebas previas al lanzamiento y market monitoring (vigilancia poscomercialización) con respuesta a incidentes graves. Basta con que un menor pueda acceder al sistema.\n\nPara in-house de producto, privacidad y compliance, el KIDS Act se suma al AI Act y no lo sustituye: si un producto incluye un chatbot conversacional general (también un asistente jurídico para consumidores con memoria), conviene mapear ya si encaja en la definición y qué parte de la cadena controla la empresa. LTO señala el punto crítico: quien construye sobre un modelo de terceros vía API puede desactivar la memoria o limitar horarios, pero no puede reentrenar la tendencia del modelo a responder con empatía y darle la razón al usuario (sycophancy, complacencia), y una actualización del proveedor puede romper una configuración que ya cumplía. En los contratos con proveedores de modelos, conviene pedir cláusulas de cooperación, aviso previo de cambios de modelo y evidencias de evaluación. Es una propuesta y el texto puede cambiar en el Parlamento y el Consejo, pero el diseño por defecto ya marca la dirección.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 8.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera propuesta UE con obligaciones de diseño para chatbots generales frente a menores.",
+      "sota:whyNow": "Análisis LTO 1 Oct 2026 de la propuesta del 17 Sep. NEW vs PASS 09-29→10-04.",
+      "sota:geo": [
+        "EU",
+        "DE"
+      ],
+      "sota:topics": [
+        "kids-act",
+        "ai-companions",
+        "chatbots",
+        "menores",
+        "comision-europea"
+      ],
+      "sota:summaryP1": "El 1 de octubre de 2026 Legal Tribune Online (LTO) analizó el EU Keeping Internet Digital Spaces Accountable and Trustworthy Act (KIDS Act), que la Comisión Europea propuso el 17 de septiembre. Junto a reglas para redes sociales, app stores, videojuegos y plataformas de vídeo, el borrador introduce por primera vez obligaciones para proveedores de AI companions (compañeros de IA) y de chatbots de propósito general. La definición del art. 3.5.c es muy amplia: cualquier sistema que ofrezca una interacción persistente y personalizada que simule una relación social o emocional, lo que alcanza a Replika, pero también a ChatGPT, Claude, Gemini o DeepSeek; solo quedan fuera los chatbots limitados a una tarea concreta, como el soporte técnico. El art. 14.1 fija seis medidas mínimas de diseño: no simular relaciones que generen dependencia emocional, con pausas que protejan el horario escolar y de sueño; memoria a largo plazo, ubicación, micrófono, cámara y notificaciones push desactivados por defecto; prohibición de recompensas variables y de incentivos al gasto impulsivo; y, para menores de 13 años, parental controls (control parental), pruebas previas al lanzamiento y market monitoring (vigilancia poscomercialización) con respuesta a incidentes graves. Basta con que un menor pueda acceder al sistema.",
+      "sota:summaryP2": "Para in-house de producto, privacidad y compliance, el KIDS Act se suma al AI Act y no lo sustituye: si un producto incluye un chatbot conversacional general (también un asistente jurídico para consumidores con memoria), conviene mapear ya si encaja en la definición y qué parte de la cadena controla la empresa. LTO señala el punto crítico: quien construye sobre un modelo de terceros vía API puede desactivar la memoria o limitar horarios, pero no puede reentrenar la tendencia del modelo a responder con empatía y darle la razón al usuario (sycophancy, complacencia), y una actualización del proveedor puede romper una configuración que ya cumplía. En los contratos con proveedores de modelos, conviene pedir cláusulas de cooperación, aviso previo de cambios de modelo y evidencias de evaluación. Es una propuesta y el texto puede cambiar en el Parlamento y el Consejo, pero el diseño por defecto ya marca la dirección.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lto.de/recht/hintergruende/h/kids-act-eu-kommission-will-kinder-vor-ki-freunden-schuetzen",
+          "schema:name": "KIDS Act: KI-Anbieter müssen umbauen",
+          "sota:sourceId": "src-legal-tribune-online-legal-tech"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-comision-europea"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-kids-act"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-trump-super-intelligence-force",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-trump-super-intelligence-force",
+      "schema:headline": "Trump crea la «Super Intelligence Force» con Jay Clayton al frente tras un acuerdo voluntario con las grandes de IA",
+      "schema:datePublished": "2026-10-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 4 de octubre de 2026 Republic World informó de que Donald Trump encargó a Jay Clayton, al que identifica como su director de National Intelligence (inteligencia nacional), liderar un nuevo grupo de trabajo federal sobre inteligencia artificial bautizado como «Super Intelligence Force», en línea con su intento de rebautizar la IA como «super intelligence». El anuncio llega después de que la Casa Blanca recibiera la semana pasada a los principales ejecutivos de compañías de IA, que firmaron un voluntary accord (acuerdo voluntario) para autorregular el desarrollo de la tecnología. La task force (grupo de trabajo) coordinará el esfuerzo federal y consultará a consumidores, grupos de interés público, organizaciones religiosas, operadores de critical infrastructure (infraestructuras críticas) y empresas de IA. La integran también Andrew Ferguson, presidente de la Federal Trade Commission (FTC); Emil Michael, CTO del Pentágono; y Scott Kupor, director de la Office of Personnel Management. Reportará a Trump y a su jefa de gabinete, Susie Wiles.",
+      "schema:articleBody": "El 4 de octubre de 2026 Republic World informó de que Donald Trump encargó a Jay Clayton, al que identifica como su director de National Intelligence (inteligencia nacional), liderar un nuevo grupo de trabajo federal sobre inteligencia artificial bautizado como «Super Intelligence Force», en línea con su intento de rebautizar la IA como «super intelligence». El anuncio llega después de que la Casa Blanca recibiera la semana pasada a los principales ejecutivos de compañías de IA, que firmaron un voluntary accord (acuerdo voluntario) para autorregular el desarrollo de la tecnología. La task force (grupo de trabajo) coordinará el esfuerzo federal y consultará a consumidores, grupos de interés público, organizaciones religiosas, operadores de critical infrastructure (infraestructuras críticas) y empresas de IA. La integran también Andrew Ferguson, presidente de la Federal Trade Commission (FTC); Emil Michael, CTO del Pentágono; y Scott Kupor, director de la Office of Personnel Management. Reportará a Trump y a su jefa de gabinete, Susie Wiles.\n\nPara despachos y equipos legales con clientes en EE. UU., la lectura es de gobernanza blanda: un acuerdo voluntario no crea obligaciones exigibles, y Above the Law ya lo ha calificado de compromiso «morally binding» sin dientes. La presencia del presidente de la FTC en el grupo apunta a que la vía de enforcement (aplicación) seguirá siendo la protección del consumidor y las prácticas engañosas, no una ley federal de IA. Para in-house europeos, la distancia regulatoria con el AI Act se ensancha: los compliance programs (programas de cumplimiento) transatlánticos deben seguir anclados en la norma más exigente y llevar a los contratos los compromisos voluntarios que asuma cada proveedor de modelos, porque no figuran en ninguna regla.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Nuevo órgano federal de IA en EE. UU. + acuerdo voluntario de autorregulación de la industria.",
+      "sota:whyNow": "Anuncio 4 Oct 2026 (Republic World); contexto ATL 2 Oct. NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "politica-ia",
+        "autorregulacion",
+        "ftc",
+        "casa-blanca"
+      ],
+      "sota:summaryP1": "El 4 de octubre de 2026 Republic World informó de que Donald Trump encargó a Jay Clayton, al que identifica como su director de National Intelligence (inteligencia nacional), liderar un nuevo grupo de trabajo federal sobre inteligencia artificial bautizado como «Super Intelligence Force», en línea con su intento de rebautizar la IA como «super intelligence». El anuncio llega después de que la Casa Blanca recibiera la semana pasada a los principales ejecutivos de compañías de IA, que firmaron un voluntary accord (acuerdo voluntario) para autorregular el desarrollo de la tecnología. La task force (grupo de trabajo) coordinará el esfuerzo federal y consultará a consumidores, grupos de interés público, organizaciones religiosas, operadores de critical infrastructure (infraestructuras críticas) y empresas de IA. La integran también Andrew Ferguson, presidente de la Federal Trade Commission (FTC); Emil Michael, CTO del Pentágono; y Scott Kupor, director de la Office of Personnel Management. Reportará a Trump y a su jefa de gabinete, Susie Wiles.",
+      "sota:summaryP2": "Para despachos y equipos legales con clientes en EE. UU., la lectura es de gobernanza blanda: un acuerdo voluntario no crea obligaciones exigibles, y Above the Law ya lo ha calificado de compromiso «morally binding» sin dientes. La presencia del presidente de la FTC en el grupo apunta a que la vía de enforcement (aplicación) seguirá siendo la protección del consumidor y las prácticas engañosas, no una ley federal de IA. Para in-house europeos, la distancia regulatoria con el AI Act se ensancha: los compliance programs (programas de cumplimiento) transatlánticos deben seguir anclados en la norma más exigente y llevar a los contratos los compromisos voluntarios que asuma cada proveedor de modelos, porque no figuran en ninguna regla.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.republicworld.com/global-news/after-white-house-meet-with-ai-ceos-trump-taps-jay-clayton-to-lead-new-super-intelligence-force-on-ai-2026-10-04-138282",
+          "schema:name": "After White House Meet With AI CEOs, Trump Taps Jay Clayton To Lead New 'Super Intelligence Force' On AI",
+          "sota:sourceId": "src-republic-world"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abovethelaw.com/2026/10/trumps-morally-binding-new-ai-guardrails-are-meaningless-pudding/",
+          "schema:name": "Trump’s ‘Morally Binding’ New AI Guardrails Are Meaningless Pudding",
+          "sota:sourceId": "src-above-the-law"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gobierno-eeuu"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ftc"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-delgado-ia-responsabilidad-penal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-delgado-ia-responsabilidad-penal",
+      "schema:headline": "El magistrado Joaquín Delgado (Audiencia Nacional): la IA abarata el delito y diluye quién responde penalmente cuando actúan agentes autónomos",
+      "schema:datePublished": "2026-10-05",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 5 de octubre de 2026 Confilegal recogió la ponencia «La respuesta penal frente a los delitos mediante IA» de Joaquín Delgado Martín, magistrado de la Sala de lo Penal de la Audiencia Nacional, en las XX Jornadas de Documentos Jurídico-Psiquiátricos. Su tesis: la IA hace que delinquir sea más barato, más rápido y mucho más escalable. La mayoría de los ciberdelitos sigue entrando por social engineering (ingeniería social), y la IA lo automatiza y personaliza: chatbots que se hacen pasar por personas, voces sintéticas de familiares, deepfakes de Pedro Sánchez o Alberto Núñez Feijóo promocionando criptomonedas y anuncios fraudulentos dirigidos a personas mayores identificadas como vulnerables. Habló de una «democratización» del acceso: más atacantes potenciales, menos tiempo y menos coste por operación. El punto jurídico más difícil, dijo, llega con los AI agents (agentes de IA) que deciden y cambian su comportamiento durante la tarea: «cuanto más autónomo en funcionamiento sea el sistema de inteligencia artificial, más difícil es individualizar la responsabilidad».",
+      "schema:articleBody": "El 5 de octubre de 2026 Confilegal recogió la ponencia «La respuesta penal frente a los delitos mediante IA» de Joaquín Delgado Martín, magistrado de la Sala de lo Penal de la Audiencia Nacional, en las XX Jornadas de Documentos Jurídico-Psiquiátricos. Su tesis: la IA hace que delinquir sea más barato, más rápido y mucho más escalable. La mayoría de los ciberdelitos sigue entrando por social engineering (ingeniería social), y la IA lo automatiza y personaliza: chatbots que se hacen pasar por personas, voces sintéticas de familiares, deepfakes de Pedro Sánchez o Alberto Núñez Feijóo promocionando criptomonedas y anuncios fraudulentos dirigidos a personas mayores identificadas como vulnerables. Habló de una «democratización» del acceso: más atacantes potenciales, menos tiempo y menos coste por operación. El punto jurídico más difícil, dijo, llega con los AI agents (agentes de IA) que deciden y cambian su comportamiento durante la tarea: «cuanto más autónomo en funcionamiento sea el sistema de inteligencia artificial, más difícil es individualizar la responsabilidad».\n\nPara penalistas, compliance officers y proveedores de agentes, la pregunta deja de ser teórica: ¿responde el programador, la empresa que comercializa el sistema, quien lo usa o quien lo pone en marcha? Delgado llegó a plantear, como reflexión de futuro, una «personalidad robótica» inspirada en la responsabilidad penal de las personas jurídicas. En la práctica, eso empuja hacia la lógica de prevención del art. 31 bis del Código Penal: registros, supervisión humana documentada y límites de autonomía como prueba de diligencia debida. Para despachos y empresas que despliegan agentes sobre datos de clientes, el audit trail (rastro de auditoría) ya no es solo un requisito del AI Act: es la defensa si el agente hace algo que nadie previó.",
+      "sota:type": "opinion",
+      "sota:sotaScore": 7.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Magistrado de la Audiencia Nacional sobre responsabilidad penal y agentes de IA autónomos.",
+      "sota:whyNow": "Confilegal 5 Oct 2026 (ponencia del sábado 3 Oct). NEW.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "derecho-penal",
+        "agentes-ia",
+        "deepfakes",
+        "ingenieria-social",
+        "responsabilidad"
+      ],
+      "sota:summaryP1": "El 5 de octubre de 2026 Confilegal recogió la ponencia «La respuesta penal frente a los delitos mediante IA» de Joaquín Delgado Martín, magistrado de la Sala de lo Penal de la Audiencia Nacional, en las XX Jornadas de Documentos Jurídico-Psiquiátricos. Su tesis: la IA hace que delinquir sea más barato, más rápido y mucho más escalable. La mayoría de los ciberdelitos sigue entrando por social engineering (ingeniería social), y la IA lo automatiza y personaliza: chatbots que se hacen pasar por personas, voces sintéticas de familiares, deepfakes de Pedro Sánchez o Alberto Núñez Feijóo promocionando criptomonedas y anuncios fraudulentos dirigidos a personas mayores identificadas como vulnerables. Habló de una «democratización» del acceso: más atacantes potenciales, menos tiempo y menos coste por operación. El punto jurídico más difícil, dijo, llega con los AI agents (agentes de IA) que deciden y cambian su comportamiento durante la tarea: «cuanto más autónomo en funcionamiento sea el sistema de inteligencia artificial, más difícil es individualizar la responsabilidad».",
+      "sota:summaryP2": "Para penalistas, compliance officers y proveedores de agentes, la pregunta deja de ser teórica: ¿responde el programador, la empresa que comercializa el sistema, quien lo usa o quien lo pone en marcha? Delgado llegó a plantear, como reflexión de futuro, una «personalidad robótica» inspirada en la responsabilidad penal de las personas jurídicas. En la práctica, eso empuja hacia la lógica de prevención del art. 31 bis del Código Penal: registros, supervisión humana documentada y límites de autonomía como prueba de diligencia debida. Para despachos y empresas que despliegan agentes sobre datos de clientes, el audit trail (rastro de auditoría) ya no es solo un requisito del AI Act: es la defensa si el agente hace algo que nadie previó.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261005-joaquin-delgado-inteligencia-artificial-delitos-respuesta-penal/",
+          "schema:name": "El magistrado Delgado advierte: la inteligencia artificial multiplica el delito y desdibuja quién debe responder penalmente",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-audiencia-nacional"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-wolters-kluwer-libra-lex",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-wolters-kluwer-libra-lex",
+      "schema:headline": "Wolters Kluwer lleva Libra a LEX en Polonia: la IA jurídica entra en la herramienta de investigación con un add-in",
+      "schema:datePublished": "2026-10-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 1 de octubre de 2026 Wolters Kluwer Legal & Regulatory anunció en Varsovia la siguiente fase de integración entre LEX, el sistema de información jurídica de referencia en Polonia, y Libra by Wolters Kluwer, su legal AI workspace (espacio de trabajo con IA jurídica). Tras integrar primero el contenido de LEX dentro de Libra, ahora los profesionales pueden usar capacidades seleccionadas de Libra directamente en su flujo de investigación en LEX mediante el Libra LEX Add-in (complemento). Marcin Kleina, managing director para Polonia y Rumanía, lo resumió así: «Legal professionals do not need another standalone AI tool». Viktor von Essen, CEO de Libra, describe una experiencia en dos sentidos entre research (investigación), análisis, drafting (redacción) y trabajo del asunto, sin salir de la plataforma.",
+      "schema:articleBody": "El 1 de octubre de 2026 Wolters Kluwer Legal & Regulatory anunció en Varsovia la siguiente fase de integración entre LEX, el sistema de información jurídica de referencia en Polonia, y Libra by Wolters Kluwer, su legal AI workspace (espacio de trabajo con IA jurídica). Tras integrar primero el contenido de LEX dentro de Libra, ahora los profesionales pueden usar capacidades seleccionadas de Libra directamente en su flujo de investigación en LEX mediante el Libra LEX Add-in (complemento). Marcin Kleina, managing director para Polonia y Rumanía, lo resumió así: «Legal professionals do not need another standalone AI tool». Viktor von Essen, CEO de Libra, describe una experiencia en dos sentidos entre research (investigación), análisis, drafting (redacción) y trabajo del asunto, sin salir de la plataforma.\n\nPara el mercado editorial jurídico, la señal es el patrón «contenido de confianza + IA dentro del flujo», el mismo que en España persiguen editoriales como Tirant o Lefebvre con sus asistentes: la ventaja competitiva no es el modelo, sino el corpus y el lugar donde el abogado ya trabaja. Para compradores, conviene preguntar qué funciones de Libra llegan al add-in (el anuncio habla de capacidades «seleccionadas», no de todas), cómo se citan las fuentes de LEX en las respuestas y qué datos del usuario salen del entorno. Para vendors independientes, cada integración bidireccional de una editorial reduce el espacio de las herramientas standalone (independientes).",
+      "sota:type": "product",
+      "sota:sotaScore": 7.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Gran editorial integra su IA jurídica dentro de la base de investigación líder de un mercado UE.",
+      "sota:whyNow": "Nota de prensa WK 1 Oct 2026. NEW.",
+      "sota:geo": [
+        "PL",
+        "EU"
+      ],
+      "sota:topics": [
+        "wolters-kluwer",
+        "libra",
+        "lex",
+        "investigacion-juridica",
+        "editoriales"
+      ],
+      "sota:summaryP1": "El 1 de octubre de 2026 Wolters Kluwer Legal & Regulatory anunció en Varsovia la siguiente fase de integración entre LEX, el sistema de información jurídica de referencia en Polonia, y Libra by Wolters Kluwer, su legal AI workspace (espacio de trabajo con IA jurídica). Tras integrar primero el contenido de LEX dentro de Libra, ahora los profesionales pueden usar capacidades seleccionadas de Libra directamente en su flujo de investigación en LEX mediante el Libra LEX Add-in (complemento). Marcin Kleina, managing director para Polonia y Rumanía, lo resumió así: «Legal professionals do not need another standalone AI tool». Viktor von Essen, CEO de Libra, describe una experiencia en dos sentidos entre research (investigación), análisis, drafting (redacción) y trabajo del asunto, sin salir de la plataforma.",
+      "sota:summaryP2": "Para el mercado editorial jurídico, la señal es el patrón «contenido de confianza + IA dentro del flujo», el mismo que en España persiguen editoriales como Tirant o Lefebvre con sus asistentes: la ventaja competitiva no es el modelo, sino el corpus y el lugar donde el abogado ya trabaja. Para compradores, conviene preguntar qué funciones de Libra llegan al add-in (el anuncio habla de capacidades «seleccionadas», no de todas), cómo se citan las fuentes de LEX en las respuestas y qué datos del usuario salen del entorno. Para vendors independientes, cada integración bidireccional de una editorial reduce el espacio de las herramientas standalone (independientes).",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland",
+          "schema:name": "Wolters Kluwer expands LEX and Libra integration in Poland by making Libra AI capabilities directly available in LEX",
+          "sota:sourceId": "src-wolters-kluwer-future-ready-lawyer-survey"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wolters-kluwer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-libra"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-km-bajo-it-chief-ai-officer",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-km-bajo-it-chief-ai-officer",
+      "schema:headline": "Firmas que compraron IA y ahora pliegan KM bajo IT: Ryan McClead (3 Geeks) alerta de la ola de Chief AI Officers",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026 Ryan McClead escribió en 3 Geeks and a Law Blog que, en las últimas semanas, todos sus clientes con función de KM (knowledge management, gestión del conocimiento) han iniciado una reorganización parecida: los equipos de KM, de Innovation o ambos pasan a un grupo de IA liderado por IT, a menudo bajo un Chief AI Officer recién nombrado; colegas de otras firmas le describen lo mismo. Atribuye el giro a cuatro fuerzas: el gasto en IA ya es tan grande que la dirección quiere un único responsable; los contratos de la primera ola de herramientas llegan a su renewal (renovación) y a su primer análisis de ROI, difícil de demostrar en un negocio que factura por horas; es temporada de presupuestos; y las firmas se imitan entre sí. Su conclusión: los vendors han ganado una prórroga y quien paga es el champion (impulsor) interno que eligió la herramienta.",
+      "schema:articleBody": "El 2 de octubre de 2026 Ryan McClead escribió en 3 Geeks and a Law Blog que, en las últimas semanas, todos sus clientes con función de KM (knowledge management, gestión del conocimiento) han iniciado una reorganización parecida: los equipos de KM, de Innovation o ambos pasan a un grupo de IA liderado por IT, a menudo bajo un Chief AI Officer recién nombrado; colegas de otras firmas le describen lo mismo. Atribuye el giro a cuatro fuerzas: el gasto en IA ya es tan grande que la dirección quiere un único responsable; los contratos de la primera ola de herramientas llegan a su renewal (renovación) y a su primer análisis de ROI, difícil de demostrar en un negocio que factura por horas; es temporada de presupuestos; y las firmas se imitan entre sí. Su conclusión: los vendors han ganado una prórroga y quien paga es el champion (impulsor) interno que eligió la herramienta.\n\nPara socios directores y CIOs, el aviso es de diseño organizativo: la IA rinde según el conocimiento de la firma que recibe (precedentes, plantillas, know-how), y ese trabajo es de KM, no de compras. McClead lo resume en una frase: «KM is how firms know what they know». Para despachos en España que están nombrando responsables de IA, la pregunta práctica es quién mantiene los repositorios curados y la taxonomía que alimentan las herramientas. Para vendors, el riesgo de renovación no desaparece: solo se aplaza hasta que alguien pregunte en el comité qué se obtuvo por el dinero. Es la observación de un consultor con su cartera de clientes, no una encuesta, y él mismo lo advierte.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Reorganización KM→IT bajo CAIO en firmas tras la primera ola de compras de IA.",
+      "sota:whyNow": "3 Geeks 2 Oct 2026. NEW.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "knowledge-management",
+        "chief-ai-officer",
+        "roi",
+        "law-firms"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026 Ryan McClead escribió en 3 Geeks and a Law Blog que, en las últimas semanas, todos sus clientes con función de KM (knowledge management, gestión del conocimiento) han iniciado una reorganización parecida: los equipos de KM, de Innovation o ambos pasan a un grupo de IA liderado por IT, a menudo bajo un Chief AI Officer recién nombrado; colegas de otras firmas le describen lo mismo. Atribuye el giro a cuatro fuerzas: el gasto en IA ya es tan grande que la dirección quiere un único responsable; los contratos de la primera ola de herramientas llegan a su renewal (renovación) y a su primer análisis de ROI, difícil de demostrar en un negocio que factura por horas; es temporada de presupuestos; y las firmas se imitan entre sí. Su conclusión: los vendors han ganado una prórroga y quien paga es el champion (impulsor) interno que eligió la herramienta.",
+      "sota:summaryP2": "Para socios directores y CIOs, el aviso es de diseño organizativo: la IA rinde según el conocimiento de la firma que recibe (precedentes, plantillas, know-how), y ese trabajo es de KM, no de compras. McClead lo resume en una frase: «KM is how firms know what they know». Para despachos en España que están nombrando responsables de IA, la pregunta práctica es quién mantiene los repositorios curados y la taxonomía que alimentan las herramientas. Para vendors, el riesgo de renovación no desaparece: solo se aplaza hasta que alguien pregunte en el comité qué se obtuvo por el dinero. Es la observación de un consultor con su cartera de clientes, no una encuesta, y él mismo lo advierte.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.geeklawblog.com/2026/10/bought-ai-then-benched-km.html",
+          "schema:name": "Firms Bought the AI. Then They Benched KM.",
+          "sota:sourceId": "src-3-geeks-and-a-law-blog"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-3-geeks-and-a-law-blog"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-relfest-jueces-alucinaciones",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-relfest-jueces-alucinaciones",
+      "schema:headline": "Jueces en RelFest: las hallucinations (alucinaciones) de la IA son «un numerador sin denominador» y piden reconocer el error antes que castigar por defecto",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026 Above the Law relató el panel judicial que Relativity organiza desde hace 13 años en RelFest Chicago, con jueces de referencia en IA y eDiscovery. Se habló de uso judicial de IA, formación, aplicación del privilege (privilegio) a prompts y consultas, y eDiscovery, pero lo que destacó el autor fue el tratamiento de las hallucinations (alucinaciones). El juez Matthewman propuso partir de «we all make mistakes»: si se cita un caso inventado, reconocerlo, avisar a todas las partes, retirar el escrito y ofrecer pagar los costes de la contraparte. La jueza Goddard habló de una «ilusión de frecuencia»: frente a los millones de escritos anuales, los que contienen citas falsas son pocos, «a numerator without a denominator», y los jueces creen que su número ya está bajando. Ese mismo día, eDiscovery Today cifraba en 2.125 los casos de alucinaciones de IA registrados.",
+      "schema:articleBody": "El 2 de octubre de 2026 Above the Law relató el panel judicial que Relativity organiza desde hace 13 años en RelFest Chicago, con jueces de referencia en IA y eDiscovery. Se habló de uso judicial de IA, formación, aplicación del privilege (privilegio) a prompts y consultas, y eDiscovery, pero lo que destacó el autor fue el tratamiento de las hallucinations (alucinaciones). El juez Matthewman propuso partir de «we all make mistakes»: si se cita un caso inventado, reconocerlo, avisar a todas las partes, retirar el escrito y ofrecer pagar los costes de la contraparte. La jueza Goddard habló de una «ilusión de frecuencia»: frente a los millones de escritos anuales, los que contienen citas falsas son pocos, «a numerator without a denominator», y los jueces creen que su número ya está bajando. Ese mismo día, eDiscovery Today cifraba en 2.125 los casos de alucinaciones de IA registrados.\n\nPara litigantes, el mensaje no rebaja la obligación: verificar cada cita sigue siendo innegociable, y el propio autor admite que hoy revisaría todas. Lo que cambia es el tono esperable de los tribunales: proporcionalidad y valor a la corrección rápida frente al castigo automático. El artículo recuerda el Comment 8 de la ABA Model Rule 1.1: la competencia tecnológica incluye conocer los beneficios, no solo los riesgos, y renunciar a la IA por miedo también puede perjudicar al cliente. Para despachos en España, la pauta útil es tener un protocolo de rectificación: quién detecta el error, cómo se comunica al juzgado y a la contraparte y qué se documenta.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Visión judicial matizada sobre alucinaciones (proporcionalidad, rectificación).",
+      "sota:whyNow": "ATL 2 Oct 2026 (RelFest Chicago); dato eDiscovery Today 2 Oct. NEW (distinto de RelFest producto/claiR).",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "alucinaciones",
+        "tribunales",
+        "relfest",
+        "citas",
+        "aba-model-rules"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026 Above the Law relató el panel judicial que Relativity organiza desde hace 13 años en RelFest Chicago, con jueces de referencia en IA y eDiscovery. Se habló de uso judicial de IA, formación, aplicación del privilege (privilegio) a prompts y consultas, y eDiscovery, pero lo que destacó el autor fue el tratamiento de las hallucinations (alucinaciones). El juez Matthewman propuso partir de «we all make mistakes»: si se cita un caso inventado, reconocerlo, avisar a todas las partes, retirar el escrito y ofrecer pagar los costes de la contraparte. La jueza Goddard habló de una «ilusión de frecuencia»: frente a los millones de escritos anuales, los que contienen citas falsas son pocos, «a numerator without a denominator», y los jueces creen que su número ya está bajando. Ese mismo día, eDiscovery Today cifraba en 2.125 los casos de alucinaciones de IA registrados.",
+      "sota:summaryP2": "Para litigantes, el mensaje no rebaja la obligación: verificar cada cita sigue siendo innegociable, y el propio autor admite que hoy revisaría todas. Lo que cambia es el tono esperable de los tribunales: proporcionalidad y valor a la corrección rápida frente al castigo automático. El artículo recuerda el Comment 8 de la ABA Model Rule 1.1: la competencia tecnológica incluye conocer los beneficios, no solo los riesgos, y renunciar a la IA por miedo también puede perjudicar al cliente. Para despachos en España, la pauta útil es tener un protocolo de rectificación: quién detecta el error, cómo se comunica al juzgado y a la contraparte y qué se documenta.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abovethelaw.com/2026/10/relfests-judicial-panel-at-last-some-hallucination-perspective/",
+          "schema:name": "RelFest’s Judicial Panel: At Last, Some Hallucination Perspective",
+          "sota:sourceId": "src-above-the-law"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://ediscoverytoday.com/2026/10/02/the-kitchen-sink-for-october-2-2026-legal-tech-trends/",
+          "schema:name": "The Kitchen Sink for October 2, 2026",
+          "sota:sourceId": "src-ediscovery-today"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-relativity"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-notorio-infraestructura-societaria",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-notorio-infraestructura-societaria",
+      "schema:headline": "Notorio: una startup reúne registros societarios, cap table y compliance con revisión asistida por IA para fundadores que entran en EE. UU.",
+      "schema:datePublished": "2026-10-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 2 de octubre de 2026 Legal IT Insider presentó en su Startup Corner a Notorio, fundada en junio de 2025 por Leonardo Lupiano, que estudia Derecho, con Rhet Porter como cofundador. Es una plataforma «founder-first» para gestionar la legal infrastructure (infraestructura jurídica) de una empresa: datos societarios estructurados, gestión documental, compliance workflows (flujos de cumplimiento), cap table (tabla de capitalización) y titularidad, automatización y revisión y orientación con IA en un mismo entorno. Su apuesta es que esas funciones comparten los mismos datos: un cambio de titularidad o una obligación de cumplimiento no se trata como un hecho aislado, y la herramienta ayuda a ver qué hay, qué falta y qué toca hacer. Se dirige sobre todo a fundadores internacionales que quieren implantarse en EE. UU.",
+      "schema:articleBody": "El 2 de octubre de 2026 Legal IT Insider presentó en su Startup Corner a Notorio, fundada en junio de 2025 por Leonardo Lupiano, que estudia Derecho, con Rhet Porter como cofundador. Es una plataforma «founder-first» para gestionar la legal infrastructure (infraestructura jurídica) de una empresa: datos societarios estructurados, gestión documental, compliance workflows (flujos de cumplimiento), cap table (tabla de capitalización) y titularidad, automatización y revisión y orientación con IA en un mismo entorno. Su apuesta es que esas funciones comparten los mismos datos: un cambio de titularidad o una obligación de cumplimiento no se trata como un hecho aislado, y la herramienta ayuda a ver qué hay, qué falta y qué toca hacer. Se dirige sobre todo a fundadores internacionales que quieren implantarse en EE. UU.\n\nPara abogados de startups y de mercantil, Notorio ilustra una tendencia: software jurídico construido para el cliente y no para el abogado, que absorbe el mantenimiento societario recurrente (libros, filings, acuerdos) que antes era trabajo facturable. La IA se plantea sobre los registros reales de la empresa y no como un chatbot que redacta contratos, lo que la hace más útil y también más sensible: quien la adopte debe preguntar dónde se alojan los datos societarios, quién responde de una orientación de cumplimiento errónea y cuándo se deriva el asunto a un abogado. Para despachos en España con clientes que dan el salto a EE. UU., puede ser competidor o canal: la diferencia la marcará quién aporta el criterio jurídico encima de los datos ordenados.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "LegalTech B2C/B2B para fundadores: infraestructura societaria + IA sobre datos reales.",
+      "sota:whyNow": "Legal IT Insider Startup Corner 2 Oct 2026. NEW.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "startups",
+        "corporate",
+        "cap-table",
+        "compliance",
+        "notorio"
+      ],
+      "sota:summaryP1": "El 2 de octubre de 2026 Legal IT Insider presentó en su Startup Corner a Notorio, fundada en junio de 2025 por Leonardo Lupiano, que estudia Derecho, con Rhet Porter como cofundador. Es una plataforma «founder-first» para gestionar la legal infrastructure (infraestructura jurídica) de una empresa: datos societarios estructurados, gestión documental, compliance workflows (flujos de cumplimiento), cap table (tabla de capitalización) y titularidad, automatización y revisión y orientación con IA en un mismo entorno. Su apuesta es que esas funciones comparten los mismos datos: un cambio de titularidad o una obligación de cumplimiento no se trata como un hecho aislado, y la herramienta ayuda a ver qué hay, qué falta y qué toca hacer. Se dirige sobre todo a fundadores internacionales que quieren implantarse en EE. UU.",
+      "sota:summaryP2": "Para abogados de startups y de mercantil, Notorio ilustra una tendencia: software jurídico construido para el cliente y no para el abogado, que absorbe el mantenimiento societario recurrente (libros, filings, acuerdos) que antes era trabajo facturable. La IA se plantea sobre los registros reales de la empresa y no como un chatbot que redacta contratos, lo que la hace más útil y también más sensible: quien la adopte debe preguntar dónde se alojan los datos societarios, quién responde de una orientación de cumplimiento errónea y cuándo se deriva el asunto a un abogado. Para despachos en España con clientes que dan el salto a EE. UU., puede ser competidor o canal: la diferencia la marcará quién aporta el criterio jurídico encima de los datos ordenados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/startup-corner-notorio-one-place-to-organise-your-legal-business/",
+          "schema:name": "Startup Corner: Notorio – One place to organise your legal business",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-notorio"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-lcm-run-off",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-lcm-run-off",
+      "schema:headline": "Litigation Capital Management entra en run-off (cierre ordenado) tras perder siete de sus ocho últimos casos y 87 M£",
+      "schema:datePublished": "2026-10-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 4 de octubre de 2026 Legal Futures informó de que Litigation Capital Management (LCM), financiador de litigios de origen australiano que cotiza en el AIM de Londres desde 2018, entra en «orderly run-off» (cierre ordenado de cartera): no hará nuevas inversiones, gestionará las existentes hasta su conclusión y destinará la caja a devolver la línea de deuda de Northleaf Capital Partners antes que a los accionistas. En el ejercicio cerrado a 30 de junio concluyeron ocho inversiones, con siete pérdidas y una victoria; LCM registró pérdidas netas de 64 M A$ (34 M£) en inversiones concluidas y una pérdida tras impuestos de 166 M A$ (87 M£). La revisión estratégica abierta hace un año terminó sin transacción. Northleaf amplía la línea de 100 a 125 M US$ con vencimiento en 2030, pero los administradores advierten de un riesgo de going concern (continuidad).",
+      "schema:articleBody": "El 4 de octubre de 2026 Legal Futures informó de que Litigation Capital Management (LCM), financiador de litigios de origen australiano que cotiza en el AIM de Londres desde 2018, entra en «orderly run-off» (cierre ordenado de cartera): no hará nuevas inversiones, gestionará las existentes hasta su conclusión y destinará la caja a devolver la línea de deuda de Northleaf Capital Partners antes que a los accionistas. En el ejercicio cerrado a 30 de junio concluyeron ocho inversiones, con siete pérdidas y una victoria; LCM registró pérdidas netas de 64 M A$ (34 M£) en inversiones concluidas y una pérdida tras impuestos de 166 M A$ (87 M£). La revisión estratégica abierta hace un año terminó sin transacción. Northleaf amplía la línea de 100 a 125 M US$ con vencimiento en 2030, pero los administradores advierten de un riesgo de going concern (continuidad).\n\nPara litigantes y financiadores, el caso muestra el riesgo de concentración: mucho capital comprometido en pocos asuntos que acabaron mal, con una condena en costas (adverse costs award) no asegurada en uno y un ATE insurance (seguro after-the-event) insuficiente en otro. Para despachos que trabajan con third-party funding (financiación de terceros), la diligencia sobre el financiador importa tanto como la del asunto: solvencia, quién controla la caja y qué ocurre con los compromisos pendientes (a 30 de junio, LCM tenía 37 casos con 122 M A$ invertidos y 102 M A$ comprometidos). En España, donde la financiación de litigios crece sin regulación específica, conviene revisar en los contratos las cláusulas de sustitución del financiador y de cobertura de costas.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Financiador cotizado entra en run-off: señal de riesgo en litigation funding.",
+      "sota:whyNow": "Legal Futures 4 Oct 2026 (resultados FY26). NEW.",
+      "sota:geo": [
+        "UK",
+        "AU"
+      ],
+      "sota:topics": [
+        "litigation-funding",
+        "lcm",
+        "mercado-legal"
+      ],
+      "sota:summaryP1": "El 4 de octubre de 2026 Legal Futures informó de que Litigation Capital Management (LCM), financiador de litigios de origen australiano que cotiza en el AIM de Londres desde 2018, entra en «orderly run-off» (cierre ordenado de cartera): no hará nuevas inversiones, gestionará las existentes hasta su conclusión y destinará la caja a devolver la línea de deuda de Northleaf Capital Partners antes que a los accionistas. En el ejercicio cerrado a 30 de junio concluyeron ocho inversiones, con siete pérdidas y una victoria; LCM registró pérdidas netas de 64 M A$ (34 M£) en inversiones concluidas y una pérdida tras impuestos de 166 M A$ (87 M£). La revisión estratégica abierta hace un año terminó sin transacción. Northleaf amplía la línea de 100 a 125 M US$ con vencimiento en 2030, pero los administradores advierten de un riesgo de going concern (continuidad).",
+      "sota:summaryP2": "Para litigantes y financiadores, el caso muestra el riesgo de concentración: mucho capital comprometido en pocos asuntos que acabaron mal, con una condena en costas (adverse costs award) no asegurada en uno y un ATE insurance (seguro after-the-event) insuficiente en otro. Para despachos que trabajan con third-party funding (financiación de terceros), la diligencia sobre el financiador importa tanto como la del asunto: solvencia, quién controla la caja y qué ocurre con los compromisos pendientes (a 30 de junio, LCM tenía 37 casos con 122 M A$ invertidos y 102 M A$ comprometidos). En España, donde la financiación de litigios crece sin regulación específica, conviene revisar en los contratos las cláusulas de sustitución del financiador y de cobertura de costas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/listed-litigation-funder-goes-into-run-off-after-string-of-losses",
+          "schema:name": "Listed litigation funder goes into run-off after string of losses",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lcm"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-northleaf"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-offit-kurman-actionstep",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-offit-kurman-actionstep",
+      "schema:headline": "Offit Kurman demanda a Actionstep: el despacho alega que Practice Pro Plus no se integraba con su stack tecnológico como se prometió",
+      "schema:datePublished": "2026-09-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 30 de septiembre de 2026 Legaltech News (Law.com) informó de que Offit Kurman, despacho con sede en Maryland, ha demandado al proveedor de software de practice management (gestión del despacho) Actionstep, con sede en Colorado. El despacho alega que la oferta Practice Pro Plus (PPP) no se integró, como se había anunciado, con varios proveedores de su stack tecnológico. La demanda se presentó el 22 de septiembre ante el Circuit Court for Montgomery County (Maryland), y Offit Kurman pide la cancelación del contrato plurianual y la devolución de lo pagado.",
+      "schema:articleBody": "El 30 de septiembre de 2026 Legaltech News (Law.com) informó de que Offit Kurman, despacho con sede en Maryland, ha demandado al proveedor de software de practice management (gestión del despacho) Actionstep, con sede en Colorado. El despacho alega que la oferta Practice Pro Plus (PPP) no se integró, como se había anunciado, con varios proveedores de su stack tecnológico. La demanda se presentó el 22 de septiembre ante el Circuit Court for Montgomery County (Maryland), y Offit Kurman pide la cancelación del contrato plurianual y la devolución de lo pagado.\n\nPara COOs y responsables de IT de despachos, es un recordatorio de que «se integra con» en una demo no es una obligación contractual si no se especifica: qué sistemas, qué datos, en qué dirección, con qué SLA (acuerdo de nivel de servicio) y qué remedios si falla. En un mercado donde casi todos los proveedores venden conectores e IA encima del practice management, llevar las promesas de integración al anexo técnico y vincular los pagos a su aceptación evita acabar en un juzgado. Para vendors, el riesgo reputacional de un litigio con un despacho cliente es alto: es el tipo de comprador que sabe demandar, y la disputa queda a la vista en la prensa sectorial.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 7.1,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Despacho litiga contra su vendor de practice management por integraciones incumplidas.",
+      "sota:whyNow": "Law.com 30 Sep 2026; no publicado como evento en PASS previos (missed). NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "practice-management",
+        "integraciones",
+        "contratos-software",
+        "actionstep"
+      ],
+      "sota:summaryP1": "El 30 de septiembre de 2026 Legaltech News (Law.com) informó de que Offit Kurman, despacho con sede en Maryland, ha demandado al proveedor de software de practice management (gestión del despacho) Actionstep, con sede en Colorado. El despacho alega que la oferta Practice Pro Plus (PPP) no se integró, como se había anunciado, con varios proveedores de su stack tecnológico. La demanda se presentó el 22 de septiembre ante el Circuit Court for Montgomery County (Maryland), y Offit Kurman pide la cancelación del contrato plurianual y la devolución de lo pagado.",
+      "sota:summaryP2": "Para COOs y responsables de IT de despachos, es un recordatorio de que «se integra con» en una demo no es una obligación contractual si no se especifica: qué sistemas, qué datos, en qué dirección, con qué SLA (acuerdo de nivel de servicio) y qué remedios si falla. En un mercado donde casi todos los proveedores venden conectores e IA encima del practice management, llevar las promesas de integración al anexo técnico y vincular los pagos a su aceptación evita acabar en un juzgado. Para vendors, el riesgo reputacional de un litigio con un despacho cliente es alto: es el tipo de comprador que sabe demandar, y la disputa queda a la vista en la prensa sectorial.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/09/30/offit-kurman-sues-actionstep-over-alleged-integration-incompatibility/",
+          "schema:name": "Offit Kurman Sues Actionstep Over Alleged Integration Incompatibility",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-offit-kurman"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-actionstep"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-05-dsw-legal-apex",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-05-dsw-legal-apex",
+      "schema:headline": "DSW Legal suma su primer despacho licenciatario: Apex Employment Solicitors entra en la red del grupo cotizado Dow Schofield Watts",
+      "schema:datePublished": "2026-10-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 4 de octubre de 2026 Legal Futures informó de que Apex Employment Solicitors (Maidstone) es el primer despacho que se convierte en licenciatario de DSW Legal, brazo jurídico del grupo de servicios profesionales Dow Schofield Watts (DSW), cotizado en el AIM. Operará como DSW Apex, con su fundadora, Joanna Gooden, como socia y responsable de laboral de DSW Legal. DSW funciona con un modelo de licencia: su red de 27 licenciatarios, con unos 150 fee-earners (profesionales que facturan) en 12 oficinas del Reino Unido, puede usar la marca, los servicios de back-office y la red del grupo. DSW Capital entró en el mercado jurídico en noviembre de 2024 con la compra de DR Solicitors por 6,1 M£ y lanzó la marca DSW Legal en mayo. Apex aspira a superar los diez senior associates en tres años.",
+      "schema:articleBody": "El 4 de octubre de 2026 Legal Futures informó de que Apex Employment Solicitors (Maidstone) es el primer despacho que se convierte en licenciatario de DSW Legal, brazo jurídico del grupo de servicios profesionales Dow Schofield Watts (DSW), cotizado en el AIM. Operará como DSW Apex, con su fundadora, Joanna Gooden, como socia y responsable de laboral de DSW Legal. DSW funciona con un modelo de licencia: su red de 27 licenciatarios, con unos 150 fee-earners (profesionales que facturan) en 12 oficinas del Reino Unido, puede usar la marca, los servicios de back-office y la red del grupo. DSW Capital entró en el mercado jurídico en noviembre de 2024 con la compra de DR Solicitors por 6,1 M£ y lanzó la marca DSW Legal en mayo. Apex aspira a superar los diez senior associates en tres años.\n\nPara socios de despachos pequeños y medianos, es otro formato de consolidación sin fusión: independencia en el día a día a cambio de marca, back-office y acceso a clientes del grupo, en paralelo a las compras de firmas por plataformas con capital privado. Para España, donde la Ley de Sociedades Profesionales limita la entrada de capital de no profesionales en los despachos, la comparación útil es con las redes y franquicias de servicios jurídicos: la clave es quién controla la relación con el cliente y quién asume el riesgo deontológico cuando la marca es compartida. Para vendors de software de gestión, estas redes compran en bloque y estandarizan herramientas entre licenciatarios.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Modelo de licencia de un grupo cotizado entra en despachos UK.",
+      "sota:whyNow": "Legal Futures 4 Oct 2026. NEW.",
+      "sota:geo": [
+        "UK"
+      ],
+      "sota:topics": [
+        "despachos",
+        "consolidacion",
+        "modelo-licencia",
+        "dsw"
+      ],
+      "sota:summaryP1": "El 4 de octubre de 2026 Legal Futures informó de que Apex Employment Solicitors (Maidstone) es el primer despacho que se convierte en licenciatario de DSW Legal, brazo jurídico del grupo de servicios profesionales Dow Schofield Watts (DSW), cotizado en el AIM. Operará como DSW Apex, con su fundadora, Joanna Gooden, como socia y responsable de laboral de DSW Legal. DSW funciona con un modelo de licencia: su red de 27 licenciatarios, con unos 150 fee-earners (profesionales que facturan) en 12 oficinas del Reino Unido, puede usar la marca, los servicios de back-office y la red del grupo. DSW Capital entró en el mercado jurídico en noviembre de 2024 con la compra de DR Solicitors por 6,1 M£ y lanzó la marca DSW Legal en mayo. Apex aspira a superar los diez senior associates en tres años.",
+      "sota:summaryP2": "Para socios de despachos pequeños y medianos, es otro formato de consolidación sin fusión: independencia en el día a día a cambio de marca, back-office y acceso a clientes del grupo, en paralelo a las compras de firmas por plataformas con capital privado. Para España, donde la Ley de Sociedades Profesionales limita la entrada de capital de no profesionales en los despachos, la comparación útil es con las redes y franquicias de servicios jurídicos: la clave es quién controla la relación con el cliente y quién asume el riesgo deontológico cuando la marca es compartida. Para vendors de software de gestión, estas redes compran en bloque y estandarizan herramientas entre licenciatarios.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/aim-listed-professional-services-group-attracts-first-law-firm-licensee",
+          "schema:name": "AIM-listed professional services group attracts first law firm licensee",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dsw-capital"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-3-geeks-and-a-law-blog",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-3-geeks-and-a-law-blog",
+      "schema:name": "3 Geeks and a Law Blog",
+      "sota:entityType": "media",
+      "schema:url": "https://www.geeklawblog.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-actionstep",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-actionstep",
+      "schema:name": "Actionstep",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.actionstep.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-audiencia-nacional",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-audiencia-nacional",
+      "schema:name": "Audiencia Nacional",
+      "sota:entityType": "government",
+      "schema:url": "https://www.poderjudicial.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-comision-europea",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-comision-europea",
+      "schema:name": "Comisión Europea",
+      "sota:entityType": "government",
+      "schema:url": "https://commission.europa.eu/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dsw-capital",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-dsw-capital",
+      "schema:name": "DSW Capital (Dow Schofield Watts)",
+      "sota:entityType": "company",
+      "schema:url": "https://www.legalfutures.co.uk/latest-news/aim-listed-professional-services-group-attracts-first-law-firm-licensee",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ftc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ftc",
+      "schema:name": "Federal Trade Commission",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.ftc.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gobierno-eeuu",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-gobierno-eeuu",
+      "schema:name": "Gobierno de EE. UU. (Casa Blanca)",
+      "sota:entityType": "government",
+      "schema:url": "https://www.whitehouse.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-kids-act",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-kids-act",
+      "schema:name": "KIDS Act (propuesta UE)",
+      "sota:entityType": "other",
+      "schema:url": "https://www.lto.de/recht/hintergruende/h/kids-act-eu-kommission-will-kinder-vor-ki-freunden-schuetzen",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lcm",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lcm",
+      "schema:name": "Litigation Capital Management",
+      "sota:entityType": "company",
+      "schema:url": "https://www.legalfutures.co.uk/latest-news/listed-litigation-funder-goes-into-run-off-after-string-of-losses",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-libra",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-libra",
+      "schema:name": "Libra by Wolters Kluwer",
+      "sota:entityType": "product",
+      "schema:url": "https://www.wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-northleaf",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-northleaf",
+      "schema:name": "Northleaf Capital Partners",
+      "sota:entityType": "company",
+      "schema:url": "https://www.northleafcapital.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-notorio",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-notorio",
+      "schema:name": "Notorio",
+      "sota:entityType": "company",
+      "schema:url": "https://legaltechnology.com/startup-corner-notorio-one-place-to-organise-your-legal-business/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-offit-kurman",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-offit-kurman",
+      "schema:name": "Offit Kurman",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.offitkurman.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-relativity",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-relativity",
+      "schema:name": "Relativity",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.relativity.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wolters-kluwer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-wolters-kluwer",
+      "schema:name": "Wolters Kluwer",
+      "sota:entityType": "company",
+      "schema:url": "https://www.wolterskluwer.com/",
+      "sota:stub": true
+    }
+  ]
+}

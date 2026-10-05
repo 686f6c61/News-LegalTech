@@ -1,0 +1,10 @@
+id: ent-comision-europea
+name: Comisión Europea
+type: government
+url: https://commission.europa.eu/
+geo:
+- EU
+aliases:
+- European Commission
+notes: Propone el KIDS Act (17 Sep 2026). Ficha mínima.
+stub: true

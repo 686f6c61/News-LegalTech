@@ -1,0 +1,69 @@
+scan_id: full-radar-2026-10-05
+date: '2026-10-05'
+release: 05.10.26
+count: 10
+ai_share: 0.7
+dedup_against: events/2026-09-29 + 2026-09-30 + 2026-10-01 + 2026-10-02 + 2026-10-03
+  + 2026-10-04 + scans PASS
+event_ids:
+- evt-2026-10-05-kids-act-chatbots
+- evt-2026-10-05-trump-super-intelligence-force
+- evt-2026-10-05-delgado-ia-responsabilidad-penal
+- evt-2026-10-05-wolters-kluwer-libra-lex
+- evt-2026-10-05-km-bajo-it-chief-ai-officer
+- evt-2026-10-05-relfest-jueces-alucinaciones
+- evt-2026-10-05-notorio-infraestructura-societaria
+- evt-2026-10-05-lcm-run-off
+- evt-2026-10-05-offit-kurman-actionstep
+- evt-2026-10-05-dsw-legal-apex
+events:
+- id: evt-2026-10-05-kids-act-chatbots
+  sota_score: 8.4
+  ai_legaltech: true
+  title: 'KIDS Act: Bruselas exige rediseñar los chatbots generales y los AI companions
+    (compañeros de IA) si pueden usarlos menores'
+- id: evt-2026-10-05-trump-super-intelligence-force
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Trump crea la «Super Intelligence Force» con Jay Clayton al frente tras un
+    acuerdo voluntario con las grandes de IA
+- id: evt-2026-10-05-delgado-ia-responsabilidad-penal
+  sota_score: 7.9
+  ai_legaltech: true
+  title: 'El magistrado Joaquín Delgado (Audiencia Nacional): la IA abarata el delito
+    y diluye quién responde penalmente cuando actúan agentes autónomos'
+- id: evt-2026-10-05-wolters-kluwer-libra-lex
+  sota_score: 7.7
+  ai_legaltech: true
+  title: 'Wolters Kluwer lleva Libra a LEX en Polonia: la IA jurídica entra en la
+    herramienta de investigación con un add-in'
+- id: evt-2026-10-05-km-bajo-it-chief-ai-officer
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'Firmas que compraron IA y ahora pliegan KM bajo IT: Ryan McClead (3 Geeks)
+    alerta de la ola de Chief AI Officers'
+- id: evt-2026-10-05-relfest-jueces-alucinaciones
+  sota_score: 7.5
+  ai_legaltech: true
+  title: 'Jueces en RelFest: las hallucinations (alucinaciones) de la IA son «un numerador
+    sin denominador» y piden reconocer el error antes que castigar por defecto'
+- id: evt-2026-10-05-notorio-infraestructura-societaria
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'Notorio: una startup reúne registros societarios, cap table y compliance
+    con revisión asistida por IA para fundadores que entran en EE. UU.'
+- id: evt-2026-10-05-lcm-run-off
+  sota_score: 7.3
+  ai_legaltech: false
+  title: Litigation Capital Management entra en run-off (cierre ordenado) tras perder
+    siete de sus ocho últimos casos y 87 M£
+- id: evt-2026-10-05-offit-kurman-actionstep
+  sota_score: 7.1
+  ai_legaltech: false
+  title: 'Offit Kurman demanda a Actionstep: el despacho alega que Practice Pro Plus
+    no se integraba con su stack tecnológico como se prometió'
+- id: evt-2026-10-05-dsw-legal-apex
+  sota_score: 6.8
+  ai_legaltech: false
+  title: 'DSW Legal suma su primer despacho licenciatario: Apex Employment Solicitors
+    entra en la red del grupo cotizado Dow Schofield Watts'

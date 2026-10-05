@@ -1,0 +1,11 @@
+id: ent-ftc
+name: Federal Trade Commission
+type: regulator
+url: https://www.ftc.gov/
+geo:
+- US
+aliases:
+- FTC
+notes: Su presidente, Andrew Ferguson, integra la Super Intelligence Force. Ficha
+  mínima.
+stub: true

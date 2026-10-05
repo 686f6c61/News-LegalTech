@@ -1,0 +1,11 @@
+id: ent-lcm
+name: Litigation Capital Management
+type: company
+url: https://www.legalfutures.co.uk/latest-news/listed-litigation-funder-goes-into-run-off-after-string-of-losses
+geo:
+- UK
+- AU
+aliases:
+- LCM
+notes: Financiador de litigios cotizado en AIM; run-off en Oct 2026. Ficha mínima.
+stub: true

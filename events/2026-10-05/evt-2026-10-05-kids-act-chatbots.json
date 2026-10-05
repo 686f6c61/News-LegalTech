@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-05-kids-act-chatbots",
+  "date": "2026-10-01",
+  "type": "regulation",
+  "sota_score": 8.4,
+  "ai_legaltech": true,
+  "title": "KIDS Act: Bruselas exige rediseñar los chatbots generales y los AI companions (compañeros de IA) si pueden usarlos menores",
+  "summary_p1": "El 1 de octubre de 2026 Legal Tribune Online (LTO) analizó el EU Keeping Internet Digital Spaces Accountable and Trustworthy Act (KIDS Act), que la Comisión Europea propuso el 17 de septiembre. Junto a reglas para redes sociales, app stores, videojuegos y plataformas de vídeo, el borrador introduce por primera vez obligaciones para proveedores de AI companions (compañeros de IA) y de chatbots de propósito general. La definición del art. 3.5.c es muy amplia: cualquier sistema que ofrezca una interacción persistente y personalizada que simule una relación social o emocional, lo que alcanza a Replika, pero también a ChatGPT, Claude, Gemini o DeepSeek; solo quedan fuera los chatbots limitados a una tarea concreta, como el soporte técnico. El art. 14.1 fija seis medidas mínimas de diseño: no simular relaciones que generen dependencia emocional, con pausas que protejan el horario escolar y de sueño; memoria a largo plazo, ubicación, micrófono, cámara y notificaciones push desactivados por defecto; prohibición de recompensas variables y de incentivos al gasto impulsivo; y, para menores de 13 años, parental controls (control parental), pruebas previas al lanzamiento y market monitoring (vigilancia poscomercialización) con respuesta a incidentes graves. Basta con que un menor pueda acceder al sistema.",
+  "summary_p2": "Para in-house de producto, privacidad y compliance, el KIDS Act se suma al AI Act y no lo sustituye: si un producto incluye un chatbot conversacional general (también un asistente jurídico para consumidores con memoria), conviene mapear ya si encaja en la definición y qué parte de la cadena controla la empresa. LTO señala el punto crítico: quien construye sobre un modelo de terceros vía API puede desactivar la memoria o limitar horarios, pero no puede reentrenar la tendencia del modelo a responder con empatía y darle la razón al usuario (sycophancy, complacencia), y una actualización del proveedor puede romper una configuración que ya cumplía. En los contratos con proveedores de modelos, conviene pedir cláusulas de cooperación, aviso previo de cambios de modelo y evidencias de evaluación. Es una propuesta y el texto puede cambiar en el Parlamento y el Consejo, pero el diseño por defecto ya marca la dirección.",
+  "why_sota": "Primera propuesta UE con obligaciones de diseño para chatbots generales frente a menores.",
+  "why_now": "Análisis LTO 1 Oct 2026 de la propuesta del 17 Sep. NEW vs PASS 09-29→10-04.",
+  "geo": [
+    "EU",
+    "DE"
+  ],
+  "topics": [
+    "kids-act",
+    "ai-companions",
+    "chatbots",
+    "menores",
+    "comision-europea"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/hintergruende/h/kids-act-eu-kommission-will-kinder-vor-ki-freunden-schuetzen",
+      "cited_title": "KIDS Act: KI-Anbieter müssen umbauen",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-comision-europea",
+    "ent-kids-act"
+  ],
+  "lang": "es",
+  "status": "published"
+}

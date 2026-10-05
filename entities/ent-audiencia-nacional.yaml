@@ -1,0 +1,10 @@
+id: ent-audiencia-nacional
+name: Audiencia Nacional
+type: government
+url: https://www.poderjudicial.es/
+geo:
+- ES
+aliases: []
+notes: Órgano judicial español; magistrado Joaquín Delgado (Sala de lo Penal). Ficha
+  mínima.
+stub: true

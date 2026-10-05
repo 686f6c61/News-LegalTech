@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-05-notorio-infraestructura-societaria",
+  "date": "2026-10-02",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Notorio: una startup reúne registros societarios, cap table y compliance con revisión asistida por IA para fundadores que entran en EE. UU.",
+  "summary_p1": "El 2 de octubre de 2026 Legal IT Insider presentó en su Startup Corner a Notorio, fundada en junio de 2025 por Leonardo Lupiano, que estudia Derecho, con Rhet Porter como cofundador. Es una plataforma «founder-first» para gestionar la legal infrastructure (infraestructura jurídica) de una empresa: datos societarios estructurados, gestión documental, compliance workflows (flujos de cumplimiento), cap table (tabla de capitalización) y titularidad, automatización y revisión y orientación con IA en un mismo entorno. Su apuesta es que esas funciones comparten los mismos datos: un cambio de titularidad o una obligación de cumplimiento no se trata como un hecho aislado, y la herramienta ayuda a ver qué hay, qué falta y qué toca hacer. Se dirige sobre todo a fundadores internacionales que quieren implantarse en EE. UU.",
+  "summary_p2": "Para abogados de startups y de mercantil, Notorio ilustra una tendencia: software jurídico construido para el cliente y no para el abogado, que absorbe el mantenimiento societario recurrente (libros, filings, acuerdos) que antes era trabajo facturable. La IA se plantea sobre los registros reales de la empresa y no como un chatbot que redacta contratos, lo que la hace más útil y también más sensible: quien la adopte debe preguntar dónde se alojan los datos societarios, quién responde de una orientación de cumplimiento errónea y cuándo se deriva el asunto a un abogado. Para despachos en España con clientes que dan el salto a EE. UU., puede ser competidor o canal: la diferencia la marcará quién aporta el criterio jurídico encima de los datos ordenados.",
+  "why_sota": "LegalTech B2C/B2B para fundadores: infraestructura societaria + IA sobre datos reales.",
+  "why_now": "Legal IT Insider Startup Corner 2 Oct 2026. NEW.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "startups",
+    "corporate",
+    "cap-table",
+    "compliance",
+    "notorio"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/startup-corner-notorio-one-place-to-organise-your-legal-business/",
+      "cited_title": "Startup Corner: Notorio – One place to organise your legal business",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-notorio"
+  ],
+  "lang": "es",
+  "status": "published"
+}

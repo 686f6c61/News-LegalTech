@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-05-lcm-run-off",
+  "date": "2026-10-04",
+  "type": "market",
+  "sota_score": 7.3,
+  "ai_legaltech": false,
+  "title": "Litigation Capital Management entra en run-off (cierre ordenado) tras perder siete de sus ocho últimos casos y 87 M£",
+  "summary_p1": "El 4 de octubre de 2026 Legal Futures informó de que Litigation Capital Management (LCM), financiador de litigios de origen australiano que cotiza en el AIM de Londres desde 2018, entra en «orderly run-off» (cierre ordenado de cartera): no hará nuevas inversiones, gestionará las existentes hasta su conclusión y destinará la caja a devolver la línea de deuda de Northleaf Capital Partners antes que a los accionistas. En el ejercicio cerrado a 30 de junio concluyeron ocho inversiones, con siete pérdidas y una victoria; LCM registró pérdidas netas de 64 M A$ (34 M£) en inversiones concluidas y una pérdida tras impuestos de 166 M A$ (87 M£). La revisión estratégica abierta hace un año terminó sin transacción. Northleaf amplía la línea de 100 a 125 M US$ con vencimiento en 2030, pero los administradores advierten de un riesgo de going concern (continuidad).",
+  "summary_p2": "Para litigantes y financiadores, el caso muestra el riesgo de concentración: mucho capital comprometido en pocos asuntos que acabaron mal, con una condena en costas (adverse costs award) no asegurada en uno y un ATE insurance (seguro after-the-event) insuficiente en otro. Para despachos que trabajan con third-party funding (financiación de terceros), la diligencia sobre el financiador importa tanto como la del asunto: solvencia, quién controla la caja y qué ocurre con los compromisos pendientes (a 30 de junio, LCM tenía 37 casos con 122 M A$ invertidos y 102 M A$ comprometidos). En España, donde la financiación de litigios crece sin regulación específica, conviene revisar en los contratos las cláusulas de sustitución del financiador y de cobertura de costas.",
+  "why_sota": "Financiador cotizado entra en run-off: señal de riesgo en litigation funding.",
+  "why_now": "Legal Futures 4 Oct 2026 (resultados FY26). NEW.",
+  "geo": [
+    "UK",
+    "AU"
+  ],
+  "topics": [
+    "litigation-funding",
+    "lcm",
+    "mercado-legal"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/listed-litigation-funder-goes-into-run-off-after-string-of-losses",
+      "cited_title": "Listed litigation funder goes into run-off after string of losses",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-lcm",
+    "ent-northleaf"
+  ],
+  "lang": "es",
+  "status": "published"
+}

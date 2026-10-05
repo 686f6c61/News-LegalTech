@@ -1,0 +1,10 @@
+id: ent-actionstep
+name: Actionstep
+type: vendor
+url: https://www.actionstep.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Software de practice management; demandado por Offit Kurman. Ficha mínima.
+stub: true

@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-05-wolters-kluwer-libra-lex",
+  "date": "2026-10-01",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "Wolters Kluwer lleva Libra a LEX en Polonia: la IA jurídica entra en la herramienta de investigación con un add-in",
+  "summary_p1": "El 1 de octubre de 2026 Wolters Kluwer Legal & Regulatory anunció en Varsovia la siguiente fase de integración entre LEX, el sistema de información jurídica de referencia en Polonia, y Libra by Wolters Kluwer, su legal AI workspace (espacio de trabajo con IA jurídica). Tras integrar primero el contenido de LEX dentro de Libra, ahora los profesionales pueden usar capacidades seleccionadas de Libra directamente en su flujo de investigación en LEX mediante el Libra LEX Add-in (complemento). Marcin Kleina, managing director para Polonia y Rumanía, lo resumió así: «Legal professionals do not need another standalone AI tool». Viktor von Essen, CEO de Libra, describe una experiencia en dos sentidos entre research (investigación), análisis, drafting (redacción) y trabajo del asunto, sin salir de la plataforma.",
+  "summary_p2": "Para el mercado editorial jurídico, la señal es el patrón «contenido de confianza + IA dentro del flujo», el mismo que en España persiguen editoriales como Tirant o Lefebvre con sus asistentes: la ventaja competitiva no es el modelo, sino el corpus y el lugar donde el abogado ya trabaja. Para compradores, conviene preguntar qué funciones de Libra llegan al add-in (el anuncio habla de capacidades «seleccionadas», no de todas), cómo se citan las fuentes de LEX en las respuestas y qué datos del usuario salen del entorno. Para vendors independientes, cada integración bidireccional de una editorial reduce el espacio de las herramientas standalone (independientes).",
+  "why_sota": "Gran editorial integra su IA jurídica dentro de la base de investigación líder de un mercado UE.",
+  "why_now": "Nota de prensa WK 1 Oct 2026. NEW.",
+  "geo": [
+    "PL",
+    "EU"
+  ],
+  "topics": [
+    "wolters-kluwer",
+    "libra",
+    "lex",
+    "investigacion-juridica",
+    "editoriales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-wolters-kluwer-future-ready-lawyer-survey",
+      "url": "https://www.wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland",
+      "cited_title": "Wolters Kluwer expands LEX and Libra integration in Poland by making Libra AI capabilities directly available in LEX",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-wolters-kluwer",
+    "ent-libra"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,12 @@
+id: ent-dsw-capital
+name: DSW Capital (Dow Schofield Watts)
+type: company
+url: https://www.legalfutures.co.uk/latest-news/aim-listed-professional-services-group-attracts-first-law-firm-licensee
+geo:
+- UK
+aliases:
+- DSW
+- DSW Legal
+notes: Grupo de servicios profesionales cotizado en AIM; modelo de licencia en despachos.
+  Ficha mínima.
+stub: true

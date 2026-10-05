@@ -1,0 +1,41 @@
+{
+  "id": "evt-2026-10-05-relfest-jueces-alucinaciones",
+  "date": "2026-10-02",
+  "type": "market",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Jueces en RelFest: las hallucinations (alucinaciones) de la IA son «un numerador sin denominador» y piden reconocer el error antes que castigar por defecto",
+  "summary_p1": "El 2 de octubre de 2026 Above the Law relató el panel judicial que Relativity organiza desde hace 13 años en RelFest Chicago, con jueces de referencia en IA y eDiscovery. Se habló de uso judicial de IA, formación, aplicación del privilege (privilegio) a prompts y consultas, y eDiscovery, pero lo que destacó el autor fue el tratamiento de las hallucinations (alucinaciones). El juez Matthewman propuso partir de «we all make mistakes»: si se cita un caso inventado, reconocerlo, avisar a todas las partes, retirar el escrito y ofrecer pagar los costes de la contraparte. La jueza Goddard habló de una «ilusión de frecuencia»: frente a los millones de escritos anuales, los que contienen citas falsas son pocos, «a numerator without a denominator», y los jueces creen que su número ya está bajando. Ese mismo día, eDiscovery Today cifraba en 2.125 los casos de alucinaciones de IA registrados.",
+  "summary_p2": "Para litigantes, el mensaje no rebaja la obligación: verificar cada cita sigue siendo innegociable, y el propio autor admite que hoy revisaría todas. Lo que cambia es el tono esperable de los tribunales: proporcionalidad y valor a la corrección rápida frente al castigo automático. El artículo recuerda el Comment 8 de la ABA Model Rule 1.1: la competencia tecnológica incluye conocer los beneficios, no solo los riesgos, y renunciar a la IA por miedo también puede perjudicar al cliente. Para despachos en España, la pauta útil es tener un protocolo de rectificación: quién detecta el error, cómo se comunica al juzgado y a la contraparte y qué se documenta.",
+  "why_sota": "Visión judicial matizada sobre alucinaciones (proporcionalidad, rectificación).",
+  "why_now": "ATL 2 Oct 2026 (RelFest Chicago); dato eDiscovery Today 2 Oct. NEW (distinto de RelFest producto/claiR).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "alucinaciones",
+    "tribunales",
+    "relfest",
+    "citas",
+    "aba-model-rules"
+  ],
+  "sources": [
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/relfests-judicial-panel-at-last-some-hallucination-perspective/",
+      "cited_title": "RelFest’s Judicial Panel: At Last, Some Hallucination Perspective",
+      "accessed": "2026-10-05"
+    },
+    {
+      "source_id": "src-ediscovery-today",
+      "url": "https://ediscoverytoday.com/2026/10/02/the-kitchen-sink-for-october-2-2026-legal-tech-trends/",
+      "cited_title": "The Kitchen Sink for October 2, 2026",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-relativity"
+  ],
+  "lang": "es",
+  "status": "published"
+}

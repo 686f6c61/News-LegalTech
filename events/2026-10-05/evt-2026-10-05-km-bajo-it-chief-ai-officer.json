@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-05-km-bajo-it-chief-ai-officer",
+  "date": "2026-10-02",
+  "type": "market",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Firmas que compraron IA y ahora pliegan KM bajo IT: Ryan McClead (3 Geeks) alerta de la ola de Chief AI Officers",
+  "summary_p1": "El 2 de octubre de 2026 Ryan McClead escribió en 3 Geeks and a Law Blog que, en las últimas semanas, todos sus clientes con función de KM (knowledge management, gestión del conocimiento) han iniciado una reorganización parecida: los equipos de KM, de Innovation o ambos pasan a un grupo de IA liderado por IT, a menudo bajo un Chief AI Officer recién nombrado; colegas de otras firmas le describen lo mismo. Atribuye el giro a cuatro fuerzas: el gasto en IA ya es tan grande que la dirección quiere un único responsable; los contratos de la primera ola de herramientas llegan a su renewal (renovación) y a su primer análisis de ROI, difícil de demostrar en un negocio que factura por horas; es temporada de presupuestos; y las firmas se imitan entre sí. Su conclusión: los vendors han ganado una prórroga y quien paga es el champion (impulsor) interno que eligió la herramienta.",
+  "summary_p2": "Para socios directores y CIOs, el aviso es de diseño organizativo: la IA rinde según el conocimiento de la firma que recibe (precedentes, plantillas, know-how), y ese trabajo es de KM, no de compras. McClead lo resume en una frase: «KM is how firms know what they know». Para despachos en España que están nombrando responsables de IA, la pregunta práctica es quién mantiene los repositorios curados y la taxonomía que alimentan las herramientas. Para vendors, el riesgo de renovación no desaparece: solo se aplaza hasta que alguien pregunte en el comité qué se obtuvo por el dinero. Es la observación de un consultor con su cartera de clientes, no una encuesta, y él mismo lo advierte.",
+  "why_sota": "Reorganización KM→IT bajo CAIO en firmas tras la primera ola de compras de IA.",
+  "why_now": "3 Geeks 2 Oct 2026. NEW.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "knowledge-management",
+    "chief-ai-officer",
+    "roi",
+    "law-firms"
+  ],
+  "sources": [
+    {
+      "source_id": "src-3-geeks-and-a-law-blog",
+      "url": "https://www.geeklawblog.com/2026/10/bought-ai-then-benched-km.html",
+      "cited_title": "Firms Bought the AI. Then They Benched KM.",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-3-geeks-and-a-law-blog"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-libra
+name: Libra by Wolters Kluwer
+type: product
+url: https://www.wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland
+geo:
+- EU
+aliases:
+- Libra
+notes: Legal AI workspace de Wolters Kluwer; CEO Viktor von Essen. Ficha mínima.
+stub: true

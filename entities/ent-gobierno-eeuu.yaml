@@ -1,0 +1,10 @@
+id: ent-gobierno-eeuu
+name: Gobierno de EE. UU. (Casa Blanca)
+type: government
+url: https://www.whitehouse.gov/
+geo:
+- US
+aliases:
+- White House
+notes: Crea la Super Intelligence Force (Oct 2026). Ficha mínima.
+stub: true

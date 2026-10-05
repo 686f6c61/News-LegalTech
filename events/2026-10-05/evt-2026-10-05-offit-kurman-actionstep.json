@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-05-offit-kurman-actionstep",
+  "date": "2026-09-30",
+  "type": "litigation",
+  "sota_score": 7.1,
+  "ai_legaltech": false,
+  "title": "Offit Kurman demanda a Actionstep: el despacho alega que Practice Pro Plus no se integraba con su stack tecnológico como se prometió",
+  "summary_p1": "El 30 de septiembre de 2026 Legaltech News (Law.com) informó de que Offit Kurman, despacho con sede en Maryland, ha demandado al proveedor de software de practice management (gestión del despacho) Actionstep, con sede en Colorado. El despacho alega que la oferta Practice Pro Plus (PPP) no se integró, como se había anunciado, con varios proveedores de su stack tecnológico. La demanda se presentó el 22 de septiembre ante el Circuit Court for Montgomery County (Maryland), y Offit Kurman pide la cancelación del contrato plurianual y la devolución de lo pagado.",
+  "summary_p2": "Para COOs y responsables de IT de despachos, es un recordatorio de que «se integra con» en una demo no es una obligación contractual si no se especifica: qué sistemas, qué datos, en qué dirección, con qué SLA (acuerdo de nivel de servicio) y qué remedios si falla. En un mercado donde casi todos los proveedores venden conectores e IA encima del practice management, llevar las promesas de integración al anexo técnico y vincular los pagos a su aceptación evita acabar en un juzgado. Para vendors, el riesgo reputacional de un litigio con un despacho cliente es alto: es el tipo de comprador que sabe demandar, y la disputa queda a la vista en la prensa sectorial.",
+  "why_sota": "Despacho litiga contra su vendor de practice management por integraciones incumplidas.",
+  "why_now": "Law.com 30 Sep 2026; no publicado como evento en PASS previos (missed). NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "practice-management",
+    "integraciones",
+    "contratos-software",
+    "actionstep"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/09/30/offit-kurman-sues-actionstep-over-alleged-integration-incompatibility/",
+      "cited_title": "Offit Kurman Sues Actionstep Over Alleged Integration Incompatibility",
+      "accessed": "2026-10-05"
+    }
+  ],
+  "entities": [
+    "ent-offit-kurman",
+    "ent-actionstep"
+  ],
+  "lang": "es",
+  "status": "published"
+}
