@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-06-flank-orchestration-layer",
+  "date": "2026-10-05",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Flank crea «The Orchestration Layer», un consejo de general counsel y legal ops para anclar sus agentes de IA en el trabajo jurídico real",
+  "summary_p1": "El 5 de octubre de 2026 Legal IT Insider informó de que Flank, la compañía de IA jurídica fundada en Berlín y especializada en AI agents (agentes de IA) para trabajo repetitivo de empresa como intake (recepción de solicitudes), redacción, redlining (revisión de cambios) y revisión, lanza un consejo asesor senior que llama «The Orchestration Layer». Sus miembros fundadores son James Donald (general counsel MEA y APAC de Accor), Sally Guyer (CEO global de World Commerce & Contracting), Kent Dreadon (socio de Positive Momentum y antiguo group GC de Ascential), Stéphanie Hamon (responsable global de relación jurídica externa de HSBC), Lucy Shurwood (socia de Simmons & Simmons) y Suzanna Kalendzhian (LegalTechTalk). El consejo tiene tres funciones: dar forma al producto para que los sistemas agénticos encajen con las necesidades reales de abogados y negocio, probar nuevas capacidades antes de que lleguen a los clientes y abrir alianzas con proveedores de conocimiento jurídico, vendors de software empresarial y despachos. Según el cofundador y COO Jake Jones, este primer grupo ya ha participado en el legal front door (puerta de entrada jurídica) y en el repositorio contractual agéntico de Flank; se reunirá en persona dos veces al año.",
+  "summary_p2": "La lectura para in-house es que la batalla de los agentes de IA en departamentos jurídicos ya no se gana solo con el modelo, sino con el diseño del flujo: quién decide cómo circula el trabajo entre negocio, abogados y sistemas. Flank lo dice de forma explícita al llamar a su consejo «capa de orquestación», y la CEO Lili Breidenbach habla del hueco entre desplegar IA jurídica y obtener resultados. Para equipos que evalúan agentes de intake o contratos, la presencia de perfiles de Accor, HSBC o World Commerce & Contracting es una señal de que el vendor busca validar casos de uso en empresas grandes antes de lanzarlos; conviene preguntar qué capacidades ha probado este consejo y con qué métricas. Para el resto del mercado, confirma una tendencia: los advisory boards (consejos asesores) de clientes se convierten en parte del producto y del discurso comercial de la IA agéntica.",
+  "why_sota": "Vendor de agentes jurídicos institucionaliza el diseño de producto con GC y legal ops de grandes empresas.",
+  "why_now": "Legal IT Insider 5 Oct 2026. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "DE",
+    "UK",
+    "EU"
+  ],
+  "topics": [
+    "agentes-de-ia",
+    "in-house",
+    "legal-front-door",
+    "flank",
+    "advisory-board"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/flank-launches-senior-legal-advisory-board-to-shape-agentic-ai-strategy/",
+      "cited_title": "Flank launches senior legal advisory board to shape agentic AI strategy",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-flank",
+    "ent-legal-it-insider"
+  ],
+  "lang": "es",
+  "status": "published"
+}

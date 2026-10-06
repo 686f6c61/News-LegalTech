@@ -1,0 +1,9 @@
+id: ent-firm-prospects
+name: Firm Prospects
+type: company
+url: https://www.firmprospects.com/
+geo:
+- US
+aliases: []
+notes: Inteligencia de talento jurídico; H1 2026 Lateral Market Report. Ficha mínima.
+stub: true

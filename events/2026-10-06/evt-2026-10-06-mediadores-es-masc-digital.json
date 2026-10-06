@@ -1,0 +1,42 @@
+{
+  "id": "evt-2026-10-06-mediadores-es-masc-digital",
+  "date": "2026-10-06",
+  "type": "product",
+  "sota_score": 7.1,
+  "ai_legaltech": false,
+  "title": "Mediadores.es digitaliza el requisito MASC: invitación con entrega electrónica certificada eIDAS y certificado firmado por mediador inscrito",
+  "summary_p1": "El 6 de octubre de 2026 Confilegal explicó cómo funciona Mediadores.es, una plataforma que opera en toda España y permite tramitar íntegramente en línea el intento de MASC (medio adecuado de solución de controversias) que la Ley Orgánica 1/2025 exige como requisito de procedibilidad para presentar demandas civiles y mercantiles. El expediente se abre y la invitación a la otra parte se envía en unos cinco minutos, mediante entrega electrónica certificada conforme al Reglamento eIDAS (UE 910/2014), que registra emisor, destinatario, fecha, hora y acceso al contenido. Si la otra parte rechaza, el certificado se expide en minutos; si calla, al cumplirse los 30 días naturales del art. 10.4; si acepta, el asunto pasa a mediación. Lo firma un mediador inscrito en el registro del Ministerio de Justicia. La empresa responde a un problema medido: según el I Estudio del ICAM (diciembre de 2025, 1.164 letrados), el 49,3% tuvo problemas para acreditar el intento y el 71,7% percibe criterios dispares en los juzgados. Abrir el trámite cuesta 110 euros más IVA (150 si se invita a más de una parte).",
+  "summary_p2": "Para despachos con reclamaciones recurrentes, administradores de fincas y empresas, la propuesta ataca el punto donde hoy se pierden demandas: no basta con intentar el MASC, hay que poder acreditarlo, y el art. 10.2 admite cualquier documento que pruebe recepción, fecha y acceso al contenido íntegro. Un burofax acredita envío y fecha, pero no siempre la recepción efectiva; la entrega certificada eIDAS sí deja ese rastro. El vacío institucional ayuda: la ley prevé servicios de MASC del Ministerio y de las comunidades autónomas, pero no existe registro público de intentos ni canal oficial. La cautela es la misma que señala el artículo: la suficiencia de la acreditación la decide cada juez, y la propia empresa se apoya en el art. 13.5.c de la Ley 5/2012 para sostener que un despacho no debería certificar sus propios expedientes. Es un buen ejemplo de LegalTech que nace de un cuello de botella procesal concreto.",
+  "why_sota": "Herramienta que digitaliza y acredita el requisito MASC de la LO 1/2025 ante la falta de canal oficial.",
+  "why_now": "Confilegal 6 Oct 2026 (Lawyerpress 5 Oct). NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "masc",
+    "lo-1-2025",
+    "eidas",
+    "mediacion",
+    "justicia-digital"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261006-mediadores-es-masc-requisito-procedibilidad-ley-organica-1-2025/",
+      "cited_title": "Mediadores.es lanza una plataforma para acreditar el requisito MASC por vía digital ante la falta de un canal oficial del Ministerio",
+      "accessed": "2026-10-06"
+    },
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/10/05/mediadores-es-digitaliza-la-tramitacion-de-los-masc-previos-a-las-demandas-civiles-y-mercantiles/",
+      "cited_title": "Mediadores.es digitaliza la tramitación de los MASC previos a las demandas civiles y mercantiles",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-mediadores-es",
+    "ent-ministerio-justicia-es"
+  ],
+  "lang": "es",
+  "status": "published"
+}

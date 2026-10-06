@@ -1,0 +1,9 @@
+id: ent-filevine
+name: Filevine
+type: vendor
+url: https://www.filevine.com/
+geo:
+- US
+aliases: []
+notes: Software de gestión legal; LOIS y LOIS Citator (Oct 2026). Ficha mínima.
+stub: true

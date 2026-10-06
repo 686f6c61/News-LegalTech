@@ -1,0 +1,71 @@
+scan_id: full-radar-2026-10-06
+date: '2026-10-06'
+release: 06.10.26
+count: 10
+ai_share: 0.7
+dedup_against: events/2026-09-29 + 2026-09-30 + 2026-10-01 + 2026-10-02 + 2026-10-03
+  + 2026-10-04 + 2026-10-05 + scans PASS
+event_ids:
+- evt-2026-10-06-law-society-ia-agentica-justicia
+- evt-2026-10-06-filevine-lois-citator
+- evt-2026-10-06-arizona-video-ia-victima-anulada
+- evt-2026-10-06-zpo-reform-publicacion-sentencias-ia
+- evt-2026-10-06-am-law-abogados-a-empresas-ia
+- evt-2026-10-06-flank-orchestration-layer
+- evt-2026-10-06-lth-genai-map-1416
+- evt-2026-10-06-pandektes-serie-a
+- evt-2026-10-06-mediadores-es-masc-digital
+- evt-2026-10-06-sra-carter-ruck-supreme-court
+events:
+- id: evt-2026-10-06-law-society-ia-agentica-justicia
+  sota_score: 8.2
+  ai_legaltech: true
+  title: 'La Law Society avisa: la agentic AI (IA agéntica) puede convertirse en la
+    «puerta de entrada por defecto» a la justicia'
+- id: evt-2026-10-06-filevine-lois-citator
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'Filevine reta a Westlaw y Lexis: abre gratis su LOIS Citator, un citator
+    (validador de jurisprudencia) construido con IA'
+- id: evt-2026-10-06-arizona-video-ia-victima-anulada
+  sota_score: 8.1
+  ai_legaltech: true
+  title: Un tribunal de apelación de Arizona anula una pena porque el juez valoró
+    un vídeo de la víctima generado con IA en la victim impact statement (declaración
+    de impacto)
+- id: evt-2026-10-06-zpo-reform-publicacion-sentencias-ia
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Alemania prepara su gran reforma de la ZPO (proceso civil): obligación de
+    publicar sentencias con anonimización por IA y límites a los escritos generados
+    con IA'
+- id: evt-2026-10-06-am-law-abogados-a-empresas-ia
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'Harvey, Anthropic y OpenAI fichan abogados del Am Law 200, pero no para
+    ejercer: 46 salidas en un semestre, 15 de ellas a legal engineer (ingeniero jurídico)'
+- id: evt-2026-10-06-flank-orchestration-layer
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Flank crea «The Orchestration Layer», un consejo de general counsel y legal
+    ops para anclar sus agentes de IA en el trabajo jurídico real
+- id: evt-2026-10-06-lth-genai-map-1416
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'El mapa GenAI de Legaltech Hub llega a 1.416 productos de 1.117 vendors:
+    casi el doble que hace un año'
+- id: evt-2026-10-06-pandektes-serie-a
+  sota_score: 6.9
+  ai_legaltech: false
+  title: Pandektes, la legal research (investigación jurídica) danesa, levanta 13,5
+    M€ en Serie A para salir de Europa y abrir su base de datos a otros desarrolladores
+- id: evt-2026-10-06-mediadores-es-masc-digital
+  sota_score: 7.1
+  ai_legaltech: false
+  title: 'Mediadores.es digitaliza el requisito MASC: invitación con entrega electrónica
+    certificada eIDAS y certificado firmado por mediador inscrito'
+- id: evt-2026-10-06-sra-carter-ruck-supreme-court
+  sota_score: 7.0
+  ai_legaltech: false
+  title: 'La SRA lleva al Supreme Court su pulso con Carter-Ruck: ¿puede el regulador
+    exigir documentos protegidos por legal professional privilege (secreto profesional)?'

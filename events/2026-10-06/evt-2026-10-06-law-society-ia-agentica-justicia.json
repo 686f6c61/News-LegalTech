@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-06-law-society-ia-agentica-justicia",
+  "date": "2026-10-06",
+  "type": "research",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "La Law Society avisa: la agentic AI (IA agéntica) puede convertirse en la «puerta de entrada por defecto» a la justicia",
+  "summary_p1": "Legal Futures publicó el 6 de octubre de 2026 las conclusiones del informe de la Law Society de Inglaterra y Gales «The future of agentic AI in the justice system: implications for courts, tribunals and alternative dispute resolution». El estudio revisa lo que ocurre en China, EE. UU., Estonia y Reino Unido y se apoya en entrevistas con 19 personas que trabajan en la vanguardia de la IA jurídica y con 11 expertos del sistema de justicia. Su tesis: la IA agéntica podría convertirse en la «default doorway» (puerta de entrada por defecto) a la justicia, detectando problemas legales antes de que la persona los reconozca, explicando derechos, proponiendo pasos y tramitando en su nombre. Eso puede ser «la mayor expansión de capacidad jurídica de la historia» o convertir la justicia en algo a lo que uno se suscribe o de lo que queda excluido. El informe describe el paso de decisiones humanas asistidas por máquinas a acciones de máquinas supervisadas por humanos, advierte de que los nuevos gatekeepers (guardianes de acceso) pueden estar dentro de plataformas tecnológicas y no en tribunales ni despachos, y reconoce que hoy la IA agéntica aún no está desplegada en la justicia, aunque las condiciones para su llegada ya empiezan a darse.",
+  "summary_p2": "La parte más útil para despachos, legal ops y vendors es dónde traza la línea. La Law Society sostiene que decidir hechos controvertidos, valorar la credibilidad y ejercer discrecionalidad «no son automatizables», no por falta de capacidad técnica sino por legitimidad, y que el encaje limpio está en procesos de alto volumen y baja discrecionalidad: gestión documental, triage (clasificación inicial), agenda y ejecución posterior a la decisión. También avisa de que la regulación puede estar gobernando «la tecnología de ayer» y de que la rendición de cuentas puede llegar después del daño, con un primer fallo de alto impacto como prueba real. Pide accountability (responsabilidad) clara, transparencia, meaningful human oversight (supervisión humana significativa) y debate público antes de un uso extendido. Para quien diseña productos de acceso a la justicia o agentes que tramitan por el cliente, es una guía temprana de lo que el regulador profesional considerará aceptable, y un recordatorio del vicepresidente Brett Dixon: «Legal judgement cannot be delegated» (el juicio jurídico no se delega).",
+  "why_sota": "Primer informe de la Law Society centrado en IA agéntica en tribunales y ADR.",
+  "why_now": "Legal Futures 6 Oct 2026. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "ia-agentica",
+    "acceso-a-la-justicia",
+    "tribunales",
+    "adr",
+    "law-society"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/agentic-ai-could-become-default-doorway-into-justice-system",
+      "cited_title": "Agentic AI could become “default doorway” into justice system",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-law-society"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+id: ent-arizona-court-of-appeals
+name: Arizona Court of Appeals
+type: government
+url: https://www.azcourts.gov/coa1
+geo:
+- US
+aliases:
+- Court of Appeals of Arizona, Division One
+notes: Anuló una pena por un vídeo de IA en la declaración de la víctima (2026). Ficha
+  mínima.
+stub: true

@@ -1,0 +1,9 @@
+id: ent-anthropic
+name: Anthropic
+type: company
+url: https://www.anthropic.com/
+geo:
+- US
+aliases: []
+notes: Laboratorio de IA; contrata abogados del Am Law 200 (H1 2026). Ficha mínima.
+stub: true

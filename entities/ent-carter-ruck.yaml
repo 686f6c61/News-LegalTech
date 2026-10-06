@@ -1,0 +1,10 @@
+id: ent-carter-ruck
+name: Carter-Ruck
+type: law_firm
+url: https://www.carter-ruck.com/
+geo:
+- UK
+aliases: []
+notes: Despacho londinense; litiga contra la SRA sobre production notices y LPP. Ficha
+  mínima.
+stub: true

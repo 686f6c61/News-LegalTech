@@ -1,0 +1,11 @@
+id: ent-law-society
+name: The Law Society of England and Wales
+type: association
+url: https://www.lawsociety.org.uk/
+geo:
+- UK
+aliases:
+- Law Society
+notes: Colegio profesional de solicitors; informe sobre IA agéntica en la justicia
+  (Oct 2026). Ficha mínima.
+stub: true

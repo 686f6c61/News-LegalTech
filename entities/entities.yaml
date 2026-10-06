@@ -693,3 +693,124 @@ entities:
   notes: Grupo de servicios profesionales cotizado en AIM; modelo de licencia en despachos.
     Ficha mínima.
   stub: true
+- id: ent-law-society
+  name: The Law Society of England and Wales
+  type: association
+  url: https://www.lawsociety.org.uk/
+  geo:
+  - UK
+  aliases:
+  - Law Society
+  notes: Colegio profesional de solicitors; informe sobre IA agéntica en la justicia
+    (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-filevine
+  name: Filevine
+  type: vendor
+  url: https://www.filevine.com/
+  geo:
+  - US
+  aliases: []
+  notes: Software de gestión legal; LOIS y LOIS Citator (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-arizona-court-of-appeals
+  name: Arizona Court of Appeals
+  type: government
+  url: https://www.azcourts.gov/coa1
+  geo:
+  - US
+  aliases:
+  - Court of Appeals of Arizona, Division One
+  notes: Anuló una pena por un vídeo de IA en la declaración de la víctima (2026).
+    Ficha mínima.
+  stub: true
+- id: ent-bmjv
+  name: Bundesministerium der Justiz und für Verbraucherschutz
+  type: government
+  url: https://www.bmjv.de/
+  geo:
+  - DE
+  aliases:
+  - BMJV
+  notes: Ministerio federal alemán de Justicia; prepara la reforma de la ZPO. Ficha
+    mínima.
+  stub: true
+- id: ent-firm-prospects
+  name: Firm Prospects
+  type: company
+  url: https://www.firmprospects.com/
+  geo:
+  - US
+  aliases: []
+  notes: Inteligencia de talento jurídico; H1 2026 Lateral Market Report. Ficha mínima.
+  stub: true
+- id: ent-anthropic
+  name: Anthropic
+  type: company
+  url: https://www.anthropic.com/
+  geo:
+  - US
+  aliases: []
+  notes: Laboratorio de IA; contrata abogados del Am Law 200 (H1 2026). Ficha mínima.
+  stub: true
+- id: ent-legora
+  name: Legora
+  type: vendor
+  url: https://legora.com/
+  geo:
+  - SE
+  - Global
+  aliases: []
+  notes: Plataforma de IA jurídica. Ficha mínima.
+  stub: true
+- id: ent-flank
+  name: Flank
+  type: vendor
+  url: https://www.flank.ai/
+  geo:
+  - DE
+  - Global
+  aliases: []
+  notes: IA agéntica para departamentos jurídicos, fundada en Berlín. Ficha mínima.
+  stub: true
+- id: ent-legaltech-hub
+  name: Legaltech Hub
+  type: media
+  url: https://www.legaltechnologyhub.com/
+  geo:
+  - Global
+  aliases:
+  - LTH
+  notes: Directorio y análisis del mercado LegalTech; GenAI Legal Tech Map. Ficha
+    mínima.
+  stub: true
+- id: ent-pandektes
+  name: Pandektes
+  type: company
+  url: https://www.law.com/legaltechnews/2026/10/05/danish-legal-research-company-pandektes-announces-135m-series-a-/
+  geo:
+  - DK
+  - EU
+  aliases: []
+  notes: Startup de investigación jurídica de Copenhague (2022); Serie A de 13,5 M€
+    (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-mediadores-es
+  name: Mediadores.es
+  type: company
+  url: https://confilegal.com/20261006-mediadores-es-masc-requisito-procedibilidad-ley-organica-1-2025/
+  geo:
+  - ES
+  aliases: []
+  notes: Plataforma para tramitar y acreditar el requisito MASC en línea. Ficha mínima.
+  stub: true
+- id: ent-carter-ruck
+  name: Carter-Ruck
+  type: law_firm
+  url: https://www.carter-ruck.com/
+  geo:
+  - UK
+  aliases: []
+  notes: Despacho londinense; litiga contra la SRA sobre production notices y LPP.
+    Ficha mínima.
+  stub: true

@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-06-arizona-video-ia-victima-anulada",
+  "date": "2026-10-05",
+  "type": "case_law",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "Un tribunal de apelación de Arizona anula una pena porque el juez valoró un vídeo de la víctima generado con IA en la victim impact statement (declaración de impacto)",
+  "summary_p1": "El 5 de octubre de 2026 eDiscovery Today informó de que la Court of Appeals de Arizona (División Uno) ha confirmado la condena por homicidio imprudente de un hombre condenado por un incidente de road rage (violencia al volante), pero ha anulado la pena y ordenado una nueva vista de determinación de la condena. El motivo: el vídeo con el que la hermana de la víctima recreó con IA a su hermano para que «pronunciara» su propia victim impact statement (declaración de impacto de la víctima). El juez de instancia llegó a decir «I loved that AI» y, aunque la fiscalía pedía 9 años y la defensa 7, impuso 10,5 años. La Court of Appeals considera que el vídeo «cruzó la línea»: no refleja hechos reales, sino una representación de la víctima y de sus pensamientos creada a partir de lo que imaginaba su hermana, y la presenta como si hablara la propia víctima. «No disclaimer could cure that error» (ningún aviso podía subsanar ese error), escribe el tribunal, que admite las imágenes reales insertadas en el montaje pero califica de fundamental error (error fundamental) la presentación del vídeo con IA, porque influyó claramente en el juez y hizo injusto el procedimiento.",
+  "summary_p2": "Es una de las primeras resoluciones de apelación que fija un límite a la prueba sintética emotiva en sede penal, y el razonamiento sirve más allá de Arizona: el problema no es la etiqueta de IA, sino que el contenido borra la distancia entre lo que la familia cree que habría dicho la víctima y lo que realmente dijo. Para litigantes y fiscalías, la lección práctica es separar el material real del recreado y no confiar en que un aviso de «generado con IA» baste para su admisión. Para tribunales y responsables de política judicial, refuerza la necesidad de reglas sobre synthetic media (contenidos sintéticos) en vistas de condena y en declaraciones de víctimas. Y para los proveedores de herramientas de vídeo o avatar usadas en despachos, sugiere que el riesgo jurídico no está solo en el deepfake fraudulento, sino también en el bienintencionado.",
+  "why_sota": "Resolución de apelación que anula una pena por un vídeo de IA en la declaración de la víctima.",
+  "why_now": "eDiscovery Today 5 Oct 2026 sobre resolución de la semana anterior. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "prueba-sintetica",
+    "deepfakes",
+    "victim-impact-statement",
+    "arizona",
+    "penal"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ediscovery-today",
+      "url": "https://ediscoverytoday.com/2026/10/05/ai-video-of-victim-impact-statement-causes-sentence-to-be-vacated-and-remanded-artificial-intelligence-trends/",
+      "cited_title": "AI Video of Victim Impact Statement Causes Sentence to Be Vacated and Remanded",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-arizona-court-of-appeals"
+  ],
+  "lang": "es",
+  "status": "published"
+}

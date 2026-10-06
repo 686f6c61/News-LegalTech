@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-06-zpo-reform-publicacion-sentencias-ia",
+  "date": "2026-10-05",
+  "type": "regulation",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Alemania prepara su gran reforma de la ZPO (proceso civil): obligación de publicar sentencias con anonimización por IA y límites a los escritos generados con IA",
+  "summary_p1": "El 5 de octubre de 2026 Legal Tribune Online (LTO) adelantó por dónde va el Referentenentwurf (anteproyecto) que prepara el Ministerio Federal de Justicia y Protección del Consumidor (BMJV) para reformar la Zivilprozessordnung (ZPO), una de las mayores reformas del proceso civil alemán. Parte del informe final de 240 páginas de la comisión «Zivilprozess der Zukunft» (el proceso civil del futuro), presentado a finales de 2025, que apuesta por una digitalización completa: un portal de justicia federal, una plataforma de comunicación en la nube para todas las partes y nuevas herramientas para la práctica de la prueba. En Alemania se publica menos del 5% de las resoluciones judiciales, y se estudia una obligación legal de publicarlas todas, sin depender de su «especial relevancia»; en el BMJV se baraja una regla de «Soll» (por regla general, deberán publicarse), con la IA ayudando a anonimizar, algo que ya se prueba en Baviera y Baja Sajonia. Además, la ministra Stefanie Hubig ha dicho que los tribunales deben poder fijar a las partes cómo presentar sus pretensiones, porque no pueden quedar «sepultados» bajo texto de IA sin estructura. Se discute también un plazo de seis semanas para que el juez dé el primer paso tras la contestación o la réplica.",
+  "summary_p2": "Para LegalTech es una reforma de doble filo. La obligación de publicar resoluciones ampliaría mucho el corpus disponible para bases de datos, analítica judicial y modelos jurídicos en el mercado DACH (Alemania, Austria y Suiza), y convertiría la anonimización con IA en una pieza crítica de la infraestructura judicial, con requisitos de calidad y protección de datos que los proveedores tendrán que demostrar. Al mismo tiempo, la idea de que el juez imponga estructura a los escritos es una respuesta directa a la avalancha de demandas redactadas con IA: los despachos y las plataformas de reclamaciones masivas que generan escritos automáticamente deberían prepararse para formatos obligatorios y controles de forma. Es todavía un anteproyecto en negociación, con críticas de la judicatura al plazo de seis semanas y propuestas más radicales desde la CDU/CSU sobre la segunda instancia, pero la dirección (más datos abiertos, más digitalización y más disciplina en lo generado con IA) es la que conviene seguir.",
+  "why_sota": "Reforma procesal que combina obligación de publicar sentencias, anonimización con IA y límites a escritos generados con IA.",
+  "why_now": "LTO 5 Oct 2026 sobre el anteproyecto del BMJV. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "DE"
+  ],
+  "topics": [
+    "zpo",
+    "proceso-civil",
+    "publicacion-de-sentencias",
+    "anonimizacion",
+    "justicia-digital"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/hintergruende/h/zpo-reform-bmjv-zivilprozess-beschleunigung-instanz-kammer-veroeffentlichunspflicht-urteile",
+      "cited_title": "ZPO-Reform: Strengere Regeln, 'schnellere' Richter?",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-bmjv"
+  ],
+  "lang": "es",
+  "status": "published"
+}

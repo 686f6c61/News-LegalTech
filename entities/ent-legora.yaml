@@ -1,0 +1,10 @@
+id: ent-legora
+name: Legora
+type: vendor
+url: https://legora.com/
+geo:
+- SE
+- Global
+aliases: []
+notes: Plataforma de IA jurídica. Ficha mínima.
+stub: true

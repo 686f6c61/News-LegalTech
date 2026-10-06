@@ -1,0 +1,10 @@
+id: ent-flank
+name: Flank
+type: vendor
+url: https://www.flank.ai/
+geo:
+- DE
+- Global
+aliases: []
+notes: IA agéntica para departamentos jurídicos, fundada en Berlín. Ficha mínima.
+stub: true

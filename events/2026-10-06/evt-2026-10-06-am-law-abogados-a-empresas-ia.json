@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-06-am-law-abogados-a-empresas-ia",
+  "date": "2026-10-06",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Harvey, Anthropic y OpenAI fichan abogados del Am Law 200, pero no para ejercer: 46 salidas en un semestre, 15 de ellas a legal engineer (ingeniero jurídico)",
+  "summary_p1": "Abogados.com.ar analizó el 6 de octubre de 2026 el H1 2026 Lateral Market Report de Firm Prospects (24 de septiembre), a partir de lo publicado por LawFuel. En el primer semestre de 2026, 46 abogados de firmas del Am Law 200 se incorporaron a empresas de inteligencia artificial: Harvey contrató a 22, Anthropic a ocho y OpenAI y Legora a cinco cada una. Cuarenta eran asociados, uno era counsel y cinco eran socios en su firma de origen. Quince pasaron a funciones de legal engineer (ingeniero jurídico) y el resto se repartió entre investigación, go-to-market (comercialización) y estrategia. Sobre los 15.988 movimientos que registra el informe, 46 son alrededor del 0,3%, pero el informe ya los sigue como categoría propia. Adam Braveman, CEO de Firm Prospects, apunta que estas funciones abren rutas de carrera nuevas para los asociados.",
+  "summary_p2": "La cifra es pequeña; lo que importa es hacia dónde va el conocimiento. Quien sale de una firma sabe cómo se estructura un mandato, cómo decide un socio, dónde se concentra el margen y qué partes del trabajo se pueden estandarizar, y ese saber se convierte en especificaciones de producto que después se licencian a las mismas firmas. El autor lo lee como la separación de cuatro capas que los despachos controlaban a la vez (relación con el cliente, conocimiento, asignación del trabajo y formación de la siguiente generación) y propone una decisión práctica: qué parte del criterio de la firma se documenta, quién la custodia y cómo se retiene a los asociados que lo llevan consigo. Conviene leerlo con las cautelas que el propio artículo señala: son datos de EE. UU., la autora del informe vende inteligencia de talento a las firmas y un semestre es solo una fotografía. Para despachos españoles y latinoamericanos, el aviso es que el knowledge management (gestión del conocimiento) se convierte en un activo que negociar con los vendors, no solo en un coste interno.",
+  "why_sota": "Primeros datos cuantificados de fuga de abogados de Big Law hacia empresas de IA jurídica.",
+  "why_now": "Abogados.com.ar 6 Oct 2026 sobre Firm Prospects H1 2026. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "US",
+    "AR",
+    "ES"
+  ],
+  "topics": [
+    "talento",
+    "legal-engineer",
+    "big-law",
+    "harvey",
+    "anthropic",
+    "openai",
+    "legora"
+  ],
+  "sources": [
+    {
+      "source_id": "src-abogados-com-ar",
+      "url": "https://abogados.com.ar/harvey-anthropic-y-openai-estan-contratando-abogados-de-las-firmas-mas-grandes-del-mundo-y-no-para-ejercer-derecho/40218",
+      "cited_title": "Harvey, Anthropic y OpenAI están contratando abogados de las firmas más grandes del mundo y no para ejercer Derecho",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-firm-prospects",
+    "ent-harvey",
+    "ent-anthropic",
+    "ent-openai",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

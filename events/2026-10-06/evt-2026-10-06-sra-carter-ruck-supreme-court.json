@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-06-sra-carter-ruck-supreme-court",
+  "date": "2026-10-06",
+  "type": "litigation",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "La SRA lleva al Supreme Court su pulso con Carter-Ruck: ¿puede el regulador exigir documentos protegidos por legal professional privilege (secreto profesional)?",
+  "summary_p1": "Legal Futures informó el 6 de octubre de 2026 de que la High Court ha concedido a la Solicitors Regulation Authority (SRA) permiso para recurrir la sentencia Carter-Ruck y ha emitido un leapfrog certificate (certificado de salto de instancia) para llevar el caso directamente al Supreme Court. El mes pasado, Mr Justice Butcher resolvió que el regulador no puede exigir a los despachos la entrega de documentos protegidos por privilege sin la renuncia del cliente: el s.44B de la Solicitors Act 1974 no deja sin efecto el legal professional privilege (LPP) de forma expresa, y una implicación «equívoca» no basta para superar ese derecho fundamental. El caso lo promovieron el empresario Mohamed Amersi y su despacho, Carter-Ruck, que pidieron declarar ilegal el uso de las production notices (requerimientos de documentación) de la SRA. Al conceder el certificado, el juez reconoció que su decisión plantea cuestiones de derecho de importancia pública general y que hay motivos defendibles para recurrir; la SRA pedirá ahora al Supreme Court que lo admita y lo trate con urgencia.",
+  "summary_p2": "Para despachos y compliance officers en Inglaterra y Gales, el resultado fijará hasta dónde puede llegar el regulador en sus investigaciones: la SRA sostiene que, sin esta facultad, conductas graves de solicitors pueden quedar fuera de su alcance, y críticos citados por Legal Futures han llegado a decir que la sentencia deja a la SRA «sin dientes». La otra vía, apuntada por el experto Iain Miller, es que el Ministerio de Justicia legisle para aclarar que el s.44B alcanza el material protegido por LPP. Mientras tanto, los despachos que reciban requerimientos de la SRA tienen una base sólida para pedir la renuncia del cliente antes de entregar documentos privilegiados. Para quien sigue la regulación profesional desde fuera, es un caso de referencia sobre el equilibrio entre supervisión del regulador y secreto profesional, un debate que también existe en otros sistemas.",
+  "why_sota": "Caso de referencia sobre poderes del regulador frente al LPP con salto directo al Supreme Court.",
+  "why_now": "Legal Futures 6 Oct 2026. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "sra",
+    "legal-professional-privilege",
+    "carter-ruck",
+    "regulacion-profesional",
+    "supreme-court"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-heading-for-carter-ruck-showdown-in-supreme-court",
+      "cited_title": "SRA heading for Carter-Ruck showdown in Supreme Court",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-sra",
+    "ent-carter-ruck"
+  ],
+  "lang": "es",
+  "status": "published"
+}

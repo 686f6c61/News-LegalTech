@@ -1,0 +1,11 @@
+id: ent-bmjv
+name: Bundesministerium der Justiz und für Verbraucherschutz
+type: government
+url: https://www.bmjv.de/
+geo:
+- DE
+aliases:
+- BMJV
+notes: Ministerio federal alemán de Justicia; prepara la reforma de la ZPO. Ficha
+  mínima.
+stub: true

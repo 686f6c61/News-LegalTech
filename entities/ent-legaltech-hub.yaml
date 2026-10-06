@@ -1,0 +1,10 @@
+id: ent-legaltech-hub
+name: Legaltech Hub
+type: media
+url: https://www.legaltechnologyhub.com/
+geo:
+- Global
+aliases:
+- LTH
+notes: Directorio y análisis del mercado LegalTech; GenAI Legal Tech Map. Ficha mínima.
+stub: true

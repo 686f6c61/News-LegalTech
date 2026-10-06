@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-06-pandektes-serie-a",
+  "date": "2026-10-05",
+  "type": "funding",
+  "sota_score": 6.9,
+  "ai_legaltech": false,
+  "title": "Pandektes, la legal research (investigación jurídica) danesa, levanta 13,5 M€ en Serie A para salir de Europa y abrir su base de datos a otros desarrolladores",
+  "summary_p1": "El 5 de octubre de 2026 Legaltech News (Law.com) informó de que Pandektes, startup de investigación jurídica con sede en Copenhague, ha cerrado una Serie A de 13,5 millones de euros liderada por Alstin Capital, con PROfounders, Scale Capital y su inversor previo People Ventures. La compañía, fundada en 2022 por Caspar Laursen (CEO) y Søren Brokær (CTO y CPO), amigos desde la infancia, había levantado una ronda seed de 2,9 millones de euros en febrero de 2025 liderada por People Ventures e Interface Capital. Pandektes dice tener más de 500 clientes entre empresas, despachos e instituciones públicas, y destinará el dinero a crecer más allá de sus primeros mercados europeos y a dar acceso a su base de datos jurídica a otros desarrolladores.",
+  "summary_p2": "La noticia interesa por el segundo uso del capital: abrir la base de datos a terceros convierte a un proveedor de investigación jurídica en infraestructura de datos para otros productos, el mismo terreno que disputan las grandes editoriales y los nuevos asistentes jurídicos. Para el mercado europeo, fragmentado por idiomas y jurisdicciones, un actor nórdico con clientes públicos y privados que quiere salir de su región compite por el mismo espacio que los grandes grupos editoriales en cada país. Para despachos e in-house, aparece una alternativa más a los proveedores tradicionales; para quien construye herramientas jurídicas, una posible fuente de contenido licenciable. Habrá que ver en qué condiciones y con qué cobertura jurisdiccional se abre ese acceso.",
+  "why_sota": "Ronda europea de legal research con estrategia de datos abiertos a desarrolladores.",
+  "why_now": "Law.com 5 Oct 2026. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "DK",
+    "EU"
+  ],
+  "topics": [
+    "financiacion",
+    "legal-research",
+    "datos-juridicos",
+    "pandektes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/05/danish-legal-research-company-pandektes-announces-135m-series-a-/",
+      "cited_title": "Danish Legal Research Company Pandektes Announces €13.5M Series A",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-pandektes"
+  ],
+  "lang": "es",
+  "status": "published"
+}

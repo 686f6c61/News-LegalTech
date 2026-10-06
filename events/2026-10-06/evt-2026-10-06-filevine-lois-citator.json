@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-06-filevine-lois-citator",
+  "date": "2026-10-05",
+  "type": "product",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Filevine reta a Westlaw y Lexis: abre gratis su LOIS Citator, un citator (validador de jurisprudencia) construido con IA",
+  "summary_p1": "El 5 de octubre de 2026 Filevine publicó en Above the Law una carta abierta a los usuarios de Westlaw y LexisNexis en la que anuncia LOIS Citator y sus herramientas anti-hallucination (contra alucinaciones). Según la carta, LOIS ya reúne un corpus de jurisprudencia estadounidense de todos los estados y de todos los tribunales federales desde la fundación del país, actualizado a diario y construido con fuentes públicas y licenciadas, entre ellas CourtListener; a partir de este mes añadirá la paginación de los reporters (repertorios oficiales) y las citas de las sentencias publicadas. El citator, dice Filevine, se construyó «desde primeros principios» con IA y de forma independiente de los corpus de los dos grandes. Para justificarlo, la carta recupera estudios académicos: el de Susan Nevelow Mart, que en 90 casos encontró solo un 33% de coincidencia entre KeyCite y Shepard's, y el de Paul Hellyer (2018), según el cual en el 85% de las relaciones de cita revisadas los tres citators analizados no coincidían en si había tratamiento negativo y solo coincidían en el tipo de tratamiento en el 11% de los casos. La herramienta es gratuita para cualquier profesional hasta LEX, la conferencia de Filevine de este mes de octubre, y por ahora solo cubre jurisprudencia de EE. UU.",
+  "summary_p2": "Para bibliotecarios jurídicos, knowledge managers y litigantes, lo relevante no es el tono de la carta, sino que un vendor de practice management (gestión de despachos) entra en el terreno del citator, la pieza que justificaba buena parte de la suscripción a Westlaw o Lexis, y declara que quiere sustituirlos: primero en jurisprudencia y después en legislación y regulación. Conviene leerlo como lo que es, afirmaciones del propio proveedor, y probarlo con casos propios en los que el tratamiento negativo ya se conozca. Pero el argumento de fondo tiene peso: si los citators tradicionales discrepan tanto entre sí, verificar la vigencia de una sentencia exige redundancia, y un validador con IA que se combine con controles contra citas inventadas ataca justo el riesgo que hoy acaba en sanciones. Para quien negocie renovaciones de bases de datos este año, es munición para pedir precio y pruebas comparativas.",
+  "why_sota": "Un vendor de práctica entra en el citator con IA y apunta a sustituir a Westlaw y Lexis.",
+  "why_now": "Carta abierta en Above the Law 5 Oct 2026; gratis hasta LEX (oct). NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "citator",
+    "legal-research",
+    "alucinaciones",
+    "filevine",
+    "westlaw",
+    "lexisnexis"
+  ],
+  "sources": [
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/open-letter-to-users-of-westlaw-and-lexisnexis/",
+      "cited_title": "Open Letter To Users Of Westlaw And LexisNexis",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-filevine",
+    "ent-thomson-reuters",
+    "ent-lexisnexis"
+  ],
+  "lang": "es",
+  "status": "published"
+}

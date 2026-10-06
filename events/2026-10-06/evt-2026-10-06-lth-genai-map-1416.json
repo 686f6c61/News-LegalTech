@@ -1,0 +1,41 @@
+{
+  "id": "evt-2026-10-06-lth-genai-map-1416",
+  "date": "2026-10-05",
+  "type": "research",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "El mapa GenAI de Legaltech Hub llega a 1.416 productos de 1.117 vendors: casi el doble que hace un año",
+  "summary_p1": "El 5 de octubre de 2026 eDiscovery Today repasó el nuevo GenAI Legal Tech Map trimestral de Legaltech Hub (LTH), publicado el 1 de octubre: a finales de septiembre de 2026 el directorio de LTH recogía 1.416 soluciones con IA generativa de 1.117 vendors, repartidas en 19 categorías. En octubre de 2025 el mismo mapa contaba 728 productos de 587 vendors, de modo que en menos de un año casi se han duplicado tanto los productos como los proveedores. El dato se presentó en la sesión «Legal Data Intelligence State of the Union» de RelFest, donde Stephanie Wilkins (LTH) recordó que han pasado unos 1.400 días desde el lanzamiento de ChatGPT el 30 de noviembre de 2022: más de un producto jurídico con IA generativa por día. El mapa incluye 44 soluciones de eDiscovery.",
+  "summary_p2": "Para compradores en despachos y departamentos jurídicos, la cifra es menos un motivo de celebración que un problema de selección: con más de mil vendors, la due diligence (diligencia debida) de proveedores, la comparación de capacidades reales y la consolidación de herramientas pesan más que descubrir novedades. Para los vendors, un mercado que duplica oferta en un año anticipa una fase de consolidación, en la que la diferenciación estará en la integración con los sistemas existentes, los datos propios y la evidencia de resultados. Y para quien sigue el sector, el mapa trimestral de LTH es una referencia útil para medir dónde se concentra la oferta (y dónde hay huecos) antes de una compra o una ronda.",
+  "why_sota": "Medida cuantitativa del crecimiento de la oferta GenAI jurídica en un año.",
+  "why_now": "eDiscovery Today 5 Oct 2026; mapa LTH 1 Oct 2026. NEW vs PASS 09-29→10-05.",
+  "geo": [
+    "Global"
+  ],
+  "topics": [
+    "mercado",
+    "ia-generativa",
+    "legaltech-hub",
+    "ediscovery",
+    "vendors"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ediscovery-today",
+      "url": "https://ediscoverytoday.com/2026/10/05/1416-legal-genai-products-in-1405-days-artificial-intelligence-trends/",
+      "cited_title": "1416 Legal GenAI Products in 1405 Days",
+      "accessed": "2026-10-06"
+    },
+    {
+      "source_id": "src-legaltech-hub",
+      "url": "https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-september-2026/",
+      "cited_title": "LTH GenAI Legal Tech Map: September 2026",
+      "accessed": "2026-10-06"
+    }
+  ],
+  "entities": [
+    "ent-legaltech-hub"
+  ],
+  "lang": "es",
+  "status": "published"
+}
