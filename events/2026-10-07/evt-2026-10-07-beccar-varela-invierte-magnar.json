@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-07-beccar-varela-invierte-magnar",
+  "date": "2026-10-06",
+  "type": "funding",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Beccar Varela entra como inversor minoritario en Magnar, la plataforma chilena de IA jurídica con 30.000 usuarios en siete países",
+  "summary_p1": "Abogados.com.ar informó el 6 de octubre de 2026 de que Beccar Varela, uno de los grandes despachos full-service de Argentina, se ha incorporado como inversor a Magnar, plataforma de IA para abogados que reúne herramientas de búsqueda, análisis y síntesis jurídica sobre fuentes normativas y jurisprudenciales locales. La participación es minoritaria y no da derechos específicos ni injerencia en el desarrollo o la dirección de la plataforma; el despacho ya usa y evalúa Magnar dentro de una estrategia de innovación que, según la nota, busca no depender de un proveedor exclusivo. Magnar empezó a operar hace algo más de un año, tiene cerca de 30.000 usuarios y 350 estudios en Chile, Perú, Colombia, Argentina, Ecuador, Costa Rica y Uruguay, y anunció recientemente una Serie A de 8 millones de dólares liderada por 6 Degrees Capital y Hi Ventures, con FEN Ventures, Platanus Ventures y Nascent Ventures, para ampliar equipo y bases de información jurídica y entrar en Brasil y México.",
+  "summary_p2": "Que un despacho invierta en la herramienta que usa es una señal del mercado latinoamericano: la IA jurídica local compite con códigos, idiomas y jurisprudencia propios, donde los grandes vendors anglosajones llegan peor, y los despachos quieren influir en esa infraestructura sin quedar atados a ella. La precisión de que la participación no da injerencia importa por partida doble: al resto de clientes de Magnar, incluidos despachos competidores, que querrán garantías de confidencialidad y neutralidad del producto, y al propio Beccar Varela, que tendrá que gestionar el posible conflicto de interés cuando evalúe o recomiende herramientas. Para despachos españoles con presencia en la región, Magnar es un actor a seguir en mercados hispanohablantes junto a vLex, Harvey o Lefebvre, y el modelo de relación (cliente, inversor minoritario y socio de producto a la vez) es replicable con startups locales.",
+  "why_sota": "Un gran despacho latinoamericano invierte en la IA jurídica local que usa.",
+  "why_now": "Abogados.com.ar 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "AR",
+    "CL",
+    "LatAm"
+  ],
+  "topics": [
+    "ia-juridica",
+    "inversion",
+    "latam",
+    "despachos",
+    "legal-research"
+  ],
+  "sources": [
+    {
+      "source_id": "src-abogados-com-ar",
+      "url": "https://abogados.com.ar/beccar-varela-apuesta-por-la-innovacion-legal-e-invierte-en-la-plataforma-de-ia-magnar/40229",
+      "cited_title": "Beccar Varela apuesta por la innovación legal e invierte en la plataforma de IA Magnar",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-beccar-varela",
+    "ent-magnar"
+  ],
+  "lang": "es",
+  "status": "published"
+}

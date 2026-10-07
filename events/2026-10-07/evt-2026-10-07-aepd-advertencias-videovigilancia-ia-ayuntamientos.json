@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-07-aepd-advertencias-videovigilancia-ia-ayuntamientos",
+  "date": "2026-10-06",
+  "type": "guidance",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "La AEPD advierte a dos ayuntamientos sobre videovigilancia con IA: reconocimiento facial y búsqueda de personas por su apariencia, solo con garantías previas",
+  "summary_p1": "La AEPD informó el 6 de octubre de 2026 de que ha dirigido sendas advertencias, la medida preventiva del artículo 58.2.a) del RGPD, a dos ayuntamientos con proyectos de videovigilancia que incorporan IA para el análisis automatizado de imágenes. Uno contempla detección o reconocimiento facial; el otro, detección de personas y vehículos, generación de metadatos y búsqueda de personas por su apariencia (ropa, pelo, sexo o grupo de edad), incluso a partir de una fotografía. La Agencia aclara que la advertencia no declara ninguna infracción y que la normativa no impide usar estas tecnologías, pero fija el método: analizar antes de la puesta en marcha qué funcionalidades son necesarias y proporcionadas, qué datos genera cada una, cuánto tiempo se conservan y quién accede a ellos, y hacer una evaluación de impacto en protección de datos cuando el tratamiento pueda entrañar un alto riesgo. Su frase clave: la disponibilidad técnica de una capacidad de identificación, búsqueda, localización o seguimiento de personas no justifica por sí misma su uso.",
+  "summary_p2": "Para proveedores de vídeo analítico, integradores y asesores de Administraciones, el mensaje es que la evaluación se hace funcionalidad por funcionalidad y no por la mera instalación de cámaras: en los tratamientos de la Policía Local, la necesidad, idoneidad y proporcionalidad deben justificarse para cada capacidad adicional de análisis automatizado. Si alguna función trata datos biométricos para identificar de forma unívoca a una persona, se aplica el régimen reforzado de los datos biométricos con garantías específicas, y la AEPD exige además información clara y comprensible para los ciudadanos. Aunque la nota no lo menciona, conviene leerla junto con el AI Act (Reglamento de IA), que limita la identificación biométrica remota en espacios públicos con fines policiales y trata otros usos biométricos como de alto riesgo. En la práctica, los pliegos de contratación de estos sistemas tendrán que permitir desactivar funcionalidades, documentar los metadatos que se generan y acreditar la evaluación de impacto, y para el vendor la privacy by design (protección de datos desde el diseño) con módulos que se puedan apagar pasa a ser un requisito comercial.",
+  "why_sota": "El regulador español fija el método para desplegar videovigilancia con IA en el sector público.",
+  "why_now": "Nota de prensa AEPD 6 Oct 2026 (El Derecho). NEW vs PASS 09-29→10-06 (distinta de la nota sobre IA y currículums).",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "aepd",
+    "rgpd",
+    "videovigilancia",
+    "biometria",
+    "sector-publico",
+    "ai-act"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aepd",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia",
+      "cited_title": "La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
+      "accessed": "2026-10-07"
+    },
+    {
+      "source_id": "src-el-derecho-lefebvre",
+      "url": "https://elderecho.com/la-aepd-senala-las-garantias-para-incorporar-inteligencia-artificial-a-los-sistemas-de-videovigilancia",
+      "cited_title": "AEPD señala las garantías para incorporar IA a sistemas de videovigilancia",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-aepd"
+  ],
+  "lang": "es",
+  "status": "published"
+}

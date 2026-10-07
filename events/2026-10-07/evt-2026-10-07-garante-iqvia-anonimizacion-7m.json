@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-07-garante-iqvia-anonimizacion-7m",
+  "date": "2026-10-06",
+  "type": "regulation",
+  "sota_score": 7.2,
+  "ai_legaltech": false,
+  "title": "El Garante italiano multa con 7 M€ a IQVIA: los datos de un millón de pacientes que la empresa trataba como anónimos seguían siendo personales",
+  "summary_p1": "ComplexDiscovery analizó el 6 de octubre de 2026 la resolución del Garante per la protezione dei dati personali, adoptada el 23 de septiembre y publicada con nota de prensa el 2 de octubre (orden número 710), que multa con 7 millones de euros a IQVIA Solutions Italy. La base de datos, alimentada desde el software de gestión de unos 800 médicos de familia, contenía registros de aproximadamente un millón de pacientes que la compañía consideraba anónimos; para el Garante, un código de paciente persistente y un historial clínico detallado bastaban para que los datos siguieran siendo identificables. La autoridad aceptó que la anonimidad puede depender de quién tiene los datos, pero concluyó que IQVIA diseñó e instruyó la desidentificación, de modo que no podía presentarse como mero destinatario al amparo de la sentencia SRB del Tribunal de Justicia de la UE. Es la segunda autoridad europea en cuatro meses que rechaza un argumento de anonimización de IQVIA, después de la CNIL francesa en mayo.",
+  "summary_p2": "Para DPO, equipos de compliance y empresas que comercializan o reutilizan datos, la resolución vale más por su razonamiento que por la cuantía: el Garante escribió condiciones técnicas en el remedio, como clases de equivalencia de al menos 10 registros y, para las variables residuales que puedan ayudar a identificar a un paciente, opciones como la secure multiparty computation (computación multipartita segura). Eso convierte «anónimo» en una afirmación que hay que demostrar con métricas y diseño, no con contratos, y debilita la estrategia de apoyarse en la doctrina SRB cuando quien desidentifica es la propia empresa. IQVIA ha dicho que se reserva el derecho a recurrir, y la consulta del Comité Europeo de Protección de Datos sobre anonimización cierra el 30 de octubre, así que las cláusulas de data licensing (licencia de datos) y los conjuntos de datos etiquetados como anónimos, incluidos los que alimentan proyectos de IA, merecen revisión ya.",
+  "why_sota": "Criterio técnico de un regulador UE sobre cuándo los datos «anónimos» siguen siendo personales.",
+  "why_now": "Garante 23 Sep / 2 Oct 2026; ComplexDiscovery 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "IT",
+    "EU"
+  ],
+  "topics": [
+    "rgpd",
+    "anonimizacion",
+    "datos-de-salud",
+    "sancion",
+    "edpb"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/italys-privacy-regulator-rejects-iqvias-anonymization-claim-and-fines-it-7-million-euros/",
+      "cited_title": "Italy's privacy regulator rejects IQVIA's anonymization claim and fines it 7 million euros",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-garante-privacy",
+    "ent-iqvia"
+  ],
+  "lang": "es",
+  "status": "published"
+}

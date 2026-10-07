@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-07-hacienda-verifactu-octubre-2028",
+  "date": "2026-10-05",
+  "type": "regulation",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "Hacienda prevé aplazar Verifactu a octubre de 2028 para alinearlo con la factura electrónica obligatoria",
+  "summary_p1": "El Ministerio de Hacienda publicó el 5 de octubre de 2026 una nota informativa, recogida por El Derecho, con la «previsión de modificación» de los plazos de Verifactu, el reglamento de sistemas informáticos de facturación (Real Decreto 1007/2023). Las obligaciones pendientes para empresarios y profesionales se aplazarían hasta octubre de 2028, para coincidir con la obligatoriedad de la factura electrónica para quienes facturan menos de 8 millones de euros al año. Hasta ahora, tras un primer retraso, el sistema debía ser obligatorio desde el 1 de enero de 2027 para los contribuyentes del Impuesto sobre Sociedades y desde el 1 de julio de 2027 para el resto de empresas y autónomos. La nota añade que, una vez aprobada la alineación de calendarios, se modificará la norma para hacer converger ámbitos de aplicación y aspectos técnicos con los futuros requisitos de reporte digital de ViDA (VAT in the Digital Age, IVA en la era digital), y que las exigencias de integridad, conservación, accesibilidad, legibilidad, trazabilidad e inalterabilidad se mantendrán en términos sustancialmente equivalentes.",
+  "summary_p2": "Para direcciones financieras, asesores fiscales y proveedores de software de facturación es un respiro, no una cancelación: la nota habla de previsión y el cambio de calendario todavía tiene que aprobarse formalmente, así que no conviene desmontar proyectos de adaptación hasta ver el texto. Lo sensato es unificar en uno solo los proyectos de Verifactu y de factura electrónica, porque las garantías técnicas de inalterabilidad y trazabilidad se mantienen y la convergencia con ViDA añadirá requisitos de reporte; la Asociación Española de Asesores Fiscales (AEDAF) ya había propuesto en junio una hoja de ruta en ese sentido. Para los vendors de ERP y facturación, incluidos los de software de gestión para despachos y asesorías, la nueva fecha desplaza ingresos de adaptación, pero también reduce el riesgo de desarrollar dos veces lo mismo.",
+  "why_sota": "Cambio de calendario de la facturación verificable que afecta a todo el software de facturación en España.",
+  "why_now": "Nota informativa de Hacienda 5 Oct 2026 (El Derecho). NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "verifactu",
+    "factura-electronica",
+    "vida",
+    "fiscal",
+    "software-de-facturacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-el-derecho-lefebvre",
+      "url": "https://elderecho.com/hacienda-pospone-a-octubre-de-2028-la-implantacion-de-verifactu-para-empresas-y-autonomos",
+      "cited_title": "Hacienda pospone a octubre de 2028 la implantación de 'Verifactu'",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-ministerio-hacienda"
+  ],
+  "lang": "es",
+  "status": "published"
+}

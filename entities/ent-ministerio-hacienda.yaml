@@ -1,0 +1,10 @@
+id: ent-ministerio-hacienda
+name: Ministerio de Hacienda
+type: government
+url: https://www.hacienda.gob.es/
+geo:
+- ES
+aliases:
+- Hacienda
+notes: Ministerio español de Hacienda; calendario de Verifactu. Ficha mínima.
+stub: true

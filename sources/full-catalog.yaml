@@ -7,7 +7,7 @@
 # Tipografia: comillas dobles ASCII. El español de los campos va en UTF-8 (ñ y tildes).
 version: "1.0.0"
 generated_from: "/workspace/legaltech/fuentes-legaltech-mundiales.md"
-count: 141
+count: 144
 tiers:
   core: "Monitorización diaria prioritaria (señal alta ES/AI)"
   watch: "Revisión periódica / semanal"
@@ -1281,5 +1281,32 @@ sources:
     frequency: "irregular"
     why: "Nota de prensa del vendor en repariodata.com."
     region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-el-confidencial
+    name: "El Confidencial"
+    url: "https://www.elconfidencial.com/juridico/"
+    type: news
+    frequency: "diario"
+    why: "Sección jurídica del diario. Ficha añadida para citar una URL de elconfidencial.com (encuesta IA y júniors, Oct 2026)."
+    region: "ES"
+    lang: "ES"
+    tier: watch
+  - id: src-legaltech-ca
+    name: "LegalTech.ca"
+    url: "https://legaltech.ca/"
+    type: news
+    frequency: "semanal"
+    why: "Noticias de LegalTech en Canadá. Ficha añadida para citar una URL de legaltech.ca."
+    region: "CA"
+    lang: "EN"
+    tier: archive
+  - id: src-the-deal-wire
+    name: "The Deal Wire"
+    url: "https://thedealwire.com/"
+    type: news
+    frequency: "diario"
+    why: "Noticias de operaciones y rondas. Ficha añadida para citar una URL de thedealwire.com."
+    region: "Global"
     lang: "EN"
     tier: archive

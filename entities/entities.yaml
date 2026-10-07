@@ -814,3 +814,107 @@ entities:
   notes: Despacho londinense; litiga contra la SRA sobre production notices y LPP.
     Ficha mínima.
   stub: true
+- id: ent-el-confidencial
+  name: El Confidencial
+  type: media
+  url: https://www.elconfidencial.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Diario digital español; encuesta a los 25 mayores despachos sobre IA y júniors
+    (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-vorys
+  name: Vorys, Sater, Seymour and Pease
+  type: law_firm
+  url: https://www.vorys.com/
+  geo:
+  - US
+  aliases:
+  - Vorys
+  notes: Despacho estadounidense; AI personas de socios con Stanford liftlab. Ficha
+    mínima.
+  stub: true
+- id: ent-stanford-liftlab
+  name: Stanford Legal Innovation through Frontier Technology Lab
+  type: academia
+  url: https://law.stanford.edu/
+  geo:
+  - US
+  aliases:
+  - liftlab
+  - LIFT Lab
+  notes: Laboratorio de Stanford Law School sobre IA y práctica jurídica. Ficha mínima.
+  stub: true
+- id: ent-beccar-varela
+  name: Beccar Varela
+  type: law_firm
+  url: https://www.beccarvarela.com/
+  geo:
+  - AR
+  aliases: []
+  notes: Despacho full-service argentino; inversor minoritario en Magnar (Oct 2026).
+    Ficha mínima.
+  stub: true
+- id: ent-magnar
+  name: Magnar
+  type: vendor
+  url: https://www.magnar.ai/
+  geo:
+  - CL
+  - LatAm
+  aliases: []
+  notes: Plataforma chilena de IA jurídica para abogados latinoamericanos. Ficha mínima.
+  stub: true
+- id: ent-arkivia
+  name: Arkivia
+  type: vendor
+  url: https://thedealwire.com/arkiria-sek-40m-funding-round/
+  geo:
+  - SE
+  aliases: []
+  notes: Legaltech sueca de gestión de expedientes con IA (2024). Ficha mínima.
+  stub: true
+- id: ent-sveriges-advokatsamfund
+  name: Sveriges advokatsamfund
+  type: association
+  url: https://www.advokatsamfundet.se/
+  geo:
+  - SE
+  aliases:
+  - Swedish Bar Association
+  - Colegio de Abogados de Suecia
+  notes: Colegio de abogados de Suecia. Ficha mínima.
+  stub: true
+- id: ent-garante-privacy
+  name: Garante per la protezione dei dati personali
+  type: regulator
+  url: https://www.garanteprivacy.it/
+  geo:
+  - IT
+  - EU
+  aliases:
+  - Garante
+  notes: Autoridad italiana de protección de datos. Ficha mínima.
+  stub: true
+- id: ent-iqvia
+  name: IQVIA
+  type: company
+  url: https://www.iqvia.com/
+  geo:
+  - Global
+  - IT
+  aliases:
+  - IQVIA Solutions Italy
+  notes: Datos y servicios para el sector salud. Ficha mínima.
+  stub: true
+- id: ent-ministerio-hacienda
+  name: Ministerio de Hacienda
+  type: government
+  url: https://www.hacienda.gob.es/
+  geo:
+  - ES
+  aliases:
+  - Hacienda
+  notes: Ministerio español de Hacienda; calendario de Verifactu. Ficha mínima.
+  stub: true

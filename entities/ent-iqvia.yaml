@@ -1,0 +1,11 @@
+id: ent-iqvia
+name: IQVIA
+type: company
+url: https://www.iqvia.com/
+geo:
+- Global
+- IT
+aliases:
+- IQVIA Solutions Italy
+notes: Datos y servicios para el sector salud. Ficha mínima.
+stub: true

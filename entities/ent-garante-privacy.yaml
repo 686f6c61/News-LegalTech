@@ -1,0 +1,11 @@
+id: ent-garante-privacy
+name: Garante per la protezione dei dati personali
+type: regulator
+url: https://www.garanteprivacy.it/
+geo:
+- IT
+- EU
+aliases:
+- Garante
+notes: Autoridad italiana de protección de datos. Ficha mínima.
+stub: true

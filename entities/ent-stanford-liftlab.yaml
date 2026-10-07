@@ -1,0 +1,11 @@
+id: ent-stanford-liftlab
+name: Stanford Legal Innovation through Frontier Technology Lab
+type: academia
+url: https://law.stanford.edu/
+geo:
+- US
+aliases:
+- liftlab
+- LIFT Lab
+notes: Laboratorio de Stanford Law School sobre IA y práctica jurídica. Ficha mínima.
+stub: true

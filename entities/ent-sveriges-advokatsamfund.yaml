@@ -1,0 +1,11 @@
+id: ent-sveriges-advokatsamfund
+name: Sveriges advokatsamfund
+type: association
+url: https://www.advokatsamfundet.se/
+geo:
+- SE
+aliases:
+- Swedish Bar Association
+- Colegio de Abogados de Suecia
+notes: Colegio de abogados de Suecia. Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-magnar
+name: Magnar
+type: vendor
+url: https://www.magnar.ai/
+geo:
+- CL
+- LatAm
+aliases: []
+notes: Plataforma chilena de IA jurídica para abogados latinoamericanos. Ficha mínima.
+stub: true

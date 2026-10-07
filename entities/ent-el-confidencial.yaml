@@ -1,0 +1,10 @@
+id: ent-el-confidencial
+name: El Confidencial
+type: media
+url: https://www.elconfidencial.com/
+geo:
+- ES
+aliases: []
+notes: Diario digital español; encuesta a los 25 mayores despachos sobre IA y júniors
+  (Oct 2026). Ficha mínima.
+stub: true

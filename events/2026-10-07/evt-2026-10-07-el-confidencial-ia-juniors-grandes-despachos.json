@@ -1,0 +1,35 @@
+{
+  "id": "evt-2026-10-07-el-confidencial-ia-juniors-grandes-despachos",
+  "date": "2026-10-06",
+  "type": "market",
+  "sota_score": 8.3,
+  "ai_legaltech": true,
+  "title": "Los 25 mayores despachos de España: más del 90% admite que la IA ya hace parte del trabajo de los júniors y el 60% ve un riesgo «alto» para su aprendizaje",
+  "summary_p1": "El Confidencial publicó el 6 de octubre de 2026 una encuesta entre los 25 despachos más grandes de España de su ránking de facturación. Más del 90% admite que la IA ya asume parte del trabajo que tradicionalmente se encargaba a los júniors: el 31,8% cree que ha reducido «de forma significativa» el tiempo de esas tareas, el 63,6% que la reducción ha sido limitada y solo el 4,5% no ve ninguna. El 60% ve un riesgo «alto» de que la IA reduzca las oportunidades de aprendizaje de los abogados jóvenes y el 86% ya ha cambiado sus programas de formación, sobre todo para enseñar a usar bien estas herramientas. En contratación, el 68% no ha variado sus incorporaciones, pero un 9% ya contrata menos júniors por la IA y un 22,7% cree que lo hará. Todas las firmas encuestadas tienen un protocolo de uso de IA, solo el 10% limita su uso a ciertos profesionales y el 86% combina herramientas genéricas y jurídicas.",
+  "summary_p2": "Para socios directores y para quien compra servicios jurídicos, el dato más revelador está del lado del cliente: el 80% de las firmas dice que sus clientes han exigido saber si se usó IA en sus asuntos y un 30% que algún cliente ha prohibido a sus despachos externos usarla. La política de IA deja así de ser un asunto interno y pasa a formar parte de la relación comercial, con cláusulas en las engagement letters (cartas de encargo) y la necesidad de poder demostrar qué herramienta intervino en cada documento. Los expertos citados, Miguel Ángel Pérez de la Manga (BlackSwan) y Eugenia Navarro (Lois), apuntan al efecto de segundo orden: si la IA absorbe la base de la pirámide, el aprendizaje «maestro-oficial-aprendiz» deja de ir incluido en la factura, el apalancamiento se resiente y se tensan el precio por horas frente al precio por valor y la compensación de socios. Para un in-house, es una buena pregunta para la próxima revisión del panel de despachos: cómo forma cada firma a quien tiene que revisar lo que produce la IA.",
+  "why_sota": "Primera foto cuantitativa del efecto de la IA sobre los júniors en los 25 mayores despachos españoles.",
+  "why_now": "El Confidencial 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "despachos",
+    "talento",
+    "formacion",
+    "ia-generativa",
+    "clientes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-el-confidencial",
+      "url": "https://www.elconfidencial.com/juridico/2026-10-06/despachos-abogados-ia-trabajo-juniors_4438899/",
+      "cited_title": "Más del 90% de los despachos admite que la IA ya absorbe trabajo de los júniors",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-el-confidencial"
+  ],
+  "lang": "es",
+  "status": "published"
+}

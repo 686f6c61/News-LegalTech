@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-07-legal-it-insider-security-report-ia",
+  "date": "2026-10-06",
+  "type": "research",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Legal IT Insider: con la IA, la seguridad del despacho ya no está en el perímetro sino en cada abogado",
+  "summary_p1": "Legal IT Insider publicó el 6 de octubre de 2026 su Security Report «Beyond the perimeter: AI is rewriting the rules», firmado por su analista principal Neil Cameron, exbarrister con 30 años de asesoría para LexisNexis, Allen & Overy y KPMG y en consultoría de legal tech para despachos. La tesis: los modelos de seguridad basados en el perímetro ya sufrían con la nube y el trabajo híbrido, y la IA generativa los ha rematado. El cambio más importante no es técnico sino organizativo, porque los abogados son a la vez la mayor fuente de riesgo y el control de seguridad más importante. A partir de investigación y conversaciones on y off the record, el informe localiza dónde está hoy el riesgo real: shadow AI (uso de IA no autorizada), fuga de datos a través de los prompts (instrucciones), erosión del privilege (secreto profesional), exposición transfronteriza de datos y respuesta a incidentes específicos de IA, sin perder de vista lo propio de la práctica jurídica: confidencialidad, exposición regulatoria y confianza del cliente.",
+  "summary_p2": "Lo práctico para socios directores, CIO y responsables de riesgos es que el informe baja a la gobernanza: incluye «diez preguntas que un managing partner (socio director) debería saber responder» y cinco decisiones que la dirección debería tomar de forma explícita en lugar de heredarlas por defecto. El enfoque cambia también la conversación con aseguradoras y clientes, porque en un entorno que ya no se puede controlar del todo la resiliencia pesa más que la prevención. Cameron lo resume así: «The firms that fare best will not be those with the fewest incidents, but those for which an incident is an operational event rather than an existential one» (saldrán mejor paradas las firmas para las que un incidente sea un evento operativo y no existencial). Para un in-house que audita a sus despachos, la lista sirve para el próximo cuestionario de seguridad: qué política hay sobre shadow AI, cómo se protege el privilegio cuando un documento pasa por un modelo y qué plan existe para un incidente causado por IA.",
+  "why_sota": "Marco de seguridad para despachos en el que la IA desplaza el riesgo al usuario.",
+  "why_now": "Legal IT Insider 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "UK",
+    "Global"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "shadow-ai",
+    "privilege",
+    "gobernanza",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/legal-it-insider-security-report-beyond-the-perimeter-ai-is-rewriting-the-rules/",
+      "cited_title": "Legal IT Insider Security Report: Beyond the perimeter - AI is rewriting the rules",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-legal-it-insider"
+  ],
+  "lang": "es",
+  "status": "published"
+}

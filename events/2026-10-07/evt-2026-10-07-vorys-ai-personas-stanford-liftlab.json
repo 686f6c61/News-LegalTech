@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-07-vorys-ai-personas-stanford-liftlab",
+  "date": "2026-10-06",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "Vorys ya tiene 36 AI personas (personas de IA) de sus socios, creadas con el LIFT Lab de Stanford, y el siguiente paso son los clientes",
+  "summary_p1": "Legaltech News (Law.com) contó el 6 de octubre de 2026 que el despacho estadounidense Vorys, Sater, Seymour and Pease lleva algo más de un año colaborando con el Legal Innovation Through Frontier Technology (LIFT) Lab de Stanford para desarrollar AI personas (personas de IA) de sus abogados. Cada persona lleva el nombre de un socio concreto y recoge su conocimiento jurídico, su criterio y su contexto a partir de entrevistas entre ese abogado y los desarrolladores del laboratorio; la relación empezó en septiembre de 2025, cuando Vorys se convirtió en uno de los asesores fundadores del lab. La firma ha creado ya 36 personas de socios, quiere abrir el proceso a asociados con experiencia y las usa para preparar escenarios de formación a medida para los abogados nuevos, revisar documentos, identificar riesgos en contratos y proponer cambios. El titular adelanta el siguiente paso: llevarlas a los clientes.",
+  "summary_p2": "Para socios y responsables de talento, la idea es tan atractiva como delicada. Atractiva porque convierte el criterio de un socio, escaso y caro, en un interlocutor disponible a cualquier hora para el júnior y en material de formación, justo cuando la IA erosiona el aprendizaje por repetición (ver la encuesta de El Confidencial en este mismo número). Delicada porque abre preguntas que cualquier despacho debería responder antes de copiarla: de quién es la persona si el socio se va, cómo se actualiza cuando su criterio cambia, cómo se evita que el cliente confunda la respuesta de un modelo con el consejo del socio y qué supervisión humana se exige, un punto en el que Vorys ya insistía cuando Reuters describió el proyecto en mayo con 19 personas. Si las personas llegan a los clientes, el despacho estará vendiendo acceso a criterio empaquetado, y eso obliga a repensar responsabilidad profesional, precio y propiedad intelectual antes que la tecnología.",
+  "why_sota": "Un despacho escala «gemelos» de IA de sus socios y plantea ofrecerlos a clientes.",
+  "why_now": "Law.com 6 Oct 2026 (36 personas, frente a 19 en mayo). NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "despachos",
+    "ai-personas",
+    "formacion",
+    "knowledge-management",
+    "stanford"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/06/vorys-deploys-ai-personas-for-lawyers-says-clients-are-next-/",
+      "cited_title": "Vorys Deploys AI Personas for Lawyers, Says Clients Are Next",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-vorys",
+    "ent-stanford-liftlab"
+  ],
+  "lang": "es",
+  "status": "published"
+}

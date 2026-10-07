@@ -1,0 +1,11 @@
+id: ent-vorys
+name: Vorys, Sater, Seymour and Pease
+type: law_firm
+url: https://www.vorys.com/
+geo:
+- US
+aliases:
+- Vorys
+notes: Despacho estadounidense; AI personas de socios con Stanford liftlab. Ficha
+  mínima.
+stub: true

@@ -1,0 +1,71 @@
+scan_id: full-radar-2026-10-07
+date: '2026-10-07'
+release: 07.10.26
+count: 10
+ai_share: 0.8
+dedup_against: events/2026-09-29 + 2026-09-30 + 2026-10-01 + 2026-10-02 + 2026-10-03
+  + 2026-10-04 + 2026-10-05 + 2026-10-06 + scans PASS
+event_ids:
+- evt-2026-10-07-el-confidencial-ia-juniors-grandes-despachos
+- evt-2026-10-07-legora-skills
+- evt-2026-10-07-aepd-advertencias-videovigilancia-ia-ayuntamientos
+- evt-2026-10-07-vorys-ai-personas-stanford-liftlab
+- evt-2026-10-07-legal-it-insider-security-report-ia
+- evt-2026-10-07-thomson-reuters-llm-propio-soberania
+- evt-2026-10-07-beccar-varela-invierte-magnar
+- evt-2026-10-07-arkivia-ronda-acuerdo-marco-colegio-suecia
+- evt-2026-10-07-garante-iqvia-anonimizacion-7m
+- evt-2026-10-07-hacienda-verifactu-octubre-2028
+events:
+- id: evt-2026-10-07-el-confidencial-ia-juniors-grandes-despachos
+  sota_score: 8.3
+  ai_legaltech: true
+  title: 'Los 25 mayores despachos de España: más del 90% admite que la IA ya hace
+    parte del trabajo de los júniors y el 60% ve un riesgo «alto» para su aprendizaje'
+- id: evt-2026-10-07-legora-skills
+  sota_score: 8.1
+  ai_legaltech: true
+  title: 'Legora lanza Skills: más de 250 instrucciones reutilizables para que su
+    agente trabaje «como se hace en este despacho»'
+- id: evt-2026-10-07-aepd-advertencias-videovigilancia-ia-ayuntamientos
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'La AEPD advierte a dos ayuntamientos sobre videovigilancia con IA: reconocimiento
+    facial y búsqueda de personas por su apariencia, solo con garantías previas'
+- id: evt-2026-10-07-vorys-ai-personas-stanford-liftlab
+  sota_score: 7.7
+  ai_legaltech: true
+  title: Vorys ya tiene 36 AI personas (personas de IA) de sus socios, creadas con
+    el LIFT Lab de Stanford, y el siguiente paso son los clientes
+- id: evt-2026-10-07-legal-it-insider-security-report-ia
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'Legal IT Insider: con la IA, la seguridad del despacho ya no está en el
+    perímetro sino en cada abogado'
+- id: evt-2026-10-07-thomson-reuters-llm-propio-soberania
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'Thomson Reuters explica por qué construyó su propio LLM: coste, data sovereignty
+    (soberanía de datos) y la opción de licenciarlo para que los despachos lo ejecuten
+    en sus servidores'
+- id: evt-2026-10-07-beccar-varela-invierte-magnar
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Beccar Varela entra como inversor minoritario en Magnar, la plataforma chilena
+    de IA jurídica con 30.000 usuarios en siete países
+- id: evt-2026-10-07-arkivia-ronda-acuerdo-marco-colegio-suecia
+  sota_score: 7.3
+  ai_legaltech: true
+  title: La sueca Arkivia levanta 40 millones de coronas y firma el primer framework
+    agreement (acuerdo marco) del Colegio de Abogados de Suecia para un sistema de
+    gestión de expedientes
+- id: evt-2026-10-07-garante-iqvia-anonimizacion-7m
+  sota_score: 7.2
+  ai_legaltech: false
+  title: 'El Garante italiano multa con 7 M€ a IQVIA: los datos de un millón de pacientes
+    que la empresa trataba como anónimos seguían siendo personales'
+- id: evt-2026-10-07-hacienda-verifactu-octubre-2028
+  sota_score: 7.0
+  ai_legaltech: false
+  title: Hacienda prevé aplazar Verifactu a octubre de 2028 para alinearlo con la
+    factura electrónica obligatoria

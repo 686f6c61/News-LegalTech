@@ -1,0 +1,613 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/07.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 07.10.26",
+      "schema:version": "07.10.26",
+      "schema:datePublished": "2026-10-07",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-07, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/07.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-el-confidencial-ia-juniors-grandes-despachos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-legora-skills"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-aepd-advertencias-videovigilancia-ia-ayuntamientos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-vorys-ai-personas-stanford-liftlab"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-legal-it-insider-security-report-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-thomson-reuters-llm-propio-soberania"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-beccar-varela-invierte-magnar"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-arkivia-ronda-acuerdo-marco-colegio-suecia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-garante-iqvia-anonimizacion-7m"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-hacienda-verifactu-octubre-2028"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-el-confidencial-ia-juniors-grandes-despachos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-el-confidencial-ia-juniors-grandes-despachos",
+      "schema:headline": "Los 25 mayores despachos de España: más del 90% admite que la IA ya hace parte del trabajo de los júniors y el 60% ve un riesgo «alto» para su aprendizaje",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Confidencial publicó el 6 de octubre de 2026 una encuesta entre los 25 despachos más grandes de España de su ránking de facturación. Más del 90% admite que la IA ya asume parte del trabajo que tradicionalmente se encargaba a los júniors: el 31,8% cree que ha reducido «de forma significativa» el tiempo de esas tareas, el 63,6% que la reducción ha sido limitada y solo el 4,5% no ve ninguna. El 60% ve un riesgo «alto» de que la IA reduzca las oportunidades de aprendizaje de los abogados jóvenes y el 86% ya ha cambiado sus programas de formación, sobre todo para enseñar a usar bien estas herramientas. En contratación, el 68% no ha variado sus incorporaciones, pero un 9% ya contrata menos júniors por la IA y un 22,7% cree que lo hará. Todas las firmas encuestadas tienen un protocolo de uso de IA, solo el 10% limita su uso a ciertos profesionales y el 86% combina herramientas genéricas y jurídicas.",
+      "schema:articleBody": "El Confidencial publicó el 6 de octubre de 2026 una encuesta entre los 25 despachos más grandes de España de su ránking de facturación. Más del 90% admite que la IA ya asume parte del trabajo que tradicionalmente se encargaba a los júniors: el 31,8% cree que ha reducido «de forma significativa» el tiempo de esas tareas, el 63,6% que la reducción ha sido limitada y solo el 4,5% no ve ninguna. El 60% ve un riesgo «alto» de que la IA reduzca las oportunidades de aprendizaje de los abogados jóvenes y el 86% ya ha cambiado sus programas de formación, sobre todo para enseñar a usar bien estas herramientas. En contratación, el 68% no ha variado sus incorporaciones, pero un 9% ya contrata menos júniors por la IA y un 22,7% cree que lo hará. Todas las firmas encuestadas tienen un protocolo de uso de IA, solo el 10% limita su uso a ciertos profesionales y el 86% combina herramientas genéricas y jurídicas.\n\nPara socios directores y para quien compra servicios jurídicos, el dato más revelador está del lado del cliente: el 80% de las firmas dice que sus clientes han exigido saber si se usó IA en sus asuntos y un 30% que algún cliente ha prohibido a sus despachos externos usarla. La política de IA deja así de ser un asunto interno y pasa a formar parte de la relación comercial, con cláusulas en las engagement letters (cartas de encargo) y la necesidad de poder demostrar qué herramienta intervino en cada documento. Los expertos citados, Miguel Ángel Pérez de la Manga (BlackSwan) y Eugenia Navarro (Lois), apuntan al efecto de segundo orden: si la IA absorbe la base de la pirámide, el aprendizaje «maestro-oficial-aprendiz» deja de ir incluido en la factura, el apalancamiento se resiente y se tensan el precio por horas frente al precio por valor y la compensación de socios. Para un in-house, es una buena pregunta para la próxima revisión del panel de despachos: cómo forma cada firma a quien tiene que revisar lo que produce la IA.",
+      "sota:type": "market",
+      "sota:sotaScore": 8.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera foto cuantitativa del efecto de la IA sobre los júniors en los 25 mayores despachos españoles.",
+      "sota:whyNow": "El Confidencial 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "despachos",
+        "talento",
+        "formacion",
+        "ia-generativa",
+        "clientes"
+      ],
+      "sota:summaryP1": "El Confidencial publicó el 6 de octubre de 2026 una encuesta entre los 25 despachos más grandes de España de su ránking de facturación. Más del 90% admite que la IA ya asume parte del trabajo que tradicionalmente se encargaba a los júniors: el 31,8% cree que ha reducido «de forma significativa» el tiempo de esas tareas, el 63,6% que la reducción ha sido limitada y solo el 4,5% no ve ninguna. El 60% ve un riesgo «alto» de que la IA reduzca las oportunidades de aprendizaje de los abogados jóvenes y el 86% ya ha cambiado sus programas de formación, sobre todo para enseñar a usar bien estas herramientas. En contratación, el 68% no ha variado sus incorporaciones, pero un 9% ya contrata menos júniors por la IA y un 22,7% cree que lo hará. Todas las firmas encuestadas tienen un protocolo de uso de IA, solo el 10% limita su uso a ciertos profesionales y el 86% combina herramientas genéricas y jurídicas.",
+      "sota:summaryP2": "Para socios directores y para quien compra servicios jurídicos, el dato más revelador está del lado del cliente: el 80% de las firmas dice que sus clientes han exigido saber si se usó IA en sus asuntos y un 30% que algún cliente ha prohibido a sus despachos externos usarla. La política de IA deja así de ser un asunto interno y pasa a formar parte de la relación comercial, con cláusulas en las engagement letters (cartas de encargo) y la necesidad de poder demostrar qué herramienta intervino en cada documento. Los expertos citados, Miguel Ángel Pérez de la Manga (BlackSwan) y Eugenia Navarro (Lois), apuntan al efecto de segundo orden: si la IA absorbe la base de la pirámide, el aprendizaje «maestro-oficial-aprendiz» deja de ir incluido en la factura, el apalancamiento se resiente y se tensan el precio por horas frente al precio por valor y la compensación de socios. Para un in-house, es una buena pregunta para la próxima revisión del panel de despachos: cómo forma cada firma a quien tiene que revisar lo que produce la IA.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.elconfidencial.com/juridico/2026-10-06/despachos-abogados-ia-trabajo-juniors_4438899/",
+          "schema:name": "Más del 90% de los despachos admite que la IA ya absorbe trabajo de los júniors",
+          "sota:sourceId": "src-el-confidencial"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-confidencial"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-legora-skills",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-legora-skills",
+      "schema:headline": "Legora lanza Skills: más de 250 instrucciones reutilizables para que su agente trabaje «como se hace en este despacho»",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legora anunció el 5 de octubre de 2026 Skills, disponible para todos sus clientes, y Legaltech News (Law.com) lo contó el 6. Un skill (habilidad) es un conjunto de instrucciones en lenguaje natural que le dice al agente de Legora cómo ejecutar una tarea concreta: cómo estructura un equipo la revisión de un contrato, qué posiciones negociadoras cede y en qué orden, o cómo debe sonar una carta al cliente. El lanzamiento llega con una biblioteca de más de 250 skills construidos y probados por los legal engineers (ingenieros jurídicos) de Legora en más de 20 áreas de práctica, como first-pass contract review (primera revisión de contratos), triage (clasificación inicial) de NDA o construcción de cronologías. Los clientes pueden crear los suyos desde el chat del agente y a partir de trabajo previo, con documentos de referencia, plantillas y ejemplos. El agente elige el skill pertinente o lo selecciona el abogado, varios pueden combinarse en una misma tarea y funcionan también dentro de Word y Outlook. El CEO, Max Junestrand, resumió el problema que quiere resolver: «It's not wrong. It's just not how we do it here» (no está mal, pero no es como lo hacemos aquí).",
+      "schema:articleBody": "Legora anunció el 5 de octubre de 2026 Skills, disponible para todos sus clientes, y Legaltech News (Law.com) lo contó el 6. Un skill (habilidad) es un conjunto de instrucciones en lenguaje natural que le dice al agente de Legora cómo ejecutar una tarea concreta: cómo estructura un equipo la revisión de un contrato, qué posiciones negociadoras cede y en qué orden, o cómo debe sonar una carta al cliente. El lanzamiento llega con una biblioteca de más de 250 skills construidos y probados por los legal engineers (ingenieros jurídicos) de Legora en más de 20 áreas de práctica, como first-pass contract review (primera revisión de contratos), triage (clasificación inicial) de NDA o construcción de cronologías. Los clientes pueden crear los suyos desde el chat del agente y a partir de trabajo previo, con documentos de referencia, plantillas y ejemplos. El agente elige el skill pertinente o lo selecciona el abogado, varios pueden combinarse en una misma tarea y funcionan también dentro de Word y Outlook. El CEO, Max Junestrand, resumió el problema que quiere resolver: «It's not wrong. It's just not how we do it here» (no está mal, pero no es como lo hacemos aquí).\n\nPara knowledge managers y responsables de innovación, Skills desplaza el valor desde el modelo hacia el know-how (conocimiento práctico) codificado del despacho: los playbooks (guías de negociación) y criterios que vivían en manuales o en la cabeza de un socio pasan a ser activos que el agente aplica. Según LegalTech.ca, cada usuario controla qué skills instala, los administradores gobiernan cuáles se comparten en toda la organización, se mantienen los permisos de cada asunto y hay versionado y auditabilidad, que es justo lo que un comité de riesgos pedirá antes de dejar que un agente aplique posiciones negociadoras por su cuenta. Law.com encuadra el lanzamiento en la ola de herramientas basadas en skills de OpenAI y Anthropic, así que la diferencia competitiva ya no será solo qué modelo hay debajo, sino cuánta metodología propia puede capturar cada cliente sin encargar desarrollo a medida. Para quien negocie con Legora o con sus rivales, conviene preguntar desde ya si esos skills se pueden exportar y en qué formato, porque la metodología del despacho no debería quedar atada a un proveedor.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Los skills convierten el know-how del despacho en instrucciones gobernadas para agentes jurídicos.",
+      "sota:whyNow": "Legora 5 Oct 2026; Law.com y LegalTech.ca 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "Global",
+        "SE",
+        "US"
+      ],
+      "sota:topics": [
+        "ia-agentica",
+        "knowledge-management",
+        "skills",
+        "legora",
+        "playbooks"
+      ],
+      "sota:summaryP1": "Legora anunció el 5 de octubre de 2026 Skills, disponible para todos sus clientes, y Legaltech News (Law.com) lo contó el 6. Un skill (habilidad) es un conjunto de instrucciones en lenguaje natural que le dice al agente de Legora cómo ejecutar una tarea concreta: cómo estructura un equipo la revisión de un contrato, qué posiciones negociadoras cede y en qué orden, o cómo debe sonar una carta al cliente. El lanzamiento llega con una biblioteca de más de 250 skills construidos y probados por los legal engineers (ingenieros jurídicos) de Legora en más de 20 áreas de práctica, como first-pass contract review (primera revisión de contratos), triage (clasificación inicial) de NDA o construcción de cronologías. Los clientes pueden crear los suyos desde el chat del agente y a partir de trabajo previo, con documentos de referencia, plantillas y ejemplos. El agente elige el skill pertinente o lo selecciona el abogado, varios pueden combinarse en una misma tarea y funcionan también dentro de Word y Outlook. El CEO, Max Junestrand, resumió el problema que quiere resolver: «It's not wrong. It's just not how we do it here» (no está mal, pero no es como lo hacemos aquí).",
+      "sota:summaryP2": "Para knowledge managers y responsables de innovación, Skills desplaza el valor desde el modelo hacia el know-how (conocimiento práctico) codificado del despacho: los playbooks (guías de negociación) y criterios que vivían en manuales o en la cabeza de un socio pasan a ser activos que el agente aplica. Según LegalTech.ca, cada usuario controla qué skills instala, los administradores gobiernan cuáles se comparten en toda la organización, se mantienen los permisos de cada asunto y hay versionado y auditabilidad, que es justo lo que un comité de riesgos pedirá antes de dejar que un agente aplique posiciones negociadoras por su cuenta. Law.com encuadra el lanzamiento en la ola de herramientas basadas en skills de OpenAI y Anthropic, así que la diferencia competitiva ya no será solo qué modelo hay debajo, sino cuánta metodología propia puede capturar cada cliente sin encargar desarrollo a medida. Para quien negocie con Legora o con sus rivales, conviene preguntar desde ya si esos skills se pueden exportar y en qué formato, porque la metodología del despacho no debería quedar atada a un proveedor.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/06/legora-launches-skills-pre-built-and-custom-instructions-for-its-ai-agent-/",
+          "schema:name": "Legora Launches Skills, Pre-Built and Custom Instructions for Its AI Agent",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/06/legora-launches-skills-to-teach-legal-ai-how-firms-work/",
+          "schema:name": "Legora Launches Skills to Teach Legal AI How Firms Work",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-aepd-advertencias-videovigilancia-ia-ayuntamientos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-aepd-advertencias-videovigilancia-ia-ayuntamientos",
+      "schema:headline": "La AEPD advierte a dos ayuntamientos sobre videovigilancia con IA: reconocimiento facial y búsqueda de personas por su apariencia, solo con garantías previas",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La AEPD informó el 6 de octubre de 2026 de que ha dirigido sendas advertencias, la medida preventiva del artículo 58.2.a) del RGPD, a dos ayuntamientos con proyectos de videovigilancia que incorporan IA para el análisis automatizado de imágenes. Uno contempla detección o reconocimiento facial; el otro, detección de personas y vehículos, generación de metadatos y búsqueda de personas por su apariencia (ropa, pelo, sexo o grupo de edad), incluso a partir de una fotografía. La Agencia aclara que la advertencia no declara ninguna infracción y que la normativa no impide usar estas tecnologías, pero fija el método: analizar antes de la puesta en marcha qué funcionalidades son necesarias y proporcionadas, qué datos genera cada una, cuánto tiempo se conservan y quién accede a ellos, y hacer una evaluación de impacto en protección de datos cuando el tratamiento pueda entrañar un alto riesgo. Su frase clave: la disponibilidad técnica de una capacidad de identificación, búsqueda, localización o seguimiento de personas no justifica por sí misma su uso.",
+      "schema:articleBody": "La AEPD informó el 6 de octubre de 2026 de que ha dirigido sendas advertencias, la medida preventiva del artículo 58.2.a) del RGPD, a dos ayuntamientos con proyectos de videovigilancia que incorporan IA para el análisis automatizado de imágenes. Uno contempla detección o reconocimiento facial; el otro, detección de personas y vehículos, generación de metadatos y búsqueda de personas por su apariencia (ropa, pelo, sexo o grupo de edad), incluso a partir de una fotografía. La Agencia aclara que la advertencia no declara ninguna infracción y que la normativa no impide usar estas tecnologías, pero fija el método: analizar antes de la puesta en marcha qué funcionalidades son necesarias y proporcionadas, qué datos genera cada una, cuánto tiempo se conservan y quién accede a ellos, y hacer una evaluación de impacto en protección de datos cuando el tratamiento pueda entrañar un alto riesgo. Su frase clave: la disponibilidad técnica de una capacidad de identificación, búsqueda, localización o seguimiento de personas no justifica por sí misma su uso.\n\nPara proveedores de vídeo analítico, integradores y asesores de Administraciones, el mensaje es que la evaluación se hace funcionalidad por funcionalidad y no por la mera instalación de cámaras: en los tratamientos de la Policía Local, la necesidad, idoneidad y proporcionalidad deben justificarse para cada capacidad adicional de análisis automatizado. Si alguna función trata datos biométricos para identificar de forma unívoca a una persona, se aplica el régimen reforzado de los datos biométricos con garantías específicas, y la AEPD exige además información clara y comprensible para los ciudadanos. Aunque la nota no lo menciona, conviene leerla junto con el AI Act (Reglamento de IA), que limita la identificación biométrica remota en espacios públicos con fines policiales y trata otros usos biométricos como de alto riesgo. En la práctica, los pliegos de contratación de estos sistemas tendrán que permitir desactivar funcionalidades, documentar los metadatos que se generan y acreditar la evaluación de impacto, y para el vendor la privacy by design (protección de datos desde el diseño) con módulos que se puedan apagar pasa a ser un requisito comercial.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "El regulador español fija el método para desplegar videovigilancia con IA en el sector público.",
+      "sota:whyNow": "Nota de prensa AEPD 6 Oct 2026 (El Derecho). NEW vs PASS 09-29→10-06 (distinta de la nota sobre IA y currículums).",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "aepd",
+        "rgpd",
+        "videovigilancia",
+        "biometria",
+        "sector-publico",
+        "ai-act"
+      ],
+      "sota:summaryP1": "La AEPD informó el 6 de octubre de 2026 de que ha dirigido sendas advertencias, la medida preventiva del artículo 58.2.a) del RGPD, a dos ayuntamientos con proyectos de videovigilancia que incorporan IA para el análisis automatizado de imágenes. Uno contempla detección o reconocimiento facial; el otro, detección de personas y vehículos, generación de metadatos y búsqueda de personas por su apariencia (ropa, pelo, sexo o grupo de edad), incluso a partir de una fotografía. La Agencia aclara que la advertencia no declara ninguna infracción y que la normativa no impide usar estas tecnologías, pero fija el método: analizar antes de la puesta en marcha qué funcionalidades son necesarias y proporcionadas, qué datos genera cada una, cuánto tiempo se conservan y quién accede a ellos, y hacer una evaluación de impacto en protección de datos cuando el tratamiento pueda entrañar un alto riesgo. Su frase clave: la disponibilidad técnica de una capacidad de identificación, búsqueda, localización o seguimiento de personas no justifica por sí misma su uso.",
+      "sota:summaryP2": "Para proveedores de vídeo analítico, integradores y asesores de Administraciones, el mensaje es que la evaluación se hace funcionalidad por funcionalidad y no por la mera instalación de cámaras: en los tratamientos de la Policía Local, la necesidad, idoneidad y proporcionalidad deben justificarse para cada capacidad adicional de análisis automatizado. Si alguna función trata datos biométricos para identificar de forma unívoca a una persona, se aplica el régimen reforzado de los datos biométricos con garantías específicas, y la AEPD exige además información clara y comprensible para los ciudadanos. Aunque la nota no lo menciona, conviene leerla junto con el AI Act (Reglamento de IA), que limita la identificación biométrica remota en espacios públicos con fines policiales y trata otros usos biométricos como de alto riesgo. En la práctica, los pliegos de contratación de estos sistemas tendrán que permitir desactivar funcionalidades, documentar los metadatos que se generan y acreditar la evaluación de impacto, y para el vendor la privacy by design (protección de datos desde el diseño) con módulos que se puedan apagar pasa a ser un requisito comercial.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-sennala-garantias-para-incorporar-ia-a-sistemas-videovigilancia",
+          "schema:name": "La AEPD señala las garantías para incorporar inteligencia artificial a los sistemas de videovigilancia",
+          "sota:sourceId": "src-aepd"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://elderecho.com/la-aepd-senala-las-garantias-para-incorporar-inteligencia-artificial-a-los-sistemas-de-videovigilancia",
+          "schema:name": "AEPD señala las garantías para incorporar IA a sistemas de videovigilancia",
+          "sota:sourceId": "src-el-derecho-lefebvre"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-vorys-ai-personas-stanford-liftlab",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-vorys-ai-personas-stanford-liftlab",
+      "schema:headline": "Vorys ya tiene 36 AI personas (personas de IA) de sus socios, creadas con el LIFT Lab de Stanford, y el siguiente paso son los clientes",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legaltech News (Law.com) contó el 6 de octubre de 2026 que el despacho estadounidense Vorys, Sater, Seymour and Pease lleva algo más de un año colaborando con el Legal Innovation Through Frontier Technology (LIFT) Lab de Stanford para desarrollar AI personas (personas de IA) de sus abogados. Cada persona lleva el nombre de un socio concreto y recoge su conocimiento jurídico, su criterio y su contexto a partir de entrevistas entre ese abogado y los desarrolladores del laboratorio; la relación empezó en septiembre de 2025, cuando Vorys se convirtió en uno de los asesores fundadores del lab. La firma ha creado ya 36 personas de socios, quiere abrir el proceso a asociados con experiencia y las usa para preparar escenarios de formación a medida para los abogados nuevos, revisar documentos, identificar riesgos en contratos y proponer cambios. El titular adelanta el siguiente paso: llevarlas a los clientes.",
+      "schema:articleBody": "Legaltech News (Law.com) contó el 6 de octubre de 2026 que el despacho estadounidense Vorys, Sater, Seymour and Pease lleva algo más de un año colaborando con el Legal Innovation Through Frontier Technology (LIFT) Lab de Stanford para desarrollar AI personas (personas de IA) de sus abogados. Cada persona lleva el nombre de un socio concreto y recoge su conocimiento jurídico, su criterio y su contexto a partir de entrevistas entre ese abogado y los desarrolladores del laboratorio; la relación empezó en septiembre de 2025, cuando Vorys se convirtió en uno de los asesores fundadores del lab. La firma ha creado ya 36 personas de socios, quiere abrir el proceso a asociados con experiencia y las usa para preparar escenarios de formación a medida para los abogados nuevos, revisar documentos, identificar riesgos en contratos y proponer cambios. El titular adelanta el siguiente paso: llevarlas a los clientes.\n\nPara socios y responsables de talento, la idea es tan atractiva como delicada. Atractiva porque convierte el criterio de un socio, escaso y caro, en un interlocutor disponible a cualquier hora para el júnior y en material de formación, justo cuando la IA erosiona el aprendizaje por repetición (ver la encuesta de El Confidencial en este mismo número). Delicada porque abre preguntas que cualquier despacho debería responder antes de copiarla: de quién es la persona si el socio se va, cómo se actualiza cuando su criterio cambia, cómo se evita que el cliente confunda la respuesta de un modelo con el consejo del socio y qué supervisión humana se exige, un punto en el que Vorys ya insistía cuando Reuters describió el proyecto en mayo con 19 personas. Si las personas llegan a los clientes, el despacho estará vendiendo acceso a criterio empaquetado, y eso obliga a repensar responsabilidad profesional, precio y propiedad intelectual antes que la tecnología.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un despacho escala «gemelos» de IA de sus socios y plantea ofrecerlos a clientes.",
+      "sota:whyNow": "Law.com 6 Oct 2026 (36 personas, frente a 19 en mayo). NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "despachos",
+        "ai-personas",
+        "formacion",
+        "knowledge-management",
+        "stanford"
+      ],
+      "sota:summaryP1": "Legaltech News (Law.com) contó el 6 de octubre de 2026 que el despacho estadounidense Vorys, Sater, Seymour and Pease lleva algo más de un año colaborando con el Legal Innovation Through Frontier Technology (LIFT) Lab de Stanford para desarrollar AI personas (personas de IA) de sus abogados. Cada persona lleva el nombre de un socio concreto y recoge su conocimiento jurídico, su criterio y su contexto a partir de entrevistas entre ese abogado y los desarrolladores del laboratorio; la relación empezó en septiembre de 2025, cuando Vorys se convirtió en uno de los asesores fundadores del lab. La firma ha creado ya 36 personas de socios, quiere abrir el proceso a asociados con experiencia y las usa para preparar escenarios de formación a medida para los abogados nuevos, revisar documentos, identificar riesgos en contratos y proponer cambios. El titular adelanta el siguiente paso: llevarlas a los clientes.",
+      "sota:summaryP2": "Para socios y responsables de talento, la idea es tan atractiva como delicada. Atractiva porque convierte el criterio de un socio, escaso y caro, en un interlocutor disponible a cualquier hora para el júnior y en material de formación, justo cuando la IA erosiona el aprendizaje por repetición (ver la encuesta de El Confidencial en este mismo número). Delicada porque abre preguntas que cualquier despacho debería responder antes de copiarla: de quién es la persona si el socio se va, cómo se actualiza cuando su criterio cambia, cómo se evita que el cliente confunda la respuesta de un modelo con el consejo del socio y qué supervisión humana se exige, un punto en el que Vorys ya insistía cuando Reuters describió el proyecto en mayo con 19 personas. Si las personas llegan a los clientes, el despacho estará vendiendo acceso a criterio empaquetado, y eso obliga a repensar responsabilidad profesional, precio y propiedad intelectual antes que la tecnología.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/06/vorys-deploys-ai-personas-for-lawyers-says-clients-are-next-/",
+          "schema:name": "Vorys Deploys AI Personas for Lawyers, Says Clients Are Next",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vorys"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stanford-liftlab"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-legal-it-insider-security-report-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-legal-it-insider-security-report-ia",
+      "schema:headline": "Legal IT Insider: con la IA, la seguridad del despacho ya no está en el perímetro sino en cada abogado",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal IT Insider publicó el 6 de octubre de 2026 su Security Report «Beyond the perimeter: AI is rewriting the rules», firmado por su analista principal Neil Cameron, exbarrister con 30 años de asesoría para LexisNexis, Allen & Overy y KPMG y en consultoría de legal tech para despachos. La tesis: los modelos de seguridad basados en el perímetro ya sufrían con la nube y el trabajo híbrido, y la IA generativa los ha rematado. El cambio más importante no es técnico sino organizativo, porque los abogados son a la vez la mayor fuente de riesgo y el control de seguridad más importante. A partir de investigación y conversaciones on y off the record, el informe localiza dónde está hoy el riesgo real: shadow AI (uso de IA no autorizada), fuga de datos a través de los prompts (instrucciones), erosión del privilege (secreto profesional), exposición transfronteriza de datos y respuesta a incidentes específicos de IA, sin perder de vista lo propio de la práctica jurídica: confidencialidad, exposición regulatoria y confianza del cliente.",
+      "schema:articleBody": "Legal IT Insider publicó el 6 de octubre de 2026 su Security Report «Beyond the perimeter: AI is rewriting the rules», firmado por su analista principal Neil Cameron, exbarrister con 30 años de asesoría para LexisNexis, Allen & Overy y KPMG y en consultoría de legal tech para despachos. La tesis: los modelos de seguridad basados en el perímetro ya sufrían con la nube y el trabajo híbrido, y la IA generativa los ha rematado. El cambio más importante no es técnico sino organizativo, porque los abogados son a la vez la mayor fuente de riesgo y el control de seguridad más importante. A partir de investigación y conversaciones on y off the record, el informe localiza dónde está hoy el riesgo real: shadow AI (uso de IA no autorizada), fuga de datos a través de los prompts (instrucciones), erosión del privilege (secreto profesional), exposición transfronteriza de datos y respuesta a incidentes específicos de IA, sin perder de vista lo propio de la práctica jurídica: confidencialidad, exposición regulatoria y confianza del cliente.\n\nLo práctico para socios directores, CIO y responsables de riesgos es que el informe baja a la gobernanza: incluye «diez preguntas que un managing partner (socio director) debería saber responder» y cinco decisiones que la dirección debería tomar de forma explícita en lugar de heredarlas por defecto. El enfoque cambia también la conversación con aseguradoras y clientes, porque en un entorno que ya no se puede controlar del todo la resiliencia pesa más que la prevención. Cameron lo resume así: «The firms that fare best will not be those with the fewest incidents, but those for which an incident is an operational event rather than an existential one» (saldrán mejor paradas las firmas para las que un incidente sea un evento operativo y no existencial). Para un in-house que audita a sus despachos, la lista sirve para el próximo cuestionario de seguridad: qué política hay sobre shadow AI, cómo se protege el privilegio cuando un documento pasa por un modelo y qué plan existe para un incidente causado por IA.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Marco de seguridad para despachos en el que la IA desplaza el riesgo al usuario.",
+      "sota:whyNow": "Legal IT Insider 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "UK",
+        "Global"
+      ],
+      "sota:topics": [
+        "ciberseguridad",
+        "shadow-ai",
+        "privilege",
+        "gobernanza",
+        "despachos"
+      ],
+      "sota:summaryP1": "Legal IT Insider publicó el 6 de octubre de 2026 su Security Report «Beyond the perimeter: AI is rewriting the rules», firmado por su analista principal Neil Cameron, exbarrister con 30 años de asesoría para LexisNexis, Allen & Overy y KPMG y en consultoría de legal tech para despachos. La tesis: los modelos de seguridad basados en el perímetro ya sufrían con la nube y el trabajo híbrido, y la IA generativa los ha rematado. El cambio más importante no es técnico sino organizativo, porque los abogados son a la vez la mayor fuente de riesgo y el control de seguridad más importante. A partir de investigación y conversaciones on y off the record, el informe localiza dónde está hoy el riesgo real: shadow AI (uso de IA no autorizada), fuga de datos a través de los prompts (instrucciones), erosión del privilege (secreto profesional), exposición transfronteriza de datos y respuesta a incidentes específicos de IA, sin perder de vista lo propio de la práctica jurídica: confidencialidad, exposición regulatoria y confianza del cliente.",
+      "sota:summaryP2": "Lo práctico para socios directores, CIO y responsables de riesgos es que el informe baja a la gobernanza: incluye «diez preguntas que un managing partner (socio director) debería saber responder» y cinco decisiones que la dirección debería tomar de forma explícita en lugar de heredarlas por defecto. El enfoque cambia también la conversación con aseguradoras y clientes, porque en un entorno que ya no se puede controlar del todo la resiliencia pesa más que la prevención. Cameron lo resume así: «The firms that fare best will not be those with the fewest incidents, but those for which an incident is an operational event rather than an existential one» (saldrán mejor paradas las firmas para las que un incidente sea un evento operativo y no existencial). Para un in-house que audita a sus despachos, la lista sirve para el próximo cuestionario de seguridad: qué política hay sobre shadow AI, cómo se protege el privilegio cuando un documento pasa por un modelo y qué plan existe para un incidente causado por IA.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/legal-it-insider-security-report-beyond-the-perimeter-ai-is-rewriting-the-rules/",
+          "schema:name": "Legal IT Insider Security Report: Beyond the perimeter - AI is rewriting the rules",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-it-insider"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-thomson-reuters-llm-propio-soberania",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-thomson-reuters-llm-propio-soberania",
+      "schema:headline": "Thomson Reuters explica por qué construyó su propio LLM: coste, data sovereignty (soberanía de datos) y la opción de licenciarlo para que los despachos lo ejecuten en sus servidores",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Canadian Lawyer publicó el 6 de octubre de 2026 una entrevista con David Wong, chief product officer de Thomson Reuters, y Alexander Kardos-Nyheim, que codirige su investigación en machine learning fundacional y llegó a la compañía con la compra en 2024 de su startup Safe Sign Technologies. Explican por qué Thomson, el primer LLM (modelo de lenguaje) propio de la compañía, lanzado este año, supone un giro frente a depender solo de OpenAI, Anthropic o Google. Dan dos motivos: el coste, porque los modelos frontier (de frontera) «son muy caros», y la soberanía de datos, porque según Wong la confianza en algunas grandes tecnológicas está bajando y algunas firmas quieren operar sus propios modelos e infraestructura. Thomson se ha entrenado con Westlaw, Practical Law y Checkpoint y con el trabajo de miles de lawyer-editors (editores jurídicos). Kardos-Nyheim afirma que es el primero en los benchmarks (pruebas comparativas) de legal factuality (exactitud jurídica) «por casi 20 puntos» habiendo visto menos del 10% del contenido de la compañía, y compara el entrenamiento de dominio frente al RAG (generación aumentada por recuperación) con un examen a libro cerrado frente a uno a libro abierto.",
+      "schema:articleBody": "Canadian Lawyer publicó el 6 de octubre de 2026 una entrevista con David Wong, chief product officer de Thomson Reuters, y Alexander Kardos-Nyheim, que codirige su investigación en machine learning fundacional y llegó a la compañía con la compra en 2024 de su startup Safe Sign Technologies. Explican por qué Thomson, el primer LLM (modelo de lenguaje) propio de la compañía, lanzado este año, supone un giro frente a depender solo de OpenAI, Anthropic o Google. Dan dos motivos: el coste, porque los modelos frontier (de frontera) «son muy caros», y la soberanía de datos, porque según Wong la confianza en algunas grandes tecnológicas está bajando y algunas firmas quieren operar sus propios modelos e infraestructura. Thomson se ha entrenado con Westlaw, Practical Law y Checkpoint y con el trabajo de miles de lawyer-editors (editores jurídicos). Kardos-Nyheim afirma que es el primero en los benchmarks (pruebas comparativas) de legal factuality (exactitud jurídica) «por casi 20 puntos» habiendo visto menos del 10% del contenido de la compañía, y compara el entrenamiento de dominio frente al RAG (generación aumentada por recuperación) con un examen a libro cerrado frente a uno a libro abierto.\n\nLa novedad con más implicaciones para despachos es que Thomson Reuters dice estar explorando licenciar el modelo para que las firmas lo ejecuten en su propio hardware, sin proveedores externos, aunque todavía no lo ha hecho. Eso coloca a una editorial jurídica en el terreno que Latham exploró al comprar servidores GPU, según publicó el FT en septiembre: IA soberana para clientes cuya información es demasiado sensible para la nube. Para CIO y compras cambia la ecuación build vs buy (construir o comprar): entre usar un vendor de IA jurídica sobre modelos de terceros o montarlo todo en casa aparece una tercera vía, un modelo de dominio con licencia on-premise (en servidores propios). Las cifras son afirmaciones del propio proveedor y conviene pedir resultados en tareas propias, pero la estrategia multi-model (multimodelo) que describe Wong confirma que ni siquiera los grandes apuestan por un único proveedor de modelos.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Una editorial jurídica abre la puerta a licenciar su LLM de dominio para ejecución on-premise.",
+      "sota:whyNow": "Canadian Lawyer 6 Oct 2026 (feature y CL Talk). NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "Global",
+        "CA"
+      ],
+      "sota:topics": [
+        "llm",
+        "ia-soberana",
+        "on-premise",
+        "thomson-reuters",
+        "build-vs-buy"
+      ],
+      "sota:summaryP1": "Canadian Lawyer publicó el 6 de octubre de 2026 una entrevista con David Wong, chief product officer de Thomson Reuters, y Alexander Kardos-Nyheim, que codirige su investigación en machine learning fundacional y llegó a la compañía con la compra en 2024 de su startup Safe Sign Technologies. Explican por qué Thomson, el primer LLM (modelo de lenguaje) propio de la compañía, lanzado este año, supone un giro frente a depender solo de OpenAI, Anthropic o Google. Dan dos motivos: el coste, porque los modelos frontier (de frontera) «son muy caros», y la soberanía de datos, porque según Wong la confianza en algunas grandes tecnológicas está bajando y algunas firmas quieren operar sus propios modelos e infraestructura. Thomson se ha entrenado con Westlaw, Practical Law y Checkpoint y con el trabajo de miles de lawyer-editors (editores jurídicos). Kardos-Nyheim afirma que es el primero en los benchmarks (pruebas comparativas) de legal factuality (exactitud jurídica) «por casi 20 puntos» habiendo visto menos del 10% del contenido de la compañía, y compara el entrenamiento de dominio frente al RAG (generación aumentada por recuperación) con un examen a libro cerrado frente a uno a libro abierto.",
+      "sota:summaryP2": "La novedad con más implicaciones para despachos es que Thomson Reuters dice estar explorando licenciar el modelo para que las firmas lo ejecuten en su propio hardware, sin proveedores externos, aunque todavía no lo ha hecho. Eso coloca a una editorial jurídica en el terreno que Latham exploró al comprar servidores GPU, según publicó el FT en septiembre: IA soberana para clientes cuya información es demasiado sensible para la nube. Para CIO y compras cambia la ecuación build vs buy (construir o comprar): entre usar un vendor de IA jurídica sobre modelos de terceros o montarlo todo en casa aparece una tercera vía, un modelo de dominio con licencia on-premise (en servidores propios). Las cifras son afirmaciones del propio proveedor y conviene pedir resultados en tareas propias, pero la estrategia multi-model (multimodelo) que describe Wong confirma que ni siquiera los grandes apuestan por un único proveedor de modelos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.canadianlawyermag.com/news/features/thomson-reuters-on-why-it-built-a-proprietary-ai-model/394759",
+          "schema:name": "Thomson Reuters on why it built a proprietary AI model",
+          "sota:sourceId": "src-canadian-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-beccar-varela-invierte-magnar",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-beccar-varela-invierte-magnar",
+      "schema:headline": "Beccar Varela entra como inversor minoritario en Magnar, la plataforma chilena de IA jurídica con 30.000 usuarios en siete países",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Abogados.com.ar informó el 6 de octubre de 2026 de que Beccar Varela, uno de los grandes despachos full-service de Argentina, se ha incorporado como inversor a Magnar, plataforma de IA para abogados que reúne herramientas de búsqueda, análisis y síntesis jurídica sobre fuentes normativas y jurisprudenciales locales. La participación es minoritaria y no da derechos específicos ni injerencia en el desarrollo o la dirección de la plataforma; el despacho ya usa y evalúa Magnar dentro de una estrategia de innovación que, según la nota, busca no depender de un proveedor exclusivo. Magnar empezó a operar hace algo más de un año, tiene cerca de 30.000 usuarios y 350 estudios en Chile, Perú, Colombia, Argentina, Ecuador, Costa Rica y Uruguay, y anunció recientemente una Serie A de 8 millones de dólares liderada por 6 Degrees Capital y Hi Ventures, con FEN Ventures, Platanus Ventures y Nascent Ventures, para ampliar equipo y bases de información jurídica y entrar en Brasil y México.",
+      "schema:articleBody": "Abogados.com.ar informó el 6 de octubre de 2026 de que Beccar Varela, uno de los grandes despachos full-service de Argentina, se ha incorporado como inversor a Magnar, plataforma de IA para abogados que reúne herramientas de búsqueda, análisis y síntesis jurídica sobre fuentes normativas y jurisprudenciales locales. La participación es minoritaria y no da derechos específicos ni injerencia en el desarrollo o la dirección de la plataforma; el despacho ya usa y evalúa Magnar dentro de una estrategia de innovación que, según la nota, busca no depender de un proveedor exclusivo. Magnar empezó a operar hace algo más de un año, tiene cerca de 30.000 usuarios y 350 estudios en Chile, Perú, Colombia, Argentina, Ecuador, Costa Rica y Uruguay, y anunció recientemente una Serie A de 8 millones de dólares liderada por 6 Degrees Capital y Hi Ventures, con FEN Ventures, Platanus Ventures y Nascent Ventures, para ampliar equipo y bases de información jurídica y entrar en Brasil y México.\n\nQue un despacho invierta en la herramienta que usa es una señal del mercado latinoamericano: la IA jurídica local compite con códigos, idiomas y jurisprudencia propios, donde los grandes vendors anglosajones llegan peor, y los despachos quieren influir en esa infraestructura sin quedar atados a ella. La precisión de que la participación no da injerencia importa por partida doble: al resto de clientes de Magnar, incluidos despachos competidores, que querrán garantías de confidencialidad y neutralidad del producto, y al propio Beccar Varela, que tendrá que gestionar el posible conflicto de interés cuando evalúe o recomiende herramientas. Para despachos españoles con presencia en la región, Magnar es un actor a seguir en mercados hispanohablantes junto a vLex, Harvey o Lefebvre, y el modelo de relación (cliente, inversor minoritario y socio de producto a la vez) es replicable con startups locales.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un gran despacho latinoamericano invierte en la IA jurídica local que usa.",
+      "sota:whyNow": "Abogados.com.ar 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "AR",
+        "CL",
+        "LatAm"
+      ],
+      "sota:topics": [
+        "ia-juridica",
+        "inversion",
+        "latam",
+        "despachos",
+        "legal-research"
+      ],
+      "sota:summaryP1": "Abogados.com.ar informó el 6 de octubre de 2026 de que Beccar Varela, uno de los grandes despachos full-service de Argentina, se ha incorporado como inversor a Magnar, plataforma de IA para abogados que reúne herramientas de búsqueda, análisis y síntesis jurídica sobre fuentes normativas y jurisprudenciales locales. La participación es minoritaria y no da derechos específicos ni injerencia en el desarrollo o la dirección de la plataforma; el despacho ya usa y evalúa Magnar dentro de una estrategia de innovación que, según la nota, busca no depender de un proveedor exclusivo. Magnar empezó a operar hace algo más de un año, tiene cerca de 30.000 usuarios y 350 estudios en Chile, Perú, Colombia, Argentina, Ecuador, Costa Rica y Uruguay, y anunció recientemente una Serie A de 8 millones de dólares liderada por 6 Degrees Capital y Hi Ventures, con FEN Ventures, Platanus Ventures y Nascent Ventures, para ampliar equipo y bases de información jurídica y entrar en Brasil y México.",
+      "sota:summaryP2": "Que un despacho invierta en la herramienta que usa es una señal del mercado latinoamericano: la IA jurídica local compite con códigos, idiomas y jurisprudencia propios, donde los grandes vendors anglosajones llegan peor, y los despachos quieren influir en esa infraestructura sin quedar atados a ella. La precisión de que la participación no da injerencia importa por partida doble: al resto de clientes de Magnar, incluidos despachos competidores, que querrán garantías de confidencialidad y neutralidad del producto, y al propio Beccar Varela, que tendrá que gestionar el posible conflicto de interés cuando evalúe o recomiende herramientas. Para despachos españoles con presencia en la región, Magnar es un actor a seguir en mercados hispanohablantes junto a vLex, Harvey o Lefebvre, y el modelo de relación (cliente, inversor minoritario y socio de producto a la vez) es replicable con startups locales.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abogados.com.ar/beccar-varela-apuesta-por-la-innovacion-legal-e-invierte-en-la-plataforma-de-ia-magnar/40229",
+          "schema:name": "Beccar Varela apuesta por la innovación legal e invierte en la plataforma de IA Magnar",
+          "sota:sourceId": "src-abogados-com-ar"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-beccar-varela"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-magnar"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-arkivia-ronda-acuerdo-marco-colegio-suecia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-arkivia-ronda-acuerdo-marco-colegio-suecia",
+      "schema:headline": "La sueca Arkivia levanta 40 millones de coronas y firma el primer framework agreement (acuerdo marco) del Colegio de Abogados de Suecia para un sistema de gestión de expedientes",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "The Deal Wire informó el 6 de octubre de 2026 de que Arkivia, legaltech sueca fundada en agosto de 2024 por William Ringström, Olle Wallberg y Filip Eriksson, ha cerrado una ampliación de capital totalmente suscrita de 40 millones de coronas suecas entre socios nuevos y existentes, liderada por node.vc y con el despacho Vinge como asesor. Su plataforma con IA reúne en un solo sistema case and file management (gestión de asuntos y expedientes), recopilación de información, legal research (investigación jurídica) y redacción de documentos, y acompaña el expediente desde el primer contacto con el cliente hasta la factura final, con archivo documental, client due diligence (diligencia debida del cliente) automatizada de tipo KYC y trazabilidad completa en cada asunto. A la vez, Arkivia ha firmado el primer framework agreement (acuerdo marco) del Colegio de Abogados de Suecia (Sveriges advokatsamfund) para un sistema de gestión de expedientes.",
+      "schema:articleBody": "The Deal Wire informó el 6 de octubre de 2026 de que Arkivia, legaltech sueca fundada en agosto de 2024 por William Ringström, Olle Wallberg y Filip Eriksson, ha cerrado una ampliación de capital totalmente suscrita de 40 millones de coronas suecas entre socios nuevos y existentes, liderada por node.vc y con el despacho Vinge como asesor. Su plataforma con IA reúne en un solo sistema case and file management (gestión de asuntos y expedientes), recopilación de información, legal research (investigación jurídica) y redacción de documentos, y acompaña el expediente desde el primer contacto con el cliente hasta la factura final, con archivo documental, client due diligence (diligencia debida del cliente) automatizada de tipo KYC y trazabilidad completa en cada asunto. A la vez, Arkivia ha firmado el primer framework agreement (acuerdo marco) del Colegio de Abogados de Suecia (Sveriges advokatsamfund) para un sistema de gestión de expedientes.\n\nLo que importa no es el tamaño de la ronda sino el acuerdo marco: que un colegio profesional homologue a un proveedor da a una empresa de dos años una vía de entrada a los despachos colegiados y abarata la evaluación para el despacho pequeño y mediano, que suele ser el que más tarda en cambiar de software de gestión. También confirma por dónde va el mercado: la IA ya no se vende como asistente aislado sino integrada en el practice management (gestión del despacho), donde están los datos del asunto, el KYC y la facturación, el mismo terreno en el que compiten Clio o Filevine en Estados Unidos. Para los colegios de abogados españoles y los vendors locales, el caso sueco plantea una pregunta concreta: si tiene sentido negociar acuerdos marco con proveedores de gestión con IA, con requisitos comunes de seguridad, confidencialidad y residencia de datos, en lugar de dejar que cada despacho los evalúe por su cuenta.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un colegio de abogados homologa por primera vez un sistema de gestión de expedientes con IA.",
+      "sota:whyNow": "The Deal Wire 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "SE",
+        "EU"
+      ],
+      "sota:topics": [
+        "practice-management",
+        "financiacion",
+        "colegios-profesionales",
+        "kyc",
+        "nordicos"
+      ],
+      "sota:summaryP1": "The Deal Wire informó el 6 de octubre de 2026 de que Arkivia, legaltech sueca fundada en agosto de 2024 por William Ringström, Olle Wallberg y Filip Eriksson, ha cerrado una ampliación de capital totalmente suscrita de 40 millones de coronas suecas entre socios nuevos y existentes, liderada por node.vc y con el despacho Vinge como asesor. Su plataforma con IA reúne en un solo sistema case and file management (gestión de asuntos y expedientes), recopilación de información, legal research (investigación jurídica) y redacción de documentos, y acompaña el expediente desde el primer contacto con el cliente hasta la factura final, con archivo documental, client due diligence (diligencia debida del cliente) automatizada de tipo KYC y trazabilidad completa en cada asunto. A la vez, Arkivia ha firmado el primer framework agreement (acuerdo marco) del Colegio de Abogados de Suecia (Sveriges advokatsamfund) para un sistema de gestión de expedientes.",
+      "sota:summaryP2": "Lo que importa no es el tamaño de la ronda sino el acuerdo marco: que un colegio profesional homologue a un proveedor da a una empresa de dos años una vía de entrada a los despachos colegiados y abarata la evaluación para el despacho pequeño y mediano, que suele ser el que más tarda en cambiar de software de gestión. También confirma por dónde va el mercado: la IA ya no se vende como asistente aislado sino integrada en el practice management (gestión del despacho), donde están los datos del asunto, el KYC y la facturación, el mismo terreno en el que compiten Clio o Filevine en Estados Unidos. Para los colegios de abogados españoles y los vendors locales, el caso sueco plantea una pregunta concreta: si tiene sentido negociar acuerdos marco con proveedores de gestión con IA, con requisitos comunes de seguridad, confidencialidad y residencia de datos, en lugar de dejar que cada despacho los evalúe por su cuenta.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://thedealwire.com/arkiria-sek-40m-funding-round/",
+          "schema:name": "Arkivia raises SEK 40m to scale its AI case management platform for law firms",
+          "sota:sourceId": "src-the-deal-wire"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-arkivia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sveriges-advokatsamfund"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-garante-iqvia-anonimizacion-7m",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-garante-iqvia-anonimizacion-7m",
+      "schema:headline": "El Garante italiano multa con 7 M€ a IQVIA: los datos de un millón de pacientes que la empresa trataba como anónimos seguían siendo personales",
+      "schema:datePublished": "2026-10-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "ComplexDiscovery analizó el 6 de octubre de 2026 la resolución del Garante per la protezione dei dati personali, adoptada el 23 de septiembre y publicada con nota de prensa el 2 de octubre (orden número 710), que multa con 7 millones de euros a IQVIA Solutions Italy. La base de datos, alimentada desde el software de gestión de unos 800 médicos de familia, contenía registros de aproximadamente un millón de pacientes que la compañía consideraba anónimos; para el Garante, un código de paciente persistente y un historial clínico detallado bastaban para que los datos siguieran siendo identificables. La autoridad aceptó que la anonimidad puede depender de quién tiene los datos, pero concluyó que IQVIA diseñó e instruyó la desidentificación, de modo que no podía presentarse como mero destinatario al amparo de la sentencia SRB del Tribunal de Justicia de la UE. Es la segunda autoridad europea en cuatro meses que rechaza un argumento de anonimización de IQVIA, después de la CNIL francesa en mayo.",
+      "schema:articleBody": "ComplexDiscovery analizó el 6 de octubre de 2026 la resolución del Garante per la protezione dei dati personali, adoptada el 23 de septiembre y publicada con nota de prensa el 2 de octubre (orden número 710), que multa con 7 millones de euros a IQVIA Solutions Italy. La base de datos, alimentada desde el software de gestión de unos 800 médicos de familia, contenía registros de aproximadamente un millón de pacientes que la compañía consideraba anónimos; para el Garante, un código de paciente persistente y un historial clínico detallado bastaban para que los datos siguieran siendo identificables. La autoridad aceptó que la anonimidad puede depender de quién tiene los datos, pero concluyó que IQVIA diseñó e instruyó la desidentificación, de modo que no podía presentarse como mero destinatario al amparo de la sentencia SRB del Tribunal de Justicia de la UE. Es la segunda autoridad europea en cuatro meses que rechaza un argumento de anonimización de IQVIA, después de la CNIL francesa en mayo.\n\nPara DPO, equipos de compliance y empresas que comercializan o reutilizan datos, la resolución vale más por su razonamiento que por la cuantía: el Garante escribió condiciones técnicas en el remedio, como clases de equivalencia de al menos 10 registros y, para las variables residuales que puedan ayudar a identificar a un paciente, opciones como la secure multiparty computation (computación multipartita segura). Eso convierte «anónimo» en una afirmación que hay que demostrar con métricas y diseño, no con contratos, y debilita la estrategia de apoyarse en la doctrina SRB cuando quien desidentifica es la propia empresa. IQVIA ha dicho que se reserva el derecho a recurrir, y la consulta del Comité Europeo de Protección de Datos sobre anonimización cierra el 30 de octubre, así que las cláusulas de data licensing (licencia de datos) y los conjuntos de datos etiquetados como anónimos, incluidos los que alimentan proyectos de IA, merecen revisión ya.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Criterio técnico de un regulador UE sobre cuándo los datos «anónimos» siguen siendo personales.",
+      "sota:whyNow": "Garante 23 Sep / 2 Oct 2026; ComplexDiscovery 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "IT",
+        "EU"
+      ],
+      "sota:topics": [
+        "rgpd",
+        "anonimizacion",
+        "datos-de-salud",
+        "sancion",
+        "edpb"
+      ],
+      "sota:summaryP1": "ComplexDiscovery analizó el 6 de octubre de 2026 la resolución del Garante per la protezione dei dati personali, adoptada el 23 de septiembre y publicada con nota de prensa el 2 de octubre (orden número 710), que multa con 7 millones de euros a IQVIA Solutions Italy. La base de datos, alimentada desde el software de gestión de unos 800 médicos de familia, contenía registros de aproximadamente un millón de pacientes que la compañía consideraba anónimos; para el Garante, un código de paciente persistente y un historial clínico detallado bastaban para que los datos siguieran siendo identificables. La autoridad aceptó que la anonimidad puede depender de quién tiene los datos, pero concluyó que IQVIA diseñó e instruyó la desidentificación, de modo que no podía presentarse como mero destinatario al amparo de la sentencia SRB del Tribunal de Justicia de la UE. Es la segunda autoridad europea en cuatro meses que rechaza un argumento de anonimización de IQVIA, después de la CNIL francesa en mayo.",
+      "sota:summaryP2": "Para DPO, equipos de compliance y empresas que comercializan o reutilizan datos, la resolución vale más por su razonamiento que por la cuantía: el Garante escribió condiciones técnicas en el remedio, como clases de equivalencia de al menos 10 registros y, para las variables residuales que puedan ayudar a identificar a un paciente, opciones como la secure multiparty computation (computación multipartita segura). Eso convierte «anónimo» en una afirmación que hay que demostrar con métricas y diseño, no con contratos, y debilita la estrategia de apoyarse en la doctrina SRB cuando quien desidentifica es la propia empresa. IQVIA ha dicho que se reserva el derecho a recurrir, y la consulta del Comité Europeo de Protección de Datos sobre anonimización cierra el 30 de octubre, así que las cláusulas de data licensing (licencia de datos) y los conjuntos de datos etiquetados como anónimos, incluidos los que alimentan proyectos de IA, merecen revisión ya.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://complexdiscovery.com/italys-privacy-regulator-rejects-iqvias-anonymization-claim-and-fines-it-7-million-euros/",
+          "schema:name": "Italy's privacy regulator rejects IQVIA's anonymization claim and fines it 7 million euros",
+          "sota:sourceId": "src-complexdiscovery"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-garante-privacy"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iqvia"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-07-hacienda-verifactu-octubre-2028",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-07-hacienda-verifactu-octubre-2028",
+      "schema:headline": "Hacienda prevé aplazar Verifactu a octubre de 2028 para alinearlo con la factura electrónica obligatoria",
+      "schema:datePublished": "2026-10-05",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Ministerio de Hacienda publicó el 5 de octubre de 2026 una nota informativa, recogida por El Derecho, con la «previsión de modificación» de los plazos de Verifactu, el reglamento de sistemas informáticos de facturación (Real Decreto 1007/2023). Las obligaciones pendientes para empresarios y profesionales se aplazarían hasta octubre de 2028, para coincidir con la obligatoriedad de la factura electrónica para quienes facturan menos de 8 millones de euros al año. Hasta ahora, tras un primer retraso, el sistema debía ser obligatorio desde el 1 de enero de 2027 para los contribuyentes del Impuesto sobre Sociedades y desde el 1 de julio de 2027 para el resto de empresas y autónomos. La nota añade que, una vez aprobada la alineación de calendarios, se modificará la norma para hacer converger ámbitos de aplicación y aspectos técnicos con los futuros requisitos de reporte digital de ViDA (VAT in the Digital Age, IVA en la era digital), y que las exigencias de integridad, conservación, accesibilidad, legibilidad, trazabilidad e inalterabilidad se mantendrán en términos sustancialmente equivalentes.",
+      "schema:articleBody": "El Ministerio de Hacienda publicó el 5 de octubre de 2026 una nota informativa, recogida por El Derecho, con la «previsión de modificación» de los plazos de Verifactu, el reglamento de sistemas informáticos de facturación (Real Decreto 1007/2023). Las obligaciones pendientes para empresarios y profesionales se aplazarían hasta octubre de 2028, para coincidir con la obligatoriedad de la factura electrónica para quienes facturan menos de 8 millones de euros al año. Hasta ahora, tras un primer retraso, el sistema debía ser obligatorio desde el 1 de enero de 2027 para los contribuyentes del Impuesto sobre Sociedades y desde el 1 de julio de 2027 para el resto de empresas y autónomos. La nota añade que, una vez aprobada la alineación de calendarios, se modificará la norma para hacer converger ámbitos de aplicación y aspectos técnicos con los futuros requisitos de reporte digital de ViDA (VAT in the Digital Age, IVA en la era digital), y que las exigencias de integridad, conservación, accesibilidad, legibilidad, trazabilidad e inalterabilidad se mantendrán en términos sustancialmente equivalentes.\n\nPara direcciones financieras, asesores fiscales y proveedores de software de facturación es un respiro, no una cancelación: la nota habla de previsión y el cambio de calendario todavía tiene que aprobarse formalmente, así que no conviene desmontar proyectos de adaptación hasta ver el texto. Lo sensato es unificar en uno solo los proyectos de Verifactu y de factura electrónica, porque las garantías técnicas de inalterabilidad y trazabilidad se mantienen y la convergencia con ViDA añadirá requisitos de reporte; la Asociación Española de Asesores Fiscales (AEDAF) ya había propuesto en junio una hoja de ruta en ese sentido. Para los vendors de ERP y facturación, incluidos los de software de gestión para despachos y asesorías, la nueva fecha desplaza ingresos de adaptación, pero también reduce el riesgo de desarrollar dos veces lo mismo.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Cambio de calendario de la facturación verificable que afecta a todo el software de facturación en España.",
+      "sota:whyNow": "Nota informativa de Hacienda 5 Oct 2026 (El Derecho). NEW vs PASS 09-29→10-06.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "verifactu",
+        "factura-electronica",
+        "vida",
+        "fiscal",
+        "software-de-facturacion"
+      ],
+      "sota:summaryP1": "El Ministerio de Hacienda publicó el 5 de octubre de 2026 una nota informativa, recogida por El Derecho, con la «previsión de modificación» de los plazos de Verifactu, el reglamento de sistemas informáticos de facturación (Real Decreto 1007/2023). Las obligaciones pendientes para empresarios y profesionales se aplazarían hasta octubre de 2028, para coincidir con la obligatoriedad de la factura electrónica para quienes facturan menos de 8 millones de euros al año. Hasta ahora, tras un primer retraso, el sistema debía ser obligatorio desde el 1 de enero de 2027 para los contribuyentes del Impuesto sobre Sociedades y desde el 1 de julio de 2027 para el resto de empresas y autónomos. La nota añade que, una vez aprobada la alineación de calendarios, se modificará la norma para hacer converger ámbitos de aplicación y aspectos técnicos con los futuros requisitos de reporte digital de ViDA (VAT in the Digital Age, IVA en la era digital), y que las exigencias de integridad, conservación, accesibilidad, legibilidad, trazabilidad e inalterabilidad se mantendrán en términos sustancialmente equivalentes.",
+      "sota:summaryP2": "Para direcciones financieras, asesores fiscales y proveedores de software de facturación es un respiro, no una cancelación: la nota habla de previsión y el cambio de calendario todavía tiene que aprobarse formalmente, así que no conviene desmontar proyectos de adaptación hasta ver el texto. Lo sensato es unificar en uno solo los proyectos de Verifactu y de factura electrónica, porque las garantías técnicas de inalterabilidad y trazabilidad se mantienen y la convergencia con ViDA añadirá requisitos de reporte; la Asociación Española de Asesores Fiscales (AEDAF) ya había propuesto en junio una hoja de ruta en ese sentido. Para los vendors de ERP y facturación, incluidos los de software de gestión para despachos y asesorías, la nueva fecha desplaza ingresos de adaptación, pero también reduce el riesgo de desarrollar dos veces lo mismo.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://elderecho.com/hacienda-pospone-a-octubre-de-2028-la-implantacion-de-verifactu-para-empresas-y-autonomos",
+          "schema:name": "Hacienda pospone a octubre de 2028 la implantación de 'Verifactu'",
+          "sota:sourceId": "src-el-derecho-lefebvre"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-hacienda"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aepd",
+      "schema:name": "Agencia Española de Protección de Datos",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.aepd.es/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-arkivia",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-arkivia",
+      "schema:name": "Arkivia",
+      "sota:entityType": "vendor",
+      "schema:url": "https://thedealwire.com/arkiria-sek-40m-funding-round/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-beccar-varela",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-beccar-varela",
+      "schema:name": "Beccar Varela",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.beccarvarela.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-confidencial",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-el-confidencial",
+      "schema:name": "El Confidencial",
+      "sota:entityType": "media",
+      "schema:url": "https://www.elconfidencial.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-garante-privacy",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-garante-privacy",
+      "schema:name": "Garante per la protezione dei dati personali",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.garanteprivacy.it/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iqvia",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-iqvia",
+      "schema:name": "IQVIA",
+      "sota:entityType": "company",
+      "schema:url": "https://www.iqvia.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-it-insider",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-it-insider",
+      "schema:name": "Legal IT Insider",
+      "sota:entityType": "media",
+      "schema:url": "https://legaltechnology.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-magnar",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-magnar",
+      "schema:name": "Magnar",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.magnar.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-hacienda",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ministerio-hacienda",
+      "schema:name": "Ministerio de Hacienda",
+      "sota:entityType": "government",
+      "schema:url": "https://www.hacienda.gob.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stanford-liftlab",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-stanford-liftlab",
+      "schema:name": "Stanford Legal Innovation through Frontier Technology Lab",
+      "sota:entityType": "academia",
+      "schema:url": "https://law.stanford.edu/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sveriges-advokatsamfund",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sveriges-advokatsamfund",
+      "schema:name": "Sveriges advokatsamfund",
+      "sota:entityType": "association",
+      "schema:url": "https://www.advokatsamfundet.se/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-thomson-reuters",
+      "schema:name": "Thomson Reuters",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.thomsonreuters.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vorys",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-vorys",
+      "schema:name": "Vorys, Sater, Seymour and Pease",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.vorys.com/",
+      "sota:stub": true
+    }
+  ]
+}

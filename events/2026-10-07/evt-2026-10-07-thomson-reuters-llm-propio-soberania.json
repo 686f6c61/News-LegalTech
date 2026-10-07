@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-07-thomson-reuters-llm-propio-soberania",
+  "date": "2026-10-06",
+  "type": "product",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Thomson Reuters explica por qué construyó su propio LLM: coste, data sovereignty (soberanía de datos) y la opción de licenciarlo para que los despachos lo ejecuten en sus servidores",
+  "summary_p1": "Canadian Lawyer publicó el 6 de octubre de 2026 una entrevista con David Wong, chief product officer de Thomson Reuters, y Alexander Kardos-Nyheim, que codirige su investigación en machine learning fundacional y llegó a la compañía con la compra en 2024 de su startup Safe Sign Technologies. Explican por qué Thomson, el primer LLM (modelo de lenguaje) propio de la compañía, lanzado este año, supone un giro frente a depender solo de OpenAI, Anthropic o Google. Dan dos motivos: el coste, porque los modelos frontier (de frontera) «son muy caros», y la soberanía de datos, porque según Wong la confianza en algunas grandes tecnológicas está bajando y algunas firmas quieren operar sus propios modelos e infraestructura. Thomson se ha entrenado con Westlaw, Practical Law y Checkpoint y con el trabajo de miles de lawyer-editors (editores jurídicos). Kardos-Nyheim afirma que es el primero en los benchmarks (pruebas comparativas) de legal factuality (exactitud jurídica) «por casi 20 puntos» habiendo visto menos del 10% del contenido de la compañía, y compara el entrenamiento de dominio frente al RAG (generación aumentada por recuperación) con un examen a libro cerrado frente a uno a libro abierto.",
+  "summary_p2": "La novedad con más implicaciones para despachos es que Thomson Reuters dice estar explorando licenciar el modelo para que las firmas lo ejecuten en su propio hardware, sin proveedores externos, aunque todavía no lo ha hecho. Eso coloca a una editorial jurídica en el terreno que Latham exploró al comprar servidores GPU, según publicó el FT en septiembre: IA soberana para clientes cuya información es demasiado sensible para la nube. Para CIO y compras cambia la ecuación build vs buy (construir o comprar): entre usar un vendor de IA jurídica sobre modelos de terceros o montarlo todo en casa aparece una tercera vía, un modelo de dominio con licencia on-premise (en servidores propios). Las cifras son afirmaciones del propio proveedor y conviene pedir resultados en tareas propias, pero la estrategia multi-model (multimodelo) que describe Wong confirma que ni siquiera los grandes apuestan por un único proveedor de modelos.",
+  "why_sota": "Una editorial jurídica abre la puerta a licenciar su LLM de dominio para ejecución on-premise.",
+  "why_now": "Canadian Lawyer 6 Oct 2026 (feature y CL Talk). NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "Global",
+    "CA"
+  ],
+  "topics": [
+    "llm",
+    "ia-soberana",
+    "on-premise",
+    "thomson-reuters",
+    "build-vs-buy"
+  ],
+  "sources": [
+    {
+      "source_id": "src-canadian-lawyer",
+      "url": "https://www.canadianlawyermag.com/news/features/thomson-reuters-on-why-it-built-a-proprietary-ai-model/394759",
+      "cited_title": "Thomson Reuters on why it built a proprietary AI model",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-thomson-reuters"
+  ],
+  "lang": "es",
+  "status": "published"
+}

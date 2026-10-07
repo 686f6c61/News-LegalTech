@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-07-legora-skills",
+  "date": "2026-10-06",
+  "type": "product",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "Legora lanza Skills: más de 250 instrucciones reutilizables para que su agente trabaje «como se hace en este despacho»",
+  "summary_p1": "Legora anunció el 5 de octubre de 2026 Skills, disponible para todos sus clientes, y Legaltech News (Law.com) lo contó el 6. Un skill (habilidad) es un conjunto de instrucciones en lenguaje natural que le dice al agente de Legora cómo ejecutar una tarea concreta: cómo estructura un equipo la revisión de un contrato, qué posiciones negociadoras cede y en qué orden, o cómo debe sonar una carta al cliente. El lanzamiento llega con una biblioteca de más de 250 skills construidos y probados por los legal engineers (ingenieros jurídicos) de Legora en más de 20 áreas de práctica, como first-pass contract review (primera revisión de contratos), triage (clasificación inicial) de NDA o construcción de cronologías. Los clientes pueden crear los suyos desde el chat del agente y a partir de trabajo previo, con documentos de referencia, plantillas y ejemplos. El agente elige el skill pertinente o lo selecciona el abogado, varios pueden combinarse en una misma tarea y funcionan también dentro de Word y Outlook. El CEO, Max Junestrand, resumió el problema que quiere resolver: «It's not wrong. It's just not how we do it here» (no está mal, pero no es como lo hacemos aquí).",
+  "summary_p2": "Para knowledge managers y responsables de innovación, Skills desplaza el valor desde el modelo hacia el know-how (conocimiento práctico) codificado del despacho: los playbooks (guías de negociación) y criterios que vivían en manuales o en la cabeza de un socio pasan a ser activos que el agente aplica. Según LegalTech.ca, cada usuario controla qué skills instala, los administradores gobiernan cuáles se comparten en toda la organización, se mantienen los permisos de cada asunto y hay versionado y auditabilidad, que es justo lo que un comité de riesgos pedirá antes de dejar que un agente aplique posiciones negociadoras por su cuenta. Law.com encuadra el lanzamiento en la ola de herramientas basadas en skills de OpenAI y Anthropic, así que la diferencia competitiva ya no será solo qué modelo hay debajo, sino cuánta metodología propia puede capturar cada cliente sin encargar desarrollo a medida. Para quien negocie con Legora o con sus rivales, conviene preguntar desde ya si esos skills se pueden exportar y en qué formato, porque la metodología del despacho no debería quedar atada a un proveedor.",
+  "why_sota": "Los skills convierten el know-how del despacho en instrucciones gobernadas para agentes jurídicos.",
+  "why_now": "Legora 5 Oct 2026; Law.com y LegalTech.ca 6 Oct 2026. NEW vs PASS 09-29→10-06.",
+  "geo": [
+    "Global",
+    "SE",
+    "US"
+  ],
+  "topics": [
+    "ia-agentica",
+    "knowledge-management",
+    "skills",
+    "legora",
+    "playbooks"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/06/legora-launches-skills-pre-built-and-custom-instructions-for-its-ai-agent-/",
+      "cited_title": "Legora Launches Skills, Pre-Built and Custom Instructions for Its AI Agent",
+      "accessed": "2026-10-07"
+    },
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/06/legora-launches-skills-to-teach-legal-ai-how-firms-work/",
+      "cited_title": "Legora Launches Skills to Teach Legal AI How Firms Work",
+      "accessed": "2026-10-07"
+    }
+  ],
+  "entities": [
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}
