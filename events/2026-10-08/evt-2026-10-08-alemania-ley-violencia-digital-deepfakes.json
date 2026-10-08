@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-08-alemania-ley-violencia-digital-deepfakes",
+  "date": "2026-10-07",
+  "type": "regulation",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Alemania aprueba en Consejo de Ministros su ley contra la violencia digital: nuevos delitos por crear o difundir deepfakes y vía rápida para identificar a usuarios anónimos",
+  "summary_p1": "El Gobierno federal alemán aprobó el 7 de octubre de 2026 el proyecto de ley para reforzar la protección civil y penal frente a la violencia digital, preparado por el Ministerio de Justicia de Stefanie Hubig, según Legal Tribune Online. El texto crea cuatro delitos en el Código Penal (StGB): el § 184k castiga crear o difundir sin autorización deepfakes sexualizados, imágenes íntimas captadas sin consentimiento, sea en un lugar privado o público como una sauna, y vídeos de violaciones, con penas de hasta dos años y de hasta tres en este último caso; el § 201b castiga difundir deepfakes no sexuales que dañen la reputación, como un vídeo falso que aparenta que alguien cometió un delito, con excepción para arte, ciencia, información o sátira; el § 201c castiga suplantar la identidad de otra persona para difundir contenido ofensivo; y el § 202e castiga la vigilancia con rastreadores GPS. En lo civil, la ley crea un procedimiento judicial de información frente a plataformas, servicios de mensajería y proveedores de acceso, órdenes de conservación de datos y un derecho a bloqueo y retirada aunque se desconozca al autor.",
+  "summary_p2": "Para las plataformas y sus asesores el cambio es operativo: tendrán que responder a órdenes judiciales para identificar a usuarios, conservar datos mientras dure el procedimiento y, si están fuera de la UE, nombrar un representante en Alemania para notificaciones; los jueces podrán incluso ordenar el bloqueo temporal de cuentas reincidentes. Para quien desarrolla herramientas de IA generativa de imagen o vídeo, el mensaje es que el simple hecho de crear un deepfake sexualizado pasará a ser delito, no solo difundirlo, y Alemania se ha fijado en el modelo italiano. Para los despachos de litigación digital y protección del honor abre un camino más corto para identificar a infractores anónimos. El proyecto debe pasar ahora por el Bundestag y el Bundesrat, y el Ministerio de Justicia calcula su entrada en vigor hacia mediados de 2027.",
+  "why_sota": "Tipificación penal específica de los deepfakes y nuevas obligaciones de identificación para plataformas.",
+  "why_now": "Aprobado por el Gobierno federal 7 Oct 2026 (LTO). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "DE",
+    "EU"
+  ],
+  "topics": [
+    "deepfakes",
+    "derecho-penal",
+    "plataformas",
+    "violencia-digital",
+    "identificacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/nachrichten/n/porno-sex-deepfakes-spanner-gesetz-gegen-digitale-gewalt-beschlossen",
+      "cited_title": "Gesetz gegen digitale Gewalt beschlossen: Neue Straftatbestände gegen Deepfakes und Voyeure",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-bmjv"
+  ],
+  "lang": "es",
+  "status": "published"
+}

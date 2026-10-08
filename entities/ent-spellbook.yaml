@@ -1,0 +1,11 @@
+id: ent-spellbook
+name: Spellbook
+type: vendor
+url: https://www.spellbook.legal/
+geo:
+- CA
+- Global
+aliases: []
+notes: Vendor canadiense de revisión de contratos con IA; Autonomous Contract Management
+  GA (Oct 2026). Ficha mínima.
+stub: true

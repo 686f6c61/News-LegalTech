@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-08-pilot5-ia-adversarial-cinco-modelos",
+  "date": "2026-10-07",
+  "type": "product",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Pilot5 lanza una IA adversarial para abogados: cinco modelos analizan el asunto, uno ataca el consenso y el abogado recibe una recomendación con el mejor contraargumento",
+  "summary_p1": "Pilot5 lanzó el 7 de octubre de 2026 un producto de IA jurídica que reparte cada consulta entre cinco frontier models (modelos de frontera). Primero construye un brief (resumen del asunto) con la parte a la que representa el abogado, el objetivo, la jurisdicción, los plazos y los hechos que podrían cambiar el análisis; después cada modelo analiza por separado, uno de ellos, el Contrarian (el que lleva la contraria), tiene el encargo de atacar el consenso con la autoridad que lo contradiga, y luego se critican entre sí sin saber quién escribió qué. El resultado es una única recomendación con sus fuentes y el contraargumento más fuerte guardado en el expediente. Según la empresa, una deliberación compleja cuesta unos 7 dólares y tarda unos quince minutos; también ofrece una Statutory Review (revisión normativa) de 0,50 dólares que coteja acuerdos laborales, como los de salida, con normas federales de EE. UU. y de once estados más el Distrito de Columbia, y un Contract Understanding (comprensión del contrato) cláusula a cláusula por unos 0,20 dólares.",
+  "summary_p2": "La idea de «moot your case» (ensayar el caso) antes de presentarlo encaja con la práctica contenciosa: el abogado no debería escuchar por primera vez el mejor argumento contrario en sala. Artificial Lawyer recuerda que varias legaltech ya combinan modelos o usan esquemas de «juez y jurado», así que la novedad está en hacerlo explícito, estructurado y barato, y en guardar el disenso como parte del trabajo. Para despachos pequeños que no quieren contratar una gran plataforma puede ser una forma económica de contrastar un criterio. Antes de usarlo con datos de clientes hay que pedir lo que la empresa ofrece solo a petición: el modo Zero Data Retention (sin retención de datos) y un data processing agreement (contrato de encargo de tratamiento); Pilot5 afirma que no entrena modelos con archivos de clientes. Precios y funcionamiento son del proveedor.",
+  "why_sota": "Producto que convierte el debate entre varios LLM en un método explícito de contraste para abogados.",
+  "why_now": "Lanzamiento 7 Oct 2026 (Artificial Lawyer). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "multimodelo",
+    "litigacion",
+    "verificacion",
+    "precios",
+    "laboral"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/",
+      "cited_title": "Pilot5 Launches Adversarial AI for Lawyers",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-pilot5"
+  ],
+  "lang": "es",
+  "status": "published"
+}

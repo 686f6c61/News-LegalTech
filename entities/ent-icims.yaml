@@ -1,0 +1,10 @@
+id: ent-icims
+name: iCIMS
+type: vendor
+url: https://www.icims.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Software de selección de personal citado en Harper v. Sirius XM. Ficha mínima.
+stub: true

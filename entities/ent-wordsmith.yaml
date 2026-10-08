@@ -1,0 +1,11 @@
+id: ent-wordsmith
+name: Wordsmith
+type: vendor
+url: https://www.wordsmith.ai/
+geo:
+- UK
+- Global
+aliases:
+- Wordsmith AI
+notes: Plataforma de IA jurídica para equipos in-house. Ficha mínima.
+stub: true

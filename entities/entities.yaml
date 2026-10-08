@@ -918,3 +918,172 @@ entities:
   - Hacienda
   notes: Ministerio español de Hacienda; calendario de Verifactu. Ficha mínima.
   stub: true
+- id: ent-stanford-codex
+  name: Stanford CodeX - The Stanford Center for Legal Informatics
+  type: academia
+  url: https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/
+  geo:
+  - US
+  aliases:
+  - CodeX
+  - Stanford CodeX
+  notes: Centro de informática jurídica de Stanford Law School; Keystone Initiative
+    (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-google
+  name: Google
+  type: company
+  url: https://www.google.com/
+  geo:
+  - Global
+  - US
+  aliases: []
+  notes: Socio ancla de la Keystone Initiative de Stanford CodeX (Oct 2026). Ficha
+    mínima.
+  stub: true
+- id: ent-spellbook
+  name: Spellbook
+  type: vendor
+  url: https://www.spellbook.legal/
+  geo:
+  - CA
+  - Global
+  aliases: []
+  notes: Vendor canadiense de revisión de contratos con IA; Autonomous Contract Management
+    GA (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-pilot5
+  name: Pilot5
+  type: vendor
+  url: https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/
+  geo:
+  - Global
+  aliases: []
+  notes: IA jurídica adversarial multimodelo (Oct 2026). Ficha mínima.
+  stub: true
+- id: ent-lawvu
+  name: LawVu
+  type: vendor
+  url: https://www.lawvu.com/
+  geo:
+  - NZ
+  - Global
+  aliases: []
+  notes: Plataforma para departamentos in-house (LegalOS); Lens (Oct 2026). Ficha
+    mínima.
+  stub: true
+- id: ent-sirius-xm
+  name: Sirius XM Radio
+  type: company
+  url: https://www.siriusxm.com/
+  geo:
+  - US
+  aliases:
+  - SiriusXM
+  notes: Demandada en Harper v. Sirius XM Radio (E.D. Mich.) por supuesto sesgo de
+    IA en selección. Ficha mínima.
+  stub: true
+- id: ent-icims
+  name: iCIMS
+  type: vendor
+  url: https://www.icims.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Software de selección de personal citado en Harper v. Sirius XM. Ficha mínima.
+  stub: true
+- id: ent-everlaw
+  name: Everlaw
+  type: vendor
+  url: https://www.everlaw.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Plataforma de eDiscovery en la nube; Legal AI Adoption & Impact Report 2026.
+    Ficha mínima.
+  stub: true
+- id: ent-aceds
+  name: Association of Certified E-Discovery Specialists
+  type: association
+  url: https://aceds.org/
+  geo:
+  - US
+  - Global
+  aliases:
+  - ACEDS
+  notes: Asociación profesional de eDiscovery. Ficha mínima.
+  stub: true
+- id: ent-ilta
+  name: International Legal Technology Association
+  type: association
+  url: https://www.iltanet.org/
+  geo:
+  - Global
+  aliases:
+  - ILTA
+  notes: Asociación internacional de tecnología jurídica. Ficha mínima.
+  stub: true
+- id: ent-wordsmith
+  name: Wordsmith
+  type: vendor
+  url: https://www.wordsmith.ai/
+  geo:
+  - UK
+  - Global
+  aliases:
+  - Wordsmith AI
+  notes: Plataforma de IA jurídica para equipos in-house. Ficha mínima.
+  stub: true
+- id: ent-goodlawyer
+  name: Goodlawyer
+  type: company
+  url: https://www.goodlawyer.ca/
+  geo:
+  - CA
+  - US
+  aliases: []
+  notes: Red canadiense de abogados in-house embebidos y fraccionales. Ficha mínima.
+  stub: true
+- id: ent-teddy-ai
+  name: TeddyHoldings.AI
+  type: company
+  url: https://www.teddyholdings.ai/
+  geo:
+  - US
+  aliases:
+  - Teddy AI
+  notes: Startup de servicios jurídicos y compliance; seed de 60 M$ (Oct 2026). Ficha
+    mínima.
+  stub: true
+- id: ent-tuckers-farm
+  name: Tucker's Farm Corporation
+  type: company
+  url: https://www.teddyholdings.ai/
+  geo:
+  - US
+  aliases:
+  - Tucker's Farm
+  notes: Holding que incubó Teddy AI. Ficha mínima.
+  stub: true
+- id: ent-neolegal
+  name: Neolegal
+  type: company
+  url: https://www.neolegal.ca/
+  geo:
+  - CA
+  aliases: []
+  notes: Servicios jurídicos en línea en Montreal; compra de Leya (Oct 2026). Ficha
+    mínima.
+  stub: true
+- id: ent-leya
+  name: Leya
+  type: vendor
+  url: https://legaltech.ca/2026/10/07/neolegal-acquires-leya-to-expand-legal-support-in-employee-benefits/
+  geo:
+  - CA
+  aliases: []
+  notes: Plataforma quebequesa de asistencia jurídica como beneficio laboral. Ficha
+    mínima.
+  stub: true

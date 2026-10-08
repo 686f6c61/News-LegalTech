@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-08-neolegal-adquiere-leya",
+  "date": "2026-10-07",
+  "type": "market",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "Neolegal compra Leya y suma a 50.000 personas que tienen acceso a un abogado como beneficio de empresa en Quebec",
+  "summary_p1": "La montrealesa Neolegal anunció el 7 de octubre de 2026 la compra de Leya, una plataforma quebequesa de asistencia jurídica digital que se ofrece a través de empleadores, aseguradoras y entidades financieras. La operación incorpora a su ecosistema a más de 50.000 personas con acceso a Leya, que permite reservar al instante consultas con abogados y notarios como un beneficio laboral más; no se han revelado las condiciones económicas. Neolegal, fundada en 2017, vende paquetes jurídicos en línea para particulares y empresas apoyados en tecnología y automatización, además de software para despachos y asistencia jurídica integrada en seguros colectivos y programas de beneficios. Su CEO, Philip Hazeltine, dice que la posición de Leya en seguros colectivos acelerará el crecimiento en ese mercado, y su fundador, Ryan Hillier, quiere que el apoyo legal sea un beneficio estándar, junto al dentista o la salud mental.",
+  "summary_p2": "El modelo de asistencia jurídica como beneficio laboral, extendido en Norteamérica y con equivalentes en España en seguros de defensa jurídica, crece por consolidación: quien tiene la tecnología para atender consultas a bajo coste compra el canal de distribución, que son las empresas y aseguradoras. Para despachos que viven del cliente particular, la competencia llega por el departamento de recursos humanos del cliente, no por otro bufete. Para aseguradoras y corredurías, es un recordatorio de que el servicio jurídico se puede empaquetar como producto digital con reserva inmediata. La operación es pequeña y local, pero ilustra una forma de acceso a la justicia que no depende de la IA, sino de la distribución.",
+  "why_sota": "Consolidación en asistencia jurídica digital como beneficio para empleados.",
+  "why_now": "Anuncio 7 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "adquisiciones",
+    "acceso-a-la-justicia",
+    "beneficios-laborales",
+    "seguros",
+    "servicios-juridicos-online"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/07/neolegal-acquires-leya-to-expand-legal-support-in-employee-benefits/",
+      "cited_title": "Neolegal Acquires Leya to Expand Legal Support in Employee Benefits",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-neolegal",
+    "ent-leya"
+  ],
+  "lang": "es",
+  "status": "published"
+}

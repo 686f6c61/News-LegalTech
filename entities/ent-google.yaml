@@ -1,0 +1,10 @@
+id: ent-google
+name: Google
+type: company
+url: https://www.google.com/
+geo:
+- Global
+- US
+aliases: []
+notes: Socio ancla de la Keystone Initiative de Stanford CodeX (Oct 2026). Ficha mínima.
+stub: true

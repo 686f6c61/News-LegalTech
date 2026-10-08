@@ -1,0 +1,10 @@
+id: ent-goodlawyer
+name: Goodlawyer
+type: company
+url: https://www.goodlawyer.ca/
+geo:
+- CA
+- US
+aliases: []
+notes: Red canadiense de abogados in-house embebidos y fraccionales. Ficha mínima.
+stub: true

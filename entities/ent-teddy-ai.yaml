@@ -1,0 +1,11 @@
+id: ent-teddy-ai
+name: TeddyHoldings.AI
+type: company
+url: https://www.teddyholdings.ai/
+geo:
+- US
+aliases:
+- Teddy AI
+notes: Startup de servicios jurídicos y compliance; seed de 60 M$ (Oct 2026). Ficha
+  mínima.
+stub: true

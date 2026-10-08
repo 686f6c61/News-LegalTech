@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-08-spellbook-autonomous-contract-management-ga",
+  "date": "2026-10-07",
+  "type": "product",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "Spellbook abre a todos su Autonomous Contract Management (gestión autónoma de contratos) y lo presenta como sustituto «AI-native» del CLM",
+  "summary_p1": "Spellbook anunció el 7 de octubre de 2026 la disponibilidad general de Autonomous Contract Management (ACM), tras un despliegue inicial con un grupo reducido de equipos legales. El sistema recoge los contratos desde formularios de intake (entrada de solicitudes), Gmail, Outlook o Slack, los clasifica y enruta al responsable, y hace un diagnóstico de cada uno contra el playbook (guía de negociación) del equipo: los acuerdos rutinarios que cumplen los estándares quedan marcados como listos para aprobar y el resto se escala con sugerencias. Durante la negociación, cada operación vive en un espacio común con versiones, comparación lado a lado, aprobadores y el historial de correos; los redlines (marcas de revisión) de la contraparte se revisan automáticamente y, tras la firma, el contrato pasa a un repositorio con informes tabulares y respuestas con cita a la fuente. Según LegalTech.ca, la función favorita de los primeros clientes fue la sincronización del correo, que reconstruye la cronología de cada negociación, y la herramienta de revisión de Spellbook ya tiene más de 5.000 clientes.",
+  "summary_p2": "Spellbook dice explícitamente que ACM está «built as an AI-native replacement to legacy CLM» (construido como sustituto nativo de IA del CLM heredado), así que el mensaje va dirigido a departamentos in-house que pagan un CLM (contract lifecycle management, gestión del ciclo de vida de contratos) caro y poco usado. La diferencia práctica que promete es que la revisión empieza sola cuando el contrato llega al buzón, sin que nadie escriba un prompt (instrucción). Antes de migrar conviene comprobar tres cosas: qué permisos pide sobre el correo corporativo, cómo se audita qué contratos se aprobaron sin mirada humana y si el repositorio exporta datos y metadatos en formato abierto. Para el resto de vendors de CLM es otra señal de que la competencia ya no viene solo de otros CLM, sino de herramientas de revisión con IA que suben por la cadena hasta gestionar todo el ciclo. Las cifras y las funciones son del propio proveedor.",
+  "why_sota": "Un vendor de revisión con IA se posiciona abiertamente como reemplazo del CLM tradicional.",
+  "why_now": "GA anunciada 7 Oct 2026 (Artificial Lawyer, LegalTech.ca). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "CA",
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "clm",
+    "contratos",
+    "agentes",
+    "in-house",
+    "playbooks"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release/",
+      "cited_title": "Spellbook's Autonomous Contract Management on General Release",
+      "accessed": "2026-10-08"
+    },
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/07/spellbook-makes-autonomous-contract-management-generally-available/",
+      "cited_title": "Spellbook Makes Autonomous Contract Management Generally Available",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-spellbook"
+  ],
+  "lang": "es",
+  "status": "published"
+}

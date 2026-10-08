@@ -1,0 +1,10 @@
+id: ent-ilta
+name: International Legal Technology Association
+type: association
+url: https://www.iltanet.org/
+geo:
+- Global
+aliases:
+- ILTA
+notes: Asociación internacional de tecnología jurídica. Ficha mínima.
+stub: true

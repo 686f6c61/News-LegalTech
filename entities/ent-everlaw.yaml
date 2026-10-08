@@ -1,0 +1,11 @@
+id: ent-everlaw
+name: Everlaw
+type: vendor
+url: https://www.everlaw.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Plataforma de eDiscovery en la nube; Legal AI Adoption & Impact Report 2026.
+  Ficha mínima.
+stub: true

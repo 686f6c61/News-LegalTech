@@ -1,0 +1,42 @@
+{
+  "id": "evt-2026-10-08-teddy-ai-seed-60m",
+  "date": "2026-10-07",
+  "type": "funding",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "Teddy AI cierra un seed de 60 millones de dólares y dice facturar más de 25, pero no revela a qué se dedica, quién la dirige ni quién ha invertido",
+  "summary_p1": "TeddyHoldings.AI (Teddy AI), una startup de servicios jurídicos y compliance (cumplimiento normativo) incubada por Tucker's Farm Corporation, anunció el 7 de octubre de 2026 una ronda seed (semilla) de 60 millones de dólares, según Legaltech News. Los inversores no se han hecho públicos y se describen como limited partners (inversores institucionales) tradicionales; la empresa tampoco ha detallado su actividad concreta ni su equipo directivo, aunque afirma haber superado los 25 millones de dólares de ingresos. Su nota de prensa, publicada en The National Law Review, añade que la empresa recibió unos 115 millones de dólares en peticiones de inversión en tres semanas de ronda y decidió quedarse en 60, y que Tucker's Farm es un holding que busca comprar entre 100 y 200 millones de dólares en activos al año en el lower-middle market (empresas medianas).",
+  "summary_p2": "Un seed de este tamaño con más de 25 millones de ingresos no es una startup al uso, sino la estructura de un holding que compra y consolida negocios. Su propia web invita a despachos a valorar su back office (área de soporte) e interesarse por vender, lo que sugiere un rollup (consolidación por compras) de servicios jurídicos de nicho. Para socios de despachos medianos, la lección es que el capital está buscando sus funciones de soporte, no solo su software. Con tan poca información pública, hay que tratarla como una señal de mercado más que como un modelo validado; el nombre «AI» no aclara qué papel tiene la tecnología en el negocio.",
+  "why_sota": "Ronda seed atípica que apunta a consolidación de servicios jurídicos con capital institucional.",
+  "why_now": "Anuncio 7 Oct 2026 (Legaltech News; nota de prensa en NLR). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "financiacion",
+    "rollup",
+    "servicios-juridicos",
+    "compliance",
+    "capital-privado"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/07/legal-services-startup-teddy-ai-announces-60m-seed-round-/",
+      "cited_title": "Legal Services Startup Teddy AI Announces $60M Seed Round",
+      "accessed": "2026-10-08"
+    },
+    {
+      "source_id": "src-national-law-review",
+      "url": "https://natlawreview.com/press-releases/teddyholdingsai-raises-60-million-seed-funding-leading-investors-transform",
+      "cited_title": "TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-teddy-ai",
+    "ent-tuckers-farm"
+  ],
+  "lang": "es",
+  "status": "published"
+}

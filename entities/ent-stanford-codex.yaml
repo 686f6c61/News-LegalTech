@@ -1,0 +1,12 @@
+id: ent-stanford-codex
+name: Stanford CodeX - The Stanford Center for Legal Informatics
+type: academia
+url: https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/
+geo:
+- US
+aliases:
+- CodeX
+- Stanford CodeX
+notes: Centro de informática jurídica de Stanford Law School; Keystone Initiative
+  (Oct 2026). Ficha mínima.
+stub: true

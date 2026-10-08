@@ -1,0 +1,11 @@
+id: ent-aceds
+name: Association of Certified E-Discovery Specialists
+type: association
+url: https://aceds.org/
+geo:
+- US
+- Global
+aliases:
+- ACEDS
+notes: Asociación profesional de eDiscovery. Ficha mínima.
+stub: true

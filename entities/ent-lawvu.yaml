@@ -1,0 +1,10 @@
+id: ent-lawvu
+name: LawVu
+type: vendor
+url: https://www.lawvu.com/
+geo:
+- NZ
+- Global
+aliases: []
+notes: Plataforma para departamentos in-house (LegalOS); Lens (Oct 2026). Ficha mínima.
+stub: true

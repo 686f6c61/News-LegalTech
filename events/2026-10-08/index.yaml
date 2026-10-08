@@ -1,0 +1,73 @@
+scan_id: full-radar-2026-10-08
+date: '2026-10-08'
+release: 08.10.26
+count: 10
+ai_share: 0.8
+dedup_against: events/2026-09-29 + 2026-09-30 + 2026-10-01 + 2026-10-02 + 2026-10-03
+  + 2026-10-04 + 2026-10-05 + 2026-10-06 + 2026-10-07 + scans PASS
+event_ids:
+- evt-2026-10-08-stanford-codex-keystone-redline-standard
+- evt-2026-10-08-spellbook-autonomous-contract-management-ga
+- evt-2026-10-08-pilot5-ia-adversarial-cinco-modelos
+- evt-2026-10-08-lawvu-lens-cartera-contratos
+- evt-2026-10-08-sirius-xm-desestimada-demanda-ia-seleccion
+- evt-2026-10-08-everlaw-informe-2026-adopcion-ia
+- evt-2026-10-08-alemania-ley-violencia-digital-deepfakes
+- evt-2026-10-08-wordsmith-goodlawyer-abogados-embebidos-ia
+- evt-2026-10-08-teddy-ai-seed-60m
+- evt-2026-10-08-neolegal-adquiere-leya
+events:
+- id: evt-2026-10-08-stanford-codex-keystone-redline-standard
+  sota_score: 8.4
+  ai_legaltech: true
+  title: Stanford CodeX lanza Keystone, con Google como socio ancla, para que los
+    despachos compartan sus redlines (marcas de revisión) y formar abogados capaces
+    de supervisar a la IA
+- id: evt-2026-10-08-spellbook-autonomous-contract-management-ga
+  sota_score: 8.1
+  ai_legaltech: true
+  title: Spellbook abre a todos su Autonomous Contract Management (gestión autónoma
+    de contratos) y lo presenta como sustituto «AI-native» del CLM
+- id: evt-2026-10-08-pilot5-ia-adversarial-cinco-modelos
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Pilot5 lanza una IA adversarial para abogados: cinco modelos analizan el
+    asunto, uno ataca el consenso y el abogado recibe una recomendación con el mejor
+    contraargumento'
+- id: evt-2026-10-08-lawvu-lens-cartera-contratos
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'LawVu lanza Lens: preguntas en lenguaje natural sobre toda la cartera de
+    contratos de la empresa, con cita a cada documento'
+- id: evt-2026-10-08-sirius-xm-desestimada-demanda-ia-seleccion
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Un juez federal de Detroit desestima la demanda contra Sirius XM por discriminación
+    racial atribuida a su IA de selección de personal
+- id: evt-2026-10-08-everlaw-informe-2026-adopcion-ia
+  sota_score: 7.5
+  ai_legaltech: true
+  title: El informe 2026 de Everlaw cifra en un 49% el uso de IA generativa en el
+    sector legal, pero solo un 34% la integra en toda la organización y apenas un
+    3% usa agentes
+- id: evt-2026-10-08-alemania-ley-violencia-digital-deepfakes
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'Alemania aprueba en Consejo de Ministros su ley contra la violencia digital:
+    nuevos delitos por crear o difundir deepfakes y vía rápida para identificar a
+    usuarios anónimos'
+- id: evt-2026-10-08-wordsmith-goodlawyer-abogados-embebidos-ia
+  sota_score: 7.2
+  ai_legaltech: true
+  title: 'Wordsmith y Goodlawyer se alían: los abogados in-house fraccionales y embebidos
+    de la red canadiense trabajarán con la IA de Wordsmith'
+- id: evt-2026-10-08-teddy-ai-seed-60m
+  sota_score: 7.0
+  ai_legaltech: false
+  title: Teddy AI cierra un seed de 60 millones de dólares y dice facturar más de
+    25, pero no revela a qué se dedica, quién la dirige ni quién ha invertido
+- id: evt-2026-10-08-neolegal-adquiere-leya
+  sota_score: 6.8
+  ai_legaltech: false
+  title: Neolegal compra Leya y suma a 50.000 personas que tienen acceso a un abogado
+    como beneficio de empresa en Quebec

@@ -1,0 +1,658 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/08.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 08.10.26",
+      "schema:version": "08.10.26",
+      "schema:datePublished": "2026-10-08",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-08, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/08.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-stanford-codex-keystone-redline-standard"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-spellbook-autonomous-contract-management-ga"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-pilot5-ia-adversarial-cinco-modelos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-lawvu-lens-cartera-contratos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-sirius-xm-desestimada-demanda-ia-seleccion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-everlaw-informe-2026-adopcion-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-alemania-ley-violencia-digital-deepfakes"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-wordsmith-goodlawyer-abogados-embebidos-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-teddy-ai-seed-60m"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-neolegal-adquiere-leya"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-stanford-codex-keystone-redline-standard",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-stanford-codex-keystone-redline-standard",
+      "schema:headline": "Stanford CodeX lanza Keystone, con Google como socio ancla, para que los despachos compartan sus redlines (marcas de revisión) y formar abogados capaces de supervisar a la IA",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Stanford CodeX presentó el 7 de octubre de 2026 la Keystone Initiative, dirigida por Ian C. Schick junto a Roland Vogl, director ejecutivo de CodeX. Su punto de partida es que la IA generativa ya escribe los primeros borradores con los que los júniors aprendían y que nadie ha resuelto de dónde saldrá el criterio de quien tiene que supervisar ese trabajo, aunque la ABA Formal Opinion 512 y los tribunales ponen la responsabilidad en un humano competente; el texto recuerda que ya hay más de 2.000 resoluciones judiciales catalogadas en el mundo por hallucinations (alucinaciones) o material inventado. La primera pieza es el Redline Standard (estándar de redlines), un protocolo vendor-neutral (neutral respecto a proveedores) para anonimizar y aportar redlines (marcas de revisión) de varios despachos a un corpus de investigación custodiado por Stanford, con reglas de confidencialidad, plazos, permisos y usos. Empezará por la redacción de patentes, porque las solicitudes estadounidenses se publican unos 18 meses después de la fecha de prioridad, y Google es el socio ancla. Este otoño habrá un grupo de trabajo en la d.school de Stanford y una convocatoria en la Facultad de Derecho para empezar a redactar el estándar.",
+      "schema:articleBody": "Stanford CodeX presentó el 7 de octubre de 2026 la Keystone Initiative, dirigida por Ian C. Schick junto a Roland Vogl, director ejecutivo de CodeX. Su punto de partida es que la IA generativa ya escribe los primeros borradores con los que los júniors aprendían y que nadie ha resuelto de dónde saldrá el criterio de quien tiene que supervisar ese trabajo, aunque la ABA Formal Opinion 512 y los tribunales ponen la responsabilidad en un humano competente; el texto recuerda que ya hay más de 2.000 resoluciones judiciales catalogadas en el mundo por hallucinations (alucinaciones) o material inventado. La primera pieza es el Redline Standard (estándar de redlines), un protocolo vendor-neutral (neutral respecto a proveedores) para anonimizar y aportar redlines (marcas de revisión) de varios despachos a un corpus de investigación custodiado por Stanford, con reglas de confidencialidad, plazos, permisos y usos. Empezará por la redacción de patentes, porque las solicitudes estadounidenses se publican unos 18 meses después de la fecha de prioridad, y Google es el socio ancla. Este otoño habrá un grupo de trabajo en la d.school de Stanford y una convocatoria en la Facultad de Derecho para empezar a redactar el estándar.\n\nPara socios directores y responsables de knowledge management (gestión del conocimiento), la propuesta es que el aprendizaje que antes pagaba el cliente vía horas facturables pase a ser un bien compartido entre firmas: cada despacho conserva el control de lo que aporta, ningún actor comercial recibe derechos que las firmas no concedan y no se pide nada a nadie hasta que el estándar exista. Sobre esa base CodeX quiere construir un practice simulator (simulador de práctica) con asuntos sintéticos, y el propio texto reconoce que la idea de que entrenar contra redlines expertos acelera el criterio es una hipótesis por demostrar. Encaja con lo que contaba ayer la encuesta de El Confidencial sobre júniors y IA. Conviene tener en cuenta que Schick es también cofundador y CEO de Paximal, una legaltech; la iniciativa afirma que la empresa no recibe acceso especial. Para los despachos con mucho histórico de versiones, la pregunta práctica es si ese archivo de tracked changes (control de cambios) puede convertirse en activo formativo sin romper el secreto profesional.",
+      "sota:type": "research",
+      "sota:sotaScore": 8.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer intento institucional de convertir redlines entre despachos en un corpus para formar supervisores de IA.",
+      "sota:whyNow": "Lanzamiento publicado por Stanford Law School el 7 Oct 2026. NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "formacion",
+        "juniors",
+        "supervision-ia",
+        "knowledge-management",
+        "redlines",
+        "patentes"
+      ],
+      "sota:summaryP1": "Stanford CodeX presentó el 7 de octubre de 2026 la Keystone Initiative, dirigida por Ian C. Schick junto a Roland Vogl, director ejecutivo de CodeX. Su punto de partida es que la IA generativa ya escribe los primeros borradores con los que los júniors aprendían y que nadie ha resuelto de dónde saldrá el criterio de quien tiene que supervisar ese trabajo, aunque la ABA Formal Opinion 512 y los tribunales ponen la responsabilidad en un humano competente; el texto recuerda que ya hay más de 2.000 resoluciones judiciales catalogadas en el mundo por hallucinations (alucinaciones) o material inventado. La primera pieza es el Redline Standard (estándar de redlines), un protocolo vendor-neutral (neutral respecto a proveedores) para anonimizar y aportar redlines (marcas de revisión) de varios despachos a un corpus de investigación custodiado por Stanford, con reglas de confidencialidad, plazos, permisos y usos. Empezará por la redacción de patentes, porque las solicitudes estadounidenses se publican unos 18 meses después de la fecha de prioridad, y Google es el socio ancla. Este otoño habrá un grupo de trabajo en la d.school de Stanford y una convocatoria en la Facultad de Derecho para empezar a redactar el estándar.",
+      "sota:summaryP2": "Para socios directores y responsables de knowledge management (gestión del conocimiento), la propuesta es que el aprendizaje que antes pagaba el cliente vía horas facturables pase a ser un bien compartido entre firmas: cada despacho conserva el control de lo que aporta, ningún actor comercial recibe derechos que las firmas no concedan y no se pide nada a nadie hasta que el estándar exista. Sobre esa base CodeX quiere construir un practice simulator (simulador de práctica) con asuntos sintéticos, y el propio texto reconoce que la idea de que entrenar contra redlines expertos acelera el criterio es una hipótesis por demostrar. Encaja con lo que contaba ayer la encuesta de El Confidencial sobre júniors y IA. Conviene tener en cuenta que Schick es también cofundador y CEO de Paximal, una legaltech; la iniciativa afirma que la empresa no recibe acceso especial. Para los despachos con mucho histórico de versiones, la pregunta práctica es si ese archivo de tracked changes (control de cambios) puede convertirse en activo formativo sin romper el secreto profesional.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://law.stanford.edu/2026/10/07/setting-the-keystone-who-will-supervise-ais-legal-work/",
+          "schema:name": "Setting the Keystone: Who Will Supervise AI's Legal Work?",
+          "sota:sourceId": "src-stanford-codex"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stanford-codex"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-spellbook-autonomous-contract-management-ga",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-spellbook-autonomous-contract-management-ga",
+      "schema:headline": "Spellbook abre a todos su Autonomous Contract Management (gestión autónoma de contratos) y lo presenta como sustituto «AI-native» del CLM",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Spellbook anunció el 7 de octubre de 2026 la disponibilidad general de Autonomous Contract Management (ACM), tras un despliegue inicial con un grupo reducido de equipos legales. El sistema recoge los contratos desde formularios de intake (entrada de solicitudes), Gmail, Outlook o Slack, los clasifica y enruta al responsable, y hace un diagnóstico de cada uno contra el playbook (guía de negociación) del equipo: los acuerdos rutinarios que cumplen los estándares quedan marcados como listos para aprobar y el resto se escala con sugerencias. Durante la negociación, cada operación vive en un espacio común con versiones, comparación lado a lado, aprobadores y el historial de correos; los redlines (marcas de revisión) de la contraparte se revisan automáticamente y, tras la firma, el contrato pasa a un repositorio con informes tabulares y respuestas con cita a la fuente. Según LegalTech.ca, la función favorita de los primeros clientes fue la sincronización del correo, que reconstruye la cronología de cada negociación, y la herramienta de revisión de Spellbook ya tiene más de 5.000 clientes.",
+      "schema:articleBody": "Spellbook anunció el 7 de octubre de 2026 la disponibilidad general de Autonomous Contract Management (ACM), tras un despliegue inicial con un grupo reducido de equipos legales. El sistema recoge los contratos desde formularios de intake (entrada de solicitudes), Gmail, Outlook o Slack, los clasifica y enruta al responsable, y hace un diagnóstico de cada uno contra el playbook (guía de negociación) del equipo: los acuerdos rutinarios que cumplen los estándares quedan marcados como listos para aprobar y el resto se escala con sugerencias. Durante la negociación, cada operación vive en un espacio común con versiones, comparación lado a lado, aprobadores y el historial de correos; los redlines (marcas de revisión) de la contraparte se revisan automáticamente y, tras la firma, el contrato pasa a un repositorio con informes tabulares y respuestas con cita a la fuente. Según LegalTech.ca, la función favorita de los primeros clientes fue la sincronización del correo, que reconstruye la cronología de cada negociación, y la herramienta de revisión de Spellbook ya tiene más de 5.000 clientes.\n\nSpellbook dice explícitamente que ACM está «built as an AI-native replacement to legacy CLM» (construido como sustituto nativo de IA del CLM heredado), así que el mensaje va dirigido a departamentos in-house que pagan un CLM (contract lifecycle management, gestión del ciclo de vida de contratos) caro y poco usado. La diferencia práctica que promete es que la revisión empieza sola cuando el contrato llega al buzón, sin que nadie escriba un prompt (instrucción). Antes de migrar conviene comprobar tres cosas: qué permisos pide sobre el correo corporativo, cómo se audita qué contratos se aprobaron sin mirada humana y si el repositorio exporta datos y metadatos en formato abierto. Para el resto de vendors de CLM es otra señal de que la competencia ya no viene solo de otros CLM, sino de herramientas de revisión con IA que suben por la cadena hasta gestionar todo el ciclo. Las cifras y las funciones son del propio proveedor.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un vendor de revisión con IA se posiciona abiertamente como reemplazo del CLM tradicional.",
+      "sota:whyNow": "GA anunciada 7 Oct 2026 (Artificial Lawyer, LegalTech.ca). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "CA",
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "clm",
+        "contratos",
+        "agentes",
+        "in-house",
+        "playbooks"
+      ],
+      "sota:summaryP1": "Spellbook anunció el 7 de octubre de 2026 la disponibilidad general de Autonomous Contract Management (ACM), tras un despliegue inicial con un grupo reducido de equipos legales. El sistema recoge los contratos desde formularios de intake (entrada de solicitudes), Gmail, Outlook o Slack, los clasifica y enruta al responsable, y hace un diagnóstico de cada uno contra el playbook (guía de negociación) del equipo: los acuerdos rutinarios que cumplen los estándares quedan marcados como listos para aprobar y el resto se escala con sugerencias. Durante la negociación, cada operación vive en un espacio común con versiones, comparación lado a lado, aprobadores y el historial de correos; los redlines (marcas de revisión) de la contraparte se revisan automáticamente y, tras la firma, el contrato pasa a un repositorio con informes tabulares y respuestas con cita a la fuente. Según LegalTech.ca, la función favorita de los primeros clientes fue la sincronización del correo, que reconstruye la cronología de cada negociación, y la herramienta de revisión de Spellbook ya tiene más de 5.000 clientes.",
+      "sota:summaryP2": "Spellbook dice explícitamente que ACM está «built as an AI-native replacement to legacy CLM» (construido como sustituto nativo de IA del CLM heredado), así que el mensaje va dirigido a departamentos in-house que pagan un CLM (contract lifecycle management, gestión del ciclo de vida de contratos) caro y poco usado. La diferencia práctica que promete es que la revisión empieza sola cuando el contrato llega al buzón, sin que nadie escriba un prompt (instrucción). Antes de migrar conviene comprobar tres cosas: qué permisos pide sobre el correo corporativo, cómo se audita qué contratos se aprobaron sin mirada humana y si el repositorio exporta datos y metadatos en formato abierto. Para el resto de vendors de CLM es otra señal de que la competencia ya no viene solo de otros CLM, sino de herramientas de revisión con IA que suben por la cadena hasta gestionar todo el ciclo. Las cifras y las funciones son del propio proveedor.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release/",
+          "schema:name": "Spellbook's Autonomous Contract Management on General Release",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/07/spellbook-makes-autonomous-contract-management-generally-available/",
+          "schema:name": "Spellbook Makes Autonomous Contract Management Generally Available",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spellbook"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-pilot5-ia-adversarial-cinco-modelos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-pilot5-ia-adversarial-cinco-modelos",
+      "schema:headline": "Pilot5 lanza una IA adversarial para abogados: cinco modelos analizan el asunto, uno ataca el consenso y el abogado recibe una recomendación con el mejor contraargumento",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Pilot5 lanzó el 7 de octubre de 2026 un producto de IA jurídica que reparte cada consulta entre cinco frontier models (modelos de frontera). Primero construye un brief (resumen del asunto) con la parte a la que representa el abogado, el objetivo, la jurisdicción, los plazos y los hechos que podrían cambiar el análisis; después cada modelo analiza por separado, uno de ellos, el Contrarian (el que lleva la contraria), tiene el encargo de atacar el consenso con la autoridad que lo contradiga, y luego se critican entre sí sin saber quién escribió qué. El resultado es una única recomendación con sus fuentes y el contraargumento más fuerte guardado en el expediente. Según la empresa, una deliberación compleja cuesta unos 7 dólares y tarda unos quince minutos; también ofrece una Statutory Review (revisión normativa) de 0,50 dólares que coteja acuerdos laborales, como los de salida, con normas federales de EE. UU. y de once estados más el Distrito de Columbia, y un Contract Understanding (comprensión del contrato) cláusula a cláusula por unos 0,20 dólares.",
+      "schema:articleBody": "Pilot5 lanzó el 7 de octubre de 2026 un producto de IA jurídica que reparte cada consulta entre cinco frontier models (modelos de frontera). Primero construye un brief (resumen del asunto) con la parte a la que representa el abogado, el objetivo, la jurisdicción, los plazos y los hechos que podrían cambiar el análisis; después cada modelo analiza por separado, uno de ellos, el Contrarian (el que lleva la contraria), tiene el encargo de atacar el consenso con la autoridad que lo contradiga, y luego se critican entre sí sin saber quién escribió qué. El resultado es una única recomendación con sus fuentes y el contraargumento más fuerte guardado en el expediente. Según la empresa, una deliberación compleja cuesta unos 7 dólares y tarda unos quince minutos; también ofrece una Statutory Review (revisión normativa) de 0,50 dólares que coteja acuerdos laborales, como los de salida, con normas federales de EE. UU. y de once estados más el Distrito de Columbia, y un Contract Understanding (comprensión del contrato) cláusula a cláusula por unos 0,20 dólares.\n\nLa idea de «moot your case» (ensayar el caso) antes de presentarlo encaja con la práctica contenciosa: el abogado no debería escuchar por primera vez el mejor argumento contrario en sala. Artificial Lawyer recuerda que varias legaltech ya combinan modelos o usan esquemas de «juez y jurado», así que la novedad está en hacerlo explícito, estructurado y barato, y en guardar el disenso como parte del trabajo. Para despachos pequeños que no quieren contratar una gran plataforma puede ser una forma económica de contrastar un criterio. Antes de usarlo con datos de clientes hay que pedir lo que la empresa ofrece solo a petición: el modo Zero Data Retention (sin retención de datos) y un data processing agreement (contrato de encargo de tratamiento); Pilot5 afirma que no entrena modelos con archivos de clientes. Precios y funcionamiento son del proveedor.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Producto que convierte el debate entre varios LLM en un método explícito de contraste para abogados.",
+      "sota:whyNow": "Lanzamiento 7 Oct 2026 (Artificial Lawyer). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "multimodelo",
+        "litigacion",
+        "verificacion",
+        "precios",
+        "laboral"
+      ],
+      "sota:summaryP1": "Pilot5 lanzó el 7 de octubre de 2026 un producto de IA jurídica que reparte cada consulta entre cinco frontier models (modelos de frontera). Primero construye un brief (resumen del asunto) con la parte a la que representa el abogado, el objetivo, la jurisdicción, los plazos y los hechos que podrían cambiar el análisis; después cada modelo analiza por separado, uno de ellos, el Contrarian (el que lleva la contraria), tiene el encargo de atacar el consenso con la autoridad que lo contradiga, y luego se critican entre sí sin saber quién escribió qué. El resultado es una única recomendación con sus fuentes y el contraargumento más fuerte guardado en el expediente. Según la empresa, una deliberación compleja cuesta unos 7 dólares y tarda unos quince minutos; también ofrece una Statutory Review (revisión normativa) de 0,50 dólares que coteja acuerdos laborales, como los de salida, con normas federales de EE. UU. y de once estados más el Distrito de Columbia, y un Contract Understanding (comprensión del contrato) cláusula a cláusula por unos 0,20 dólares.",
+      "sota:summaryP2": "La idea de «moot your case» (ensayar el caso) antes de presentarlo encaja con la práctica contenciosa: el abogado no debería escuchar por primera vez el mejor argumento contrario en sala. Artificial Lawyer recuerda que varias legaltech ya combinan modelos o usan esquemas de «juez y jurado», así que la novedad está en hacerlo explícito, estructurado y barato, y en guardar el disenso como parte del trabajo. Para despachos pequeños que no quieren contratar una gran plataforma puede ser una forma económica de contrastar un criterio. Antes de usarlo con datos de clientes hay que pedir lo que la empresa ofrece solo a petición: el modo Zero Data Retention (sin retención de datos) y un data processing agreement (contrato de encargo de tratamiento); Pilot5 afirma que no entrena modelos con archivos de clientes. Precios y funcionamiento son del proveedor.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/",
+          "schema:name": "Pilot5 Launches Adversarial AI for Lawyers",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pilot5"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-lawvu-lens-cartera-contratos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-lawvu-lens-cartera-contratos",
+      "schema:headline": "LawVu lanza Lens: preguntas en lenguaje natural sobre toda la cartera de contratos de la empresa, con cita a cada documento",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La neozelandesa LawVu, centrada en departamentos in-house, lanzó el 7 de octubre de 2026 Lens, una herramienta de análisis de contratos con IA dentro de su LegalOS. A diferencia de los revisores que trabajan contrato a contrato, Lens analiza la cartera completa: el equipo legal pregunta en lenguaje natural y recibe respuestas basadas en sus propios contratos, con citas a los documentos de origen. La empresa pone como ejemplos detectar contratos de clientes que se renuevan en condiciones desfavorables o incumplimientos de niveles de servicio que pueden generar créditos, devoluciones o derechos de resolución; preparar un M&A (fusión o adquisición) o una auditoría localizando cláusulas de change of control (cambio de control); medir el impacto de un incidente, como el cierre de un puerto, una brecha de datos o un cambio normativo; y extraer cláusulas de cientos de contratos a una tabla para que el despacho externo revise solo las excepciones. Sam Kidd, cofundador y CEO, sostiene que Lens razona sobre los datos estructurados que cada cliente ya tiene en LawVu.",
+      "schema:articleBody": "La neozelandesa LawVu, centrada en departamentos in-house, lanzó el 7 de octubre de 2026 Lens, una herramienta de análisis de contratos con IA dentro de su LegalOS. A diferencia de los revisores que trabajan contrato a contrato, Lens analiza la cartera completa: el equipo legal pregunta en lenguaje natural y recibe respuestas basadas en sus propios contratos, con citas a los documentos de origen. La empresa pone como ejemplos detectar contratos de clientes que se renuevan en condiciones desfavorables o incumplimientos de niveles de servicio que pueden generar créditos, devoluciones o derechos de resolución; preparar un M&A (fusión o adquisición) o una auditoría localizando cláusulas de change of control (cambio de control); medir el impacto de un incidente, como el cierre de un puerto, una brecha de datos o un cambio normativo; y extraer cláusulas de cientos de contratos a una tabla para que el despacho externo revise solo las excepciones. Sam Kidd, cofundador y CEO, sostiene que Lens razona sobre los datos estructurados que cada cliente ya tiene en LawVu.\n\nPara el general counsel (director jurídico), el caso de uso más tangible es el último: si la extracción la hace la herramienta, el encargo al despacho externo se puede acotar y presupuestar como precio fijo, algo que Artificial Lawyer señala expresamente. Para los despachos implica que parte de la revisión masiva de cartera, típica de due diligence (auditoría legal) y cambios regulatorios, se queda en casa del cliente. Estratégicamente, LawVu busca la «centralidad»: ser el sitio donde el abogado in-house trabaja a diario, compitiendo con CLM y con plataformas de IA generalistas. La calidad dependerá de lo completa y limpia que esté la cartera dentro de LawVu, y conviene probarla con contratos propios antes de fiarse de las respuestas agregadas. Las funciones descritas son del proveedor.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Análisis con IA sobre toda la cartera contractual con trazabilidad a la fuente, orientado a legal ops.",
+      "sota:whyNow": "Lanzamiento 7 Oct 2026 (Artificial Lawyer). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "NZ",
+        "Global"
+      ],
+      "sota:topics": [
+        "contratos",
+        "in-house",
+        "legal-ops",
+        "due-diligence",
+        "clm"
+      ],
+      "sota:summaryP1": "La neozelandesa LawVu, centrada en departamentos in-house, lanzó el 7 de octubre de 2026 Lens, una herramienta de análisis de contratos con IA dentro de su LegalOS. A diferencia de los revisores que trabajan contrato a contrato, Lens analiza la cartera completa: el equipo legal pregunta en lenguaje natural y recibe respuestas basadas en sus propios contratos, con citas a los documentos de origen. La empresa pone como ejemplos detectar contratos de clientes que se renuevan en condiciones desfavorables o incumplimientos de niveles de servicio que pueden generar créditos, devoluciones o derechos de resolución; preparar un M&A (fusión o adquisición) o una auditoría localizando cláusulas de change of control (cambio de control); medir el impacto de un incidente, como el cierre de un puerto, una brecha de datos o un cambio normativo; y extraer cláusulas de cientos de contratos a una tabla para que el despacho externo revise solo las excepciones. Sam Kidd, cofundador y CEO, sostiene que Lens razona sobre los datos estructurados que cada cliente ya tiene en LawVu.",
+      "sota:summaryP2": "Para el general counsel (director jurídico), el caso de uso más tangible es el último: si la extracción la hace la herramienta, el encargo al despacho externo se puede acotar y presupuestar como precio fijo, algo que Artificial Lawyer señala expresamente. Para los despachos implica que parte de la revisión masiva de cartera, típica de due diligence (auditoría legal) y cambios regulatorios, se queda en casa del cliente. Estratégicamente, LawVu busca la «centralidad»: ser el sitio donde el abogado in-house trabaja a diario, compitiendo con CLM y con plataformas de IA generalistas. La calidad dependerá de lo completa y limpia que esté la cartera dentro de LawVu, y conviene probarla con contratos propios antes de fiarse de las respuestas agregadas. Las funciones descritas son del proveedor.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/07/lawvu-launches-lens-total-contract-ai-capability/",
+          "schema:name": "LawVu Launches Lens – Total Contract AI Capability",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawvu"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-sirius-xm-desestimada-demanda-ia-seleccion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-sirius-xm-desestimada-demanda-ia-seleccion",
+      "schema:headline": "Un juez federal de Detroit desestima la demanda contra Sirius XM por discriminación racial atribuida a su IA de selección de personal",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Tribunal de Distrito del Este de Michigan desestimó en Harper v. Sirius XM Radio la demanda colectiva propuesta por Arshon Harper, un candidato afroamericano que acusaba a la empresa de usar las herramientas de IA de selección de iCIMS para descartar de forma intencionada y desproporcionada a solicitantes negros. Según HR Dive, Harper acumuló numerosos rechazos en ofertas de Sirius XM y llegó a los tribunales tras recibir de la EEOC (la agencia federal de igualdad en el empleo) la carta que le permitía demandar. Law.com, que analizó el 7 de octubre el razonamiento del juez, resume la clave: ni el número elevado de candidaturas rechazadas ni variables como el código postal, alegado como proxy (variable sustitutiva) de la raza, bastaban para acreditar discriminación directa ni disparate impact (impacto desproporcionado). El tribunal añadió que el demandante no explicó cómo el supuesto uso de IA podía haberle discriminado por su raza.",
+      "schema:articleBody": "El Tribunal de Distrito del Este de Michigan desestimó en Harper v. Sirius XM Radio la demanda colectiva propuesta por Arshon Harper, un candidato afroamericano que acusaba a la empresa de usar las herramientas de IA de selección de iCIMS para descartar de forma intencionada y desproporcionada a solicitantes negros. Según HR Dive, Harper acumuló numerosos rechazos en ofertas de Sirius XM y llegó a los tribunales tras recibir de la EEOC (la agencia federal de igualdad en el empleo) la carta que le permitía demandar. Law.com, que analizó el 7 de octubre el razonamiento del juez, resume la clave: ni el número elevado de candidaturas rechazadas ni variables como el código postal, alegado como proxy (variable sustitutiva) de la raza, bastaban para acreditar discriminación directa ni disparate impact (impacto desproporcionado). El tribunal añadió que el demandante no explicó cómo el supuesto uso de IA podía haberle discriminado por su raza.\n\nPara empleadores y sus abogados laboralistas es una referencia útil, no una absolución general de la IA en selección: el caso cae por falta de hechos que conecten la herramienta con el resultado, y una demanda mejor documentada, con datos de la herramienta o estadísticas de impacto, podría tener otro recorrido. Lo práctico es preparar ahora esa prueba en sentido inverso: saber qué herramienta interviene en cada fase, conservar los criterios de cribado y poder demostrar que se ha medido el impacto por grupos. Para los vendors de HR tech como iCIMS, el pleito confirma que acabarán en el centro de la discusión aunque no sean parte. En Europa, la selección de personal con IA es un caso de alto riesgo en el AI Act (Reglamento de IA), así que las empresas con plantilla a ambos lados del Atlántico deberían alinear su documentación. El análisis completo de Law.com está tras un muro de pago.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Resolución federal temprana que fija qué hace falta alegar para demandar por sesgo de IA en contratación.",
+      "sota:whyNow": "Análisis de Law.com 7 Oct 2026 sobre la desestimación (HR Dive). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "empleo",
+        "discriminacion",
+        "seleccion",
+        "disparate-impact",
+        "hr-tech"
+      ],
+      "sota:summaryP1": "El Tribunal de Distrito del Este de Michigan desestimó en Harper v. Sirius XM Radio la demanda colectiva propuesta por Arshon Harper, un candidato afroamericano que acusaba a la empresa de usar las herramientas de IA de selección de iCIMS para descartar de forma intencionada y desproporcionada a solicitantes negros. Según HR Dive, Harper acumuló numerosos rechazos en ofertas de Sirius XM y llegó a los tribunales tras recibir de la EEOC (la agencia federal de igualdad en el empleo) la carta que le permitía demandar. Law.com, que analizó el 7 de octubre el razonamiento del juez, resume la clave: ni el número elevado de candidaturas rechazadas ni variables como el código postal, alegado como proxy (variable sustitutiva) de la raza, bastaban para acreditar discriminación directa ni disparate impact (impacto desproporcionado). El tribunal añadió que el demandante no explicó cómo el supuesto uso de IA podía haberle discriminado por su raza.",
+      "sota:summaryP2": "Para empleadores y sus abogados laboralistas es una referencia útil, no una absolución general de la IA en selección: el caso cae por falta de hechos que conecten la herramienta con el resultado, y una demanda mejor documentada, con datos de la herramienta o estadísticas de impacto, podría tener otro recorrido. Lo práctico es preparar ahora esa prueba en sentido inverso: saber qué herramienta interviene en cada fase, conservar los criterios de cribado y poder demostrar que se ha medido el impacto por grupos. Para los vendors de HR tech como iCIMS, el pleito confirma que acabarán en el centro de la discusión aunque no sean parte. En Europa, la selección de personal con IA es un caso de alto riesgo en el AI Act (Reglamento de IA), así que las empresas con plantilla a ambos lados del Atlántico deberían alinear su documentación. El análisis completo de Law.com está tras un muro de pago.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/2026/10/07/the-judges-rationale-sirius-xm-cleared-in-ai-hiring-discrimination-lawsuit/",
+          "schema:name": "The Judge's Rationale: Sirius XM Cleared in AI Hiring-Discrimination Lawsuit",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.hrdive.com/news/sirius-xm-beats-allegations-of-ai-fueled-racial-bias/832115/",
+          "schema:name": "Sirius XM beats allegations of AI-fueled racial bias",
+          "sota:sourceId": "src-hr-dive"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sirius-xm"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icims"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-everlaw-informe-2026-adopcion-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-everlaw-informe-2026-adopcion-ia",
+      "schema:headline": "El informe 2026 de Everlaw cifra en un 49% el uso de IA generativa en el sector legal, pero solo un 34% la integra en toda la organización y apenas un 3% usa agentes",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Above the Law publicó el 7 de octubre de 2026 una lectura crítica, firmada por Stephen Embry, del 2026 Legal AI Adoption & Impact Report de Everlaw, la cuarta edición de su encuesta, hecha con la Association of Certified E-Discovery Specialists (ACEDS) y la International Legal Technology Association (ILTA) entre mayo y junio sobre 257 respuestas. El 49% usa IA generativa en su trabajo jurídico y otro 42% planea hacerlo; el 46% cree que pronto será el estándar en toda la práctica. Solo el 19% dice que ya ha cambiado de forma significativa la facturación, aunque más de la mitad cree que debilitará la hora facturable. Entre quienes la usan, el 17% ahorra de 5 a 10 horas semanales, pero el 21% no sabe si ahorra tiempo. Solo el 3% usa AI agents (agentes de IA), apenas el 34% la integra en toda la organización, un 18% sigue en piloto, un 8% no tiene estrategia y solo el 48% tiene una política escrita.",
+      "schema:articleBody": "Above the Law publicó el 7 de octubre de 2026 una lectura crítica, firmada por Stephen Embry, del 2026 Legal AI Adoption & Impact Report de Everlaw, la cuarta edición de su encuesta, hecha con la Association of Certified E-Discovery Specialists (ACEDS) y la International Legal Technology Association (ILTA) entre mayo y junio sobre 257 respuestas. El 49% usa IA generativa en su trabajo jurídico y otro 42% planea hacerlo; el 46% cree que pronto será el estándar en toda la práctica. Solo el 19% dice que ya ha cambiado de forma significativa la facturación, aunque más de la mitad cree que debilitará la hora facturable. Entre quienes la usan, el 17% ahorra de 5 a 10 horas semanales, pero el 21% no sabe si ahorra tiempo. Solo el 3% usa AI agents (agentes de IA), apenas el 34% la integra en toda la organización, un 18% sigue en piloto, un 8% no tiene estrategia y solo el 48% tiene una política escrita.\n\nEmbry no discute los datos, sino la conclusión de Everlaw de que la IA ya es «industry standard» (estándar del sector): con la mitad de los encuestados sin usarla y dos tercios sin integración corporativa, el vaso está tan medio vacío como medio lleno. Para un socio director, la cifra que preocupa es la de gobierno: un tercio sin política y otro 20% con una política que solo se aplica a empleados y no a socios significa que mucha gente usa la IA a su manera. Para formación, solo el 41% considera clave saber verificar resultados, pese al historial de hallucinations (alucinaciones), y un 14% cree que no hace falta ninguna competencia en IA; el 31% teme un hueco de formación en los júniors. Es un informe de proveedor con muestra pequeña, útil para comparar tendencias de año a año más que como foto del mercado.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos anuales de adopción, gobierno y facturación con IA, leídos de forma crítica.",
+      "sota:whyNow": "Análisis de Above the Law 7 Oct 2026. NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "adopcion",
+        "encuesta",
+        "gobierno-ia",
+        "facturacion",
+        "agentes",
+        "formacion"
+      ],
+      "sota:summaryP1": "Above the Law publicó el 7 de octubre de 2026 una lectura crítica, firmada por Stephen Embry, del 2026 Legal AI Adoption & Impact Report de Everlaw, la cuarta edición de su encuesta, hecha con la Association of Certified E-Discovery Specialists (ACEDS) y la International Legal Technology Association (ILTA) entre mayo y junio sobre 257 respuestas. El 49% usa IA generativa en su trabajo jurídico y otro 42% planea hacerlo; el 46% cree que pronto será el estándar en toda la práctica. Solo el 19% dice que ya ha cambiado de forma significativa la facturación, aunque más de la mitad cree que debilitará la hora facturable. Entre quienes la usan, el 17% ahorra de 5 a 10 horas semanales, pero el 21% no sabe si ahorra tiempo. Solo el 3% usa AI agents (agentes de IA), apenas el 34% la integra en toda la organización, un 18% sigue en piloto, un 8% no tiene estrategia y solo el 48% tiene una política escrita.",
+      "sota:summaryP2": "Embry no discute los datos, sino la conclusión de Everlaw de que la IA ya es «industry standard» (estándar del sector): con la mitad de los encuestados sin usarla y dos tercios sin integración corporativa, el vaso está tan medio vacío como medio lleno. Para un socio director, la cifra que preocupa es la de gobierno: un tercio sin política y otro 20% con una política que solo se aplica a empleados y no a socios significa que mucha gente usa la IA a su manera. Para formación, solo el 41% considera clave saber verificar resultados, pese al historial de hallucinations (alucinaciones), y un 14% cree que no hace falta ninguna competencia en IA; el 31% teme un hueco de formación en los júniors. Es un informe de proveedor con muestra pequeña, útil para comparar tendencias de año a año más que como foto del mercado.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abovethelaw.com/2026/10/everlaws-2026-ai-report-a-glass-half-full-or-half-empty/",
+          "schema:name": "Everlaw's 2026 AI Report: A Glass Half Full Or Half Empty?",
+          "sota:sourceId": "src-above-the-law"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-everlaw"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aceds"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ilta"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-alemania-ley-violencia-digital-deepfakes",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-alemania-ley-violencia-digital-deepfakes",
+      "schema:headline": "Alemania aprueba en Consejo de Ministros su ley contra la violencia digital: nuevos delitos por crear o difundir deepfakes y vía rápida para identificar a usuarios anónimos",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Gobierno federal alemán aprobó el 7 de octubre de 2026 el proyecto de ley para reforzar la protección civil y penal frente a la violencia digital, preparado por el Ministerio de Justicia de Stefanie Hubig, según Legal Tribune Online. El texto crea cuatro delitos en el Código Penal (StGB): el § 184k castiga crear o difundir sin autorización deepfakes sexualizados, imágenes íntimas captadas sin consentimiento, sea en un lugar privado o público como una sauna, y vídeos de violaciones, con penas de hasta dos años y de hasta tres en este último caso; el § 201b castiga difundir deepfakes no sexuales que dañen la reputación, como un vídeo falso que aparenta que alguien cometió un delito, con excepción para arte, ciencia, información o sátira; el § 201c castiga suplantar la identidad de otra persona para difundir contenido ofensivo; y el § 202e castiga la vigilancia con rastreadores GPS. En lo civil, la ley crea un procedimiento judicial de información frente a plataformas, servicios de mensajería y proveedores de acceso, órdenes de conservación de datos y un derecho a bloqueo y retirada aunque se desconozca al autor.",
+      "schema:articleBody": "El Gobierno federal alemán aprobó el 7 de octubre de 2026 el proyecto de ley para reforzar la protección civil y penal frente a la violencia digital, preparado por el Ministerio de Justicia de Stefanie Hubig, según Legal Tribune Online. El texto crea cuatro delitos en el Código Penal (StGB): el § 184k castiga crear o difundir sin autorización deepfakes sexualizados, imágenes íntimas captadas sin consentimiento, sea en un lugar privado o público como una sauna, y vídeos de violaciones, con penas de hasta dos años y de hasta tres en este último caso; el § 201b castiga difundir deepfakes no sexuales que dañen la reputación, como un vídeo falso que aparenta que alguien cometió un delito, con excepción para arte, ciencia, información o sátira; el § 201c castiga suplantar la identidad de otra persona para difundir contenido ofensivo; y el § 202e castiga la vigilancia con rastreadores GPS. En lo civil, la ley crea un procedimiento judicial de información frente a plataformas, servicios de mensajería y proveedores de acceso, órdenes de conservación de datos y un derecho a bloqueo y retirada aunque se desconozca al autor.\n\nPara las plataformas y sus asesores el cambio es operativo: tendrán que responder a órdenes judiciales para identificar a usuarios, conservar datos mientras dure el procedimiento y, si están fuera de la UE, nombrar un representante en Alemania para notificaciones; los jueces podrán incluso ordenar el bloqueo temporal de cuentas reincidentes. Para quien desarrolla herramientas de IA generativa de imagen o vídeo, el mensaje es que el simple hecho de crear un deepfake sexualizado pasará a ser delito, no solo difundirlo, y Alemania se ha fijado en el modelo italiano. Para los despachos de litigación digital y protección del honor abre un camino más corto para identificar a infractores anónimos. El proyecto debe pasar ahora por el Bundestag y el Bundesrat, y el Ministerio de Justicia calcula su entrada en vigor hacia mediados de 2027.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Tipificación penal específica de los deepfakes y nuevas obligaciones de identificación para plataformas.",
+      "sota:whyNow": "Aprobado por el Gobierno federal 7 Oct 2026 (LTO). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "DE",
+        "EU"
+      ],
+      "sota:topics": [
+        "deepfakes",
+        "derecho-penal",
+        "plataformas",
+        "violencia-digital",
+        "identificacion"
+      ],
+      "sota:summaryP1": "El Gobierno federal alemán aprobó el 7 de octubre de 2026 el proyecto de ley para reforzar la protección civil y penal frente a la violencia digital, preparado por el Ministerio de Justicia de Stefanie Hubig, según Legal Tribune Online. El texto crea cuatro delitos en el Código Penal (StGB): el § 184k castiga crear o difundir sin autorización deepfakes sexualizados, imágenes íntimas captadas sin consentimiento, sea en un lugar privado o público como una sauna, y vídeos de violaciones, con penas de hasta dos años y de hasta tres en este último caso; el § 201b castiga difundir deepfakes no sexuales que dañen la reputación, como un vídeo falso que aparenta que alguien cometió un delito, con excepción para arte, ciencia, información o sátira; el § 201c castiga suplantar la identidad de otra persona para difundir contenido ofensivo; y el § 202e castiga la vigilancia con rastreadores GPS. En lo civil, la ley crea un procedimiento judicial de información frente a plataformas, servicios de mensajería y proveedores de acceso, órdenes de conservación de datos y un derecho a bloqueo y retirada aunque se desconozca al autor.",
+      "sota:summaryP2": "Para las plataformas y sus asesores el cambio es operativo: tendrán que responder a órdenes judiciales para identificar a usuarios, conservar datos mientras dure el procedimiento y, si están fuera de la UE, nombrar un representante en Alemania para notificaciones; los jueces podrán incluso ordenar el bloqueo temporal de cuentas reincidentes. Para quien desarrolla herramientas de IA generativa de imagen o vídeo, el mensaje es que el simple hecho de crear un deepfake sexualizado pasará a ser delito, no solo difundirlo, y Alemania se ha fijado en el modelo italiano. Para los despachos de litigación digital y protección del honor abre un camino más corto para identificar a infractores anónimos. El proyecto debe pasar ahora por el Bundestag y el Bundesrat, y el Ministerio de Justicia calcula su entrada en vigor hacia mediados de 2027.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lto.de/recht/nachrichten/n/porno-sex-deepfakes-spanner-gesetz-gegen-digitale-gewalt-beschlossen",
+          "schema:name": "Gesetz gegen digitale Gewalt beschlossen: Neue Straftatbestände gegen Deepfakes und Voyeure",
+          "sota:sourceId": "src-legal-tribune-online-legal-tech"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bmjv"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-wordsmith-goodlawyer-abogados-embebidos-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-wordsmith-goodlawyer-abogados-embebidos-ia",
+      "schema:headline": "Wordsmith y Goodlawyer se alían: los abogados in-house fraccionales y embebidos de la red canadiense trabajarán con la IA de Wordsmith",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Goodlawyer, una empresa de Calgary que coloca abogados in-house con experiencia dentro de empresas, ya sea como embedded counsel (abogado integrado en el cliente) o fractional counsel (a tiempo parcial), anunció el 7 de octubre de 2026 una alianza con la plataforma de IA jurídica Wordsmith. Sus abogados podrán usar Wordsmith en los encargos para hacer el intake (recepción) de solicitudes, revisar contratos contra los playbooks (guías) de cada empresa y apoyar redacción e investigación; lo que exige criterio se escala al abogado, que mantiene la decisión y la responsabilidad. La red de Goodlawyer trabaja para equipos legales de Norteamérica como Uber, Cohere y Ferrero, y Wordsmith afirma dar servicio a más de 500 equipos in-house, entre ellos BT, Canva, Safelite y el Financial Times. Brett Colvin, CEO de Goodlawyer, dice que la IA da a sus abogados «más palanca» para todo lo que no requiere su juicio.",
+      "schema:articleBody": "Goodlawyer, una empresa de Calgary que coloca abogados in-house con experiencia dentro de empresas, ya sea como embedded counsel (abogado integrado en el cliente) o fractional counsel (a tiempo parcial), anunció el 7 de octubre de 2026 una alianza con la plataforma de IA jurídica Wordsmith. Sus abogados podrán usar Wordsmith en los encargos para hacer el intake (recepción) de solicitudes, revisar contratos contra los playbooks (guías) de cada empresa y apoyar redacción e investigación; lo que exige criterio se escala al abogado, que mantiene la decisión y la responsabilidad. La red de Goodlawyer trabaja para equipos legales de Norteamérica como Uber, Cohere y Ferrero, y Wordsmith afirma dar servicio a más de 500 equipos in-house, entre ellos BT, Canva, Safelite y el Financial Times. Brett Colvin, CEO de Goodlawyer, dice que la IA da a sus abogados «más palanca» para todo lo que no requiere su juicio.\n\nEs la versión in-house de una tendencia que ya se ve en despachos: la IA como palanca para que un abogado cubra más trabajo sin aumentar plantilla, aquí aplicada al modelo de abogados flexibles. Para el general counsel (director jurídico) que contrata este tipo de apoyo cambia la conversación: además del perfil del abogado, conviene preguntar con qué herramienta trabaja, dónde se alojan los datos de la empresa y quién responde si la IA filtra un contrato mal. Para los proveedores de legal staffing (abogados por encargo) es un diferenciador fácil de copiar, y para los vendors de IA es un canal de distribución: llegar a cientos de empresas a través de los abogados que ya trabajan dentro. Los datos de clientes y usuarios proceden de las empresas.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "La IA jurídica entra en el modelo de abogado in-house fraccional como canal de distribución.",
+      "sota:whyNow": "Anuncio 7 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "CA",
+        "US",
+        "UK"
+      ],
+      "sota:topics": [
+        "in-house",
+        "abogados-fraccionales",
+        "alianzas",
+        "contratos",
+        "legal-staffing"
+      ],
+      "sota:summaryP1": "Goodlawyer, una empresa de Calgary que coloca abogados in-house con experiencia dentro de empresas, ya sea como embedded counsel (abogado integrado en el cliente) o fractional counsel (a tiempo parcial), anunció el 7 de octubre de 2026 una alianza con la plataforma de IA jurídica Wordsmith. Sus abogados podrán usar Wordsmith en los encargos para hacer el intake (recepción) de solicitudes, revisar contratos contra los playbooks (guías) de cada empresa y apoyar redacción e investigación; lo que exige criterio se escala al abogado, que mantiene la decisión y la responsabilidad. La red de Goodlawyer trabaja para equipos legales de Norteamérica como Uber, Cohere y Ferrero, y Wordsmith afirma dar servicio a más de 500 equipos in-house, entre ellos BT, Canva, Safelite y el Financial Times. Brett Colvin, CEO de Goodlawyer, dice que la IA da a sus abogados «más palanca» para todo lo que no requiere su juicio.",
+      "sota:summaryP2": "Es la versión in-house de una tendencia que ya se ve en despachos: la IA como palanca para que un abogado cubra más trabajo sin aumentar plantilla, aquí aplicada al modelo de abogados flexibles. Para el general counsel (director jurídico) que contrata este tipo de apoyo cambia la conversación: además del perfil del abogado, conviene preguntar con qué herramienta trabaja, dónde se alojan los datos de la empresa y quién responde si la IA filtra un contrato mal. Para los proveedores de legal staffing (abogados por encargo) es un diferenciador fácil de copiar, y para los vendors de IA es un canal de distribución: llegar a cientos de empresas a través de los abogados que ya trabajan dentro. Los datos de clientes y usuarios proceden de las empresas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/07/goodlawyer-partners-with-wordsmith-to-equip-embedded-counsel-with-ai/",
+          "schema:name": "Wordsmith AI Partners with Goodlawyer to Equip Embedded Counsel with AI",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wordsmith"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-goodlawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-teddy-ai-seed-60m",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-teddy-ai-seed-60m",
+      "schema:headline": "Teddy AI cierra un seed de 60 millones de dólares y dice facturar más de 25, pero no revela a qué se dedica, quién la dirige ni quién ha invertido",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "TeddyHoldings.AI (Teddy AI), una startup de servicios jurídicos y compliance (cumplimiento normativo) incubada por Tucker's Farm Corporation, anunció el 7 de octubre de 2026 una ronda seed (semilla) de 60 millones de dólares, según Legaltech News. Los inversores no se han hecho públicos y se describen como limited partners (inversores institucionales) tradicionales; la empresa tampoco ha detallado su actividad concreta ni su equipo directivo, aunque afirma haber superado los 25 millones de dólares de ingresos. Su nota de prensa, publicada en The National Law Review, añade que la empresa recibió unos 115 millones de dólares en peticiones de inversión en tres semanas de ronda y decidió quedarse en 60, y que Tucker's Farm es un holding que busca comprar entre 100 y 200 millones de dólares en activos al año en el lower-middle market (empresas medianas).",
+      "schema:articleBody": "TeddyHoldings.AI (Teddy AI), una startup de servicios jurídicos y compliance (cumplimiento normativo) incubada por Tucker's Farm Corporation, anunció el 7 de octubre de 2026 una ronda seed (semilla) de 60 millones de dólares, según Legaltech News. Los inversores no se han hecho públicos y se describen como limited partners (inversores institucionales) tradicionales; la empresa tampoco ha detallado su actividad concreta ni su equipo directivo, aunque afirma haber superado los 25 millones de dólares de ingresos. Su nota de prensa, publicada en The National Law Review, añade que la empresa recibió unos 115 millones de dólares en peticiones de inversión en tres semanas de ronda y decidió quedarse en 60, y que Tucker's Farm es un holding que busca comprar entre 100 y 200 millones de dólares en activos al año en el lower-middle market (empresas medianas).\n\nUn seed de este tamaño con más de 25 millones de ingresos no es una startup al uso, sino la estructura de un holding que compra y consolida negocios. Su propia web invita a despachos a valorar su back office (área de soporte) e interesarse por vender, lo que sugiere un rollup (consolidación por compras) de servicios jurídicos de nicho. Para socios de despachos medianos, la lección es que el capital está buscando sus funciones de soporte, no solo su software. Con tan poca información pública, hay que tratarla como una señal de mercado más que como un modelo validado; el nombre «AI» no aclara qué papel tiene la tecnología en el negocio.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Ronda seed atípica que apunta a consolidación de servicios jurídicos con capital institucional.",
+      "sota:whyNow": "Anuncio 7 Oct 2026 (Legaltech News; nota de prensa en NLR). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "financiacion",
+        "rollup",
+        "servicios-juridicos",
+        "compliance",
+        "capital-privado"
+      ],
+      "sota:summaryP1": "TeddyHoldings.AI (Teddy AI), una startup de servicios jurídicos y compliance (cumplimiento normativo) incubada por Tucker's Farm Corporation, anunció el 7 de octubre de 2026 una ronda seed (semilla) de 60 millones de dólares, según Legaltech News. Los inversores no se han hecho públicos y se describen como limited partners (inversores institucionales) tradicionales; la empresa tampoco ha detallado su actividad concreta ni su equipo directivo, aunque afirma haber superado los 25 millones de dólares de ingresos. Su nota de prensa, publicada en The National Law Review, añade que la empresa recibió unos 115 millones de dólares en peticiones de inversión en tres semanas de ronda y decidió quedarse en 60, y que Tucker's Farm es un holding que busca comprar entre 100 y 200 millones de dólares en activos al año en el lower-middle market (empresas medianas).",
+      "sota:summaryP2": "Un seed de este tamaño con más de 25 millones de ingresos no es una startup al uso, sino la estructura de un holding que compra y consolida negocios. Su propia web invita a despachos a valorar su back office (área de soporte) e interesarse por vender, lo que sugiere un rollup (consolidación por compras) de servicios jurídicos de nicho. Para socios de despachos medianos, la lección es que el capital está buscando sus funciones de soporte, no solo su software. Con tan poca información pública, hay que tratarla como una señal de mercado más que como un modelo validado; el nombre «AI» no aclara qué papel tiene la tecnología en el negocio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/07/legal-services-startup-teddy-ai-announces-60m-seed-round-/",
+          "schema:name": "Legal Services Startup Teddy AI Announces $60M Seed Round",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://natlawreview.com/press-releases/teddyholdingsai-raises-60-million-seed-funding-leading-investors-transform",
+          "schema:name": "TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors",
+          "sota:sourceId": "src-national-law-review"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-teddy-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tuckers-farm"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-08-neolegal-adquiere-leya",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-08-neolegal-adquiere-leya",
+      "schema:headline": "Neolegal compra Leya y suma a 50.000 personas que tienen acceso a un abogado como beneficio de empresa en Quebec",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La montrealesa Neolegal anunció el 7 de octubre de 2026 la compra de Leya, una plataforma quebequesa de asistencia jurídica digital que se ofrece a través de empleadores, aseguradoras y entidades financieras. La operación incorpora a su ecosistema a más de 50.000 personas con acceso a Leya, que permite reservar al instante consultas con abogados y notarios como un beneficio laboral más; no se han revelado las condiciones económicas. Neolegal, fundada en 2017, vende paquetes jurídicos en línea para particulares y empresas apoyados en tecnología y automatización, además de software para despachos y asistencia jurídica integrada en seguros colectivos y programas de beneficios. Su CEO, Philip Hazeltine, dice que la posición de Leya en seguros colectivos acelerará el crecimiento en ese mercado, y su fundador, Ryan Hillier, quiere que el apoyo legal sea un beneficio estándar, junto al dentista o la salud mental.",
+      "schema:articleBody": "La montrealesa Neolegal anunció el 7 de octubre de 2026 la compra de Leya, una plataforma quebequesa de asistencia jurídica digital que se ofrece a través de empleadores, aseguradoras y entidades financieras. La operación incorpora a su ecosistema a más de 50.000 personas con acceso a Leya, que permite reservar al instante consultas con abogados y notarios como un beneficio laboral más; no se han revelado las condiciones económicas. Neolegal, fundada en 2017, vende paquetes jurídicos en línea para particulares y empresas apoyados en tecnología y automatización, además de software para despachos y asistencia jurídica integrada en seguros colectivos y programas de beneficios. Su CEO, Philip Hazeltine, dice que la posición de Leya en seguros colectivos acelerará el crecimiento en ese mercado, y su fundador, Ryan Hillier, quiere que el apoyo legal sea un beneficio estándar, junto al dentista o la salud mental.\n\nEl modelo de asistencia jurídica como beneficio laboral, extendido en Norteamérica y con equivalentes en España en seguros de defensa jurídica, crece por consolidación: quien tiene la tecnología para atender consultas a bajo coste compra el canal de distribución, que son las empresas y aseguradoras. Para despachos que viven del cliente particular, la competencia llega por el departamento de recursos humanos del cliente, no por otro bufete. Para aseguradoras y corredurías, es un recordatorio de que el servicio jurídico se puede empaquetar como producto digital con reserva inmediata. La operación es pequeña y local, pero ilustra una forma de acceso a la justicia que no depende de la IA, sino de la distribución.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Consolidación en asistencia jurídica digital como beneficio para empleados.",
+      "sota:whyNow": "Anuncio 7 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-07.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "adquisiciones",
+        "acceso-a-la-justicia",
+        "beneficios-laborales",
+        "seguros",
+        "servicios-juridicos-online"
+      ],
+      "sota:summaryP1": "La montrealesa Neolegal anunció el 7 de octubre de 2026 la compra de Leya, una plataforma quebequesa de asistencia jurídica digital que se ofrece a través de empleadores, aseguradoras y entidades financieras. La operación incorpora a su ecosistema a más de 50.000 personas con acceso a Leya, que permite reservar al instante consultas con abogados y notarios como un beneficio laboral más; no se han revelado las condiciones económicas. Neolegal, fundada en 2017, vende paquetes jurídicos en línea para particulares y empresas apoyados en tecnología y automatización, además de software para despachos y asistencia jurídica integrada en seguros colectivos y programas de beneficios. Su CEO, Philip Hazeltine, dice que la posición de Leya en seguros colectivos acelerará el crecimiento en ese mercado, y su fundador, Ryan Hillier, quiere que el apoyo legal sea un beneficio estándar, junto al dentista o la salud mental.",
+      "sota:summaryP2": "El modelo de asistencia jurídica como beneficio laboral, extendido en Norteamérica y con equivalentes en España en seguros de defensa jurídica, crece por consolidación: quien tiene la tecnología para atender consultas a bajo coste compra el canal de distribución, que son las empresas y aseguradoras. Para despachos que viven del cliente particular, la competencia llega por el departamento de recursos humanos del cliente, no por otro bufete. Para aseguradoras y corredurías, es un recordatorio de que el servicio jurídico se puede empaquetar como producto digital con reserva inmediata. La operación es pequeña y local, pero ilustra una forma de acceso a la justicia que no depende de la IA, sino de la distribución.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/07/neolegal-acquires-leya-to-expand-legal-support-in-employee-benefits/",
+          "schema:name": "Neolegal Acquires Leya to Expand Legal Support in Employee Benefits",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-neolegal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-leya"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aceds",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aceds",
+      "schema:name": "Association of Certified E-Discovery Specialists",
+      "sota:entityType": "association",
+      "schema:url": "https://aceds.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bmjv",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bmjv",
+      "schema:name": "Bundesministerium der Justiz und für Verbraucherschutz",
+      "sota:entityType": "government",
+      "schema:url": "https://www.bmjv.de/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-everlaw",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-everlaw",
+      "schema:name": "Everlaw",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.everlaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-goodlawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-goodlawyer",
+      "schema:name": "Goodlawyer",
+      "sota:entityType": "company",
+      "schema:url": "https://www.goodlawyer.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-google",
+      "schema:name": "Google",
+      "sota:entityType": "company",
+      "schema:url": "https://www.google.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icims",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-icims",
+      "schema:name": "iCIMS",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.icims.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ilta",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ilta",
+      "schema:name": "International Legal Technology Association",
+      "sota:entityType": "association",
+      "schema:url": "https://www.iltanet.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawvu",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawvu",
+      "schema:name": "LawVu",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lawvu.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-leya",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-leya",
+      "schema:name": "Leya",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legaltech.ca/2026/10/07/neolegal-acquires-leya-to-expand-legal-support-in-employee-benefits/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-neolegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-neolegal",
+      "schema:name": "Neolegal",
+      "sota:entityType": "company",
+      "schema:url": "https://www.neolegal.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pilot5",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pilot5",
+      "schema:name": "Pilot5",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sirius-xm",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sirius-xm",
+      "schema:name": "Sirius XM Radio",
+      "sota:entityType": "company",
+      "schema:url": "https://www.siriusxm.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spellbook",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-spellbook",
+      "schema:name": "Spellbook",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.spellbook.legal/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stanford-codex",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-stanford-codex",
+      "schema:name": "Stanford CodeX - The Stanford Center for Legal Informatics",
+      "sota:entityType": "academia",
+      "schema:url": "https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-teddy-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-teddy-ai",
+      "schema:name": "TeddyHoldings.AI",
+      "sota:entityType": "company",
+      "schema:url": "https://www.teddyholdings.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tuckers-farm",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tuckers-farm",
+      "schema:name": "Tucker's Farm Corporation",
+      "sota:entityType": "company",
+      "schema:url": "https://www.teddyholdings.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wordsmith",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-wordsmith",
+      "schema:name": "Wordsmith",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.wordsmith.ai/",
+      "sota:stub": true
+    }
+  ]
+}

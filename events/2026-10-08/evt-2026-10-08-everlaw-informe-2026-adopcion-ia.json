@@ -1,0 +1,39 @@
+{
+  "id": "evt-2026-10-08-everlaw-informe-2026-adopcion-ia",
+  "date": "2026-10-07",
+  "type": "research",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "El informe 2026 de Everlaw cifra en un 49% el uso de IA generativa en el sector legal, pero solo un 34% la integra en toda la organización y apenas un 3% usa agentes",
+  "summary_p1": "Above the Law publicó el 7 de octubre de 2026 una lectura crítica, firmada por Stephen Embry, del 2026 Legal AI Adoption & Impact Report de Everlaw, la cuarta edición de su encuesta, hecha con la Association of Certified E-Discovery Specialists (ACEDS) y la International Legal Technology Association (ILTA) entre mayo y junio sobre 257 respuestas. El 49% usa IA generativa en su trabajo jurídico y otro 42% planea hacerlo; el 46% cree que pronto será el estándar en toda la práctica. Solo el 19% dice que ya ha cambiado de forma significativa la facturación, aunque más de la mitad cree que debilitará la hora facturable. Entre quienes la usan, el 17% ahorra de 5 a 10 horas semanales, pero el 21% no sabe si ahorra tiempo. Solo el 3% usa AI agents (agentes de IA), apenas el 34% la integra en toda la organización, un 18% sigue en piloto, un 8% no tiene estrategia y solo el 48% tiene una política escrita.",
+  "summary_p2": "Embry no discute los datos, sino la conclusión de Everlaw de que la IA ya es «industry standard» (estándar del sector): con la mitad de los encuestados sin usarla y dos tercios sin integración corporativa, el vaso está tan medio vacío como medio lleno. Para un socio director, la cifra que preocupa es la de gobierno: un tercio sin política y otro 20% con una política que solo se aplica a empleados y no a socios significa que mucha gente usa la IA a su manera. Para formación, solo el 41% considera clave saber verificar resultados, pese al historial de hallucinations (alucinaciones), y un 14% cree que no hace falta ninguna competencia en IA; el 31% teme un hueco de formación en los júniors. Es un informe de proveedor con muestra pequeña, útil para comparar tendencias de año a año más que como foto del mercado.",
+  "why_sota": "Datos anuales de adopción, gobierno y facturación con IA, leídos de forma crítica.",
+  "why_now": "Análisis de Above the Law 7 Oct 2026. NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "adopcion",
+    "encuesta",
+    "gobierno-ia",
+    "facturacion",
+    "agentes",
+    "formacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/everlaws-2026-ai-report-a-glass-half-full-or-half-empty/",
+      "cited_title": "Everlaw's 2026 AI Report: A Glass Half Full Or Half Empty?",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-everlaw",
+    "ent-aceds",
+    "ent-ilta"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+id: ent-sirius-xm
+name: Sirius XM Radio
+type: company
+url: https://www.siriusxm.com/
+geo:
+- US
+aliases:
+- SiriusXM
+notes: Demandada en Harper v. Sirius XM Radio (E.D. Mich.) por supuesto sesgo de IA
+  en selección. Ficha mínima.
+stub: true

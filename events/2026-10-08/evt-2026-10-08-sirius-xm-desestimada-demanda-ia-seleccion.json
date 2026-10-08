@@ -1,0 +1,42 @@
+{
+  "id": "evt-2026-10-08-sirius-xm-desestimada-demanda-ia-seleccion",
+  "date": "2026-10-07",
+  "type": "case_law",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Un juez federal de Detroit desestima la demanda contra Sirius XM por discriminación racial atribuida a su IA de selección de personal",
+  "summary_p1": "El Tribunal de Distrito del Este de Michigan desestimó en Harper v. Sirius XM Radio la demanda colectiva propuesta por Arshon Harper, un candidato afroamericano que acusaba a la empresa de usar las herramientas de IA de selección de iCIMS para descartar de forma intencionada y desproporcionada a solicitantes negros. Según HR Dive, Harper acumuló numerosos rechazos en ofertas de Sirius XM y llegó a los tribunales tras recibir de la EEOC (la agencia federal de igualdad en el empleo) la carta que le permitía demandar. Law.com, que analizó el 7 de octubre el razonamiento del juez, resume la clave: ni el número elevado de candidaturas rechazadas ni variables como el código postal, alegado como proxy (variable sustitutiva) de la raza, bastaban para acreditar discriminación directa ni disparate impact (impacto desproporcionado). El tribunal añadió que el demandante no explicó cómo el supuesto uso de IA podía haberle discriminado por su raza.",
+  "summary_p2": "Para empleadores y sus abogados laboralistas es una referencia útil, no una absolución general de la IA en selección: el caso cae por falta de hechos que conecten la herramienta con el resultado, y una demanda mejor documentada, con datos de la herramienta o estadísticas de impacto, podría tener otro recorrido. Lo práctico es preparar ahora esa prueba en sentido inverso: saber qué herramienta interviene en cada fase, conservar los criterios de cribado y poder demostrar que se ha medido el impacto por grupos. Para los vendors de HR tech como iCIMS, el pleito confirma que acabarán en el centro de la discusión aunque no sean parte. En Europa, la selección de personal con IA es un caso de alto riesgo en el AI Act (Reglamento de IA), así que las empresas con plantilla a ambos lados del Atlántico deberían alinear su documentación. El análisis completo de Law.com está tras un muro de pago.",
+  "why_sota": "Resolución federal temprana que fija qué hace falta alegar para demandar por sesgo de IA en contratación.",
+  "why_now": "Análisis de Law.com 7 Oct 2026 sobre la desestimación (HR Dive). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "empleo",
+    "discriminacion",
+    "seleccion",
+    "disparate-impact",
+    "hr-tech"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/2026/10/07/the-judges-rationale-sirius-xm-cleared-in-ai-hiring-discrimination-lawsuit/",
+      "cited_title": "The Judge's Rationale: Sirius XM Cleared in AI Hiring-Discrimination Lawsuit",
+      "accessed": "2026-10-08"
+    },
+    {
+      "source_id": "src-hr-dive",
+      "url": "https://www.hrdive.com/news/sirius-xm-beats-allegations-of-ai-fueled-racial-bias/832115/",
+      "cited_title": "Sirius XM beats allegations of AI-fueled racial bias",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-sirius-xm",
+    "ent-icims"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -4,7 +4,7 @@
 # Tipografia: comillas dobles ASCII. El español de los campos va en UTF-8 (ñ y tildes).
 version: "1.0.0"
 generated_from: "/workspace/legaltech/fuentes-legaltech-mundiales.md"
-count: 144
+count: 146
 tiers:
   core: "Monitorización diaria prioritaria (señal alta ES/AI)"
   watch: "Revisión periódica / semanal"
@@ -1305,5 +1305,23 @@ sources:
     frequency: "diario"
     why: "Noticias de operaciones y rondas. Ficha añadida para citar una URL de thedealwire.com."
     region: "Global"
+    lang: "EN"
+    tier: archive
+  - id: src-hr-dive
+    name: "HR Dive"
+    url: "https://www.hrdive.com/"
+    type: news
+    frequency: "diario"
+    why: "Noticias de empleo y recursos humanos, incluidos litigios por IA en selección. Ficha añadida para citar una URL de hrdive.com."
+    region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-national-law-review
+    name: "The National Law Review"
+    url: "https://natlawreview.com/"
+    type: news
+    frequency: "diario"
+    why: "Artículos y notas de prensa del sector jurídico estadounidense. Ficha añadida para citar una URL de natlawreview.com."
+    region: "US"
     lang: "EN"
     tier: archive

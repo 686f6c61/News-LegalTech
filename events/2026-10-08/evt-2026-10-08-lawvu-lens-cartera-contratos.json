@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-08-lawvu-lens-cartera-contratos",
+  "date": "2026-10-07",
+  "type": "product",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "LawVu lanza Lens: preguntas en lenguaje natural sobre toda la cartera de contratos de la empresa, con cita a cada documento",
+  "summary_p1": "La neozelandesa LawVu, centrada en departamentos in-house, lanzó el 7 de octubre de 2026 Lens, una herramienta de análisis de contratos con IA dentro de su LegalOS. A diferencia de los revisores que trabajan contrato a contrato, Lens analiza la cartera completa: el equipo legal pregunta en lenguaje natural y recibe respuestas basadas en sus propios contratos, con citas a los documentos de origen. La empresa pone como ejemplos detectar contratos de clientes que se renuevan en condiciones desfavorables o incumplimientos de niveles de servicio que pueden generar créditos, devoluciones o derechos de resolución; preparar un M&A (fusión o adquisición) o una auditoría localizando cláusulas de change of control (cambio de control); medir el impacto de un incidente, como el cierre de un puerto, una brecha de datos o un cambio normativo; y extraer cláusulas de cientos de contratos a una tabla para que el despacho externo revise solo las excepciones. Sam Kidd, cofundador y CEO, sostiene que Lens razona sobre los datos estructurados que cada cliente ya tiene en LawVu.",
+  "summary_p2": "Para el general counsel (director jurídico), el caso de uso más tangible es el último: si la extracción la hace la herramienta, el encargo al despacho externo se puede acotar y presupuestar como precio fijo, algo que Artificial Lawyer señala expresamente. Para los despachos implica que parte de la revisión masiva de cartera, típica de due diligence (auditoría legal) y cambios regulatorios, se queda en casa del cliente. Estratégicamente, LawVu busca la «centralidad»: ser el sitio donde el abogado in-house trabaja a diario, compitiendo con CLM y con plataformas de IA generalistas. La calidad dependerá de lo completa y limpia que esté la cartera dentro de LawVu, y conviene probarla con contratos propios antes de fiarse de las respuestas agregadas. Las funciones descritas son del proveedor.",
+  "why_sota": "Análisis con IA sobre toda la cartera contractual con trazabilidad a la fuente, orientado a legal ops.",
+  "why_now": "Lanzamiento 7 Oct 2026 (Artificial Lawyer). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "NZ",
+    "Global"
+  ],
+  "topics": [
+    "contratos",
+    "in-house",
+    "legal-ops",
+    "due-diligence",
+    "clm"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/07/lawvu-launches-lens-total-contract-ai-capability/",
+      "cited_title": "LawVu Launches Lens – Total Contract AI Capability",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-lawvu"
+  ],
+  "lang": "es",
+  "status": "published"
+}

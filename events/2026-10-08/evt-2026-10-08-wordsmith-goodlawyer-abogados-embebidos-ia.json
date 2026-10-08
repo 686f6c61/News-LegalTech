@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-08-wordsmith-goodlawyer-abogados-embebidos-ia",
+  "date": "2026-10-07",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Wordsmith y Goodlawyer se alían: los abogados in-house fraccionales y embebidos de la red canadiense trabajarán con la IA de Wordsmith",
+  "summary_p1": "Goodlawyer, una empresa de Calgary que coloca abogados in-house con experiencia dentro de empresas, ya sea como embedded counsel (abogado integrado en el cliente) o fractional counsel (a tiempo parcial), anunció el 7 de octubre de 2026 una alianza con la plataforma de IA jurídica Wordsmith. Sus abogados podrán usar Wordsmith en los encargos para hacer el intake (recepción) de solicitudes, revisar contratos contra los playbooks (guías) de cada empresa y apoyar redacción e investigación; lo que exige criterio se escala al abogado, que mantiene la decisión y la responsabilidad. La red de Goodlawyer trabaja para equipos legales de Norteamérica como Uber, Cohere y Ferrero, y Wordsmith afirma dar servicio a más de 500 equipos in-house, entre ellos BT, Canva, Safelite y el Financial Times. Brett Colvin, CEO de Goodlawyer, dice que la IA da a sus abogados «más palanca» para todo lo que no requiere su juicio.",
+  "summary_p2": "Es la versión in-house de una tendencia que ya se ve en despachos: la IA como palanca para que un abogado cubra más trabajo sin aumentar plantilla, aquí aplicada al modelo de abogados flexibles. Para el general counsel (director jurídico) que contrata este tipo de apoyo cambia la conversación: además del perfil del abogado, conviene preguntar con qué herramienta trabaja, dónde se alojan los datos de la empresa y quién responde si la IA filtra un contrato mal. Para los proveedores de legal staffing (abogados por encargo) es un diferenciador fácil de copiar, y para los vendors de IA es un canal de distribución: llegar a cientos de empresas a través de los abogados que ya trabajan dentro. Los datos de clientes y usuarios proceden de las empresas.",
+  "why_sota": "La IA jurídica entra en el modelo de abogado in-house fraccional como canal de distribución.",
+  "why_now": "Anuncio 7 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-07.",
+  "geo": [
+    "CA",
+    "US",
+    "UK"
+  ],
+  "topics": [
+    "in-house",
+    "abogados-fraccionales",
+    "alianzas",
+    "contratos",
+    "legal-staffing"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/07/goodlawyer-partners-with-wordsmith-to-equip-embedded-counsel-with-ai/",
+      "cited_title": "Wordsmith AI Partners with Goodlawyer to Equip Embedded Counsel with AI",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "entities": [
+    "ent-wordsmith",
+    "ent-goodlawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

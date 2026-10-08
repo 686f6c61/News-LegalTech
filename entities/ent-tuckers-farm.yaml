@@ -1,0 +1,10 @@
+id: ent-tuckers-farm
+name: Tucker's Farm Corporation
+type: company
+url: https://www.teddyholdings.ai/
+geo:
+- US
+aliases:
+- Tucker's Farm
+notes: Holding que incubó Teddy AI. Ficha mínima.
+stub: true
