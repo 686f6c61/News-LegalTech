@@ -1,0 +1,10 @@
+id: ent-att
+name: AT&T
+type: company
+url: https://www.att.com/
+geo:
+- US
+aliases: []
+notes: Teleco estadounidense; LegalEdge es su centro in-house de expertise jurídica
+  con IA. Ficha mínima.
+stub: true

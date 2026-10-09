@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-09-ut-ia-amenaza-recursos-inmigracion",
+  "date": "2026-10-08",
+  "type": "case_law",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "El Upper Tribunal avisa: la IA puede ser una \"amenaza existencial\" para la integridad de los recursos de inmigración",
+  "summary_p1": "El Upper Tribunal (Immigration and Asylum Chamber) británico advirtió, en decisiones sobre cinco de diez recursos con indicios de abuso del sistema de apelación, que la capacidad de la IA para generar documentos puede plantear \"an existential threat to the integrity of the immigration appeal system\" (una amenaza existencial para la integridad del sistema de recursos de inmigración). Según Legal Futures (9 de octubre de 2026), los jueces vieron extractos bancarios, transferencias, tarjetas de residencia, partidas de nacimiento y defunción y correos de aspecto auténtico que, al examinarse, no eran genuinos. Patrones comunes: prueba presentada a última hora sin dar oportunidad al Home Office de contrastarla, direcciones de correo que no coinciden con el nombre del recurrente y, a menudo, el mismo email usado en varias solicitudes de personas sin relación. El tribunal aclara que no condena el uso legítimo de IA por recurrentes en persona, pero exige vigilancia particular ante el riesgo de abuso. En una decisión separada, el UT Judge Keith y el chamber president Mr Justice Lavender describen que Sarker Solicitors presentó grounds of appeal y un skeleton argument generados con ChatGPT por un paralegal: afirmaciones falsas sobre lo dicho por un juez, sobre la prueba y sobre jurisprudencia; la supervisión del socio no mitigó el riesgo y dos personas del despacho se han reportado a la SRA.",
+  "summary_p2": "Para abogados de inmigración y para cualquier litigator que use IA, el mensaje es doble: los tribunales ya asumen que los documentos pueden ser fabricados y que un escrito \"bien escrito\" no prueba veracidad; y el problema de Sarker no es tanto ChatGPT como presentar alegaciones engañosas sin comprobarlas, con el matiz añadido de client confidentiality (confidencialidad del cliente) y legal privilege (secreto profesional) al pegar material en una herramienta de consumo. Para compliance de despachos encaja con la oleada de políticas de verificación de citas y con la SB 574 californiana ya cubierta en esta pasada. La pieza de Legal Futures resume jurisprudencia reciente; el detalle procesal está en las propias decisiones del UT.",
+  "why_sota": "Advertencia judicial explícita sobre documentos generados con IA en el contencioso de inmigración, más un caso SRA en curso.",
+  "why_now": "Cobertura Legal Futures 9 Oct 2026. NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "inmigracion",
+    "fraude",
+    "chatgpt",
+    "supervision",
+    "sra"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/ai-poses-existential-threat-to-immigration-cases-tribunal-warns",
+      "cited_title": "AI poses \"existential threat\" to immigration cases, tribunal warns",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-upper-tribunal",
+    "ent-sarker-solicitors",
+    "ent-sra"
+  ],
+  "lang": "es",
+  "status": "published"
+}

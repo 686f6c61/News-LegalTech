@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-09-att-openai-legaledge-workflows",
+  "date": "2026-10-08",
+  "type": "market",
+  "sota_score": 8.3,
+  "ai_legaltech": true,
+  "title": "AT&T LegalEdge se alía con OpenAI: workflows de IA para poner el conocimiento del departamento jurídico al servicio de toda la compañía",
+  "summary_p1": "AT&T anunció el 8 de octubre de 2026 que LegalEdge, su AI-first centre of expertise (centro de expertise centrado en IA) dentro del departamento jurídico, se asocia con OpenAI para construir workflows (flujos de trabajo) de IA sobre el conocimiento institucional de la compañía. LegalEdge se presentó en enero de 2026 como un equipo lean (ajustado) con abogados remotos, paralegals, tecnólogos y perfiles de legal operations y e-discovery; según AT&T, en sus seis primeros meses gestionó cerca de 100 asuntos y ayudó a rediseñar la prestación del servicio jurídico interno. David McAtee, general counsel (director jurídico) de AT&T, sostiene que la IA no solo mejora la productividad individual, sino cómo se mueve el trabajo jurídico por la organización y cómo se retiene el conocimiento. Jason Boehmig, GM Legal Industry en OpenAI y cofundador de Ironclad, habla de poner ese conocimiento a trabajar en toda la empresa \"with lawyers' judgment at the centre\" (con el juicio de los abogados en el centro). Bill Ryan, chief compliance officer, añade que el éxito no se medirá por cuánta tecnología se despliegue, sino por calidad, conocimiento reutilizable y capacidad para el trabajo que exige experiencia.",
+  "summary_p2": "Para un general counsel de gran empresa el mensaje es operativo: no se trata de un chat corporativo más, sino de un centro interno que absorbe trabajo rutinario y libera a los abogados para lo complejo, con el riesgo explícito, que Artificial Lawyer señala, de que menos trabajo estándar salga a despachos externos. Para OpenAI encaja con Astra for Law y su capa de plugins legales: AT&T es un caso de referencia de enterprise legal a escala. Antes de copiar el modelo conviene pedir gobernanza concreta: qué datos alimentan los workflows, quién aprueba un flujo antes de producción y cómo se audita que el juicio humano sigue en el centro. Las cifras de asuntos y la descripción de LegalEdge proceden de AT&T y de Artificial Lawyer.",
+  "why_sota": "Alianza estructurada entre un GC de teleco y OpenAI alrededor de un centro in-house de IA, no de un piloto aislado.",
+  "why_now": "Anuncio 8 Oct 2026 (Artificial Lawyer). NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "in-house",
+    "openai",
+    "workflows",
+    "conocimiento-institucional",
+    "legal-ops"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/",
+      "cited_title": "AT&T + OpenAI Partner for Legal AI Workflows",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-att",
+    "ent-openai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

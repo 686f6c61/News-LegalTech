@@ -1,0 +1,42 @@
+{
+  "id": "evt-2026-10-09-uk-law-commission-product-liability-ia",
+  "date": "2026-10-08",
+  "type": "regulation",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "La Law Commission británica consulta ampliar la product liability a software, sistemas de IA y plataformas online",
+  "summary_p1": "La Law Commission de Inglaterra y Gales abrió el 8 de octubre de 2026 una consulta sobre la reforma de la product liability (responsabilidad por productos defectuosos), cuya ley data de hace casi cuarenta años y se limitaba a bienes físicos. El white paper propone ampliar la definición de \"product\" (producto) a software, sistemas de IA y componentes de diseño de redes sociales y otras plataformas online, con independencia de cómo se suministren; extender la responsabilidad a los marketplaces online; aclarar cuándo cabe compensación por psychiatric illness (enfermedad psíquica) causada por un producto defectuoso; hacer más clara la noción de defecto; introducir un mecanismo para equilibrar la prueba cuando el reclamante tenga una dificultad excepcional para obtener evidencia; y conservar defensas clave para las empresas, adaptadas a la era digital. La comisionada Solène Rowan resume el objetivo: que quien resulte dañado pueda obtener compensación y que haya más certeza para quien desarrolla tecnología. La consulta cierra el 14 de enero de 2027 y las recomendaciones finales se esperan a finales de 2027.",
+  "summary_p2": "Para abogados de producto, tech y seguros es la conversación británica paralela al Product Liability Directive de la UE: si el software y la IA entran en el perímetro, cambian los mapas de riesgo de vendors de modelos, integradores y plataformas que median en la compraventa. Para quien diseña agentes jurídicos o herramientas de compliance, la pregunta práctica será quién es \"producer\" (productor) cuando un output defectuoso causa daño. Conviene responder a la consulta si se opera en el mercado UK; el texto aún no es ley. La fuente primaria es la Law Commission y el resumen operativo lo publica Legal IT Insider.",
+  "why_sota": "Consulta oficial UK para meter software e IA en el régimen clásico de productos defectuosos.",
+  "why_now": "Consulta lanzada 8 Oct 2026. NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "UK",
+    "EU"
+  ],
+  "topics": [
+    "product-liability",
+    "regulacion",
+    "software",
+    "ia",
+    "plataformas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/law-commission-proposes-sweeping-product-liability-reforms-to-bring-ai-and-software-within-scope/",
+      "cited_title": "Law Commission proposes sweeping product liability reforms to bring AI and software within scope",
+      "accessed": "2026-10-09"
+    },
+    {
+      "source_id": "src-uk-law-commission",
+      "url": "https://lawcom.gov.uk/project/product-liability/",
+      "cited_title": "Product liability",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-uk-law-commission"
+  ],
+  "lang": "es",
+  "status": "published"
+}

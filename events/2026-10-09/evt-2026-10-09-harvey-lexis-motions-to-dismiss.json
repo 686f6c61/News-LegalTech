@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-09-harvey-lexis-motions-to-dismiss",
+  "date": "2026-10-08",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "Harvey y LexisNexis estrenan su primer workflow conjunto: motions to dismiss con agentes de investigación y redacción",
+  "summary_p1": "Harvey presentó el 8 de octubre de 2026, según LegalTech.ca, un workflow de litigation drafting (redacción litigiosa) co-desarrollado con LexisNexis para preparar motions to dismiss (solicitudes de desestimación). Es el primer flujo conjunto de la alianza estratégica anunciada en junio de 2025 y se apoya en jurisprudencia y statutes (normas) de EE. UU. y en Shepard's Citations Service. El abogado sube la demanda; Harvey identifica posibles grounds (motivos) de desestimación y los ordena por fuerza para que el letrado apruebe o revise la estrategia antes de investigar. Agentes de research (investigación) producen memos con casos a favor, autoridad adversa y debilidades; un agente de drafting arma el escrito enlazando hechos a la demanda y proposiciones jurídicas a la jurisprudencia. Harvey afirma que research y borrador inicial pueden salir en horas, con revisión humana integrada. Está disponible para clientes Harvey con Ask LexisNexis y para quienes además tienen Lexis+ with Protégé. El anuncio se centra en procedimientos de EE. UU.; el siguiente workflow previsto es summary judgment (sentencia sumaria).",
+  "summary_p2": "Para litigators estadounidenses que ya viven en Harvey y Lexis, el valor está en el handoff (traspaso) entre estrategia, research y draft con puntos de aprobación humana, no en un botón mágico. Para quien solo tiene una de las dos plataformas, es un argumento comercial de stack combinado. Las promesas de tiempo son del vendor; conviene probar el ranking de motivos y la calidad de la autoridad adversa antes de fiarse en un asunto real. No hay soporte canadiense anunciado. La fuente de la noticia breve es LegalTech.ca.",
+  "why_sota": "Primer workflow conjunto Harvey-LexisNexis en un acto procesal concreto con agentes encadenados.",
+  "why_now": "Anuncio 8 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "litigacion",
+    "harvey",
+    "lexisnexis",
+    "agentes",
+    "motions"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/08/harvey-and-lexisnexis-launch-ai-workflow-for-motions-to-dismiss/",
+      "cited_title": "Harvey and LexisNexis Launch AI Workflow for Motions to Dismiss",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-lexisnexis"
+  ],
+  "lang": "es",
+  "status": "published"
+}

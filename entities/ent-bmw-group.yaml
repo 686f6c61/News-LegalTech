@@ -1,0 +1,12 @@
+id: ent-bmw-group
+name: BMW Group
+type: company
+url: https://www.bmwgroup.com/
+geo:
+- DE
+- Global
+aliases:
+- BMW
+notes: Fabricante de automóviles; despliegue de Legora en Legal, IP y Compliance.
+  Ficha mínima.
+stub: true

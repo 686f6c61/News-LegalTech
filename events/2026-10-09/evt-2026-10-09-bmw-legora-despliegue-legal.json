@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-09-bmw-legora-despliegue-legal",
+  "date": "2026-10-08",
+  "type": "product",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "BMW Group despliega Legora en todo su departamento de Legal, IP y Compliance para investigación, revisión y redacción",
+  "summary_p1": "BMW Group anunció el 8 de octubre de 2026 el despliegue de Legora en su función de Legal, IP and Compliance, una semana después de que Legora abriera oficina en Múnich (29 de septiembre). Según Legal IT Insider, los equipos usarán workflows con IA para acelerar investigación jurídica, apoyar litigación y revisión de contratos, monitorizar novedades regulatorias y generar primeros borradores a partir de estándares y precedentes internos aprobados, dentro de Microsoft Word y con los requisitos de acceso, seguridad y gobierno de BMW. El Group GC Andreas Liepe sitúa el objetivo en crear valor de negocio identificando riesgos pronto y ampliando la capacidad de hacer trabajo in-house para reservar lo más complejo al criterio humano. Björn Franke, RVP DACH de Legora, destaca el enfoque de BMW en gobierno, calidad y valor práctico. Legora dice tener más de 150 despachos y equipos in-house en DACH, más de 13.000 abogados y profesionales jurídicos en Alemania (frente a unos 3.000 a principios de año) y más de 900 empleados en 18 oficinas en el mundo. La función jurídica de BMW está shortlisted (preseleccionada) al azur Award for Innovation 2026 y nominada a in-house legal team of the year en los JUVE Awards 2026.",
+  "summary_p2": "Para otros departamentos jurídicos industriales europeos es un caso de referencia de despliegue real, no de piloto: hay programa de adopción con legal engineers de Legora y el vendor se mide por capacidad in-house, no solo por demos. Para despachos que trabajan con BMW la pregunta es qué fases del encargo se quedan dentro y cuáles siguen saliendo. Las cifras de usuarios en Alemania y de plantilla global son del propio Legora; conviene tratarlas como claim de mercado. Encaja con el lanzamiento de Skills de Legora de esta misma semana: el mensaje comercial en DACH es plataforma más biblioteca de instrucciones reutilizables.",
+  "why_sota": "Despliegue enterprise de Legora en un GC industrial europeo con énfasis en gobierno y adopción.",
+  "why_now": "Anuncio 8 Oct 2026 (Legal IT Insider). NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "DE",
+    "EU"
+  ],
+  "topics": [
+    "in-house",
+    "despliegue",
+    "legora",
+    "contratos",
+    "investigacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/bmw-group-to-roll-out-legora-across-its-legal-department/",
+      "cited_title": "BMW Group to roll out Legora across its legal department",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-bmw-group",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

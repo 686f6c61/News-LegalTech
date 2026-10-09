@@ -1087,3 +1087,98 @@ entities:
   notes: Plataforma quebequesa de asistencia jurídica como beneficio laboral. Ficha
     mínima.
   stub: true
+- id: ent-att
+  name: AT&T
+  type: company
+  url: https://www.att.com/
+  geo:
+  - US
+  aliases: []
+  notes: Teleco estadounidense; LegalEdge es su centro in-house de expertise jurídica
+    con IA. Ficha mínima.
+  stub: true
+- id: ent-coheso
+  name: Coheso
+  type: vendor
+  url: https://www.coheso.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Legal front door / operating layer para equipos in-house. Ficha mínima.
+  stub: true
+- id: ent-bmw-group
+  name: BMW Group
+  type: company
+  url: https://www.bmwgroup.com/
+  geo:
+  - DE
+  - Global
+  aliases:
+  - BMW
+  notes: Fabricante de automóviles; despliegue de Legora en Legal, IP y Compliance.
+    Ficha mínima.
+  stub: true
+- id: ent-uk-law-commission
+  name: UK Law Commission
+  type: regulator
+  url: https://lawcom.gov.uk/
+  geo:
+  - UK
+  aliases:
+  - Law Commission
+  notes: Comisión de reforma legislativa de Inglaterra y Gales. Ficha mínima.
+  stub: true
+- id: ent-upper-tribunal
+  name: Upper Tribunal (Immigration and Asylum Chamber)
+  type: court
+  url: https://www.judiciary.uk/
+  geo:
+  - UK
+  aliases:
+  - Upper Tribunal
+  - UT
+  notes: Tribunal superior británico; Chamber de inmigración y asilo. Ficha mínima.
+  stub: true
+- id: ent-sarker-solicitors
+  name: Sarker Solicitors
+  type: law_firm
+  url: https://www.sarkersolicitors.co.uk/
+  geo:
+  - UK
+  aliases: []
+  notes: Despacho de East London citado por el Upper Tribunal por uso de ChatGPT sin
+    verificación. Ficha mínima.
+  stub: true
+- id: ent-cooley
+  name: Cooley LLP
+  type: law_firm
+  url: https://www.cooley.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Cooley
+  notes: Despacho Big Law; co-desarrollo de agente de redaction con Google. Ficha
+    mínima.
+  stub: true
+- id: ent-wow-legal-experience
+  name: WOW Legal Experience
+  type: vendor
+  url: https://wowlegalexperience.com/
+  geo:
+  - ES
+  aliases:
+  - WOW
+  notes: Consultora de diseño y tecnología legal con sede en Madrid; partner de implantación
+    de Clio en España. Ficha mínima.
+  stub: true
+- id: ent-diario-juridico
+  name: Diario Jurídico
+  type: media
+  url: https://www.diariojuridico.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Medio jurídico español. Ficha mínima.
+  stub: true

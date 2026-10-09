@@ -1,0 +1,636 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/09.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 09.10.26",
+      "schema:version": "09.10.26",
+      "schema:datePublished": "2026-10-09",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-09, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/09.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-att-openai-legaledge-workflows"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-coheso-memory-conocimiento-inhouse"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-openai-decisions-revision-masiva"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-bmw-legora-despliegue-legal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-uk-law-commission-product-liability-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-ut-ia-amenaza-recursos-inmigracion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-sra-sosc-etica-ia-supervision"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-harvey-lexis-motions-to-dismiss"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-clio-wow-legal-experience-espana"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-cooley-google-agentic-redaction"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-att-openai-legaledge-workflows",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-att-openai-legaledge-workflows",
+      "schema:headline": "AT&T LegalEdge se alía con OpenAI: workflows de IA para poner el conocimiento del departamento jurídico al servicio de toda la compañía",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "AT&T anunció el 8 de octubre de 2026 que LegalEdge, su AI-first centre of expertise (centro de expertise centrado en IA) dentro del departamento jurídico, se asocia con OpenAI para construir workflows (flujos de trabajo) de IA sobre el conocimiento institucional de la compañía. LegalEdge se presentó en enero de 2026 como un equipo lean (ajustado) con abogados remotos, paralegals, tecnólogos y perfiles de legal operations y e-discovery; según AT&T, en sus seis primeros meses gestionó cerca de 100 asuntos y ayudó a rediseñar la prestación del servicio jurídico interno. David McAtee, general counsel (director jurídico) de AT&T, sostiene que la IA no solo mejora la productividad individual, sino cómo se mueve el trabajo jurídico por la organización y cómo se retiene el conocimiento. Jason Boehmig, GM Legal Industry en OpenAI y cofundador de Ironclad, habla de poner ese conocimiento a trabajar en toda la empresa \"with lawyers' judgment at the centre\" (con el juicio de los abogados en el centro). Bill Ryan, chief compliance officer, añade que el éxito no se medirá por cuánta tecnología se despliegue, sino por calidad, conocimiento reutilizable y capacidad para el trabajo que exige experiencia.",
+      "schema:articleBody": "AT&T anunció el 8 de octubre de 2026 que LegalEdge, su AI-first centre of expertise (centro de expertise centrado en IA) dentro del departamento jurídico, se asocia con OpenAI para construir workflows (flujos de trabajo) de IA sobre el conocimiento institucional de la compañía. LegalEdge se presentó en enero de 2026 como un equipo lean (ajustado) con abogados remotos, paralegals, tecnólogos y perfiles de legal operations y e-discovery; según AT&T, en sus seis primeros meses gestionó cerca de 100 asuntos y ayudó a rediseñar la prestación del servicio jurídico interno. David McAtee, general counsel (director jurídico) de AT&T, sostiene que la IA no solo mejora la productividad individual, sino cómo se mueve el trabajo jurídico por la organización y cómo se retiene el conocimiento. Jason Boehmig, GM Legal Industry en OpenAI y cofundador de Ironclad, habla de poner ese conocimiento a trabajar en toda la empresa \"with lawyers' judgment at the centre\" (con el juicio de los abogados en el centro). Bill Ryan, chief compliance officer, añade que el éxito no se medirá por cuánta tecnología se despliegue, sino por calidad, conocimiento reutilizable y capacidad para el trabajo que exige experiencia.\n\nPara un general counsel de gran empresa el mensaje es operativo: no se trata de un chat corporativo más, sino de un centro interno que absorbe trabajo rutinario y libera a los abogados para lo complejo, con el riesgo explícito, que Artificial Lawyer señala, de que menos trabajo estándar salga a despachos externos. Para OpenAI encaja con Astra for Law y su capa de plugins legales: AT&T es un caso de referencia de enterprise legal a escala. Antes de copiar el modelo conviene pedir gobernanza concreta: qué datos alimentan los workflows, quién aprueba un flujo antes de producción y cómo se audita que el juicio humano sigue en el centro. Las cifras de asuntos y la descripción de LegalEdge proceden de AT&T y de Artificial Lawyer.",
+      "sota:type": "market",
+      "sota:sotaScore": 8.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Alianza estructurada entre un GC de teleco y OpenAI alrededor de un centro in-house de IA, no de un piloto aislado.",
+      "sota:whyNow": "Anuncio 8 Oct 2026 (Artificial Lawyer). NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "in-house",
+        "openai",
+        "workflows",
+        "conocimiento-institucional",
+        "legal-ops"
+      ],
+      "sota:summaryP1": "AT&T anunció el 8 de octubre de 2026 que LegalEdge, su AI-first centre of expertise (centro de expertise centrado en IA) dentro del departamento jurídico, se asocia con OpenAI para construir workflows (flujos de trabajo) de IA sobre el conocimiento institucional de la compañía. LegalEdge se presentó en enero de 2026 como un equipo lean (ajustado) con abogados remotos, paralegals, tecnólogos y perfiles de legal operations y e-discovery; según AT&T, en sus seis primeros meses gestionó cerca de 100 asuntos y ayudó a rediseñar la prestación del servicio jurídico interno. David McAtee, general counsel (director jurídico) de AT&T, sostiene que la IA no solo mejora la productividad individual, sino cómo se mueve el trabajo jurídico por la organización y cómo se retiene el conocimiento. Jason Boehmig, GM Legal Industry en OpenAI y cofundador de Ironclad, habla de poner ese conocimiento a trabajar en toda la empresa \"with lawyers' judgment at the centre\" (con el juicio de los abogados en el centro). Bill Ryan, chief compliance officer, añade que el éxito no se medirá por cuánta tecnología se despliegue, sino por calidad, conocimiento reutilizable y capacidad para el trabajo que exige experiencia.",
+      "sota:summaryP2": "Para un general counsel de gran empresa el mensaje es operativo: no se trata de un chat corporativo más, sino de un centro interno que absorbe trabajo rutinario y libera a los abogados para lo complejo, con el riesgo explícito, que Artificial Lawyer señala, de que menos trabajo estándar salga a despachos externos. Para OpenAI encaja con Astra for Law y su capa de plugins legales: AT&T es un caso de referencia de enterprise legal a escala. Antes de copiar el modelo conviene pedir gobernanza concreta: qué datos alimentan los workflows, quién aprueba un flujo antes de producción y cómo se audita que el juicio humano sigue en el centro. Las cifras de asuntos y la descripción de LegalEdge proceden de AT&T y de Artificial Lawyer.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/",
+          "schema:name": "AT&T + OpenAI Partner for Legal AI Workflows",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-att"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-coheso-memory-conocimiento-inhouse",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-coheso-memory-conocimiento-inhouse",
+      "schema:headline": "Coheso lanza Memory: convierte solicitudes jurídicas resueltas en posiciones reutilizables con razonamiento, condiciones y excepciones",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Coheso, la plataforma de legal front door (puerta de entrada jurídica) para equipos in-house, lanzó el 8 de octubre de 2026 Memory. La idea es cerrar el hueco que dejan los playbooks (guías) de contratos: marketing, privacy (privacidad), empleo, riesgo de proveedores e interpretaciones de política interna también generan precedente, pero casi nunca se documenta. Cuando se resuelve una solicitud en Coheso, Memory identifica las decisiones que merecen repetirse y propone positions (posiciones) con el razonamiento, las condiciones, las excepciones y los asuntos previos; al llegar una petición comparable, esa posición se muestra al abogado, que es quien aprueba qué se conserva. Aditya Rathod, CTO, explica que el esfuerzo de ingeniería se centró en dos preguntas: si una solicitud resuelta debe convertirse en posición y cuál es la guía reutilizable que más valor aporta. Nada entra en vigor sin aprobación humana. Memory sigue a la expansión de agentes de Coheso, incluidos los que hacen redlines (marcas de revisión) contra el playbook del equipo. El CEO Ned Gannon, en entrevista con Artificial Lawyer, sitúa el producto como la capa \"remembered\" (recordada) del sistema de registro de cómo se pide, se resuelve y se recuerda el trabajo in-house; afirma que el 52% del ARR (ingresos recurrentes anuales) llega por referidos de clientes.",
+      "schema:articleBody": "Coheso, la plataforma de legal front door (puerta de entrada jurídica) para equipos in-house, lanzó el 8 de octubre de 2026 Memory. La idea es cerrar el hueco que dejan los playbooks (guías) de contratos: marketing, privacy (privacidad), empleo, riesgo de proveedores e interpretaciones de política interna también generan precedente, pero casi nunca se documenta. Cuando se resuelve una solicitud en Coheso, Memory identifica las decisiones que merecen repetirse y propone positions (posiciones) con el razonamiento, las condiciones, las excepciones y los asuntos previos; al llegar una petición comparable, esa posición se muestra al abogado, que es quien aprueba qué se conserva. Aditya Rathod, CTO, explica que el esfuerzo de ingeniería se centró en dos preguntas: si una solicitud resuelta debe convertirse en posición y cuál es la guía reutilizable que más valor aporta. Nada entra en vigor sin aprobación humana. Memory sigue a la expansión de agentes de Coheso, incluidos los que hacen redlines (marcas de revisión) contra el playbook del equipo. El CEO Ned Gannon, en entrevista con Artificial Lawyer, sitúa el producto como la capa \"remembered\" (recordada) del sistema de registro de cómo se pide, se resuelve y se recuerda el trabajo in-house; afirma que el 52% del ARR (ingresos recurrentes anuales) llega por referidos de clientes.\n\nPara el abogado in-house la utilidad práctica es consistencia: la respuesta deja de depender de quién coja el ticket y el conocimiento no se va cuando alguien deja la empresa. Para legal ops (operaciones jurídicas) es un argumento a favor de concentrar el intake (recepción de solicitudes) en un solo sistema, porque sin contexto unificado Memory no tiene de dónde aprender. Coheso distingue legal judgment (juicio jurídico sustantivo) de operational judgment (quién lo hace, cuánto tarda, si sale a externo y a qué coste) y dice capturar ambos. Conviene tratar la cifra de referidos y el alcance geográfico (EE. UU., Europa, Oriente Medio) como claims (afirmaciones) del vendor. La pregunta de procurement es dónde viven los datos de cada solicitud y qué pasa con las posiciones si se deja la plataforma.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Producto que convierte el intake in-house en conocimiento institucional reutilizable con aprobación humana.",
+      "sota:whyNow": "Lanzamiento + entrevista AL 8 Oct 2026. NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "US",
+        "EU",
+        "Global"
+      ],
+      "sota:topics": [
+        "in-house",
+        "legal-front-door",
+        "conocimiento",
+        "agentes",
+        "playbooks"
+      ],
+      "sota:summaryP1": "Coheso, la plataforma de legal front door (puerta de entrada jurídica) para equipos in-house, lanzó el 8 de octubre de 2026 Memory. La idea es cerrar el hueco que dejan los playbooks (guías) de contratos: marketing, privacy (privacidad), empleo, riesgo de proveedores e interpretaciones de política interna también generan precedente, pero casi nunca se documenta. Cuando se resuelve una solicitud en Coheso, Memory identifica las decisiones que merecen repetirse y propone positions (posiciones) con el razonamiento, las condiciones, las excepciones y los asuntos previos; al llegar una petición comparable, esa posición se muestra al abogado, que es quien aprueba qué se conserva. Aditya Rathod, CTO, explica que el esfuerzo de ingeniería se centró en dos preguntas: si una solicitud resuelta debe convertirse en posición y cuál es la guía reutilizable que más valor aporta. Nada entra en vigor sin aprobación humana. Memory sigue a la expansión de agentes de Coheso, incluidos los que hacen redlines (marcas de revisión) contra el playbook del equipo. El CEO Ned Gannon, en entrevista con Artificial Lawyer, sitúa el producto como la capa \"remembered\" (recordada) del sistema de registro de cómo se pide, se resuelve y se recuerda el trabajo in-house; afirma que el 52% del ARR (ingresos recurrentes anuales) llega por referidos de clientes.",
+      "sota:summaryP2": "Para el abogado in-house la utilidad práctica es consistencia: la respuesta deja de depender de quién coja el ticket y el conocimiento no se va cuando alguien deja la empresa. Para legal ops (operaciones jurídicas) es un argumento a favor de concentrar el intake (recepción de solicitudes) en un solo sistema, porque sin contexto unificado Memory no tiene de dónde aprender. Coheso distingue legal judgment (juicio jurídico sustantivo) de operational judgment (quién lo hace, cuánto tarda, si sale a externo y a qué coste) y dice capturar ambos. Conviene tratar la cifra de referidos y el alcance geográfico (EE. UU., Europa, Oriente Medio) como claims (afirmaciones) del vendor. La pregunta de procurement es dónde viven los datos de cada solicitud y qué pasa con las posiciones si se deja la plataforma.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/",
+          "schema:name": "Legal Front Door Coheso Launches Memory + AL Interview",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-coheso"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-openai-decisions-revision-masiva",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-openai-decisions-revision-masiva",
+      "schema:headline": "OpenAI lanza Decisions: clasificación y scoring baratos y rápidos para first-pass review (primera pasada) de grandes volúmenes de documentos",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "OpenAI puso en public beta (beta pública) el 8 de octubre de 2026 Decisions, una Decisions API pensada para devolver respuestas tipadas (probabilidad de que una condición sea cierta, elección en un conjunto cerrado o puntuación frente a una rúbrica) sobre texto e imágenes, unas diez veces más rápida que la Responses API, según la propia empresa. Artificial Lawyer lo presenta como un \"sorting system\" (sistema de ordenación) o \"AI lite\": no sustituye el razonamiento jurídico fino de un LLM completo, sino que marca si hay X, Y o Z con una probabilidad. El coste anunciado con GPT-6-Luna es de 0,10 dólares por millón de tokens de entrada, solo input, sin cargos de cache ni de output. Los casos de uso que señala AL son first-pass review en due diligence (auditoría legal), e-discovery (descubrimiento electrónico) y revisiones de compliance a gran escala: cribado barato antes de profundizar con modelos más caros. No sirve, insiste AL, para revisión contractual compleja ni para salidas que exijan comprensión sutil del lenguaje.",
+      "schema:articleBody": "OpenAI puso en public beta (beta pública) el 8 de octubre de 2026 Decisions, una Decisions API pensada para devolver respuestas tipadas (probabilidad de que una condición sea cierta, elección en un conjunto cerrado o puntuación frente a una rúbrica) sobre texto e imágenes, unas diez veces más rápida que la Responses API, según la propia empresa. Artificial Lawyer lo presenta como un \"sorting system\" (sistema de ordenación) o \"AI lite\": no sustituye el razonamiento jurídico fino de un LLM completo, sino que marca si hay X, Y o Z con una probabilidad. El coste anunciado con GPT-6-Luna es de 0,10 dólares por millón de tokens de entrada, solo input, sin cargos de cache ni de output. Los casos de uso que señala AL son first-pass review en due diligence (auditoría legal), e-discovery (descubrimiento electrónico) y revisiones de compliance a gran escala: cribado barato antes de profundizar con modelos más caros. No sirve, insiste AL, para revisión contractual compleja ni para salidas que exijan comprensión sutil del lenguaje.\n\nPara un socio de litigation o de corporate que paga tokens a precio frontier, la propuesta es un escalón intermedio: primero clasificar 10.000 documentos barato y después reservar el modelo caro a lo dudoso. Compite en el espacio que Artificial Lawyer compara con Jev. Las tablas de precio y velocidad que publica AL las construyó con ChatGPT a partir de datos de OpenAI, así que conviene contrastarlas con la documentación oficial antes de presupuestar un proyecto. Para vendors de e-discovery y due diligence es otra señal de que la capa de triage (cribado) se commoditiza y el margen se desplaza a workflow, trazabilidad y gobierno. Decisions es beta pública y las cifras de coste son del proveedor.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "API de clasificación barata orientada a volumen, posicionada explícitamente para first-pass legal.",
+      "sota:whyNow": "Cobertura AL 8 Oct 2026 sobre el lanzamiento en beta. NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "openai",
+        "e-discovery",
+        "due-diligence",
+        "costes",
+        "first-pass"
+      ],
+      "sota:summaryP1": "OpenAI puso en public beta (beta pública) el 8 de octubre de 2026 Decisions, una Decisions API pensada para devolver respuestas tipadas (probabilidad de que una condición sea cierta, elección en un conjunto cerrado o puntuación frente a una rúbrica) sobre texto e imágenes, unas diez veces más rápida que la Responses API, según la propia empresa. Artificial Lawyer lo presenta como un \"sorting system\" (sistema de ordenación) o \"AI lite\": no sustituye el razonamiento jurídico fino de un LLM completo, sino que marca si hay X, Y o Z con una probabilidad. El coste anunciado con GPT-6-Luna es de 0,10 dólares por millón de tokens de entrada, solo input, sin cargos de cache ni de output. Los casos de uso que señala AL son first-pass review en due diligence (auditoría legal), e-discovery (descubrimiento electrónico) y revisiones de compliance a gran escala: cribado barato antes de profundizar con modelos más caros. No sirve, insiste AL, para revisión contractual compleja ni para salidas que exijan comprensión sutil del lenguaje.",
+      "sota:summaryP2": "Para un socio de litigation o de corporate que paga tokens a precio frontier, la propuesta es un escalón intermedio: primero clasificar 10.000 documentos barato y después reservar el modelo caro a lo dudoso. Compite en el espacio que Artificial Lawyer compara con Jev. Las tablas de precio y velocidad que publica AL las construyó con ChatGPT a partir de datos de OpenAI, así que conviene contrastarlas con la documentación oficial antes de presupuestar un proyecto. Para vendors de e-discovery y due diligence es otra señal de que la capa de triage (cribado) se commoditiza y el margen se desplaza a workflow, trazabilidad y gobierno. Decisions es beta pública y las cifras de coste son del proveedor.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/",
+          "schema:name": "OpenAI Decisions – Cheaper Bulk Review For Lawyers",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-bmw-legora-despliegue-legal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-bmw-legora-despliegue-legal",
+      "schema:headline": "BMW Group despliega Legora en todo su departamento de Legal, IP y Compliance para investigación, revisión y redacción",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "BMW Group anunció el 8 de octubre de 2026 el despliegue de Legora en su función de Legal, IP and Compliance, una semana después de que Legora abriera oficina en Múnich (29 de septiembre). Según Legal IT Insider, los equipos usarán workflows con IA para acelerar investigación jurídica, apoyar litigación y revisión de contratos, monitorizar novedades regulatorias y generar primeros borradores a partir de estándares y precedentes internos aprobados, dentro de Microsoft Word y con los requisitos de acceso, seguridad y gobierno de BMW. El Group GC Andreas Liepe sitúa el objetivo en crear valor de negocio identificando riesgos pronto y ampliando la capacidad de hacer trabajo in-house para reservar lo más complejo al criterio humano. Björn Franke, RVP DACH de Legora, destaca el enfoque de BMW en gobierno, calidad y valor práctico. Legora dice tener más de 150 despachos y equipos in-house en DACH, más de 13.000 abogados y profesionales jurídicos en Alemania (frente a unos 3.000 a principios de año) y más de 900 empleados en 18 oficinas en el mundo. La función jurídica de BMW está shortlisted (preseleccionada) al azur Award for Innovation 2026 y nominada a in-house legal team of the year en los JUVE Awards 2026.",
+      "schema:articleBody": "BMW Group anunció el 8 de octubre de 2026 el despliegue de Legora en su función de Legal, IP and Compliance, una semana después de que Legora abriera oficina en Múnich (29 de septiembre). Según Legal IT Insider, los equipos usarán workflows con IA para acelerar investigación jurídica, apoyar litigación y revisión de contratos, monitorizar novedades regulatorias y generar primeros borradores a partir de estándares y precedentes internos aprobados, dentro de Microsoft Word y con los requisitos de acceso, seguridad y gobierno de BMW. El Group GC Andreas Liepe sitúa el objetivo en crear valor de negocio identificando riesgos pronto y ampliando la capacidad de hacer trabajo in-house para reservar lo más complejo al criterio humano. Björn Franke, RVP DACH de Legora, destaca el enfoque de BMW en gobierno, calidad y valor práctico. Legora dice tener más de 150 despachos y equipos in-house en DACH, más de 13.000 abogados y profesionales jurídicos en Alemania (frente a unos 3.000 a principios de año) y más de 900 empleados en 18 oficinas en el mundo. La función jurídica de BMW está shortlisted (preseleccionada) al azur Award for Innovation 2026 y nominada a in-house legal team of the year en los JUVE Awards 2026.\n\nPara otros departamentos jurídicos industriales europeos es un caso de referencia de despliegue real, no de piloto: hay programa de adopción con legal engineers de Legora y el vendor se mide por capacidad in-house, no solo por demos. Para despachos que trabajan con BMW la pregunta es qué fases del encargo se quedan dentro y cuáles siguen saliendo. Las cifras de usuarios en Alemania y de plantilla global son del propio Legora; conviene tratarlas como claim de mercado. Encaja con el lanzamiento de Skills de Legora de esta misma semana: el mensaje comercial en DACH es plataforma más biblioteca de instrucciones reutilizables.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Despliegue enterprise de Legora en un GC industrial europeo con énfasis en gobierno y adopción.",
+      "sota:whyNow": "Anuncio 8 Oct 2026 (Legal IT Insider). NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "DE",
+        "EU"
+      ],
+      "sota:topics": [
+        "in-house",
+        "despliegue",
+        "legora",
+        "contratos",
+        "investigacion"
+      ],
+      "sota:summaryP1": "BMW Group anunció el 8 de octubre de 2026 el despliegue de Legora en su función de Legal, IP and Compliance, una semana después de que Legora abriera oficina en Múnich (29 de septiembre). Según Legal IT Insider, los equipos usarán workflows con IA para acelerar investigación jurídica, apoyar litigación y revisión de contratos, monitorizar novedades regulatorias y generar primeros borradores a partir de estándares y precedentes internos aprobados, dentro de Microsoft Word y con los requisitos de acceso, seguridad y gobierno de BMW. El Group GC Andreas Liepe sitúa el objetivo en crear valor de negocio identificando riesgos pronto y ampliando la capacidad de hacer trabajo in-house para reservar lo más complejo al criterio humano. Björn Franke, RVP DACH de Legora, destaca el enfoque de BMW en gobierno, calidad y valor práctico. Legora dice tener más de 150 despachos y equipos in-house en DACH, más de 13.000 abogados y profesionales jurídicos en Alemania (frente a unos 3.000 a principios de año) y más de 900 empleados en 18 oficinas en el mundo. La función jurídica de BMW está shortlisted (preseleccionada) al azur Award for Innovation 2026 y nominada a in-house legal team of the year en los JUVE Awards 2026.",
+      "sota:summaryP2": "Para otros departamentos jurídicos industriales europeos es un caso de referencia de despliegue real, no de piloto: hay programa de adopción con legal engineers de Legora y el vendor se mide por capacidad in-house, no solo por demos. Para despachos que trabajan con BMW la pregunta es qué fases del encargo se quedan dentro y cuáles siguen saliendo. Las cifras de usuarios en Alemania y de plantilla global son del propio Legora; conviene tratarlas como claim de mercado. Encaja con el lanzamiento de Skills de Legora de esta misma semana: el mensaje comercial en DACH es plataforma más biblioteca de instrucciones reutilizables.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/bmw-group-to-roll-out-legora-across-its-legal-department/",
+          "schema:name": "BMW Group to roll out Legora across its legal department",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bmw-group"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-uk-law-commission-product-liability-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-uk-law-commission-product-liability-ia",
+      "schema:headline": "La Law Commission británica consulta ampliar la product liability a software, sistemas de IA y plataformas online",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Law Commission de Inglaterra y Gales abrió el 8 de octubre de 2026 una consulta sobre la reforma de la product liability (responsabilidad por productos defectuosos), cuya ley data de hace casi cuarenta años y se limitaba a bienes físicos. El white paper propone ampliar la definición de \"product\" (producto) a software, sistemas de IA y componentes de diseño de redes sociales y otras plataformas online, con independencia de cómo se suministren; extender la responsabilidad a los marketplaces online; aclarar cuándo cabe compensación por psychiatric illness (enfermedad psíquica) causada por un producto defectuoso; hacer más clara la noción de defecto; introducir un mecanismo para equilibrar la prueba cuando el reclamante tenga una dificultad excepcional para obtener evidencia; y conservar defensas clave para las empresas, adaptadas a la era digital. La comisionada Solène Rowan resume el objetivo: que quien resulte dañado pueda obtener compensación y que haya más certeza para quien desarrolla tecnología. La consulta cierra el 14 de enero de 2027 y las recomendaciones finales se esperan a finales de 2027.",
+      "schema:articleBody": "La Law Commission de Inglaterra y Gales abrió el 8 de octubre de 2026 una consulta sobre la reforma de la product liability (responsabilidad por productos defectuosos), cuya ley data de hace casi cuarenta años y se limitaba a bienes físicos. El white paper propone ampliar la definición de \"product\" (producto) a software, sistemas de IA y componentes de diseño de redes sociales y otras plataformas online, con independencia de cómo se suministren; extender la responsabilidad a los marketplaces online; aclarar cuándo cabe compensación por psychiatric illness (enfermedad psíquica) causada por un producto defectuoso; hacer más clara la noción de defecto; introducir un mecanismo para equilibrar la prueba cuando el reclamante tenga una dificultad excepcional para obtener evidencia; y conservar defensas clave para las empresas, adaptadas a la era digital. La comisionada Solène Rowan resume el objetivo: que quien resulte dañado pueda obtener compensación y que haya más certeza para quien desarrolla tecnología. La consulta cierra el 14 de enero de 2027 y las recomendaciones finales se esperan a finales de 2027.\n\nPara abogados de producto, tech y seguros es la conversación británica paralela al Product Liability Directive de la UE: si el software y la IA entran en el perímetro, cambian los mapas de riesgo de vendors de modelos, integradores y plataformas que median en la compraventa. Para quien diseña agentes jurídicos o herramientas de compliance, la pregunta práctica será quién es \"producer\" (productor) cuando un output defectuoso causa daño. Conviene responder a la consulta si se opera en el mercado UK; el texto aún no es ley. La fuente primaria es la Law Commission y el resumen operativo lo publica Legal IT Insider.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Consulta oficial UK para meter software e IA en el régimen clásico de productos defectuosos.",
+      "sota:whyNow": "Consulta lanzada 8 Oct 2026. NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "UK",
+        "EU"
+      ],
+      "sota:topics": [
+        "product-liability",
+        "regulacion",
+        "software",
+        "ia",
+        "plataformas"
+      ],
+      "sota:summaryP1": "La Law Commission de Inglaterra y Gales abrió el 8 de octubre de 2026 una consulta sobre la reforma de la product liability (responsabilidad por productos defectuosos), cuya ley data de hace casi cuarenta años y se limitaba a bienes físicos. El white paper propone ampliar la definición de \"product\" (producto) a software, sistemas de IA y componentes de diseño de redes sociales y otras plataformas online, con independencia de cómo se suministren; extender la responsabilidad a los marketplaces online; aclarar cuándo cabe compensación por psychiatric illness (enfermedad psíquica) causada por un producto defectuoso; hacer más clara la noción de defecto; introducir un mecanismo para equilibrar la prueba cuando el reclamante tenga una dificultad excepcional para obtener evidencia; y conservar defensas clave para las empresas, adaptadas a la era digital. La comisionada Solène Rowan resume el objetivo: que quien resulte dañado pueda obtener compensación y que haya más certeza para quien desarrolla tecnología. La consulta cierra el 14 de enero de 2027 y las recomendaciones finales se esperan a finales de 2027.",
+      "sota:summaryP2": "Para abogados de producto, tech y seguros es la conversación británica paralela al Product Liability Directive de la UE: si el software y la IA entran en el perímetro, cambian los mapas de riesgo de vendors de modelos, integradores y plataformas que median en la compraventa. Para quien diseña agentes jurídicos o herramientas de compliance, la pregunta práctica será quién es \"producer\" (productor) cuando un output defectuoso causa daño. Conviene responder a la consulta si se opera en el mercado UK; el texto aún no es ley. La fuente primaria es la Law Commission y el resumen operativo lo publica Legal IT Insider.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/law-commission-proposes-sweeping-product-liability-reforms-to-bring-ai-and-software-within-scope/",
+          "schema:name": "Law Commission proposes sweeping product liability reforms to bring AI and software within scope",
+          "sota:sourceId": "src-legal-it-insider"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://lawcom.gov.uk/project/product-liability/",
+          "schema:name": "Product liability",
+          "sota:sourceId": "src-uk-law-commission"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uk-law-commission"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-ut-ia-amenaza-recursos-inmigracion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-ut-ia-amenaza-recursos-inmigracion",
+      "schema:headline": "El Upper Tribunal avisa: la IA puede ser una \"amenaza existencial\" para la integridad de los recursos de inmigración",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Upper Tribunal (Immigration and Asylum Chamber) británico advirtió, en decisiones sobre cinco de diez recursos con indicios de abuso del sistema de apelación, que la capacidad de la IA para generar documentos puede plantear \"an existential threat to the integrity of the immigration appeal system\" (una amenaza existencial para la integridad del sistema de recursos de inmigración). Según Legal Futures (9 de octubre de 2026), los jueces vieron extractos bancarios, transferencias, tarjetas de residencia, partidas de nacimiento y defunción y correos de aspecto auténtico que, al examinarse, no eran genuinos. Patrones comunes: prueba presentada a última hora sin dar oportunidad al Home Office de contrastarla, direcciones de correo que no coinciden con el nombre del recurrente y, a menudo, el mismo email usado en varias solicitudes de personas sin relación. El tribunal aclara que no condena el uso legítimo de IA por recurrentes en persona, pero exige vigilancia particular ante el riesgo de abuso. En una decisión separada, el UT Judge Keith y el chamber president Mr Justice Lavender describen que Sarker Solicitors presentó grounds of appeal y un skeleton argument generados con ChatGPT por un paralegal: afirmaciones falsas sobre lo dicho por un juez, sobre la prueba y sobre jurisprudencia; la supervisión del socio no mitigó el riesgo y dos personas del despacho se han reportado a la SRA.",
+      "schema:articleBody": "El Upper Tribunal (Immigration and Asylum Chamber) británico advirtió, en decisiones sobre cinco de diez recursos con indicios de abuso del sistema de apelación, que la capacidad de la IA para generar documentos puede plantear \"an existential threat to the integrity of the immigration appeal system\" (una amenaza existencial para la integridad del sistema de recursos de inmigración). Según Legal Futures (9 de octubre de 2026), los jueces vieron extractos bancarios, transferencias, tarjetas de residencia, partidas de nacimiento y defunción y correos de aspecto auténtico que, al examinarse, no eran genuinos. Patrones comunes: prueba presentada a última hora sin dar oportunidad al Home Office de contrastarla, direcciones de correo que no coinciden con el nombre del recurrente y, a menudo, el mismo email usado en varias solicitudes de personas sin relación. El tribunal aclara que no condena el uso legítimo de IA por recurrentes en persona, pero exige vigilancia particular ante el riesgo de abuso. En una decisión separada, el UT Judge Keith y el chamber president Mr Justice Lavender describen que Sarker Solicitors presentó grounds of appeal y un skeleton argument generados con ChatGPT por un paralegal: afirmaciones falsas sobre lo dicho por un juez, sobre la prueba y sobre jurisprudencia; la supervisión del socio no mitigó el riesgo y dos personas del despacho se han reportado a la SRA.\n\nPara abogados de inmigración y para cualquier litigator que use IA, el mensaje es doble: los tribunales ya asumen que los documentos pueden ser fabricados y que un escrito \"bien escrito\" no prueba veracidad; y el problema de Sarker no es tanto ChatGPT como presentar alegaciones engañosas sin comprobarlas, con el matiz añadido de client confidentiality (confidencialidad del cliente) y legal privilege (secreto profesional) al pegar material en una herramienta de consumo. Para compliance de despachos encaja con la oleada de políticas de verificación de citas y con la SB 574 californiana ya cubierta en esta pasada. La pieza de Legal Futures resume jurisprudencia reciente; el detalle procesal está en las propias decisiones del UT.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 8.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Advertencia judicial explícita sobre documentos generados con IA en el contencioso de inmigración, más un caso SRA en curso.",
+      "sota:whyNow": "Cobertura Legal Futures 9 Oct 2026. NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "UK"
+      ],
+      "sota:topics": [
+        "inmigracion",
+        "fraude",
+        "chatgpt",
+        "supervision",
+        "sra"
+      ],
+      "sota:summaryP1": "El Upper Tribunal (Immigration and Asylum Chamber) británico advirtió, en decisiones sobre cinco de diez recursos con indicios de abuso del sistema de apelación, que la capacidad de la IA para generar documentos puede plantear \"an existential threat to the integrity of the immigration appeal system\" (una amenaza existencial para la integridad del sistema de recursos de inmigración). Según Legal Futures (9 de octubre de 2026), los jueces vieron extractos bancarios, transferencias, tarjetas de residencia, partidas de nacimiento y defunción y correos de aspecto auténtico que, al examinarse, no eran genuinos. Patrones comunes: prueba presentada a última hora sin dar oportunidad al Home Office de contrastarla, direcciones de correo que no coinciden con el nombre del recurrente y, a menudo, el mismo email usado en varias solicitudes de personas sin relación. El tribunal aclara que no condena el uso legítimo de IA por recurrentes en persona, pero exige vigilancia particular ante el riesgo de abuso. En una decisión separada, el UT Judge Keith y el chamber president Mr Justice Lavender describen que Sarker Solicitors presentó grounds of appeal y un skeleton argument generados con ChatGPT por un paralegal: afirmaciones falsas sobre lo dicho por un juez, sobre la prueba y sobre jurisprudencia; la supervisión del socio no mitigó el riesgo y dos personas del despacho se han reportado a la SRA.",
+      "sota:summaryP2": "Para abogados de inmigración y para cualquier litigator que use IA, el mensaje es doble: los tribunales ya asumen que los documentos pueden ser fabricados y que un escrito \"bien escrito\" no prueba veracidad; y el problema de Sarker no es tanto ChatGPT como presentar alegaciones engañosas sin comprobarlas, con el matiz añadido de client confidentiality (confidencialidad del cliente) y legal privilege (secreto profesional) al pegar material en una herramienta de consumo. Para compliance de despachos encaja con la oleada de políticas de verificación de citas y con la SB 574 californiana ya cubierta en esta pasada. La pieza de Legal Futures resume jurisprudencia reciente; el detalle procesal está en las propias decisiones del UT.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/ai-poses-existential-threat-to-immigration-cases-tribunal-warns",
+          "schema:name": "AI poses \"existential threat\" to immigration cases, tribunal warns",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-upper-tribunal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sarker-solicitors"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-sra-sosc-etica-ia-supervision",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-sra-sosc-etica-ia-supervision",
+      "schema:headline": "La SRA propone meter ética, IA, supervisión y bienestar en el statement of solicitor competence que alimenta el SQE",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Solicitors Regulation Authority abrió consulta, según Legal Futures el 9 de octubre de 2026, para actualizar el statement of solicitor competence (SoSC), el marco de lo que un solicitor debe saber hacer, contra el que se examina el SQE y sobre el que los solicitors en ejercicio miden su continuing competence. El SoSC data de 2015. La SRA propone reforzar ética y conducta profesional, con obligación de priorizar deberes éticos cuando entren en conflicto y de saber cuándo plantear preocupaciones. Sobre tecnología, el consenso de stakeholders (partes interesadas) pide reflejar la IA de forma explícita: mantener la competencia teniendo en cuenta desarrollos tecnológicos, incluida la IA; en investigación jurídica, comprobar \"the outputs from technology including AI, by reference to primary resources\" (las salidas de la tecnología, incluida la IA, frente a fuentes primarias); y en redacción, hacer un \"appropriate use\" (uso apropiado) de la tecnología. Tras el asunto Mazur, añade una sección entera de supervisión, incluida la de uso de tecnología, y otra sobre health and wellbeing (salud y bienestar). No cambia de forma fundamental el functioning legal knowledge del SQE.",
+      "schema:articleBody": "La Solicitors Regulation Authority abrió consulta, según Legal Futures el 9 de octubre de 2026, para actualizar el statement of solicitor competence (SoSC), el marco de lo que un solicitor debe saber hacer, contra el que se examina el SQE y sobre el que los solicitors en ejercicio miden su continuing competence. El SoSC data de 2015. La SRA propone reforzar ética y conducta profesional, con obligación de priorizar deberes éticos cuando entren en conflicto y de saber cuándo plantear preocupaciones. Sobre tecnología, el consenso de stakeholders (partes interesadas) pide reflejar la IA de forma explícita: mantener la competencia teniendo en cuenta desarrollos tecnológicos, incluida la IA; en investigación jurídica, comprobar \"the outputs from technology including AI, by reference to primary resources\" (las salidas de la tecnología, incluida la IA, frente a fuentes primarias); y en redacción, hacer un \"appropriate use\" (uso apropiado) de la tecnología. Tras el asunto Mazur, añade una sección entera de supervisión, incluida la de uso de tecnología, y otra sobre health and wellbeing (salud y bienestar). No cambia de forma fundamental el functioning legal knowledge del SQE.\n\nPara compliance officers (COLP/COFA) y responsables de formación, el borrador convierte en competencia regulada lo que muchos despachos ya intentan por política interna: verificar salidas de IA contra fuentes primarias y supervisar a quien las usa. Encaja con el caso Sarker del mismo día en Legal Futures. Quien diseña formación continua debería mapear ya módulos de verificación, escalado ético y supervisión de herramientas. Es consulta, no norma final; Beth Black, directora de education and training de la SRA, pide un abanico amplio de respuestas. La fuente es Legal Futures sobre la consulta de la SRA.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "El regulador inglés lleva la IA y la supervisión al núcleo del marco de competencia del solicitor.",
+      "sota:whyNow": "Consulta SRA cubierta 9 Oct 2026 (Legal Futures). NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "UK"
+      ],
+      "sota:topics": [
+        "sra",
+        "competencia",
+        "etica",
+        "supervision",
+        "sqe",
+        "formacion"
+      ],
+      "sota:summaryP1": "La Solicitors Regulation Authority abrió consulta, según Legal Futures el 9 de octubre de 2026, para actualizar el statement of solicitor competence (SoSC), el marco de lo que un solicitor debe saber hacer, contra el que se examina el SQE y sobre el que los solicitors en ejercicio miden su continuing competence. El SoSC data de 2015. La SRA propone reforzar ética y conducta profesional, con obligación de priorizar deberes éticos cuando entren en conflicto y de saber cuándo plantear preocupaciones. Sobre tecnología, el consenso de stakeholders (partes interesadas) pide reflejar la IA de forma explícita: mantener la competencia teniendo en cuenta desarrollos tecnológicos, incluida la IA; en investigación jurídica, comprobar \"the outputs from technology including AI, by reference to primary resources\" (las salidas de la tecnología, incluida la IA, frente a fuentes primarias); y en redacción, hacer un \"appropriate use\" (uso apropiado) de la tecnología. Tras el asunto Mazur, añade una sección entera de supervisión, incluida la de uso de tecnología, y otra sobre health and wellbeing (salud y bienestar). No cambia de forma fundamental el functioning legal knowledge del SQE.",
+      "sota:summaryP2": "Para compliance officers (COLP/COFA) y responsables de formación, el borrador convierte en competencia regulada lo que muchos despachos ya intentan por política interna: verificar salidas de IA contra fuentes primarias y supervisar a quien las usa. Encaja con el caso Sarker del mismo día en Legal Futures. Quien diseña formación continua debería mapear ya módulos de verificación, escalado ético y supervisión de herramientas. Es consulta, no norma final; Beth Black, directora de education and training de la SRA, pide un abanico amplio de respuestas. La fuente es Legal Futures sobre la consulta de la SRA.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/ethics-ai-wellbeing-and-supervision-to-the-fore-in-competence-review",
+          "schema:name": "Ethics, AI, wellbeing and supervision to the fore in competence review",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-harvey-lexis-motions-to-dismiss",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-harvey-lexis-motions-to-dismiss",
+      "schema:headline": "Harvey y LexisNexis estrenan su primer workflow conjunto: motions to dismiss con agentes de investigación y redacción",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Harvey presentó el 8 de octubre de 2026, según LegalTech.ca, un workflow de litigation drafting (redacción litigiosa) co-desarrollado con LexisNexis para preparar motions to dismiss (solicitudes de desestimación). Es el primer flujo conjunto de la alianza estratégica anunciada en junio de 2025 y se apoya en jurisprudencia y statutes (normas) de EE. UU. y en Shepard's Citations Service. El abogado sube la demanda; Harvey identifica posibles grounds (motivos) de desestimación y los ordena por fuerza para que el letrado apruebe o revise la estrategia antes de investigar. Agentes de research (investigación) producen memos con casos a favor, autoridad adversa y debilidades; un agente de drafting arma el escrito enlazando hechos a la demanda y proposiciones jurídicas a la jurisprudencia. Harvey afirma que research y borrador inicial pueden salir en horas, con revisión humana integrada. Está disponible para clientes Harvey con Ask LexisNexis y para quienes además tienen Lexis+ with Protégé. El anuncio se centra en procedimientos de EE. UU.; el siguiente workflow previsto es summary judgment (sentencia sumaria).",
+      "schema:articleBody": "Harvey presentó el 8 de octubre de 2026, según LegalTech.ca, un workflow de litigation drafting (redacción litigiosa) co-desarrollado con LexisNexis para preparar motions to dismiss (solicitudes de desestimación). Es el primer flujo conjunto de la alianza estratégica anunciada en junio de 2025 y se apoya en jurisprudencia y statutes (normas) de EE. UU. y en Shepard's Citations Service. El abogado sube la demanda; Harvey identifica posibles grounds (motivos) de desestimación y los ordena por fuerza para que el letrado apruebe o revise la estrategia antes de investigar. Agentes de research (investigación) producen memos con casos a favor, autoridad adversa y debilidades; un agente de drafting arma el escrito enlazando hechos a la demanda y proposiciones jurídicas a la jurisprudencia. Harvey afirma que research y borrador inicial pueden salir en horas, con revisión humana integrada. Está disponible para clientes Harvey con Ask LexisNexis y para quienes además tienen Lexis+ with Protégé. El anuncio se centra en procedimientos de EE. UU.; el siguiente workflow previsto es summary judgment (sentencia sumaria).\n\nPara litigators estadounidenses que ya viven en Harvey y Lexis, el valor está en el handoff (traspaso) entre estrategia, research y draft con puntos de aprobación humana, no en un botón mágico. Para quien solo tiene una de las dos plataformas, es un argumento comercial de stack combinado. Las promesas de tiempo son del vendor; conviene probar el ranking de motivos y la calidad de la autoridad adversa antes de fiarse en un asunto real. No hay soporte canadiense anunciado. La fuente de la noticia breve es LegalTech.ca.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer workflow conjunto Harvey-LexisNexis en un acto procesal concreto con agentes encadenados.",
+      "sota:whyNow": "Anuncio 8 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "litigacion",
+        "harvey",
+        "lexisnexis",
+        "agentes",
+        "motions"
+      ],
+      "sota:summaryP1": "Harvey presentó el 8 de octubre de 2026, según LegalTech.ca, un workflow de litigation drafting (redacción litigiosa) co-desarrollado con LexisNexis para preparar motions to dismiss (solicitudes de desestimación). Es el primer flujo conjunto de la alianza estratégica anunciada en junio de 2025 y se apoya en jurisprudencia y statutes (normas) de EE. UU. y en Shepard's Citations Service. El abogado sube la demanda; Harvey identifica posibles grounds (motivos) de desestimación y los ordena por fuerza para que el letrado apruebe o revise la estrategia antes de investigar. Agentes de research (investigación) producen memos con casos a favor, autoridad adversa y debilidades; un agente de drafting arma el escrito enlazando hechos a la demanda y proposiciones jurídicas a la jurisprudencia. Harvey afirma que research y borrador inicial pueden salir en horas, con revisión humana integrada. Está disponible para clientes Harvey con Ask LexisNexis y para quienes además tienen Lexis+ with Protégé. El anuncio se centra en procedimientos de EE. UU.; el siguiente workflow previsto es summary judgment (sentencia sumaria).",
+      "sota:summaryP2": "Para litigators estadounidenses que ya viven en Harvey y Lexis, el valor está en el handoff (traspaso) entre estrategia, research y draft con puntos de aprobación humana, no en un botón mágico. Para quien solo tiene una de las dos plataformas, es un argumento comercial de stack combinado. Las promesas de tiempo son del vendor; conviene probar el ranking de motivos y la calidad de la autoridad adversa antes de fiarse en un asunto real. No hay soporte canadiense anunciado. La fuente de la noticia breve es LegalTech.ca.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/08/harvey-and-lexisnexis-launch-ai-workflow-for-motions-to-dismiss/",
+          "schema:name": "Harvey and LexisNexis Launch AI Workflow for Motions to Dismiss",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-clio-wow-legal-experience-espana",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-clio-wow-legal-experience-espana",
+      "schema:headline": "Clio se alía con WOW Legal Experience para implantar Clio Work y Clio Manage en los despachos españoles",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Clio anunció el 8 de octubre de 2026, según Diario Jurídico, una alianza con WOW Legal Experience, consultora de diseño y tecnología legal con sede en Madrid y unos 40 profesionales, para apoyar la adopción de Clio Work (espacio de trabajo jurídico con IA) y Clio Manage (gestión del despacho) en España, donde ambos productos se ofrecen bajo la marca \"vLex part of Clio\". WOW cubrirá migración de documentos, contactos y expedientes, configuración de workflows, formación en español para toda la firma y marketing local (mesas redondas y cenas en Madrid y otras ciudades). Ferran Sala, director general de Clio en España, sostiene que los despachos quieren hablar con alguien que entienda el ejercicio local; el comunicado recuerda que el 88% de los despachos españoles tiene como máximo cinco abogados y suele carecer de alguien dedicado a la transición tecnológica. Clio Work y Clio Manage se lanzaron en España en septiembre de 2026.",
+      "schema:articleBody": "Clio anunció el 8 de octubre de 2026, según Diario Jurídico, una alianza con WOW Legal Experience, consultora de diseño y tecnología legal con sede en Madrid y unos 40 profesionales, para apoyar la adopción de Clio Work (espacio de trabajo jurídico con IA) y Clio Manage (gestión del despacho) en España, donde ambos productos se ofrecen bajo la marca \"vLex part of Clio\". WOW cubrirá migración de documentos, contactos y expedientes, configuración de workflows, formación en español para toda la firma y marketing local (mesas redondas y cenas en Madrid y otras ciudades). Ferran Sala, director general de Clio en España, sostiene que los despachos quieren hablar con alguien que entienda el ejercicio local; el comunicado recuerda que el 88% de los despachos españoles tiene como máximo cinco abogados y suele carecer de alguien dedicado a la transición tecnológica. Clio Work y Clio Manage se lanzaron en España en septiembre de 2026.\n\nPara el despacho pequeño o mediano español la noticia es canal, no producto nuevo: el cuello de botella era implantación y cambio de hábitos, no solo la licencia. Para quien ya mira vLex/Clio, conviene pedir alcance concreto de la migración, quién custodia los datos durante el corte y qué queda fuera del paquete de formación. Las afirmaciones sobre adopción global de Clio Work y el dato del 88% son del material promocional recogido por Diario Jurídico. Es un movimiento de go-to-market local tras la entrada de Clio en España vía vLex.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Partner local de implantación para Clio Work/Manage en el mercado español de despachos pequeños.",
+      "sota:whyNow": "Anuncio 8 Oct 2026 (Diario Jurídico). NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "clio",
+        "espana",
+        "adopcion",
+        "vlex",
+        "despachos-pequenos"
+      ],
+      "sota:summaryP1": "Clio anunció el 8 de octubre de 2026, según Diario Jurídico, una alianza con WOW Legal Experience, consultora de diseño y tecnología legal con sede en Madrid y unos 40 profesionales, para apoyar la adopción de Clio Work (espacio de trabajo jurídico con IA) y Clio Manage (gestión del despacho) en España, donde ambos productos se ofrecen bajo la marca \"vLex part of Clio\". WOW cubrirá migración de documentos, contactos y expedientes, configuración de workflows, formación en español para toda la firma y marketing local (mesas redondas y cenas en Madrid y otras ciudades). Ferran Sala, director general de Clio en España, sostiene que los despachos quieren hablar con alguien que entienda el ejercicio local; el comunicado recuerda que el 88% de los despachos españoles tiene como máximo cinco abogados y suele carecer de alguien dedicado a la transición tecnológica. Clio Work y Clio Manage se lanzaron en España en septiembre de 2026.",
+      "sota:summaryP2": "Para el despacho pequeño o mediano español la noticia es canal, no producto nuevo: el cuello de botella era implantación y cambio de hábitos, no solo la licencia. Para quien ya mira vLex/Clio, conviene pedir alcance concreto de la migración, quién custodia los datos durante el corte y qué queda fuera del paquete de formación. Las afirmaciones sobre adopción global de Clio Work y el dato del 88% son del material promocional recogido por Diario Jurídico. Es un movimiento de go-to-market local tras la entrada de Clio en España vía vLex.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.diariojuridico.com/clio-se-alia-con-wow-legal-experience-para-apoyar-a-los-despachos-de-abogados-en-toda-espana/",
+          "schema:name": "Clio se alía con WOW Legal Experience para apoyar a los despachos de abogados en toda España",
+          "sota:sourceId": "src-diario-juridico"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wow-legal-experience"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-diario-juridico"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-09-cooley-google-agentic-redaction",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-09-cooley-google-agentic-redaction",
+      "schema:headline": "Cooley y Google co-desarrollan un agente de IA en Gemini Enterprise para ayudar en la redaction (tachado) de documentos",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Cooley anunció el 8 de octubre de 2026, según Legaltech News (Law.com), que colabora con Google para crear un agente de IA sobre Gemini Enterprise que asista en la document redaction (tachado o anonimización de documentos). El despacho identificó la redaction como un caso de uso de agentic AI (IA agéntica) con potencial alto pero con una carga de ingeniería demasiado pesada para abordarlo solo; por eso acudió a Google. Law.com sitúa el movimiento en la oleada de alianzas entre Big Law y Big Tech, impulsada por la expansión de los gigantes tecnológicos en el espacio jurídico, y señala que es uno de varios proyectos de IA que Cooley tiene en marcha. El texto completo del reportaje está tras muro de pago; los hechos anteriores constan en el sumario y en el arranque libre del artículo de Aleeza Furman.",
+      "schema:articleBody": "Cooley anunció el 8 de octubre de 2026, según Legaltech News (Law.com), que colabora con Google para crear un agente de IA sobre Gemini Enterprise que asista en la document redaction (tachado o anonimización de documentos). El despacho identificó la redaction como un caso de uso de agentic AI (IA agéntica) con potencial alto pero con una carga de ingeniería demasiado pesada para abordarlo solo; por eso acudió a Google. Law.com sitúa el movimiento en la oleada de alianzas entre Big Law y Big Tech, impulsada por la expansión de los gigantes tecnológicos en el espacio jurídico, y señala que es uno de varios proyectos de IA que Cooley tiene en marcha. El texto completo del reportaje está tras muro de pago; los hechos anteriores constan en el sumario y en el arranque libre del artículo de Aleeza Furman.\n\nPara otros despachos Am Law, el patrón se repite: elegir un workflow doloroso, de mucho volumen y reglas relativamente estructuradas, y construirlo con el hyperscaler en vez de esperar a un vendor vertical. La redaction encaja porque combina volumen, riesgo regulatorio si se falla y necesidad de trazabilidad. Antes de celebrarlo como commodity, falta ver en el artículo de pago (o en un comunicado posterior) quién opera el agente, qué datos salen del perímetro del cliente y cómo se valida que no se deja sin tachar lo sensible. Tratar la pieza con la cautela del paywall: no inventamos detalle que no esté en el tramo libre.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Alianza Big Law/Big Tech sobre un agente concreto de redaction en Gemini Enterprise.",
+      "sota:whyNow": "Anuncio cubierto 8 Oct 2026 (Law.com Legaltech News; paywall). NEW vs PASS 09-29→10-08.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "big-law",
+        "google",
+        "redaction",
+        "agentes",
+        "gemini"
+      ],
+      "sota:summaryP1": "Cooley anunció el 8 de octubre de 2026, según Legaltech News (Law.com), que colabora con Google para crear un agente de IA sobre Gemini Enterprise que asista en la document redaction (tachado o anonimización de documentos). El despacho identificó la redaction como un caso de uso de agentic AI (IA agéntica) con potencial alto pero con una carga de ingeniería demasiado pesada para abordarlo solo; por eso acudió a Google. Law.com sitúa el movimiento en la oleada de alianzas entre Big Law y Big Tech, impulsada por la expansión de los gigantes tecnológicos en el espacio jurídico, y señala que es uno de varios proyectos de IA que Cooley tiene en marcha. El texto completo del reportaje está tras muro de pago; los hechos anteriores constan en el sumario y en el arranque libre del artículo de Aleeza Furman.",
+      "sota:summaryP2": "Para otros despachos Am Law, el patrón se repite: elegir un workflow doloroso, de mucho volumen y reglas relativamente estructuradas, y construirlo con el hyperscaler en vez de esperar a un vendor vertical. La redaction encaja porque combina volumen, riesgo regulatorio si se falla y necesidad de trazabilidad. Antes de celebrarlo como commodity, falta ver en el artículo de pago (o en un comunicado posterior) quién opera el agente, qué datos salen del perímetro del cliente y cómo se valida que no se deja sin tachar lo sensible. Tratar la pieza con la cautela del paywall: no inventamos detalle que no esté en el tramo libre.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/08/cooley-teams-up-with-google-to-co-develop-agentic-ai-redaction-tool/",
+          "schema:name": "Cooley Teams Up With Google to Co-Develop Agentic AI Redaction Tool",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cooley"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-att",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-att",
+      "schema:name": "AT&T",
+      "sota:entityType": "company",
+      "schema:url": "https://www.att.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bmw-group",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bmw-group",
+      "schema:name": "BMW Group",
+      "sota:entityType": "company",
+      "schema:url": "https://www.bmwgroup.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clio",
+      "schema:name": "Clio",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.clio.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-coheso",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-coheso",
+      "schema:name": "Coheso",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.coheso.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cooley",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cooley",
+      "schema:name": "Cooley LLP",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.cooley.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-diario-juridico",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-diario-juridico",
+      "schema:name": "Diario Jurídico",
+      "sota:entityType": "media",
+      "schema:url": "https://www.diariojuridico.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-google",
+      "schema:name": "Google",
+      "sota:entityType": "company",
+      "schema:url": "https://www.google.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lexisnexis",
+      "schema:name": "LexisNexis",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lexisnexis.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-openai",
+      "schema:name": "OpenAI",
+      "sota:entityType": "company",
+      "schema:url": "https://openai.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sarker-solicitors",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sarker-solicitors",
+      "schema:name": "Sarker Solicitors",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.sarkersolicitors.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sra",
+      "schema:name": "Solicitors Regulation Authority",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.sra.org.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uk-law-commission",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-uk-law-commission",
+      "schema:name": "UK Law Commission",
+      "sota:entityType": "regulator",
+      "schema:url": "https://lawcom.gov.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-upper-tribunal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-upper-tribunal",
+      "schema:name": "Upper Tribunal (Immigration and Asylum Chamber)",
+      "sota:entityType": "court",
+      "schema:url": "https://www.judiciary.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wow-legal-experience",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-wow-legal-experience",
+      "schema:name": "WOW Legal Experience",
+      "sota:entityType": "vendor",
+      "schema:url": "https://wowlegalexperience.com/",
+      "sota:stub": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-09-clio-wow-legal-experience-espana",
+  "date": "2026-10-08",
+  "type": "market",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "Clio se alía con WOW Legal Experience para implantar Clio Work y Clio Manage en los despachos españoles",
+  "summary_p1": "Clio anunció el 8 de octubre de 2026, según Diario Jurídico, una alianza con WOW Legal Experience, consultora de diseño y tecnología legal con sede en Madrid y unos 40 profesionales, para apoyar la adopción de Clio Work (espacio de trabajo jurídico con IA) y Clio Manage (gestión del despacho) en España, donde ambos productos se ofrecen bajo la marca \"vLex part of Clio\". WOW cubrirá migración de documentos, contactos y expedientes, configuración de workflows, formación en español para toda la firma y marketing local (mesas redondas y cenas en Madrid y otras ciudades). Ferran Sala, director general de Clio en España, sostiene que los despachos quieren hablar con alguien que entienda el ejercicio local; el comunicado recuerda que el 88% de los despachos españoles tiene como máximo cinco abogados y suele carecer de alguien dedicado a la transición tecnológica. Clio Work y Clio Manage se lanzaron en España en septiembre de 2026.",
+  "summary_p2": "Para el despacho pequeño o mediano español la noticia es canal, no producto nuevo: el cuello de botella era implantación y cambio de hábitos, no solo la licencia. Para quien ya mira vLex/Clio, conviene pedir alcance concreto de la migración, quién custodia los datos durante el corte y qué queda fuera del paquete de formación. Las afirmaciones sobre adopción global de Clio Work y el dato del 88% son del material promocional recogido por Diario Jurídico. Es un movimiento de go-to-market local tras la entrada de Clio en España vía vLex.",
+  "why_sota": "Partner local de implantación para Clio Work/Manage en el mercado español de despachos pequeños.",
+  "why_now": "Anuncio 8 Oct 2026 (Diario Jurídico). NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "clio",
+    "espana",
+    "adopcion",
+    "vlex",
+    "despachos-pequenos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-diario-juridico",
+      "url": "https://www.diariojuridico.com/clio-se-alia-con-wow-legal-experience-para-apoyar-a-los-despachos-de-abogados-en-toda-espana/",
+      "cited_title": "Clio se alía con WOW Legal Experience para apoyar a los despachos de abogados en toda España",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-clio",
+    "ent-wow-legal-experience",
+    "ent-diario-juridico"
+  ],
+  "lang": "es",
+  "status": "published"
+}

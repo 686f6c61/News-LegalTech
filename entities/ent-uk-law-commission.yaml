@@ -1,0 +1,10 @@
+id: ent-uk-law-commission
+name: UK Law Commission
+type: regulator
+url: https://lawcom.gov.uk/
+geo:
+- UK
+aliases:
+- Law Commission
+notes: Comisión de reforma legislativa de Inglaterra y Gales. Ficha mínima.
+stub: true

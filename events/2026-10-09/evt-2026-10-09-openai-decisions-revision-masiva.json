@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-09-openai-decisions-revision-masiva",
+  "date": "2026-10-08",
+  "type": "product",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "OpenAI lanza Decisions: clasificación y scoring baratos y rápidos para first-pass review (primera pasada) de grandes volúmenes de documentos",
+  "summary_p1": "OpenAI puso en public beta (beta pública) el 8 de octubre de 2026 Decisions, una Decisions API pensada para devolver respuestas tipadas (probabilidad de que una condición sea cierta, elección en un conjunto cerrado o puntuación frente a una rúbrica) sobre texto e imágenes, unas diez veces más rápida que la Responses API, según la propia empresa. Artificial Lawyer lo presenta como un \"sorting system\" (sistema de ordenación) o \"AI lite\": no sustituye el razonamiento jurídico fino de un LLM completo, sino que marca si hay X, Y o Z con una probabilidad. El coste anunciado con GPT-6-Luna es de 0,10 dólares por millón de tokens de entrada, solo input, sin cargos de cache ni de output. Los casos de uso que señala AL son first-pass review en due diligence (auditoría legal), e-discovery (descubrimiento electrónico) y revisiones de compliance a gran escala: cribado barato antes de profundizar con modelos más caros. No sirve, insiste AL, para revisión contractual compleja ni para salidas que exijan comprensión sutil del lenguaje.",
+  "summary_p2": "Para un socio de litigation o de corporate que paga tokens a precio frontier, la propuesta es un escalón intermedio: primero clasificar 10.000 documentos barato y después reservar el modelo caro a lo dudoso. Compite en el espacio que Artificial Lawyer compara con Jev. Las tablas de precio y velocidad que publica AL las construyó con ChatGPT a partir de datos de OpenAI, así que conviene contrastarlas con la documentación oficial antes de presupuestar un proyecto. Para vendors de e-discovery y due diligence es otra señal de que la capa de triage (cribado) se commoditiza y el margen se desplaza a workflow, trazabilidad y gobierno. Decisions es beta pública y las cifras de coste son del proveedor.",
+  "why_sota": "API de clasificación barata orientada a volumen, posicionada explícitamente para first-pass legal.",
+  "why_now": "Cobertura AL 8 Oct 2026 sobre el lanzamiento en beta. NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "openai",
+    "e-discovery",
+    "due-diligence",
+    "costes",
+    "first-pass"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/",
+      "cited_title": "OpenAI Decisions – Cheaper Bulk Review For Lawyers",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-openai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

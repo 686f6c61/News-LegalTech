@@ -1,0 +1,11 @@
+id: ent-upper-tribunal
+name: Upper Tribunal (Immigration and Asylum Chamber)
+type: court
+url: https://www.judiciary.uk/
+geo:
+- UK
+aliases:
+- Upper Tribunal
+- UT
+notes: Tribunal superior británico; Chamber de inmigración y asilo. Ficha mínima.
+stub: true

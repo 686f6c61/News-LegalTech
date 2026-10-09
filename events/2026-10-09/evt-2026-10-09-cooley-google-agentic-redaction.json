@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-09-cooley-google-agentic-redaction",
+  "date": "2026-10-08",
+  "type": "market",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Cooley y Google co-desarrollan un agente de IA en Gemini Enterprise para ayudar en la redaction (tachado) de documentos",
+  "summary_p1": "Cooley anunció el 8 de octubre de 2026, según Legaltech News (Law.com), que colabora con Google para crear un agente de IA sobre Gemini Enterprise que asista en la document redaction (tachado o anonimización de documentos). El despacho identificó la redaction como un caso de uso de agentic AI (IA agéntica) con potencial alto pero con una carga de ingeniería demasiado pesada para abordarlo solo; por eso acudió a Google. Law.com sitúa el movimiento en la oleada de alianzas entre Big Law y Big Tech, impulsada por la expansión de los gigantes tecnológicos en el espacio jurídico, y señala que es uno de varios proyectos de IA que Cooley tiene en marcha. El texto completo del reportaje está tras muro de pago; los hechos anteriores constan en el sumario y en el arranque libre del artículo de Aleeza Furman.",
+  "summary_p2": "Para otros despachos Am Law, el patrón se repite: elegir un workflow doloroso, de mucho volumen y reglas relativamente estructuradas, y construirlo con el hyperscaler en vez de esperar a un vendor vertical. La redaction encaja porque combina volumen, riesgo regulatorio si se falla y necesidad de trazabilidad. Antes de celebrarlo como commodity, falta ver en el artículo de pago (o en un comunicado posterior) quién opera el agente, qué datos salen del perímetro del cliente y cómo se valida que no se deja sin tachar lo sensible. Tratar la pieza con la cautela del paywall: no inventamos detalle que no esté en el tramo libre.",
+  "why_sota": "Alianza Big Law/Big Tech sobre un agente concreto de redaction en Gemini Enterprise.",
+  "why_now": "Anuncio cubierto 8 Oct 2026 (Law.com Legaltech News; paywall). NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "big-law",
+    "google",
+    "redaction",
+    "agentes",
+    "gemini"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/08/cooley-teams-up-with-google-to-co-develop-agentic-ai-redaction-tool/",
+      "cited_title": "Cooley Teams Up With Google to Co-Develop Agentic AI Redaction Tool",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-cooley",
+    "ent-google"
+  ],
+  "lang": "es",
+  "status": "published"
+}

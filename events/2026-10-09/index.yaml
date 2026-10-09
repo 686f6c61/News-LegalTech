@@ -1,0 +1,68 @@
+scan_id: full-radar-2026-10-09
+date: '2026-10-09'
+release: 09.10.26
+count: 10
+ai_share: 1.0
+dedup_against: events/2026-09-29 → 2026-10-08 + scans PASS
+event_ids:
+- evt-2026-10-09-att-openai-legaledge-workflows
+- evt-2026-10-09-coheso-memory-conocimiento-inhouse
+- evt-2026-10-09-openai-decisions-revision-masiva
+- evt-2026-10-09-bmw-legora-despliegue-legal
+- evt-2026-10-09-uk-law-commission-product-liability-ia
+- evt-2026-10-09-ut-ia-amenaza-recursos-inmigracion
+- evt-2026-10-09-sra-sosc-etica-ia-supervision
+- evt-2026-10-09-harvey-lexis-motions-to-dismiss
+- evt-2026-10-09-clio-wow-legal-experience-espana
+- evt-2026-10-09-cooley-google-agentic-redaction
+events:
+- id: evt-2026-10-09-att-openai-legaledge-workflows
+  sota_score: 8.3
+  ai_legaltech: true
+  title: 'AT&T LegalEdge se alía con OpenAI: workflows de IA para poner el conocimiento
+    del departamento jurídico al servicio de toda la compañía'
+- id: evt-2026-10-09-coheso-memory-conocimiento-inhouse
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'Coheso lanza Memory: convierte solicitudes jurídicas resueltas en posiciones
+    reutilizables con razonamiento, condiciones y excepciones'
+- id: evt-2026-10-09-openai-decisions-revision-masiva
+  sota_score: 7.9
+  ai_legaltech: true
+  title: 'OpenAI lanza Decisions: clasificación y scoring baratos y rápidos para first-pass
+    review (primera pasada) de grandes volúmenes de documentos'
+- id: evt-2026-10-09-bmw-legora-despliegue-legal
+  sota_score: 7.8
+  ai_legaltech: true
+  title: BMW Group despliega Legora en todo su departamento de Legal, IP y Compliance
+    para investigación, revisión y redacción
+- id: evt-2026-10-09-uk-law-commission-product-liability-ia
+  sota_score: 8.2
+  ai_legaltech: true
+  title: La Law Commission británica consulta ampliar la product liability a software,
+    sistemas de IA y plataformas online
+- id: evt-2026-10-09-ut-ia-amenaza-recursos-inmigracion
+  sota_score: 8.1
+  ai_legaltech: true
+  title: 'El Upper Tribunal avisa: la IA puede ser una "amenaza existencial" para
+    la integridad de los recursos de inmigración'
+- id: evt-2026-10-09-sra-sosc-etica-ia-supervision
+  sota_score: 7.9
+  ai_legaltech: true
+  title: La SRA propone meter ética, IA, supervisión y bienestar en el statement of
+    solicitor competence que alimenta el SQE
+- id: evt-2026-10-09-harvey-lexis-motions-to-dismiss
+  sota_score: 7.7
+  ai_legaltech: true
+  title: 'Harvey y LexisNexis estrenan su primer workflow conjunto: motions to dismiss
+    con agentes de investigación y redacción'
+- id: evt-2026-10-09-clio-wow-legal-experience-espana
+  sota_score: 7.3
+  ai_legaltech: true
+  title: Clio se alía con WOW Legal Experience para implantar Clio Work y Clio Manage
+    en los despachos españoles
+- id: evt-2026-10-09-cooley-google-agentic-redaction
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Cooley y Google co-desarrollan un agente de IA en Gemini Enterprise para
+    ayudar en la redaction (tachado) de documentos

@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-09-coheso-memory-conocimiento-inhouse",
+  "date": "2026-10-08",
+  "type": "product",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Coheso lanza Memory: convierte solicitudes jurídicas resueltas en posiciones reutilizables con razonamiento, condiciones y excepciones",
+  "summary_p1": "Coheso, la plataforma de legal front door (puerta de entrada jurídica) para equipos in-house, lanzó el 8 de octubre de 2026 Memory. La idea es cerrar el hueco que dejan los playbooks (guías) de contratos: marketing, privacy (privacidad), empleo, riesgo de proveedores e interpretaciones de política interna también generan precedente, pero casi nunca se documenta. Cuando se resuelve una solicitud en Coheso, Memory identifica las decisiones que merecen repetirse y propone positions (posiciones) con el razonamiento, las condiciones, las excepciones y los asuntos previos; al llegar una petición comparable, esa posición se muestra al abogado, que es quien aprueba qué se conserva. Aditya Rathod, CTO, explica que el esfuerzo de ingeniería se centró en dos preguntas: si una solicitud resuelta debe convertirse en posición y cuál es la guía reutilizable que más valor aporta. Nada entra en vigor sin aprobación humana. Memory sigue a la expansión de agentes de Coheso, incluidos los que hacen redlines (marcas de revisión) contra el playbook del equipo. El CEO Ned Gannon, en entrevista con Artificial Lawyer, sitúa el producto como la capa \"remembered\" (recordada) del sistema de registro de cómo se pide, se resuelve y se recuerda el trabajo in-house; afirma que el 52% del ARR (ingresos recurrentes anuales) llega por referidos de clientes.",
+  "summary_p2": "Para el abogado in-house la utilidad práctica es consistencia: la respuesta deja de depender de quién coja el ticket y el conocimiento no se va cuando alguien deja la empresa. Para legal ops (operaciones jurídicas) es un argumento a favor de concentrar el intake (recepción de solicitudes) en un solo sistema, porque sin contexto unificado Memory no tiene de dónde aprender. Coheso distingue legal judgment (juicio jurídico sustantivo) de operational judgment (quién lo hace, cuánto tarda, si sale a externo y a qué coste) y dice capturar ambos. Conviene tratar la cifra de referidos y el alcance geográfico (EE. UU., Europa, Oriente Medio) como claims (afirmaciones) del vendor. La pregunta de procurement es dónde viven los datos de cada solicitud y qué pasa con las posiciones si se deja la plataforma.",
+  "why_sota": "Producto que convierte el intake in-house en conocimiento institucional reutilizable con aprobación humana.",
+  "why_now": "Lanzamiento + entrevista AL 8 Oct 2026. NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "US",
+    "EU",
+    "Global"
+  ],
+  "topics": [
+    "in-house",
+    "legal-front-door",
+    "conocimiento",
+    "agentes",
+    "playbooks"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/",
+      "cited_title": "Legal Front Door Coheso Launches Memory + AL Interview",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-coheso"
+  ],
+  "lang": "es",
+  "status": "published"
+}

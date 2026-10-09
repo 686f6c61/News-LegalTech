@@ -1,0 +1,10 @@
+id: ent-coheso
+name: Coheso
+type: vendor
+url: https://www.coheso.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Legal front door / operating layer para equipos in-house. Ficha mínima.
+stub: true

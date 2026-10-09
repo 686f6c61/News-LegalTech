@@ -1,0 +1,11 @@
+id: ent-cooley
+name: Cooley LLP
+type: law_firm
+url: https://www.cooley.com/
+geo:
+- US
+- Global
+aliases:
+- Cooley
+notes: Despacho Big Law; co-desarrollo de agente de redaction con Google. Ficha mínima.
+stub: true

@@ -1,0 +1,9 @@
+id: ent-diario-juridico
+name: Diario Jurídico
+type: media
+url: https://www.diariojuridico.com/
+geo:
+- ES
+aliases: []
+notes: Medio jurídico español. Ficha mínima.
+stub: true

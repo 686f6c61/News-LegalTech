@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-09-sra-sosc-etica-ia-supervision",
+  "date": "2026-10-08",
+  "type": "regulation",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "La SRA propone meter ética, IA, supervisión y bienestar en el statement of solicitor competence que alimenta el SQE",
+  "summary_p1": "La Solicitors Regulation Authority abrió consulta, según Legal Futures el 9 de octubre de 2026, para actualizar el statement of solicitor competence (SoSC), el marco de lo que un solicitor debe saber hacer, contra el que se examina el SQE y sobre el que los solicitors en ejercicio miden su continuing competence. El SoSC data de 2015. La SRA propone reforzar ética y conducta profesional, con obligación de priorizar deberes éticos cuando entren en conflicto y de saber cuándo plantear preocupaciones. Sobre tecnología, el consenso de stakeholders (partes interesadas) pide reflejar la IA de forma explícita: mantener la competencia teniendo en cuenta desarrollos tecnológicos, incluida la IA; en investigación jurídica, comprobar \"the outputs from technology including AI, by reference to primary resources\" (las salidas de la tecnología, incluida la IA, frente a fuentes primarias); y en redacción, hacer un \"appropriate use\" (uso apropiado) de la tecnología. Tras el asunto Mazur, añade una sección entera de supervisión, incluida la de uso de tecnología, y otra sobre health and wellbeing (salud y bienestar). No cambia de forma fundamental el functioning legal knowledge del SQE.",
+  "summary_p2": "Para compliance officers (COLP/COFA) y responsables de formación, el borrador convierte en competencia regulada lo que muchos despachos ya intentan por política interna: verificar salidas de IA contra fuentes primarias y supervisar a quien las usa. Encaja con el caso Sarker del mismo día en Legal Futures. Quien diseña formación continua debería mapear ya módulos de verificación, escalado ético y supervisión de herramientas. Es consulta, no norma final; Beth Black, directora de education and training de la SRA, pide un abanico amplio de respuestas. La fuente es Legal Futures sobre la consulta de la SRA.",
+  "why_sota": "El regulador inglés lleva la IA y la supervisión al núcleo del marco de competencia del solicitor.",
+  "why_now": "Consulta SRA cubierta 9 Oct 2026 (Legal Futures). NEW vs PASS 09-29→10-08.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "sra",
+    "competencia",
+    "etica",
+    "supervision",
+    "sqe",
+    "formacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/ethics-ai-wellbeing-and-supervision-to-the-fore-in-competence-review",
+      "cited_title": "Ethics, AI, wellbeing and supervision to the fore in competence review",
+      "accessed": "2026-10-09"
+    }
+  ],
+  "entities": [
+    "ent-sra"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1325,3 +1325,21 @@ sources:
     region: "US"
     lang: "EN"
     tier: archive
+  - id: src-diario-juridico
+    name: "Diario Jurídico"
+    url: "https://www.diariojuridico.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio jurídico español. Ficha añadida para citar una URL de diariojuridico.com."
+    region: "ES"
+    lang: "ES"
+    tier: archive
+  - id: src-uk-law-commission
+    name: "UK Law Commission"
+    url: "https://lawcom.gov.uk/"
+    type: regulator
+    frequency: "ad-hoc"
+    why: "Consultas y reformas legislativas de Inglaterra y Gales, incluida product liability. Ficha añadida para citar una URL de lawcom.gov.uk."
+    region: "UK"
+    lang: "EN"
+    tier: archive

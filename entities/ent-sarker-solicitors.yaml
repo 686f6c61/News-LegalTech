@@ -1,0 +1,10 @@
+id: ent-sarker-solicitors
+name: Sarker Solicitors
+type: law_firm
+url: https://www.sarkersolicitors.co.uk/
+geo:
+- UK
+aliases: []
+notes: Despacho de East London citado por el Upper Tribunal por uso de ChatGPT sin
+  verificación. Ficha mínima.
+stub: true

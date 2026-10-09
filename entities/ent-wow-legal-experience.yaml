@@ -1,0 +1,11 @@
+id: ent-wow-legal-experience
+name: WOW Legal Experience
+type: vendor
+url: https://wowlegalexperience.com/
+geo:
+- ES
+aliases:
+- WOW
+notes: Consultora de diseño y tecnología legal con sede en Madrid; partner de implantación
+  de Clio en España. Ficha mínima.
+stub: true
