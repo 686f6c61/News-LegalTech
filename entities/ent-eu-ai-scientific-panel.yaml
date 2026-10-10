@@ -1,0 +1,11 @@
+id: ent-eu-ai-scientific-panel
+name: Scientific Panel on AI (Comisión Europea)
+type: regulator
+url: https://digital-strategy.ec.europa.eu/
+geo:
+- EU
+aliases:
+- Scientific Panel
+notes: Panel de 60 expertos independientes que asesora a la Oficina de IA y a las
+  autoridades nacionales. Ficha mínima.
+stub: true

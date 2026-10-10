@@ -1,0 +1,71 @@
+scan_id: full-radar-2026-10-10
+date: '2026-10-10'
+release: 10.10.26
+count: 10
+ai_share: 1.0
+dedup_against: events/2026-09-29 → 2026-10-09 + scans PASS
+event_ids:
+- evt-2026-10-10-ironclad-agent-contract-knowledge-graph
+- evt-2026-10-10-harvey-the-brief-octubre-connectors
+- evt-2026-10-10-arentfox-schiff-apaga-afschat
+- evt-2026-10-10-lexroom-jac-ia-juridica-catalan
+- evt-2026-10-10-bcca-gerber-ia-audiencia-ilimitada
+- evt-2026-10-10-sevilla-condena-ia-imagenes-desnudas
+- evt-2026-10-10-legaltoday-ia-rrhh-articulo-64-4-d
+- evt-2026-10-10-spirit-google-datos-entrenamiento-ia
+- evt-2026-10-10-comision-panel-cientifico-ia-frontera
+- evt-2026-10-10-prelia-state-of-ai-2026-gobernanza
+events:
+- id: evt-2026-10-10-ironclad-agent-contract-knowledge-graph
+  sota_score: 8.0
+  ai_legaltech: true
+  title: Ironclad lanza Ironclad Agent y un Contract Knowledge Graph para que sus
+    agentes de contratos razonen con las posiciones y decisiones previas de cada empresa
+- id: evt-2026-10-10-harvey-the-brief-octubre-connectors
+  sota_score: 7.7
+  ai_legaltech: true
+  title: 'Harvey resume sus novedades de octubre: connectors a SharePoint, Gmail,
+    PacerPro e Ironclad, más fuentes de investigación y dos modelos nuevos'
+- id: evt-2026-10-10-arentfox-schiff-apaga-afschat
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'ArentFox Schiff apaga AFSChat, su chatbot propio de IA generativa, tras
+    adoptar Harvey y Copilot: «no fue una decisión difícil»'
+- id: evt-2026-10-10-lexroom-jac-ia-juridica-catalan
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Lexroom y la Jove Advocacia de Catalunya llevan IA jurídica en catalán a
+    unos 7.000 jóvenes abogados
+- id: evt-2026-10-10-bcca-gerber-ia-audiencia-ilimitada
+  sota_score: 7.9
+  ai_legaltech: true
+  title: 'Una magistrada del Court of Appeal de la Columbia Británica avisa: los tribunales
+    no pueden dar «audiencia ilimitada» a escritos generados con IA'
+- id: evt-2026-10-10-sevilla-condena-ia-imagenes-desnudas
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'Sevilla dicta su primera condena por usar una app de IA para crear desnudos
+    falsos de tres jóvenes: nueve meses de prisión suspendidos y veto a cuatro plataformas'
+- id: evt-2026-10-10-legaltoday-ia-rrhh-articulo-64-4-d
+  sota_score: 7.3
+  ai_legaltech: true
+  title: 'Un despacho laboralista explica qué puede y qué no puede hacer una empresa
+    con IA en RR. HH.: transparencia, revisión humana y el artículo 64.4.d) del Estatuto
+    de los Trabajadores'
+- id: evt-2026-10-10-spirit-google-datos-entrenamiento-ia
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 121 legisladores presionan a Google y a Spirit Airlines antes de la vista
+    del 14 de octubre sobre la venta por 10 millones de dólares de datos corporativos
+    para entrenar IA
+- id: evt-2026-10-10-comision-panel-cientifico-ia-frontera
+  sota_score: 7.5
+  ai_legaltech: true
+  title: La Comisión Europea reúne a su panel científico sobre IA para tratar los
+    incidentes de pérdida de control y presentar recomendaciones sobre riesgos de
+    la IA de frontera
+- id: evt-2026-10-10-prelia-state-of-ai-2026-gobernanza
+  sota_score: 7.2
+  ai_legaltech: true
+  title: 'El informe State of AI 2026 de Prelia: el 76% de las empresas canadienses
+    encuestadas ya usa IA, pero solo el 33% tiene una política escrita'

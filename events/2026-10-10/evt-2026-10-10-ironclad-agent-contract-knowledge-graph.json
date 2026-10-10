@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-10-ironclad-agent-contract-knowledge-graph",
+  "date": "2026-10-08",
+  "type": "product",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Ironclad lanza Ironclad Agent y un Contract Knowledge Graph para que sus agentes de contratos razonen con las posiciones y decisiones previas de cada empresa",
+  "summary_p1": "Ironclad anunció el 8 de octubre de 2026 Ironclad Agent, una interfaz conversacional que funciona como \"front door\" (puerta de entrada) de su plataforma: equipos de legal, procurement (compras) y ventas pueden buscar contratos, hacer preguntas y orquestar agentes especializados en lenguaje natural. Junto a ella presentó Contract Knowledge Graph (CKG), la capa que conecta cláusulas, relaciones, obligaciones y decisiones pasadas entre los contratos y workflows (flujos de trabajo) de la empresa para que los agentes razonen con contexto comercial propio y no con conocimiento genérico. Ironclad Agent sustituye a Ironclad Assistant y Ironclad Jurist pasa a llamarse Contract Review Agent, que revisa, hace redlines (marcas de cambios) y redacta contra las posiciones aprobadas, las decisiones previas y el historial de negociación de la compañía. La nota de prensa recoge cifras de la propia empresa: según una encuesta de Ironclad, el 88% de sus clientes planea ampliar el uso de sus agentes, y Sharisse Cumberbatch (VP y associate general counsel de ANDMORE) afirma que el análisis de riesgos de un master services agreement (contrato marco de servicios) de 80 páginas pasó de unas tres horas a unos 20 minutos.",
+  "summary_p2": "Para un departamento jurídico con muchos contratos, la tesis es clara: el valor de un agente no está solo en redactar, sino en recordar cómo se negoció cada cláusula cuando las personas que lo hicieron ya no están. Es la misma apuesta por conocimiento institucional que vimos ayer con Coheso y AT&T, ahora en CLM (contract lifecycle management, gestión del ciclo de vida del contrato). Dos matices para quien evalúe la herramienta: la documentación de soporte de Ironclad indica que Contract Review Agent migrará hacia un modelo de subscription con AI Credits (créditos de IA), aunque los acuerdos por puesto de Jurist siguen hasta el fin del contrato vigente, y conviene preguntar qué permisos gobiernan lo que el knowledge graph puede cruzar entre contratos y contrapartes. Las cifras de adopción y de ahorro de tiempo son afirmaciones del vendor sin verificación independiente.",
+  "why_sota": "Lanzamiento de agente conversacional más capa de knowledge graph sobre contratos en una de las plataformas CLM de referencia.",
+  "why_now": "Anuncio 8 Oct 2026 (nota de prensa de Ironclad; Law.com lo recoge en su rundown del 9 Oct). NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "clm",
+    "contratos",
+    "agentes",
+    "knowledge-graph",
+    "pricing"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ironclad",
+      "url": "https://ironcladapp.com/news/press-releases/ironclad-launches-new-ai-agents-grounded-in-commercial-context",
+      "cited_title": "Ironclad Launches New AI Agents Grounded in Commercial Context, Helping Teams Negotiate Better and Capture More Value From Every Deal",
+      "accessed": "2026-10-10"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/09/legaltech-rundown-docusign-launches-pdf-editor-spellbook-releases-contracting-tool-and-more-/",
+      "cited_title": "Legaltech Rundown: Ironclad Launches AI Contract Agent, Hotshot Introduces AI Hallucination Course, and More",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-ironclad",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

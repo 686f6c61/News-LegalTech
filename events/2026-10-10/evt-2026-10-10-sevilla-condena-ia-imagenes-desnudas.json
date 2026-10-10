@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-10-sevilla-condena-ia-imagenes-desnudas",
+  "date": "2026-10-09",
+  "type": "case_law",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Sevilla dicta su primera condena por usar una app de IA para crear desnudos falsos de tres jóvenes: nueve meses de prisión suspendidos y veto a cuatro plataformas",
+  "summary_p1": "El magistrado de la plaza número 15 de la Sección de lo Penal del Tribunal de Instancia de Sevilla dictó el 1 de octubre de 2026 la primera sentencia condenatoria en Sevilla por el uso de una aplicación de IA para manipular imágenes de varias jóvenes y simular sus cuerpos desnudos, según El Derecho (9 de octubre). La sentencia llega tras un acuerdo de conformidad ese mismo día entre la Fiscalía de Criminalidad Informática, la acusación particular y las defensas, y ya es firme. Condena a tres varones por tres delitos contra la integridad moral con la agravante de género (artículo 22.4 del Código Penal), la atenuante cualificada de reparación del daño y la atenuante analógica de confesión; a cada uno le impone nueve meses de prisión y la prohibición de acceder a Telegram, WhatsApp, Instagram y Discord por un total de tres años y nueve meses. Los hechos: tomaron imágenes de perfiles abiertos de Instagram de tres excompañeras de colegio, las manipularon con una app de IA de Telegram y las compartieron en grupos de WhatsApp y Discord, con un menor de edad implicado. El juez suspende la pena dos años, con condiciones: no delinquir, mantener la prohibición de las cuatro aplicaciones y completar un programa formativo en educación sexual.",
+  "summary_p2": "Hay que leerla por lo que es: una sentencia de conformidad, sin debate contradictorio sobre cómo encajar el deepfake en los tipos penales, así que su valor doctrinal es limitado; el interés está en la respuesta práctica. Un juez penal español trata la creación y difusión de imágenes sintéticas de personas reales como un ataque a la integridad moral con perspectiva de género, y combina la suspensión con restricciones de acceso a plataformas concretas y formación. Para despachos que asesoran a colegios, plataformas o familias, el caso recuerda la importancia de preservar pruebas digitales (grupos de mensajería, perfiles, archivos) y de la reparación económica temprana, que aquí pesó como atenuante. La fuente es la información publicada por El Derecho a partir de la resolución; no se ha consultado el texto íntegro.",
+  "why_sota": "Primera condena local por deepfakes de desnudos con IA, con medidas accesorias poco habituales de veto a plataformas.",
+  "why_now": "Sentencia 1 Oct 2026; difusión El Derecho 9 Oct. NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "deepfakes",
+    "derecho-penal",
+    "integridad-moral",
+    "genero",
+    "plataformas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-el-derecho-lefebvre",
+      "url": "https://elderecho.com/primera-sentencia-condenatoria-en-sevilla-por-el-uso-de-ia-para-manipular-imagenes-de-varias-jovenes-y-simular-que-estaban-desnudas",
+      "cited_title": "Primera sentencia condenatoria en Sevilla por el uso de IA para manipular imágenes de varias jóvenes y simular que estaban desnudas",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-tribunal-instancia-sevilla",
+    "ent-el-derecho"
+  ],
+  "lang": "es",
+  "status": "published"
+}

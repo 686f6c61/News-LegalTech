@@ -1,0 +1,10 @@
+id: ent-tribunal-instancia-sevilla
+name: Tribunal de Instancia de Sevilla
+type: court
+url: https://www.poderjudicial.es/
+geo:
+- ES
+aliases: []
+notes: Órgano que dictó la sentencia sobre imágenes manipuladas con IA (Sección de
+  lo Penal). Ficha mínima.
+stub: true

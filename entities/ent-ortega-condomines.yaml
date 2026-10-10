@@ -1,0 +1,10 @@
+id: ent-ortega-condomines
+name: Ortega Condomines
+type: law_firm
+url: https://www.ortegacondomines.com/
+geo:
+- ES
+aliases: []
+notes: Despacho laboralista cuyos abogados firman el artículo sobre IA y recursos
+  humanos. Ficha mínima.
+stub: true

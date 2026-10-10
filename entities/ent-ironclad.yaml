@@ -1,0 +1,11 @@
+id: ent-ironclad
+name: Ironclad
+type: vendor
+url: https://ironcladapp.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Plataforma de contract lifecycle management (gestión del ciclo de vida del
+  contrato) con agentes de IA. Ficha mínima.
+stub: true

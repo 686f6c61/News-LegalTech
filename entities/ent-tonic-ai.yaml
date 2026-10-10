@@ -1,0 +1,10 @@
+id: ent-tonic-ai
+name: Tonic.ai
+type: vendor
+url: https://www.tonic.ai/
+geo:
+- US
+aliases: []
+notes: Proveedor de de-identification (desidentificación) de datos designado en el
+  procedimiento Spirit. Ficha mínima.
+stub: true

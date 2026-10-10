@@ -1,0 +1,11 @@
+id: ent-arentfox-schiff
+name: ArentFox Schiff
+type: law_firm
+url: https://www.afslaw.com/
+geo:
+- US
+aliases:
+- AFS
+notes: Despacho estadounidense; marco FoxAI y cierre de su chatbot propio AFSChat.
+  Ficha mínima.
+stub: true

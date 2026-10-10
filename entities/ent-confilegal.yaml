@@ -1,0 +1,9 @@
+id: ent-confilegal
+name: Confilegal
+type: media
+url: https://confilegal.com/
+geo:
+- ES
+aliases: []
+notes: Medio jurídico español. Ficha mínima.
+stub: true

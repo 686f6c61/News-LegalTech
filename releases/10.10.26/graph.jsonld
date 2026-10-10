@@ -1,0 +1,751 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/10.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 10.10.26",
+      "schema:version": "10.10.26",
+      "schema:datePublished": "2026-10-10",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-10, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/10.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-ironclad-agent-contract-knowledge-graph"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-harvey-the-brief-octubre-connectors"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-arentfox-schiff-apaga-afschat"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-lexroom-jac-ia-juridica-catalan"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-bcca-gerber-ia-audiencia-ilimitada"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-sevilla-condena-ia-imagenes-desnudas"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-legaltoday-ia-rrhh-articulo-64-4-d"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-spirit-google-datos-entrenamiento-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-comision-panel-cientifico-ia-frontera"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-prelia-state-of-ai-2026-gobernanza"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-ironclad-agent-contract-knowledge-graph",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-ironclad-agent-contract-knowledge-graph",
+      "schema:headline": "Ironclad lanza Ironclad Agent y un Contract Knowledge Graph para que sus agentes de contratos razonen con las posiciones y decisiones previas de cada empresa",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Ironclad anunció el 8 de octubre de 2026 Ironclad Agent, una interfaz conversacional que funciona como \"front door\" (puerta de entrada) de su plataforma: equipos de legal, procurement (compras) y ventas pueden buscar contratos, hacer preguntas y orquestar agentes especializados en lenguaje natural. Junto a ella presentó Contract Knowledge Graph (CKG), la capa que conecta cláusulas, relaciones, obligaciones y decisiones pasadas entre los contratos y workflows (flujos de trabajo) de la empresa para que los agentes razonen con contexto comercial propio y no con conocimiento genérico. Ironclad Agent sustituye a Ironclad Assistant y Ironclad Jurist pasa a llamarse Contract Review Agent, que revisa, hace redlines (marcas de cambios) y redacta contra las posiciones aprobadas, las decisiones previas y el historial de negociación de la compañía. La nota de prensa recoge cifras de la propia empresa: según una encuesta de Ironclad, el 88% de sus clientes planea ampliar el uso de sus agentes, y Sharisse Cumberbatch (VP y associate general counsel de ANDMORE) afirma que el análisis de riesgos de un master services agreement (contrato marco de servicios) de 80 páginas pasó de unas tres horas a unos 20 minutos.",
+      "schema:articleBody": "Ironclad anunció el 8 de octubre de 2026 Ironclad Agent, una interfaz conversacional que funciona como \"front door\" (puerta de entrada) de su plataforma: equipos de legal, procurement (compras) y ventas pueden buscar contratos, hacer preguntas y orquestar agentes especializados en lenguaje natural. Junto a ella presentó Contract Knowledge Graph (CKG), la capa que conecta cláusulas, relaciones, obligaciones y decisiones pasadas entre los contratos y workflows (flujos de trabajo) de la empresa para que los agentes razonen con contexto comercial propio y no con conocimiento genérico. Ironclad Agent sustituye a Ironclad Assistant y Ironclad Jurist pasa a llamarse Contract Review Agent, que revisa, hace redlines (marcas de cambios) y redacta contra las posiciones aprobadas, las decisiones previas y el historial de negociación de la compañía. La nota de prensa recoge cifras de la propia empresa: según una encuesta de Ironclad, el 88% de sus clientes planea ampliar el uso de sus agentes, y Sharisse Cumberbatch (VP y associate general counsel de ANDMORE) afirma que el análisis de riesgos de un master services agreement (contrato marco de servicios) de 80 páginas pasó de unas tres horas a unos 20 minutos.\n\nPara un departamento jurídico con muchos contratos, la tesis es clara: el valor de un agente no está solo en redactar, sino en recordar cómo se negoció cada cláusula cuando las personas que lo hicieron ya no están. Es la misma apuesta por conocimiento institucional que vimos ayer con Coheso y AT&T, ahora en CLM (contract lifecycle management, gestión del ciclo de vida del contrato). Dos matices para quien evalúe la herramienta: la documentación de soporte de Ironclad indica que Contract Review Agent migrará hacia un modelo de subscription con AI Credits (créditos de IA), aunque los acuerdos por puesto de Jurist siguen hasta el fin del contrato vigente, y conviene preguntar qué permisos gobiernan lo que el knowledge graph puede cruzar entre contratos y contrapartes. Las cifras de adopción y de ahorro de tiempo son afirmaciones del vendor sin verificación independiente.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Lanzamiento de agente conversacional más capa de knowledge graph sobre contratos en una de las plataformas CLM de referencia.",
+      "sota:whyNow": "Anuncio 8 Oct 2026 (nota de prensa de Ironclad; Law.com lo recoge en su rundown del 9 Oct). NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "clm",
+        "contratos",
+        "agentes",
+        "knowledge-graph",
+        "pricing"
+      ],
+      "sota:summaryP1": "Ironclad anunció el 8 de octubre de 2026 Ironclad Agent, una interfaz conversacional que funciona como \"front door\" (puerta de entrada) de su plataforma: equipos de legal, procurement (compras) y ventas pueden buscar contratos, hacer preguntas y orquestar agentes especializados en lenguaje natural. Junto a ella presentó Contract Knowledge Graph (CKG), la capa que conecta cláusulas, relaciones, obligaciones y decisiones pasadas entre los contratos y workflows (flujos de trabajo) de la empresa para que los agentes razonen con contexto comercial propio y no con conocimiento genérico. Ironclad Agent sustituye a Ironclad Assistant y Ironclad Jurist pasa a llamarse Contract Review Agent, que revisa, hace redlines (marcas de cambios) y redacta contra las posiciones aprobadas, las decisiones previas y el historial de negociación de la compañía. La nota de prensa recoge cifras de la propia empresa: según una encuesta de Ironclad, el 88% de sus clientes planea ampliar el uso de sus agentes, y Sharisse Cumberbatch (VP y associate general counsel de ANDMORE) afirma que el análisis de riesgos de un master services agreement (contrato marco de servicios) de 80 páginas pasó de unas tres horas a unos 20 minutos.",
+      "sota:summaryP2": "Para un departamento jurídico con muchos contratos, la tesis es clara: el valor de un agente no está solo en redactar, sino en recordar cómo se negoció cada cláusula cuando las personas que lo hicieron ya no están. Es la misma apuesta por conocimiento institucional que vimos ayer con Coheso y AT&T, ahora en CLM (contract lifecycle management, gestión del ciclo de vida del contrato). Dos matices para quien evalúe la herramienta: la documentación de soporte de Ironclad indica que Contract Review Agent migrará hacia un modelo de subscription con AI Credits (créditos de IA), aunque los acuerdos por puesto de Jurist siguen hasta el fin del contrato vigente, y conviene preguntar qué permisos gobiernan lo que el knowledge graph puede cruzar entre contratos y contrapartes. Las cifras de adopción y de ahorro de tiempo son afirmaciones del vendor sin verificación independiente.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://ironcladapp.com/news/press-releases/ironclad-launches-new-ai-agents-grounded-in-commercial-context",
+          "schema:name": "Ironclad Launches New AI Agents Grounded in Commercial Context, Helping Teams Negotiate Better and Capture More Value From Every Deal",
+          "sota:sourceId": "src-ironclad"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/09/legaltech-rundown-docusign-launches-pdf-editor-spellbook-releases-contracting-tool-and-more-/",
+          "schema:name": "Legaltech Rundown: Ironclad Launches AI Contract Agent, Hotshot Introduces AI Hallucination Course, and More",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ironclad"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-harvey-the-brief-octubre-connectors",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-harvey-the-brief-octubre-connectors",
+      "schema:headline": "Harvey resume sus novedades de octubre: connectors a SharePoint, Gmail, PacerPro e Ironclad, más fuentes de investigación y dos modelos nuevos",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Harvey publicó el 9 de octubre de 2026 \"The Brief: October 2026\", su resumen mensual de producto. El primer bloque va de encontrar el contenido de un asunto en los sistemas que el equipo ya usa: una biblioteca de connectors (conectores) preverificados con controles de administrador sobre quién puede usar cada uno y qué acciones se ejecutan automáticamente; búsqueda por descripción en SharePoint, OneDrive y Google Drive con citas a los documentos fuente; búsqueda en Gmail (mensajes, hilos y etiquetas) desde un thread; sincronización diaria de un Vault de litigación con un docket federal en PacerPro; e importación de contratos ejecutados desde Ironclad. El segundo bloque trae más fuentes de investigación (el titular habla de más de 130 nuevas), contenido de Octus para finanzas apalancadas y reestructuraciones, filtros de Knowledge Source guardables y el workflow de motion to dismiss con LexisNexis que ya reseñamos ayer. El tercero incluye lectura de las fórmulas y valores de cada celda de Excel con citas a las celdas usadas, un previsualizador a pantalla completa para diligence reviews y dos modelos nuevos, Fable 5.1 de Anthropic y GPT-6 Astra de OpenAI, además de una pestaña de agentes y dictado en la app móvil.",
+      "schema:articleBody": "Harvey publicó el 9 de octubre de 2026 \"The Brief: October 2026\", su resumen mensual de producto. El primer bloque va de encontrar el contenido de un asunto en los sistemas que el equipo ya usa: una biblioteca de connectors (conectores) preverificados con controles de administrador sobre quién puede usar cada uno y qué acciones se ejecutan automáticamente; búsqueda por descripción en SharePoint, OneDrive y Google Drive con citas a los documentos fuente; búsqueda en Gmail (mensajes, hilos y etiquetas) desde un thread; sincronización diaria de un Vault de litigación con un docket federal en PacerPro; e importación de contratos ejecutados desde Ironclad. El segundo bloque trae más fuentes de investigación (el titular habla de más de 130 nuevas), contenido de Octus para finanzas apalancadas y reestructuraciones, filtros de Knowledge Source guardables y el workflow de motion to dismiss con LexisNexis que ya reseñamos ayer. El tercero incluye lectura de las fórmulas y valores de cada celda de Excel con citas a las celdas usadas, un previsualizador a pantalla completa para diligence reviews y dos modelos nuevos, Fable 5.1 de Anthropic y GPT-6 Astra de OpenAI, además de una pestaña de agentes y dictado en la app móvil.\n\nLa lectura útil para un despacho no es la lista de funciones sino el patrón: la competencia se está desplazando de \"qué modelo tienes\" a \"a qué sistemas llegas y con qué controles\". Un conector a Gmail o a un document management system acerca la herramienta al material más sensible del cliente, así que antes de activarlos conviene revisar ethical walls (barreras de información), permisos por asunto, qué acciones pueden ejecutarse sin aprobación humana y dónde queda el log. Es también un dato de mercado que Harvey importe contratos desde Ironclad, la misma semana en que Ironclad lanza su propio agente. Se trata de un changelog del propio vendor: no incluye benchmarks, precios ni calendario de disponibilidad por cliente, y los nombres de modelo son los que cita la empresa.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Release notes de una plataforma líder con conectores gobernados, litigation sync y nuevos modelos en producción.",
+      "sota:whyNow": "Publicación 9 Oct 2026 (Harvey). NEW vs PASS 09-29→10-09; el workflow de motions to dismiss ya estaba en la pasada de ayer.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "harvey",
+        "connectors",
+        "vault",
+        "gobernanza",
+        "modelos"
+      ],
+      "sota:summaryP1": "Harvey publicó el 9 de octubre de 2026 \"The Brief: October 2026\", su resumen mensual de producto. El primer bloque va de encontrar el contenido de un asunto en los sistemas que el equipo ya usa: una biblioteca de connectors (conectores) preverificados con controles de administrador sobre quién puede usar cada uno y qué acciones se ejecutan automáticamente; búsqueda por descripción en SharePoint, OneDrive y Google Drive con citas a los documentos fuente; búsqueda en Gmail (mensajes, hilos y etiquetas) desde un thread; sincronización diaria de un Vault de litigación con un docket federal en PacerPro; e importación de contratos ejecutados desde Ironclad. El segundo bloque trae más fuentes de investigación (el titular habla de más de 130 nuevas), contenido de Octus para finanzas apalancadas y reestructuraciones, filtros de Knowledge Source guardables y el workflow de motion to dismiss con LexisNexis que ya reseñamos ayer. El tercero incluye lectura de las fórmulas y valores de cada celda de Excel con citas a las celdas usadas, un previsualizador a pantalla completa para diligence reviews y dos modelos nuevos, Fable 5.1 de Anthropic y GPT-6 Astra de OpenAI, además de una pestaña de agentes y dictado en la app móvil.",
+      "sota:summaryP2": "La lectura útil para un despacho no es la lista de funciones sino el patrón: la competencia se está desplazando de \"qué modelo tienes\" a \"a qué sistemas llegas y con qué controles\". Un conector a Gmail o a un document management system acerca la herramienta al material más sensible del cliente, así que antes de activarlos conviene revisar ethical walls (barreras de información), permisos por asunto, qué acciones pueden ejecutarse sin aprobación humana y dónde queda el log. Es también un dato de mercado que Harvey importe contratos desde Ironclad, la misma semana en que Ironclad lanza su propio agente. Se trata de un changelog del propio vendor: no incluye benchmarks, precios ni calendario de disponibilidad por cliente, y los nombres de modelo son los que cita la empresa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.harvey.ai/blog/the-brief-october-2026",
+          "schema:name": "Harvey Product Releases: October 2026 (The Brief)",
+          "sota:sourceId": "src-harvey"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ironclad"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-arentfox-schiff-apaga-afschat",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-arentfox-schiff-apaga-afschat",
+      "schema:headline": "ArentFox Schiff apaga AFSChat, su chatbot propio de IA generativa, tras adoptar Harvey y Copilot: «no fue una decisión difícil»",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "ArentFox Schiff ha cerrado a principios de octubre de 2026 AFSChat, el chatbot de IA generativa que había desarrollado en casa, según Legaltech News (Law.com, 8 de octubre). Law.com cuenta que la herramienta nació como una forma de bajo riesgo para que abogados y personal de apoyo se familiarizaran con los modelos de lenguaje, que fue superada en capacidad por opciones de terceros y que estas acabaron cumpliendo los criterios estrictos del despacho; el resumen de la nota añade que AFSChat había quedado redundante tras la compra de Harvey y Copilot. El despacho lo describe como el final de un experimento exitoso. El contexto es FoxAI, el marco multiherramienta que presentó en agosto y que, según Law.com, combina herramientas propias con plataformas con licencia como Harvey, Microsoft Copilot y DeepJudge, y en el que, según su presidente Anthony Lupo, cerca del 90% de los abogados usa IA con regularidad. La pieza completa exige cuenta gratuita en Law.com; lo anterior procede del arranque y de los puntos clave visibles, de la cobertura previa de Law.com (17 de agosto) y de la nota de prensa de agosto del despacho.",
+      "schema:articleBody": "ArentFox Schiff ha cerrado a principios de octubre de 2026 AFSChat, el chatbot de IA generativa que había desarrollado en casa, según Legaltech News (Law.com, 8 de octubre). Law.com cuenta que la herramienta nació como una forma de bajo riesgo para que abogados y personal de apoyo se familiarizaran con los modelos de lenguaje, que fue superada en capacidad por opciones de terceros y que estas acabaron cumpliendo los criterios estrictos del despacho; el resumen de la nota añade que AFSChat había quedado redundante tras la compra de Harvey y Copilot. El despacho lo describe como el final de un experimento exitoso. El contexto es FoxAI, el marco multiherramienta que presentó en agosto y que, según Law.com, combina herramientas propias con plataformas con licencia como Harvey, Microsoft Copilot y DeepJudge, y en el que, según su presidente Anthony Lupo, cerca del 90% de los abogados usa IA con regularidad. La pieza completa exige cuenta gratuita en Law.com; lo anterior procede del arranque y de los puntos clave visibles, de la cobertura previa de Law.com (17 de agosto) y de la nota de prensa de agosto del despacho.\n\nCasi todas las noticias de Big Law hablan de lanzamientos propios; este es un caso poco frecuente de retirada razonada de una herramienta interna, y la lección para quien hoy decide build vs buy (construir o comprar) es práctica: un chatbot interno sirve de laboratorio de adopción, pero su ventaja caduca cuando el mercado ofrece algo mejor y con garantías de seguridad comparables. Apagar una herramienta también tiene tareas jurídicas menos vistosas: migrar usuarios y prompts, decidir qué se hace con historiales y datos retenidos, actualizar políticas de uso y avisar a clientes cuyos acuerdos mencionen la herramienta. Los motivos proceden del propio despacho y de la cobertura de pago, así que conviene leer el artículo completo antes de extrapolar.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Caso explícito de retirada de una herramienta propia de IA generativa a favor de plataformas de terceros en un despacho grande.",
+      "sota:whyNow": "Cobertura 8 Oct 2026 (Law.com Legaltech News; acceso con registro). NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "big-law",
+        "build-vs-buy",
+        "chatbot",
+        "harvey",
+        "copilot"
+      ],
+      "sota:summaryP1": "ArentFox Schiff ha cerrado a principios de octubre de 2026 AFSChat, el chatbot de IA generativa que había desarrollado en casa, según Legaltech News (Law.com, 8 de octubre). Law.com cuenta que la herramienta nació como una forma de bajo riesgo para que abogados y personal de apoyo se familiarizaran con los modelos de lenguaje, que fue superada en capacidad por opciones de terceros y que estas acabaron cumpliendo los criterios estrictos del despacho; el resumen de la nota añade que AFSChat había quedado redundante tras la compra de Harvey y Copilot. El despacho lo describe como el final de un experimento exitoso. El contexto es FoxAI, el marco multiherramienta que presentó en agosto y que, según Law.com, combina herramientas propias con plataformas con licencia como Harvey, Microsoft Copilot y DeepJudge, y en el que, según su presidente Anthony Lupo, cerca del 90% de los abogados usa IA con regularidad. La pieza completa exige cuenta gratuita en Law.com; lo anterior procede del arranque y de los puntos clave visibles, de la cobertura previa de Law.com (17 de agosto) y de la nota de prensa de agosto del despacho.",
+      "sota:summaryP2": "Casi todas las noticias de Big Law hablan de lanzamientos propios; este es un caso poco frecuente de retirada razonada de una herramienta interna, y la lección para quien hoy decide build vs buy (construir o comprar) es práctica: un chatbot interno sirve de laboratorio de adopción, pero su ventaja caduca cuando el mercado ofrece algo mejor y con garantías de seguridad comparables. Apagar una herramienta también tiene tareas jurídicas menos vistosas: migrar usuarios y prompts, decidir qué se hace con historiales y datos retenidos, actualizar políticas de uso y avisar a clientes cuyos acuerdos mencionen la herramienta. Los motivos proceden del propio despacho y de la cobertura de pago, así que conviene leer el artículo completo antes de extrapolar.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/08/why-arentfox-schiff-shut-down-its-chatbot-not-a-hard-decision-for-us-/",
+          "schema:name": "Why ArentFox Schiff Shut Down Its Chatbot: 'Not a Hard Decision for Us'",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/nationallawjournal/2026/08/17/arentfox-schiff-launches-foxai-tech-tools-for-industry-focused-approach/",
+          "schema:name": "ArentFox Schiff Launches FoxAI Tech Tools for Industry-Focused Approach",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-arentfox-schiff"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-lexroom-jac-ia-juridica-catalan",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-lexroom-jac-ia-juridica-catalan",
+      "schema:headline": "Lexroom y la Jove Advocacia de Catalunya llevan IA jurídica en catalán a unos 7.000 jóvenes abogados",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Lexroom, legaltech europea especializada en IA para el sector jurídico, y la Jove Advocacia de Catalunya (JAC) han firmado una alianza para acercar la herramienta a los aproximadamente 7.000 abogados y abogadas jóvenes que la organización representa a través de los Grupos de Abogados Jóvenes de los colegios de la abogacía de Cataluña, según Confilegal (8 de octubre de 2026). La particularidad es lingüística y jurídica: la plataforma funciona también en catalán y permite trabajar con fuentes y normativa del ordenamiento catalán, un punto relevante en ámbitos como el derecho civil catalán. Las tareas previstas son las habituales de la IA jurídica, como la búsqueda de normativa y jurisprudencia, el análisis de documentación y la preparación de borradores. Raimondo Pili, experto en IA de Lexroom España, defiende una actitud «abierta», pero también «crítica y responsable», y el presidente de la JAC, Jon Rodríguez i Senz, subraya que no todas las herramientas entienden las particularidades de cada ordenamiento. Confilegal reproduce la nota de prensa de la alianza.",
+      "schema:articleBody": "Lexroom, legaltech europea especializada en IA para el sector jurídico, y la Jove Advocacia de Catalunya (JAC) han firmado una alianza para acercar la herramienta a los aproximadamente 7.000 abogados y abogadas jóvenes que la organización representa a través de los Grupos de Abogados Jóvenes de los colegios de la abogacía de Cataluña, según Confilegal (8 de octubre de 2026). La particularidad es lingüística y jurídica: la plataforma funciona también en catalán y permite trabajar con fuentes y normativa del ordenamiento catalán, un punto relevante en ámbitos como el derecho civil catalán. Las tareas previstas son las habituales de la IA jurídica, como la búsqueda de normativa y jurisprudencia, el análisis de documentación y la preparación de borradores. Raimondo Pili, experto en IA de Lexroom España, defiende una actitud «abierta», pero también «crítica y responsable», y el presidente de la JAC, Jon Rodríguez i Senz, subraya que no todas las herramientas entienden las particularidades de cada ordenamiento. Confilegal reproduce la nota de prensa de la alianza.\n\nPara el abogado que ejerce en Cataluña la pregunta no es si hay IA en catalán, sino con qué cobertura real de legislación autonómica, jurisprudencia y doctrina de derecho civil catalán, y con qué trazabilidad de fuentes: ahí se verá si el diferencial es de producto o solo de idioma. La alianza encaja con una tendencia más amplia de vendors que entran en la abogacía joven y en el pequeño despacho a través de colegios y asociaciones, donde la decisión de compra individual pesa más que la corporativa. La nota no detalla condiciones económicas, duración, descuentos, términos de confidencialidad ni cuántos de los 7.000 llegarán a usar la herramienta: acceso no equivale a adopción, y todo lo anterior proviene de un comunicado de las partes.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Alianza de distribución de una legaltech de IA con una asociación profesional, con foco explícito en lengua y derecho autonómico.",
+      "sota:whyNow": "Publicación 8 Oct 2026 (Confilegal, nota de prensa). NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "lexroom",
+        "cataluna",
+        "catalan",
+        "abogacia-joven",
+        "legal-research"
+      ],
+      "sota:summaryP1": "Lexroom, legaltech europea especializada en IA para el sector jurídico, y la Jove Advocacia de Catalunya (JAC) han firmado una alianza para acercar la herramienta a los aproximadamente 7.000 abogados y abogadas jóvenes que la organización representa a través de los Grupos de Abogados Jóvenes de los colegios de la abogacía de Cataluña, según Confilegal (8 de octubre de 2026). La particularidad es lingüística y jurídica: la plataforma funciona también en catalán y permite trabajar con fuentes y normativa del ordenamiento catalán, un punto relevante en ámbitos como el derecho civil catalán. Las tareas previstas son las habituales de la IA jurídica, como la búsqueda de normativa y jurisprudencia, el análisis de documentación y la preparación de borradores. Raimondo Pili, experto en IA de Lexroom España, defiende una actitud «abierta», pero también «crítica y responsable», y el presidente de la JAC, Jon Rodríguez i Senz, subraya que no todas las herramientas entienden las particularidades de cada ordenamiento. Confilegal reproduce la nota de prensa de la alianza.",
+      "sota:summaryP2": "Para el abogado que ejerce en Cataluña la pregunta no es si hay IA en catalán, sino con qué cobertura real de legislación autonómica, jurisprudencia y doctrina de derecho civil catalán, y con qué trazabilidad de fuentes: ahí se verá si el diferencial es de producto o solo de idioma. La alianza encaja con una tendencia más amplia de vendors que entran en la abogacía joven y en el pequeño despacho a través de colegios y asociaciones, donde la decisión de compra individual pesa más que la corporativa. La nota no detalla condiciones económicas, duración, descuentos, términos de confidencialidad ni cuántos de los 7.000 llegarán a usar la herramienta: acceso no equivale a adopción, y todo lo anterior proviene de un comunicado de las partes.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261008-la-ia-juridica-en-catalan-llega-a-7-000-jovenes-abogados-de-cataluna-de-la-mano-de-lexroom-y-jac/",
+          "schema:name": "La IA jurídica en catalán llega a 7.000 jóvenes abogados de Cataluña de la mano de Lexroom y JAC",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexroom"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jove-advocacia-catalunya"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-bcca-gerber-ia-audiencia-ilimitada",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-bcca-gerber-ia-audiencia-ilimitada",
+      "schema:headline": "Una magistrada del Court of Appeal de la Columbia Británica avisa: los tribunales no pueden dar «audiencia ilimitada» a escritos generados con IA",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La magistrada Susan Griffin, del British Columbia Court of Appeal, advirtió el miércoles 7 de octubre de 2026 en 1182573 B.C. Ltd. v Gerber de que los jueces son «un recurso humano limitado» y «no pueden dar una audiencia ilimitada» (\"cannot provide an unlimited audience\") a litigantes que usan IA para generar alegaciones irrelevantes, según Canadian Lawyer (8 de octubre). El caso civil enfrentaba a una parte sin abogado que dijo haber preparado sus escritos con IA. Griffin no identifica errores concretos en los escritos de ese asunto, pero usa la decisión para describir riesgos sistémicos: materiales alucinados, listas largas de citas irrelevantes, escritos «excesivamente extensos y verbosos» con lenguaje «jurídico» desvinculado de principios establecidos, y un tono cada vez más agresivo que atribuye en parte a la IA. La profesora Amy Salyzyn (Universidad de Ottawa) dice que oye lo mismo a jueces y miembros de tribunales administrativos de todo Canadá, y el abogado Alex Mok advierte del coste en recursos judiciales, aunque recuerda que los retrasos tienen más causas que la IA. Canadian Lawyer recuerda que en el 65% de los casos de familia activos en 2024 y 2025 al menos una parte declaró estar sin representación en algún momento (Statistics Canada).",
+      "schema:articleBody": "La magistrada Susan Griffin, del British Columbia Court of Appeal, advirtió el miércoles 7 de octubre de 2026 en 1182573 B.C. Ltd. v Gerber de que los jueces son «un recurso humano limitado» y «no pueden dar una audiencia ilimitada» (\"cannot provide an unlimited audience\") a litigantes que usan IA para generar alegaciones irrelevantes, según Canadian Lawyer (8 de octubre). El caso civil enfrentaba a una parte sin abogado que dijo haber preparado sus escritos con IA. Griffin no identifica errores concretos en los escritos de ese asunto, pero usa la decisión para describir riesgos sistémicos: materiales alucinados, listas largas de citas irrelevantes, escritos «excesivamente extensos y verbosos» con lenguaje «jurídico» desvinculado de principios establecidos, y un tono cada vez más agresivo que atribuye en parte a la IA. La profesora Amy Salyzyn (Universidad de Ottawa) dice que oye lo mismo a jueces y miembros de tribunales administrativos de todo Canadá, y el abogado Alex Mok advierte del coste en recursos judiciales, aunque recuerda que los retrasos tienen más causas que la IA. Canadian Lawyer recuerda que en el 65% de los casos de familia activos en 2024 y 2025 al menos una parte declaró estar sin representación en algún momento (Statistics Canada).\n\nPara un litigator, el valor de la decisión no está en una sanción, que no hay, sino en la señal de gestión: los jueces avisan de que no explicarán uno por uno por qué un argumento generado por IA carece de base y de que centrarán su atención en lo jurídicamente relevante. Quien litigue frente a una parte sin abogado debería esperar escritos largos y combativos, y plantear pronto peticiones de case management (gestión procesal) o de limitación de extensión; quien represente al litigante autorrepresentado, ser conciso y verificar cada cita. Es una observación judicial de un tribunal provincial, reportada por prensa especializada: conviene leer el texto de la resolución antes de citarla, y no es doctrina vinculante fuera de la Columbia Británica.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Advertencia judicial sobre el impacto sistémico de la IA en el acceso a la justicia y en la carga de los tribunales de apelación.",
+      "sota:whyNow": "Decisión del 7 Oct 2026 y cobertura Canadian Lawyer del 8 Oct. NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "alucinaciones",
+        "autorrepresentacion",
+        "acceso-justicia",
+        "tribunales",
+        "canada"
+      ],
+      "sota:summaryP1": "La magistrada Susan Griffin, del British Columbia Court of Appeal, advirtió el miércoles 7 de octubre de 2026 en 1182573 B.C. Ltd. v Gerber de que los jueces son «un recurso humano limitado» y «no pueden dar una audiencia ilimitada» (\"cannot provide an unlimited audience\") a litigantes que usan IA para generar alegaciones irrelevantes, según Canadian Lawyer (8 de octubre). El caso civil enfrentaba a una parte sin abogado que dijo haber preparado sus escritos con IA. Griffin no identifica errores concretos en los escritos de ese asunto, pero usa la decisión para describir riesgos sistémicos: materiales alucinados, listas largas de citas irrelevantes, escritos «excesivamente extensos y verbosos» con lenguaje «jurídico» desvinculado de principios establecidos, y un tono cada vez más agresivo que atribuye en parte a la IA. La profesora Amy Salyzyn (Universidad de Ottawa) dice que oye lo mismo a jueces y miembros de tribunales administrativos de todo Canadá, y el abogado Alex Mok advierte del coste en recursos judiciales, aunque recuerda que los retrasos tienen más causas que la IA. Canadian Lawyer recuerda que en el 65% de los casos de familia activos en 2024 y 2025 al menos una parte declaró estar sin representación en algún momento (Statistics Canada).",
+      "sota:summaryP2": "Para un litigator, el valor de la decisión no está en una sanción, que no hay, sino en la señal de gestión: los jueces avisan de que no explicarán uno por uno por qué un argumento generado por IA carece de base y de que centrarán su atención en lo jurídicamente relevante. Quien litigue frente a una parte sin abogado debería esperar escritos largos y combativos, y plantear pronto peticiones de case management (gestión procesal) o de limitación de extensión; quien represente al litigante autorrepresentado, ser conciso y verificar cada cita. Es una observación judicial de un tribunal provincial, reportada por prensa especializada: conviene leer el texto de la resolución antes de citarla, y no es doctrina vinculante fuera de la Columbia Británica.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.canadianlawyermag.com/news/general/courts-cannot-provide-an-unlimited-audience-to-irrelevant-ai-filings-bcca-justice-warns-litigants/394779",
+          "schema:name": "Courts 'cannot provide an unlimited audience' to AI filings, BCCA justice warns litigants",
+          "sota:sourceId": "src-canadian-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bc-court-of-appeal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-sevilla-condena-ia-imagenes-desnudas",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-sevilla-condena-ia-imagenes-desnudas",
+      "schema:headline": "Sevilla dicta su primera condena por usar una app de IA para crear desnudos falsos de tres jóvenes: nueve meses de prisión suspendidos y veto a cuatro plataformas",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El magistrado de la plaza número 15 de la Sección de lo Penal del Tribunal de Instancia de Sevilla dictó el 1 de octubre de 2026 la primera sentencia condenatoria en Sevilla por el uso de una aplicación de IA para manipular imágenes de varias jóvenes y simular sus cuerpos desnudos, según El Derecho (9 de octubre). La sentencia llega tras un acuerdo de conformidad ese mismo día entre la Fiscalía de Criminalidad Informática, la acusación particular y las defensas, y ya es firme. Condena a tres varones por tres delitos contra la integridad moral con la agravante de género (artículo 22.4 del Código Penal), la atenuante cualificada de reparación del daño y la atenuante analógica de confesión; a cada uno le impone nueve meses de prisión y la prohibición de acceder a Telegram, WhatsApp, Instagram y Discord por un total de tres años y nueve meses. Los hechos: tomaron imágenes de perfiles abiertos de Instagram de tres excompañeras de colegio, las manipularon con una app de IA de Telegram y las compartieron en grupos de WhatsApp y Discord, con un menor de edad implicado. El juez suspende la pena dos años, con condiciones: no delinquir, mantener la prohibición de las cuatro aplicaciones y completar un programa formativo en educación sexual.",
+      "schema:articleBody": "El magistrado de la plaza número 15 de la Sección de lo Penal del Tribunal de Instancia de Sevilla dictó el 1 de octubre de 2026 la primera sentencia condenatoria en Sevilla por el uso de una aplicación de IA para manipular imágenes de varias jóvenes y simular sus cuerpos desnudos, según El Derecho (9 de octubre). La sentencia llega tras un acuerdo de conformidad ese mismo día entre la Fiscalía de Criminalidad Informática, la acusación particular y las defensas, y ya es firme. Condena a tres varones por tres delitos contra la integridad moral con la agravante de género (artículo 22.4 del Código Penal), la atenuante cualificada de reparación del daño y la atenuante analógica de confesión; a cada uno le impone nueve meses de prisión y la prohibición de acceder a Telegram, WhatsApp, Instagram y Discord por un total de tres años y nueve meses. Los hechos: tomaron imágenes de perfiles abiertos de Instagram de tres excompañeras de colegio, las manipularon con una app de IA de Telegram y las compartieron en grupos de WhatsApp y Discord, con un menor de edad implicado. El juez suspende la pena dos años, con condiciones: no delinquir, mantener la prohibición de las cuatro aplicaciones y completar un programa formativo en educación sexual.\n\nHay que leerla por lo que es: una sentencia de conformidad, sin debate contradictorio sobre cómo encajar el deepfake en los tipos penales, así que su valor doctrinal es limitado; el interés está en la respuesta práctica. Un juez penal español trata la creación y difusión de imágenes sintéticas de personas reales como un ataque a la integridad moral con perspectiva de género, y combina la suspensión con restricciones de acceso a plataformas concretas y formación. Para despachos que asesoran a colegios, plataformas o familias, el caso recuerda la importancia de preservar pruebas digitales (grupos de mensajería, perfiles, archivos) y de la reparación económica temprana, que aquí pesó como atenuante. La fuente es la información publicada por El Derecho a partir de la resolución; no se ha consultado el texto íntegro.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera condena local por deepfakes de desnudos con IA, con medidas accesorias poco habituales de veto a plataformas.",
+      "sota:whyNow": "Sentencia 1 Oct 2026; difusión El Derecho 9 Oct. NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "deepfakes",
+        "derecho-penal",
+        "integridad-moral",
+        "genero",
+        "plataformas"
+      ],
+      "sota:summaryP1": "El magistrado de la plaza número 15 de la Sección de lo Penal del Tribunal de Instancia de Sevilla dictó el 1 de octubre de 2026 la primera sentencia condenatoria en Sevilla por el uso de una aplicación de IA para manipular imágenes de varias jóvenes y simular sus cuerpos desnudos, según El Derecho (9 de octubre). La sentencia llega tras un acuerdo de conformidad ese mismo día entre la Fiscalía de Criminalidad Informática, la acusación particular y las defensas, y ya es firme. Condena a tres varones por tres delitos contra la integridad moral con la agravante de género (artículo 22.4 del Código Penal), la atenuante cualificada de reparación del daño y la atenuante analógica de confesión; a cada uno le impone nueve meses de prisión y la prohibición de acceder a Telegram, WhatsApp, Instagram y Discord por un total de tres años y nueve meses. Los hechos: tomaron imágenes de perfiles abiertos de Instagram de tres excompañeras de colegio, las manipularon con una app de IA de Telegram y las compartieron en grupos de WhatsApp y Discord, con un menor de edad implicado. El juez suspende la pena dos años, con condiciones: no delinquir, mantener la prohibición de las cuatro aplicaciones y completar un programa formativo en educación sexual.",
+      "sota:summaryP2": "Hay que leerla por lo que es: una sentencia de conformidad, sin debate contradictorio sobre cómo encajar el deepfake en los tipos penales, así que su valor doctrinal es limitado; el interés está en la respuesta práctica. Un juez penal español trata la creación y difusión de imágenes sintéticas de personas reales como un ataque a la integridad moral con perspectiva de género, y combina la suspensión con restricciones de acceso a plataformas concretas y formación. Para despachos que asesoran a colegios, plataformas o familias, el caso recuerda la importancia de preservar pruebas digitales (grupos de mensajería, perfiles, archivos) y de la reparación económica temprana, que aquí pesó como atenuante. La fuente es la información publicada por El Derecho a partir de la resolución; no se ha consultado el texto íntegro.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://elderecho.com/primera-sentencia-condenatoria-en-sevilla-por-el-uso-de-ia-para-manipular-imagenes-de-varias-jovenes-y-simular-que-estaban-desnudas",
+          "schema:name": "Primera sentencia condenatoria en Sevilla por el uso de IA para manipular imágenes de varias jóvenes y simular que estaban desnudas",
+          "sota:sourceId": "src-el-derecho-lefebvre"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-instancia-sevilla"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-derecho"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-legaltoday-ia-rrhh-articulo-64-4-d",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-legaltoday-ia-rrhh-articulo-64-4-d",
+      "schema:headline": "Un despacho laboralista explica qué puede y qué no puede hacer una empresa con IA en RR. HH.: transparencia, revisión humana y el artículo 64.4.d) del Estatuto de los Trabajadores",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Cuatro abogados de Ortega Condomines publican en LegalToday (9 de octubre de 2026) una guía práctica sobre IA en la gestión de personas. Su tesis es que adoptar estas herramientas es una decisión empresarial, no una simple compra de software: la IA ya interviene en selección, asignación de turnos, medición de productividad, detección de riesgo de rotación e informes de desempeño, y el riesgo jurídico aparece cuando sus resultados dejan de ser orientativos y condicionan decisiones reales. Sitúan el marco en varias capas: el Reglamento (UE) 2024/1689 de IA, el RGPD, la Ley 15/2022 de igualdad de trato y no discriminación y el Estatuto de los Trabajadores, con especial peso para el artículo 64.4.d), que da a la representación legal de la plantilla derecho a ser informada de los parámetros, reglas e instrucciones de los algoritmos o sistemas de IA que afecten a las condiciones de trabajo, al acceso o mantenimiento del empleo o a la elaboración de perfiles. Precisan que esa obligación no exige entregar el código fuente ni revelar secretos empresariales, pero sí una explicación comprensible de finalidad, variables principales, colectivos afectados y controles humanos.",
+      "schema:articleBody": "Cuatro abogados de Ortega Condomines publican en LegalToday (9 de octubre de 2026) una guía práctica sobre IA en la gestión de personas. Su tesis es que adoptar estas herramientas es una decisión empresarial, no una simple compra de software: la IA ya interviene en selección, asignación de turnos, medición de productividad, detección de riesgo de rotación e informes de desempeño, y el riesgo jurídico aparece cuando sus resultados dejan de ser orientativos y condicionan decisiones reales. Sitúan el marco en varias capas: el Reglamento (UE) 2024/1689 de IA, el RGPD, la Ley 15/2022 de igualdad de trato y no discriminación y el Estatuto de los Trabajadores, con especial peso para el artículo 64.4.d), que da a la representación legal de la plantilla derecho a ser informada de los parámetros, reglas e instrucciones de los algoritmos o sistemas de IA que afecten a las condiciones de trabajo, al acceso o mantenimiento del empleo o a la elaboración de perfiles. Precisan que esa obligación no exige entregar el código fuente ni revelar secretos empresariales, pero sí una explicación comprensible de finalidad, variables principales, colectivos afectados y controles humanos.\n\nLo más aprovechable es la lista de cinco controles antes de implantar: definir finalidad y base jurídica, comprobar que no hay variables prohibidas ni proxies (indicadores indirectos) que generen sesgo, asegurar una revisión humana cualificada y documentada, informar de forma comprensible cumpliendo el 64.4.d) cuando proceda y conservar evidencias de validaciones e incidencias, con una ficha de uso por sistema. Para un in-house o un laboralista, la pregunta de control es sencilla y útil: ¿podría la empresa explicar la decisión, en términos claros, ante la persona afectada, la representación legal, la Inspección de Trabajo o un juzgado? Es un artículo de opinión práctica firmado por un despacho, no una guía de la AEPD ni de la Inspección de Trabajo, y no analiza jurisprudencia: sirve como checklist, no como criterio de la autoridad.",
+      "sota:type": "opinion",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Checklist laboral aterrizado sobre IA en RR. HH. que enlaza AI Act, RGPD y deber de información a la representación de los trabajadores.",
+      "sota:whyNow": "Publicación 9 Oct 2026 (LegalToday). NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "laboral",
+        "rrhh",
+        "ai-act",
+        "transparencia-algoritmica",
+        "estatuto-trabajadores"
+      ],
+      "sota:summaryP1": "Cuatro abogados de Ortega Condomines publican en LegalToday (9 de octubre de 2026) una guía práctica sobre IA en la gestión de personas. Su tesis es que adoptar estas herramientas es una decisión empresarial, no una simple compra de software: la IA ya interviene en selección, asignación de turnos, medición de productividad, detección de riesgo de rotación e informes de desempeño, y el riesgo jurídico aparece cuando sus resultados dejan de ser orientativos y condicionan decisiones reales. Sitúan el marco en varias capas: el Reglamento (UE) 2024/1689 de IA, el RGPD, la Ley 15/2022 de igualdad de trato y no discriminación y el Estatuto de los Trabajadores, con especial peso para el artículo 64.4.d), que da a la representación legal de la plantilla derecho a ser informada de los parámetros, reglas e instrucciones de los algoritmos o sistemas de IA que afecten a las condiciones de trabajo, al acceso o mantenimiento del empleo o a la elaboración de perfiles. Precisan que esa obligación no exige entregar el código fuente ni revelar secretos empresariales, pero sí una explicación comprensible de finalidad, variables principales, colectivos afectados y controles humanos.",
+      "sota:summaryP2": "Lo más aprovechable es la lista de cinco controles antes de implantar: definir finalidad y base jurídica, comprobar que no hay variables prohibidas ni proxies (indicadores indirectos) que generen sesgo, asegurar una revisión humana cualificada y documentada, informar de forma comprensible cumpliendo el 64.4.d) cuando proceda y conservar evidencias de validaciones e incidencias, con una ficha de uso por sistema. Para un in-house o un laboralista, la pregunta de control es sencilla y útil: ¿podría la empresa explicar la decisión, en términos claros, ante la persona afectada, la representación legal, la Inspección de Trabajo o un juzgado? Es un artículo de opinión práctica firmado por un despacho, no una guía de la AEPD ni de la Inspección de Trabajo, y no analiza jurisprudencia: sirve como checklist, no como criterio de la autoridad.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legaltoday.com/destacado/legaltech-destacado/ia-y-recursos-humanos-que-puede-y-que-no-puede-hacer-la-empresa-2026-10-09/",
+          "schema:name": "IA y recursos humanos: qué puede y qué no puede hacer la empresa",
+          "sota:sourceId": "src-legaltoday"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ortega-condomines"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltoday"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai-act"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-spirit-google-datos-entrenamiento-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-spirit-google-datos-entrenamiento-ia",
+      "schema:headline": "121 legisladores presionan a Google y a Spirit Airlines antes de la vista del 14 de octubre sobre la venta por 10 millones de dólares de datos corporativos para entrenar IA",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Spirit Airlines propone vender a Google por 10 millones de dólares datos corporativos para entrenar IA, y el calendario del tribunal de quiebras apunta a una vista el 14 de octubre de 2026, según ComplexDiscovery (9 de octubre). El calendario de activos que Spirit presentó en agosto en el tribunal de quiebras del Distrito Sur de Nueva York incluye unos 100 millones de correos, 80.000 cuentas de email y 500 millones de elementos de Microsoft Teams, junto con registros de nóminas y de empleados. Una carta fechada el 8 de octubre y firmada por 121 legisladores (13 de ellos senadores), con Steven Horsford y Elizabeth Warren a la cabeza, pide seis salvaguardas antes de transferir datos de trabajadores, entre ellas una revisión independiente de confidencialidad con límites exigibles; The Record contó 114 firmas y ni la carta ni los comunicados explican la diferencia. Google dice que no busca comprar información personal y que los datos se excluirán o serán desidentificados por un tercero independiente. La consumer privacy ombudsman (defensora de la privacidad del consumidor), Lucy Thomson, recomendó el 5 de octubre aprobar la venta de los datos desidentificados, aunque aclara que no investigó los riesgos para los empleados; el desidentificador designado es Tonic.ai.",
+      "schema:articleBody": "Spirit Airlines propone vender a Google por 10 millones de dólares datos corporativos para entrenar IA, y el calendario del tribunal de quiebras apunta a una vista el 14 de octubre de 2026, según ComplexDiscovery (9 de octubre). El calendario de activos que Spirit presentó en agosto en el tribunal de quiebras del Distrito Sur de Nueva York incluye unos 100 millones de correos, 80.000 cuentas de email y 500 millones de elementos de Microsoft Teams, junto con registros de nóminas y de empleados. Una carta fechada el 8 de octubre y firmada por 121 legisladores (13 de ellos senadores), con Steven Horsford y Elizabeth Warren a la cabeza, pide seis salvaguardas antes de transferir datos de trabajadores, entre ellas una revisión independiente de confidencialidad con límites exigibles; The Record contó 114 firmas y ni la carta ni los comunicados explican la diferencia. Google dice que no busca comprar información personal y que los datos se excluirán o serán desidentificados por un tercero independiente. La consumer privacy ombudsman (defensora de la privacidad del consumidor), Lucy Thomson, recomendó el 5 de octubre aprobar la venta de los datos desidentificados, aunque aclara que no investigó los riesgos para los empleados; el desidentificador designado es Tonic.ai.\n\nPara abogados de datos y eDiscovery, el caso es un manual de lo que falla al transformar un archivo corporativo en dataset: las exclusiones por sistema y no por contenido (un debate médico dentro de un email no saca el correo del alcance), los términos de búsqueda sin divulgar, el privilege clawback (reclamación de documentos privilegiados) contractual y terceros que advierten de que su material confidencial puede estar en el corpus. El sindicato de auxiliares de vuelo resume la brecha: la desidentificación responde a si un registro puede vincularse a una persona, no a si su contenido es confidencial. La normativa concursal de privacidad se diseñó para datos de consumidores, no de empleados. Matices: ComplexDiscovery es un medio editorial que se apoya en escritos judiciales, documentos sindicales y The Record; el inventario de la carta refleja la propuesta de agosto y escritos posteriores son más acotados (Google aceptó el 9 de septiembre excluir varias bases), y el resultado de la vista del 14 de octubre sigue pendiente.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Disputa concursal real sobre la venta de datos corporativos para entrenar IA, con ángulos de eDiscovery, privilegio y desidentificación.",
+      "sota:whyNow": "Carta del 8 Oct, cobertura 9 Oct 2026; vista el 14 Oct. NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "datos-entrenamiento",
+        "concurso",
+        "ediscovery",
+        "desidentificacion",
+        "privacidad"
+      ],
+      "sota:summaryP1": "Spirit Airlines propone vender a Google por 10 millones de dólares datos corporativos para entrenar IA, y el calendario del tribunal de quiebras apunta a una vista el 14 de octubre de 2026, según ComplexDiscovery (9 de octubre). El calendario de activos que Spirit presentó en agosto en el tribunal de quiebras del Distrito Sur de Nueva York incluye unos 100 millones de correos, 80.000 cuentas de email y 500 millones de elementos de Microsoft Teams, junto con registros de nóminas y de empleados. Una carta fechada el 8 de octubre y firmada por 121 legisladores (13 de ellos senadores), con Steven Horsford y Elizabeth Warren a la cabeza, pide seis salvaguardas antes de transferir datos de trabajadores, entre ellas una revisión independiente de confidencialidad con límites exigibles; The Record contó 114 firmas y ni la carta ni los comunicados explican la diferencia. Google dice que no busca comprar información personal y que los datos se excluirán o serán desidentificados por un tercero independiente. La consumer privacy ombudsman (defensora de la privacidad del consumidor), Lucy Thomson, recomendó el 5 de octubre aprobar la venta de los datos desidentificados, aunque aclara que no investigó los riesgos para los empleados; el desidentificador designado es Tonic.ai.",
+      "sota:summaryP2": "Para abogados de datos y eDiscovery, el caso es un manual de lo que falla al transformar un archivo corporativo en dataset: las exclusiones por sistema y no por contenido (un debate médico dentro de un email no saca el correo del alcance), los términos de búsqueda sin divulgar, el privilege clawback (reclamación de documentos privilegiados) contractual y terceros que advierten de que su material confidencial puede estar en el corpus. El sindicato de auxiliares de vuelo resume la brecha: la desidentificación responde a si un registro puede vincularse a una persona, no a si su contenido es confidencial. La normativa concursal de privacidad se diseñó para datos de consumidores, no de empleados. Matices: ComplexDiscovery es un medio editorial que se apoya en escritos judiciales, documentos sindicales y The Record; el inventario de la carta refleja la propuesta de agosto y escritos posteriores son más acotados (Google aceptó el 9 de septiembre excluir varias bases), y el resultado de la vista del 14 de octubre sigue pendiente.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://complexdiscovery.com/lawmakers-press-google-and-spirit-on-employee-data-before-a-hearing-on-a-10-million-ai-training-data-sale/",
+          "schema:name": "Lawmakers press Google and Spirit on employee data before a hearing on a $10 million AI training data sale",
+          "sota:sourceId": "src-complexdiscovery"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spirit-airlines"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tonic-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-comision-panel-cientifico-ia-frontera",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-comision-panel-cientifico-ia-frontera",
+      "schema:headline": "La Comisión Europea reúne a su panel científico sobre IA para tratar los incidentes de pérdida de control y presentar recomendaciones sobre riesgos de la IA de frontera",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Comisión Europea celebró el 9 de octubre de 2026 una reunión especial de su Scientific Panel on artificial intelligence, el grupo de 60 expertos independientes que asesora a la Oficina de IA y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia de mercado transfronteriza. Según el comunicado, el panel ha estado investigando \"recent loss-of-control incidents\" (recientes incidentes de pérdida de control) y, junto con la Oficina de IA, ha preparado un conjunto de preguntas dirigidas a las empresas que desarrollaron los modelos implicados. En la reunión estaba la vicepresidenta ejecutiva Henna Virkkunen, y el panel iba a presentar a la Comisión recomendaciones sobre riesgos de seguridad de la IA de frontera. Virkkunen afirma que la UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA y que, con un marco legal sólido, aplicación decidida y buen asesoramiento científico, Europa puede liderar la IA segura.",
+      "schema:articleBody": "La Comisión Europea celebró el 9 de octubre de 2026 una reunión especial de su Scientific Panel on artificial intelligence, el grupo de 60 expertos independientes que asesora a la Oficina de IA y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia de mercado transfronteriza. Según el comunicado, el panel ha estado investigando \"recent loss-of-control incidents\" (recientes incidentes de pérdida de control) y, junto con la Oficina de IA, ha preparado un conjunto de preguntas dirigidas a las empresas que desarrollaron los modelos implicados. En la reunión estaba la vicepresidenta ejecutiva Henna Virkkunen, y el panel iba a presentar a la Comisión recomendaciones sobre riesgos de seguridad de la IA de frontera. Virkkunen afirma que la UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA y que, con un marco legal sólido, aplicación decidida y buen asesoramiento científico, Europa puede liderar la IA segura.\n\nEs una noticia de enforcement (aplicación) más que de texto normativo: la Comisión muestra que usa a su panel científico y a la Oficina de IA para pedir explicaciones a los desarrolladores de modelos de uso general con riesgo sistémico en el contexto del Reglamento (UE) 2024/1689. Para quien asesora a proveedores, integradores o grandes usuarios, la lectura práctica es preparar la documentación de evaluación de riesgos, de gestión de incidentes y de notificación, porque el siguiente paso previsible son requerimientos de información. El comunicado es breve: no identifica los incidentes ni las empresas, no publica las preguntas ni las recomendaciones, y no anuncia consecuencias jurídicas, así que cualquier conclusión sobre sanciones sería prematura.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Señal institucional de supervisión activa del riesgo sistémico de la IA de frontera bajo el AI Act, con preguntas a desarrolladores.",
+      "sota:whyNow": "Reunión 9 Oct 2026 (Comisión Europea). NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "EU"
+      ],
+      "sota:topics": [
+        "ai-act",
+        "riesgo-sistemico",
+        "frontera",
+        "oficina-ia",
+        "supervision"
+      ],
+      "sota:summaryP1": "La Comisión Europea celebró el 9 de octubre de 2026 una reunión especial de su Scientific Panel on artificial intelligence, el grupo de 60 expertos independientes que asesora a la Oficina de IA y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia de mercado transfronteriza. Según el comunicado, el panel ha estado investigando \"recent loss-of-control incidents\" (recientes incidentes de pérdida de control) y, junto con la Oficina de IA, ha preparado un conjunto de preguntas dirigidas a las empresas que desarrollaron los modelos implicados. En la reunión estaba la vicepresidenta ejecutiva Henna Virkkunen, y el panel iba a presentar a la Comisión recomendaciones sobre riesgos de seguridad de la IA de frontera. Virkkunen afirma que la UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA y que, con un marco legal sólido, aplicación decidida y buen asesoramiento científico, Europa puede liderar la IA segura.",
+      "sota:summaryP2": "Es una noticia de enforcement (aplicación) más que de texto normativo: la Comisión muestra que usa a su panel científico y a la Oficina de IA para pedir explicaciones a los desarrolladores de modelos de uso general con riesgo sistémico en el contexto del Reglamento (UE) 2024/1689. Para quien asesora a proveedores, integradores o grandes usuarios, la lectura práctica es preparar la documentación de evaluación de riesgos, de gestión de incidentes y de notificación, porque el siguiente paso previsible son requerimientos de información. El comunicado es breve: no identifica los incidentes ni las empresas, no publica las preguntas ni las recomendaciones, y no anuncia consecuencias jurídicas, así que cualquier conclusión sobre sanciones sería prematura.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+          "schema:name": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+          "sota:sourceId": "src-comision-europea-ai-act-digital-strategy"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-comision-europea"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eu-ai-scientific-panel"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai-act"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-10-prelia-state-of-ai-2026-gobernanza",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-10-prelia-state-of-ai-2026-gobernanza",
+      "schema:headline": "El informe State of AI 2026 de Prelia: el 76% de las empresas canadienses encuestadas ya usa IA, pero solo el 33% tiene una política escrita",
+      "schema:datePublished": "2026-10-08",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Prelia, despacho canadiense de derecho de empresa, publicó su informe State of AI 2026, basado en respuestas de 121 organizaciones entre startups, empresas en crecimiento y medianas, según LegalTech.ca (8 de octubre de 2026). El 76% declara uso aprobado o pilotos de IA; el 30% estima que ahorra al menos cuatro horas semanales por empleado que la usa y el 68%, al menos una. La brecha está en la gobernanza: solo el 33% tiene una política escrita sobre IA (un 9% entre las de menos de 50 empleados frente a un 60% en las de 50 o más), el 36% tiene reglas sobre información confidencial, el 25% sobre datos personales y el 14% cuenta con formación. El 41% dice que sus empleados comparten con herramientas de IA información confidencial o sensible, y de ellos el 46% no tiene reglas claras. Entre las organizaciones con suscripciones empresariales, el 45% reconoce también uso de herramientas gratuitas o suscripciones personales, y solo el 23% mira si el proveedor usa sus datos para entrenar o mejorar sus modelos.",
+      "schema:articleBody": "Prelia, despacho canadiense de derecho de empresa, publicó su informe State of AI 2026, basado en respuestas de 121 organizaciones entre startups, empresas en crecimiento y medianas, según LegalTech.ca (8 de octubre de 2026). El 76% declara uso aprobado o pilotos de IA; el 30% estima que ahorra al menos cuatro horas semanales por empleado que la usa y el 68%, al menos una. La brecha está en la gobernanza: solo el 33% tiene una política escrita sobre IA (un 9% entre las de menos de 50 empleados frente a un 60% en las de 50 o más), el 36% tiene reglas sobre información confidencial, el 25% sobre datos personales y el 14% cuenta con formación. El 41% dice que sus empleados comparten con herramientas de IA información confidencial o sensible, y de ellos el 46% no tiene reglas claras. Entre las organizaciones con suscripciones empresariales, el 45% reconoce también uso de herramientas gratuitas o suscripciones personales, y solo el 23% mira si el proveedor usa sus datos para entrenar o mejorar sus modelos.\n\nPara un abogado de empresa o un asesor de compliance, es un mapa de trabajo para clientes: políticas de uso aceptable, reglas sobre qué se puede pegar en qué herramienta, formación y cláusulas de data training (uso de datos para entrenar) y de confidencialidad en el contrato con el proveedor, además de la shadow AI (uso de IA fuera de los canales aprobados), que persiste incluso cuando hay licencias corporativas. Más de la mitad de los encuestados pone política, formación o ambas entre sus tres prioridades del próximo año. Matices importantes: es una encuesta voluntaria, realizada en agosto y septiembre a través de la red de clientes y contactos de un despacho, con 121 respuestas y datos autodeclarados; los ahorros de tiempo son estimaciones de los propios encuestados y el informe también sirve a Prelia como herramienta comercial, así que no es una muestra representativa de Canadá.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos concretos sobre la brecha entre adopción de IA y políticas de gobernanza en empresas, útil para asesorar a clientes.",
+      "sota:whyNow": "Publicación 8 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-09.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "gobernanza-ia",
+        "politicas",
+        "shadow-ai",
+        "encuesta",
+        "confidencialidad"
+      ],
+      "sota:summaryP1": "Prelia, despacho canadiense de derecho de empresa, publicó su informe State of AI 2026, basado en respuestas de 121 organizaciones entre startups, empresas en crecimiento y medianas, según LegalTech.ca (8 de octubre de 2026). El 76% declara uso aprobado o pilotos de IA; el 30% estima que ahorra al menos cuatro horas semanales por empleado que la usa y el 68%, al menos una. La brecha está en la gobernanza: solo el 33% tiene una política escrita sobre IA (un 9% entre las de menos de 50 empleados frente a un 60% en las de 50 o más), el 36% tiene reglas sobre información confidencial, el 25% sobre datos personales y el 14% cuenta con formación. El 41% dice que sus empleados comparten con herramientas de IA información confidencial o sensible, y de ellos el 46% no tiene reglas claras. Entre las organizaciones con suscripciones empresariales, el 45% reconoce también uso de herramientas gratuitas o suscripciones personales, y solo el 23% mira si el proveedor usa sus datos para entrenar o mejorar sus modelos.",
+      "sota:summaryP2": "Para un abogado de empresa o un asesor de compliance, es un mapa de trabajo para clientes: políticas de uso aceptable, reglas sobre qué se puede pegar en qué herramienta, formación y cláusulas de data training (uso de datos para entrenar) y de confidencialidad en el contrato con el proveedor, además de la shadow AI (uso de IA fuera de los canales aprobados), que persiste incluso cuando hay licencias corporativas. Más de la mitad de los encuestados pone política, formación o ambas entre sus tres prioridades del próximo año. Matices importantes: es una encuesta voluntaria, realizada en agosto y septiembre a través de la red de clientes y contactos de un despacho, con 121 respuestas y datos autodeclarados; los ahorros de tiempo son estimaciones de los propios encuestados y el informe también sirve a Prelia como herramienta comercial, así que no es una muestra representativa de Canadá.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/08/prelia-survey-finds-ai-use-surging-while-business-guardrails-lag/",
+          "schema:name": "Prelia Survey Finds AI Use Surging While Business Guardrails Lag",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-prelia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-ca"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai-act",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ai-act",
+      "schema:name": "EU AI Act (Reglamento de IA)",
+      "sota:entityType": "other",
+      "schema:url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-arentfox-schiff",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-arentfox-schiff",
+      "schema:name": "ArentFox Schiff",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.afslaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bc-court-of-appeal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bc-court-of-appeal",
+      "schema:name": "British Columbia Court of Appeal",
+      "sota:entityType": "court",
+      "schema:url": "https://www.bccourts.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-canadian-lawyer",
+      "schema:name": "Canadian Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.canadianlawyermag.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-comision-europea",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-comision-europea",
+      "schema:name": "Comisión Europea",
+      "sota:entityType": "government",
+      "schema:url": "https://commission.europa.eu/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-complexdiscovery",
+      "schema:name": "ComplexDiscovery",
+      "sota:entityType": "media",
+      "schema:url": "https://complexdiscovery.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-confilegal",
+      "schema:name": "Confilegal",
+      "sota:entityType": "media",
+      "schema:url": "https://confilegal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-derecho",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-el-derecho",
+      "schema:name": "El Derecho (Lefebvre)",
+      "sota:entityType": "media",
+      "schema:url": "https://elderecho.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eu-ai-scientific-panel",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-eu-ai-scientific-panel",
+      "schema:name": "Scientific Panel on AI (Comisión Europea)",
+      "sota:entityType": "regulator",
+      "schema:url": "https://digital-strategy.ec.europa.eu/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-google",
+      "schema:name": "Google",
+      "sota:entityType": "company",
+      "schema:url": "https://www.google.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ironclad",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ironclad",
+      "schema:name": "Ironclad",
+      "sota:entityType": "vendor",
+      "schema:url": "https://ironcladapp.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jove-advocacia-catalunya",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-jove-advocacia-catalunya",
+      "schema:name": "Jove Advocacia de Catalunya (JAC)",
+      "sota:entityType": "association",
+      "schema:url": "https://www.jac.cat/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-com",
+      "schema:name": "Law.com (Legaltech News)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.law.com/legaltechnews/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-ca",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legaltech-ca",
+      "schema:name": "LegalTech.ca",
+      "sota:entityType": "media",
+      "schema:url": "https://legaltech.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltoday",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legaltoday",
+      "schema:name": "LegalToday",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legaltoday.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lexisnexis",
+      "schema:name": "LexisNexis",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lexisnexis.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexroom",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lexroom",
+      "schema:name": "Lexroom",
+      "sota:entityType": "vendor",
+      "schema:url": "https://lexroom.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-openai",
+      "schema:name": "OpenAI",
+      "sota:entityType": "company",
+      "schema:url": "https://openai.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ortega-condomines",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ortega-condomines",
+      "schema:name": "Ortega Condomines",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.ortegacondomines.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-prelia",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-prelia",
+      "schema:name": "Prelia",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://prelia.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spirit-airlines",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-spirit-airlines",
+      "schema:name": "Spirit Airlines",
+      "sota:entityType": "company",
+      "schema:url": "https://www.spirit.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tonic-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tonic-ai",
+      "schema:name": "Tonic.ai",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.tonic.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-instancia-sevilla",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tribunal-instancia-sevilla",
+      "schema:name": "Tribunal de Instancia de Sevilla",
+      "sota:entityType": "court",
+      "schema:url": "https://www.poderjudicial.es/",
+      "sota:stub": true
+    }
+  ]
+}

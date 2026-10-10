@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-10-lexroom-jac-ia-juridica-catalan",
+  "date": "2026-10-08",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Lexroom y la Jove Advocacia de Catalunya llevan IA jurídica en catalán a unos 7.000 jóvenes abogados",
+  "summary_p1": "Lexroom, legaltech europea especializada en IA para el sector jurídico, y la Jove Advocacia de Catalunya (JAC) han firmado una alianza para acercar la herramienta a los aproximadamente 7.000 abogados y abogadas jóvenes que la organización representa a través de los Grupos de Abogados Jóvenes de los colegios de la abogacía de Cataluña, según Confilegal (8 de octubre de 2026). La particularidad es lingüística y jurídica: la plataforma funciona también en catalán y permite trabajar con fuentes y normativa del ordenamiento catalán, un punto relevante en ámbitos como el derecho civil catalán. Las tareas previstas son las habituales de la IA jurídica, como la búsqueda de normativa y jurisprudencia, el análisis de documentación y la preparación de borradores. Raimondo Pili, experto en IA de Lexroom España, defiende una actitud «abierta», pero también «crítica y responsable», y el presidente de la JAC, Jon Rodríguez i Senz, subraya que no todas las herramientas entienden las particularidades de cada ordenamiento. Confilegal reproduce la nota de prensa de la alianza.",
+  "summary_p2": "Para el abogado que ejerce en Cataluña la pregunta no es si hay IA en catalán, sino con qué cobertura real de legislación autonómica, jurisprudencia y doctrina de derecho civil catalán, y con qué trazabilidad de fuentes: ahí se verá si el diferencial es de producto o solo de idioma. La alianza encaja con una tendencia más amplia de vendors que entran en la abogacía joven y en el pequeño despacho a través de colegios y asociaciones, donde la decisión de compra individual pesa más que la corporativa. La nota no detalla condiciones económicas, duración, descuentos, términos de confidencialidad ni cuántos de los 7.000 llegarán a usar la herramienta: acceso no equivale a adopción, y todo lo anterior proviene de un comunicado de las partes.",
+  "why_sota": "Alianza de distribución de una legaltech de IA con una asociación profesional, con foco explícito en lengua y derecho autonómico.",
+  "why_now": "Publicación 8 Oct 2026 (Confilegal, nota de prensa). NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "lexroom",
+    "cataluna",
+    "catalan",
+    "abogacia-joven",
+    "legal-research"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261008-la-ia-juridica-en-catalan-llega-a-7-000-jovenes-abogados-de-cataluna-de-la-mano-de-lexroom-y-jac/",
+      "cited_title": "La IA jurídica en catalán llega a 7.000 jóvenes abogados de Cataluña de la mano de Lexroom y JAC",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-lexroom",
+    "ent-jove-advocacia-catalunya",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

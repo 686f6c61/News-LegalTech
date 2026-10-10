@@ -1,0 +1,9 @@
+id: ent-legaltoday
+name: LegalToday
+type: media
+url: https://www.legaltoday.com/
+geo:
+- ES
+aliases: []
+notes: Medio jurídico español de Aranzadi La Ley. Ficha mínima.
+stub: true

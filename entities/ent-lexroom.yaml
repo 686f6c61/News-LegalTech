@@ -1,0 +1,10 @@
+id: ent-lexroom
+name: Lexroom
+type: vendor
+url: https://lexroom.ai/
+geo:
+- ES
+- EU
+aliases: []
+notes: Legaltech europea de IA jurídica con operación en España. Ficha mínima.
+stub: true

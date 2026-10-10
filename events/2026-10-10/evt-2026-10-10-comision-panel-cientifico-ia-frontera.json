@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-10-comision-panel-cientifico-ia-frontera",
+  "date": "2026-10-09",
+  "type": "regulation",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "La Comisión Europea reúne a su panel científico sobre IA para tratar los incidentes de pérdida de control y presentar recomendaciones sobre riesgos de la IA de frontera",
+  "summary_p1": "La Comisión Europea celebró el 9 de octubre de 2026 una reunión especial de su Scientific Panel on artificial intelligence, el grupo de 60 expertos independientes que asesora a la Oficina de IA y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia de mercado transfronteriza. Según el comunicado, el panel ha estado investigando \"recent loss-of-control incidents\" (recientes incidentes de pérdida de control) y, junto con la Oficina de IA, ha preparado un conjunto de preguntas dirigidas a las empresas que desarrollaron los modelos implicados. En la reunión estaba la vicepresidenta ejecutiva Henna Virkkunen, y el panel iba a presentar a la Comisión recomendaciones sobre riesgos de seguridad de la IA de frontera. Virkkunen afirma que la UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA y que, con un marco legal sólido, aplicación decidida y buen asesoramiento científico, Europa puede liderar la IA segura.",
+  "summary_p2": "Es una noticia de enforcement (aplicación) más que de texto normativo: la Comisión muestra que usa a su panel científico y a la Oficina de IA para pedir explicaciones a los desarrolladores de modelos de uso general con riesgo sistémico en el contexto del Reglamento (UE) 2024/1689. Para quien asesora a proveedores, integradores o grandes usuarios, la lectura práctica es preparar la documentación de evaluación de riesgos, de gestión de incidentes y de notificación, porque el siguiente paso previsible son requerimientos de información. El comunicado es breve: no identifica los incidentes ni las empresas, no publica las preguntas ni las recomendaciones, y no anuncia consecuencias jurídicas, así que cualquier conclusión sobre sanciones sería prematura.",
+  "why_sota": "Señal institucional de supervisión activa del riesgo sistémico de la IA de frontera bajo el AI Act, con preguntas a desarrolladores.",
+  "why_now": "Reunión 9 Oct 2026 (Comisión Europea). NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "EU"
+  ],
+  "topics": [
+    "ai-act",
+    "riesgo-sistemico",
+    "frontera",
+    "oficina-ia",
+    "supervision"
+  ],
+  "sources": [
+    {
+      "source_id": "src-comision-europea-ai-act-digital-strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "cited_title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-comision-europea",
+    "ent-eu-ai-scientific-panel",
+    "ent-ai-act"
+  ],
+  "lang": "es",
+  "status": "published"
+}

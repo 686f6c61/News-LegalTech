@@ -1,0 +1,13 @@
+id: ent-law-com
+name: Law.com (Legaltech News)
+type: media
+url: https://www.law.com/legaltechnews/
+geo:
+- US
+- Global
+aliases:
+- Legaltech News
+- ALM
+notes: Medio estadounidense de LegalTech; parte del contenido está tras registro o
+  muro de pago. Ficha mínima.
+stub: true

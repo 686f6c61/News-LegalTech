@@ -1,0 +1,10 @@
+id: ent-prelia
+name: Prelia
+type: law_firm
+url: https://prelia.ca/
+geo:
+- CA
+aliases: []
+notes: Despacho canadiense de derecho de empresa; autor del informe State of AI 2026.
+  Ficha mínima.
+stub: true

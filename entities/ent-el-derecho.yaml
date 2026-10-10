@@ -1,0 +1,10 @@
+id: ent-el-derecho
+name: El Derecho (Lefebvre)
+type: media
+url: https://elderecho.com/
+geo:
+- ES
+aliases:
+- elderecho.com
+notes: Medio jurídico español de Lefebvre. Ficha mínima.
+stub: true

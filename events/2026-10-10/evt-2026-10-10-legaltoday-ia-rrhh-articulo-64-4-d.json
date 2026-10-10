@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-10-legaltoday-ia-rrhh-articulo-64-4-d",
+  "date": "2026-10-09",
+  "type": "opinion",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "Un despacho laboralista explica qué puede y qué no puede hacer una empresa con IA en RR. HH.: transparencia, revisión humana y el artículo 64.4.d) del Estatuto de los Trabajadores",
+  "summary_p1": "Cuatro abogados de Ortega Condomines publican en LegalToday (9 de octubre de 2026) una guía práctica sobre IA en la gestión de personas. Su tesis es que adoptar estas herramientas es una decisión empresarial, no una simple compra de software: la IA ya interviene en selección, asignación de turnos, medición de productividad, detección de riesgo de rotación e informes de desempeño, y el riesgo jurídico aparece cuando sus resultados dejan de ser orientativos y condicionan decisiones reales. Sitúan el marco en varias capas: el Reglamento (UE) 2024/1689 de IA, el RGPD, la Ley 15/2022 de igualdad de trato y no discriminación y el Estatuto de los Trabajadores, con especial peso para el artículo 64.4.d), que da a la representación legal de la plantilla derecho a ser informada de los parámetros, reglas e instrucciones de los algoritmos o sistemas de IA que afecten a las condiciones de trabajo, al acceso o mantenimiento del empleo o a la elaboración de perfiles. Precisan que esa obligación no exige entregar el código fuente ni revelar secretos empresariales, pero sí una explicación comprensible de finalidad, variables principales, colectivos afectados y controles humanos.",
+  "summary_p2": "Lo más aprovechable es la lista de cinco controles antes de implantar: definir finalidad y base jurídica, comprobar que no hay variables prohibidas ni proxies (indicadores indirectos) que generen sesgo, asegurar una revisión humana cualificada y documentada, informar de forma comprensible cumpliendo el 64.4.d) cuando proceda y conservar evidencias de validaciones e incidencias, con una ficha de uso por sistema. Para un in-house o un laboralista, la pregunta de control es sencilla y útil: ¿podría la empresa explicar la decisión, en términos claros, ante la persona afectada, la representación legal, la Inspección de Trabajo o un juzgado? Es un artículo de opinión práctica firmado por un despacho, no una guía de la AEPD ni de la Inspección de Trabajo, y no analiza jurisprudencia: sirve como checklist, no como criterio de la autoridad.",
+  "why_sota": "Checklist laboral aterrizado sobre IA en RR. HH. que enlaza AI Act, RGPD y deber de información a la representación de los trabajadores.",
+  "why_now": "Publicación 9 Oct 2026 (LegalToday). NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "laboral",
+    "rrhh",
+    "ai-act",
+    "transparencia-algoritmica",
+    "estatuto-trabajadores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltoday",
+      "url": "https://www.legaltoday.com/destacado/legaltech-destacado/ia-y-recursos-humanos-que-puede-y-que-no-puede-hacer-la-empresa-2026-10-09/",
+      "cited_title": "IA y recursos humanos: qué puede y qué no puede hacer la empresa",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-ortega-condomines",
+    "ent-legaltoday",
+    "ent-ai-act"
+  ],
+  "lang": "es",
+  "status": "published"
+}

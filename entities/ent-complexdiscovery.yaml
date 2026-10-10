@@ -1,0 +1,10 @@
+id: ent-complexdiscovery
+name: ComplexDiscovery
+type: media
+url: https://complexdiscovery.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Medio especializado en eDiscovery, privacidad y ciberseguridad. Ficha mínima.
+stub: true

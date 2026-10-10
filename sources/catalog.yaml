@@ -1343,3 +1343,21 @@ sources:
     region: "UK"
     lang: "EN"
     tier: archive
+  - id: src-ironclad
+    name: "Ironclad"
+    url: "https://ironcladapp.com/"
+    type: vendor
+    frequency: "ad-hoc"
+    why: "Plataforma de gestión del ciclo de vida del contrato (CLM) con agentes de IA; notas de prensa y blog de producto. Ficha añadida para citar una URL de ironcladapp.com."
+    region: "US / Global"
+    lang: "EN"
+    tier: archive
+  - id: src-harvey
+    name: "Harvey"
+    url: "https://www.harvey.ai/"
+    type: vendor
+    frequency: "mensual"
+    why: "Blog y resumen mensual de producto de Harvey (The Brief). Ficha añadida para citar una URL de harvey.ai."
+    region: "US / Global"
+    lang: "EN"
+    tier: archive

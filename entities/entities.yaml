@@ -1182,3 +1182,187 @@ entities:
   aliases: []
   notes: Medio jurídico español. Ficha mínima.
   stub: true
+- id: ent-ironclad
+  name: Ironclad
+  type: vendor
+  url: https://ironcladapp.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Plataforma de contract lifecycle management (gestión del ciclo de vida del
+    contrato) con agentes de IA. Ficha mínima.
+  stub: true
+- id: ent-arentfox-schiff
+  name: ArentFox Schiff
+  type: law_firm
+  url: https://www.afslaw.com/
+  geo:
+  - US
+  aliases:
+  - AFS
+  notes: Despacho estadounidense; marco FoxAI y cierre de su chatbot propio AFSChat.
+    Ficha mínima.
+  stub: true
+- id: ent-law-com
+  name: Law.com (Legaltech News)
+  type: media
+  url: https://www.law.com/legaltechnews/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Legaltech News
+  - ALM
+  notes: Medio estadounidense de LegalTech; parte del contenido está tras registro
+    o muro de pago. Ficha mínima.
+  stub: true
+- id: ent-lexroom
+  name: Lexroom
+  type: vendor
+  url: https://lexroom.ai/
+  geo:
+  - ES
+  - EU
+  aliases: []
+  notes: Legaltech europea de IA jurídica con operación en España. Ficha mínima.
+  stub: true
+- id: ent-jove-advocacia-catalunya
+  name: Jove Advocacia de Catalunya (JAC)
+  type: association
+  url: https://www.jac.cat/
+  geo:
+  - ES
+  aliases:
+  - JAC
+  notes: Organización que agrupa a los Grupos de Abogados Jóvenes de los colegios
+    de la abogacía de Cataluña. Ficha mínima.
+  stub: true
+- id: ent-confilegal
+  name: Confilegal
+  type: media
+  url: https://confilegal.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Medio jurídico español. Ficha mínima.
+  stub: true
+- id: ent-bc-court-of-appeal
+  name: British Columbia Court of Appeal
+  type: court
+  url: https://www.bccourts.ca/
+  geo:
+  - CA
+  aliases:
+  - BCCA
+  notes: Tribunal de apelación de la Columbia Británica (Canadá). Ficha mínima.
+  stub: true
+- id: ent-canadian-lawyer
+  name: Canadian Lawyer
+  type: media
+  url: https://www.canadianlawyermag.com/
+  geo:
+  - CA
+  aliases: []
+  notes: Medio jurídico canadiense. Ficha mínima.
+  stub: true
+- id: ent-tribunal-instancia-sevilla
+  name: Tribunal de Instancia de Sevilla
+  type: court
+  url: https://www.poderjudicial.es/
+  geo:
+  - ES
+  aliases: []
+  notes: Órgano que dictó la sentencia sobre imágenes manipuladas con IA (Sección
+    de lo Penal). Ficha mínima.
+  stub: true
+- id: ent-el-derecho
+  name: El Derecho (Lefebvre)
+  type: media
+  url: https://elderecho.com/
+  geo:
+  - ES
+  aliases:
+  - elderecho.com
+  notes: Medio jurídico español de Lefebvre. Ficha mínima.
+  stub: true
+- id: ent-legaltoday
+  name: LegalToday
+  type: media
+  url: https://www.legaltoday.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Medio jurídico español de Aranzadi La Ley. Ficha mínima.
+  stub: true
+- id: ent-ortega-condomines
+  name: Ortega Condomines
+  type: law_firm
+  url: https://www.ortegacondomines.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Despacho laboralista cuyos abogados firman el artículo sobre IA y recursos
+    humanos. Ficha mínima.
+  stub: true
+- id: ent-spirit-airlines
+  name: Spirit Airlines
+  type: company
+  url: https://www.spirit.com/
+  geo:
+  - US
+  aliases:
+  - Spirit
+  notes: Aerolínea en concurso de acreedores; propone vender datos corporativos a
+    Google. Ficha mínima.
+  stub: true
+- id: ent-complexdiscovery
+  name: ComplexDiscovery
+  type: media
+  url: https://complexdiscovery.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Medio especializado en eDiscovery, privacidad y ciberseguridad. Ficha mínima.
+  stub: true
+- id: ent-tonic-ai
+  name: Tonic.ai
+  type: vendor
+  url: https://www.tonic.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Proveedor de de-identification (desidentificación) de datos designado en
+    el procedimiento Spirit. Ficha mínima.
+  stub: true
+- id: ent-eu-ai-scientific-panel
+  name: Scientific Panel on AI (Comisión Europea)
+  type: regulator
+  url: https://digital-strategy.ec.europa.eu/
+  geo:
+  - EU
+  aliases:
+  - Scientific Panel
+  notes: Panel de 60 expertos independientes que asesora a la Oficina de IA y a las
+    autoridades nacionales. Ficha mínima.
+  stub: true
+- id: ent-prelia
+  name: Prelia
+  type: law_firm
+  url: https://prelia.ca/
+  geo:
+  - CA
+  aliases: []
+  notes: Despacho canadiense de derecho de empresa; autor del informe State of AI
+    2026. Ficha mínima.
+  stub: true
+- id: ent-legaltech-ca
+  name: LegalTech.ca
+  type: media
+  url: https://legaltech.ca/
+  geo:
+  - CA
+  aliases: []
+  notes: Medio canadiense de LegalTech. Ficha mínima.
+  stub: true

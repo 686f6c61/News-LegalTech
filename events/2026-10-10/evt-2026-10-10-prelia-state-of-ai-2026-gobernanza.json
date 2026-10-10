@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-10-prelia-state-of-ai-2026-gobernanza",
+  "date": "2026-10-08",
+  "type": "research",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "El informe State of AI 2026 de Prelia: el 76% de las empresas canadienses encuestadas ya usa IA, pero solo el 33% tiene una política escrita",
+  "summary_p1": "Prelia, despacho canadiense de derecho de empresa, publicó su informe State of AI 2026, basado en respuestas de 121 organizaciones entre startups, empresas en crecimiento y medianas, según LegalTech.ca (8 de octubre de 2026). El 76% declara uso aprobado o pilotos de IA; el 30% estima que ahorra al menos cuatro horas semanales por empleado que la usa y el 68%, al menos una. La brecha está en la gobernanza: solo el 33% tiene una política escrita sobre IA (un 9% entre las de menos de 50 empleados frente a un 60% en las de 50 o más), el 36% tiene reglas sobre información confidencial, el 25% sobre datos personales y el 14% cuenta con formación. El 41% dice que sus empleados comparten con herramientas de IA información confidencial o sensible, y de ellos el 46% no tiene reglas claras. Entre las organizaciones con suscripciones empresariales, el 45% reconoce también uso de herramientas gratuitas o suscripciones personales, y solo el 23% mira si el proveedor usa sus datos para entrenar o mejorar sus modelos.",
+  "summary_p2": "Para un abogado de empresa o un asesor de compliance, es un mapa de trabajo para clientes: políticas de uso aceptable, reglas sobre qué se puede pegar en qué herramienta, formación y cláusulas de data training (uso de datos para entrenar) y de confidencialidad en el contrato con el proveedor, además de la shadow AI (uso de IA fuera de los canales aprobados), que persiste incluso cuando hay licencias corporativas. Más de la mitad de los encuestados pone política, formación o ambas entre sus tres prioridades del próximo año. Matices importantes: es una encuesta voluntaria, realizada en agosto y septiembre a través de la red de clientes y contactos de un despacho, con 121 respuestas y datos autodeclarados; los ahorros de tiempo son estimaciones de los propios encuestados y el informe también sirve a Prelia como herramienta comercial, así que no es una muestra representativa de Canadá.",
+  "why_sota": "Datos concretos sobre la brecha entre adopción de IA y políticas de gobernanza en empresas, útil para asesorar a clientes.",
+  "why_now": "Publicación 8 Oct 2026 (LegalTech.ca). NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "gobernanza-ia",
+    "politicas",
+    "shadow-ai",
+    "encuesta",
+    "confidencialidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/08/prelia-survey-finds-ai-use-surging-while-business-guardrails-lag/",
+      "cited_title": "Prelia Survey Finds AI Use Surging While Business Guardrails Lag",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-prelia",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

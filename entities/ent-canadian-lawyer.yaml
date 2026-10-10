@@ -1,0 +1,9 @@
+id: ent-canadian-lawyer
+name: Canadian Lawyer
+type: media
+url: https://www.canadianlawyermag.com/
+geo:
+- CA
+aliases: []
+notes: Medio jurídico canadiense. Ficha mínima.
+stub: true

@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-10-bcca-gerber-ia-audiencia-ilimitada",
+  "date": "2026-10-08",
+  "type": "case_law",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "Una magistrada del Court of Appeal de la Columbia Británica avisa: los tribunales no pueden dar «audiencia ilimitada» a escritos generados con IA",
+  "summary_p1": "La magistrada Susan Griffin, del British Columbia Court of Appeal, advirtió el miércoles 7 de octubre de 2026 en 1182573 B.C. Ltd. v Gerber de que los jueces son «un recurso humano limitado» y «no pueden dar una audiencia ilimitada» (\"cannot provide an unlimited audience\") a litigantes que usan IA para generar alegaciones irrelevantes, según Canadian Lawyer (8 de octubre). El caso civil enfrentaba a una parte sin abogado que dijo haber preparado sus escritos con IA. Griffin no identifica errores concretos en los escritos de ese asunto, pero usa la decisión para describir riesgos sistémicos: materiales alucinados, listas largas de citas irrelevantes, escritos «excesivamente extensos y verbosos» con lenguaje «jurídico» desvinculado de principios establecidos, y un tono cada vez más agresivo que atribuye en parte a la IA. La profesora Amy Salyzyn (Universidad de Ottawa) dice que oye lo mismo a jueces y miembros de tribunales administrativos de todo Canadá, y el abogado Alex Mok advierte del coste en recursos judiciales, aunque recuerda que los retrasos tienen más causas que la IA. Canadian Lawyer recuerda que en el 65% de los casos de familia activos en 2024 y 2025 al menos una parte declaró estar sin representación en algún momento (Statistics Canada).",
+  "summary_p2": "Para un litigator, el valor de la decisión no está en una sanción, que no hay, sino en la señal de gestión: los jueces avisan de que no explicarán uno por uno por qué un argumento generado por IA carece de base y de que centrarán su atención en lo jurídicamente relevante. Quien litigue frente a una parte sin abogado debería esperar escritos largos y combativos, y plantear pronto peticiones de case management (gestión procesal) o de limitación de extensión; quien represente al litigante autorrepresentado, ser conciso y verificar cada cita. Es una observación judicial de un tribunal provincial, reportada por prensa especializada: conviene leer el texto de la resolución antes de citarla, y no es doctrina vinculante fuera de la Columbia Británica.",
+  "why_sota": "Advertencia judicial sobre el impacto sistémico de la IA en el acceso a la justicia y en la carga de los tribunales de apelación.",
+  "why_now": "Decisión del 7 Oct 2026 y cobertura Canadian Lawyer del 8 Oct. NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "alucinaciones",
+    "autorrepresentacion",
+    "acceso-justicia",
+    "tribunales",
+    "canada"
+  ],
+  "sources": [
+    {
+      "source_id": "src-canadian-lawyer",
+      "url": "https://www.canadianlawyermag.com/news/general/courts-cannot-provide-an-unlimited-audience-to-irrelevant-ai-filings-bcca-justice-warns-litigants/394779",
+      "cited_title": "Courts 'cannot provide an unlimited audience' to AI filings, BCCA justice warns litigants",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-bc-court-of-appeal",
+    "ent-canadian-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

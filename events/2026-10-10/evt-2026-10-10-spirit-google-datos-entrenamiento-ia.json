@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-10-spirit-google-datos-entrenamiento-ia",
+  "date": "2026-10-09",
+  "type": "litigation",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "121 legisladores presionan a Google y a Spirit Airlines antes de la vista del 14 de octubre sobre la venta por 10 millones de dólares de datos corporativos para entrenar IA",
+  "summary_p1": "Spirit Airlines propone vender a Google por 10 millones de dólares datos corporativos para entrenar IA, y el calendario del tribunal de quiebras apunta a una vista el 14 de octubre de 2026, según ComplexDiscovery (9 de octubre). El calendario de activos que Spirit presentó en agosto en el tribunal de quiebras del Distrito Sur de Nueva York incluye unos 100 millones de correos, 80.000 cuentas de email y 500 millones de elementos de Microsoft Teams, junto con registros de nóminas y de empleados. Una carta fechada el 8 de octubre y firmada por 121 legisladores (13 de ellos senadores), con Steven Horsford y Elizabeth Warren a la cabeza, pide seis salvaguardas antes de transferir datos de trabajadores, entre ellas una revisión independiente de confidencialidad con límites exigibles; The Record contó 114 firmas y ni la carta ni los comunicados explican la diferencia. Google dice que no busca comprar información personal y que los datos se excluirán o serán desidentificados por un tercero independiente. La consumer privacy ombudsman (defensora de la privacidad del consumidor), Lucy Thomson, recomendó el 5 de octubre aprobar la venta de los datos desidentificados, aunque aclara que no investigó los riesgos para los empleados; el desidentificador designado es Tonic.ai.",
+  "summary_p2": "Para abogados de datos y eDiscovery, el caso es un manual de lo que falla al transformar un archivo corporativo en dataset: las exclusiones por sistema y no por contenido (un debate médico dentro de un email no saca el correo del alcance), los términos de búsqueda sin divulgar, el privilege clawback (reclamación de documentos privilegiados) contractual y terceros que advierten de que su material confidencial puede estar en el corpus. El sindicato de auxiliares de vuelo resume la brecha: la desidentificación responde a si un registro puede vincularse a una persona, no a si su contenido es confidencial. La normativa concursal de privacidad se diseñó para datos de consumidores, no de empleados. Matices: ComplexDiscovery es un medio editorial que se apoya en escritos judiciales, documentos sindicales y The Record; el inventario de la carta refleja la propuesta de agosto y escritos posteriores son más acotados (Google aceptó el 9 de septiembre excluir varias bases), y el resultado de la vista del 14 de octubre sigue pendiente.",
+  "why_sota": "Disputa concursal real sobre la venta de datos corporativos para entrenar IA, con ángulos de eDiscovery, privilegio y desidentificación.",
+  "why_now": "Carta del 8 Oct, cobertura 9 Oct 2026; vista el 14 Oct. NEW vs PASS 09-29→10-09.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "datos-entrenamiento",
+    "concurso",
+    "ediscovery",
+    "desidentificacion",
+    "privacidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/lawmakers-press-google-and-spirit-on-employee-data-before-a-hearing-on-a-10-million-ai-training-data-sale/",
+      "cited_title": "Lawmakers press Google and Spirit on employee data before a hearing on a $10 million AI training data sale",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-spirit-airlines",
+    "ent-google",
+    "ent-tonic-ai",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

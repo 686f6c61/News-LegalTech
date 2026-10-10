@@ -1,0 +1,9 @@
+id: ent-legaltech-ca
+name: LegalTech.ca
+type: media
+url: https://legaltech.ca/
+geo:
+- CA
+aliases: []
+notes: Medio canadiense de LegalTech. Ficha mínima.
+stub: true

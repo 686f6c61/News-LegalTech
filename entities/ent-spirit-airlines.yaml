@@ -1,0 +1,11 @@
+id: ent-spirit-airlines
+name: Spirit Airlines
+type: company
+url: https://www.spirit.com/
+geo:
+- US
+aliases:
+- Spirit
+notes: Aerolínea en concurso de acreedores; propone vender datos corporativos a Google.
+  Ficha mínima.
+stub: true

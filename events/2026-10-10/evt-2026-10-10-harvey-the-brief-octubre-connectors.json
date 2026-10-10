@@ -1,0 +1,40 @@
+{
+  "id": "evt-2026-10-10-harvey-the-brief-octubre-connectors",
+  "date": "2026-10-09",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "Harvey resume sus novedades de octubre: connectors a SharePoint, Gmail, PacerPro e Ironclad, más fuentes de investigación y dos modelos nuevos",
+  "summary_p1": "Harvey publicó el 9 de octubre de 2026 \"The Brief: October 2026\", su resumen mensual de producto. El primer bloque va de encontrar el contenido de un asunto en los sistemas que el equipo ya usa: una biblioteca de connectors (conectores) preverificados con controles de administrador sobre quién puede usar cada uno y qué acciones se ejecutan automáticamente; búsqueda por descripción en SharePoint, OneDrive y Google Drive con citas a los documentos fuente; búsqueda en Gmail (mensajes, hilos y etiquetas) desde un thread; sincronización diaria de un Vault de litigación con un docket federal en PacerPro; e importación de contratos ejecutados desde Ironclad. El segundo bloque trae más fuentes de investigación (el titular habla de más de 130 nuevas), contenido de Octus para finanzas apalancadas y reestructuraciones, filtros de Knowledge Source guardables y el workflow de motion to dismiss con LexisNexis que ya reseñamos ayer. El tercero incluye lectura de las fórmulas y valores de cada celda de Excel con citas a las celdas usadas, un previsualizador a pantalla completa para diligence reviews y dos modelos nuevos, Fable 5.1 de Anthropic y GPT-6 Astra de OpenAI, además de una pestaña de agentes y dictado en la app móvil.",
+  "summary_p2": "La lectura útil para un despacho no es la lista de funciones sino el patrón: la competencia se está desplazando de \"qué modelo tienes\" a \"a qué sistemas llegas y con qué controles\". Un conector a Gmail o a un document management system acerca la herramienta al material más sensible del cliente, así que antes de activarlos conviene revisar ethical walls (barreras de información), permisos por asunto, qué acciones pueden ejecutarse sin aprobación humana y dónde queda el log. Es también un dato de mercado que Harvey importe contratos desde Ironclad, la misma semana en que Ironclad lanza su propio agente. Se trata de un changelog del propio vendor: no incluye benchmarks, precios ni calendario de disponibilidad por cliente, y los nombres de modelo son los que cita la empresa.",
+  "why_sota": "Release notes de una plataforma líder con conectores gobernados, litigation sync y nuevos modelos en producción.",
+  "why_now": "Publicación 9 Oct 2026 (Harvey). NEW vs PASS 09-29→10-09; el workflow de motions to dismiss ya estaba en la pasada de ayer.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "harvey",
+    "connectors",
+    "vault",
+    "gobernanza",
+    "modelos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-harvey",
+      "url": "https://www.harvey.ai/blog/the-brief-october-2026",
+      "cited_title": "Harvey Product Releases: October 2026 (The Brief)",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-ironclad",
+    "ent-anthropic",
+    "ent-openai",
+    "ent-lexisnexis"
+  ],
+  "lang": "es",
+  "status": "published"
+}

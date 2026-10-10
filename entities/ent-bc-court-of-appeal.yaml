@@ -1,0 +1,10 @@
+id: ent-bc-court-of-appeal
+name: British Columbia Court of Appeal
+type: court
+url: https://www.bccourts.ca/
+geo:
+- CA
+aliases:
+- BCCA
+notes: Tribunal de apelación de la Columbia Británica (Canadá). Ficha mínima.
+stub: true

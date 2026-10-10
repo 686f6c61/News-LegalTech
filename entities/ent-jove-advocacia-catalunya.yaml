@@ -1,0 +1,11 @@
+id: ent-jove-advocacia-catalunya
+name: Jove Advocacia de Catalunya (JAC)
+type: association
+url: https://www.jac.cat/
+geo:
+- ES
+aliases:
+- JAC
+notes: Organización que agrupa a los Grupos de Abogados Jóvenes de los colegios de
+  la abogacía de Cataluña. Ficha mínima.
+stub: true
