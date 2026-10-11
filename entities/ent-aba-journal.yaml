@@ -1,0 +1,9 @@
+id: ent-aba-journal
+name: ABA Journal
+type: media
+url: https://www.abajournal.com/
+geo:
+- US
+aliases: []
+notes: Revista de la American Bar Association. Ficha mínima.
+stub: true

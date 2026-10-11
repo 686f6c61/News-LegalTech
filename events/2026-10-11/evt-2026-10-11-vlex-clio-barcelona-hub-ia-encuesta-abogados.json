@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-11-vlex-clio-barcelona-hub-ia-encuesta-abogados",
+  "date": "2026-10-10",
+  "type": "market",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Los fundadores de vLex, ya dentro de Clio, dicen que el 89% de los abogados independientes y de despachos pequeños usa IA, sobre todo ChatGPT, y la mitad con versiones gratuitas",
+  "summary_p1": "El Periódico publicó el 10 de octubre de 2026 una entrevista con Lluís y Àngel Faus, fundadores de vLex, sobre su integración en Clio, que la compró en noviembre de 2025 por 1.000 millones de dólares en la mayor operación de la historia del sector legaltech. Según la información, Clio (unos 2.500 empleados y unos 500 millones de dólares de facturación anual, valorada en 5.000 millones tras su última ronda) anunció el 30 de septiembre en la Bolsa de Barcelona que convertirá su oficina en la ciudad en un hub global de IA; esa oficina pasó de 74 a 100 empleados en menos de un año y prevé llegar a unos 140. En España acaba de lanzar Clio Manage y Clio Work, la suite que une la gestión del despacho con la base jurídica de vLex. Los Faus citan una encuesta de la propia compañía según la cual el 89% de los abogados que ejercen por su cuenta o en pequeños despachos ya usa IA, la mayoría ChatGPT y la mitad en versiones gratuitas.",
+  "summary_p2": "Para un despacho pequeño el dato incómodo es el de las versiones de consumo, donde las conversaciones pueden servir para entrenar los modelos y donde faltan los controles de confidencialidad que exige el secreto profesional. La receta de vLex frente a las hallucinations (alucinaciones) es dar al abogado herramientas para comprobar cómo se llegó a cada respuesta, y los fundadores insisten en que la responsabilidad no se traslada al vendor, igual que en un despacho no se traslada al júnior. También venden la soberanía del dato (\"lo que está en Europa se queda en Europa\") como argumento de compra. Hay que leerlo como lo que es: una entrevista con los directivos de una empresa que vende estos productos, con una encuesta propia cuya metodología no se detalla en el artículo, y cifras de negocio declaradas por la compañía.",
+  "why_sota": "Visión de primera mano del integrador líder de IA jurídica en España sobre adopción real, riesgos de las versiones gratuitas y soberanía del dato.",
+  "why_now": "Entrevista El Periódico 10 Oct 2026. NEW vs PASS 09-29→10-10.",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "clio",
+    "vlex",
+    "adopcion-ia",
+    "confidencialidad",
+    "soberania-datos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-el-periodico",
+      "url": "https://www.elperiodico.com/es/economia/20261010/vlex-dispone-liderar-ia-juridica-134890705",
+      "cited_title": "vLex se dispone a liderar la IA jurídica cuando el 89% de los abogados ya usan alguna herramienta: 'la mayoría ChatGPT'",
+      "accessed": "2026-10-11"
+    }
+  ],
+  "entities": [
+    "ent-vlex",
+    "ent-clio",
+    "ent-el-periodico"
+  ],
+  "lang": "es",
+  "status": "published"
+}

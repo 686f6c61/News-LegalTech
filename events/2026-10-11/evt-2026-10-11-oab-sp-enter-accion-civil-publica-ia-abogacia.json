@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-11-oab-sp-enter-accion-civil-publica-ia-abogacia",
+  "date": "2026-10-07",
+  "type": "litigation",
+  "sota_score": 8.4,
+  "ai_legaltech": true,
+  "title": "La OAB de São Paulo demanda a Enter, la legaltech de IA agéntica valorada en 1.200 millones de dólares: pide supervisión humana verificable y que no venda a quien no es abogado",
+  "summary_p1": "La seccional de São Paulo de la Ordem dos Advogados do Brasil (OAB SP) presentó el 7 de octubre de 2026 una ação civil pública (acción civil colectiva) contra Enter, el nombre comercial de Talisman AI Ltda., ante la 4.ª Vara Cível Federal de São Paulo. Según la OAB, la plataforma lee los autos, define estrategias procesales y redacta contestaciones y otras piezas a gran escala para los departamentos jurídicos de grandes litigantes, sin intervención real de la abogacía. Como medidas cautelares pide preservar las pruebas sobre el funcionamiento del sistema, suspender la publicidad que lo presente como sustituto del abogado y limitar nuevas contrataciones de esas funciones sin identificar al profesional responsable ni registrar la revisión. En el fondo reclama supervisión humana \"efectiva, verificable y auditable\" en todas las etapas, auditoría independiente, protección de datos y que el servicio no se ofrezca a quien no sea abogado inscrito. La demanda cuestiona además el tratamiento masivo de datos personales de las partes, la clasificación automática de demandantes como \"litigantes coordenados\" y el posible reaprovechamiento de escritos y tesis de despachos para mejorar el sistema en favor de otros clientes. El 9 de octubre la OAB de Río de Janeiro pidió sumarse como coautora, según AI4Brazil.",
+  "summary_p2": "Es un caso a seguir de cerca: un colegio profesional lleva a juicio a una plataforma de IA jurídica por unauthorized practice of law (ejercicio no autorizado de la abogacía), y el catálogo de salvaguardas que propone, con registro de decisiones de estrategia, tiempo razonable para leer cada pieza, indicación de fuentes y derecho del abogado a rechazar el borrador, funciona como checklist (lista de verificación) para cualquier vendor o despacho que despliegue agentes en contencioso de masa. Para el in-house que contrata este tipo de herramientas, la pregunta práctica es quién firma y con qué evidencia de revisión (audit trail); para los vendors, el riesgo de que el modelo \"empresa sin abogados\" quede restringido por regulación profesional. Matices importantes: son alegaciones de una parte con interés directo, aún sin decisión sobre las medidas urgentes; Enter niega las acusaciones y sostiene que la revisión, la firma y la presentación de los escritos corren a cargo de abogados contratados por sus clientes, que cumple la LGPD (ley brasileña de protección de datos) y que no usa datos de clientes para entrenar modelos.",
+  "why_sota": "Acción colectiva de un colegio de abogados contra una legaltech de IA agéntica, con salvaguardas concretas de supervisión y trazabilidad.",
+  "why_now": "Demanda 7 Oct 2026 (OAB SP); OAB-RJ pide sumarse 9 Oct. NEW vs PASS 09-29→10-10.",
+  "geo": [
+    "BR"
+  ],
+  "topics": [
+    "unauthorized-practice",
+    "supervision-humana",
+    "litigio-masivo",
+    "lgpd",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-oab-sp",
+      "url": "https://www.oabsp.org.br/jornaldaadvocacia/26-10-07-1742-oab-sp-aciona-justica-contra-empresa-de-ia-para-estabelecer-limites-a-automacao-e-proteger-atividades-privativas-da-advocacia",
+      "cited_title": "OAB SP aciona Justiça contra empresa de IA para estabelecer limites à automação e proteger atividades privativas da advocacia",
+      "accessed": "2026-10-11"
+    },
+    {
+      "source_id": "src-ai4brazil",
+      "url": "https://ai4brazil.com/en/news/rio-bar-asks-to-join-sao-paulo-lawsuit-over-enter-legal-ai-platform/",
+      "cited_title": "Rio Bar Asks to Join São Paulo Lawsuit Over Enter's Legal AI Platform",
+      "accessed": "2026-10-11"
+    }
+  ],
+  "entities": [
+    "ent-oab-sp",
+    "ent-oab-rj",
+    "ent-enter",
+    "ent-ai4brazil"
+  ],
+  "lang": "es",
+  "status": "published"
+}

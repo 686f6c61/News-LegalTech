@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-11-ropes-gray-100-horas-experimentar-ia",
+  "date": "2026-10-09",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Ropes & Gray deja que más de 1.000 asociados y counsel computen hasta 100 horas de experimentación con IA como horas facturables",
+  "summary_p1": "Ropes & Gray permite ahora a sus más de 1.000 asociados y counsel acreditar hasta 100 horas de experimentación y formación en IA dentro de su objetivo anual de horas facturables, según Reuters, recogido por el ABA Journal el 9 de octubre de 2026. Amplía la política del año pasado, que permitía a los asociados de primer año dedicar hasta un 20% de sus horas facturables a pruebas con IA; el responsable de knowledge management innovation del despacho, Patrick Ryan, dijo que todos los primeros años participaron, y otro portavoz cifró en más de 35.000 las horas de asociados invertidas en IA este año. Above the Law (9 de octubre) añade que Akerman usa un enfoque más formal, con la experimentación como una asignación más que los asociados pueden tomar, y que 100 horas equivalen a un 5% de un objetivo de 1.900 horas.",
+  "summary_p2": "Para un socio de despacho o un responsable de innovación, es una respuesta concreta a un problema de incentivos: la billable hour (hora facturable) trata el tiempo de aprendizaje como un coste personal del asociado, y sin tiempo protegido las herramientas de IA se usan de forma superficial. El comentario de Above the Law lo plantea como inversión con cuenta simple (si la IA mejora la productividad un 6%, compensa), pero es un cálculo del autor, no del despacho. Un asociado citado por Reuters reconoce que al principio \"no ves grandes eficiencias\". Matices: el ABA Journal resume a Reuters y no hay detalle público sobre qué cuenta como experimentación ni cómo se audita; el texto de Above the Law es opinión; y el resultado en productividad o calidad no está medido.",
+  "why_sota": "Medida organizativa verificable en Big Law para convertir la adopción de IA en tiempo facturable protegido.",
+  "why_now": "Reuters/ABA Journal y Above the Law 9 Oct 2026. NEW vs PASS 09-29→10-10.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "adopcion-ia",
+    "formacion",
+    "billable-hour",
+    "big-law",
+    "gestion-del-cambio"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/ropes-gray-allows-more-attorneys-to-count-ai-testing-toward-billable-hours",
+      "cited_title": "Ropes & Gray allows more attorneys to count AI testing toward billable hours",
+      "accessed": "2026-10-11"
+    },
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-while-100-hours-to-be-precise/",
+      "cited_title": "Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise)",
+      "accessed": "2026-10-11"
+    }
+  ],
+  "entities": [
+    "ent-ropes-gray",
+    "ent-akerman",
+    "ent-aba-journal",
+    "ent-above-the-law"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,9 @@
+id: ent-expansion
+name: Expansión
+type: media
+url: https://www.expansion.com/
+geo:
+- ES
+aliases: []
+notes: Diario económico español. Ficha mínima.
+stub: true

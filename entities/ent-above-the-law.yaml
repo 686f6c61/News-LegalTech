@@ -1,0 +1,11 @@
+id: ent-above-the-law
+name: Above the Law
+type: media
+url: https://abovethelaw.com/
+geo:
+- US
+aliases:
+- ATL
+notes: Medio estadounidense de actualidad de la abogacía; contenido de opinión. Ficha
+  mínima.
+stub: true

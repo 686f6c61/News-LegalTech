@@ -1,0 +1,558 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/11.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 11.10.26",
+      "schema:version": "11.10.26",
+      "schema:datePublished": "2026-10-11",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-11, 7 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/11.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-oab-sp-enter-accion-civil-publica-ia-abogacia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-tianjin-ia-plagio-opinion-supremo-popular"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-ropes-gray-100-horas-experimentar-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-vlex-clio-barcelona-hub-ia-encuesta-abogados"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-nyai-ai-studio-agentes-legal-compliance-india"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-legalitas-alex-asistente-ia-leads-curia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-ideallegal-ai-equipo-ia-multimodelo-word"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-oab-sp-enter-accion-civil-publica-ia-abogacia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-11-oab-sp-enter-accion-civil-publica-ia-abogacia",
+      "schema:headline": "La OAB de São Paulo demanda a Enter, la legaltech de IA agéntica valorada en 1.200 millones de dólares: pide supervisión humana verificable y que no venda a quien no es abogado",
+      "schema:datePublished": "2026-10-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La seccional de São Paulo de la Ordem dos Advogados do Brasil (OAB SP) presentó el 7 de octubre de 2026 una ação civil pública (acción civil colectiva) contra Enter, el nombre comercial de Talisman AI Ltda., ante la 4.ª Vara Cível Federal de São Paulo. Según la OAB, la plataforma lee los autos, define estrategias procesales y redacta contestaciones y otras piezas a gran escala para los departamentos jurídicos de grandes litigantes, sin intervención real de la abogacía. Como medidas cautelares pide preservar las pruebas sobre el funcionamiento del sistema, suspender la publicidad que lo presente como sustituto del abogado y limitar nuevas contrataciones de esas funciones sin identificar al profesional responsable ni registrar la revisión. En el fondo reclama supervisión humana \"efectiva, verificable y auditable\" en todas las etapas, auditoría independiente, protección de datos y que el servicio no se ofrezca a quien no sea abogado inscrito. La demanda cuestiona además el tratamiento masivo de datos personales de las partes, la clasificación automática de demandantes como \"litigantes coordenados\" y el posible reaprovechamiento de escritos y tesis de despachos para mejorar el sistema en favor de otros clientes. El 9 de octubre la OAB de Río de Janeiro pidió sumarse como coautora, según AI4Brazil.",
+      "schema:articleBody": "La seccional de São Paulo de la Ordem dos Advogados do Brasil (OAB SP) presentó el 7 de octubre de 2026 una ação civil pública (acción civil colectiva) contra Enter, el nombre comercial de Talisman AI Ltda., ante la 4.ª Vara Cível Federal de São Paulo. Según la OAB, la plataforma lee los autos, define estrategias procesales y redacta contestaciones y otras piezas a gran escala para los departamentos jurídicos de grandes litigantes, sin intervención real de la abogacía. Como medidas cautelares pide preservar las pruebas sobre el funcionamiento del sistema, suspender la publicidad que lo presente como sustituto del abogado y limitar nuevas contrataciones de esas funciones sin identificar al profesional responsable ni registrar la revisión. En el fondo reclama supervisión humana \"efectiva, verificable y auditable\" en todas las etapas, auditoría independiente, protección de datos y que el servicio no se ofrezca a quien no sea abogado inscrito. La demanda cuestiona además el tratamiento masivo de datos personales de las partes, la clasificación automática de demandantes como \"litigantes coordenados\" y el posible reaprovechamiento de escritos y tesis de despachos para mejorar el sistema en favor de otros clientes. El 9 de octubre la OAB de Río de Janeiro pidió sumarse como coautora, según AI4Brazil.\n\nEs un caso a seguir de cerca: un colegio profesional lleva a juicio a una plataforma de IA jurídica por unauthorized practice of law (ejercicio no autorizado de la abogacía), y el catálogo de salvaguardas que propone, con registro de decisiones de estrategia, tiempo razonable para leer cada pieza, indicación de fuentes y derecho del abogado a rechazar el borrador, funciona como checklist (lista de verificación) para cualquier vendor o despacho que despliegue agentes en contencioso de masa. Para el in-house que contrata este tipo de herramientas, la pregunta práctica es quién firma y con qué evidencia de revisión (audit trail); para los vendors, el riesgo de que el modelo \"empresa sin abogados\" quede restringido por regulación profesional. Matices importantes: son alegaciones de una parte con interés directo, aún sin decisión sobre las medidas urgentes; Enter niega las acusaciones y sostiene que la revisión, la firma y la presentación de los escritos corren a cargo de abogados contratados por sus clientes, que cumple la LGPD (ley brasileña de protección de datos) y que no usa datos de clientes para entrenar modelos.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 8.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Acción colectiva de un colegio de abogados contra una legaltech de IA agéntica, con salvaguardas concretas de supervisión y trazabilidad.",
+      "sota:whyNow": "Demanda 7 Oct 2026 (OAB SP); OAB-RJ pide sumarse 9 Oct. NEW vs PASS 09-29→10-10.",
+      "sota:geo": [
+        "BR"
+      ],
+      "sota:topics": [
+        "unauthorized-practice",
+        "supervision-humana",
+        "litigio-masivo",
+        "lgpd",
+        "agentes"
+      ],
+      "sota:summaryP1": "La seccional de São Paulo de la Ordem dos Advogados do Brasil (OAB SP) presentó el 7 de octubre de 2026 una ação civil pública (acción civil colectiva) contra Enter, el nombre comercial de Talisman AI Ltda., ante la 4.ª Vara Cível Federal de São Paulo. Según la OAB, la plataforma lee los autos, define estrategias procesales y redacta contestaciones y otras piezas a gran escala para los departamentos jurídicos de grandes litigantes, sin intervención real de la abogacía. Como medidas cautelares pide preservar las pruebas sobre el funcionamiento del sistema, suspender la publicidad que lo presente como sustituto del abogado y limitar nuevas contrataciones de esas funciones sin identificar al profesional responsable ni registrar la revisión. En el fondo reclama supervisión humana \"efectiva, verificable y auditable\" en todas las etapas, auditoría independiente, protección de datos y que el servicio no se ofrezca a quien no sea abogado inscrito. La demanda cuestiona además el tratamiento masivo de datos personales de las partes, la clasificación automática de demandantes como \"litigantes coordenados\" y el posible reaprovechamiento de escritos y tesis de despachos para mejorar el sistema en favor de otros clientes. El 9 de octubre la OAB de Río de Janeiro pidió sumarse como coautora, según AI4Brazil.",
+      "sota:summaryP2": "Es un caso a seguir de cerca: un colegio profesional lleva a juicio a una plataforma de IA jurídica por unauthorized practice of law (ejercicio no autorizado de la abogacía), y el catálogo de salvaguardas que propone, con registro de decisiones de estrategia, tiempo razonable para leer cada pieza, indicación de fuentes y derecho del abogado a rechazar el borrador, funciona como checklist (lista de verificación) para cualquier vendor o despacho que despliegue agentes en contencioso de masa. Para el in-house que contrata este tipo de herramientas, la pregunta práctica es quién firma y con qué evidencia de revisión (audit trail); para los vendors, el riesgo de que el modelo \"empresa sin abogados\" quede restringido por regulación profesional. Matices importantes: son alegaciones de una parte con interés directo, aún sin decisión sobre las medidas urgentes; Enter niega las acusaciones y sostiene que la revisión, la firma y la presentación de los escritos corren a cargo de abogados contratados por sus clientes, que cumple la LGPD (ley brasileña de protección de datos) y que no usa datos de clientes para entrenar modelos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.oabsp.org.br/jornaldaadvocacia/26-10-07-1742-oab-sp-aciona-justica-contra-empresa-de-ia-para-estabelecer-limites-a-automacao-e-proteger-atividades-privativas-da-advocacia",
+          "schema:name": "OAB SP aciona Justiça contra empresa de IA para estabelecer limites à automação e proteger atividades privativas da advocacia",
+          "sota:sourceId": "src-oab-sp"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://ai4brazil.com/en/news/rio-bar-asks-to-join-sao-paulo-lawsuit-over-enter-legal-ai-platform/",
+          "schema:name": "Rio Bar Asks to Join São Paulo Lawsuit Over Enter's Legal AI Platform",
+          "sota:sourceId": "src-ai4brazil"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-oab-sp"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-oab-rj"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-enter"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai4brazil"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-tianjin-ia-plagio-opinion-supremo-popular",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-11-tianjin-ia-plagio-opinion-supremo-popular",
+      "schema:headline": "Un juzgado de Tianjin cierra por mediación un caso de serie animada hecha con IA a partir de una novela ajena, bajo la nueva Opinión del Supremo Popular sobre litigios de IA",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Según Confilegal (11 de octubre de 2026), que cita a Tianjin Daily del 9 de octubre, el Tribunal Popular del Distrito de Heping, en Tianjin, trató el caso de un tercero que introdujo una novela protegida en una herramienta generativa, obtuvo una serie de animación (un \"AI comic drama\") y la difundió en Internet sin permiso del autor. El juzgado comparó ambas obras frase por frase y apreció similitud sustancial; los derechos afectados eran el de transformación (adaptación) y el de comunicación pública en redes. No hubo sentencia: el asunto acabó con una mediación judicial en la que el demandado se comprometió a eliminar los contenidos, cesar la difusión e indemnizar al titular por daños y gastos de defensa, sin que se hayan hecho públicos la cuantía, las partes ni la novela. Es uno de los primeros casos conocidos que aplica la Opinión sobre litigios de IA que el Tribunal Supremo Popular presentó el 7 de septiembre de 2026, un documento de 24 artículos que orienta la aplicación del Código Civil y de las leyes de derechos de autor y de datos personales, pero no es una ley.",
+      "schema:articleBody": "Según Confilegal (11 de octubre de 2026), que cita a Tianjin Daily del 9 de octubre, el Tribunal Popular del Distrito de Heping, en Tianjin, trató el caso de un tercero que introdujo una novela protegida en una herramienta generativa, obtuvo una serie de animación (un \"AI comic drama\") y la difundió en Internet sin permiso del autor. El juzgado comparó ambas obras frase por frase y apreció similitud sustancial; los derechos afectados eran el de transformación (adaptación) y el de comunicación pública en redes. No hubo sentencia: el asunto acabó con una mediación judicial en la que el demandado se comprometió a eliminar los contenidos, cesar la difusión e indemnizar al titular por daños y gastos de defensa, sin que se hayan hecho públicos la cuantía, las partes ni la novela. Es uno de los primeros casos conocidos que aplica la Opinión sobre litigios de IA que el Tribunal Supremo Popular presentó el 7 de septiembre de 2026, un documento de 24 artículos que orienta la aplicación del Código Civil y de las leyes de derechos de autor y de datos personales, pero no es una ley.\n\nLo útil para un abogado de propiedad intelectual o de tecnología es el diseño de la Opinión más que el caso. Reparte la responsabilidad entre desarrollador, proveedor y usuario según el tipo de servicio, el origen de los training data (datos de entrenamiento), el grado de participación y las medidas adoptadas; invierte en parte la carga de la prueba, de modo que el desarrollador que niega la infracción debe acreditar el origen de los datos, los registros de entrenamiento y el funcionamiento del modelo; y dice que el usuario que sabía o debía saber de la obra previa y generó otra sustancialmente similar, sin defensa razonable, debe perder. El artículo 21 empuja además a la mediación previa. Matices: es información de segunda mano a través de un diario local y de Confilegal; la Opinión evita pronunciarse, por ahora, sobre si el contenido generado por IA es protegible y sobre el entrenamiento con obras sin licencia, así que el caso no dice nada sobre training; y no es el primer caso de este tipo en China, como muestran los de Shanghái y Wuhan que menciona la propia información.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Aplicación temprana de la primera norma de enjuiciamiento de IA del Supremo chino, con reparto de responsabilidad y carga de la prueba sobre training data.",
+      "sota:whyNow": "Tianjin Daily 9 Oct 2026; Confilegal 11 Oct. NEW vs PASS 09-29→10-10.",
+      "sota:geo": [
+        "CN"
+      ],
+      "sota:topics": [
+        "derechos-autor",
+        "china",
+        "training-data",
+        "mediacion",
+        "responsabilidad"
+      ],
+      "sota:summaryP1": "Según Confilegal (11 de octubre de 2026), que cita a Tianjin Daily del 9 de octubre, el Tribunal Popular del Distrito de Heping, en Tianjin, trató el caso de un tercero que introdujo una novela protegida en una herramienta generativa, obtuvo una serie de animación (un \"AI comic drama\") y la difundió en Internet sin permiso del autor. El juzgado comparó ambas obras frase por frase y apreció similitud sustancial; los derechos afectados eran el de transformación (adaptación) y el de comunicación pública en redes. No hubo sentencia: el asunto acabó con una mediación judicial en la que el demandado se comprometió a eliminar los contenidos, cesar la difusión e indemnizar al titular por daños y gastos de defensa, sin que se hayan hecho públicos la cuantía, las partes ni la novela. Es uno de los primeros casos conocidos que aplica la Opinión sobre litigios de IA que el Tribunal Supremo Popular presentó el 7 de septiembre de 2026, un documento de 24 artículos que orienta la aplicación del Código Civil y de las leyes de derechos de autor y de datos personales, pero no es una ley.",
+      "sota:summaryP2": "Lo útil para un abogado de propiedad intelectual o de tecnología es el diseño de la Opinión más que el caso. Reparte la responsabilidad entre desarrollador, proveedor y usuario según el tipo de servicio, el origen de los training data (datos de entrenamiento), el grado de participación y las medidas adoptadas; invierte en parte la carga de la prueba, de modo que el desarrollador que niega la infracción debe acreditar el origen de los datos, los registros de entrenamiento y el funcionamiento del modelo; y dice que el usuario que sabía o debía saber de la obra previa y generó otra sustancialmente similar, sin defensa razonable, debe perder. El artículo 21 empuja además a la mediación previa. Matices: es información de segunda mano a través de un diario local y de Confilegal; la Opinión evita pronunciarse, por ahora, sobre si el contenido generado por IA es protegible y sobre el entrenamiento con obras sin licencia, así que el caso no dice nada sobre training; y no es el primer caso de este tipo en China, como muestran los de Shanghái y Wuhan que menciona la propia información.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261011-tianjin-ia-novela-serie-animacion-derechos-autor-supremo-chino/",
+          "schema:name": "La IA no exime del plagio en China: un tribunal aplica la nueva Opinión del Supremo Popular sobre inteligencia artificial",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-popular-heping"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-popular"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-ropes-gray-100-horas-experimentar-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-11-ropes-gray-100-horas-experimentar-ia",
+      "schema:headline": "Ropes & Gray deja que más de 1.000 asociados y counsel computen hasta 100 horas de experimentación con IA como horas facturables",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Ropes & Gray permite ahora a sus más de 1.000 asociados y counsel acreditar hasta 100 horas de experimentación y formación en IA dentro de su objetivo anual de horas facturables, según Reuters, recogido por el ABA Journal el 9 de octubre de 2026. Amplía la política del año pasado, que permitía a los asociados de primer año dedicar hasta un 20% de sus horas facturables a pruebas con IA; el responsable de knowledge management innovation del despacho, Patrick Ryan, dijo que todos los primeros años participaron, y otro portavoz cifró en más de 35.000 las horas de asociados invertidas en IA este año. Above the Law (9 de octubre) añade que Akerman usa un enfoque más formal, con la experimentación como una asignación más que los asociados pueden tomar, y que 100 horas equivalen a un 5% de un objetivo de 1.900 horas.",
+      "schema:articleBody": "Ropes & Gray permite ahora a sus más de 1.000 asociados y counsel acreditar hasta 100 horas de experimentación y formación en IA dentro de su objetivo anual de horas facturables, según Reuters, recogido por el ABA Journal el 9 de octubre de 2026. Amplía la política del año pasado, que permitía a los asociados de primer año dedicar hasta un 20% de sus horas facturables a pruebas con IA; el responsable de knowledge management innovation del despacho, Patrick Ryan, dijo que todos los primeros años participaron, y otro portavoz cifró en más de 35.000 las horas de asociados invertidas en IA este año. Above the Law (9 de octubre) añade que Akerman usa un enfoque más formal, con la experimentación como una asignación más que los asociados pueden tomar, y que 100 horas equivalen a un 5% de un objetivo de 1.900 horas.\n\nPara un socio de despacho o un responsable de innovación, es una respuesta concreta a un problema de incentivos: la billable hour (hora facturable) trata el tiempo de aprendizaje como un coste personal del asociado, y sin tiempo protegido las herramientas de IA se usan de forma superficial. El comentario de Above the Law lo plantea como inversión con cuenta simple (si la IA mejora la productividad un 6%, compensa), pero es un cálculo del autor, no del despacho. Un asociado citado por Reuters reconoce que al principio \"no ves grandes eficiencias\". Matices: el ABA Journal resume a Reuters y no hay detalle público sobre qué cuenta como experimentación ni cómo se audita; el texto de Above the Law es opinión; y el resultado en productividad o calidad no está medido.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Medida organizativa verificable en Big Law para convertir la adopción de IA en tiempo facturable protegido.",
+      "sota:whyNow": "Reuters/ABA Journal y Above the Law 9 Oct 2026. NEW vs PASS 09-29→10-10.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "adopcion-ia",
+        "formacion",
+        "billable-hour",
+        "big-law",
+        "gestion-del-cambio"
+      ],
+      "sota:summaryP1": "Ropes & Gray permite ahora a sus más de 1.000 asociados y counsel acreditar hasta 100 horas de experimentación y formación en IA dentro de su objetivo anual de horas facturables, según Reuters, recogido por el ABA Journal el 9 de octubre de 2026. Amplía la política del año pasado, que permitía a los asociados de primer año dedicar hasta un 20% de sus horas facturables a pruebas con IA; el responsable de knowledge management innovation del despacho, Patrick Ryan, dijo que todos los primeros años participaron, y otro portavoz cifró en más de 35.000 las horas de asociados invertidas en IA este año. Above the Law (9 de octubre) añade que Akerman usa un enfoque más formal, con la experimentación como una asignación más que los asociados pueden tomar, y que 100 horas equivalen a un 5% de un objetivo de 1.900 horas.",
+      "sota:summaryP2": "Para un socio de despacho o un responsable de innovación, es una respuesta concreta a un problema de incentivos: la billable hour (hora facturable) trata el tiempo de aprendizaje como un coste personal del asociado, y sin tiempo protegido las herramientas de IA se usan de forma superficial. El comentario de Above the Law lo plantea como inversión con cuenta simple (si la IA mejora la productividad un 6%, compensa), pero es un cálculo del autor, no del despacho. Un asociado citado por Reuters reconoce que al principio \"no ves grandes eficiencias\". Matices: el ABA Journal resume a Reuters y no hay detalle público sobre qué cuenta como experimentación ni cómo se audita; el texto de Above the Law es opinión; y el resultado en productividad o calidad no está medido.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/news/article/ropes-gray-allows-more-attorneys-to-count-ai-testing-toward-billable-hours",
+          "schema:name": "Ropes & Gray allows more attorneys to count AI testing toward billable hours",
+          "sota:sourceId": "src-aba-journal"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abovethelaw.com/2026/10/biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-while-100-hours-to-be-precise/",
+          "schema:name": "Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise)",
+          "sota:sourceId": "src-above-the-law"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ropes-gray"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-akerman"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-vlex-clio-barcelona-hub-ia-encuesta-abogados",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-11-vlex-clio-barcelona-hub-ia-encuesta-abogados",
+      "schema:headline": "Los fundadores de vLex, ya dentro de Clio, dicen que el 89% de los abogados independientes y de despachos pequeños usa IA, sobre todo ChatGPT, y la mitad con versiones gratuitas",
+      "schema:datePublished": "2026-10-10",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Periódico publicó el 10 de octubre de 2026 una entrevista con Lluís y Àngel Faus, fundadores de vLex, sobre su integración en Clio, que la compró en noviembre de 2025 por 1.000 millones de dólares en la mayor operación de la historia del sector legaltech. Según la información, Clio (unos 2.500 empleados y unos 500 millones de dólares de facturación anual, valorada en 5.000 millones tras su última ronda) anunció el 30 de septiembre en la Bolsa de Barcelona que convertirá su oficina en la ciudad en un hub global de IA; esa oficina pasó de 74 a 100 empleados en menos de un año y prevé llegar a unos 140. En España acaba de lanzar Clio Manage y Clio Work, la suite que une la gestión del despacho con la base jurídica de vLex. Los Faus citan una encuesta de la propia compañía según la cual el 89% de los abogados que ejercen por su cuenta o en pequeños despachos ya usa IA, la mayoría ChatGPT y la mitad en versiones gratuitas.",
+      "schema:articleBody": "El Periódico publicó el 10 de octubre de 2026 una entrevista con Lluís y Àngel Faus, fundadores de vLex, sobre su integración en Clio, que la compró en noviembre de 2025 por 1.000 millones de dólares en la mayor operación de la historia del sector legaltech. Según la información, Clio (unos 2.500 empleados y unos 500 millones de dólares de facturación anual, valorada en 5.000 millones tras su última ronda) anunció el 30 de septiembre en la Bolsa de Barcelona que convertirá su oficina en la ciudad en un hub global de IA; esa oficina pasó de 74 a 100 empleados en menos de un año y prevé llegar a unos 140. En España acaba de lanzar Clio Manage y Clio Work, la suite que une la gestión del despacho con la base jurídica de vLex. Los Faus citan una encuesta de la propia compañía según la cual el 89% de los abogados que ejercen por su cuenta o en pequeños despachos ya usa IA, la mayoría ChatGPT y la mitad en versiones gratuitas.\n\nPara un despacho pequeño el dato incómodo es el de las versiones de consumo, donde las conversaciones pueden servir para entrenar los modelos y donde faltan los controles de confidencialidad que exige el secreto profesional. La receta de vLex frente a las hallucinations (alucinaciones) es dar al abogado herramientas para comprobar cómo se llegó a cada respuesta, y los fundadores insisten en que la responsabilidad no se traslada al vendor, igual que en un despacho no se traslada al júnior. También venden la soberanía del dato (\"lo que está en Europa se queda en Europa\") como argumento de compra. Hay que leerlo como lo que es: una entrevista con los directivos de una empresa que vende estos productos, con una encuesta propia cuya metodología no se detalla en el artículo, y cifras de negocio declaradas por la compañía.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Visión de primera mano del integrador líder de IA jurídica en España sobre adopción real, riesgos de las versiones gratuitas y soberanía del dato.",
+      "sota:whyNow": "Entrevista El Periódico 10 Oct 2026. NEW vs PASS 09-29→10-10.",
+      "sota:geo": [
+        "ES",
+        "EU"
+      ],
+      "sota:topics": [
+        "clio",
+        "vlex",
+        "adopcion-ia",
+        "confidencialidad",
+        "soberania-datos"
+      ],
+      "sota:summaryP1": "El Periódico publicó el 10 de octubre de 2026 una entrevista con Lluís y Àngel Faus, fundadores de vLex, sobre su integración en Clio, que la compró en noviembre de 2025 por 1.000 millones de dólares en la mayor operación de la historia del sector legaltech. Según la información, Clio (unos 2.500 empleados y unos 500 millones de dólares de facturación anual, valorada en 5.000 millones tras su última ronda) anunció el 30 de septiembre en la Bolsa de Barcelona que convertirá su oficina en la ciudad en un hub global de IA; esa oficina pasó de 74 a 100 empleados en menos de un año y prevé llegar a unos 140. En España acaba de lanzar Clio Manage y Clio Work, la suite que une la gestión del despacho con la base jurídica de vLex. Los Faus citan una encuesta de la propia compañía según la cual el 89% de los abogados que ejercen por su cuenta o en pequeños despachos ya usa IA, la mayoría ChatGPT y la mitad en versiones gratuitas.",
+      "sota:summaryP2": "Para un despacho pequeño el dato incómodo es el de las versiones de consumo, donde las conversaciones pueden servir para entrenar los modelos y donde faltan los controles de confidencialidad que exige el secreto profesional. La receta de vLex frente a las hallucinations (alucinaciones) es dar al abogado herramientas para comprobar cómo se llegó a cada respuesta, y los fundadores insisten en que la responsabilidad no se traslada al vendor, igual que en un despacho no se traslada al júnior. También venden la soberanía del dato (\"lo que está en Europa se queda en Europa\") como argumento de compra. Hay que leerlo como lo que es: una entrevista con los directivos de una empresa que vende estos productos, con una encuesta propia cuya metodología no se detalla en el artículo, y cifras de negocio declaradas por la compañía.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.elperiodico.com/es/economia/20261010/vlex-dispone-liderar-ia-juridica-134890705",
+          "schema:name": "vLex se dispone a liderar la IA jurídica cuando el 89% de los abogados ya usan alguna herramienta: 'la mayoría ChatGPT'",
+          "sota:sourceId": "src-el-periodico"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vlex"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-periodico"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-nyai-ai-studio-agentes-legal-compliance-india",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-11-nyai-ai-studio-agentes-legal-compliance-india",
+      "schema:headline": "NYAI lanza AI Studio en India: una plataforma model-agnostic para que despachos y equipos de compliance construyan y gobiernen sus propios agentes de IA",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "NYAI anunció el lanzamiento de NYAI AI Studio, que presenta como la primera plataforma de infraestructura de IA agéntica de India para despachos y para las funciones legales y de compliance de las empresas; Bar & Bench lo publicó el 9 de octubre de 2026. La plataforma es model-agnostic (agnóstica del modelo): se integra con Claude, GPT, Microsoft Copilot y Gemini, los datos de la organización permanecen en el entorno de NYAI y la inferencia se ejecuta por el ecosistema de IA que elija cada cliente. Incluye agentes listos para usar (intake, due diligence, gestión de consentimiento bajo la ley india de protección de datos), un constructor para que abogados y profesionales de compliance diseñen los suyos con sus playbooks (guías de negociación), precedentes y cláusulas, un knowledge graph (grafo de conocimiento) con memoria organizativa y orquestación de varios agentes sobre un mismo asunto, por ejemplo en una due diligence de M&A. Declara más de 100 integraciones (iManage, SAP, DocuSign, Salesforce, correo y WhatsApp), controles de acceso por roles, single sign-on, evaluación de modelos y audit trails (registros de auditoría), además de certificación ISO/IEC 27001:2022 y SOC 2 Type II.",
+      "schema:articleBody": "NYAI anunció el lanzamiento de NYAI AI Studio, que presenta como la primera plataforma de infraestructura de IA agéntica de India para despachos y para las funciones legales y de compliance de las empresas; Bar & Bench lo publicó el 9 de octubre de 2026. La plataforma es model-agnostic (agnóstica del modelo): se integra con Claude, GPT, Microsoft Copilot y Gemini, los datos de la organización permanecen en el entorno de NYAI y la inferencia se ejecuta por el ecosistema de IA que elija cada cliente. Incluye agentes listos para usar (intake, due diligence, gestión de consentimiento bajo la ley india de protección de datos), un constructor para que abogados y profesionales de compliance diseñen los suyos con sus playbooks (guías de negociación), precedentes y cláusulas, un knowledge graph (grafo de conocimiento) con memoria organizativa y orquestación de varios agentes sobre un mismo asunto, por ejemplo en una due diligence de M&A. Declara más de 100 integraciones (iManage, SAP, DocuSign, Salesforce, correo y WhatsApp), controles de acceso por roles, single sign-on, evaluación de modelos y audit trails (registros de auditoría), además de certificación ISO/IEC 27001:2022 y SOC 2 Type II.\n\nLa lectura para un despacho o un equipo in-house es la tesis de infraestructura frente a producto cerrado: en vez de comprar otro point solution (herramienta puntual), se construye una práctica de IA propia sobre una capa que gobierna datos, modelos y costes. Eso puede reducir el riesgo de datos dispersos entre aplicaciones, pero traslada la responsabilidad de diseñar y validar cada agente al cliente. Conviene pedir, antes de piloto, cómo se evalúan los modelos, qué queda en los logs y cuál de los tres modelos de despliegue que cita el anuncio encaja con los requisitos de residencia de datos. Es un comunicado de lanzamiento reproducido por un medio: \"primera de India\" es afirmación de la empresa, no hay benchmarks ni clientes nombrados, está disponible en India desde ya y NYAI prevé extenderlo a Oriente Medio, EE. UU., Europa y Asia-Pacífico en el próximo trimestre.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Plataforma de agentes con gobernanza de datos y modelos elegidos por el cliente, orientada a legal y compliance, con certificaciones de seguridad declaradas.",
+      "sota:whyNow": "Publicación Bar & Bench 9 Oct 2026 (anuncio 5 Oct según Legal IT Insider). NEW vs PASS 09-29→10-10.",
+      "sota:geo": [
+        "IN"
+      ],
+      "sota:topics": [
+        "agentes",
+        "model-agnostic",
+        "compliance",
+        "gobernanza",
+        "due-diligence"
+      ],
+      "sota:summaryP1": "NYAI anunció el lanzamiento de NYAI AI Studio, que presenta como la primera plataforma de infraestructura de IA agéntica de India para despachos y para las funciones legales y de compliance de las empresas; Bar & Bench lo publicó el 9 de octubre de 2026. La plataforma es model-agnostic (agnóstica del modelo): se integra con Claude, GPT, Microsoft Copilot y Gemini, los datos de la organización permanecen en el entorno de NYAI y la inferencia se ejecuta por el ecosistema de IA que elija cada cliente. Incluye agentes listos para usar (intake, due diligence, gestión de consentimiento bajo la ley india de protección de datos), un constructor para que abogados y profesionales de compliance diseñen los suyos con sus playbooks (guías de negociación), precedentes y cláusulas, un knowledge graph (grafo de conocimiento) con memoria organizativa y orquestación de varios agentes sobre un mismo asunto, por ejemplo en una due diligence de M&A. Declara más de 100 integraciones (iManage, SAP, DocuSign, Salesforce, correo y WhatsApp), controles de acceso por roles, single sign-on, evaluación de modelos y audit trails (registros de auditoría), además de certificación ISO/IEC 27001:2022 y SOC 2 Type II.",
+      "sota:summaryP2": "La lectura para un despacho o un equipo in-house es la tesis de infraestructura frente a producto cerrado: en vez de comprar otro point solution (herramienta puntual), se construye una práctica de IA propia sobre una capa que gobierna datos, modelos y costes. Eso puede reducir el riesgo de datos dispersos entre aplicaciones, pero traslada la responsabilidad de diseñar y validar cada agente al cliente. Conviene pedir, antes de piloto, cómo se evalúan los modelos, qué queda en los logs y cuál de los tres modelos de despliegue que cita el anuncio encaja con los requisitos de residencia de datos. Es un comunicado de lanzamiento reproducido por un medio: \"primera de India\" es afirmación de la empresa, no hay benchmarks ni clientes nombrados, está disponible en India desde ya y NYAI prevé extenderlo a Oriente Medio, EE. UU., Europa y Asia-Pacífico en el próximo trimestre.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.barandbench.com/news/nyai-launches-nyai-ai-studio-indias-first-agentic-ai-infrastructure-platform-for-legal-and-compliance",
+          "schema:name": "NYAI launches NYAI AI Studio: India's first Agentic AI Infrastructure Platform for legal and compliance",
+          "sota:sourceId": "src-bar-and-bench"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nyai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bar-and-bench"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-legalitas-alex-asistente-ia-leads-curia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-11-legalitas-alex-asistente-ia-leads-curia",
+      "schema:headline": "Legálitas cuenta cómo su asistente Álex alcanza 1,5 millones de usuarios y unos 10.000 leads al mes, y cómo su herramienta Curia reduce la redacción de diez minutos a uno",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Expansión publicó el 9 de octubre de 2026 una entrevista con directivos de Legálitas, empresa de asistencia jurídica por suscripción para particulares, autónomos y pymes, sobre su uso de IA. Su asistente Álex, lanzado en mayo de 2025, responde gratis a consultas legales en lenguaje natural, recomienda un servicio jurídico de Legálitas o de terceros cuando hace falta y, según sus responsables, suma 1,5 millones de usuarios únicos y unas 80.000 conversaciones semanales. El 80% de las consultas son informativas y el 20% restante, unos 10.000 leads (contactos comerciales) al mes, deriva a un abogado. Álex tiene un CEO propio y libertad para derivar a despachos asociados, de modo que Legálitas debe ganarse la derivación como un colaborador más. Internamente usa agentes de voz sobre ElevenLabs para el triaje entre 27 especialidades y una herramienta, Curia, que procesa la conversación cliente-abogado y los documentos aportados para autorrellenar el escrito legal.",
+      "schema:articleBody": "Expansión publicó el 9 de octubre de 2026 una entrevista con directivos de Legálitas, empresa de asistencia jurídica por suscripción para particulares, autónomos y pymes, sobre su uso de IA. Su asistente Álex, lanzado en mayo de 2025, responde gratis a consultas legales en lenguaje natural, recomienda un servicio jurídico de Legálitas o de terceros cuando hace falta y, según sus responsables, suma 1,5 millones de usuarios únicos y unas 80.000 conversaciones semanales. El 80% de las consultas son informativas y el 20% restante, unos 10.000 leads (contactos comerciales) al mes, deriva a un abogado. Álex tiene un CEO propio y libertad para derivar a despachos asociados, de modo que Legálitas debe ganarse la derivación como un colaborador más. Internamente usa agentes de voz sobre ElevenLabs para el triaje entre 27 especialidades y una herramienta, Curia, que procesa la conversación cliente-abogado y los documentos aportados para autorrellenar el escrito legal.\n\nEs un caso útil para despachos de consumo y pyme porque pone cifras de negocio a una idea: la IA no sustituye al abogado sino que amplía la demanda al convertir en usuarios a personas que nunca habrían ido a un despacho. También muestra una arquitectura prudente: los agentes combinan lenguaje natural con flujos de decisión deterministas y guardarraíles, de modo que solo ejecutan acciones autorizadas en carriles delimitados. Y aporta una cuestión de gobernanza de la derivación de clientes, que un abogado asociado debería mirar con atención (criterios, competencia, conflicto de intereses). Todas las cifras son declaraciones del CEO y de los directivos de la compañía en una entrevista: el coste de triaje \"cero\" frente a más de un euro por llamada, la adopción interna de Curia del 80% al 90% y la reducción de diez minutos a un minuto por documento no están verificadas de forma independiente.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos operativos de un actor español de asistencia jurídica sobre embudo de leads, agentes de voz y redacción asistida con guardarraíles.",
+      "sota:whyNow": "Expansión 9 Oct 2026. NEW vs PASS 09-29→10-10.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "asistente-juridico",
+        "leads",
+        "agentes-de-voz",
+        "guardarrailes",
+        "acceso-justicia"
+      ],
+      "sota:summaryP1": "Expansión publicó el 9 de octubre de 2026 una entrevista con directivos de Legálitas, empresa de asistencia jurídica por suscripción para particulares, autónomos y pymes, sobre su uso de IA. Su asistente Álex, lanzado en mayo de 2025, responde gratis a consultas legales en lenguaje natural, recomienda un servicio jurídico de Legálitas o de terceros cuando hace falta y, según sus responsables, suma 1,5 millones de usuarios únicos y unas 80.000 conversaciones semanales. El 80% de las consultas son informativas y el 20% restante, unos 10.000 leads (contactos comerciales) al mes, deriva a un abogado. Álex tiene un CEO propio y libertad para derivar a despachos asociados, de modo que Legálitas debe ganarse la derivación como un colaborador más. Internamente usa agentes de voz sobre ElevenLabs para el triaje entre 27 especialidades y una herramienta, Curia, que procesa la conversación cliente-abogado y los documentos aportados para autorrellenar el escrito legal.",
+      "sota:summaryP2": "Es un caso útil para despachos de consumo y pyme porque pone cifras de negocio a una idea: la IA no sustituye al abogado sino que amplía la demanda al convertir en usuarios a personas que nunca habrían ido a un despacho. También muestra una arquitectura prudente: los agentes combinan lenguaje natural con flujos de decisión deterministas y guardarraíles, de modo que solo ejecutan acciones autorizadas en carriles delimitados. Y aporta una cuestión de gobernanza de la derivación de clientes, que un abogado asociado debería mirar con atención (criterios, competencia, conflicto de intereses). Todas las cifras son declaraciones del CEO y de los directivos de la compañía en una entrevista: el coste de triaje \"cero\" frente a más de un euro por llamada, la adopción interna de Curia del 80% al 90% y la reducción de diez minutos a un minuto por documento no están verificadas de forma independiente.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.expansion.com/tecnologia/2026/10/09/legalitas-juridico-hay-oportunidad-crear-negocio-ia-destruirlo.html",
+          "schema:name": "Legálitas: \"En jurídico hay más oportunidad de crear negocio con IA que de destruirlo\"",
+          "sota:sourceId": "src-expansion"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalitas"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-expansion"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-11-ideallegal-ai-equipo-ia-multimodelo-word",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-11-ideallegal-ai-equipo-ia-multimodelo-word",
+      "schema:headline": "iDealLegal.ai, una startup bootstrapped de 2026, pone en Word un equipo de IA que cruza GPT, Claude y Gemini y marca para revisión humana los desacuerdos entre modelos",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal IT Insider presentó el 9 de octubre de 2026, en su sección Startup Corner, a iDealLegal.ai, fundada en enero de 2026 y financiada por su fundador, el abogado transaccional Sergey Ovcharov, que sigue siendo chief legal counsel de un estudio de videojuegos de Los Ángeles. Es un add-in de Word (escritorio y Word Online, desde Microsoft AppSource) que revisa contratos con tres modelos, GPT, Claude y Gemini, que se cruzan entre sí: si coinciden aumenta la confianza y si discrepan se marca la cláusula para un humano en lugar de resolverla en silencio. Hay tres niveles de agente, del junior al senior, y playbooks por tipo de contrato (SaaS y licencias, desarrollo de videojuegos, acuerdos de talento e influencers) escritos y verificados por abogados, que el despacho puede editar o ampliar. En planes de pago declara zero data retention (el texto del contrato se borra tras la revisión y no se usa para entrenar).",
+      "schema:articleBody": "Legal IT Insider presentó el 9 de octubre de 2026, en su sección Startup Corner, a iDealLegal.ai, fundada en enero de 2026 y financiada por su fundador, el abogado transaccional Sergey Ovcharov, que sigue siendo chief legal counsel de un estudio de videojuegos de Los Ángeles. Es un add-in de Word (escritorio y Word Online, desde Microsoft AppSource) que revisa contratos con tres modelos, GPT, Claude y Gemini, que se cruzan entre sí: si coinciden aumenta la confianza y si discrepan se marca la cláusula para un humano en lugar de resolverla en silencio. Hay tres niveles de agente, del junior al senior, y playbooks por tipo de contrato (SaaS y licencias, desarrollo de videojuegos, acuerdos de talento e influencers) escritos y verificados por abogados, que el despacho puede editar o ampliar. En planes de pago declara zero data retention (el texto del contrato se borra tras la revisión y no se usa para entrenar).\n\nPara despachos de 1 a 20 abogados que hacen contratos tecnológicos, y para equipos in-house de 1 a 5 personas, el interés está en el patrón: revisión por múltiples modelos con un criterio explícito de escalado a humano, en la herramienta donde el abogado ya trabaja. Ese diseño responde a la pregunta habitual de \"¿por qué no usar ChatGPT?\" con arquitectura y no con marca. Hay que contrastarlo con una prueba propia antes de confiar: es una entrevista de la propia startup, las cifras (un contrato de 20 páginas en unos 5 minutos; de cuatro horas a 10-15 minutos de trabajo) son declaradas por la empresa y no hay benchmark independiente ni referencias de clientes. Es un producto de nicho, sin pretensión de servir a Big Law, con plan gratuito de cinco créditos al mes y un programa Founding 100 con descuento del 50%.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Diseño multi-modelo con escalado explícito a humano y playbooks por tipo de contrato para el segmento de despachos pequeños.",
+      "sota:whyNow": "Legal IT Insider 9 Oct 2026. NEW vs PASS 09-29→10-10.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "contratos",
+        "multi-modelo",
+        "playbooks",
+        "word",
+        "startups"
+      ],
+      "sota:summaryP1": "Legal IT Insider presentó el 9 de octubre de 2026, en su sección Startup Corner, a iDealLegal.ai, fundada en enero de 2026 y financiada por su fundador, el abogado transaccional Sergey Ovcharov, que sigue siendo chief legal counsel de un estudio de videojuegos de Los Ángeles. Es un add-in de Word (escritorio y Word Online, desde Microsoft AppSource) que revisa contratos con tres modelos, GPT, Claude y Gemini, que se cruzan entre sí: si coinciden aumenta la confianza y si discrepan se marca la cláusula para un humano en lugar de resolverla en silencio. Hay tres niveles de agente, del junior al senior, y playbooks por tipo de contrato (SaaS y licencias, desarrollo de videojuegos, acuerdos de talento e influencers) escritos y verificados por abogados, que el despacho puede editar o ampliar. En planes de pago declara zero data retention (el texto del contrato se borra tras la revisión y no se usa para entrenar).",
+      "sota:summaryP2": "Para despachos de 1 a 20 abogados que hacen contratos tecnológicos, y para equipos in-house de 1 a 5 personas, el interés está en el patrón: revisión por múltiples modelos con un criterio explícito de escalado a humano, en la herramienta donde el abogado ya trabaja. Ese diseño responde a la pregunta habitual de \"¿por qué no usar ChatGPT?\" con arquitectura y no con marca. Hay que contrastarlo con una prueba propia antes de confiar: es una entrevista de la propia startup, las cifras (un contrato de 20 páginas en unos 5 minutos; de cuatro horas a 10-15 minutos de trabajo) son declaradas por la empresa y no hay benchmark independiente ni referencias de clientes. Es un producto de nicho, sin pretensión de servir a Big Law, con plan gratuito de cinco créditos al mes y un programa Founding 100 con descuento del 50%.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/startup-corner-meet-ideallegal-ai-a-new-legal-ai-team/",
+          "schema:name": "Startup Corner: Meet iDealLegal.ai, a new legal AI team",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ideallegal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-it-insider"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aba-journal",
+      "schema:name": "ABA Journal",
+      "sota:entityType": "media",
+      "schema:url": "https://www.abajournal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-above-the-law",
+      "schema:name": "Above the Law",
+      "sota:entityType": "media",
+      "schema:url": "https://abovethelaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ai4brazil",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ai4brazil",
+      "schema:name": "AI4Brazil",
+      "sota:entityType": "media",
+      "schema:url": "https://ai4brazil.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-akerman",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-akerman",
+      "schema:name": "Akerman",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.akerman.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bar-and-bench",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bar-and-bench",
+      "schema:name": "Bar & Bench",
+      "sota:entityType": "media",
+      "schema:url": "https://www.barandbench.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clio",
+      "schema:name": "Clio",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.clio.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-confilegal",
+      "schema:name": "Confilegal",
+      "sota:entityType": "media",
+      "schema:url": "https://confilegal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-periodico",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-el-periodico",
+      "schema:name": "El Periódico",
+      "sota:entityType": "media",
+      "schema:url": "https://www.elperiodico.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-enter",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-enter",
+      "schema:name": "Enter (Talisman AI Ltda.)",
+      "sota:entityType": "vendor",
+      "schema:url": "https://enter.com.br/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-expansion",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-expansion",
+      "schema:name": "Expansión",
+      "sota:entityType": "media",
+      "schema:url": "https://www.expansion.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ideallegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ideallegal",
+      "schema:name": "iDealLegal.ai",
+      "sota:entityType": "vendor",
+      "schema:url": "https://ideallegal.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-it-insider",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-it-insider",
+      "schema:name": "Legal IT Insider",
+      "sota:entityType": "media",
+      "schema:url": "https://legaltechnology.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalitas",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legalitas",
+      "schema:name": "Legálitas",
+      "sota:entityType": "company",
+      "schema:url": "https://www.legalitas.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nyai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nyai",
+      "schema:name": "NYAI",
+      "sota:entityType": "vendor",
+      "schema:url": "https://nyai.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-oab-rj",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-oab-rj",
+      "schema:name": "OAB Rio de Janeiro (OAB-RJ)",
+      "sota:entityType": "association",
+      "schema:url": "https://www.oabrj.org.br/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-oab-sp",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-oab-sp",
+      "schema:name": "OAB São Paulo (OAB SP)",
+      "sota:entityType": "association",
+      "schema:url": "https://www.oabsp.org.br/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ropes-gray",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ropes-gray",
+      "schema:name": "Ropes & Gray",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.ropesgray.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-popular-heping",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tribunal-popular-heping",
+      "schema:name": "Tribunal Popular del Distrito de Heping (Tianjin)",
+      "sota:entityType": "court",
+      "schema:url": "https://www.court.gov.cn/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-popular",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tribunal-supremo-popular",
+      "schema:name": "Tribunal Supremo Popular de China",
+      "sota:entityType": "court",
+      "schema:url": "https://www.court.gov.cn/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vlex",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-vlex",
+      "schema:name": "vLex",
+      "sota:entityType": "vendor",
+      "schema:url": "https://vlex.com/",
+      "sota:stub": true
+    }
+  ]
+}

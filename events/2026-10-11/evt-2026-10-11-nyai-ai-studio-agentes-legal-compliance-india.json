@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-11-nyai-ai-studio-agentes-legal-compliance-india",
+  "date": "2026-10-09",
+  "type": "product",
+  "sota_score": 6.7,
+  "ai_legaltech": true,
+  "title": "NYAI lanza AI Studio en India: una plataforma model-agnostic para que despachos y equipos de compliance construyan y gobiernen sus propios agentes de IA",
+  "summary_p1": "NYAI anunció el lanzamiento de NYAI AI Studio, que presenta como la primera plataforma de infraestructura de IA agéntica de India para despachos y para las funciones legales y de compliance de las empresas; Bar & Bench lo publicó el 9 de octubre de 2026. La plataforma es model-agnostic (agnóstica del modelo): se integra con Claude, GPT, Microsoft Copilot y Gemini, los datos de la organización permanecen en el entorno de NYAI y la inferencia se ejecuta por el ecosistema de IA que elija cada cliente. Incluye agentes listos para usar (intake, due diligence, gestión de consentimiento bajo la ley india de protección de datos), un constructor para que abogados y profesionales de compliance diseñen los suyos con sus playbooks (guías de negociación), precedentes y cláusulas, un knowledge graph (grafo de conocimiento) con memoria organizativa y orquestación de varios agentes sobre un mismo asunto, por ejemplo en una due diligence de M&A. Declara más de 100 integraciones (iManage, SAP, DocuSign, Salesforce, correo y WhatsApp), controles de acceso por roles, single sign-on, evaluación de modelos y audit trails (registros de auditoría), además de certificación ISO/IEC 27001:2022 y SOC 2 Type II.",
+  "summary_p2": "La lectura para un despacho o un equipo in-house es la tesis de infraestructura frente a producto cerrado: en vez de comprar otro point solution (herramienta puntual), se construye una práctica de IA propia sobre una capa que gobierna datos, modelos y costes. Eso puede reducir el riesgo de datos dispersos entre aplicaciones, pero traslada la responsabilidad de diseñar y validar cada agente al cliente. Conviene pedir, antes de piloto, cómo se evalúan los modelos, qué queda en los logs y cuál de los tres modelos de despliegue que cita el anuncio encaja con los requisitos de residencia de datos. Es un comunicado de lanzamiento reproducido por un medio: \"primera de India\" es afirmación de la empresa, no hay benchmarks ni clientes nombrados, está disponible en India desde ya y NYAI prevé extenderlo a Oriente Medio, EE. UU., Europa y Asia-Pacífico en el próximo trimestre.",
+  "why_sota": "Plataforma de agentes con gobernanza de datos y modelos elegidos por el cliente, orientada a legal y compliance, con certificaciones de seguridad declaradas.",
+  "why_now": "Publicación Bar & Bench 9 Oct 2026 (anuncio 5 Oct según Legal IT Insider). NEW vs PASS 09-29→10-10.",
+  "geo": [
+    "IN"
+  ],
+  "topics": [
+    "agentes",
+    "model-agnostic",
+    "compliance",
+    "gobernanza",
+    "due-diligence"
+  ],
+  "sources": [
+    {
+      "source_id": "src-bar-and-bench",
+      "url": "https://www.barandbench.com/news/nyai-launches-nyai-ai-studio-indias-first-agentic-ai-infrastructure-platform-for-legal-and-compliance",
+      "cited_title": "NYAI launches NYAI AI Studio: India's first Agentic AI Infrastructure Platform for legal and compliance",
+      "accessed": "2026-10-11"
+    }
+  ],
+  "entities": [
+    "ent-nyai",
+    "ent-bar-and-bench"
+  ],
+  "lang": "es",
+  "status": "published"
+}

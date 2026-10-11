@@ -1366,3 +1366,180 @@ entities:
   aliases: []
   notes: Medio canadiense de LegalTech. Ficha mínima.
   stub: true
+- id: ent-enter
+  name: Enter (Talisman AI Ltda.)
+  type: vendor
+  url: https://enter.com.br/
+  geo:
+  - BR
+  aliases:
+  - Talisman AI
+  - Enter
+  notes: Legaltech brasileña de IA agéntica para el contencioso de masa de grandes
+    empresas; demandada por la OAB SP. Ficha mínima.
+  stub: true
+- id: ent-oab-sp
+  name: OAB São Paulo (OAB SP)
+  type: association
+  url: https://www.oabsp.org.br/
+  geo:
+  - BR
+  aliases:
+  - OAB-SP
+  - Ordem dos Advogados do Brasil, Seção São Paulo
+  notes: Seccional paulista de la Ordem dos Advogados do Brasil; autora de la ação
+    civil pública contra Enter. Ficha mínima.
+  stub: true
+- id: ent-oab-rj
+  name: OAB Rio de Janeiro (OAB-RJ)
+  type: association
+  url: https://www.oabrj.org.br/
+  geo:
+  - BR
+  aliases:
+  - OAB-RJ
+  notes: Seccional de Río de Janeiro de la Ordem dos Advogados do Brasil; pide sumarse
+    como coautora a la acción contra Enter. Ficha mínima.
+  stub: true
+- id: ent-ai4brazil
+  name: AI4Brazil
+  type: media
+  url: https://ai4brazil.com/
+  geo:
+  - BR
+  aliases: []
+  notes: Medio en inglés sobre IA en Brasil. Ficha mínima.
+  stub: true
+- id: ent-tribunal-popular-heping
+  name: Tribunal Popular del Distrito de Heping (Tianjin)
+  type: court
+  url: https://www.court.gov.cn/
+  geo:
+  - CN
+  aliases:
+  - Heping People's Court
+  notes: Juzgado de primera instancia de Tianjin que cerró por mediación un caso de
+    adaptación con IA sin licencia. Ficha mínima.
+  stub: true
+- id: ent-tribunal-supremo-popular
+  name: Tribunal Supremo Popular de China
+  type: court
+  url: https://www.court.gov.cn/
+  geo:
+  - CN
+  aliases:
+  - Supreme People's Court
+  - SPC
+  notes: Máximo órgano judicial de China; aprobó en septiembre de 2026 una Opinión
+    sobre litigios de inteligencia artificial. Ficha mínima.
+  stub: true
+- id: ent-ropes-gray
+  name: Ropes & Gray
+  type: law_firm
+  url: https://www.ropesgray.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Despacho Big Law estadounidense; amplía el cómputo de horas de experimentación
+    con IA. Ficha mínima.
+  stub: true
+- id: ent-akerman
+  name: Akerman
+  type: law_firm
+  url: https://www.akerman.com/
+  geo:
+  - US
+  aliases: []
+  notes: Despacho estadounidense que formaliza la experimentación con IA como asignación
+    para asociados. Ficha mínima.
+  stub: true
+- id: ent-aba-journal
+  name: ABA Journal
+  type: media
+  url: https://www.abajournal.com/
+  geo:
+  - US
+  aliases: []
+  notes: Revista de la American Bar Association. Ficha mínima.
+  stub: true
+- id: ent-above-the-law
+  name: Above the Law
+  type: media
+  url: https://abovethelaw.com/
+  geo:
+  - US
+  aliases:
+  - ATL
+  notes: Medio estadounidense de actualidad de la abogacía; contenido de opinión.
+    Ficha mínima.
+  stub: true
+- id: ent-vlex
+  name: vLex
+  type: vendor
+  url: https://vlex.com/
+  geo:
+  - ES
+  - Global
+  aliases: []
+  notes: Base de datos jurídica global con IA (Vincent), adquirida por Clio. Ficha
+    mínima.
+  stub: true
+- id: ent-el-periodico
+  name: El Periódico
+  type: media
+  url: https://www.elperiodico.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Diario español; sección de economía y empresas. Ficha mínima.
+  stub: true
+- id: ent-legalitas
+  name: Legálitas
+  type: company
+  url: https://www.legalitas.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Empresa española de asistencia jurídica por suscripción para particulares,
+    autónomos y pymes. Ficha mínima.
+  stub: true
+- id: ent-expansion
+  name: Expansión
+  type: media
+  url: https://www.expansion.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Diario económico español. Ficha mínima.
+  stub: true
+- id: ent-nyai
+  name: NYAI
+  type: vendor
+  url: https://nyai.ai/
+  geo:
+  - IN
+  aliases: []
+  notes: Compañía india de legal y compliance technology; lanza NYAI AI Studio. Ficha
+    mínima.
+  stub: true
+- id: ent-bar-and-bench
+  name: Bar & Bench
+  type: media
+  url: https://www.barandbench.com/
+  geo:
+  - IN
+  aliases: []
+  notes: Medio jurídico indio. Ficha mínima.
+  stub: true
+- id: ent-ideallegal
+  name: iDealLegal.ai
+  type: vendor
+  url: https://ideallegal.ai/
+  geo:
+  - US
+  aliases:
+  - S&O LEGAL LLC
+  notes: Startup bootstrapped de revisión de contratos con IA multi-modelo en Word.
+    Ficha mínima.
+  stub: true

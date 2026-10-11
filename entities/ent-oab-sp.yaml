@@ -1,0 +1,12 @@
+id: ent-oab-sp
+name: OAB São Paulo (OAB SP)
+type: association
+url: https://www.oabsp.org.br/
+geo:
+- BR
+aliases:
+- OAB-SP
+- Ordem dos Advogados do Brasil, Seção São Paulo
+notes: Seccional paulista de la Ordem dos Advogados do Brasil; autora de la ação civil
+  pública contra Enter. Ficha mínima.
+stub: true

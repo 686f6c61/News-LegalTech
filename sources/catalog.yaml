@@ -1361,3 +1361,57 @@ sources:
     region: "US / Global"
     lang: "EN"
     tier: archive
+  - id: src-oab-sp
+    name: "OAB SP (Ordem dos Advogados do Brasil, Seção São Paulo)"
+    url: "https://www.oabsp.org.br/"
+    type: association
+    frequency: "ad-hoc"
+    why: "Seccional paulista de la OAB; comunicados y Jornal da Advocacia. Ficha añadida para citar una URL de oabsp.org.br."
+    region: "Brasil"
+    lang: "PT"
+    tier: archive
+  - id: src-ai4brazil
+    name: "AI4Brazil"
+    url: "https://ai4brazil.com/"
+    type: news
+    frequency: "ad-hoc"
+    why: "Medio en inglés sobre IA y regulación en Brasil. Ficha añadida para citar una URL de ai4brazil.com."
+    region: "Brasil"
+    lang: "EN"
+    tier: archive
+  - id: src-aba-journal
+    name: "ABA Journal"
+    url: "https://www.abajournal.com/"
+    type: news
+    frequency: "diario"
+    why: "Revista de la American Bar Association; noticias de la abogacía estadounidense. Ficha añadida para citar una URL de abajournal.com."
+    region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-el-periodico
+    name: "El Periódico"
+    url: "https://www.elperiodico.com/"
+    type: news
+    frequency: "ad-hoc"
+    why: "Diario español; economía y empresas (entrevistas a legaltech). Ficha añadida para citar una URL de elperiodico.com."
+    region: "ES"
+    lang: "ES"
+    tier: archive
+  - id: src-expansion
+    name: "Expansión"
+    url: "https://www.expansion.com/"
+    type: news
+    frequency: "ad-hoc"
+    why: "Diario económico español; tecnología y empresas jurídicas. Ficha añadida para citar una URL de expansion.com."
+    region: "ES"
+    lang: "ES"
+    tier: archive
+  - id: src-bar-and-bench
+    name: "Bar & Bench"
+    url: "https://www.barandbench.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio jurídico indio; lanzamientos legaltech y tribunales. Ficha añadida para citar una URL de barandbench.com."
+    region: "India"
+    lang: "EN"
+    tier: archive

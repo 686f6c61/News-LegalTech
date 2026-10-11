@@ -1,0 +1,10 @@
+id: ent-legalitas
+name: Legálitas
+type: company
+url: https://www.legalitas.com/
+geo:
+- ES
+aliases: []
+notes: Empresa española de asistencia jurídica por suscripción para particulares,
+  autónomos y pymes. Ficha mínima.
+stub: true

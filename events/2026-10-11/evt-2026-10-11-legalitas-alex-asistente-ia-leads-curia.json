@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-11-legalitas-alex-asistente-ia-leads-curia",
+  "date": "2026-10-09",
+  "type": "market",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "Legálitas cuenta cómo su asistente Álex alcanza 1,5 millones de usuarios y unos 10.000 leads al mes, y cómo su herramienta Curia reduce la redacción de diez minutos a uno",
+  "summary_p1": "Expansión publicó el 9 de octubre de 2026 una entrevista con directivos de Legálitas, empresa de asistencia jurídica por suscripción para particulares, autónomos y pymes, sobre su uso de IA. Su asistente Álex, lanzado en mayo de 2025, responde gratis a consultas legales en lenguaje natural, recomienda un servicio jurídico de Legálitas o de terceros cuando hace falta y, según sus responsables, suma 1,5 millones de usuarios únicos y unas 80.000 conversaciones semanales. El 80% de las consultas son informativas y el 20% restante, unos 10.000 leads (contactos comerciales) al mes, deriva a un abogado. Álex tiene un CEO propio y libertad para derivar a despachos asociados, de modo que Legálitas debe ganarse la derivación como un colaborador más. Internamente usa agentes de voz sobre ElevenLabs para el triaje entre 27 especialidades y una herramienta, Curia, que procesa la conversación cliente-abogado y los documentos aportados para autorrellenar el escrito legal.",
+  "summary_p2": "Es un caso útil para despachos de consumo y pyme porque pone cifras de negocio a una idea: la IA no sustituye al abogado sino que amplía la demanda al convertir en usuarios a personas que nunca habrían ido a un despacho. También muestra una arquitectura prudente: los agentes combinan lenguaje natural con flujos de decisión deterministas y guardarraíles, de modo que solo ejecutan acciones autorizadas en carriles delimitados. Y aporta una cuestión de gobernanza de la derivación de clientes, que un abogado asociado debería mirar con atención (criterios, competencia, conflicto de intereses). Todas las cifras son declaraciones del CEO y de los directivos de la compañía en una entrevista: el coste de triaje \"cero\" frente a más de un euro por llamada, la adopción interna de Curia del 80% al 90% y la reducción de diez minutos a un minuto por documento no están verificadas de forma independiente.",
+  "why_sota": "Datos operativos de un actor español de asistencia jurídica sobre embudo de leads, agentes de voz y redacción asistida con guardarraíles.",
+  "why_now": "Expansión 9 Oct 2026. NEW vs PASS 09-29→10-10.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "asistente-juridico",
+    "leads",
+    "agentes-de-voz",
+    "guardarrailes",
+    "acceso-justicia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-expansion",
+      "url": "https://www.expansion.com/tecnologia/2026/10/09/legalitas-juridico-hay-oportunidad-crear-negocio-ia-destruirlo.html",
+      "cited_title": "Legálitas: \"En jurídico hay más oportunidad de crear negocio con IA que de destruirlo\"",
+      "accessed": "2026-10-11"
+    }
+  ],
+  "entities": [
+    "ent-legalitas",
+    "ent-expansion"
+  ],
+  "lang": "es",
+  "status": "published"
+}

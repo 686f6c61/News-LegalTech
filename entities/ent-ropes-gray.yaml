@@ -1,0 +1,11 @@
+id: ent-ropes-gray
+name: Ropes & Gray
+type: law_firm
+url: https://www.ropesgray.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Despacho Big Law estadounidense; amplía el cómputo de horas de experimentación
+  con IA. Ficha mínima.
+stub: true

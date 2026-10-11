@@ -1,0 +1,12 @@
+id: ent-enter
+name: Enter (Talisman AI Ltda.)
+type: vendor
+url: https://enter.com.br/
+geo:
+- BR
+aliases:
+- Talisman AI
+- Enter
+notes: Legaltech brasileña de IA agéntica para el contencioso de masa de grandes empresas;
+  demandada por la OAB SP. Ficha mínima.
+stub: true

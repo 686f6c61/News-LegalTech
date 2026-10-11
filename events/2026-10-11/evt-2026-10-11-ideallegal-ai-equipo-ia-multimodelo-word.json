@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-11-ideallegal-ai-equipo-ia-multimodelo-word",
+  "date": "2026-10-09",
+  "type": "product",
+  "sota_score": 6.2,
+  "ai_legaltech": true,
+  "title": "iDealLegal.ai, una startup bootstrapped de 2026, pone en Word un equipo de IA que cruza GPT, Claude y Gemini y marca para revisión humana los desacuerdos entre modelos",
+  "summary_p1": "Legal IT Insider presentó el 9 de octubre de 2026, en su sección Startup Corner, a iDealLegal.ai, fundada en enero de 2026 y financiada por su fundador, el abogado transaccional Sergey Ovcharov, que sigue siendo chief legal counsel de un estudio de videojuegos de Los Ángeles. Es un add-in de Word (escritorio y Word Online, desde Microsoft AppSource) que revisa contratos con tres modelos, GPT, Claude y Gemini, que se cruzan entre sí: si coinciden aumenta la confianza y si discrepan se marca la cláusula para un humano en lugar de resolverla en silencio. Hay tres niveles de agente, del junior al senior, y playbooks por tipo de contrato (SaaS y licencias, desarrollo de videojuegos, acuerdos de talento e influencers) escritos y verificados por abogados, que el despacho puede editar o ampliar. En planes de pago declara zero data retention (el texto del contrato se borra tras la revisión y no se usa para entrenar).",
+  "summary_p2": "Para despachos de 1 a 20 abogados que hacen contratos tecnológicos, y para equipos in-house de 1 a 5 personas, el interés está en el patrón: revisión por múltiples modelos con un criterio explícito de escalado a humano, en la herramienta donde el abogado ya trabaja. Ese diseño responde a la pregunta habitual de \"¿por qué no usar ChatGPT?\" con arquitectura y no con marca. Hay que contrastarlo con una prueba propia antes de confiar: es una entrevista de la propia startup, las cifras (un contrato de 20 páginas en unos 5 minutos; de cuatro horas a 10-15 minutos de trabajo) son declaradas por la empresa y no hay benchmark independiente ni referencias de clientes. Es un producto de nicho, sin pretensión de servir a Big Law, con plan gratuito de cinco créditos al mes y un programa Founding 100 con descuento del 50%.",
+  "why_sota": "Diseño multi-modelo con escalado explícito a humano y playbooks por tipo de contrato para el segmento de despachos pequeños.",
+  "why_now": "Legal IT Insider 9 Oct 2026. NEW vs PASS 09-29→10-10.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "contratos",
+    "multi-modelo",
+    "playbooks",
+    "word",
+    "startups"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/startup-corner-meet-ideallegal-ai-a-new-legal-ai-team/",
+      "cited_title": "Startup Corner: Meet iDealLegal.ai, a new legal AI team",
+      "accessed": "2026-10-11"
+    }
+  ],
+  "entities": [
+    "ent-ideallegal",
+    "ent-legal-it-insider"
+  ],
+  "lang": "es",
+  "status": "published"
+}

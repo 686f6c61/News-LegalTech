@@ -1,0 +1,9 @@
+id: ent-bar-and-bench
+name: Bar & Bench
+type: media
+url: https://www.barandbench.com/
+geo:
+- IN
+aliases: []
+notes: Medio jurídico indio. Ficha mínima.
+stub: true

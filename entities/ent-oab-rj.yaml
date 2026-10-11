@@ -1,0 +1,11 @@
+id: ent-oab-rj
+name: OAB Rio de Janeiro (OAB-RJ)
+type: association
+url: https://www.oabrj.org.br/
+geo:
+- BR
+aliases:
+- OAB-RJ
+notes: Seccional de Río de Janeiro de la Ordem dos Advogados do Brasil; pide sumarse
+  como coautora a la acción contra Enter. Ficha mínima.
+stub: true

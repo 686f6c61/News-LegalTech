@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-11-tianjin-ia-plagio-opinion-supremo-popular",
+  "date": "2026-10-09",
+  "type": "case_law",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Un juzgado de Tianjin cierra por mediación un caso de serie animada hecha con IA a partir de una novela ajena, bajo la nueva Opinión del Supremo Popular sobre litigios de IA",
+  "summary_p1": "Según Confilegal (11 de octubre de 2026), que cita a Tianjin Daily del 9 de octubre, el Tribunal Popular del Distrito de Heping, en Tianjin, trató el caso de un tercero que introdujo una novela protegida en una herramienta generativa, obtuvo una serie de animación (un \"AI comic drama\") y la difundió en Internet sin permiso del autor. El juzgado comparó ambas obras frase por frase y apreció similitud sustancial; los derechos afectados eran el de transformación (adaptación) y el de comunicación pública en redes. No hubo sentencia: el asunto acabó con una mediación judicial en la que el demandado se comprometió a eliminar los contenidos, cesar la difusión e indemnizar al titular por daños y gastos de defensa, sin que se hayan hecho públicos la cuantía, las partes ni la novela. Es uno de los primeros casos conocidos que aplica la Opinión sobre litigios de IA que el Tribunal Supremo Popular presentó el 7 de septiembre de 2026, un documento de 24 artículos que orienta la aplicación del Código Civil y de las leyes de derechos de autor y de datos personales, pero no es una ley.",
+  "summary_p2": "Lo útil para un abogado de propiedad intelectual o de tecnología es el diseño de la Opinión más que el caso. Reparte la responsabilidad entre desarrollador, proveedor y usuario según el tipo de servicio, el origen de los training data (datos de entrenamiento), el grado de participación y las medidas adoptadas; invierte en parte la carga de la prueba, de modo que el desarrollador que niega la infracción debe acreditar el origen de los datos, los registros de entrenamiento y el funcionamiento del modelo; y dice que el usuario que sabía o debía saber de la obra previa y generó otra sustancialmente similar, sin defensa razonable, debe perder. El artículo 21 empuja además a la mediación previa. Matices: es información de segunda mano a través de un diario local y de Confilegal; la Opinión evita pronunciarse, por ahora, sobre si el contenido generado por IA es protegible y sobre el entrenamiento con obras sin licencia, así que el caso no dice nada sobre training; y no es el primer caso de este tipo en China, como muestran los de Shanghái y Wuhan que menciona la propia información.",
+  "why_sota": "Aplicación temprana de la primera norma de enjuiciamiento de IA del Supremo chino, con reparto de responsabilidad y carga de la prueba sobre training data.",
+  "why_now": "Tianjin Daily 9 Oct 2026; Confilegal 11 Oct. NEW vs PASS 09-29→10-10.",
+  "geo": [
+    "CN"
+  ],
+  "topics": [
+    "derechos-autor",
+    "china",
+    "training-data",
+    "mediacion",
+    "responsabilidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261011-tianjin-ia-novela-serie-animacion-derechos-autor-supremo-chino/",
+      "cited_title": "La IA no exime del plagio en China: un tribunal aplica la nueva Opinión del Supremo Popular sobre inteligencia artificial",
+      "accessed": "2026-10-11"
+    }
+  ],
+  "entities": [
+    "ent-tribunal-popular-heping",
+    "ent-tribunal-supremo-popular",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

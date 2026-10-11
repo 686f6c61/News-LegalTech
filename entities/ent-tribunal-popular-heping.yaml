@@ -1,0 +1,11 @@
+id: ent-tribunal-popular-heping
+name: Tribunal Popular del Distrito de Heping (Tianjin)
+type: court
+url: https://www.court.gov.cn/
+geo:
+- CN
+aliases:
+- Heping People's Court
+notes: Juzgado de primera instancia de Tianjin que cerró por mediación un caso de
+  adaptación con IA sin licencia. Ficha mínima.
+stub: true

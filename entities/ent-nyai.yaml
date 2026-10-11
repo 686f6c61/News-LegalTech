@@ -1,0 +1,10 @@
+id: ent-nyai
+name: NYAI
+type: vendor
+url: https://nyai.ai/
+geo:
+- IN
+aliases: []
+notes: Compañía india de legal y compliance technology; lanza NYAI AI Studio. Ficha
+  mínima.
+stub: true

@@ -1,0 +1,9 @@
+id: ent-el-periodico
+name: El Periódico
+type: media
+url: https://www.elperiodico.com/
+geo:
+- ES
+aliases: []
+notes: Diario español; sección de economía y empresas. Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-vlex
+name: vLex
+type: vendor
+url: https://vlex.com/
+geo:
+- ES
+- Global
+aliases: []
+notes: Base de datos jurídica global con IA (Vincent), adquirida por Clio. Ficha mínima.
+stub: true

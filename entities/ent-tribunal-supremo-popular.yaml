@@ -1,0 +1,12 @@
+id: ent-tribunal-supremo-popular
+name: Tribunal Supremo Popular de China
+type: court
+url: https://www.court.gov.cn/
+geo:
+- CN
+aliases:
+- Supreme People's Court
+- SPC
+notes: Máximo órgano judicial de China; aprobó en septiembre de 2026 una Opinión sobre
+  litigios de inteligencia artificial. Ficha mínima.
+stub: true

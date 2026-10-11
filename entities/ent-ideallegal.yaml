@@ -1,0 +1,11 @@
+id: ent-ideallegal
+name: iDealLegal.ai
+type: vendor
+url: https://ideallegal.ai/
+geo:
+- US
+aliases:
+- S&O LEGAL LLC
+notes: Startup bootstrapped de revisión de contratos con IA multi-modelo en Word.
+  Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-akerman
+name: Akerman
+type: law_firm
+url: https://www.akerman.com/
+geo:
+- US
+aliases: []
+notes: Despacho estadounidense que formaliza la experimentación con IA como asignación
+  para asociados. Ficha mínima.
+stub: true

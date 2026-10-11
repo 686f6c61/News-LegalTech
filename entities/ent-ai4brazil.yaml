@@ -1,0 +1,9 @@
+id: ent-ai4brazil
+name: AI4Brazil
+type: media
+url: https://ai4brazil.com/
+geo:
+- BR
+aliases: []
+notes: Medio en inglés sobre IA en Brasil. Ficha mínima.
+stub: true
