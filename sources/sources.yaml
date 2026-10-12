@@ -1,4 +1,4 @@
-# Starter subset (~14). Full ~128 catalog: /workspace/legaltech/fuentes-legaltech-mundiales.md
+# Starter subset (~14). El tamaño del catálogo está en catalog.yaml: count = fichas kind news.
 sources:
   - id: src-aepd
     name: AEPD. Agencia Española de Protección de Datos

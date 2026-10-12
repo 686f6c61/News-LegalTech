@@ -517,6 +517,77 @@ class IntegrityTests(unittest.TestCase):
     def test_repo_integrity(self) -> None:
         self.assertEqual(br.integrity_problems(br.ROOT), [])
 
+    def test_catalog_news_count_excludes_agenda(self) -> None:
+        import yaml
+        from collections import Counter
+        from urllib.parse import urlparse
+
+        catalog = yaml.safe_load((br.ROOT / "sources" / "catalog.yaml").read_text(encoding="utf-8"))
+        alias = yaml.safe_load((br.ROOT / "sources" / "full-catalog.yaml").read_text(encoding="utf-8"))
+        sources = catalog["sources"]
+        self.assertEqual(alias["sources"], sources)
+        self.assertEqual({item.get("kind") for item in sources}, {"news", "agenda"})
+        news = [item for item in sources if item["kind"] == "news"]
+        agenda = [item for item in sources if item["kind"] == "agenda"]
+        self.assertEqual(catalog["count"], len(news))
+        self.assertEqual(catalog["agenda_count"], len(agenda))
+        self.assertEqual(alias["count"], len(news))
+        self.assertEqual(alias["agenda_count"], len(agenda))
+        sentence = f"Hoy hay {len(news)} fuentes news y {len(agenda)} fuentes agenda."
+        readme = (br.ROOT / "README.md").read_text(encoding="utf-8")
+        sources_readme = (br.ROOT / "sources" / "README.md").read_text(encoding="utf-8")
+        self.assertIn(sentence, readme)
+        self.assertIn(sentence, sources_readme)
+        self.assertNotIn("~141", readme)
+        self.assertNotIn("~128", sources_readme)
+
+        def host(url: str) -> str:
+            name = (urlparse(url).hostname or "").lower().rstrip(".")
+            if name.startswith("www."):
+                name = name[4:]
+            return name
+
+        counts = Counter(host(item["url"]) for item in sources)
+        for domain in (
+            "iltanet.org",
+            "cloc.org",
+            "acc.com",
+            "aceds.org",
+            "ab2l.org.br",
+            "artificiallawyer.com",
+            "lawnext.com",
+            "law.com",
+            "hublegaltech.com",
+        ):
+            self.assertEqual(counts[domain], 1, domain)
+        removed = {
+            "src-iltacon",
+            "src-artificial-lawyer-newsletter",
+            "src-legaltech-news-alertas-alm",
+            "src-glth-events-glthday",
+            "src-iberley-ia-uxia",
+        }
+        present = {item["id"] for item in sources}
+        self.assertTrue(removed.isdisjoint(present))
+        for source_id in (
+            "src-aesia",
+            "src-edpb",
+            "src-curia",
+            "src-cnmc",
+            "src-cnil",
+            "src-ico",
+            "src-aaip",
+            "src-diario-la-ley",
+            "src-cinco-dias",
+            "src-lawandtrends",
+            "src-jota",
+            "src-conjur",
+            "src-iapp",
+            "src-legal-cheek",
+            "src-lexology",
+        ):
+            self.assertIn(source_id, present)
+
 
 if __name__ == "__main__":
     unittest.main()
