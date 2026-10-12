@@ -1,0 +1,11 @@
+id: ent-co-op-legal-services
+name: Co-op Legal Services
+type: law_firm
+url: https://www.co-oplegalservices.co.uk/
+geo:
+- GB
+aliases:
+- CLS
+notes: Alternative business structure (ABS) británica propiedad del grupo Co-op; testamentos,
+  sucesiones y otros servicios para consumidores. Ficha mínima.
+stub: true

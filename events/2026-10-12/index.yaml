@@ -1,0 +1,53 @@
+scan_id: full-radar-2026-10-12
+date: '2026-10-12'
+release: 12.10.26
+count: 7
+ai_share: 0.86
+dedup_against: events/2026-09-29 → 2026-10-11 + scans PASS
+event_ids:
+- evt-2026-10-12-judicatura-uk-position-statement-ia-judicial
+- evt-2026-10-12-florida-4dca-kid-international-costas-citas-ia
+- evt-2026-10-12-co-op-legal-services-ia-monitoriza-llamadas
+- evt-2026-10-12-openai-ironclad-gpt-6-astra-tareas-contratacion
+- evt-2026-10-12-wolters-kluwer-libra-drafting-editor-word
+- evt-2026-10-12-haqq-colegio-abogados-nuevo-cairo-socio-exclusivo
+- evt-2026-10-12-behavox-compra-apiax-compliance-reglas-maquina
+events:
+- id: evt-2026-10-12-judicatura-uk-position-statement-ia-judicial
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'La judicatura de Inglaterra y Gales publica su position statement (declaración
+    de posición) sobre IA: apoyo sí, sustitución no, solo herramientas aprobadas y
+    un único comité de aprobación'
+- id: evt-2026-10-12-florida-4dca-kid-international-costas-citas-ia
+  sota_score: 7.3
+  ai_legaltech: true
+  title: Un tribunal de apelación de Florida impone a apelantes y abogados las costas
+    de la apelación por una brief (escrito) con un caso inexistente citado siete veces
+- id: evt-2026-10-12-co-op-legal-services-ia-monitoriza-llamadas
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Co-op Legal Services defiende que su IA grabe y puntúe todas las llamadas
+    de sus asesores después de que un whistleblower la llamara "opresiva y distópica"
+- id: evt-2026-10-12-openai-ironclad-gpt-6-astra-tareas-contratacion
+  sota_score: 6.8
+  ai_legaltech: true
+  title: OpenAI entrena GPT-6 Astra con tareas de contratación de Ironclad, su primer
+    socio de software, y conecta sus contratos a ChatGPT por MCP
+- id: evt-2026-10-12-wolters-kluwer-libra-drafting-editor-word
+  sota_score: 6.4
+  ai_legaltech: true
+  title: 'Wolters Kluwer lanza Drafting en Libra: un editor tipo Word dentro de su
+    espacio de IA jurídica, con las plantillas del despacho y la investigación en
+    la misma pantalla'
+- id: evt-2026-10-12-haqq-colegio-abogados-nuevo-cairo-socio-exclusivo
+  sota_score: 5.8
+  ai_legaltech: true
+  title: HAQQ pasa a ser socio tecnológico oficial y exclusivo del Colegio de Abogados
+    de Nuevo Cairo, con cerca de 22.000 colegiados
+- id: evt-2026-10-12-behavox-compra-apiax-compliance-reglas-maquina
+  sota_score: 5.6
+  ai_legaltech: false
+  title: Behavox compra Apiax, la suiza que convierte regulación financiera en reglas
+    legibles por máquina, para unir inteligencia regulatoria, vigilancia y registro
+    en una sola cadena de evidencias

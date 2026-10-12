@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-12-judicatura-uk-position-statement-ia-judicial",
+  "date": "2026-10-09",
+  "type": "guidance",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "La judicatura de Inglaterra y Gales publica su position statement (declaración de posición) sobre IA: apoyo sí, sustitución no, solo herramientas aprobadas y un único comité de aprobación",
+  "summary_p1": "La judicatura de Inglaterra y Gales publicó el 9 de octubre de 2026 una position statement (declaración de posición) sobre el uso judicial de la IA, firmada por Sir Colin Birss, juez principal para IA, que será Master of the Rolls a partir del mes que viene según Legal Futures. El texto dice que el enfoque será \"cautious but positive\" (cauto pero positivo): la IA se adoptará para apoyar, no para sustituir, la decisión judicial, bajo salvaguardas estrictas y pruebas rigurosas. Las decisiones las toma siempre un juez; la IA no puede determinar el resultado de un caso ni desplazar el razonamiento, el análisis ni la discrecionalidad judicial, y toda salida de IA usada en el trabajo judicial debe ser revisada, verificada y aprobada por el juez responsable, que sigue siendo plenamente responsable. Solo pueden usarse herramientas aprobadas y, según Legal Futures, deben tener residencia de datos en el Reino Unido, protección de datos de nivel enterprise y acceso web desactivado. Los pilotos probaron resumen, transcripción, redacción de borradores en lenguaje accesible, tareas administrativas, cronologías y análisis de documentos, con casos de uso de bajo riesgo en entornos controlados. Cualquier herramienta o piloto nuevo pasa por un grupo de dirección central presidido por el juez principal de IA, que será la única vía de supervisión. Complementa la guía judicial de diciembre de 2023, actualizada en abril y octubre de 2025.",
+  "summary_p2": "Para un abogado litigante es la primera descripción pública del marco con el que los tribunales británicos van a usar IA ellos mismos, y fija expectativas que probablemente se trasladen a lo que se espera de quien litiga: verificación humana de cada salida y responsabilidad personal. Para un vendor que aspire a vender a tribunales o servicios públicos de justicia el listón es concreto: residencia de datos en el Reino Unido, protección enterprise, sin acceso web y paso previo por un único comité, lo que favorece a proveedores con despliegues soberanos y deja fuera a herramientas generalistas. Para un in-house o un despacho es además un modelo reutilizable de política interna, con lista de herramientas aprobadas, responsable nombrado y canal único para nuevos usos. Matiz: es una declaración de posición, no una norma procesal; no lista las herramientas aprobadas y dice que no lo hará por el ritmo de cambio.",
+  "why_sota": "Marco público y específico de una judicatura de common law para su propio uso de IA, con criterios técnicos de herramienta aprobada y gobernanza centralizada.",
+  "why_now": "Position statement publicada el 9 Oct 2026; Legal Futures y Law Gazette la recogen. NEW vs PASS 09-29→10-11.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "ia-judicial",
+    "supervision-humana",
+    "gobernanza",
+    "residencia-de-datos",
+    "tribunales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-judiciary-uk",
+      "url": "https://www.judiciary.uk/guidance-and-resources/position-statement-on-the-judicial-use-of-artificial-intelligence-ai/",
+      "cited_title": "Position Statement on the Judicial use of Artificial Intelligence (AI)",
+      "accessed": "2026-10-12"
+    },
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/judiciary-to-take-cautious-but-positive-approach-to-ai-use",
+      "cited_title": "Judiciary to take \"cautious but positive\" approach to AI use",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "entities": [
+    "ent-courts-tribunals-judiciary",
+    "ent-colin-birss",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-the-guardian
+name: The Guardian
+type: media
+url: https://www.theguardian.com/
+geo:
+- GB
+aliases: []
+notes: Diario británico; publicó el testimonio de un whistleblower sobre la monitorización
+  por IA en Co-op Legal Services. Ficha mínima.
+stub: true

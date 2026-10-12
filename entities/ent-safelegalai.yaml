@@ -1,0 +1,10 @@
+id: ent-safelegalai
+name: SafeLegalAI
+type: media
+url: https://safelegalai.com/
+geo:
+- US
+aliases: []
+notes: Sitio de análisis sobre IA en tribunales y alucinaciones; resúmenes de resoluciones.
+  Ficha mínima.
+stub: true

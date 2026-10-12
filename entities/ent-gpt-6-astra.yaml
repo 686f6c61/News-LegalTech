@@ -1,0 +1,11 @@
+id: ent-gpt-6-astra
+name: GPT-6 Astra
+type: product
+url: https://openai.com/
+geo:
+- US
+aliases:
+- GPT-6 Astra
+notes: Modelo de OpenAI; según AI Magazine, primer modelo frontier entrenado con tareas
+  de Ironclad. Ficha mínima.
+stub: true

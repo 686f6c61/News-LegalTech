@@ -1,0 +1,11 @@
+id: ent-new-cairo-bar-association
+name: Colegio de Abogados de Nuevo Cairo
+type: association
+url: https://www.haqq.ai/blog/haqq-new-cairo-bar-association-partnership
+geo:
+- EG
+aliases:
+- New Cairo Bar Association
+notes: Colegio de abogados egipcio con cerca de 22.000 colegiados según HAQQ. Ficha
+  mínima.
+stub: true

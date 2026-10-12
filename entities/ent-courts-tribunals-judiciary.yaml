@@ -1,0 +1,11 @@
+id: ent-courts-tribunals-judiciary
+name: Courts and Tribunals Judiciary (Inglaterra y Gales)
+type: government
+url: https://www.judiciary.uk/
+geo:
+- GB
+aliases:
+- Judiciary of England and Wales
+notes: Portal oficial de la judicatura de Inglaterra y Gales; publica la position
+  statement sobre el uso judicial de la IA. Ficha mínima.
+stub: true

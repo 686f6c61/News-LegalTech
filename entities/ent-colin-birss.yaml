@@ -1,0 +1,12 @@
+id: ent-colin-birss
+name: Sir Colin Birss
+type: other
+url: https://www.judiciary.uk/
+geo:
+- GB
+aliases:
+- Colin Birss
+notes: Juez principal para IA (Lead Judge for AI) de la judicatura de Inglaterra y
+  Gales; será Master of the Rolls desde noviembre de 2026 según Legal Futures. Ficha
+  mínima.
+stub: true

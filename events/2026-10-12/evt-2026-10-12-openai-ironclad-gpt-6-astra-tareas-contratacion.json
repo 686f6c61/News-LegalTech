@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-12-openai-ironclad-gpt-6-astra-tareas-contratacion",
+  "date": "2026-10-07",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "OpenAI entrena GPT-6 Astra con tareas de contratación de Ironclad, su primer socio de software, y conecta sus contratos a ChatGPT por MCP",
+  "summary_p1": "Según AI Magazine (7 de octubre de 2026), OpenAI se asocia con Ironclad, proveedor de contract management (gestión de contratos), para entrenar GPT-6 Astra con flujos de trabajo jurídicos complejos. Ironclad es el primer socio de software de una serie con la que OpenAI quiere que sus agentes usen mejor programas especializados para resolver problemas empresariales. GPT-6 Astra es, según la información, el primer modelo frontier de OpenAI entrenado con tareas de Ironclad: sus investigadores crearon tareas de entrenamiento sintéticas a partir de flujos representativos y usaron reinforcement learning (aprendizaje por refuerzo). La integración con ChatGPT se hace por Model Context Protocol (MCP, protocolo de conexión de herramientas) y trae al chat datos del repositorio de contratos y de los flujos de trabajo: buscar contratos, seguir el estado de un acuerdo u obtener novedades del workflow sin cambiar de pestaña. Ironclad actúa como sistema de registro, inteligencia y acción y ChatGPT como interfaz en lenguaje natural. Jason Boehmig, ex CEO de Ironclad y hoy presidente ejecutivo, entró en OpenAI en junio de 2026 y dirige su programa jurídico.",
+  "summary_p2": "Para un responsable de legal ops, la noticia indica hacia dónde van los contratos: los laboratorios frontier convierten los procesos de un proveedor de CLM en entorno de entrenamiento, mientras el proveedor mantiene el sistema de registro y los controles. Para un vendor de contratos es una señal de que la ventaja competitiva pasa por ser el socio de referencia de un laboratorio o por tener datos y flujos que ellos no tienen. Para un in-house es también una pregunta práctica de gobernanza: qué datos del repositorio salen hacia ChatGPT por MCP, con qué permisos y quién audita lo que el agente ejecuta. Matiz: es una información derivada del anuncio de las empresas; no se publican métricas de mejora del modelo y no consta que se hayan usado contratos de clientes, sino tareas sintéticas.",
+  "why_sota": "Un laboratorio frontier entrena un modelo con las tareas de un proveedor de contratos y las conecta al chat por MCP.",
+  "why_now": "AI Magazine 7 Oct 2026, un día antes del lanzamiento de Ironclad Agent. NEW vs PASS 09-29→10-11.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "contratos",
+    "clm",
+    "mcp",
+    "agentes",
+    "openai"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ai-magazine",
+      "url": "https://aimagazine.com/news/openai-ironclad-partnering-on-complex-professional-work",
+      "cited_title": "OpenAI & Ironclad: Partnering on Complex Professional Work",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "entities": [
+    "ent-openai",
+    "ent-ironclad",
+    "ent-gpt-6-astra",
+    "ent-ai-magazine"
+  ],
+  "lang": "es",
+  "status": "published"
+}

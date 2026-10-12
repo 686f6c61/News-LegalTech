@@ -1,0 +1,9 @@
+id: ent-legal-futures
+name: Legal Futures
+type: media
+url: https://www.legalfutures.co.uk/
+geo:
+- GB
+aliases: []
+notes: Medio británico de noticias del sector jurídico. Ficha mínima.
+stub: true

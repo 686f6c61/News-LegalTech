@@ -1,0 +1,12 @@
+id: ent-florida-4th-dca
+name: Florida Fourth District Court of Appeal
+type: court
+url: https://4dca.flcourts.gov/
+geo:
+- US
+aliases:
+- Florida 4th DCA
+notes: Tribunal de apelación del cuarto distrito de Florida; sancionó a apelantes
+  y abogados por citas inventadas con IA en Kid International v. City National Bank
+  of Florida. Ficha mínima.
+stub: true

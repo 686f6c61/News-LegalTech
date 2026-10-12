@@ -1,0 +1,9 @@
+id: ent-pulse-2
+name: Pulse 2.0
+type: media
+url: https://pulse2.com/
+geo:
+- US
+aliases: []
+notes: Medio de noticias de startups y tecnología. Ficha mínima.
+stub: true

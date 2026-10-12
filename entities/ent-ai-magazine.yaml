@@ -1,0 +1,9 @@
+id: ent-ai-magazine
+name: AI Magazine
+type: media
+url: https://aimagazine.com/
+geo:
+- GB
+aliases: []
+notes: Medio de noticias empresariales sobre IA. Ficha mínima.
+stub: true

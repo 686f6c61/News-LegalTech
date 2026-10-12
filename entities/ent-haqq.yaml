@@ -1,0 +1,10 @@
+id: ent-haqq
+name: HAQQ
+type: vendor
+url: https://www.haqq.ai/
+geo:
+- EG
+aliases: []
+notes: 'Legaltech con sede en El Cairo: Legal AI Chat, eFirm y Justinian, presentados
+  como sistema operativo legal. Ficha mínima.'
+stub: true

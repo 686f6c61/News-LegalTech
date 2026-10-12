@@ -1415,3 +1415,48 @@ sources:
     region: "India"
     lang: "EN"
     tier: archive
+  - id: src-judiciary-uk
+    name: "Courts and Tribunals Judiciary (Inglaterra y Gales)"
+    url: "https://www.judiciary.uk/"
+    type: government
+    frequency: "ad-hoc"
+    why: "Portal oficial de la judicatura de Inglaterra y Gales; guías y position statements sobre IA. Ficha añadida para citar una URL de judiciary.uk."
+    region: "UK"
+    lang: "EN"
+    tier: archive
+  - id: src-safelegalai
+    name: "SafeLegalAI"
+    url: "https://safelegalai.com/"
+    type: news
+    frequency: "ad-hoc"
+    why: "Sitio de análisis sobre IA en tribunales, alucinaciones y gobernanza. Ficha añadida para citar una URL de safelegalai.com."
+    region: "US"
+    lang: "EN"
+    tier: archive
+  - id: src-haqq
+    name: "HAQQ"
+    url: "https://www.haqq.ai/"
+    type: vendor
+    frequency: "ad-hoc"
+    why: "Legaltech con sede en El Cairo (Legal AI Chat, eFirm, Justinian). Ficha añadida para citar una URL de haqq.ai."
+    region: "Egipto / MENA"
+    lang: "EN"
+    tier: archive
+  - id: src-pulse-2
+    name: "Pulse 2.0"
+    url: "https://pulse2.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio de noticias de startups, deal flow y tecnología. Ficha añadida para citar una URL de pulse2.com."
+    region: "US / Global"
+    lang: "EN"
+    tier: archive
+  - id: src-ai-magazine
+    name: "AI Magazine"
+    url: "https://aimagazine.com/"
+    type: news
+    frequency: "diario"
+    why: "Medio de noticias empresariales sobre IA. Ficha añadida para citar una URL de aimagazine.com."
+    region: "UK / Global"
+    lang: "EN"
+    tier: archive

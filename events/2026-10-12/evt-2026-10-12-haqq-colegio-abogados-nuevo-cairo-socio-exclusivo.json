@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-12-haqq-colegio-abogados-nuevo-cairo-socio-exclusivo",
+  "date": "2026-10-11",
+  "type": "market",
+  "sota_score": 5.8,
+  "ai_legaltech": true,
+  "title": "HAQQ pasa a ser socio tecnológico oficial y exclusivo del Colegio de Abogados de Nuevo Cairo, con cerca de 22.000 colegiados",
+  "summary_p1": "HAQQ y el Colegio de Abogados de Nuevo Cairo firmaron el 11 de octubre de 2026 un protocolo de cooperación estratégica en la American University in Cairo, dentro del National Forum on Data Protection & Governance, según el comunicado de la propia HAQQ. El protocolo busca acelerar la transformación digital del sector jurídico, impulsar el uso de tecnología e IA en la práctica y ampliar el acceso a soluciones legales digitales para cerca de 22.000 abogados colegiados. HAQQ pasa a ser el socio tecnológico oficial y exclusivo del colegio en legaltech y transformación digital, además de formación y concienciación tecnológica, y se compromete a preparar al menos un evento de legaltech cada tres meses. Las partes empezarán por identificar los requisitos técnicos, operativos y legales del colegio y por definir planes de acción; el marco, dice el texto, permitirá desarrollar la cooperación de forma progresiva. HAQQ combina Legal AI Chat, eFirm y Justinian en lo que presenta como un sistema operativo legal para despachos, equipos jurídicos e instituciones.",
+  "summary_p2": "Lo interesante no es el acuerdo en sí, sino el canal: un colegio profesional como vía de distribución y formación de una herramienta de IA para decenas de miles de abogados, con un proveedor único designado. Para un vendor es un modelo de entrada en mercados regionales a través de la corporación profesional; para un despacho o un colegio de otro país es un ejemplo de qué preguntas hacerse antes de firmar algo parecido: alcance de la exclusividad, quién tiene acceso a los datos de los colegiados, qué obligaciones de confidencialidad y deontología se cumplen y cómo se mide el resultado. Matiz: es un comunicado del propio proveedor sobre un protocolo marco; no se publican condiciones económicas, calendario de despliegue ni cifras de adopción.",
+  "why_sota": "Modelo de acceso a legal AI a través de un colegio profesional con un socio tecnológico exclusivo.",
+  "why_now": "Comunicado de HAQQ del 11 Oct 2026. NEW vs PASS 09-29→10-11.",
+  "geo": [
+    "EG"
+  ],
+  "topics": [
+    "colegios-de-abogados",
+    "distribucion",
+    "oriente-medio",
+    "formacion",
+    "exclusividad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-haqq",
+      "url": "https://www.haqq.ai/blog/haqq-new-cairo-bar-association-partnership",
+      "cited_title": "HAQQ Becomes the Official and Exclusive Technology Partner of the New Cairo Bar Association in a Strategic Partnership Reaching Nearly 22,000 Lawyers",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "entities": [
+    "ent-haqq",
+    "ent-new-cairo-bar-association"
+  ],
+  "lang": "es",
+  "status": "published"
+}

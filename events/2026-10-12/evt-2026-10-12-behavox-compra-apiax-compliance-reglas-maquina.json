@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-12-behavox-compra-apiax-compliance-reglas-maquina",
+  "date": "2026-10-10",
+  "type": "market",
+  "sota_score": 5.6,
+  "ai_legaltech": false,
+  "title": "Behavox compra Apiax, la suiza que convierte regulación financiera en reglas legibles por máquina, para unir inteligencia regulatoria, vigilancia y registro en una sola cadena de evidencias",
+  "summary_p1": "Behavox, que se presenta como plataforma de compliance AI-native, adquirió Apiax, una compañía de Zúrich que desarrolla software de compliance embebido y convierte regulación financiera en reglas legibles por máquina que se integran en los sistemas y flujos de la empresa, según Pulse 2.0 (10 de octubre de 2026). Behavox quiere integrar Apiax con Pathfinder, su producto de gestión del cambio regulatorio, y con sus herramientas de vigilancia y archivo: Pathfinder detecta cambios regulatorios, Apiax los traduce en reglas aplicables donde se hace el negocio y la vigilancia documenta las decisiones resultantes, con una única cadena de evidencias desde la inteligencia regulatoria hasta el registro. Los clientes actuales de Apiax seguirán recibiendo su producto y soporte. Behavox sirve a grandes bancos, gestoras, hedge funds y empresas de materias primas, abrió oficina en Milán en agosto de 2026 y cita un crecimiento del 213% de su ingreso recurrente anual en Europa en dos años y una inversión de 175 millones de dólares de HPS Investment Partners, de BlackRock, en junio de 2026.",
+  "summary_p2": "Para un equipo de compliance o un despacho que asesora a entidades financieras, la compra confirma la dirección del mercado: menos proveedores, más plataformas que cubren desde el cambio normativo hasta la prueba de que se aplicó, y reglas jurídicas expresadas de forma estructurada para que el sistema las ejecute. Para un vendor de regtech es una señal de consolidación, y para un abogado, de que la interpretación de una norma pasa a estar codificada por un tercero que conviene auditar: quién traduce el texto legal a regla y con qué revisión. Matiz: es información del comunicado de las empresas, reproducida por un medio de noticias de startups; no se publicó el precio ni las condiciones, y la pieza no es de IA en sentido estricto, sino de compliance tecnológico y reglas legibles por máquina.",
+  "why_sota": "Consolidación en regtech: regulación convertida en reglas ejecutables integrada con vigilancia y archivo.",
+  "why_now": "Pulse 2.0 10 Oct 2026. NEW vs PASS 09-29→10-11.",
+  "geo": [
+    "CH",
+    "US"
+  ],
+  "topics": [
+    "compliance",
+    "regtech",
+    "consolidacion",
+    "reglas-legibles-por-maquina",
+    "servicios-financieros"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pulse-2",
+      "url": "https://pulse2.com/behavox-acquires-apiax-to-expand-cross-border-compliance-platform/",
+      "cited_title": "Behavox Acquires Apiax To Expand Cross-Border Compliance Platform",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "entities": [
+    "ent-behavox",
+    "ent-apiax",
+    "ent-pulse-2"
+  ],
+  "lang": "es",
+  "status": "published"
+}

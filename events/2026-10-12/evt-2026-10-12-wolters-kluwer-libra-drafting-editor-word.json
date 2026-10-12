@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-10-12-wolters-kluwer-libra-drafting-editor-word",
+  "date": "2026-10-07",
+  "type": "product",
+  "sota_score": 6.4,
+  "ai_legaltech": true,
+  "title": "Wolters Kluwer lanza Drafting en Libra: un editor tipo Word dentro de su espacio de IA jurídica, con las plantillas del despacho y la investigación en la misma pantalla",
+  "summary_p1": "Wolters Kluwer Legal & Regulatory anunció el 7 de octubre de 2026 Drafting, una nueva capacidad de Libra, su espacio de trabajo de IA jurídica, que permite crear, editar, revisar y colaborar en documentos Word sin salir del espacio de trabajo. Su núcleo es Libra Editor, un entorno de edición estilo Word con las funciones de IA de Libra: el abogado puede redactar, revisar contenido existente, gestionar cambios y comentarios e investigar cuestiones jurídicas sin cambiar de aplicación. El despacho puede subir sus plantillas Word y Libra reconoce, guarda y aplica su formato a los documentos nuevos. Dentro del documento se puede pedir a Libra que revise una cláusula, mejore el lenguaje, rellene plantillas o sugiera redacciones alternativas, con todos los cambios visibles y revisables: se aplican al momento o se presentan como sugerencias para aceptar o rechazar, como el control de cambios de Word. Se suma al Word Add-in (complemento) de Libra, de modo que el cliente puede elegir entre trabajar en Word o de principio a fin en el espacio de Libra. La compañía añade que Libra incorporará más capacidades de redacción, automatización de flujos, inteligencia documental e integraciones con sistemas jurídicos y de gestión documental.",
+  "summary_p2": "Para un despacho es una decisión de dónde vive la redacción: el add-in deja el borrador en Word y la IA como visitante; el editor propio mantiene el borrador, la investigación y la trazabilidad de cambios dentro de una herramienta que controla el proveedor, lo que puede simplificar la supervisión pero aumenta la dependencia. Para un vendor competidor, es otra señal de que el campo de batalla de la IA jurídica ya no es solo responder preguntas, sino poseer el documento y su flujo de revisión. Para un responsable de innovación, las preguntas útiles son qué compatibilidad real hay con Word y con la gestión documental del despacho y cómo se audita lo que la IA cambia. Matiz: es el comunicado del proveedor; la nota no incluye precios, mercados de disponibilidad, plazos ni resultados de clientes.",
+  "why_sota": "Un proveedor europeo de contenido jurídico pasa de complemento de Word a editor propio con plantillas del despacho y control de cambios.",
+  "why_now": "Comunicado de Wolters Kluwer del 7 Oct 2026 (Business Wire). NEW vs PASS 09-29→10-11.",
+  "geo": [
+    "NL",
+    "DE"
+  ],
+  "topics": [
+    "drafting",
+    "word",
+    "plantillas",
+    "track-changes",
+    "workspace"
+  ],
+  "sources": [
+    {
+      "source_id": "src-wolters-kluwer-future-ready-lawyer-survey",
+      "url": "https://www.wolterskluwer.com/en/news/wolters-kluwer-brings-ai-powered-drafting-directly-into-the-libra-legal-workspace",
+      "cited_title": "Wolters Kluwer brings AI-powered drafting directly into the Libra legal workspace",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "entities": [
+    "ent-wolters-kluwer",
+    "ent-libra"
+  ],
+  "lang": "es",
+  "status": "published"
+}

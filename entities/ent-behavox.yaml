@@ -1,0 +1,11 @@
+id: ent-behavox
+name: Behavox
+type: vendor
+url: https://www.behavox.com/
+geo:
+- GB
+- US
+aliases: []
+notes: Plataforma de compliance y vigilancia (surveillance) para bancos y gestoras;
+  compra Apiax. Ficha mínima.
+stub: true

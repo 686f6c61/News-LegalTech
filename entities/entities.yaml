@@ -1543,3 +1543,149 @@ entities:
   notes: Startup bootstrapped de revisión de contratos con IA multi-modelo en Word.
     Ficha mínima.
   stub: true
+- id: ent-courts-tribunals-judiciary
+  name: Courts and Tribunals Judiciary (Inglaterra y Gales)
+  type: government
+  url: https://www.judiciary.uk/
+  geo:
+  - GB
+  aliases:
+  - Judiciary of England and Wales
+  notes: Portal oficial de la judicatura de Inglaterra y Gales; publica la position
+    statement sobre el uso judicial de la IA. Ficha mínima.
+  stub: true
+- id: ent-colin-birss
+  name: Sir Colin Birss
+  type: other
+  url: https://www.judiciary.uk/
+  geo:
+  - GB
+  aliases:
+  - Colin Birss
+  notes: Juez principal para IA (Lead Judge for AI) de la judicatura de Inglaterra
+    y Gales; será Master of the Rolls desde noviembre de 2026 según Legal Futures.
+    Ficha mínima.
+  stub: true
+- id: ent-legal-futures
+  name: Legal Futures
+  type: media
+  url: https://www.legalfutures.co.uk/
+  geo:
+  - GB
+  aliases: []
+  notes: Medio británico de noticias del sector jurídico. Ficha mínima.
+  stub: true
+- id: ent-florida-4th-dca
+  name: Florida Fourth District Court of Appeal
+  type: court
+  url: https://4dca.flcourts.gov/
+  geo:
+  - US
+  aliases:
+  - Florida 4th DCA
+  notes: Tribunal de apelación del cuarto distrito de Florida; sancionó a apelantes
+    y abogados por citas inventadas con IA en Kid International v. City National Bank
+    of Florida. Ficha mínima.
+  stub: true
+- id: ent-safelegalai
+  name: SafeLegalAI
+  type: media
+  url: https://safelegalai.com/
+  geo:
+  - US
+  aliases: []
+  notes: Sitio de análisis sobre IA en tribunales y alucinaciones; resúmenes de resoluciones.
+    Ficha mínima.
+  stub: true
+- id: ent-co-op-legal-services
+  name: Co-op Legal Services
+  type: law_firm
+  url: https://www.co-oplegalservices.co.uk/
+  geo:
+  - GB
+  aliases:
+  - CLS
+  notes: Alternative business structure (ABS) británica propiedad del grupo Co-op;
+    testamentos, sucesiones y otros servicios para consumidores. Ficha mínima.
+  stub: true
+- id: ent-the-guardian
+  name: The Guardian
+  type: media
+  url: https://www.theguardian.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Diario británico; publicó el testimonio de un whistleblower sobre la monitorización
+    por IA en Co-op Legal Services. Ficha mínima.
+  stub: true
+- id: ent-ai-magazine
+  name: AI Magazine
+  type: media
+  url: https://aimagazine.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Medio de noticias empresariales sobre IA. Ficha mínima.
+  stub: true
+- id: ent-gpt-6-astra
+  name: GPT-6 Astra
+  type: product
+  url: https://openai.com/
+  geo:
+  - US
+  aliases:
+  - GPT-6 Astra
+  notes: Modelo de OpenAI; según AI Magazine, primer modelo frontier entrenado con
+    tareas de Ironclad. Ficha mínima.
+  stub: true
+- id: ent-haqq
+  name: HAQQ
+  type: vendor
+  url: https://www.haqq.ai/
+  geo:
+  - EG
+  aliases: []
+  notes: 'Legaltech con sede en El Cairo: Legal AI Chat, eFirm y Justinian, presentados
+    como sistema operativo legal. Ficha mínima.'
+  stub: true
+- id: ent-new-cairo-bar-association
+  name: Colegio de Abogados de Nuevo Cairo
+  type: association
+  url: https://www.haqq.ai/blog/haqq-new-cairo-bar-association-partnership
+  geo:
+  - EG
+  aliases:
+  - New Cairo Bar Association
+  notes: Colegio de abogados egipcio con cerca de 22.000 colegiados según HAQQ. Ficha
+    mínima.
+  stub: true
+- id: ent-behavox
+  name: Behavox
+  type: vendor
+  url: https://www.behavox.com/
+  geo:
+  - GB
+  - US
+  aliases: []
+  notes: Plataforma de compliance y vigilancia (surveillance) para bancos y gestoras;
+    compra Apiax. Ficha mínima.
+  stub: true
+- id: ent-apiax
+  name: Apiax
+  type: vendor
+  url: https://www.apiax.com/
+  geo:
+  - CH
+  aliases: []
+  notes: Compañía de Zúrich que convierte regulación financiera en reglas legibles
+    por máquina para integrar en sistemas; adquirida por Behavox. Ficha mínima.
+  stub: true
+- id: ent-pulse-2
+  name: Pulse 2.0
+  type: media
+  url: https://pulse2.com/
+  geo:
+  - US
+  aliases: []
+  notes: Medio de noticias de startups y tecnología. Ficha mínima.
+  stub: true

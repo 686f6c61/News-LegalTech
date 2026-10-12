@@ -1,0 +1,10 @@
+id: ent-apiax
+name: Apiax
+type: vendor
+url: https://www.apiax.com/
+geo:
+- CH
+aliases: []
+notes: Compañía de Zúrich que convierte regulación financiera en reglas legibles por
+  máquina para integrar en sistemas; adquirida por Behavox. Ficha mínima.
+stub: true

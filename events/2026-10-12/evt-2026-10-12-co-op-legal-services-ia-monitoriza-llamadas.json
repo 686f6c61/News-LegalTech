@@ -1,0 +1,39 @@
+{
+  "id": "evt-2026-10-12-co-op-legal-services-ia-monitoriza-llamadas",
+  "date": "2026-10-11",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Co-op Legal Services defiende que su IA grabe y puntúe todas las llamadas de sus asesores después de que un whistleblower la llamara \"opresiva y distópica\"",
+  "summary_p1": "Legal Futures recoge el 11 de octubre de 2026 que Co-op Legal Services (CLS), la alternative business structure (ABS, despacho con capital no abogado) propiedad del grupo Co-op, rechaza que su uso de IA para monitorizar las llamadas entre su personal y los clientes sea \"oppressive and dystopian\". The Guardian citó la semana anterior a un whistleblower según el cual el sistema, de OpenAI, graba, analiza y da una puntuación porcentual a las conversaciones de los gestores de llamadas con clientes que consultan sobre herencias, testamentos y sucesiones; habría sido entrenado para evaluar más de 50 aspectos de cada llamada y dar notas de aprobado o suspenso a los responsables, que usan los datos para analizar el rendimiento de los empleados. Un trabajador anónimo dijo que se sienten monitorizados \"absolutamente en cada palabra\". CLS responde que no ha recibido quejas ni reclamaciones formales, que el sistema no figuraba en negativo en una encuesta reciente de plantilla, que está segura de cumplir los requisitos de la SRA (el regulador de los solicitors) y que revisar todas las conversaciones, en lugar de una muestra, le permite garantizar estándares de servicio y dar más apoyo y formación a su gente.",
+  "summary_p2": "Es un caso de libro de la tensión entre calidad de servicio y vigilancia laboral en un despacho de volumen: pasar de auditar una muestra de llamadas a puntuar el 100% convierte la conversación con el cliente en un dato de rendimiento individual. Para un despacho o ABS con contact center, la lección práctica es que el debate no será solo regulatorio, sino de confianza de la plantilla, y que conviene resolver antes de desplegar qué se informa a los empleados, cuál es la base legal del tratamiento y cómo sabe el cliente que se le graba y analiza. Para un vendor de conversation analytics (análisis de conversaciones) es un aviso de que los compradores jurídicos van a pedir transparencia sobre qué se mide y cómo se usa. Matiz: las acusaciones proceden de una fuente anónima citada por The Guardian y la respuesta es de la propia empresa; no se ha visto la información original del diario ni hay actuación de la SRA ni de ninguna autoridad de protección de datos.",
+  "why_sota": "Caso público de IA aplicada a la supervisión individual de personal en un despacho regulado, con respuesta de la empresa.",
+  "why_now": "Legal Futures 11 Oct 2026, tras la información de The Guardian de la semana anterior. NEW vs PASS 09-29→10-11.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "monitorizacion-empleados",
+    "contact-center",
+    "abs",
+    "sra",
+    "proteccion-de-datos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/co-op-legal-services-defends-use-of-ai-to-monitor-client-calls",
+      "cited_title": "Co-op Legal Services defends use of AI to monitor client calls",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "entities": [
+    "ent-co-op-legal-services",
+    "ent-the-guardian",
+    "ent-openai",
+    "ent-sra",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}
