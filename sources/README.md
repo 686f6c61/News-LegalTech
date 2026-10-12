@@ -1,10 +1,17 @@
 # Sources
 
-## Catálogo completo (~128)
+## Catálogo completo
 
-- **Canónico:** `catalog.yaml` (campos: id, name, url, type, frequency, why, region, lang, tier)
+Hoy hay 147 fuentes news y 9 fuentes agenda.
+
+- **Canónico:** `catalog.yaml`
 - **Alias:** `full-catalog.yaml` (mismo contenido)
-- Origen: `/workspace/legaltech/fuentes-legaltech-mundiales.md`
+- **`kind`:** `news` (fuente de seguimiento) o `agenda` (evento, congreso o programa de formación). Las fichas `agenda` se conservan.
+- **`count`:** número de fichas `kind: news`. **`agenda_count`:** número de fichas `kind: agenda`.
+- **`rss`** (opcional): URL del feed si responde, o `null` si no hay.
+- **`access`** (opcional): `blocked` (403 a bots) o `paywall` (contenido de pago parcial).
+- Campos: id, name, url, type, kind, frequency, why, region, lang, tier
+- Origen: `/workspace/legaltech/fuentes-legaltech-mundiales.md` y altas posteriores
 
 Tiers:
 
