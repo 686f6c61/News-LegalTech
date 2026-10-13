@@ -1,0 +1,11 @@
+id: ent-z-ai
+name: Z.ai
+type: vendor
+url: https://z.ai/
+geo:
+- CN
+aliases:
+- Zhipu
+- Zhipu AI
+notes: Laboratorio chino de modelos GLM; anuncia GLM-Legal. Ficha mínima.
+stub: true

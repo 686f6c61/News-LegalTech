@@ -1,0 +1,10 @@
+id: ent-pymnts
+name: PYMNTS
+type: media
+url: https://www.pymnts.com/
+geo:
+- US
+aliases:
+- PYMNTS.com
+notes: Medio de pagos, fintech y regulación. Ficha mínima.
+stub: true

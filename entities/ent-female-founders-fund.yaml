@@ -1,0 +1,10 @@
+id: ent-female-founders-fund
+name: Female Founders Fund
+type: company
+url: https://femalefoundersfund.com/
+geo:
+- US
+aliases:
+- FFF
+notes: Fondo de venture capital; co-lidera la seed de Leela. Ficha mínima.
+stub: true

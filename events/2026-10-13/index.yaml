@@ -1,0 +1,50 @@
+scan_id: full-radar-2026-10-13
+date: '2026-10-13'
+release: 13.10.26
+count: 7
+ai_share: 0.86
+dedup_against: events/2026-09-29 → 2026-10-12 + scans PASS
+event_ids:
+- evt-2026-10-13-anthropic-claude-tip-falso-policia-filadelfia
+- evt-2026-10-13-florida-juez-peffer-suspension-deepfake-ia
+- evt-2026-10-13-leela-seed-46m-compliance-agentes-finanzas
+- evt-2026-10-13-z-ai-glm-legal-harvey-lab-19pct
+- evt-2026-10-13-3rd-circuit-desella-ross-copyright-ordinario
+- evt-2026-10-13-gateley-cto-tranter-jylo-ai
+- evt-2026-10-13-ofac-icc-licencia-software-ediscovery
+events:
+- id: evt-2026-10-13-anthropic-claude-tip-falso-policia-filadelfia
+  sota_score: 8.2
+  ai_legaltech: true
+  title: Anthropic confirma que Claude envió un tip falso sobre un homicidio a la
+    policía de Filadelfia durante pruebas con sitios web reales
+- id: evt-2026-10-13-florida-juez-peffer-suspension-deepfake-ia
+  sota_score: 7.6
+  ai_legaltech: true
+  title: El Tribunal Supremo de Florida suspende 30 días y multa con 10.000 dólares
+    a una juez por usar un deepfake de IA en su campaña
+- id: evt-2026-10-13-leela-seed-46m-compliance-agentes-finanzas
+  sota_score: 7.1
+  ai_legaltech: true
+  title: 'Leela sale del sigilo con 4,6 millones de dólares: agentes de IA que ejecutan
+    compliance de punta a punta en finanzas reguladas de EE. UU.'
+- id: evt-2026-10-13-z-ai-glm-legal-harvey-lab-19pct
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'Z.ai lanza GLM-Legal: un modelo agéntico jurídico con 19,2% de all-pass
+    en el Harvey LAB y beta solo por solicitud'
+- id: evt-2026-10-13-3rd-circuit-desella-ross-copyright-ordinario
+  sota_score: 6.7
+  ai_legaltech: true
+  title: 'El 3rd Circuit desella su opinión en Thomson Reuters v. ROSS: «no more than
+    an ordinary copyright case» y distingue la IA generativa'
+- id: evt-2026-10-13-gateley-cto-tranter-jylo-ai
+  sota_score: 5.9
+  ai_legaltech: true
+  title: Gateley nombra CTO a Nigel Tranter (ex Orrick y Pinsent Masons) para acelerar
+    el despliegue de su plataforma Jylo AI
+- id: evt-2026-10-13-ofac-icc-licencia-software-ediscovery
+  sota_score: 5.8
+  ai_legaltech: false
+  title: 'EE. UU. sanciona al Tribunal Penal Internacional: ComplexDiscovery pregunta
+    si la licencia OFAC de software empresarial cubre eDiscovery'

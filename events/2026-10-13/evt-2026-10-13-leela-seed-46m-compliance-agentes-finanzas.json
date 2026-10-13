@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-13-leela-seed-46m-compliance-agentes-finanzas",
+  "date": "2026-10-12",
+  "type": "funding",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Leela sale del sigilo con 4,6 millones de dólares: agentes de IA que ejecutan compliance de punta a punta en finanzas reguladas de EE. UU.",
+  "summary_p1": "Leela, fundada por la ex abogada de Davis Polk Preeti Krishnan, anunció el 12 de octubre de 2026 el lanzamiento de su plataforma de compliance con IA agéntica para negocios financieros regulados en Estados Unidos y una ronda seed de 4,6 millones de dólares co-liderada por Array Ventures y Female Founders Fund, con Northwestern Mutual Future Ventures, The Council y ángeles, según Legaltech News (Law.com) y PYMNTS. La plataforma convierte regulaciones, políticas y acuerdos con bancos sponsor en workflows ejecutables: los agentes hacen revisiones (fraude, AML), gestionan quejas, preparan suspicious activity reports (informes de actividad sospechosa) para revisión humana y conservan evidencia auditable. PYMNTS cita que, en un cliente temprano, Leela transformó 40 políticas de compliance en 262 obligaciones accionables. Krishnan resume el objetivo como dar a firmas pequeñas el equivalente a \"a 10-person compliance team\" (un equipo de compliance de diez personas), manteniendo a las personas responsables de las decisiones relevantes.",
+  "summary_p2": "Para un in-house de fintech o un despacho de regulatory, el mensaje es el desplazamiento del software de compliance desde el inventario de normas hacia la ejecución y la prueba: el valor está en quién traduce la obligación al control, quién firma y qué paquete de evidencia queda. Para un vendor de regtech, es otra señal de consolidación del discurso \"agentic compliance\" con ronda temprana y foco en sponsor banks. Antes de comprar, las preguntas útiles son qué sistemas toca el agente, cómo se versionan las políticas y quién es el human-in-the-loop (humano en el bucle) en AML y SAR. Matiz: Law.com está parcialmente tras paywall; las cifras de obligaciones y la frase del equipo de diez personas proceden de PYMNTS y del propio vendor; no hay métricas independientes de reducción de riesgo ni precio público.",
+  "why_sota": "Seed de una plataforma de compliance agéntico orientada a fintech regulada, con ejecución y evidencia, no solo alerta normativa.",
+  "why_now": "Anuncio 12 Oct 2026 (Law.com, PYMNTS). NEW vs PASS 09-29→10-12.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "compliance",
+    "regtech",
+    "funding",
+    "agentes",
+    "aml"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/12/former-davis-polk-attorney-launches-compliance-startup-leela-announces-46m-seed-round/",
+      "cited_title": "Former Davis Polk Attorney Launches Compliance Startup Leela, Announces $4.6M Seed Round",
+      "accessed": "2026-10-13"
+    },
+    {
+      "source_id": "src-pymnts",
+      "url": "https://www.pymnts.com/legal/bank-regulation/2026/leela-ceo-says-ai-can-give-fintechs-a-10-person-compliance-team/",
+      "cited_title": "Leela CEO Says AI Can Give FinTechs a 10-Person Compliance Team",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "entities": [
+    "ent-leela",
+    "ent-preeti-krishnan",
+    "ent-array-ventures",
+    "ent-female-founders-fund",
+    "ent-pymnts"
+  ],
+  "lang": "es",
+  "status": "published"
+}

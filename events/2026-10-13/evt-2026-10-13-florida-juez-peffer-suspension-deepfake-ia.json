@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-13-florida-juez-peffer-suspension-deepfake-ia",
+  "date": "2026-10-09",
+  "type": "case_law",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "El Tribunal Supremo de Florida suspende 30 días y multa con 10.000 dólares a una juez por usar un deepfake de IA en su campaña",
+  "summary_p1": "El Tribunal Supremo de Florida sancionó el 9 de octubre de 2026 a la juez del Condado de Broward Lauren Nichole Peffer con 30 días de suspensión, 10.000 dólares de multa y una reprimenda pública, según ABA Journal (12 de octubre) y Bloomberg Law. Durante su campaña de 2024, Peffer dijo a un periódico local que revelaciones del Noveno Circuito Judicial mostraban una crisis de imagen de la judicatura; cuando le pidieron pruebas, citó un libro de un ex empleado que no había leído y envió un enlace a una grabación que presentaba como una llamada entre el juez presidente Lisa Munyon, el Chief Justice Carlos Muñiz y la Justice Renatha Francis. La Judicial Qualifications Commission concluyó que la grabación estaba fabricada y probablemente hecha con IA generativa. El tribunal, en opinión sin firmar (Inquiry Concerning a Judge, JQC No. 2025-001, SC2025-0647), dijo que su conducta, intencional o no, socavó la confianza pública al promover acusaciones falsas. Muñiz y Francis se abstuvieron; Peffer no impugnó los hechos ni la recomendación disciplinaria.",
+  "summary_p2": "Es un precedente útil de responsabilidad personal de un juez por difundir un deepfake (suplantación audiovisual con IA) sin verificarlo, no por crearlo. Para un litigante o un periodista jurídico, refuerza que citar o reenviar material generado por IA sin diligencia puede ser sanción ética incluso si se alega error. Para un vendor de detección de deepfakes o de media authentication, es un caso de uso concreto ante campañas y tribunales. Para un despacho que asesora a candidatos judiciales, el checklist es obvio: no difundir audios o vídeos de terceros sin cadena de custodia y verificación. Matiz: la sanción se basa en los cánones de dignidad judicial de Florida; no es un fallo sobre la tipificación penal de deepfakes ni fija un estándar técnico de detección.",
+  "why_sota": "Sanción disciplinaria de un tribunal supremo estatal a un juez por difundir un deepfake de IA en campaña electoral.",
+  "why_now": "Opinión del 9 Oct 2026; cobertura ABA Journal/Bloomberg 9–12 Oct. NEW vs PASS 09-29→10-12.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "deepfakes",
+    "etica-judicial",
+    "campanas",
+    "verificacion",
+    "sanciones"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/florida-judge-suspended-over-ai-deepfake-phone-call",
+      "cited_title": "Florida judge suspended over AI deepfake phone call",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "entities": [
+    "ent-lauren-peffer",
+    "ent-florida-supreme-court",
+    "ent-florida-jqc",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

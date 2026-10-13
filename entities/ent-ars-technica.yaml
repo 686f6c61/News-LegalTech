@@ -1,0 +1,9 @@
+id: ent-ars-technica
+name: Ars Technica
+type: media
+url: https://arstechnica.com/
+geo:
+- US
+aliases: []
+notes: Medio de tecnología; coberturas de política e IA. Ficha mínima.
+stub: true

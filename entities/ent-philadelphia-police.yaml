@@ -1,0 +1,12 @@
+id: ent-philadelphia-police
+name: Philadelphia Police Department
+type: government
+url: https://www.phillypolice.com/
+geo:
+- US
+aliases:
+- PPD
+- Policía de Filadelfia
+notes: Departamento de policía de Filadelfia; opera PhillyUnsolvedMurders.com. Ficha
+  mínima.
+stub: true

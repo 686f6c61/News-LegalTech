@@ -1,0 +1,10 @@
+id: ent-glm-legal
+name: GLM-Legal
+type: product
+url: https://z.ai/blog/glm-legal
+geo:
+- CN
+aliases: []
+notes: Modelo agéntico de dominio jurídico de Z.ai, basado en GLM-5.3-Flash; beta
+  por solicitud. Ficha mínima.
+stub: true

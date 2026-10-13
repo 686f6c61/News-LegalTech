@@ -1,0 +1,11 @@
+id: ent-florida-jqc
+name: Florida Judicial Qualifications Commission
+type: government
+url: https://floridajqc.com/
+geo:
+- US
+aliases:
+- JQC
+notes: Comisión de Florida que investiga conducta judicial; recomendó la sanción a
+  Peffer. Ficha mínima.
+stub: true

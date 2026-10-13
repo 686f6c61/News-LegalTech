@@ -1,0 +1,11 @@
+id: ent-jylo
+name: Jylo AI
+type: product
+url: https://legaltechnology.com/gateley-appoints-nigel-tranter-as-chief-technology-officer/
+geo:
+- GB
+aliases:
+- Jylo
+notes: Plataforma de IA de Gateley para acceso seguro a modelos y workflows repetibles.
+  Ficha mínima.
+stub: true

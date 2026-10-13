@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-10-13-3rd-circuit-desella-ross-copyright-ordinario",
+  "date": "2026-10-12",
+  "type": "case_law",
+  "sota_score": 6.7,
+  "ai_legaltech": true,
+  "title": "El 3rd Circuit desella su opinión en Thomson Reuters v. ROSS: «no more than an ordinary copyright case» y distingue la IA generativa",
+  "summary_p1": "LawNext (12 de octubre de 2026) detalla el texto ya público de la opinión del Third Circuit en Thomson Reuters v. ROSS Intelligence, emitida bajo sello el 29 de septiembre y de la que ya se sabía el fallo a favor de Thomson Reuters. La juez Tamika R. Montgomery-Reeves, con Restrepo y Bove, rechaza el marco de ROSS: \"Under ROSS's framing, this case appears to concern the future of AI legal technology… In truth, this is no more than an ordinary copyright case.\" El tribunal confirma el summary judgment parcial sobre 2.243 headnotes de Westlaw: son protegibles y su uso para entrenar la herramienta de ROSS no fue fair use (uso legítimo). Subraya que la IA de ROSS \"was not a generative AI\" (no era IA generativa): solo devolvía pasajes de opiniones judiciales preexistentes, y por eso distingue Bartz v. Anthropic e In re OpenAI, donde el entrenamiento de un LLM sí se consideró transformativo. ROSS ya anunció que pedirá revisión al Supreme Court.",
+  "summary_p2": "Lo nuevo no es el resultado (ya cubierto), sino la motivación publicada: el primer tribunal federal de apelación que habla de fair use en entrenamiento de IA jurídica acota a propósito el alcance y separa un sistema de retrieval (recuperación) de un LLM generativo. Para un vendor de legal research, el riesgo concreto sigue en copiar headnotes u otra expresión editorial, no en el eslogan de \"democratizar el derecho\". Para un abogado de PI o de contratos de training data, la cita útil es esa distinción con Bartz y OpenAI: el fair use no se decide por usar la palabra AI. Matiz: ampliamos una pieza ya publicada (fallo sellado 09-30 y anuncio de certiorari 10-03) porque ahora hay texto íntegro y ratio decidendi; no cambia el fallo.",
+  "why_sota": "Texto público del primer fallo federal de apelación sobre fair use en entrenamiento de IA jurídica, con distingo explícito frente a LLMs generativos.",
+  "why_now": "Desellado y análisis LawNext 12 Oct 2026. NEW vs cobertura previa del fallo sellado y del anuncio SCOTUS.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "copyright",
+    "fair-use",
+    "entrenamiento",
+    "legal-research",
+    "apelacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html",
+      "cited_title": "'No More Than an Ordinary Copyright Case' — 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "entities": [
+    "ent-thomson-reuters",
+    "ent-ross-intelligence"
+  ],
+  "lang": "es",
+  "status": "published"
+}

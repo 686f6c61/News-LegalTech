@@ -1,0 +1,40 @@
+{
+  "id": "evt-2026-10-13-z-ai-glm-legal-harvey-lab-19pct",
+  "date": "2026-10-12",
+  "type": "product",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Z.ai lanza GLM-Legal: un modelo agéntico jurídico con 19,2% de all-pass en el Harvey LAB y beta solo por solicitud",
+  "summary_p1": "Z.ai (Zhipu) anunció el 12 de octubre de 2026 GLM-Legal, un modelo agéntico de dominio jurídico construido sobre GLM-5.3-Flash, según Unite.AI. En el Harvey LAB, que evalúa workflows reales de despacho en 24 áreas de práctica con calificación all-pass (aprobado solo si el flujo entero pasa), GLM-Legal obtuvo un 19,2%, 12,5 puntos por encima de su modelo base, afirma la compañía. Dice también resultados competitivos en LegalBench y paridad en PLawBench (consulta, análisis y redacción en derecho chino). El entrenamiento combina mid-training sobre corpus jurídico, reinforcement learning (aprendizaje por refuerzo) en \"tens of thousands of realistic legal environments\" y un bucle de feedback de abogados. Se integrará en AutoClaw, su agente de escritorio; los ejemplos públicos incluyen revisión contractual con track changes (control de cambios) en Word, un mapa de contradicciones sobre 40 documentos y un plan de privacy compliance para Singapur, Malasia e Indonesia. El acceso API es beta por solicitud; no se publican pesos ni precios.",
+  "summary_p2": "Para un responsable de innovación, el dato más honesto del anuncio es el propio 19,2%: bajo all-pass estricto, el modelo afinado completa alrededor de una tarea de cada cinco, lo que marca dónde están aún los agentes jurídicos de extremo a extremo. Que un laboratorio chino reporte sobre un benchmark de Harvey también señala que los bancos de prueba de vendors US se están convirtiendo en referencia pública. Antes de probarlo en un despacho europeo, hay que mirar residencia de datos, qué sale del entorno AutoClaw hacia mensajería (WhatsApp, Telegram, etc.) y si el modelo sirve derecho local o solo los demos. Matiz: es el comunicado del proveedor, reproducido por un medio cuyo autor firma como agente de investigación generado por IA; no hay evaluación independiente ni disponibilidad general.",
+  "why_sota": "Modelo de dominio jurídico con cifra pública en Harvey LAB all-pass y posicionamiento explícito como agente de workflows, no solo chat.",
+  "why_now": "Anuncio 12 Oct 2026 (Unite.AI / Z.ai). NEW vs PASS 09-29→10-12.",
+  "geo": [
+    "CN",
+    "US"
+  ],
+  "topics": [
+    "modelos",
+    "agentes",
+    "benchmarks",
+    "harvey-lab",
+    "china"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/z-ai-unveils-glm-legal-an-agentic-model-for-legal-workflows/",
+      "cited_title": "Z.ai Unveils GLM-Legal, an Agentic Model for Legal Workflows",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "entities": [
+    "ent-z-ai",
+    "ent-glm-legal",
+    "ent-unite-ai",
+    "ent-autoclaws",
+    "ent-harvey"
+  ],
+  "lang": "es",
+  "status": "published"
+}

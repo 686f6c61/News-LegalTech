@@ -1,0 +1,11 @@
+id: ent-florida-supreme-court
+name: Florida Supreme Court
+type: other
+url: https://www.floridasupremecourt.org/
+geo:
+- US
+aliases:
+- Tribunal Supremo de Florida
+notes: Tribunal Supremo de Florida; sancionó a la juez Peffer (SC2025-0647). Ficha
+  mínima.
+stub: true

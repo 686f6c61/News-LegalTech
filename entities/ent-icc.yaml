@@ -1,0 +1,14 @@
+id: ent-icc
+name: International Criminal Court
+type: other
+url: https://www.icc-cpi.int/
+geo:
+- NL
+- Global
+aliases:
+- ICC
+- TPI
+- Tribunal Penal Internacional
+notes: Tribunal Penal Internacional en La Haya; designado en la SDN List de OFAC el
+  9 de octubre de 2026. Ficha mínima.
+stub: true

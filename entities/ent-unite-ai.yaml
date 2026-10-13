@@ -1,0 +1,9 @@
+id: ent-unite-ai
+name: Unite.AI
+type: media
+url: https://www.unite.ai/
+geo:
+- US
+aliases: []
+notes: Medio de noticias sobre IA. Ficha mínima.
+stub: true

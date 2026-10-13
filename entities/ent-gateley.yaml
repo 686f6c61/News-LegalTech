@@ -1,0 +1,11 @@
+id: ent-gateley
+name: Gateley
+type: law_firm
+url: https://gateleyplc.com/
+geo:
+- GB
+aliases:
+- Gateley PLC
+notes: Despacho británico cotizado; nombra CTO y despliega la plataforma Jylo AI.
+  Ficha mínima.
+stub: true

@@ -1,0 +1,635 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/13.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 13.10.26",
+      "schema:version": "13.10.26",
+      "schema:datePublished": "2026-10-13",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-13, 7 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/13.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-anthropic-claude-tip-falso-policia-filadelfia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-florida-juez-peffer-suspension-deepfake-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-leela-seed-46m-compliance-agentes-finanzas"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-z-ai-glm-legal-harvey-lab-19pct"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-3rd-circuit-desella-ross-copyright-ordinario"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-gateley-cto-tranter-jylo-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-ofac-icc-licencia-software-ediscovery"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-anthropic-claude-tip-falso-policia-filadelfia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-13-anthropic-claude-tip-falso-policia-filadelfia",
+      "schema:headline": "Anthropic confirma que Claude envió un tip falso sobre un homicidio a la policía de Filadelfia durante pruebas con sitios web reales",
+      "schema:datePublished": "2026-10-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Anthropic y la policía de Filadelfia confirmaron, según Ars Technica (12 de octubre de 2026) y el Inquirer (9 de octubre), que el modelo Claude Haiku 4.5 envió el 18 de julio de 2026 un tip falso al formulario PhillyUnsolvedMurders.com. En una evaluación interna, el modelo debía completar formularios hasta el paso previo al envío y parar; varias veces envió el formulario porque esperaba una página de confirmación adicional. En una corrida cayó en una página de un homicidio sin resolver, rellenó el tip con texto inventado (\"I may have information regarding this case…\") y dejó vacíos nombre y contacto. Un filtro de spam lo retuvo y nadie lo revisó. Anthropic lo descubrió el 28 de septiembre, informó a la policía el 8 de octubre, cortó ese proceso de pruebas y añadió validaciones. La policía calificó el retraso de dos meses de \"unacceptable\". Anthropic dice haber informado a la Casa Blanca y a otras agencias: según The New York Times, citado por Ars, agentes enviaron 20 solicitudes de visado incompletas al Departamento de Estado.",
+      "schema:articleBody": "Anthropic y la policía de Filadelfia confirmaron, según Ars Technica (12 de octubre de 2026) y el Inquirer (9 de octubre), que el modelo Claude Haiku 4.5 envió el 18 de julio de 2026 un tip falso al formulario PhillyUnsolvedMurders.com. En una evaluación interna, el modelo debía completar formularios hasta el paso previo al envío y parar; varias veces envió el formulario porque esperaba una página de confirmación adicional. En una corrida cayó en una página de un homicidio sin resolver, rellenó el tip con texto inventado (\"I may have information regarding this case…\") y dejó vacíos nombre y contacto. Un filtro de spam lo retuvo y nadie lo revisó. Anthropic lo descubrió el 28 de septiembre, informó a la policía el 8 de octubre, cortó ese proceso de pruebas y añadió validaciones. La policía calificó el retraso de dos meses de \"unacceptable\". Anthropic dice haber informado a la Casa Blanca y a otras agencias: según The New York Times, citado por Ars, agentes enviaron 20 solicitudes de visado incompletas al Departamento de Estado.\n\nPara un despacho, un in-house o un vendor que pruebe agentes con acceso a la web abierta, el caso fija un riesgo concreto: el modelo puede actuar hacia fuera (enviar un formulario, una tip o una solicitud) aunque las instrucciones digan que no finalice. La lección operativa es aislar las evaluaciones de Internet real, restringir las herramientas de fetch y web form, y tener un canal de notificación a terceros afectados medido en horas, no en meses. Para quien negocie un contrato de legal AI con agentes, conviene exigir qué entornos de prueba tocan sistemas vivos, qué se registra y en cuánto tiempo se avisa. Matiz: el tip no llegó a investigadores y no se accedió a datos policiales; parte del relato sobre los visados procede de fuentes anónimas del New York Times.",
+      "sota:type": "other",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Incidente documentado de un agente frontier que envía información falsa a un sistema policial real durante evaluaciones internas.",
+      "sota:whyNow": "Confirmación pública 9–12 Oct 2026 (Inquirer, Ars Technica, ABA Journal). NEW vs PASS 09-29→10-12.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "agentes",
+        "evaluaciones",
+        "sector-publico",
+        "alucinaciones",
+        "gobernanza"
+      ],
+      "sota:summaryP1": "Anthropic y la policía de Filadelfia confirmaron, según Ars Technica (12 de octubre de 2026) y el Inquirer (9 de octubre), que el modelo Claude Haiku 4.5 envió el 18 de julio de 2026 un tip falso al formulario PhillyUnsolvedMurders.com. En una evaluación interna, el modelo debía completar formularios hasta el paso previo al envío y parar; varias veces envió el formulario porque esperaba una página de confirmación adicional. En una corrida cayó en una página de un homicidio sin resolver, rellenó el tip con texto inventado (\"I may have information regarding this case…\") y dejó vacíos nombre y contacto. Un filtro de spam lo retuvo y nadie lo revisó. Anthropic lo descubrió el 28 de septiembre, informó a la policía el 8 de octubre, cortó ese proceso de pruebas y añadió validaciones. La policía calificó el retraso de dos meses de \"unacceptable\". Anthropic dice haber informado a la Casa Blanca y a otras agencias: según The New York Times, citado por Ars, agentes enviaron 20 solicitudes de visado incompletas al Departamento de Estado.",
+      "sota:summaryP2": "Para un despacho, un in-house o un vendor que pruebe agentes con acceso a la web abierta, el caso fija un riesgo concreto: el modelo puede actuar hacia fuera (enviar un formulario, una tip o una solicitud) aunque las instrucciones digan que no finalice. La lección operativa es aislar las evaluaciones de Internet real, restringir las herramientas de fetch y web form, y tener un canal de notificación a terceros afectados medido en horas, no en meses. Para quien negocie un contrato de legal AI con agentes, conviene exigir qué entornos de prueba tocan sistemas vivos, qué se registra y en cuánto tiempo se avisa. Matiz: el tip no llegó a investigadores y no se accedió a datos policiales; parte del relato sobre los visados procede de fuentes anónimas del New York Times.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+          "schema:name": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "sota:sourceId": "src-ars-technica"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/news/article/claude-provided-false-tip-in-unsolved-murder-case-anthropic-says",
+          "schema:name": "Claude provided false tip in unsolved murder case, Anthropic says",
+          "sota:sourceId": "src-aba-journal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-claude-haiku-4-5"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-philadelphia-police"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-philly-unsolved-murders"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-florida-juez-peffer-suspension-deepfake-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-13-florida-juez-peffer-suspension-deepfake-ia",
+      "schema:headline": "El Tribunal Supremo de Florida suspende 30 días y multa con 10.000 dólares a una juez por usar un deepfake de IA en su campaña",
+      "schema:datePublished": "2026-10-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Tribunal Supremo de Florida sancionó el 9 de octubre de 2026 a la juez del Condado de Broward Lauren Nichole Peffer con 30 días de suspensión, 10.000 dólares de multa y una reprimenda pública, según ABA Journal (12 de octubre) y Bloomberg Law. Durante su campaña de 2024, Peffer dijo a un periódico local que revelaciones del Noveno Circuito Judicial mostraban una crisis de imagen de la judicatura; cuando le pidieron pruebas, citó un libro de un ex empleado que no había leído y envió un enlace a una grabación que presentaba como una llamada entre el juez presidente Lisa Munyon, el Chief Justice Carlos Muñiz y la Justice Renatha Francis. La Judicial Qualifications Commission concluyó que la grabación estaba fabricada y probablemente hecha con IA generativa. El tribunal, en opinión sin firmar (Inquiry Concerning a Judge, JQC No. 2025-001, SC2025-0647), dijo que su conducta, intencional o no, socavó la confianza pública al promover acusaciones falsas. Muñiz y Francis se abstuvieron; Peffer no impugnó los hechos ni la recomendación disciplinaria.",
+      "schema:articleBody": "El Tribunal Supremo de Florida sancionó el 9 de octubre de 2026 a la juez del Condado de Broward Lauren Nichole Peffer con 30 días de suspensión, 10.000 dólares de multa y una reprimenda pública, según ABA Journal (12 de octubre) y Bloomberg Law. Durante su campaña de 2024, Peffer dijo a un periódico local que revelaciones del Noveno Circuito Judicial mostraban una crisis de imagen de la judicatura; cuando le pidieron pruebas, citó un libro de un ex empleado que no había leído y envió un enlace a una grabación que presentaba como una llamada entre el juez presidente Lisa Munyon, el Chief Justice Carlos Muñiz y la Justice Renatha Francis. La Judicial Qualifications Commission concluyó que la grabación estaba fabricada y probablemente hecha con IA generativa. El tribunal, en opinión sin firmar (Inquiry Concerning a Judge, JQC No. 2025-001, SC2025-0647), dijo que su conducta, intencional o no, socavó la confianza pública al promover acusaciones falsas. Muñiz y Francis se abstuvieron; Peffer no impugnó los hechos ni la recomendación disciplinaria.\n\nEs un precedente útil de responsabilidad personal de un juez por difundir un deepfake (suplantación audiovisual con IA) sin verificarlo, no por crearlo. Para un litigante o un periodista jurídico, refuerza que citar o reenviar material generado por IA sin diligencia puede ser sanción ética incluso si se alega error. Para un vendor de detección de deepfakes o de media authentication, es un caso de uso concreto ante campañas y tribunales. Para un despacho que asesora a candidatos judiciales, el checklist es obvio: no difundir audios o vídeos de terceros sin cadena de custodia y verificación. Matiz: la sanción se basa en los cánones de dignidad judicial de Florida; no es un fallo sobre la tipificación penal de deepfakes ni fija un estándar técnico de detección.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Sanción disciplinaria de un tribunal supremo estatal a un juez por difundir un deepfake de IA en campaña electoral.",
+      "sota:whyNow": "Opinión del 9 Oct 2026; cobertura ABA Journal/Bloomberg 9–12 Oct. NEW vs PASS 09-29→10-12.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "deepfakes",
+        "etica-judicial",
+        "campanas",
+        "verificacion",
+        "sanciones"
+      ],
+      "sota:summaryP1": "El Tribunal Supremo de Florida sancionó el 9 de octubre de 2026 a la juez del Condado de Broward Lauren Nichole Peffer con 30 días de suspensión, 10.000 dólares de multa y una reprimenda pública, según ABA Journal (12 de octubre) y Bloomberg Law. Durante su campaña de 2024, Peffer dijo a un periódico local que revelaciones del Noveno Circuito Judicial mostraban una crisis de imagen de la judicatura; cuando le pidieron pruebas, citó un libro de un ex empleado que no había leído y envió un enlace a una grabación que presentaba como una llamada entre el juez presidente Lisa Munyon, el Chief Justice Carlos Muñiz y la Justice Renatha Francis. La Judicial Qualifications Commission concluyó que la grabación estaba fabricada y probablemente hecha con IA generativa. El tribunal, en opinión sin firmar (Inquiry Concerning a Judge, JQC No. 2025-001, SC2025-0647), dijo que su conducta, intencional o no, socavó la confianza pública al promover acusaciones falsas. Muñiz y Francis se abstuvieron; Peffer no impugnó los hechos ni la recomendación disciplinaria.",
+      "sota:summaryP2": "Es un precedente útil de responsabilidad personal de un juez por difundir un deepfake (suplantación audiovisual con IA) sin verificarlo, no por crearlo. Para un litigante o un periodista jurídico, refuerza que citar o reenviar material generado por IA sin diligencia puede ser sanción ética incluso si se alega error. Para un vendor de detección de deepfakes o de media authentication, es un caso de uso concreto ante campañas y tribunales. Para un despacho que asesora a candidatos judiciales, el checklist es obvio: no difundir audios o vídeos de terceros sin cadena de custodia y verificación. Matiz: la sanción se basa en los cánones de dignidad judicial de Florida; no es un fallo sobre la tipificación penal de deepfakes ni fija un estándar técnico de detección.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/news/article/florida-judge-suspended-over-ai-deepfake-phone-call",
+          "schema:name": "Florida judge suspended over AI deepfake phone call",
+          "sota:sourceId": "src-aba-journal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lauren-peffer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-florida-supreme-court"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-florida-jqc"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-leela-seed-46m-compliance-agentes-finanzas",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-13-leela-seed-46m-compliance-agentes-finanzas",
+      "schema:headline": "Leela sale del sigilo con 4,6 millones de dólares: agentes de IA que ejecutan compliance de punta a punta en finanzas reguladas de EE. UU.",
+      "schema:datePublished": "2026-10-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Leela, fundada por la ex abogada de Davis Polk Preeti Krishnan, anunció el 12 de octubre de 2026 el lanzamiento de su plataforma de compliance con IA agéntica para negocios financieros regulados en Estados Unidos y una ronda seed de 4,6 millones de dólares co-liderada por Array Ventures y Female Founders Fund, con Northwestern Mutual Future Ventures, The Council y ángeles, según Legaltech News (Law.com) y PYMNTS. La plataforma convierte regulaciones, políticas y acuerdos con bancos sponsor en workflows ejecutables: los agentes hacen revisiones (fraude, AML), gestionan quejas, preparan suspicious activity reports (informes de actividad sospechosa) para revisión humana y conservan evidencia auditable. PYMNTS cita que, en un cliente temprano, Leela transformó 40 políticas de compliance en 262 obligaciones accionables. Krishnan resume el objetivo como dar a firmas pequeñas el equivalente a \"a 10-person compliance team\" (un equipo de compliance de diez personas), manteniendo a las personas responsables de las decisiones relevantes.",
+      "schema:articleBody": "Leela, fundada por la ex abogada de Davis Polk Preeti Krishnan, anunció el 12 de octubre de 2026 el lanzamiento de su plataforma de compliance con IA agéntica para negocios financieros regulados en Estados Unidos y una ronda seed de 4,6 millones de dólares co-liderada por Array Ventures y Female Founders Fund, con Northwestern Mutual Future Ventures, The Council y ángeles, según Legaltech News (Law.com) y PYMNTS. La plataforma convierte regulaciones, políticas y acuerdos con bancos sponsor en workflows ejecutables: los agentes hacen revisiones (fraude, AML), gestionan quejas, preparan suspicious activity reports (informes de actividad sospechosa) para revisión humana y conservan evidencia auditable. PYMNTS cita que, en un cliente temprano, Leela transformó 40 políticas de compliance en 262 obligaciones accionables. Krishnan resume el objetivo como dar a firmas pequeñas el equivalente a \"a 10-person compliance team\" (un equipo de compliance de diez personas), manteniendo a las personas responsables de las decisiones relevantes.\n\nPara un in-house de fintech o un despacho de regulatory, el mensaje es el desplazamiento del software de compliance desde el inventario de normas hacia la ejecución y la prueba: el valor está en quién traduce la obligación al control, quién firma y qué paquete de evidencia queda. Para un vendor de regtech, es otra señal de consolidación del discurso \"agentic compliance\" con ronda temprana y foco en sponsor banks. Antes de comprar, las preguntas útiles son qué sistemas toca el agente, cómo se versionan las políticas y quién es el human-in-the-loop (humano en el bucle) en AML y SAR. Matiz: Law.com está parcialmente tras paywall; las cifras de obligaciones y la frase del equipo de diez personas proceden de PYMNTS y del propio vendor; no hay métricas independientes de reducción de riesgo ni precio público.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Seed de una plataforma de compliance agéntico orientada a fintech regulada, con ejecución y evidencia, no solo alerta normativa.",
+      "sota:whyNow": "Anuncio 12 Oct 2026 (Law.com, PYMNTS). NEW vs PASS 09-29→10-12.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "compliance",
+        "regtech",
+        "funding",
+        "agentes",
+        "aml"
+      ],
+      "sota:summaryP1": "Leela, fundada por la ex abogada de Davis Polk Preeti Krishnan, anunció el 12 de octubre de 2026 el lanzamiento de su plataforma de compliance con IA agéntica para negocios financieros regulados en Estados Unidos y una ronda seed de 4,6 millones de dólares co-liderada por Array Ventures y Female Founders Fund, con Northwestern Mutual Future Ventures, The Council y ángeles, según Legaltech News (Law.com) y PYMNTS. La plataforma convierte regulaciones, políticas y acuerdos con bancos sponsor en workflows ejecutables: los agentes hacen revisiones (fraude, AML), gestionan quejas, preparan suspicious activity reports (informes de actividad sospechosa) para revisión humana y conservan evidencia auditable. PYMNTS cita que, en un cliente temprano, Leela transformó 40 políticas de compliance en 262 obligaciones accionables. Krishnan resume el objetivo como dar a firmas pequeñas el equivalente a \"a 10-person compliance team\" (un equipo de compliance de diez personas), manteniendo a las personas responsables de las decisiones relevantes.",
+      "sota:summaryP2": "Para un in-house de fintech o un despacho de regulatory, el mensaje es el desplazamiento del software de compliance desde el inventario de normas hacia la ejecución y la prueba: el valor está en quién traduce la obligación al control, quién firma y qué paquete de evidencia queda. Para un vendor de regtech, es otra señal de consolidación del discurso \"agentic compliance\" con ronda temprana y foco en sponsor banks. Antes de comprar, las preguntas útiles son qué sistemas toca el agente, cómo se versionan las políticas y quién es el human-in-the-loop (humano en el bucle) en AML y SAR. Matiz: Law.com está parcialmente tras paywall; las cifras de obligaciones y la frase del equipo de diez personas proceden de PYMNTS y del propio vendor; no hay métricas independientes de reducción de riesgo ni precio público.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/12/former-davis-polk-attorney-launches-compliance-startup-leela-announces-46m-seed-round/",
+          "schema:name": "Former Davis Polk Attorney Launches Compliance Startup Leela, Announces $4.6M Seed Round",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.pymnts.com/legal/bank-regulation/2026/leela-ceo-says-ai-can-give-fintechs-a-10-person-compliance-team/",
+          "schema:name": "Leela CEO Says AI Can Give FinTechs a 10-Person Compliance Team",
+          "sota:sourceId": "src-pymnts"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-leela"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-preeti-krishnan"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-array-ventures"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-female-founders-fund"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-z-ai-glm-legal-harvey-lab-19pct",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-13-z-ai-glm-legal-harvey-lab-19pct",
+      "schema:headline": "Z.ai lanza GLM-Legal: un modelo agéntico jurídico con 19,2% de all-pass en el Harvey LAB y beta solo por solicitud",
+      "schema:datePublished": "2026-10-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Z.ai (Zhipu) anunció el 12 de octubre de 2026 GLM-Legal, un modelo agéntico de dominio jurídico construido sobre GLM-5.3-Flash, según Unite.AI. En el Harvey LAB, que evalúa workflows reales de despacho en 24 áreas de práctica con calificación all-pass (aprobado solo si el flujo entero pasa), GLM-Legal obtuvo un 19,2%, 12,5 puntos por encima de su modelo base, afirma la compañía. Dice también resultados competitivos en LegalBench y paridad en PLawBench (consulta, análisis y redacción en derecho chino). El entrenamiento combina mid-training sobre corpus jurídico, reinforcement learning (aprendizaje por refuerzo) en \"tens of thousands of realistic legal environments\" y un bucle de feedback de abogados. Se integrará en AutoClaw, su agente de escritorio; los ejemplos públicos incluyen revisión contractual con track changes (control de cambios) en Word, un mapa de contradicciones sobre 40 documentos y un plan de privacy compliance para Singapur, Malasia e Indonesia. El acceso API es beta por solicitud; no se publican pesos ni precios.",
+      "schema:articleBody": "Z.ai (Zhipu) anunció el 12 de octubre de 2026 GLM-Legal, un modelo agéntico de dominio jurídico construido sobre GLM-5.3-Flash, según Unite.AI. En el Harvey LAB, que evalúa workflows reales de despacho en 24 áreas de práctica con calificación all-pass (aprobado solo si el flujo entero pasa), GLM-Legal obtuvo un 19,2%, 12,5 puntos por encima de su modelo base, afirma la compañía. Dice también resultados competitivos en LegalBench y paridad en PLawBench (consulta, análisis y redacción en derecho chino). El entrenamiento combina mid-training sobre corpus jurídico, reinforcement learning (aprendizaje por refuerzo) en \"tens of thousands of realistic legal environments\" y un bucle de feedback de abogados. Se integrará en AutoClaw, su agente de escritorio; los ejemplos públicos incluyen revisión contractual con track changes (control de cambios) en Word, un mapa de contradicciones sobre 40 documentos y un plan de privacy compliance para Singapur, Malasia e Indonesia. El acceso API es beta por solicitud; no se publican pesos ni precios.\n\nPara un responsable de innovación, el dato más honesto del anuncio es el propio 19,2%: bajo all-pass estricto, el modelo afinado completa alrededor de una tarea de cada cinco, lo que marca dónde están aún los agentes jurídicos de extremo a extremo. Que un laboratorio chino reporte sobre un benchmark de Harvey también señala que los bancos de prueba de vendors US se están convirtiendo en referencia pública. Antes de probarlo en un despacho europeo, hay que mirar residencia de datos, qué sale del entorno AutoClaw hacia mensajería (WhatsApp, Telegram, etc.) y si el modelo sirve derecho local o solo los demos. Matiz: es el comunicado del proveedor, reproducido por un medio cuyo autor firma como agente de investigación generado por IA; no hay evaluación independiente ni disponibilidad general.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Modelo de dominio jurídico con cifra pública en Harvey LAB all-pass y posicionamiento explícito como agente de workflows, no solo chat.",
+      "sota:whyNow": "Anuncio 12 Oct 2026 (Unite.AI / Z.ai). NEW vs PASS 09-29→10-12.",
+      "sota:geo": [
+        "CN",
+        "US"
+      ],
+      "sota:topics": [
+        "modelos",
+        "agentes",
+        "benchmarks",
+        "harvey-lab",
+        "china"
+      ],
+      "sota:summaryP1": "Z.ai (Zhipu) anunció el 12 de octubre de 2026 GLM-Legal, un modelo agéntico de dominio jurídico construido sobre GLM-5.3-Flash, según Unite.AI. En el Harvey LAB, que evalúa workflows reales de despacho en 24 áreas de práctica con calificación all-pass (aprobado solo si el flujo entero pasa), GLM-Legal obtuvo un 19,2%, 12,5 puntos por encima de su modelo base, afirma la compañía. Dice también resultados competitivos en LegalBench y paridad en PLawBench (consulta, análisis y redacción en derecho chino). El entrenamiento combina mid-training sobre corpus jurídico, reinforcement learning (aprendizaje por refuerzo) en \"tens of thousands of realistic legal environments\" y un bucle de feedback de abogados. Se integrará en AutoClaw, su agente de escritorio; los ejemplos públicos incluyen revisión contractual con track changes (control de cambios) en Word, un mapa de contradicciones sobre 40 documentos y un plan de privacy compliance para Singapur, Malasia e Indonesia. El acceso API es beta por solicitud; no se publican pesos ni precios.",
+      "sota:summaryP2": "Para un responsable de innovación, el dato más honesto del anuncio es el propio 19,2%: bajo all-pass estricto, el modelo afinado completa alrededor de una tarea de cada cinco, lo que marca dónde están aún los agentes jurídicos de extremo a extremo. Que un laboratorio chino reporte sobre un benchmark de Harvey también señala que los bancos de prueba de vendors US se están convirtiendo en referencia pública. Antes de probarlo en un despacho europeo, hay que mirar residencia de datos, qué sale del entorno AutoClaw hacia mensajería (WhatsApp, Telegram, etc.) y si el modelo sirve derecho local o solo los demos. Matiz: es el comunicado del proveedor, reproducido por un medio cuyo autor firma como agente de investigación generado por IA; no hay evaluación independiente ni disponibilidad general.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.unite.ai/z-ai-unveils-glm-legal-an-agentic-model-for-legal-workflows/",
+          "schema:name": "Z.ai Unveils GLM-Legal, an Agentic Model for Legal Workflows",
+          "sota:sourceId": "src-unite-ai"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-z-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-glm-legal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-autoclaws"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-3rd-circuit-desella-ross-copyright-ordinario",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-13-3rd-circuit-desella-ross-copyright-ordinario",
+      "schema:headline": "El 3rd Circuit desella su opinión en Thomson Reuters v. ROSS: «no more than an ordinary copyright case» y distingue la IA generativa",
+      "schema:datePublished": "2026-10-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LawNext (12 de octubre de 2026) detalla el texto ya público de la opinión del Third Circuit en Thomson Reuters v. ROSS Intelligence, emitida bajo sello el 29 de septiembre y de la que ya se sabía el fallo a favor de Thomson Reuters. La juez Tamika R. Montgomery-Reeves, con Restrepo y Bove, rechaza el marco de ROSS: \"Under ROSS's framing, this case appears to concern the future of AI legal technology… In truth, this is no more than an ordinary copyright case.\" El tribunal confirma el summary judgment parcial sobre 2.243 headnotes de Westlaw: son protegibles y su uso para entrenar la herramienta de ROSS no fue fair use (uso legítimo). Subraya que la IA de ROSS \"was not a generative AI\" (no era IA generativa): solo devolvía pasajes de opiniones judiciales preexistentes, y por eso distingue Bartz v. Anthropic e In re OpenAI, donde el entrenamiento de un LLM sí se consideró transformativo. ROSS ya anunció que pedirá revisión al Supreme Court.",
+      "schema:articleBody": "LawNext (12 de octubre de 2026) detalla el texto ya público de la opinión del Third Circuit en Thomson Reuters v. ROSS Intelligence, emitida bajo sello el 29 de septiembre y de la que ya se sabía el fallo a favor de Thomson Reuters. La juez Tamika R. Montgomery-Reeves, con Restrepo y Bove, rechaza el marco de ROSS: \"Under ROSS's framing, this case appears to concern the future of AI legal technology… In truth, this is no more than an ordinary copyright case.\" El tribunal confirma el summary judgment parcial sobre 2.243 headnotes de Westlaw: son protegibles y su uso para entrenar la herramienta de ROSS no fue fair use (uso legítimo). Subraya que la IA de ROSS \"was not a generative AI\" (no era IA generativa): solo devolvía pasajes de opiniones judiciales preexistentes, y por eso distingue Bartz v. Anthropic e In re OpenAI, donde el entrenamiento de un LLM sí se consideró transformativo. ROSS ya anunció que pedirá revisión al Supreme Court.\n\nLo nuevo no es el resultado (ya cubierto), sino la motivación publicada: el primer tribunal federal de apelación que habla de fair use en entrenamiento de IA jurídica acota a propósito el alcance y separa un sistema de retrieval (recuperación) de un LLM generativo. Para un vendor de legal research, el riesgo concreto sigue en copiar headnotes u otra expresión editorial, no en el eslogan de \"democratizar el derecho\". Para un abogado de PI o de contratos de training data, la cita útil es esa distinción con Bartz y OpenAI: el fair use no se decide por usar la palabra AI. Matiz: ampliamos una pieza ya publicada (fallo sellado 09-30 y anuncio de certiorari 10-03) porque ahora hay texto íntegro y ratio decidendi; no cambia el fallo.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 6.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Texto público del primer fallo federal de apelación sobre fair use en entrenamiento de IA jurídica, con distingo explícito frente a LLMs generativos.",
+      "sota:whyNow": "Desellado y análisis LawNext 12 Oct 2026. NEW vs cobertura previa del fallo sellado y del anuncio SCOTUS.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "copyright",
+        "fair-use",
+        "entrenamiento",
+        "legal-research",
+        "apelacion"
+      ],
+      "sota:summaryP1": "LawNext (12 de octubre de 2026) detalla el texto ya público de la opinión del Third Circuit en Thomson Reuters v. ROSS Intelligence, emitida bajo sello el 29 de septiembre y de la que ya se sabía el fallo a favor de Thomson Reuters. La juez Tamika R. Montgomery-Reeves, con Restrepo y Bove, rechaza el marco de ROSS: \"Under ROSS's framing, this case appears to concern the future of AI legal technology… In truth, this is no more than an ordinary copyright case.\" El tribunal confirma el summary judgment parcial sobre 2.243 headnotes de Westlaw: son protegibles y su uso para entrenar la herramienta de ROSS no fue fair use (uso legítimo). Subraya que la IA de ROSS \"was not a generative AI\" (no era IA generativa): solo devolvía pasajes de opiniones judiciales preexistentes, y por eso distingue Bartz v. Anthropic e In re OpenAI, donde el entrenamiento de un LLM sí se consideró transformativo. ROSS ya anunció que pedirá revisión al Supreme Court.",
+      "sota:summaryP2": "Lo nuevo no es el resultado (ya cubierto), sino la motivación publicada: el primer tribunal federal de apelación que habla de fair use en entrenamiento de IA jurídica acota a propósito el alcance y separa un sistema de retrieval (recuperación) de un LLM generativo. Para un vendor de legal research, el riesgo concreto sigue en copiar headnotes u otra expresión editorial, no en el eslogan de \"democratizar el derecho\". Para un abogado de PI o de contratos de training data, la cita útil es esa distinción con Bartz y OpenAI: el fair use no se decide por usar la palabra AI. Matiz: ampliamos una pieza ya publicada (fallo sellado 09-30 y anuncio de certiorari 10-03) porque ahora hay texto íntegro y ratio decidendi; no cambia el fallo.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html",
+          "schema:name": "'No More Than an Ordinary Copyright Case' — 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ross-intelligence"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-gateley-cto-tranter-jylo-ai",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-13-gateley-cto-tranter-jylo-ai",
+      "schema:headline": "Gateley nombra CTO a Nigel Tranter (ex Orrick y Pinsent Masons) para acelerar el despliegue de su plataforma Jylo AI",
+      "schema:datePublished": "2026-10-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Gateley, uno de los tres despachos británicos cotizados, nombró el 12 de octubre de 2026 a Nigel Tranter como chief technology officer (CTO), según Legal IT Insider. Tranter fue chief digital officer en Orrick y antes CTO en Pinsent Masons. En Gateley dirigirá estrategia tecnológica, arquitectura, datos, ingeniería, infraestructura, seguridad y operaciones; una prioridad explícita es apoyar el despliegue de Jylo AI, la plataforma que dará a los profesionales acceso seguro a tecnologías de IA líderes y permitirá workflows escalables y repetibles. La COO Victoria Garrad enmarcó el rol de CTO como central en la estrategia del despacho. Gateley cerró el ejercicio a 30 de abril de 2026 con ingresos de 193 millones de libras (+7%) y beneficio antes de impuestos de 7,7 millones (+20%), con deuda de 25,3 millones, y opera con CEO interino tras la salida de Rod Waldie en agosto.",
+      "schema:articleBody": "Gateley, uno de los tres despachos británicos cotizados, nombró el 12 de octubre de 2026 a Nigel Tranter como chief technology officer (CTO), según Legal IT Insider. Tranter fue chief digital officer en Orrick y antes CTO en Pinsent Masons. En Gateley dirigirá estrategia tecnológica, arquitectura, datos, ingeniería, infraestructura, seguridad y operaciones; una prioridad explícita es apoyar el despliegue de Jylo AI, la plataforma que dará a los profesionales acceso seguro a tecnologías de IA líderes y permitirá workflows escalables y repetibles. La COO Victoria Garrad enmarcó el rol de CTO como central en la estrategia del despacho. Gateley cerró el ejercicio a 30 de abril de 2026 con ingresos de 193 millones de libras (+7%) y beneficio antes de impuestos de 7,7 millones (+20%), con deuda de 25,3 millones, y opera con CEO interino tras la salida de Rod Waldie en agosto.\n\nPara un despacho mediano o cotizado, el nombramiento confirma que la IA deja de ser un proyecto del innovation team y pasa al organigrama de tecnología con P&L a la vista: seguridad, datos y plataforma propia (Jylo) bajo un mismo CTO. Para un vendor que venda a Gateley o a sus pares, el interlocutor y el criterio de compra se desplazan hacia arquitectura, control de acceso y workflows repetibles, no solo demo de chat. Matiz: es una nota de nombramiento; no hay detalle público de qué modelos usa Jylo, en qué áreas está en producción ni métricas de adopción.",
+      "sota:type": "market",
+      "sota:sotaScore": 5.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Despacho cotizado británico eleva la IA a prioridad del CTO con plataforma propia nombrada.",
+      "sota:whyNow": "Legal IT Insider 12 Oct 2026. NEW vs PASS 09-29→10-12.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "despachos",
+        "cto",
+        "plataformas-ia",
+        "adopcion",
+        "uk"
+      ],
+      "sota:summaryP1": "Gateley, uno de los tres despachos británicos cotizados, nombró el 12 de octubre de 2026 a Nigel Tranter como chief technology officer (CTO), según Legal IT Insider. Tranter fue chief digital officer en Orrick y antes CTO en Pinsent Masons. En Gateley dirigirá estrategia tecnológica, arquitectura, datos, ingeniería, infraestructura, seguridad y operaciones; una prioridad explícita es apoyar el despliegue de Jylo AI, la plataforma que dará a los profesionales acceso seguro a tecnologías de IA líderes y permitirá workflows escalables y repetibles. La COO Victoria Garrad enmarcó el rol de CTO como central en la estrategia del despacho. Gateley cerró el ejercicio a 30 de abril de 2026 con ingresos de 193 millones de libras (+7%) y beneficio antes de impuestos de 7,7 millones (+20%), con deuda de 25,3 millones, y opera con CEO interino tras la salida de Rod Waldie en agosto.",
+      "sota:summaryP2": "Para un despacho mediano o cotizado, el nombramiento confirma que la IA deja de ser un proyecto del innovation team y pasa al organigrama de tecnología con P&L a la vista: seguridad, datos y plataforma propia (Jylo) bajo un mismo CTO. Para un vendor que venda a Gateley o a sus pares, el interlocutor y el criterio de compra se desplazan hacia arquitectura, control de acceso y workflows repetibles, no solo demo de chat. Matiz: es una nota de nombramiento; no hay detalle público de qué modelos usa Jylo, en qué áreas está en producción ni métricas de adopción.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/gateley-appoints-nigel-tranter-as-chief-technology-officer/",
+          "schema:name": "Gateley appoints Nigel Tranter as chief technology officer",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gateley"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nigel-tranter"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jylo"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-13-ofac-icc-licencia-software-ediscovery",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-13-ofac-icc-licencia-software-ediscovery",
+      "schema:headline": "EE. UU. sanciona al Tribunal Penal Internacional: ComplexDiscovery pregunta si la licencia OFAC de software empresarial cubre eDiscovery",
+      "schema:datePublished": "2026-10-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Estados Unidos designó el 9 de octubre de 2026 al International Criminal Court (ICC, Tribunal Penal Internacional) en la SDN List de OFAC, según el análisis de ComplexDiscovery (11 de octubre). Con la designación llegaron licencias generales: una de mantenimiento y wind-down (salarios, alquiler, servicios rutinarios) que termina el 7 de abril de 2027, y la General License 14 para enterprise software, incluidas de ciberseguridad y cloud que soportan ese software, sin fecha de caducidad declarada. ComplexDiscovery señala que una plataforma hosted de review no está entre las categorías nombradas, y que managed review, forensic collection e incident response tampoco aparecen. La definición de U.S. person del programa alcanza a filiales extranjeras de entidades estadounidenses, lo que puede tensionar a afiliados europeos si la UE amplía su blocking statute. Hasta entonces el programa alcanzaba a personas y organizaciones en torno al tribunal (17 designaciones previas, según el State Department), no a la institución.",
+      "schema:articleBody": "Estados Unidos designó el 9 de octubre de 2026 al International Criminal Court (ICC, Tribunal Penal Internacional) en la SDN List de OFAC, según el análisis de ComplexDiscovery (11 de octubre). Con la designación llegaron licencias generales: una de mantenimiento y wind-down (salarios, alquiler, servicios rutinarios) que termina el 7 de abril de 2027, y la General License 14 para enterprise software, incluidas de ciberseguridad y cloud que soportan ese software, sin fecha de caducidad declarada. ComplexDiscovery señala que una plataforma hosted de review no está entre las categorías nombradas, y que managed review, forensic collection e incident response tampoco aparecen. La definición de U.S. person del programa alcanza a filiales extranjeras de entidades estadounidenses, lo que puede tensionar a afiliados europeos si la UE amplía su blocking statute. Hasta entonces el programa alcanzaba a personas y organizaciones en torno al tribunal (17 designaciones previas, según el State Department), no a la institución.\n\nPara un proveedor de eDiscovery, information governance o ciberseguridad con clientes o asuntos ligados al TPI, el ejercicio inmediato es clasificar cada engagement contra el texto de las licencias: qué es \"enterprise software\" cubierto sin caducidad y qué queda solo bajo el wind-down de 180 días. Para un despacho con equipos US y EU, la definición amplia de U.S. person convierte el tema en conflicto de normas, no solo en compliance de export controls. Matiz: es un análisis interpretativo de ComplexDiscovery sobre licencias recién publicadas; OFAC no ha emitido guía específica para eDiscovery y el texto puede ajustarse.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 5.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Sanciones al TPI como institución y hueco interpretativo de las licencias OFAC para proveedores de eDiscovery.",
+      "sota:whyNow": "Designación 9 Oct 2026; análisis ComplexDiscovery 11 Oct. NEW vs PASS 09-29→10-12.",
+      "sota:geo": [
+        "US",
+        "NL",
+        "EU"
+      ],
+      "sota:topics": [
+        "sanciones",
+        "ofac",
+        "ediscovery",
+        "tpi",
+        "export-controls"
+      ],
+      "sota:summaryP1": "Estados Unidos designó el 9 de octubre de 2026 al International Criminal Court (ICC, Tribunal Penal Internacional) en la SDN List de OFAC, según el análisis de ComplexDiscovery (11 de octubre). Con la designación llegaron licencias generales: una de mantenimiento y wind-down (salarios, alquiler, servicios rutinarios) que termina el 7 de abril de 2027, y la General License 14 para enterprise software, incluidas de ciberseguridad y cloud que soportan ese software, sin fecha de caducidad declarada. ComplexDiscovery señala que una plataforma hosted de review no está entre las categorías nombradas, y que managed review, forensic collection e incident response tampoco aparecen. La definición de U.S. person del programa alcanza a filiales extranjeras de entidades estadounidenses, lo que puede tensionar a afiliados europeos si la UE amplía su blocking statute. Hasta entonces el programa alcanzaba a personas y organizaciones en torno al tribunal (17 designaciones previas, según el State Department), no a la institución.",
+      "sota:summaryP2": "Para un proveedor de eDiscovery, information governance o ciberseguridad con clientes o asuntos ligados al TPI, el ejercicio inmediato es clasificar cada engagement contra el texto de las licencias: qué es \"enterprise software\" cubierto sin caducidad y qué queda solo bajo el wind-down de 180 días. Para un despacho con equipos US y EU, la definición amplia de U.S. person convierte el tema en conflicto de normas, no solo en compliance de export controls. Matiz: es un análisis interpretativo de ComplexDiscovery sobre licencias recién publicadas; OFAC no ha emitido guía específica para eDiscovery y el texto puede ajustarse.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://complexdiscovery.com/ofacs-icc-general-license-14-has-no-stated-expiration-date-but-does-it-reach-ediscovery-services/",
+          "schema:name": "OFAC's ICC General License 14 has no stated expiration date, but does it reach eDiscovery services?",
+          "sota:sourceId": "src-complexdiscovery"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ofac"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icc"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aba-journal",
+      "schema:name": "ABA Journal",
+      "sota:entityType": "media",
+      "schema:url": "https://www.abajournal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-array-ventures",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-array-ventures",
+      "schema:name": "Array Ventures",
+      "sota:entityType": "company",
+      "schema:url": "https://array.vc/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ars-technica",
+      "schema:name": "Ars Technica",
+      "sota:entityType": "media",
+      "schema:url": "https://arstechnica.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-autoclaws",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-autoclaws",
+      "schema:name": "AutoClaw",
+      "sota:entityType": "product",
+      "schema:url": "https://z.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-claude-haiku-4-5",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-claude-haiku-4-5",
+      "schema:name": "Claude Haiku 4.5",
+      "sota:entityType": "product",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-female-founders-fund",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-female-founders-fund",
+      "schema:name": "Female Founders Fund",
+      "sota:entityType": "company",
+      "schema:url": "https://femalefoundersfund.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-florida-jqc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-florida-jqc",
+      "schema:name": "Florida Judicial Qualifications Commission",
+      "sota:entityType": "government",
+      "schema:url": "https://floridajqc.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-florida-supreme-court",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-florida-supreme-court",
+      "schema:name": "Florida Supreme Court",
+      "sota:entityType": "other",
+      "schema:url": "https://www.floridasupremecourt.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gateley",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-gateley",
+      "schema:name": "Gateley",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://gateleyplc.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-glm-legal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-glm-legal",
+      "schema:name": "GLM-Legal",
+      "sota:entityType": "product",
+      "schema:url": "https://z.ai/blog/glm-legal",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-icc",
+      "schema:name": "International Criminal Court",
+      "sota:entityType": "other",
+      "schema:url": "https://www.icc-cpi.int/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jylo",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-jylo",
+      "schema:name": "Jylo AI",
+      "sota:entityType": "product",
+      "schema:url": "https://legaltechnology.com/gateley-appoints-nigel-tranter-as-chief-technology-officer/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lauren-peffer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lauren-peffer",
+      "schema:name": "Lauren Nichole Peffer",
+      "sota:entityType": "other",
+      "schema:url": "https://www.abajournal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-leela",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-leela",
+      "schema:name": "Leela",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.withleela.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nigel-tranter",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nigel-tranter",
+      "schema:name": "Nigel Tranter",
+      "sota:entityType": "person",
+      "schema:url": "https://legaltechnology.com/gateley-appoints-nigel-tranter-as-chief-technology-officer/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ofac",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ofac",
+      "schema:name": "OFAC",
+      "sota:entityType": "regulator",
+      "schema:url": "https://ofac.treasury.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-philadelphia-police",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-philadelphia-police",
+      "schema:name": "Philadelphia Police Department",
+      "sota:entityType": "government",
+      "schema:url": "https://www.phillypolice.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-philly-unsolved-murders",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-philly-unsolved-murders",
+      "schema:name": "PhillyUnsolvedMurders.com",
+      "sota:entityType": "other",
+      "schema:url": "https://phillyunsolvedmurders.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-preeti-krishnan",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-preeti-krishnan",
+      "schema:name": "Preeti Krishnan",
+      "sota:entityType": "person",
+      "schema:url": "https://www.withleela.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pymnts",
+      "schema:name": "PYMNTS",
+      "sota:entityType": "media",
+      "schema:url": "https://www.pymnts.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ross-intelligence",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ross-intelligence",
+      "schema:name": "ROSS Intelligence",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-thomson-reuters",
+      "schema:name": "Thomson Reuters",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.thomsonreuters.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-unite-ai",
+      "schema:name": "Unite.AI",
+      "sota:entityType": "media",
+      "schema:url": "https://www.unite.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-z-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-z-ai",
+      "schema:name": "Z.ai",
+      "sota:entityType": "vendor",
+      "schema:url": "https://z.ai/",
+      "sota:stub": true
+    }
+  ]
+}

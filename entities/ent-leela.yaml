@@ -1,0 +1,11 @@
+id: ent-leela
+name: Leela
+type: vendor
+url: https://www.withleela.com/
+geo:
+- US
+aliases:
+- withleela
+notes: Startup de compliance con IA agéntica para negocios financieros regulados en
+  EE. UU.; sale del sigilo con ronda seed de 4,6 M$. Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-autoclaws
+name: AutoClaw
+type: product
+url: https://z.ai/
+geo:
+- CN
+aliases:
+- AutoClaw
+notes: Plataforma de agentes de escritorio de Z.ai donde se integrará GLM-Legal. Ficha
+  mínima.
+stub: true

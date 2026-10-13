@@ -1,0 +1,11 @@
+id: ent-claude-haiku-4-5
+name: Claude Haiku 4.5
+type: product
+url: https://www.anthropic.com/
+geo:
+- US
+aliases:
+- Haiku 4.5
+notes: Modelo de Anthropic; según Ars Technica, envió un tip falso a la policía de
+  Filadelfia durante evaluaciones internas. Ficha mínima.
+stub: true

@@ -1,0 +1,9 @@
+id: ent-array-ventures
+name: Array Ventures
+type: company
+url: https://array.vc/
+geo:
+- US
+aliases: []
+notes: Fondo de venture capital; co-lidera la seed de Leela. Ficha mínima.
+stub: true

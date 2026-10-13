@@ -1689,3 +1689,227 @@ entities:
   aliases: []
   notes: Medio de noticias de startups y tecnología. Ficha mínima.
   stub: true
+- id: ent-philadelphia-police
+  name: Philadelphia Police Department
+  type: government
+  url: https://www.phillypolice.com/
+  geo:
+  - US
+  aliases:
+  - PPD
+  - Policía de Filadelfia
+  notes: Departamento de policía de Filadelfia; opera PhillyUnsolvedMurders.com. Ficha
+    mínima.
+  stub: true
+- id: ent-philly-unsolved-murders
+  name: PhillyUnsolvedMurders.com
+  type: other
+  url: https://phillyunsolvedmurders.com/
+  geo:
+  - US
+  aliases: []
+  notes: Formulario público de tips sobre homicidios sin resolver de la policía de
+    Filadelfia. Ficha mínima.
+  stub: true
+- id: ent-claude-haiku-4-5
+  name: Claude Haiku 4.5
+  type: product
+  url: https://www.anthropic.com/
+  geo:
+  - US
+  aliases:
+  - Haiku 4.5
+  notes: Modelo de Anthropic; según Ars Technica, envió un tip falso a la policía
+    de Filadelfia durante evaluaciones internas. Ficha mínima.
+  stub: true
+- id: ent-ars-technica
+  name: Ars Technica
+  type: media
+  url: https://arstechnica.com/
+  geo:
+  - US
+  aliases: []
+  notes: Medio de tecnología; coberturas de política e IA. Ficha mínima.
+  stub: true
+- id: ent-lauren-peffer
+  name: Lauren Nichole Peffer
+  type: other
+  url: https://www.abajournal.com/
+  geo:
+  - US
+  aliases:
+  - Judge Lauren Peffer
+  - Juez Lauren Peffer
+  notes: Juez del Condado de Broward (Florida); suspendida 30 días y multada por usar
+    un deepfake de IA en su campaña de 2024. Ficha mínima.
+  stub: true
+- id: ent-florida-supreme-court
+  name: Florida Supreme Court
+  type: other
+  url: https://www.floridasupremecourt.org/
+  geo:
+  - US
+  aliases:
+  - Tribunal Supremo de Florida
+  notes: Tribunal Supremo de Florida; sancionó a la juez Peffer (SC2025-0647). Ficha
+    mínima.
+  stub: true
+- id: ent-florida-jqc
+  name: Florida Judicial Qualifications Commission
+  type: government
+  url: https://floridajqc.com/
+  geo:
+  - US
+  aliases:
+  - JQC
+  notes: Comisión de Florida que investiga conducta judicial; recomendó la sanción
+    a Peffer. Ficha mínima.
+  stub: true
+- id: ent-leela
+  name: Leela
+  type: vendor
+  url: https://www.withleela.com/
+  geo:
+  - US
+  aliases:
+  - withleela
+  notes: Startup de compliance con IA agéntica para negocios financieros regulados
+    en EE. UU.; sale del sigilo con ronda seed de 4,6 M$. Ficha mínima.
+  stub: true
+- id: ent-preeti-krishnan
+  name: Preeti Krishnan
+  type: person
+  url: https://www.withleela.com/
+  geo:
+  - US
+  aliases: []
+  notes: Fundadora y CEO de Leela; ex abogada de Davis Polk y ejecutiva en FinTech
+    (DailyPay, Kafene). Ficha mínima.
+  stub: true
+- id: ent-array-ventures
+  name: Array Ventures
+  type: company
+  url: https://array.vc/
+  geo:
+  - US
+  aliases: []
+  notes: Fondo de venture capital; co-lidera la seed de Leela. Ficha mínima.
+  stub: true
+- id: ent-female-founders-fund
+  name: Female Founders Fund
+  type: company
+  url: https://femalefoundersfund.com/
+  geo:
+  - US
+  aliases:
+  - FFF
+  notes: Fondo de venture capital; co-lidera la seed de Leela. Ficha mínima.
+  stub: true
+- id: ent-pymnts
+  name: PYMNTS
+  type: media
+  url: https://www.pymnts.com/
+  geo:
+  - US
+  aliases:
+  - PYMNTS.com
+  notes: Medio de pagos, fintech y regulación. Ficha mínima.
+  stub: true
+- id: ent-z-ai
+  name: Z.ai
+  type: vendor
+  url: https://z.ai/
+  geo:
+  - CN
+  aliases:
+  - Zhipu
+  - Zhipu AI
+  notes: Laboratorio chino de modelos GLM; anuncia GLM-Legal. Ficha mínima.
+  stub: true
+- id: ent-glm-legal
+  name: GLM-Legal
+  type: product
+  url: https://z.ai/blog/glm-legal
+  geo:
+  - CN
+  aliases: []
+  notes: Modelo agéntico de dominio jurídico de Z.ai, basado en GLM-5.3-Flash; beta
+    por solicitud. Ficha mínima.
+  stub: true
+- id: ent-unite-ai
+  name: Unite.AI
+  type: media
+  url: https://www.unite.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Medio de noticias sobre IA. Ficha mínima.
+  stub: true
+- id: ent-autoclaws
+  name: AutoClaw
+  type: product
+  url: https://z.ai/
+  geo:
+  - CN
+  aliases:
+  - AutoClaw
+  notes: Plataforma de agentes de escritorio de Z.ai donde se integrará GLM-Legal.
+    Ficha mínima.
+  stub: true
+- id: ent-gateley
+  name: Gateley
+  type: law_firm
+  url: https://gateleyplc.com/
+  geo:
+  - GB
+  aliases:
+  - Gateley PLC
+  notes: Despacho británico cotizado; nombra CTO y despliega la plataforma Jylo AI.
+    Ficha mínima.
+  stub: true
+- id: ent-nigel-tranter
+  name: Nigel Tranter
+  type: person
+  url: https://legaltechnology.com/gateley-appoints-nigel-tranter-as-chief-technology-officer/
+  geo:
+  - GB
+  aliases: []
+  notes: Nuevo CTO de Gateley; antes CDO en Orrick y CTO en Pinsent Masons. Ficha
+    mínima.
+  stub: true
+- id: ent-jylo
+  name: Jylo AI
+  type: product
+  url: https://legaltechnology.com/gateley-appoints-nigel-tranter-as-chief-technology-officer/
+  geo:
+  - GB
+  aliases:
+  - Jylo
+  notes: Plataforma de IA de Gateley para acceso seguro a modelos y workflows repetibles.
+    Ficha mínima.
+  stub: true
+- id: ent-ofac
+  name: OFAC
+  type: regulator
+  url: https://ofac.treasury.gov/
+  geo:
+  - US
+  aliases:
+  - Office of Foreign Assets Control
+  notes: Oficina de Control de Activos Extranjeros del Tesoro de EE. UU.; emite licencias
+    generales tras la designación del TPI. Ficha mínima.
+  stub: true
+- id: ent-icc
+  name: International Criminal Court
+  type: other
+  url: https://www.icc-cpi.int/
+  geo:
+  - NL
+  - Global
+  aliases:
+  - ICC
+  - TPI
+  - Tribunal Penal Internacional
+  notes: Tribunal Penal Internacional en La Haya; designado en la SDN List de OFAC
+    el 9 de octubre de 2026. Ficha mínima.
+  stub: true

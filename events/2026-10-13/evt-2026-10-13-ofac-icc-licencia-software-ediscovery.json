@@ -1,0 +1,38 @@
+{
+  "id": "evt-2026-10-13-ofac-icc-licencia-software-ediscovery",
+  "date": "2026-10-11",
+  "type": "regulation",
+  "sota_score": 5.8,
+  "ai_legaltech": false,
+  "title": "EE. UU. sanciona al Tribunal Penal Internacional: ComplexDiscovery pregunta si la licencia OFAC de software empresarial cubre eDiscovery",
+  "summary_p1": "Estados Unidos designó el 9 de octubre de 2026 al International Criminal Court (ICC, Tribunal Penal Internacional) en la SDN List de OFAC, según el análisis de ComplexDiscovery (11 de octubre). Con la designación llegaron licencias generales: una de mantenimiento y wind-down (salarios, alquiler, servicios rutinarios) que termina el 7 de abril de 2027, y la General License 14 para enterprise software, incluidas de ciberseguridad y cloud que soportan ese software, sin fecha de caducidad declarada. ComplexDiscovery señala que una plataforma hosted de review no está entre las categorías nombradas, y que managed review, forensic collection e incident response tampoco aparecen. La definición de U.S. person del programa alcanza a filiales extranjeras de entidades estadounidenses, lo que puede tensionar a afiliados europeos si la UE amplía su blocking statute. Hasta entonces el programa alcanzaba a personas y organizaciones en torno al tribunal (17 designaciones previas, según el State Department), no a la institución.",
+  "summary_p2": "Para un proveedor de eDiscovery, information governance o ciberseguridad con clientes o asuntos ligados al TPI, el ejercicio inmediato es clasificar cada engagement contra el texto de las licencias: qué es \"enterprise software\" cubierto sin caducidad y qué queda solo bajo el wind-down de 180 días. Para un despacho con equipos US y EU, la definición amplia de U.S. person convierte el tema en conflicto de normas, no solo en compliance de export controls. Matiz: es un análisis interpretativo de ComplexDiscovery sobre licencias recién publicadas; OFAC no ha emitido guía específica para eDiscovery y el texto puede ajustarse.",
+  "why_sota": "Sanciones al TPI como institución y hueco interpretativo de las licencias OFAC para proveedores de eDiscovery.",
+  "why_now": "Designación 9 Oct 2026; análisis ComplexDiscovery 11 Oct. NEW vs PASS 09-29→10-12.",
+  "geo": [
+    "US",
+    "NL",
+    "EU"
+  ],
+  "topics": [
+    "sanciones",
+    "ofac",
+    "ediscovery",
+    "tpi",
+    "export-controls"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/ofacs-icc-general-license-14-has-no-stated-expiration-date-but-does-it-reach-ediscovery-services/",
+      "cited_title": "OFAC's ICC General License 14 has no stated expiration date, but does it reach eDiscovery services?",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "entities": [
+    "ent-ofac",
+    "ent-icc"
+  ],
+  "lang": "es",
+  "status": "published"
+}

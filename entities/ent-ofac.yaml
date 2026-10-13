@@ -1,0 +1,11 @@
+id: ent-ofac
+name: OFAC
+type: regulator
+url: https://ofac.treasury.gov/
+geo:
+- US
+aliases:
+- Office of Foreign Assets Control
+notes: Oficina de Control de Activos Extranjeros del Tesoro de EE. UU.; emite licencias
+  generales tras la designación del TPI. Ficha mínima.
+stub: true
