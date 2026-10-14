@@ -1,0 +1,53 @@
+{
+  "id": "evt-2026-10-14-jylo-3-0-agentes-addins-gasto-ia",
+  "date": "2026-10-13",
+  "type": "product",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Jylo 3.0: agentes configurables, add-ins de Outlook, PowerPoint y Excel, y controles de gasto de IA",
+  "short_title": "Jylo 3.0: agentes, add-ins de Microsoft y control de gasto de IA",
+  "standfirst": "Pasa del análisis documental a workflows agénticos. Gateley, Lawfront y Clarke Willmott ya lo prueban.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Plataformas",
+  "country": "Reino Unido",
+  "piece_type": "Producto",
+  "summary_p1": "Jylo lanzó el 13 de octubre de 2026 Jylo 3.0, un rediseño que mueve la plataforma del análisis documental asistido hacia workflows legales impulsados por agentes, según un exclusivo de Legal IT Insider. La versión, primero para equipos de innovación e IT de early adopters, añade add-ins de Outlook, PowerPoint y Excel, agentes configurables en una Library (con skills, fuentes de conocimiento, plantillas e integraciones), \"Actions\" que disparan tareas aguas abajo (informes, presentaciones, redacciones, disclosure bundles), gestión documental con historial y check-in/check-out, integración más profunda con iManage y NetDocuments, soporte ampliado de Model Context Protocol (MCP) y un credit management que asigna presupuestos, límites y acceso a modelos por equipo o persona. El CEO Shawn Curran resume el salto: de sistemas \"single-shot, text-in, text-out\" a \"workflow engines and agents under the hood\". Gateley, que ayer nombraba CTO para desplegar Jylo, figura como early adopter firmwide; Benjamin Carter (head of technology innovation) dice que eligieron Jylo frente a Legora y Harvey tras unos seis meses de prueba por el encaje y el acceso al roadmap. Lawfront y Clarke Willmott también aportan feedback de planta.",
+  "summary_p2": "Para un despacho que ya tenga Jylo o compare plataformas UK, 3.0 fija tres frentes de compra a la vez: agentes reutilizables, salida automática (Actions) y gobernanza del coste de tokens. El credit management responde a una queja real de enterprise: sin cupos, el modelo premium se dispara. Para un vendor rival, el mensaje de Gateley (\"no era elegir el nombre más grande\") confirma que roadmap conjunto y DMS (iManage/NetDocuments) pesan tanto como el brand. Matiz: es cobertura con demo del proveedor y citas de clientes early adopter; no hay métricas públicas de adopción, tiempos de ciclo ni precios.",
+  "why_sota": "Plataforma legal AI británica que empaqueta agentes, Actions y control de gasto en una sola release enterprise.",
+  "why_now": "Legal IT Insider 13 Oct 2026. NEW vs PASS 09-29→10-13 (el CTO de Gateley de ayer no cubría el producto 3.0).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "agentes",
+    "plataformas",
+    "microsoft",
+    "gobernanza-coste",
+    "dms"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/",
+      "cited_title": "Exclusive: Jylo unveils '3.0' with agentic workflows, Microsoft add-ins and AI spend controls",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-jylo",
+    "ent-shawn-curran",
+    "ent-gateley",
+    "ent-benjamin-carter",
+    "ent-legora",
+    "ent-harvey",
+    "ent-imanage",
+    "ent-lawfront",
+    "ent-clarke-willmott",
+    "ent-legal-it-insider"
+  ],
+  "lang": "es",
+  "status": "published"
+}

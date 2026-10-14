@@ -1,0 +1,9 @@
+id: ent-transcript-genius
+name: Transcript Genius
+type: product
+url: https://www.steno.com/
+geo:
+- US
+aliases: []
+notes: Producto de IA de Steno para análisis de deposition transcripts. Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-steno
+name: Steno
+type: vendor
+url: https://www.steno.com/
+geo:
+- US
+aliases: []
+notes: Court reporting y litigation support con suite de IA (Transcript Genius, Litigation
+  Genius). Ficha mínima.
+stub: true

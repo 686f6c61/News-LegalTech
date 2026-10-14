@@ -1,0 +1,10 @@
+id: ent-access-newswire
+name: ACCESS Newswire
+type: media
+url: https://www.accessnewswire.com/
+geo:
+- US
+aliases:
+- Access Newswire
+notes: Wire de comunicados; publicó el anuncio de FERC.ai. Ficha mínima.
+stub: true

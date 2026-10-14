@@ -1913,3 +1913,277 @@ entities:
   notes: Tribunal Penal Internacional en La Haya; designado en la SDN List de OFAC
     el 9 de octubre de 2026. Ficha mínima.
   stub: true
+- id: ent-shawn-curran
+  name: Shawn Curran
+  type: person
+  url: https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/
+  geo:
+  - GB
+  aliases: []
+  notes: Cofundador y CEO de Jylo. Ficha mínima.
+  stub: true
+- id: ent-benjamin-carter
+  name: Benjamin Carter
+  type: person
+  url: https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/
+  geo:
+  - GB
+  aliases: []
+  notes: Head of technology innovation en Gateley; early adopter de Jylo 3.0. Ficha
+    mínima.
+  stub: true
+- id: ent-bryan-tsao
+  name: Bryan Tsao
+  type: person
+  url: https://legora.com/
+  geo:
+  - SE
+  - Global
+  aliases: []
+  notes: Chief Product Officer de Legora. Ficha mínima.
+  stub: true
+- id: ent-steno
+  name: Steno
+  type: vendor
+  url: https://www.steno.com/
+  geo:
+  - US
+  aliases: []
+  notes: Court reporting y litigation support con suite de IA (Transcript Genius,
+    Litigation Genius). Ficha mínima.
+  stub: true
+- id: ent-litigation-genius
+  name: Litigation Genius
+  type: product
+  url: https://www.steno.com/genius
+  geo:
+  - US
+  aliases: []
+  notes: Workspace de IA de Steno para analizar el expediente completo de un caso;
+    open beta octubre 2026. Ficha mínima.
+  stub: true
+- id: ent-transcript-genius
+  name: Transcript Genius
+  type: product
+  url: https://www.steno.com/
+  geo:
+  - US
+  aliases: []
+  notes: Producto de IA de Steno para análisis de deposition transcripts. Ficha mínima.
+  stub: true
+- id: ent-prabhdeep-singh
+  name: Prabhdeep Singh
+  type: person
+  url: https://www.steno.com/
+  geo:
+  - US
+  aliases: []
+  notes: CEO de Steno. Ficha mínima.
+  stub: true
+- id: ent-sixfifty
+  name: SixFifty
+  type: vendor
+  url: https://www.sixfifty.com/
+  geo:
+  - US
+  aliases: []
+  notes: Plataforma de employment law compliance; ex subsidiaria de Wilson Sonsini,
+    adquirida por Paychex. Ficha mínima.
+  stub: true
+- id: ent-paychex
+  name: Paychex
+  type: company
+  url: https://www.paychex.com/
+  geo:
+  - US
+  aliases:
+  - PayChex
+  notes: Proveedor de nómina y HR; adquirió SixFifty. Ficha mínima.
+  stub: true
+- id: ent-wilson-sonsini
+  name: Wilson Sonsini Goodrich & Rosati
+  type: law_firm
+  url: https://www.wsgr.com/
+  geo:
+  - US
+  aliases:
+  - Wilson Sonsini
+  notes: Despacho de Silicon Valley; propietario previo de SixFifty. Ficha mínima.
+  stub: true
+- id: ent-kimball-dean-parker
+  name: Kimball Dean Parker
+  type: person
+  url: https://www.sixfifty.com/
+  geo:
+  - US
+  aliases: []
+  notes: CEO y cofundador de SixFifty. Ficha mínima.
+  stub: true
+- id: ent-useabi
+  name: useABI
+  type: vendor
+  url: https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html
+  geo:
+  - US
+  aliases:
+  - useABI
+  notes: Plataforma de IA para M&A que genera markups, issues lists y diligence sin
+    prompting. Ficha mínima.
+  stub: true
+- id: ent-abdulrasheed-ijaodola
+  name: Abdulrasheed Ijaodola
+  type: person
+  url: https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html
+  geo:
+  - US
+  aliases: []
+  notes: Cofundador y CEO de useABI; ex abogado de M&A en Greenberg Traurig. Ficha
+    mínima.
+  stub: true
+- id: ent-adam-usman
+  name: Adam Usman
+  type: person
+  url: https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html
+  geo:
+  - US
+  aliases: []
+  notes: Cofundador y CTO de useABI. Ficha mínima.
+  stub: true
+- id: ent-greenberg-traurig
+  name: Greenberg Traurig
+  type: law_firm
+  url: https://www.gtlaw.com/
+  geo:
+  - US
+  aliases: []
+  notes: Despacho Am Law; Ijaodola practicó M&A allí antes de fundar useABI. Ficha
+    mínima.
+  stub: true
+- id: ent-laurel
+  name: Laurel
+  type: vendor
+  url: https://www.laurel.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Plataforma de timekeeping con IA para despachos. Ficha mínima.
+  stub: true
+- id: ent-legatics
+  name: Legatics
+  type: vendor
+  url: https://www.legatics.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Plataforma de transaction management; conecta MCP a Harvey. Ficha mínima.
+  stub: true
+- id: ent-anthony-seale
+  name: Anthony Seale
+  type: person
+  url: https://www.legatics.com/
+  geo:
+  - GB
+  aliases: []
+  notes: CEO de Legatics. Ficha mínima.
+  stub: true
+- id: ent-richard-tromans
+  name: Richard Tromans
+  type: person
+  url: https://www.artificiallawyer.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Fundador de Artificial Lawyer; formula la Law of Adversarial Incentives.
+    Ficha mínima.
+  stub: true
+- id: ent-permeta
+  name: Permeta
+  type: vendor
+  url: https://www.permeta.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Startup de IA para permitting y regulación energética; lanza FERC.ai. Ficha
+    mínima.
+  stub: true
+- id: ent-ferc-ai
+  name: FERC.ai
+  type: product
+  url: https://www.ferc.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Servicio que hace consultable la eLibrary de FERC vía Claude, ChatGPT y Copilot
+    (MCP). Ficha mínima.
+  stub: true
+- id: ent-ferc
+  name: Federal Energy Regulatory Commission
+  type: regulator
+  url: https://www.ferc.gov/
+  geo:
+  - US
+  aliases:
+  - FERC
+  notes: Regulador federal de energía de EE. UU.; su eLibrary pública es el corpus
+    de FERC.ai. Ficha mínima.
+  stub: true
+- id: ent-eric-redmond
+  name: Eric Redmond
+  type: person
+  url: https://www.permeta.ai/
+  geo:
+  - US
+  aliases: []
+  notes: CEO de Permeta. Ficha mínima.
+  stub: true
+- id: ent-access-newswire
+  name: ACCESS Newswire
+  type: media
+  url: https://www.accessnewswire.com/
+  geo:
+  - US
+  aliases:
+  - Access Newswire
+  notes: Wire de comunicados; publicó el anuncio de FERC.ai. Ficha mínima.
+  stub: true
+- id: ent-lawfront
+  name: Lawfront
+  type: law_firm
+  url: https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/
+  geo:
+  - GB
+  aliases: []
+  notes: Despacho británico partner de Jylo. Ficha mínima.
+  stub: true
+- id: ent-clarke-willmott
+  name: Clarke Willmott
+  type: law_firm
+  url: https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/
+  geo:
+  - GB
+  aliases:
+  - Clarke Wilmott
+  notes: Despacho británico partner de Jylo 3.0. Ficha mínima.
+  stub: true
+- id: ent-legora-intake
+  name: Legora Intake
+  type: product
+  url: https://legora.com/newsroom/legora-launches-intake-an-agentic-front-door-for-in-house-legal-teams
+  geo:
+  - SE
+  - Global
+  aliases:
+  - Intake
+  notes: Puerta de entrada agéntica de Legora para in-house; disponible en Slack.
+    Ficha mínima.
+  stub: true
+- id: ent-stuart-greenhill
+  name: Stuart Greenhill
+  type: person
+  url: https://www.lexisnexis.co.uk/
+  geo:
+  - GB
+  aliases: []
+  notes: Senior director of segments en LexisNexis UK; comenta el informe de gobernanza
+    de IA. Ficha mínima.
+  stub: true

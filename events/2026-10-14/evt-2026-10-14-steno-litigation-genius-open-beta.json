@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-14-steno-litigation-genius-open-beta",
+  "date": "2026-10-13",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Steno abre la beta pública de Litigation Genius: IA sobre el expediente completo, no solo el transcript",
+  "short_title": "Steno Litigation Genius: IA sobre el expediente completo",
+  "standfirst": "Open beta en el Firm Dashboard. Respuestas con citas a página; SOC 2 Type II y HIPAA.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigio",
+  "country": "EE. UU.",
+  "piece_type": "Producto",
+  "summary_p1": "Steno, proveedor de court reporting y litigation support, anunció el 13 de octubre de 2026 la open beta de Litigation Genius, según LawNext (comunicado) y Artificial Lawyer. Amplía Transcript Genius: el workspace vive en el Steno Firm Dashboard y analiza, junto al deposition transcript, pleadings, medical records, financial documents, imágenes, discovery responses, notas manuscritas y correspondence. Los jobs de court reporting de Steno crean el caso automáticamente con transcripts y exhibits marcados; el equipo puede subir más materiales o importarlos de Google Drive y Dropbox. Las respuestas llegan en lenguaje natural con citas clicables a fichero y página; genera resúmenes ejecutivos y timelines; sugiere prompts y guarda conversaciones compartibles con control de acceso por rol. Declara SOC 2 Type II, HIPAA y zero data retention con los proveedores de modelos (los datos del cliente no entrenan esos modelos). El acceso a la beta usa las credenciales existentes del dashboard.",
+  "summary_p2": "Para un litigador que ya deposita con Steno, el valor es de workflow: el análisis empieza donde llega el transcript, sin exportar a otra plataforma. Para un vendor de litigation AI genérico, es un recordatorio de que la distribución embebida en court reporting puede ganar a la demo flashy. Preguntas de compra: qué pasa con transcripts de otros proveedores, cómo se facturan tokens y qué retención exacta aplica. Matiz: la pieza principal en LawNext es un comunicado de Steno; no hay evaluación independiente ni métricas de precisión de las citas.",
+  "why_sota": "IA de litigio embebida en el dashboard de court reporting, con citas a página sobre el expediente completo.",
+  "why_now": "Open beta 13 Oct 2026 (LawNext, AL). NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "litigio",
+    "court-reporting",
+    "ediscovery",
+    "citas",
+    "beta"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/steno-expands-litigation-technology-suite-with-open-beta-launch-of-litigation-genius.html",
+      "cited_title": "Steno Expands Litigation Technology Suite with Open Beta Launch of Litigation Genius",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-steno",
+    "ent-litigation-genius",
+    "ent-transcript-genius",
+    "ent-prabhdeep-singh"
+  ],
+  "lang": "es",
+  "status": "published"
+}

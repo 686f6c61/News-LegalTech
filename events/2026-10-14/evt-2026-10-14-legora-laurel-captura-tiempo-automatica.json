@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-14-legora-laurel-captura-tiempo-automatica",
+  "date": "2026-10-13",
+  "type": "market",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Legora y Laurel se alían: cada tarea en Legora genera un time entry listo para revisar",
+  "short_title": "Legora × Laurel: captura automática de tiempo en la IA",
+  "standfirst": "Primera fase: timekeeping. Después medirán juntos el valor de Legora para el despacho.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Timekeeping",
+  "country": "",
+  "piece_type": "Mercado",
+  "summary_p1": "Legora y Laurel anunciaron el 13 de octubre de 2026 una alianza para que el trabajo hecho en la plataforma de legal AI se convierta automáticamente en time entries, según LawNext. En la primera fase, los abogados de despachos clientes de ambas plataformas obtendrán asientos de tiempo con cliente, matter y narrativa descriptiva (por ejemplo, \"Analyze indemnification provisions in draft asset purchase agreement\") listos para revisar, de modo que se reduzca el tiempo no facturable de reconstruir lo hecho en Legora y se cierren huecos en el registro. En una segunda fase, las compañías planean compartir datos (con consulta a clientes) para medir el uso y el valor que el trabajo con IA aporta al despacho, y mostrar esas métricas en ambas plataformas. La captura automática desde Legora estará disponible primero; el detalle de calendario se comunicará a los clientes duales cuando arranque el rollout.",
+  "summary_p2": "Para un managing partner o un pricing partner, el cuello de botella clásico de la IA en hourly billing (\"si tardo menos, facturo menos / no registro el trabajo\") encuentra aquí una respuesta de producto: el time entry nace donde se hace el trabajo. La segunda fase es la más sensible: medir \"valor de Legora\" implica definir qué cuenta (horas evitadas, calidad, margen) y quién ve esos datos. Matiz: es un anuncio de partnership sin fecha de GA ni lista de firmas piloto; la métrica de valor aún no existe.",
+  "why_sota": "Cruce explícito entre legal AI y timekeeping para no perder el rastro billable del trabajo en la plataforma.",
+  "why_now": "LawNext 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "US",
+    "SE",
+    "Global"
+  ],
+  "topics": [
+    "timekeeping",
+    "billing",
+    "despachos",
+    "roi",
+    "legora"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-develop-measures-of-legoras-value-to-firms.html",
+      "cited_title": "Legora and Laurel Partner to Enable Automatic Time Capture; Will Later Develop Measures of Legora's Value to Firms",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-legora",
+    "ent-laurel"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-14-useabi-asociado-ia-ma-sin-prompting",
+  "date": "2026-10-13",
+  "type": "product",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "useABI, de un ex M&A de Greenberg Traurig: markups, issues list y diligence como un asociado, sin prompting",
+  "short_title": "useABI: un «asociado» de IA para M&A sin prompting",
+  "standfirst": "Issues list en minutos. Pilot en un Am Law 100 no nombrado. Precio por equipo, no por uso.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "M&A",
+  "country": "EE. UU.",
+  "piece_type": "Producto",
+  "summary_p1": "Abdulrasheed Ijaodola, ex abogado de M&A en Greenberg Traurig (Nueva York; dice haber cerrado 45 deals por más de 15.000 millones de dólares), lanzó el 13 de octubre de 2026 useABI con el CTO Adam Usman, según LawNext (briefing y demo exclusivos). La plataforma se presenta como un \"AI associate\" (asociado de IA) para equipos de M&A: genera purchase agreement markups, issues lists, diligence reports y summaries, supplemental requests y checklists sin que el abogado tenga que promptar cada paso. El issues list, en la demo, salió en menos de dos minutos; Ijaodola cifra unos 30 minutos para markup, issues list, diligence report y summary de un deal nuevo. Hay workspace multipersona, capa de \"judgment\" configurable con las posiciones del despacho, Insights que indexa deals históricos en 71 categorías y diligence capaz de ingerir más de 100.000 documentos de un VDR. Usan modelos de OpenAI, Anthropic y Google como procesadores; la inteligencia de práctica, dicen, es propia. Zero data retention con los proveedores, datos en EE. UU. y aislamiento por tenant. Primer despliegue relevante la semana previa en un Am Law 100 no nombrado. Suscripción por equipo.",
+  "summary_p2": "Para un socio de corporate o un innovation lead de Big Law, useABI empuja el discurso del mercado un paso más allá del copiloto: deliverable de asociado, no chat. El riesgo comercial es familiar (pilot sin nombre, promesas de tiempo) y el diferenciador declarado (judgment layer + Insights históricos) solo se verifica en el data room del propio despacho. Preguntas útiles: quién revisa el issues list antes de enviarlo al cliente, cómo se versionan las posiciones del firm y qué ocurre si el modelo inventa un change-of-control. Matiz: cobertura basada en demo del fundador a LawNext; sin clientes públicos ni benchmarks externos.",
+  "why_sota": "Producto de M&A que promete deliverables de asociado (issues list, markup, diligence) sin prompting continuo.",
+  "why_now": "Lanzamiento / cobertura LawNext 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ma",
+    "agentes",
+    "diligence",
+    "despachos",
+    "asociado-ia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+      "cited_title": "Former Big Law M&A Lawyer Launches useABI, an AI 'Associate' That Produces Deal Docs Without Prompting",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-useabi",
+    "ent-abdulrasheed-ijaodola",
+    "ent-adam-usman",
+    "ent-greenberg-traurig",
+    "ent-openai",
+    "ent-anthropic"
+  ],
+  "lang": "es",
+  "status": "published"
+}

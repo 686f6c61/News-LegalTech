@@ -1,0 +1,10 @@
+id: ent-wilson-sonsini
+name: Wilson Sonsini Goodrich & Rosati
+type: law_firm
+url: https://www.wsgr.com/
+geo:
+- US
+aliases:
+- Wilson Sonsini
+notes: Despacho de Silicon Valley; propietario previo de SixFifty. Ficha mínima.
+stub: true

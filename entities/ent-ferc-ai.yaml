@@ -1,0 +1,10 @@
+id: ent-ferc-ai
+name: FERC.ai
+type: product
+url: https://www.ferc.ai/
+geo:
+- US
+aliases: []
+notes: Servicio que hace consultable la eLibrary de FERC vía Claude, ChatGPT y Copilot
+  (MCP). Ficha mínima.
+stub: true

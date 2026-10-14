@@ -1,0 +1,10 @@
+id: ent-litigation-genius
+name: Litigation Genius
+type: product
+url: https://www.steno.com/genius
+geo:
+- US
+aliases: []
+notes: Workspace de IA de Steno para analizar el expediente completo de un caso; open
+  beta octubre 2026. Ficha mínima.
+stub: true

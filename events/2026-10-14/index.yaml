@@ -1,0 +1,68 @@
+scan_id: full-radar-2026-10-14
+date: '2026-10-14'
+release: 14.10.26
+count: 10
+ai_share: 1.0
+dedup_against: events/2026-09-29 → 2026-10-13 + scans PASS
+event_ids:
+- evt-2026-10-14-jylo-3-0-agentes-addins-gasto-ia
+- evt-2026-10-14-legora-intake-front-door-inhouse-slack
+- evt-2026-10-14-steno-litigation-genius-open-beta
+- evt-2026-10-14-sixfifty-agente-hr-compliance-paychex
+- evt-2026-10-14-useabi-asociado-ia-ma-sin-prompting
+- evt-2026-10-14-legora-laurel-captura-tiempo-automatica
+- evt-2026-10-14-legatics-harvey-mcp-estado-deal
+- evt-2026-10-14-lexisnexis-brecha-gobernanza-ia-legal-futures
+- evt-2026-10-14-tromans-ley-incentivo-adversarial-ia
+- evt-2026-10-14-permeta-ferc-ai-elibrary-mcp
+events:
+- id: evt-2026-10-14-jylo-3-0-agentes-addins-gasto-ia
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'Jylo 3.0: agentes configurables, add-ins de Outlook, PowerPoint y Excel,
+    y controles de gasto de IA'
+- id: evt-2026-10-14-legora-intake-front-door-inhouse-slack
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Legora lanza Intake: una puerta de entrada agéntica para in-house que prepara
+    el trabajo desde Slack'
+- id: evt-2026-10-14-steno-litigation-genius-open-beta
+  sota_score: 7.2
+  ai_legaltech: true
+  title: 'Steno abre la beta pública de Litigation Genius: IA sobre el expediente
+    completo, no solo el transcript'
+- id: evt-2026-10-14-sixfifty-agente-hr-compliance-paychex
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'SixFifty (Paychex) lanza un agente de compliance laboral: handbooks, posters
+    y filings por jurisdicción'
+- id: evt-2026-10-14-useabi-asociado-ia-ma-sin-prompting
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'useABI, de un ex M&A de Greenberg Traurig: markups, issues list y diligence
+    como un asociado, sin prompting'
+- id: evt-2026-10-14-legora-laurel-captura-tiempo-automatica
+  sota_score: 6.8
+  ai_legaltech: true
+  title: 'Legora y Laurel se alían: cada tarea en Legora genera un time entry listo
+    para revisar'
+- id: evt-2026-10-14-legatics-harvey-mcp-estado-deal
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'Legatics entra en la Connector Library de Harvey: el estado vivo del deal
+    vía MCP'
+- id: evt-2026-10-14-lexisnexis-brecha-gobernanza-ia-legal-futures
+  sota_score: 6.6
+  ai_legaltech: true
+  title: 'LexisNexis: dos tercios usan IA a diario o varias veces por semana, pero
+    casi uno de cada cinco no sabe quién gobierna esa IA'
+- id: evt-2026-10-14-tromans-ley-incentivo-adversarial-ia
+  sota_score: 6.5
+  ai_legaltech: true
+  title: 'Tromans formula la «Law of Adversarial Incentives»: más conflicto, más trabajo
+    extra pese a la IA'
+- id: evt-2026-10-14-permeta-ferc-ai-elibrary-mcp
+  sota_score: 6.4
+  ai_legaltech: true
+  title: 'Permeta lanza FERC.ai: la eLibrary de FERC consultable en Claude, Copilot
+    y ChatGPT con citas'

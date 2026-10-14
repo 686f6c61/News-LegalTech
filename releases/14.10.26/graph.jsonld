@@ -1,0 +1,918 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/14.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 14.10.26",
+      "schema:version": "14.10.26",
+      "schema:datePublished": "2026-10-14",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-14, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/14.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-jylo-3-0-agentes-addins-gasto-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-legora-intake-front-door-inhouse-slack"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-steno-litigation-genius-open-beta"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-sixfifty-agente-hr-compliance-paychex"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-useabi-asociado-ia-ma-sin-prompting"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-legora-laurel-captura-tiempo-automatica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-legatics-harvey-mcp-estado-deal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-lexisnexis-brecha-gobernanza-ia-legal-futures"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-tromans-ley-incentivo-adversarial-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-permeta-ferc-ai-elibrary-mcp"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-jylo-3-0-agentes-addins-gasto-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-jylo-3-0-agentes-addins-gasto-ia",
+      "schema:headline": "Jylo 3.0: agentes configurables, add-ins de Outlook, PowerPoint y Excel, y controles de gasto de IA",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Jylo lanzó el 13 de octubre de 2026 Jylo 3.0, un rediseño que mueve la plataforma del análisis documental asistido hacia workflows legales impulsados por agentes, según un exclusivo de Legal IT Insider. La versión, primero para equipos de innovación e IT de early adopters, añade add-ins de Outlook, PowerPoint y Excel, agentes configurables en una Library (con skills, fuentes de conocimiento, plantillas e integraciones), \"Actions\" que disparan tareas aguas abajo (informes, presentaciones, redacciones, disclosure bundles), gestión documental con historial y check-in/check-out, integración más profunda con iManage y NetDocuments, soporte ampliado de Model Context Protocol (MCP) y un credit management que asigna presupuestos, límites y acceso a modelos por equipo o persona. El CEO Shawn Curran resume el salto: de sistemas \"single-shot, text-in, text-out\" a \"workflow engines and agents under the hood\". Gateley, que ayer nombraba CTO para desplegar Jylo, figura como early adopter firmwide; Benjamin Carter (head of technology innovation) dice que eligieron Jylo frente a Legora y Harvey tras unos seis meses de prueba por el encaje y el acceso al roadmap. Lawfront y Clarke Willmott también aportan feedback de planta.",
+      "schema:articleBody": "Jylo lanzó el 13 de octubre de 2026 Jylo 3.0, un rediseño que mueve la plataforma del análisis documental asistido hacia workflows legales impulsados por agentes, según un exclusivo de Legal IT Insider. La versión, primero para equipos de innovación e IT de early adopters, añade add-ins de Outlook, PowerPoint y Excel, agentes configurables en una Library (con skills, fuentes de conocimiento, plantillas e integraciones), \"Actions\" que disparan tareas aguas abajo (informes, presentaciones, redacciones, disclosure bundles), gestión documental con historial y check-in/check-out, integración más profunda con iManage y NetDocuments, soporte ampliado de Model Context Protocol (MCP) y un credit management que asigna presupuestos, límites y acceso a modelos por equipo o persona. El CEO Shawn Curran resume el salto: de sistemas \"single-shot, text-in, text-out\" a \"workflow engines and agents under the hood\". Gateley, que ayer nombraba CTO para desplegar Jylo, figura como early adopter firmwide; Benjamin Carter (head of technology innovation) dice que eligieron Jylo frente a Legora y Harvey tras unos seis meses de prueba por el encaje y el acceso al roadmap. Lawfront y Clarke Willmott también aportan feedback de planta.\n\nPara un despacho que ya tenga Jylo o compare plataformas UK, 3.0 fija tres frentes de compra a la vez: agentes reutilizables, salida automática (Actions) y gobernanza del coste de tokens. El credit management responde a una queja real de enterprise: sin cupos, el modelo premium se dispara. Para un vendor rival, el mensaje de Gateley (\"no era elegir el nombre más grande\") confirma que roadmap conjunto y DMS (iManage/NetDocuments) pesan tanto como el brand. Matiz: es cobertura con demo del proveedor y citas de clientes early adopter; no hay métricas públicas de adopción, tiempos de ciclo ni precios.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Plataforma legal AI británica que empaqueta agentes, Actions y control de gasto en una sola release enterprise.",
+      "sota:whyNow": "Legal IT Insider 13 Oct 2026. NEW vs PASS 09-29→10-13 (el CTO de Gateley de ayer no cubría el producto 3.0).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "agentes",
+        "plataformas",
+        "microsoft",
+        "gobernanza-coste",
+        "dms"
+      ],
+      "sota:summaryP1": "Jylo lanzó el 13 de octubre de 2026 Jylo 3.0, un rediseño que mueve la plataforma del análisis documental asistido hacia workflows legales impulsados por agentes, según un exclusivo de Legal IT Insider. La versión, primero para equipos de innovación e IT de early adopters, añade add-ins de Outlook, PowerPoint y Excel, agentes configurables en una Library (con skills, fuentes de conocimiento, plantillas e integraciones), \"Actions\" que disparan tareas aguas abajo (informes, presentaciones, redacciones, disclosure bundles), gestión documental con historial y check-in/check-out, integración más profunda con iManage y NetDocuments, soporte ampliado de Model Context Protocol (MCP) y un credit management que asigna presupuestos, límites y acceso a modelos por equipo o persona. El CEO Shawn Curran resume el salto: de sistemas \"single-shot, text-in, text-out\" a \"workflow engines and agents under the hood\". Gateley, que ayer nombraba CTO para desplegar Jylo, figura como early adopter firmwide; Benjamin Carter (head of technology innovation) dice que eligieron Jylo frente a Legora y Harvey tras unos seis meses de prueba por el encaje y el acceso al roadmap. Lawfront y Clarke Willmott también aportan feedback de planta.",
+      "sota:summaryP2": "Para un despacho que ya tenga Jylo o compare plataformas UK, 3.0 fija tres frentes de compra a la vez: agentes reutilizables, salida automática (Actions) y gobernanza del coste de tokens. El credit management responde a una queja real de enterprise: sin cupos, el modelo premium se dispara. Para un vendor rival, el mensaje de Gateley (\"no era elegir el nombre más grande\") confirma que roadmap conjunto y DMS (iManage/NetDocuments) pesan tanto como el brand. Matiz: es cobertura con demo del proveedor y citas de clientes early adopter; no hay métricas públicas de adopción, tiempos de ciclo ni precios.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/",
+          "schema:name": "Exclusive: Jylo unveils '3.0' with agentic workflows, Microsoft add-ins and AI spend controls",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jylo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-shawn-curran"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gateley"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-benjamin-carter"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-imanage"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawfront"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clarke-willmott"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-it-insider"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-legora-intake-front-door-inhouse-slack",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-legora-intake-front-door-inhouse-slack",
+      "schema:headline": "Legora lanza Intake: una puerta de entrada agéntica para in-house que prepara el trabajo desde Slack",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legora anunció el 13 de octubre de 2026 Intake, una \"agentic front door\" (puerta de entrada agéntica) para equipos jurídicos in-house, disponible ya en Slack, según Artificial Lawyer, Legal IT Insider y Legaltech News (Law.com). Un empleado escribe en el canal de legal requests; el Legora Agent lee la petición, pide lo que falte en el hilo, la convierte en tarea rastreada con responsable y fecha, y puede preparar el trabajo con los Skills y playbooks del equipo para que el abogado revise un primer borrador. En peticiones rutinarias aprobadas de antemano (por ejemplo un NDA estándar) el agente puede cerrar el ciclo y devolver la respuesta al solicitante; el alcance lo decide el equipo jurídico por tipo de request. Cada petición queda registrada con tipo, assignee y turnaround, de modo que liderazgo ve qué pide el negocio. Bryan Tsao (CPO) enmarca Intake como ROI de equipo, no solo de abogado individual. Legora dice que su segmento de más rápido crecimiento en el Reino Unido es ya in-house, y planea extender Intake a Microsoft Teams, email y MCP.",
+      "schema:articleBody": "Legora anunció el 13 de octubre de 2026 Intake, una \"agentic front door\" (puerta de entrada agéntica) para equipos jurídicos in-house, disponible ya en Slack, según Artificial Lawyer, Legal IT Insider y Legaltech News (Law.com). Un empleado escribe en el canal de legal requests; el Legora Agent lee la petición, pide lo que falte en el hilo, la convierte en tarea rastreada con responsable y fecha, y puede preparar el trabajo con los Skills y playbooks del equipo para que el abogado revise un primer borrador. En peticiones rutinarias aprobadas de antemano (por ejemplo un NDA estándar) el agente puede cerrar el ciclo y devolver la respuesta al solicitante; el alcance lo decide el equipo jurídico por tipo de request. Cada petición queda registrada con tipo, assignee y turnaround, de modo que liderazgo ve qué pide el negocio. Bryan Tsao (CPO) enmarca Intake como ROI de equipo, no solo de abogado individual. Legora dice que su segmento de más rápido crecimiento en el Reino Unido es ya in-house, y planea extender Intake a Microsoft Teams, email y MCP.\n\nPara un GC o un head of legal ops, Intake ataca el trabajo alrededor del trabajo: triaje, routing y primer borrador sin abrir otra herramienta. Compite en el mismo espacio que Coheso y otros \"legal front door\", pero desde una plataforma ancha (Skills ya cubiertos el 7 oct) hacia el in-house, no al revés. Antes de desplegarlo, las preguntas útiles son qué tipos de request pueden cerrarse solos, dónde queda el human-in-the-loop (humano en el bucle) y cómo se audita lo que el agente envió al negocio. Matiz: Law.com está parcialmente tras paywall; no hay cifras de clientes in-house ni tiempos medios de resolución publicados en la cobertura abierta.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Intake agéntico in-house que no solo enruta: prepara trabajo con Skills propios del equipo dentro de Slack.",
+      "sota:whyNow": "Anuncio 13 Oct 2026 (AL, Legal IT Insider, Law.com). NEW vs Skills (07-10) y BMW (09-10).",
+      "sota:geo": [
+        "SE",
+        "GB",
+        "Global"
+      ],
+      "sota:topics": [
+        "inhouse",
+        "intake",
+        "agentes",
+        "slack",
+        "skills"
+      ],
+      "sota:summaryP1": "Legora anunció el 13 de octubre de 2026 Intake, una \"agentic front door\" (puerta de entrada agéntica) para equipos jurídicos in-house, disponible ya en Slack, según Artificial Lawyer, Legal IT Insider y Legaltech News (Law.com). Un empleado escribe en el canal de legal requests; el Legora Agent lee la petición, pide lo que falte en el hilo, la convierte en tarea rastreada con responsable y fecha, y puede preparar el trabajo con los Skills y playbooks del equipo para que el abogado revise un primer borrador. En peticiones rutinarias aprobadas de antemano (por ejemplo un NDA estándar) el agente puede cerrar el ciclo y devolver la respuesta al solicitante; el alcance lo decide el equipo jurídico por tipo de request. Cada petición queda registrada con tipo, assignee y turnaround, de modo que liderazgo ve qué pide el negocio. Bryan Tsao (CPO) enmarca Intake como ROI de equipo, no solo de abogado individual. Legora dice que su segmento de más rápido crecimiento en el Reino Unido es ya in-house, y planea extender Intake a Microsoft Teams, email y MCP.",
+      "sota:summaryP2": "Para un GC o un head of legal ops, Intake ataca el trabajo alrededor del trabajo: triaje, routing y primer borrador sin abrir otra herramienta. Compite en el mismo espacio que Coheso y otros \"legal front door\", pero desde una plataforma ancha (Skills ya cubiertos el 7 oct) hacia el in-house, no al revés. Antes de desplegarlo, las preguntas útiles son qué tipos de request pueden cerrarse solos, dónde queda el human-in-the-loop (humano en el bucle) y cómo se audita lo que el agente envió al negocio. Matiz: Law.com está parcialmente tras paywall; no hay cifras de clientes in-house ni tiempos medios de resolución publicados en la cobertura abierta.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/13/legora-increases-inhouse-focus-with-intake/",
+          "schema:name": "Legora Increases Inhouse Focus with Intake",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltechnology.com/legora-launches-intake-an-agentic-front-door-for-in-house-legal-teams/",
+          "schema:name": "Legora launches Intake: an agentic front door for in-house legal teams",
+          "sota:sourceId": "src-legal-it-insider"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora-intake"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bryan-tsao"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-steno-litigation-genius-open-beta",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-steno-litigation-genius-open-beta",
+      "schema:headline": "Steno abre la beta pública de Litigation Genius: IA sobre el expediente completo, no solo el transcript",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Steno, proveedor de court reporting y litigation support, anunció el 13 de octubre de 2026 la open beta de Litigation Genius, según LawNext (comunicado) y Artificial Lawyer. Amplía Transcript Genius: el workspace vive en el Steno Firm Dashboard y analiza, junto al deposition transcript, pleadings, medical records, financial documents, imágenes, discovery responses, notas manuscritas y correspondence. Los jobs de court reporting de Steno crean el caso automáticamente con transcripts y exhibits marcados; el equipo puede subir más materiales o importarlos de Google Drive y Dropbox. Las respuestas llegan en lenguaje natural con citas clicables a fichero y página; genera resúmenes ejecutivos y timelines; sugiere prompts y guarda conversaciones compartibles con control de acceso por rol. Declara SOC 2 Type II, HIPAA y zero data retention con los proveedores de modelos (los datos del cliente no entrenan esos modelos). El acceso a la beta usa las credenciales existentes del dashboard.",
+      "schema:articleBody": "Steno, proveedor de court reporting y litigation support, anunció el 13 de octubre de 2026 la open beta de Litigation Genius, según LawNext (comunicado) y Artificial Lawyer. Amplía Transcript Genius: el workspace vive en el Steno Firm Dashboard y analiza, junto al deposition transcript, pleadings, medical records, financial documents, imágenes, discovery responses, notas manuscritas y correspondence. Los jobs de court reporting de Steno crean el caso automáticamente con transcripts y exhibits marcados; el equipo puede subir más materiales o importarlos de Google Drive y Dropbox. Las respuestas llegan en lenguaje natural con citas clicables a fichero y página; genera resúmenes ejecutivos y timelines; sugiere prompts y guarda conversaciones compartibles con control de acceso por rol. Declara SOC 2 Type II, HIPAA y zero data retention con los proveedores de modelos (los datos del cliente no entrenan esos modelos). El acceso a la beta usa las credenciales existentes del dashboard.\n\nPara un litigador que ya deposita con Steno, el valor es de workflow: el análisis empieza donde llega el transcript, sin exportar a otra plataforma. Para un vendor de litigation AI genérico, es un recordatorio de que la distribución embebida en court reporting puede ganar a la demo flashy. Preguntas de compra: qué pasa con transcripts de otros proveedores, cómo se facturan tokens y qué retención exacta aplica. Matiz: la pieza principal en LawNext es un comunicado de Steno; no hay evaluación independiente ni métricas de precisión de las citas.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "IA de litigio embebida en el dashboard de court reporting, con citas a página sobre el expediente completo.",
+      "sota:whyNow": "Open beta 13 Oct 2026 (LawNext, AL). NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "litigio",
+        "court-reporting",
+        "ediscovery",
+        "citas",
+        "beta"
+      ],
+      "sota:summaryP1": "Steno, proveedor de court reporting y litigation support, anunció el 13 de octubre de 2026 la open beta de Litigation Genius, según LawNext (comunicado) y Artificial Lawyer. Amplía Transcript Genius: el workspace vive en el Steno Firm Dashboard y analiza, junto al deposition transcript, pleadings, medical records, financial documents, imágenes, discovery responses, notas manuscritas y correspondence. Los jobs de court reporting de Steno crean el caso automáticamente con transcripts y exhibits marcados; el equipo puede subir más materiales o importarlos de Google Drive y Dropbox. Las respuestas llegan en lenguaje natural con citas clicables a fichero y página; genera resúmenes ejecutivos y timelines; sugiere prompts y guarda conversaciones compartibles con control de acceso por rol. Declara SOC 2 Type II, HIPAA y zero data retention con los proveedores de modelos (los datos del cliente no entrenan esos modelos). El acceso a la beta usa las credenciales existentes del dashboard.",
+      "sota:summaryP2": "Para un litigador que ya deposita con Steno, el valor es de workflow: el análisis empieza donde llega el transcript, sin exportar a otra plataforma. Para un vendor de litigation AI genérico, es un recordatorio de que la distribución embebida en court reporting puede ganar a la demo flashy. Preguntas de compra: qué pasa con transcripts de otros proveedores, cómo se facturan tokens y qué retención exacta aplica. Matiz: la pieza principal en LawNext es un comunicado de Steno; no hay evaluación independiente ni métricas de precisión de las citas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/steno-expands-litigation-technology-suite-with-open-beta-launch-of-litigation-genius.html",
+          "schema:name": "Steno Expands Litigation Technology Suite with Open Beta Launch of Litigation Genius",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-steno"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-litigation-genius"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-transcript-genius"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-prabhdeep-singh"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-sixfifty-agente-hr-compliance-paychex",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-sixfifty-agente-hr-compliance-paychex",
+      "schema:headline": "SixFifty (Paychex) lanza un agente de compliance laboral: handbooks, posters y filings por jurisdicción",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "SixFifty, la plataforma de employment law que Paychex compró tras su etapa como subsidiaria tecnológica de Wilson Sonsini, presentó el 13 de octubre de 2026 su primera gran novedad post-adquisición: un agente agéntico de HR compliance con interfaz de chat, según LawNext y Legaltech News (Law.com). El agente responde dudas de employment law, redacta y actualiza handbooks, políticas y contratos, envía documentos a firma y acknowledgement, distribuye labor posters y new hire notices según la ubicación del empleado, provisiona formaciones de acoso sexual, recoge quejas y puede presentar filings estatales al contratar en una nueva localización. SixFifty afirma haber rastreado más de 440 cambios de employment law en casi 130 jurisdicciones federales, estatales y locales en el último año, y haber catalogado \"every employment law in the United States\" en tres años; cada respuesta enlaza a un artículo de referencia con citas al estatuto o reglamento. Está disponible ya para clientes standalone y trials; las capacidades llegarán a Paychex Flex y Paycor (vía WISE) más adelante en el ejercicio fiscal.",
+      "schema:articleBody": "SixFifty, la plataforma de employment law que Paychex compró tras su etapa como subsidiaria tecnológica de Wilson Sonsini, presentó el 13 de octubre de 2026 su primera gran novedad post-adquisición: un agente agéntico de HR compliance con interfaz de chat, según LawNext y Legaltech News (Law.com). El agente responde dudas de employment law, redacta y actualiza handbooks, políticas y contratos, envía documentos a firma y acknowledgement, distribuye labor posters y new hire notices según la ubicación del empleado, provisiona formaciones de acoso sexual, recoge quejas y puede presentar filings estatales al contratar en una nueva localización. SixFifty afirma haber rastreado más de 440 cambios de employment law en casi 130 jurisdicciones federales, estatales y locales en el último año, y haber catalogado \"every employment law in the United States\" en tres años; cada respuesta enlaza a un artículo de referencia con citas al estatuto o reglamento. Está disponible ya para clientes standalone y trials; las capacidades llegarán a Paychex Flex y Paycor (vía WISE) más adelante en el ejercicio fiscal.\n\nPara un in-house de mid-market o un despacho laboral que asesore a empresas sin legal department grande, el mensaje es compliance laboral empaquetado como agente ejecutable, no solo biblioteca. La integración con Paychex convierte el payroll en canal de distribución: el riesgo y la oportunidad están en quién firma la política y qué pasa cuando el agente se equivoca de jurisdicción. Matiz: cifras de cambios legales y el alcance \"every employment law\" son del proveedor; Law.com está parcialmente tras paywall; no hay benchmark independiente de exactitud normativa.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Agente de employment compliance multi-jurisdicción distribuido desde un payroll gigante tras M&A.",
+      "sota:whyNow": "LawNext/Law.com 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "employment",
+        "compliance",
+        "agentes",
+        "hr",
+        "paychex"
+      ],
+      "sota:summaryP1": "SixFifty, la plataforma de employment law que Paychex compró tras su etapa como subsidiaria tecnológica de Wilson Sonsini, presentó el 13 de octubre de 2026 su primera gran novedad post-adquisición: un agente agéntico de HR compliance con interfaz de chat, según LawNext y Legaltech News (Law.com). El agente responde dudas de employment law, redacta y actualiza handbooks, políticas y contratos, envía documentos a firma y acknowledgement, distribuye labor posters y new hire notices según la ubicación del empleado, provisiona formaciones de acoso sexual, recoge quejas y puede presentar filings estatales al contratar en una nueva localización. SixFifty afirma haber rastreado más de 440 cambios de employment law en casi 130 jurisdicciones federales, estatales y locales en el último año, y haber catalogado \"every employment law in the United States\" en tres años; cada respuesta enlaza a un artículo de referencia con citas al estatuto o reglamento. Está disponible ya para clientes standalone y trials; las capacidades llegarán a Paychex Flex y Paycor (vía WISE) más adelante en el ejercicio fiscal.",
+      "sota:summaryP2": "Para un in-house de mid-market o un despacho laboral que asesore a empresas sin legal department grande, el mensaje es compliance laboral empaquetado como agente ejecutable, no solo biblioteca. La integración con Paychex convierte el payroll en canal de distribución: el riesgo y la oportunidad están en quién firma la política y qué pasa cuando el agente se equivoca de jurisdicción. Matiz: cifras de cambios legales y el alcance \"every employment law\" son del proveedor; Law.com está parcialmente tras paywall; no hay benchmark independiente de exactitud normativa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html",
+          "schema:name": "In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sixfifty"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-paychex"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wilson-sonsini"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-kimball-dean-parker"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-useabi-asociado-ia-ma-sin-prompting",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-useabi-asociado-ia-ma-sin-prompting",
+      "schema:headline": "useABI, de un ex M&A de Greenberg Traurig: markups, issues list y diligence como un asociado, sin prompting",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Abdulrasheed Ijaodola, ex abogado de M&A en Greenberg Traurig (Nueva York; dice haber cerrado 45 deals por más de 15.000 millones de dólares), lanzó el 13 de octubre de 2026 useABI con el CTO Adam Usman, según LawNext (briefing y demo exclusivos). La plataforma se presenta como un \"AI associate\" (asociado de IA) para equipos de M&A: genera purchase agreement markups, issues lists, diligence reports y summaries, supplemental requests y checklists sin que el abogado tenga que promptar cada paso. El issues list, en la demo, salió en menos de dos minutos; Ijaodola cifra unos 30 minutos para markup, issues list, diligence report y summary de un deal nuevo. Hay workspace multipersona, capa de \"judgment\" configurable con las posiciones del despacho, Insights que indexa deals históricos en 71 categorías y diligence capaz de ingerir más de 100.000 documentos de un VDR. Usan modelos de OpenAI, Anthropic y Google como procesadores; la inteligencia de práctica, dicen, es propia. Zero data retention con los proveedores, datos en EE. UU. y aislamiento por tenant. Primer despliegue relevante la semana previa en un Am Law 100 no nombrado. Suscripción por equipo.",
+      "schema:articleBody": "Abdulrasheed Ijaodola, ex abogado de M&A en Greenberg Traurig (Nueva York; dice haber cerrado 45 deals por más de 15.000 millones de dólares), lanzó el 13 de octubre de 2026 useABI con el CTO Adam Usman, según LawNext (briefing y demo exclusivos). La plataforma se presenta como un \"AI associate\" (asociado de IA) para equipos de M&A: genera purchase agreement markups, issues lists, diligence reports y summaries, supplemental requests y checklists sin que el abogado tenga que promptar cada paso. El issues list, en la demo, salió en menos de dos minutos; Ijaodola cifra unos 30 minutos para markup, issues list, diligence report y summary de un deal nuevo. Hay workspace multipersona, capa de \"judgment\" configurable con las posiciones del despacho, Insights que indexa deals históricos en 71 categorías y diligence capaz de ingerir más de 100.000 documentos de un VDR. Usan modelos de OpenAI, Anthropic y Google como procesadores; la inteligencia de práctica, dicen, es propia. Zero data retention con los proveedores, datos en EE. UU. y aislamiento por tenant. Primer despliegue relevante la semana previa en un Am Law 100 no nombrado. Suscripción por equipo.\n\nPara un socio de corporate o un innovation lead de Big Law, useABI empuja el discurso del mercado un paso más allá del copiloto: deliverable de asociado, no chat. El riesgo comercial es familiar (pilot sin nombre, promesas de tiempo) y el diferenciador declarado (judgment layer + Insights históricos) solo se verifica en el data room del propio despacho. Preguntas útiles: quién revisa el issues list antes de enviarlo al cliente, cómo se versionan las posiciones del firm y qué ocurre si el modelo inventa un change-of-control. Matiz: cobertura basada en demo del fundador a LawNext; sin clientes públicos ni benchmarks externos.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Producto de M&A que promete deliverables de asociado (issues list, markup, diligence) sin prompting continuo.",
+      "sota:whyNow": "Lanzamiento / cobertura LawNext 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ma",
+        "agentes",
+        "diligence",
+        "despachos",
+        "asociado-ia"
+      ],
+      "sota:summaryP1": "Abdulrasheed Ijaodola, ex abogado de M&A en Greenberg Traurig (Nueva York; dice haber cerrado 45 deals por más de 15.000 millones de dólares), lanzó el 13 de octubre de 2026 useABI con el CTO Adam Usman, según LawNext (briefing y demo exclusivos). La plataforma se presenta como un \"AI associate\" (asociado de IA) para equipos de M&A: genera purchase agreement markups, issues lists, diligence reports y summaries, supplemental requests y checklists sin que el abogado tenga que promptar cada paso. El issues list, en la demo, salió en menos de dos minutos; Ijaodola cifra unos 30 minutos para markup, issues list, diligence report y summary de un deal nuevo. Hay workspace multipersona, capa de \"judgment\" configurable con las posiciones del despacho, Insights que indexa deals históricos en 71 categorías y diligence capaz de ingerir más de 100.000 documentos de un VDR. Usan modelos de OpenAI, Anthropic y Google como procesadores; la inteligencia de práctica, dicen, es propia. Zero data retention con los proveedores, datos en EE. UU. y aislamiento por tenant. Primer despliegue relevante la semana previa en un Am Law 100 no nombrado. Suscripción por equipo.",
+      "sota:summaryP2": "Para un socio de corporate o un innovation lead de Big Law, useABI empuja el discurso del mercado un paso más allá del copiloto: deliverable de asociado, no chat. El riesgo comercial es familiar (pilot sin nombre, promesas de tiempo) y el diferenciador declarado (judgment layer + Insights históricos) solo se verifica en el data room del propio despacho. Preguntas útiles: quién revisa el issues list antes de enviarlo al cliente, cómo se versionan las posiciones del firm y qué ocurre si el modelo inventa un change-of-control. Matiz: cobertura basada en demo del fundador a LawNext; sin clientes públicos ni benchmarks externos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+          "schema:name": "Former Big Law M&A Lawyer Launches useABI, an AI 'Associate' That Produces Deal Docs Without Prompting",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-useabi"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-abdulrasheed-ijaodola"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-adam-usman"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-greenberg-traurig"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-legora-laurel-captura-tiempo-automatica",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-legora-laurel-captura-tiempo-automatica",
+      "schema:headline": "Legora y Laurel se alían: cada tarea en Legora genera un time entry listo para revisar",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legora y Laurel anunciaron el 13 de octubre de 2026 una alianza para que el trabajo hecho en la plataforma de legal AI se convierta automáticamente en time entries, según LawNext. En la primera fase, los abogados de despachos clientes de ambas plataformas obtendrán asientos de tiempo con cliente, matter y narrativa descriptiva (por ejemplo, \"Analyze indemnification provisions in draft asset purchase agreement\") listos para revisar, de modo que se reduzca el tiempo no facturable de reconstruir lo hecho en Legora y se cierren huecos en el registro. En una segunda fase, las compañías planean compartir datos (con consulta a clientes) para medir el uso y el valor que el trabajo con IA aporta al despacho, y mostrar esas métricas en ambas plataformas. La captura automática desde Legora estará disponible primero; el detalle de calendario se comunicará a los clientes duales cuando arranque el rollout.",
+      "schema:articleBody": "Legora y Laurel anunciaron el 13 de octubre de 2026 una alianza para que el trabajo hecho en la plataforma de legal AI se convierta automáticamente en time entries, según LawNext. En la primera fase, los abogados de despachos clientes de ambas plataformas obtendrán asientos de tiempo con cliente, matter y narrativa descriptiva (por ejemplo, \"Analyze indemnification provisions in draft asset purchase agreement\") listos para revisar, de modo que se reduzca el tiempo no facturable de reconstruir lo hecho en Legora y se cierren huecos en el registro. En una segunda fase, las compañías planean compartir datos (con consulta a clientes) para medir el uso y el valor que el trabajo con IA aporta al despacho, y mostrar esas métricas en ambas plataformas. La captura automática desde Legora estará disponible primero; el detalle de calendario se comunicará a los clientes duales cuando arranque el rollout.\n\nPara un managing partner o un pricing partner, el cuello de botella clásico de la IA en hourly billing (\"si tardo menos, facturo menos / no registro el trabajo\") encuentra aquí una respuesta de producto: el time entry nace donde se hace el trabajo. La segunda fase es la más sensible: medir \"valor de Legora\" implica definir qué cuenta (horas evitadas, calidad, margen) y quién ve esos datos. Matiz: es un anuncio de partnership sin fecha de GA ni lista de firmas piloto; la métrica de valor aún no existe.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Cruce explícito entre legal AI y timekeeping para no perder el rastro billable del trabajo en la plataforma.",
+      "sota:whyNow": "LawNext 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "US",
+        "SE",
+        "Global"
+      ],
+      "sota:topics": [
+        "timekeeping",
+        "billing",
+        "despachos",
+        "roi",
+        "legora"
+      ],
+      "sota:summaryP1": "Legora y Laurel anunciaron el 13 de octubre de 2026 una alianza para que el trabajo hecho en la plataforma de legal AI se convierta automáticamente en time entries, según LawNext. En la primera fase, los abogados de despachos clientes de ambas plataformas obtendrán asientos de tiempo con cliente, matter y narrativa descriptiva (por ejemplo, \"Analyze indemnification provisions in draft asset purchase agreement\") listos para revisar, de modo que se reduzca el tiempo no facturable de reconstruir lo hecho en Legora y se cierren huecos en el registro. En una segunda fase, las compañías planean compartir datos (con consulta a clientes) para medir el uso y el valor que el trabajo con IA aporta al despacho, y mostrar esas métricas en ambas plataformas. La captura automática desde Legora estará disponible primero; el detalle de calendario se comunicará a los clientes duales cuando arranque el rollout.",
+      "sota:summaryP2": "Para un managing partner o un pricing partner, el cuello de botella clásico de la IA en hourly billing (\"si tardo menos, facturo menos / no registro el trabajo\") encuentra aquí una respuesta de producto: el time entry nace donde se hace el trabajo. La segunda fase es la más sensible: medir \"valor de Legora\" implica definir qué cuenta (horas evitadas, calidad, margen) y quién ve esos datos. Matiz: es un anuncio de partnership sin fecha de GA ni lista de firmas piloto; la métrica de valor aún no existe.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-develop-measures-of-legoras-value-to-firms.html",
+          "schema:name": "Legora and Laurel Partner to Enable Automatic Time Capture; Will Later Develop Measures of Legora's Value to Firms",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-laurel"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-legatics-harvey-mcp-estado-deal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-legatics-harvey-mcp-estado-deal",
+      "schema:headline": "Legatics entra en la Connector Library de Harvey: el estado vivo del deal vía MCP",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legatics, plataforma de transaction management, se incorporó el 13 de octubre de 2026 a la Connector Library de Harvey mediante su servidor Model Context Protocol (MCP), según Artificial Lawyer (con entrevista al CEO Anthony Seale). Legatics aporta lo que, según la compañía, una IA transaccional no obtiene sola: el estado vivo del deal (qué está pendiente, quién lo debe, qué se firmó, qué cambió esta mañana). Desde Harvey, el abogado puede consultar parties y hechos del deal, el estado de checklists y trackers, binders y el contenido de data rooms, sobre un matter o sobre muchos a la vez (\"qué asuntos necesitan escalado esta semana\"). Las respuestas salen de Legatics como source of truth, no de un export estático, y respetan los permisos del despacho. Rob MacAdam (Legatics) y Nate Schlein (Harvey) sitúan el origen en clientes comunes que pedían la conexión antes de que ambas empresas hablaran.",
+      "schema:articleBody": "Legatics, plataforma de transaction management, se incorporó el 13 de octubre de 2026 a la Connector Library de Harvey mediante su servidor Model Context Protocol (MCP), según Artificial Lawyer (con entrevista al CEO Anthony Seale). Legatics aporta lo que, según la compañía, una IA transaccional no obtiene sola: el estado vivo del deal (qué está pendiente, quién lo debe, qué se firmó, qué cambió esta mañana). Desde Harvey, el abogado puede consultar parties y hechos del deal, el estado de checklists y trackers, binders y el contenido de data rooms, sobre un matter o sobre muchos a la vez (\"qué asuntos necesitan escalado esta semana\"). Las respuestas salen de Legatics como source of truth, no de un export estático, y respetan los permisos del despacho. Rob MacAdam (Legatics) y Nate Schlein (Harvey) sitúan el origen en clientes comunes que pedían la conexión antes de que ambas empresas hablaran.\n\nPara un equipo de corporate que ya use Harvey y Legatics, el conector reduce el copy-paste entre el sitio donde se gestiona el deal y el sitio donde se analiza. Para un architect de legal tech, es otra ficha del patrón MCP: el valor está en el contexto operativo vivo, no solo en el documento. Antes de activarlo, conviene probar permisos cross-matter y qué queda auditado cuando Harvey pregunta por varios deals. Matiz: cobertura basada en anuncio y entrevista AL; sin métricas de adopción ni detalle de scopes MCP publicados.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Conector MCP que inyecta el estado vivo de transaction management en un asistente de legal AI.",
+      "sota:whyNow": "Artificial Lawyer 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "GB",
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "mcp",
+        "harvey",
+        "transactional",
+        "conectores",
+        "deal-management"
+      ],
+      "sota:summaryP1": "Legatics, plataforma de transaction management, se incorporó el 13 de octubre de 2026 a la Connector Library de Harvey mediante su servidor Model Context Protocol (MCP), según Artificial Lawyer (con entrevista al CEO Anthony Seale). Legatics aporta lo que, según la compañía, una IA transaccional no obtiene sola: el estado vivo del deal (qué está pendiente, quién lo debe, qué se firmó, qué cambió esta mañana). Desde Harvey, el abogado puede consultar parties y hechos del deal, el estado de checklists y trackers, binders y el contenido de data rooms, sobre un matter o sobre muchos a la vez (\"qué asuntos necesitan escalado esta semana\"). Las respuestas salen de Legatics como source of truth, no de un export estático, y respetan los permisos del despacho. Rob MacAdam (Legatics) y Nate Schlein (Harvey) sitúan el origen en clientes comunes que pedían la conexión antes de que ambas empresas hablaran.",
+      "sota:summaryP2": "Para un equipo de corporate que ya use Harvey y Legatics, el conector reduce el copy-paste entre el sitio donde se gestiona el deal y el sitio donde se analiza. Para un architect de legal tech, es otra ficha del patrón MCP: el valor está en el contexto operativo vivo, no solo en el documento. Antes de activarlo, conviene probar permisos cross-matter y qué queda auditado cuando Harvey pregunta por varios deals. Matiz: cobertura basada en anuncio y entrevista AL; sin métricas de adopción ni detalle de scopes MCP publicados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/13/legatics-connects-to-harvey-anthony-seale-interview/",
+          "schema:name": "Legatics Connects to Harvey + Anthony Seale Interview",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legatics"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthony-seale"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-lexisnexis-brecha-gobernanza-ia-legal-futures",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-lexisnexis-brecha-gobernanza-ia-legal-futures",
+      "schema:headline": "LexisNexis: dos tercios usan IA a diario o varias veces por semana, pero casi uno de cada cinco no sabe quién gobierna esa IA",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal Futures (14 de octubre de 2026) resume el informe de LexisNexis Why AI governance needs a feedback loop: de 543 abogados encuestados en julio de 2026, un tercio (34%) usa IA cada día y otro 32% varias veces por semana, pero el 18% no sabe quién gestiona la gobernanza de IA en su organización. El 38% apunta a IT/technology, el 34% a risk and compliance y el 31% a executive leadership; el 39% identifica a varios equipos y el 40% a un solo dueño. Sobre cultura, el 29% dice que la IA está \"embedded\" en estrategia y operaciones, el 43% que experimentan con progreso lento y el 14% que hay interés con poca inversión. La preocupación por información inexacta o fabricada sube del 57% (2024) al 83% (2026). Usos más citados: research, summarisation, drafting y document review. El 46% cree que no abrazar del todo la IA dañaría su carrera (58% en Big Law, 59% in-house). Stuart Greenhill (LexisNexis UK) pide gobernanza que aprenda del uso real, con humano en el bucle y contenido jurídico autoritativo.",
+      "schema:articleBody": "Legal Futures (14 de octubre de 2026) resume el informe de LexisNexis Why AI governance needs a feedback loop: de 543 abogados encuestados en julio de 2026, un tercio (34%) usa IA cada día y otro 32% varias veces por semana, pero el 18% no sabe quién gestiona la gobernanza de IA en su organización. El 38% apunta a IT/technology, el 34% a risk and compliance y el 31% a executive leadership; el 39% identifica a varios equipos y el 40% a un solo dueño. Sobre cultura, el 29% dice que la IA está \"embedded\" en estrategia y operaciones, el 43% que experimentan con progreso lento y el 14% que hay interés con poca inversión. La preocupación por información inexacta o fabricada sube del 57% (2024) al 83% (2026). Usos más citados: research, summarisation, drafting y document review. El 46% cree que no abrazar del todo la IA dañaría su carrera (58% en Big Law, 59% in-house). Stuart Greenhill (LexisNexis UK) pide gobernanza que aprenda del uso real, con humano en el bucle y contenido jurídico autoritativo.\n\nPara un risk partner o un GC, el hallazgo operativo no es \"hay que gobernar\" (ya lo saben) sino la desalineación: uso intensivo con ownership borroso. El informe empuja a meter la gobernanza en el proceso desde el día uno, no como política anual. Útil como espejo interno: ¿quién firma el OK de un nuevo agente y en cuántos días? Matiz: es un informe de LexisNexis (vendor de research/IA) filtrado por Legal Futures; la muestra y la metodología completa no están en la pieza noticiosa.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos frescos UK sobre adopción diaria frente a vacío de ownership de gobernanza de IA.",
+      "sota:whyNow": "Legal Futures 14 Oct 2026 sobre encuesta LexisNexis julio 2026. NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "gobernanza",
+        "adopcion",
+        "riesgo",
+        "alucinaciones",
+        "encuestas"
+      ],
+      "sota:summaryP1": "Legal Futures (14 de octubre de 2026) resume el informe de LexisNexis Why AI governance needs a feedback loop: de 543 abogados encuestados en julio de 2026, un tercio (34%) usa IA cada día y otro 32% varias veces por semana, pero el 18% no sabe quién gestiona la gobernanza de IA en su organización. El 38% apunta a IT/technology, el 34% a risk and compliance y el 31% a executive leadership; el 39% identifica a varios equipos y el 40% a un solo dueño. Sobre cultura, el 29% dice que la IA está \"embedded\" en estrategia y operaciones, el 43% que experimentan con progreso lento y el 14% que hay interés con poca inversión. La preocupación por información inexacta o fabricada sube del 57% (2024) al 83% (2026). Usos más citados: research, summarisation, drafting y document review. El 46% cree que no abrazar del todo la IA dañaría su carrera (58% en Big Law, 59% in-house). Stuart Greenhill (LexisNexis UK) pide gobernanza que aprenda del uso real, con humano en el bucle y contenido jurídico autoritativo.",
+      "sota:summaryP2": "Para un risk partner o un GC, el hallazgo operativo no es \"hay que gobernar\" (ya lo saben) sino la desalineación: uso intensivo con ownership borroso. El informe empuja a meter la gobernanza en el proceso desde el día uno, no como política anual. Útil como espejo interno: ¿quién firma el OK de un nuevo agente y en cuántos días? Matiz: es un informe de LexisNexis (vendor de research/IA) filtrado por Legal Futures; la muestra y la metodología completa no están en la pieza noticiosa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/law-firms-and-in-house-teams-face-ai-governance-gap",
+          "schema:name": "Law firms and in-house teams face 'AI governance gap'",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stuart-greenhill"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-tromans-ley-incentivo-adversarial-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-tromans-ley-incentivo-adversarial-ia",
+      "schema:headline": "Tromans formula la «Law of Adversarial Incentives»: más conflicto, más trabajo extra pese a la IA",
+      "schema:datePublished": "2026-10-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Richard Tromans, fundador de Artificial Lawyer, publicó el 12 de octubre de 2026 un ensayo que propone la \"Legal AI Law of Adversarial Incentives\" (ley del incentivo adversarial de la legal AI): cuanto mayor es el incentivo adversarial en una interacción jurídica, más las ganancias de eficiencia de la IA generan trabajo adicional; cuanto menor es ese incentivo, mayor es la reducción del trabajo total. El marco, dice, vale igual para litigio y para transactional. Ejemplos: en una disputa entre dos grandes con recursos, research y discovery con IA abren nuevas líneas de ataque y la otra parte responde, de modo que la IA alarga o ensancha el conflicto; en el polo opuesto, una startup que solo quiere revisar contratos comerciales básicos con un despacho AI-native captura casi toda la eficiencia porque casi nadie tiene interés en pelear. Distingue el efecto de paradojas como Jevons o Amdahl: ayudan, pero no explican por qué tantas firmas adoptan herramientas sin transformar su modelo.",
+      "schema:articleBody": "Richard Tromans, fundador de Artificial Lawyer, publicó el 12 de octubre de 2026 un ensayo que propone la \"Legal AI Law of Adversarial Incentives\" (ley del incentivo adversarial de la legal AI): cuanto mayor es el incentivo adversarial en una interacción jurídica, más las ganancias de eficiencia de la IA generan trabajo adicional; cuanto menor es ese incentivo, mayor es la reducción del trabajo total. El marco, dice, vale igual para litigio y para transactional. Ejemplos: en una disputa entre dos grandes con recursos, research y discovery con IA abren nuevas líneas de ataque y la otra parte responde, de modo que la IA alarga o ensancha el conflicto; en el polo opuesto, una startup que solo quiere revisar contratos comerciales básicos con un despacho AI-native captura casi toda la eficiencia porque casi nadie tiene interés en pelear. Distingue el efecto de paradojas como Jevons o Amdahl: ayudan, pero no explican por qué tantas firmas adoptan herramientas sin transformar su modelo.\n\nPara un managing partner o un GC que mida ROI de legal AI, el axioma es una herramienta de conversación: no esperes el mismo ahorro en bet-the-company litigation que en NDAs rutinarios. Para un vendor, sugiere segmentar mensaje y pricing según el grado de adversarialidad del use case. Matiz: es un ensayo de opinión del fundador de Artificial Lawyer, no un estudio empírico ni una norma; los ejemplos son ilustrativos.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Marco analítico simple y citable sobre por qué la adopción de legal AI no se traduce en el mismo ahorro en todo el mercado.",
+      "sota:whyNow": "Artificial Lawyer 12 Oct 2026. NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "GB",
+        "Global"
+      ],
+      "sota:topics": [
+        "economia",
+        "adopcion",
+        "litigio",
+        "roi",
+        "analisis"
+      ],
+      "sota:summaryP1": "Richard Tromans, fundador de Artificial Lawyer, publicó el 12 de octubre de 2026 un ensayo que propone la \"Legal AI Law of Adversarial Incentives\" (ley del incentivo adversarial de la legal AI): cuanto mayor es el incentivo adversarial en una interacción jurídica, más las ganancias de eficiencia de la IA generan trabajo adicional; cuanto menor es ese incentivo, mayor es la reducción del trabajo total. El marco, dice, vale igual para litigio y para transactional. Ejemplos: en una disputa entre dos grandes con recursos, research y discovery con IA abren nuevas líneas de ataque y la otra parte responde, de modo que la IA alarga o ensancha el conflicto; en el polo opuesto, una startup que solo quiere revisar contratos comerciales básicos con un despacho AI-native captura casi toda la eficiencia porque casi nadie tiene interés en pelear. Distingue el efecto de paradojas como Jevons o Amdahl: ayudan, pero no explican por qué tantas firmas adoptan herramientas sin transformar su modelo.",
+      "sota:summaryP2": "Para un managing partner o un GC que mida ROI de legal AI, el axioma es una herramienta de conversación: no esperes el mismo ahorro en bet-the-company litigation que en NDAs rutinarios. Para un vendor, sugiere segmentar mensaje y pricing según el grado de adversarialidad del use case. Matiz: es un ensayo de opinión del fundador de Artificial Lawyer, no un estudio empírico ni una norma; los ejemplos son ilustrativos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive/",
+          "schema:name": "Legal AI vs The Adversarial Incentive",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-richard-tromans"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-permeta-ferc-ai-elibrary-mcp",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-14-permeta-ferc-ai-elibrary-mcp",
+      "schema:headline": "Permeta lanza FERC.ai: la eLibrary de FERC consultable en Claude, Copilot y ChatGPT con citas",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Permeta anunció el 13 de octubre de 2026 la beta de FERC.ai, un servicio que hace consultable el registro público de la Federal Energy Regulatory Commission (FERC) desde Claude, ChatGPT y Copilot, según el comunicado en ACCESS Newswire. Más de 500.000 filings están indexados (aplicaciones, orders, comments, protests, exhibits y staff reports en electric, natural gas, hydropower y oil), con altas nuevas cada hora. El usuario pregunta en lenguaje natural y recibe respuestas con citas y enlaces a la eLibrary; la conexión usa Model Context Protocol (MCP). El CEO Eric Redmond sitúa el caso de uso en preparar aplicaciones o evaluar proyectos mirando precedentes. Beta: 14 días gratis y luego 200 dólares al mes (precio de trial bloqueable un año). Permeta se presenta como plataforma de IA para permitting y operaciones regulatorias de energía a escala utility, con oficinas en Portland y Houston.",
+      "schema:articleBody": "Permeta anunció el 13 de octubre de 2026 la beta de FERC.ai, un servicio que hace consultable el registro público de la Federal Energy Regulatory Commission (FERC) desde Claude, ChatGPT y Copilot, según el comunicado en ACCESS Newswire. Más de 500.000 filings están indexados (aplicaciones, orders, comments, protests, exhibits y staff reports en electric, natural gas, hydropower y oil), con altas nuevas cada hora. El usuario pregunta en lenguaje natural y recibe respuestas con citas y enlaces a la eLibrary; la conexión usa Model Context Protocol (MCP). El CEO Eric Redmond sitúa el caso de uso en preparar aplicaciones o evaluar proyectos mirando precedentes. Beta: 14 días gratis y luego 200 dólares al mes (precio de trial bloqueable un año). Permeta se presenta como plataforma de IA para permitting y operaciones regulatorias de energía a escala utility, con oficinas en Portland y Houston.\n\nPara un abogado de energy regulatory o un in-house de utility, el atractivo es obvio: dejar de peinar eLibrary a mano y contrastar cómo se resolvió un issue en dockets previos, con el documento fuente un clic atrás. No sustituye el criterio sobre strategy ni cubre material no público. Preguntas de compra: frescura del índice frente al site de FERC, límites de MCP por asistente y qué queda fuera (privileged drafts, data rooms privados). Matiz: es un press wire del proveedor; no hay evaluación independiente de recall/precisión de las citas.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Corpus regulatorio federal energético expuesto por MCP dentro de los asistentes generalistas con citas a eLibrary.",
+      "sota:whyNow": "ACCESS Newswire 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "energia",
+        "ferc",
+        "mcp",
+        "research",
+        "permitting"
+      ],
+      "sota:summaryP1": "Permeta anunció el 13 de octubre de 2026 la beta de FERC.ai, un servicio que hace consultable el registro público de la Federal Energy Regulatory Commission (FERC) desde Claude, ChatGPT y Copilot, según el comunicado en ACCESS Newswire. Más de 500.000 filings están indexados (aplicaciones, orders, comments, protests, exhibits y staff reports en electric, natural gas, hydropower y oil), con altas nuevas cada hora. El usuario pregunta en lenguaje natural y recibe respuestas con citas y enlaces a la eLibrary; la conexión usa Model Context Protocol (MCP). El CEO Eric Redmond sitúa el caso de uso en preparar aplicaciones o evaluar proyectos mirando precedentes. Beta: 14 días gratis y luego 200 dólares al mes (precio de trial bloqueable un año). Permeta se presenta como plataforma de IA para permitting y operaciones regulatorias de energía a escala utility, con oficinas en Portland y Houston.",
+      "sota:summaryP2": "Para un abogado de energy regulatory o un in-house de utility, el atractivo es obvio: dejar de peinar eLibrary a mano y contrastar cómo se resolvió un issue en dockets previos, con el documento fuente un clic atrás. No sustituye el criterio sobre strategy ni cubre material no público. Preguntas de compra: frescura del índice frente al site de FERC, límites de MCP por asistente y qué queda fuera (privileged drafts, data rooms privados). Matiz: es un press wire del proveedor; no hay evaluación independiente de recall/precisión de las citas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/permeta-launches-ferc.ai-bringing-the-ferc-e-library-to-claude-copilot-and-chatg-1236129",
+          "schema:name": "Permeta Launches FERC.ai, Bringing the FERC e-Library to Claude, Copilot and ChatGPT",
+          "sota:sourceId": "src-access-newswire"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-permeta"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ferc-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ferc"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eric-redmond"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-access-newswire"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-abdulrasheed-ijaodola",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-abdulrasheed-ijaodola",
+      "schema:name": "Abdulrasheed Ijaodola",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-access-newswire",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-access-newswire",
+      "schema:name": "ACCESS Newswire",
+      "sota:entityType": "media",
+      "schema:url": "https://www.accessnewswire.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-adam-usman",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-adam-usman",
+      "schema:name": "Adam Usman",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthony-seale",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthony-seale",
+      "schema:name": "Anthony Seale",
+      "sota:entityType": "person",
+      "schema:url": "https://www.legatics.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-benjamin-carter",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-benjamin-carter",
+      "schema:name": "Benjamin Carter",
+      "sota:entityType": "person",
+      "schema:url": "https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bryan-tsao",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bryan-tsao",
+      "schema:name": "Bryan Tsao",
+      "sota:entityType": "person",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clarke-willmott",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clarke-willmott",
+      "schema:name": "Clarke Willmott",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eric-redmond",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-eric-redmond",
+      "schema:name": "Eric Redmond",
+      "sota:entityType": "person",
+      "schema:url": "https://www.permeta.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ferc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ferc",
+      "schema:name": "Federal Energy Regulatory Commission",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.ferc.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ferc-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ferc-ai",
+      "schema:name": "FERC.ai",
+      "sota:entityType": "product",
+      "schema:url": "https://www.ferc.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gateley",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-gateley",
+      "schema:name": "Gateley",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://gateleyplc.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-greenberg-traurig",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-greenberg-traurig",
+      "schema:name": "Greenberg Traurig",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.gtlaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-imanage",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-imanage",
+      "schema:name": "iManage",
+      "sota:entityType": "vendor",
+      "schema:url": "https://imanage.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jylo",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-jylo",
+      "schema:name": "Jylo AI",
+      "sota:entityType": "product",
+      "schema:url": "https://legaltechnology.com/gateley-appoints-nigel-tranter-as-chief-technology-officer/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-kimball-dean-parker",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-kimball-dean-parker",
+      "schema:name": "Kimball Dean Parker",
+      "sota:entityType": "person",
+      "schema:url": "https://www.sixfifty.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-laurel",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-laurel",
+      "schema:name": "Laurel",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.laurel.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawfront",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawfront",
+      "schema:name": "Lawfront",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-futures",
+      "schema:name": "Legal Futures",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalfutures.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-it-insider",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-it-insider",
+      "schema:name": "Legal IT Insider",
+      "sota:entityType": "media",
+      "schema:url": "https://legaltechnology.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legatics",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legatics",
+      "schema:name": "Legatics",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.legatics.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora-intake",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora-intake",
+      "schema:name": "Legora Intake",
+      "sota:entityType": "product",
+      "schema:url": "https://legora.com/newsroom/legora-launches-intake-an-agentic-front-door-for-in-house-legal-teams",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lexisnexis",
+      "schema:name": "LexisNexis",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lexisnexis.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-litigation-genius",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-litigation-genius",
+      "schema:name": "Litigation Genius",
+      "sota:entityType": "product",
+      "schema:url": "https://www.steno.com/genius",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-openai",
+      "schema:name": "OpenAI",
+      "sota:entityType": "company",
+      "schema:url": "https://openai.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-paychex",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-paychex",
+      "schema:name": "Paychex",
+      "sota:entityType": "company",
+      "schema:url": "https://www.paychex.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-permeta",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-permeta",
+      "schema:name": "Permeta",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.permeta.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-prabhdeep-singh",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-prabhdeep-singh",
+      "schema:name": "Prabhdeep Singh",
+      "sota:entityType": "person",
+      "schema:url": "https://www.steno.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-richard-tromans",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-richard-tromans",
+      "schema:name": "Richard Tromans",
+      "sota:entityType": "person",
+      "schema:url": "https://www.artificiallawyer.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-shawn-curran",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-shawn-curran",
+      "schema:name": "Shawn Curran",
+      "sota:entityType": "person",
+      "schema:url": "https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sixfifty",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sixfifty",
+      "schema:name": "SixFifty",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.sixfifty.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-steno",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-steno",
+      "schema:name": "Steno",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.steno.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stuart-greenhill",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-stuart-greenhill",
+      "schema:name": "Stuart Greenhill",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lexisnexis.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-transcript-genius",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-transcript-genius",
+      "schema:name": "Transcript Genius",
+      "sota:entityType": "product",
+      "schema:url": "https://www.steno.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-useabi",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-useabi",
+      "schema:name": "useABI",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wilson-sonsini",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-wilson-sonsini",
+      "schema:name": "Wilson Sonsini Goodrich & Rosati",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.wsgr.com/",
+      "sota:stub": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-14-lexisnexis-brecha-gobernanza-ia-legal-futures",
+  "date": "2026-10-14",
+  "type": "other",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "LexisNexis: dos tercios usan IA a diario o varias veces por semana, pero casi uno de cada cinco no sabe quién gobierna esa IA",
+  "short_title": "Brecha de gobernanza de IA: uso alto, dueño difuso",
+  "standfirst": "Encuesta a 543 abogados (julio 2026). Las alucinaciones preocupan al 83%, frente al 57% en 2024.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Gobernanza",
+  "country": "Reino Unido",
+  "piece_type": "Análisis",
+  "summary_p1": "Legal Futures (14 de octubre de 2026) resume el informe de LexisNexis Why AI governance needs a feedback loop: de 543 abogados encuestados en julio de 2026, un tercio (34%) usa IA cada día y otro 32% varias veces por semana, pero el 18% no sabe quién gestiona la gobernanza de IA en su organización. El 38% apunta a IT/technology, el 34% a risk and compliance y el 31% a executive leadership; el 39% identifica a varios equipos y el 40% a un solo dueño. Sobre cultura, el 29% dice que la IA está \"embedded\" en estrategia y operaciones, el 43% que experimentan con progreso lento y el 14% que hay interés con poca inversión. La preocupación por información inexacta o fabricada sube del 57% (2024) al 83% (2026). Usos más citados: research, summarisation, drafting y document review. El 46% cree que no abrazar del todo la IA dañaría su carrera (58% en Big Law, 59% in-house). Stuart Greenhill (LexisNexis UK) pide gobernanza que aprenda del uso real, con humano en el bucle y contenido jurídico autoritativo.",
+  "summary_p2": "Para un risk partner o un GC, el hallazgo operativo no es \"hay que gobernar\" (ya lo saben) sino la desalineación: uso intensivo con ownership borroso. El informe empuja a meter la gobernanza en el proceso desde el día uno, no como política anual. Útil como espejo interno: ¿quién firma el OK de un nuevo agente y en cuántos días? Matiz: es un informe de LexisNexis (vendor de research/IA) filtrado por Legal Futures; la muestra y la metodología completa no están en la pieza noticiosa.",
+  "why_sota": "Datos frescos UK sobre adopción diaria frente a vacío de ownership de gobernanza de IA.",
+  "why_now": "Legal Futures 14 Oct 2026 sobre encuesta LexisNexis julio 2026. NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "gobernanza",
+    "adopcion",
+    "riesgo",
+    "alucinaciones",
+    "encuestas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firms-and-in-house-teams-face-ai-governance-gap",
+      "cited_title": "Law firms and in-house teams face 'AI governance gap'",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-lexisnexis",
+    "ent-legal-futures",
+    "ent-stuart-greenhill"
+  ],
+  "lang": "es",
+  "status": "published"
+}

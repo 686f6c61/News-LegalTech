@@ -1,0 +1,11 @@
+id: ent-useabi
+name: useABI
+type: vendor
+url: https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html
+geo:
+- US
+aliases:
+- useABI
+notes: Plataforma de IA para M&A que genera markups, issues lists y diligence sin
+  prompting. Ficha mínima.
+stub: true

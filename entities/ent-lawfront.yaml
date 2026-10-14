@@ -1,0 +1,9 @@
+id: ent-lawfront
+name: Lawfront
+type: law_firm
+url: https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/
+geo:
+- GB
+aliases: []
+notes: Despacho británico partner de Jylo. Ficha mínima.
+stub: true

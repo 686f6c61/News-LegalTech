@@ -1,0 +1,10 @@
+id: ent-permeta
+name: Permeta
+type: vendor
+url: https://www.permeta.ai/
+geo:
+- US
+aliases: []
+notes: Startup de IA para permitting y regulación energética; lanza FERC.ai. Ficha
+  mínima.
+stub: true

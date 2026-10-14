@@ -1,0 +1,55 @@
+{
+  "id": "evt-2026-10-14-legora-intake-front-door-inhouse-slack",
+  "date": "2026-10-13",
+  "type": "product",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Legora lanza Intake: una puerta de entrada agéntica para in-house que prepara el trabajo desde Slack",
+  "short_title": "Legora Intake: puerta agéntica para in-house en Slack",
+  "standfirst": "El agente triajea, asigna y puede redactar un primer borrador con Skills y playbooks del equipo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "In-house",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Legora anunció el 13 de octubre de 2026 Intake, una \"agentic front door\" (puerta de entrada agéntica) para equipos jurídicos in-house, disponible ya en Slack, según Artificial Lawyer, Legal IT Insider y Legaltech News (Law.com). Un empleado escribe en el canal de legal requests; el Legora Agent lee la petición, pide lo que falte en el hilo, la convierte en tarea rastreada con responsable y fecha, y puede preparar el trabajo con los Skills y playbooks del equipo para que el abogado revise un primer borrador. En peticiones rutinarias aprobadas de antemano (por ejemplo un NDA estándar) el agente puede cerrar el ciclo y devolver la respuesta al solicitante; el alcance lo decide el equipo jurídico por tipo de request. Cada petición queda registrada con tipo, assignee y turnaround, de modo que liderazgo ve qué pide el negocio. Bryan Tsao (CPO) enmarca Intake como ROI de equipo, no solo de abogado individual. Legora dice que su segmento de más rápido crecimiento en el Reino Unido es ya in-house, y planea extender Intake a Microsoft Teams, email y MCP.",
+  "summary_p2": "Para un GC o un head of legal ops, Intake ataca el trabajo alrededor del trabajo: triaje, routing y primer borrador sin abrir otra herramienta. Compite en el mismo espacio que Coheso y otros \"legal front door\", pero desde una plataforma ancha (Skills ya cubiertos el 7 oct) hacia el in-house, no al revés. Antes de desplegarlo, las preguntas útiles son qué tipos de request pueden cerrarse solos, dónde queda el human-in-the-loop (humano en el bucle) y cómo se audita lo que el agente envió al negocio. Matiz: Law.com está parcialmente tras paywall; no hay cifras de clientes in-house ni tiempos medios de resolución publicados en la cobertura abierta.",
+  "why_sota": "Intake agéntico in-house que no solo enruta: prepara trabajo con Skills propios del equipo dentro de Slack.",
+  "why_now": "Anuncio 13 Oct 2026 (AL, Legal IT Insider, Law.com). NEW vs Skills (07-10) y BMW (09-10).",
+  "geo": [
+    "SE",
+    "GB",
+    "Global"
+  ],
+  "topics": [
+    "inhouse",
+    "intake",
+    "agentes",
+    "slack",
+    "skills"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/13/legora-increases-inhouse-focus-with-intake/",
+      "cited_title": "Legora Increases Inhouse Focus with Intake",
+      "accessed": "2026-10-14"
+    },
+    {
+      "source_id": "src-legal-it-insider",
+      "url": "https://legaltechnology.com/legora-launches-intake-an-agentic-front-door-for-in-house-legal-teams/",
+      "cited_title": "Legora launches Intake: an agentic front door for in-house legal teams",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-legora",
+    "ent-legora-intake",
+    "ent-bryan-tsao",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

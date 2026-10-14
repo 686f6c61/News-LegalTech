@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-10-14-permeta-ferc-ai-elibrary-mcp",
+  "date": "2026-10-13",
+  "type": "product",
+  "sota_score": 6.4,
+  "ai_legaltech": true,
+  "title": "Permeta lanza FERC.ai: la eLibrary de FERC consultable en Claude, Copilot y ChatGPT con citas",
+  "short_title": "FERC.ai: 500.000 filings de FERC dentro del asistente",
+  "standfirst": "Beta a 200 $/mes tras 14 días de prueba. Conecta por MCP; corpus público, no privilegio.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación energética",
+  "country": "EE. UU.",
+  "piece_type": "Producto",
+  "summary_p1": "Permeta anunció el 13 de octubre de 2026 la beta de FERC.ai, un servicio que hace consultable el registro público de la Federal Energy Regulatory Commission (FERC) desde Claude, ChatGPT y Copilot, según el comunicado en ACCESS Newswire. Más de 500.000 filings están indexados (aplicaciones, orders, comments, protests, exhibits y staff reports en electric, natural gas, hydropower y oil), con altas nuevas cada hora. El usuario pregunta en lenguaje natural y recibe respuestas con citas y enlaces a la eLibrary; la conexión usa Model Context Protocol (MCP). El CEO Eric Redmond sitúa el caso de uso en preparar aplicaciones o evaluar proyectos mirando precedentes. Beta: 14 días gratis y luego 200 dólares al mes (precio de trial bloqueable un año). Permeta se presenta como plataforma de IA para permitting y operaciones regulatorias de energía a escala utility, con oficinas en Portland y Houston.",
+  "summary_p2": "Para un abogado de energy regulatory o un in-house de utility, el atractivo es obvio: dejar de peinar eLibrary a mano y contrastar cómo se resolvió un issue en dockets previos, con el documento fuente un clic atrás. No sustituye el criterio sobre strategy ni cubre material no público. Preguntas de compra: frescura del índice frente al site de FERC, límites de MCP por asistente y qué queda fuera (privileged drafts, data rooms privados). Matiz: es un press wire del proveedor; no hay evaluación independiente de recall/precisión de las citas.",
+  "why_sota": "Corpus regulatorio federal energético expuesto por MCP dentro de los asistentes generalistas con citas a eLibrary.",
+  "why_now": "ACCESS Newswire 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "energia",
+    "ferc",
+    "mcp",
+    "research",
+    "permitting"
+  ],
+  "sources": [
+    {
+      "source_id": "src-access-newswire",
+      "url": "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/permeta-launches-ferc.ai-bringing-the-ferc-e-library-to-claude-copilot-and-chatg-1236129",
+      "cited_title": "Permeta Launches FERC.ai, Bringing the FERC e-Library to Claude, Copilot and ChatGPT",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-permeta",
+    "ent-ferc-ai",
+    "ent-ferc",
+    "ent-eric-redmond",
+    "ent-access-newswire"
+  ],
+  "lang": "es",
+  "status": "published"
+}

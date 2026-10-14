@@ -1,0 +1,10 @@
+id: ent-sixfifty
+name: SixFifty
+type: vendor
+url: https://www.sixfifty.com/
+geo:
+- US
+aliases: []
+notes: Plataforma de employment law compliance; ex subsidiaria de Wilson Sonsini,
+  adquirida por Paychex. Ficha mínima.
+stub: true

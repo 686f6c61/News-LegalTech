@@ -1,0 +1,9 @@
+id: ent-laurel
+name: Laurel
+type: vendor
+url: https://www.laurel.ai/
+geo:
+- US
+aliases: []
+notes: Plataforma de timekeeping con IA para despachos. Ficha mínima.
+stub: true

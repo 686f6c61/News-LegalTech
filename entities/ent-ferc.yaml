@@ -1,0 +1,11 @@
+id: ent-ferc
+name: Federal Energy Regulatory Commission
+type: regulator
+url: https://www.ferc.gov/
+geo:
+- US
+aliases:
+- FERC
+notes: Regulador federal de energía de EE. UU.; su eLibrary pública es el corpus de
+  FERC.ai. Ficha mínima.
+stub: true

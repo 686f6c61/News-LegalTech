@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-14-sixfifty-agente-hr-compliance-paychex",
+  "date": "2026-10-13",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "SixFifty (Paychex) lanza un agente de compliance laboral: handbooks, posters y filings por jurisdicción",
+  "short_title": "SixFifty lanza un agente de compliance laboral tras Paychex",
+  "standfirst": "Primera gran release tras la compra. 440 cambios legales rastreados en casi 130 jurisdicciones en un año.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Employment",
+  "country": "EE. UU.",
+  "piece_type": "Producto",
+  "summary_p1": "SixFifty, la plataforma de employment law que Paychex compró tras su etapa como subsidiaria tecnológica de Wilson Sonsini, presentó el 13 de octubre de 2026 su primera gran novedad post-adquisición: un agente agéntico de HR compliance con interfaz de chat, según LawNext y Legaltech News (Law.com). El agente responde dudas de employment law, redacta y actualiza handbooks, políticas y contratos, envía documentos a firma y acknowledgement, distribuye labor posters y new hire notices según la ubicación del empleado, provisiona formaciones de acoso sexual, recoge quejas y puede presentar filings estatales al contratar en una nueva localización. SixFifty afirma haber rastreado más de 440 cambios de employment law en casi 130 jurisdicciones federales, estatales y locales en el último año, y haber catalogado \"every employment law in the United States\" en tres años; cada respuesta enlaza a un artículo de referencia con citas al estatuto o reglamento. Está disponible ya para clientes standalone y trials; las capacidades llegarán a Paychex Flex y Paycor (vía WISE) más adelante en el ejercicio fiscal.",
+  "summary_p2": "Para un in-house de mid-market o un despacho laboral que asesore a empresas sin legal department grande, el mensaje es compliance laboral empaquetado como agente ejecutable, no solo biblioteca. La integración con Paychex convierte el payroll en canal de distribución: el riesgo y la oportunidad están en quién firma la política y qué pasa cuando el agente se equivoca de jurisdicción. Matiz: cifras de cambios legales y el alcance \"every employment law\" son del proveedor; Law.com está parcialmente tras paywall; no hay benchmark independiente de exactitud normativa.",
+  "why_sota": "Agente de employment compliance multi-jurisdicción distribuido desde un payroll gigante tras M&A.",
+  "why_now": "LawNext/Law.com 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "employment",
+    "compliance",
+    "agentes",
+    "hr",
+    "paychex"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html",
+      "cited_title": "In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-sixfifty",
+    "ent-paychex",
+    "ent-wilson-sonsini",
+    "ent-kimball-dean-parker"
+  ],
+  "lang": "es",
+  "status": "published"
+}

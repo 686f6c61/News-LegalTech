@@ -1,0 +1,10 @@
+id: ent-paychex
+name: Paychex
+type: company
+url: https://www.paychex.com/
+geo:
+- US
+aliases:
+- PayChex
+notes: Proveedor de nómina y HR; adquirió SixFifty. Ficha mínima.
+stub: true

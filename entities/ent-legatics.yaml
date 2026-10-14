@@ -1,0 +1,9 @@
+id: ent-legatics
+name: Legatics
+type: vendor
+url: https://www.legatics.com/
+geo:
+- GB
+aliases: []
+notes: Plataforma de transaction management; conecta MCP a Harvey. Ficha mínima.
+stub: true

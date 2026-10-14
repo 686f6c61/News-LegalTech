@@ -1,0 +1,12 @@
+id: ent-legora-intake
+name: Legora Intake
+type: product
+url: https://legora.com/newsroom/legora-launches-intake-an-agentic-front-door-for-in-house-legal-teams
+geo:
+- SE
+- Global
+aliases:
+- Intake
+notes: Puerta de entrada agéntica de Legora para in-house; disponible en Slack. Ficha
+  mínima.
+stub: true

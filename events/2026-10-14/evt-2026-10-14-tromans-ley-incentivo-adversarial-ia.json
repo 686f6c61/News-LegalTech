@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-14-tromans-ley-incentivo-adversarial-ia",
+  "date": "2026-10-12",
+  "type": "other",
+  "sota_score": 6.5,
+  "ai_legaltech": true,
+  "title": "Tromans formula la «Law of Adversarial Incentives»: más conflicto, más trabajo extra pese a la IA",
+  "short_title": "Ley del incentivo adversarial: la IA no achica el litigio duro",
+  "standfirst": "En disputas de alto conflicto la eficiencia alimenta más frentes. En trabajo poco adversarial sí reduce volumen.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "Richard Tromans, fundador de Artificial Lawyer, publicó el 12 de octubre de 2026 un ensayo que propone la \"Legal AI Law of Adversarial Incentives\" (ley del incentivo adversarial de la legal AI): cuanto mayor es el incentivo adversarial en una interacción jurídica, más las ganancias de eficiencia de la IA generan trabajo adicional; cuanto menor es ese incentivo, mayor es la reducción del trabajo total. El marco, dice, vale igual para litigio y para transactional. Ejemplos: en una disputa entre dos grandes con recursos, research y discovery con IA abren nuevas líneas de ataque y la otra parte responde, de modo que la IA alarga o ensancha el conflicto; en el polo opuesto, una startup que solo quiere revisar contratos comerciales básicos con un despacho AI-native captura casi toda la eficiencia porque casi nadie tiene interés en pelear. Distingue el efecto de paradojas como Jevons o Amdahl: ayudan, pero no explican por qué tantas firmas adoptan herramientas sin transformar su modelo.",
+  "summary_p2": "Para un managing partner o un GC que mida ROI de legal AI, el axioma es una herramienta de conversación: no esperes el mismo ahorro en bet-the-company litigation que en NDAs rutinarios. Para un vendor, sugiere segmentar mensaje y pricing según el grado de adversarialidad del use case. Matiz: es un ensayo de opinión del fundador de Artificial Lawyer, no un estudio empírico ni una norma; los ejemplos son ilustrativos.",
+  "why_sota": "Marco analítico simple y citable sobre por qué la adopción de legal AI no se traduce en el mismo ahorro en todo el mercado.",
+  "why_now": "Artificial Lawyer 12 Oct 2026. NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "GB",
+    "Global"
+  ],
+  "topics": [
+    "economia",
+    "adopcion",
+    "litigio",
+    "roi",
+    "analisis"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive/",
+      "cited_title": "Legal AI vs The Adversarial Incentive",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-richard-tromans",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-14-legatics-harvey-mcp-estado-deal",
+  "date": "2026-10-13",
+  "type": "product",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Legatics entra en la Connector Library de Harvey: el estado vivo del deal vía MCP",
+  "short_title": "Legatics conecta su MCP a Harvey para el deal en vivo",
+  "standfirst": "Checklists, binders y data rooms como contexto de verdad, no como export estático.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Transactional",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Legatics, plataforma de transaction management, se incorporó el 13 de octubre de 2026 a la Connector Library de Harvey mediante su servidor Model Context Protocol (MCP), según Artificial Lawyer (con entrevista al CEO Anthony Seale). Legatics aporta lo que, según la compañía, una IA transaccional no obtiene sola: el estado vivo del deal (qué está pendiente, quién lo debe, qué se firmó, qué cambió esta mañana). Desde Harvey, el abogado puede consultar parties y hechos del deal, el estado de checklists y trackers, binders y el contenido de data rooms, sobre un matter o sobre muchos a la vez (\"qué asuntos necesitan escalado esta semana\"). Las respuestas salen de Legatics como source of truth, no de un export estático, y respetan los permisos del despacho. Rob MacAdam (Legatics) y Nate Schlein (Harvey) sitúan el origen en clientes comunes que pedían la conexión antes de que ambas empresas hablaran.",
+  "summary_p2": "Para un equipo de corporate que ya use Harvey y Legatics, el conector reduce el copy-paste entre el sitio donde se gestiona el deal y el sitio donde se analiza. Para un architect de legal tech, es otra ficha del patrón MCP: el valor está en el contexto operativo vivo, no solo en el documento. Antes de activarlo, conviene probar permisos cross-matter y qué queda auditado cuando Harvey pregunta por varios deals. Matiz: cobertura basada en anuncio y entrevista AL; sin métricas de adopción ni detalle de scopes MCP publicados.",
+  "why_sota": "Conector MCP que inyecta el estado vivo de transaction management en un asistente de legal AI.",
+  "why_now": "Artificial Lawyer 13 Oct 2026. NEW vs PASS 09-29→10-13.",
+  "geo": [
+    "GB",
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "mcp",
+    "harvey",
+    "transactional",
+    "conectores",
+    "deal-management"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/13/legatics-connects-to-harvey-anthony-seale-interview/",
+      "cited_title": "Legatics Connects to Harvey + Anthony Seale Interview",
+      "accessed": "2026-10-14"
+    }
+  ],
+  "entities": [
+    "ent-legatics",
+    "ent-harvey",
+    "ent-anthony-seale",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}
