@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-09-29-august-for-agents",
+  "date": "2026-09-29",
+  "type": "product",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "August for Agents: los agentes de la empresa preguntan a los abogados",
+  "summary_p1": "August invierte el flujo típico: no es el abogado que consulta a un agente, sino el agente de procurement o ventas el que dispara una consulta legal cuando tropieza con un límite contractual. La firma (o el in-house) responde con un servicio definido, supervisado y con precio fijo posible. Es el paso de \"copiloto en el laptop del letrado\" a \"capa legal embebida en la operativa agéntica de la empresa\".",
+  "summary_p2": "Para despachos, esto abre un canal de intake recurrente y empaquetable: scopes claros, inputs definidos y margen sobre volumen de microconsultas. Exige diseñar qué puede contestar el agente de la firma solo y cuándo escala a humano, con registro y fuentes. Para in-house, reduce fricción entre negocio y legal sin soltar el control deontológico. En ES/UE, cualquier conexión agente-empresa a datos de cliente o empleados debe leerse contra AEPD agéntica: listas blancas, minimización y supervisión efectiva, no \"el bot ya lo mira\".",
+  "why_sota": "Patrón producto fresco: Humans-for-AI operacionalizado; une agentic enterprise y delivery de firma.",
+  "why_now": "Lanzamiento cubierto por AL el mismo día del scan (29 sep).",
+  "geo": [
+    "Global",
+    "EU"
+  ],
+  "topics": [
+    "agents",
+    "inhouse",
+    "intake",
+    "workflow",
+    "packaged-services"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/",
+      "cited_title": "With August, A Company's Agents Ask Lawyers For Help",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

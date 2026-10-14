@@ -1,0 +1,34 @@
+{
+  "id": "evt-2026-09-29-lefebvre-genial-calculator",
+  "date": "2026-09-09",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Lefebvre lanza calculadora de impacto GenIA-L: ROI explícito para despachos",
+  "summary_p1": "Lefebvre deja de vender GenIA-L solo como capacidad y pasa a vender evidencia de productividad: una calculadora gratuita que estima horas recuperadas, valor económico, ROI y plazo de amortización a partir de plantilla, tareas y tarifas del propio despacho. El caso de referencia habla de hasta 307 horas anuales y unos 5,7 meses de payback a 100 EUR/hora. Es un movimiento de go-to-market maduro en el mercado ES.",
+  "summary_p2": "Para compradores, obliga a traer datos propios al RFP y a contrastar hipótesis del vendor con medición interna (antes/después por tarea), no a firmar por el PDF de impacto. Para otros vendors ES, el listón comercial sube: sin modelo de ROI transparente, pierdes la conversación con managing partners. Para operaciones legales, encaja con la ola de consumption pricing global: si el coste de IA se vuelve variable, necesitas métricas de valor por matter desde el día uno.",
+  "why_sota": "Señal ES de profesionalización comercial de IA jurídica (ROI medible) desde un editor core del catálogo.",
+  "why_now": "Lanzamiento 9 sep 2026; ancla de mercado hispanohablante en el dry-run.",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "genia-l",
+    "roi",
+    "productivity",
+    "go-to-market",
+    "spain"
+  ],
+  "sources": [
+    {
+      "source_id": "src-europa-press",
+      "url": "https://www.europapress.es/portaltic/empresas/noticia-lefebvre-lanza-calculadora-mide-impacto-ia-genia-307-horas-ahorro-anual-abogados-20260909150828.html",
+      "cited_title": "Lefebvre lanza una calculadora que mide el impacto de su IA GenIA-L: hasta 307 horas de ahorro anual para abogados",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "published"
+}
