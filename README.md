@@ -84,7 +84,7 @@ python scripts/build_dataset.py          # reconstruye data/ (build_release.py l
 python scripts/build_dataset.py --check  # falla si data/ está desactualizado o si falta un evento ya publicado
 ```
 
-Dedupe por id de evento: un id repetido entre días es un error. Un id que entró en `ledger.json` no puede desaparecer de `events/`; `--check` y `scripts/test_build_dataset.py` fallan en CI. Cada GitHub Release adjunta además `events.jsonl`, `events.csv` y `graph.jsonld` acumulados (etiquetas `events-all.*`, `graph-all.jsonld`).
+Dedupe por id de evento: un id repetido entre días es un error. Un id que entró en `ledger.json` no puede desaparecer de `events/`; `--check` y `scripts/test_build_dataset.py` fallan en CI. Cada GitHub Release adjunta además el acumulado hasta ese día: `events-all.jsonl`, `events-all.csv` y `graph-all.jsonld`.
 
 ## Regla de resumen (obligatoria)
 

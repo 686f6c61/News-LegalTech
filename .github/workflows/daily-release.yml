@@ -192,6 +192,10 @@ jobs:
           set -euo pipefail
           shopt -s nullglob
           target="$(git rev-parse HEAD)"
+          mkdir -p "$RUNNER_TEMP/all"
+          cp data/events.jsonl "$RUNNER_TEMP/all/events-all.jsonl"
+          cp data/events.csv "$RUNNER_TEMP/all/events-all.csv"
+          cp data/graph.jsonld "$RUNNER_TEMP/all/graph-all.jsonld"
           for dir in releases/*/; do
             version="$(basename "$dir")"
             graph="${dir}graph.jsonld"
@@ -209,9 +213,9 @@ jobs:
             fi
             gh release create "$version" \
               "${graph}#graph.jsonld" \
-              "data/events.jsonl#events-all.jsonl" \
-              "data/events.csv#events-all.csv" \
-              "data/graph.jsonld#graph-all.jsonld" \
+              "$RUNNER_TEMP/all/events-all.jsonl" \
+              "$RUNNER_TEMP/all/events-all.csv" \
+              "$RUNNER_TEMP/all/graph-all.jsonld" \
               --target "$target" \
               --title "$title" \
               --notes-file "$notes"
