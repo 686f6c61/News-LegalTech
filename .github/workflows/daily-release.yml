@@ -78,6 +78,12 @@ jobs:
       - name: El arbol coincide con el script
         run: python scripts/build_release.py --check-published
 
+      - name: Tests del dataset acumulado
+        run: python scripts/test_build_dataset.py
+
+      - name: Dataset acumulado al día y sin días perdidos (ledger append-only)
+        run: python scripts/build_dataset.py --check
+
   release:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
@@ -130,6 +136,15 @@ jobs:
             fi
           fi
 
+      - name: Rebuild cumulative dataset (append-only)
+        run: |
+          set -euo pipefail
+          if [ "$DRY_RUN" = "true" ]; then
+            python scripts/build_dataset.py --check || true
+          else
+            python scripts/build_dataset.py
+          fi
+
       - name: Commit release tree
         id: commit
         if: env.DRY_RUN != 'true'
@@ -137,7 +152,7 @@ jobs:
           set -euo pipefail
           git config user.name "686f6c61"
           git config user.email "686f6c61@users.noreply.github.com"
-          git add -- releases content/digests digests/daily events
+          git add -- releases content/digests digests/daily events data
           if git diff --cached --quiet; then
             echo "pushed=false" >> "$GITHUB_OUTPUT"
             echo "Sin cambios que commitear."
@@ -177,6 +192,10 @@ jobs:
           set -euo pipefail
           shopt -s nullglob
           target="$(git rev-parse HEAD)"
+          mkdir -p "$RUNNER_TEMP/all"
+          cp data/events.jsonl "$RUNNER_TEMP/all/events-all.jsonl"
+          cp data/events.csv "$RUNNER_TEMP/all/events-all.csv"
+          cp data/graph.jsonld "$RUNNER_TEMP/all/graph-all.jsonld"
           for dir in releases/*/; do
             version="$(basename "$dir")"
             graph="${dir}graph.jsonld"
@@ -194,6 +213,9 @@ jobs:
             fi
             gh release create "$version" \
               "${graph}#graph.jsonld" \
+              "$RUNNER_TEMP/all/events-all.jsonl" \
+              "$RUNNER_TEMP/all/events-all.csv" \
+              "$RUNNER_TEMP/all/graph-all.jsonld" \
               --target "$target" \
               --title "$title" \
               --notes-file "$notes"

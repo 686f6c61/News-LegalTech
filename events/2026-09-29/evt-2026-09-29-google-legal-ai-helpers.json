@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-09-29-google-legal-ai-helpers",
+  "date": "2026-09-17",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Google muestra Cloud Legal AI Helpers sobre Gemini Enterprise for Legal",
+  "summary_p1": "En demo para Artificial Lawyer, Google Legal enseña el stack práctico: prompting en Gemini Enterprise, NotebookLM con hasta 300 fuentes densas, y \"Cloud Legal AI Helpers\" (Pro/Flash) conectados a fuentes propias para tareas como deal management o redlines guiados por playbook. La terminología oscila entre chatbot y agente, señal de que el producto legal aún se está unificando, pero la apuesta es centralidad de plataforma más no-training sobre datos del cliente.",
+  "summary_p2": "Para un despacho ya metido en Google Workspace, el coste de prueba baja y la tentación de \"quedarse dentro\" sube. El riesgo es confundir facilidad de conexión con producto jurídico cerrado: no hay corpus legal propio comparable a un editor, y la sostenibilidad del contexto frente a DMS, CLM y otras tools sigue abierta. Exige gobernanza de fuentes, permisos y evaluación continua. En ES, cualquier Helper conectado a buzones o repositorios de cliente debe pasar el filtro AEPD agéntico antes del rollout masivo.",
+  "why_sota": "Tercer gran lab empujando stack legal visible; relevancia por installed base Google.",
+  "why_now": "Demo cubierta 17 sep; mismo ciclo que Astra; competencia de plataforma.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "gemini",
+    "notebooklm",
+    "agents",
+    "cloud",
+    "inhouse"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more/",
+      "cited_title": "Google Shows Off Cloud Legal AI Helpers + More",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-09-29-maite-v5-omni",
+  "date": "2026-09-15",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Maite.ai lanza V5 Omni: encuadre extensivo y doble verificación de citas",
+  "summary_p1": "Maite.ai presenta V5 Omni como un motor que no contesta en línea recta a la pregunta, sino que construye un mapa del caso, explora hasta más de 300 documentos y responde solo con las 4-15 fuentes críticas. La regla declarada es dura: si Maite cita, la referencia existe, el texto es literal y lleva enlace. Es el salto de buscador conversacional a razonamiento de encuadre con memoria documental de sesión.",
+  "summary_p2": "Para el comprador ES, Omni empuja a medir citabilidad y vigencia (BOE, ROJ, ECLI) antes que la fluidez del chat. Encaja con la ola de fiabilidad que también empujan Lefebvre GenIA-L y Tirant Sofía, y con la exigencia AEPD de trazabilidad cuando la IA toca datos de cliente. Si vendes LegalTech, el listón de \"cita inventada\" ya no es aceptable en demo. Si compras, pide prueba repetible de verificación literal y de recomposición cuando el usuario cambia el enfoque a mitad de conversación.",
+  "why_sota": "Producto ES con claim fuerte de verificación literal de citas y razonamiento de caso completo.",
+  "why_now": "Lanzamiento 15 sep 2026 al borde de la ventana; Confilegal verificado HTTP 200.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "citation-verification",
+    "product",
+    "RAG",
+    "legal-research",
+    "Spain"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20260915-maite-ai-lanza-v5-omni-su-nueva-ia-juridica-que-busca-razonar-como-un-abogado-y-verificar-cada-cita/",
+      "cited_title": "Maite.ai lanza V5 Omni: su nueva IA jurídica que busca razonar como un abogado y verificar cada cita",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "published"
+}

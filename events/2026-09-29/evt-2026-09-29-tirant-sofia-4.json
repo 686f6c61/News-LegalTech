@@ -1,0 +1,40 @@
+{
+  "id": "evt-2026-09-29-tirant-sofia-4",
+  "date": "2026-09-24",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Tirant lanza Sofía 4.0: IA jurídica en Word anclada al corpus editorial",
+  "summary_p1": "Tirant desplaza el combate de la IA jurídica desde la generación de texto hacia el conocimiento editorial y el sitio de trabajo real del abogado. Sofía 4.0 mantiene contexto sobre el asunto, anonimiza, traduce, transcribe, verifica citas y, sobre todo, se inserta en Microsoft Word y en Tirant Prime junto a bases de datos, biblioteca y consultoría. El mensaje es que el diferenciador ya no es \"tener un modelo\", sino corpus verificable e integración en el flujo de redacción.",
+  "summary_p2": "Para despachos ES, Sofía 4.0 refuerza la tesis make-with-publisher frente a labs US-global: pide trazabilidad de fuentes, vigencia y uso dentro del documento, no solo un chat lateral. Para Lefebvre, Aranzadi o vLex, el listón competitivo sube en embebido Word/workflow. Para procurement, el RFP debe exigir citabilidad literal, estado de vigencia y política de datos del editor, alineada con el marco AEPD agéntico si se conectan agentes a expedientes de cliente.",
+  "why_sota": "Señal ES clara de editor jurídico empujando IA al terreno del conocimiento y del Word, no solo del chatbot.",
+  "why_now": "Cobertura Lawyerpress 24 sep 2026 dentro de la ventana de 14 dias; missed en dry-run priorizado a core EN.",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "legal-publishing",
+    "product",
+    "citation-verification",
+    "workflow",
+    "microsoft-word"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/09/24/tirant-lleva-la-batalla-de-la-ia-juridica-al-terreno-del-conocimiento/",
+      "cited_title": "Tirant lleva la batalla de la IA jurídica al terreno del conocimiento",
+      "accessed": "2026-09-29"
+    },
+    {
+      "source_id": "src-tirant-lo-blanch",
+      "url": "https://tirant.com/",
+      "cited_title": "Tirant (home; curl 403, signal via Lawyerpress)",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "published"
+}

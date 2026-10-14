@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-09-29-mitratech-botdojo",
+  "date": "2026-09-28",
+  "type": "product",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Mitratech compra BotDojo para orquestación agéntica con MCP",
+  "summary_p1": "La adquisición es pequeña en cabeza, grande en arquitectura: Mitratech quiere que su system of record (matters, spend, documentos) hable en Model Context Protocol con los agentes y copilots que ya usan sus clientes, y al revés. El mensaje es que un agente autónomo sin contexto propietario y sin permisos gobernados es un wrapper caro.",
+  "summary_p2": "Para departamentos jurídicos enterprise, el criterio de compra se desplaza a interoperabilidad MCP, colas de asignación, handoff a humano y aislamiento sandbox, no solo al chat embebido. Si eres vendor, o publicas conectores MCP serios o te quedas fuera del tejido agéntico del cliente. Si eres firma española que vende o compra suite legal ops, pide mapa de permisos agente/usuario/conexión y evidencia de que el agente solo ve lo autorizado. Encaja con la insistencia AEPD en catálogos de servicios, listas blancas y control de herramientas.",
+  "why_sota": "Mueve el tablero de legal ops hacia interoperabilidad agéntica estándar (MCP) sobre datos propietarios.",
+  "why_now": "Anuncio 28 sep en Artificial Lawyer; señal de infraestructura agéntica enterprise.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "mcp",
+    "agents",
+    "legal-ops",
+    "ma",
+    "interoperability"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/28/mitratech-buys-botdojo-for-agent-orchestration/",
+      "cited_title": "Mitratech Buys BotDojo For Agent Orchestration",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

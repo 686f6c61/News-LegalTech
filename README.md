@@ -21,6 +21,7 @@ Reutilizable bajo MIT:
 - `events/`
 - digests (`content/digests/` y el stub `digests/`)
 - `releases/*/graph.jsonld`
+- `data/` (dataset acumulado)
 - `schemas/`
 - `scripts/build_release.py`
 
@@ -55,6 +56,7 @@ News-LegalTech/
 ├── sources/                 # starter YAML + catalog.yaml (count = kind news)
 ├── entities/
 ├── events/YYYY-MM-DD/       # eventos del día (entrada de la release)
+├── data/                    # dataset ACUMULADO de todos los días (events.jsonl, events.csv, graph.jsonld, days.json, ledger.json)
 ├── digests/                 # LEGACY stub -> content/digests/
 ├── scripts/build_digest.py  # stub del rollup daily->weekly->biweekly
 ├── scripts/build_release.py # empaqueta events/ -> releases/<DD.MM.YY>/
@@ -63,7 +65,26 @@ News-LegalTech/
 
 Los digests canónicos viven en `content/digests/` (ver `content/README.md` y `content/digests/_schema.md`).
 
-Catálogo de fuentes: `sources/catalog.yaml` (alias `sources/full-catalog.yaml`). Hoy hay 151 fuentes news y 9 fuentes agenda. El campo `kind` vale `news` (seguimiento: medio, regulador, asociación, vendor, investigación) o `agenda` (evento, congreso o programa de formación). `count` cuenta solo las fichas `kind: news`. `agenda_count` cuenta las fichas `kind: agenda`. Esas fichas de agenda se quedan en el catálogo. El subset de arranque ES/AI sigue en `sources/src-*.yaml` + `sources.yaml`. Las fichas añadidas para cerrar una URL citada (Cinco Días, Governor of California, GlobeNewswire, etc.) viven en ese catálogo.
+Catálogo de fuentes: `sources/catalog.yaml` (alias `sources/full-catalog.yaml`). Hoy hay 152 fuentes news y 9 fuentes agenda. El campo `kind` vale `news` (seguimiento: medio, regulador, asociación, vendor, investigación) o `agenda` (evento, congreso o programa de formación). `count` cuenta solo las fichas `kind: news`. `agenda_count` cuenta las fichas `kind: agenda`. Esas fichas de agenda se quedan en el catálogo. El subset de arranque ES/AI sigue en `sources/src-*.yaml` + `sources.yaml`. Las fichas añadidas para cerrar una URL citada (Cinco Días, Governor of California, GlobeNewswire, etc.) viven en ese catálogo.
+
+## Dataset acumulado (append-only)
+
+Cada release diaria (`releases/DD.MM.YY/graph.jsonld`) trae solo los eventos de ese día. El histórico completo vive en `data/` y se reconstruye desde todas las carpetas `events/YYYY-MM-DD/` en cada pasada:
+
+| Fichero | Contenido |
+|---------|-----------|
+| `data/events.jsonl` | Un evento por línea, todos los días, ordenados por fecha |
+| `data/events.csv` | Las mismas filas en columnas planas (listas separadas por `|`) |
+| `data/graph.jsonld` | Grafo JSON-LD acumulado (eventos + entidades citadas) |
+| `data/days.json` | Eventos por día y total |
+| `data/ledger.json` | Registro append-only día -> ids publicados |
+
+```bash
+python scripts/build_dataset.py          # reconstruye data/ (build_release.py lo llama solo)
+python scripts/build_dataset.py --check  # falla si data/ está desactualizado o si falta un evento ya publicado
+```
+
+Dedupe por id de evento: un id repetido entre días es un error. Un id que entró en `ledger.json` no puede desaparecer de `events/`; `--check` y `scripts/test_build_dataset.py` fallan en CI. Cada GitHub Release adjunta además el acumulado hasta ese día: `events-all.jsonl`, `events-all.csv` y `graph-all.jsonld`.
 
 ## Regla de resumen (obligatoria)
 

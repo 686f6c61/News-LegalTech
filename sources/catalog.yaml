@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 151
+count: 152
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1683,3 +1683,13 @@ sources:
   region: US / Global
   lang: EN
   tier: archive
+- id: src-europa-press
+  name: Europa Press
+  url: https://www.europapress.es/
+  type: news
+  frequency: diario
+  why: Agencia de noticias española. Ficha añadida para citar una URL de europapress.es.
+  region: ES
+  lang: ES
+  tier: archive
+  kind: news

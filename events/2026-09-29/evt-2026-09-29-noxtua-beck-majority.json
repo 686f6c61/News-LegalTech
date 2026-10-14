@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-09-29-noxtua-beck-majority",
+  "date": "2026-09-23",
+  "type": "funding",
+  "sota_score": 8.8,
+  "ai_legaltech": true,
+  "title": "Noxtua cierra ~100 M€ Series C: C.H.Beck toma mayoría; MANZ entra",
+  "summary_p1": "La pieza no es solo un cheque grande: es un editor jurídico europeo de referencia tomando el control de una plataforma de IA legal soberana. Noxtua recompone su base de inversores hacia contenido y estrategia pan-europea; CMS y Dentons venden su participación pero siguen como clientes ancla. El mensaje de mercado es claro: datos editoriales exclusivos más IA local frente al stack US-global.",
+  "summary_p2": "Para compradores ES/UE, Noxtua+BECK+MANZ refuerza la tesis de soberanía y corpus local que ya empujan Lefebvre, Aranzadi o vLex. Si negocias RFP de research/drafting, exige residencia, no-training, acceso a fuentes primarias del editor y roadmap de jurisdicciones, no solo demos de chat. Si vendes LegalTech en España, el listón competitivo sube: o alianzas profundas con editores, o diferenciación real en workflow y citabilidad. Y si eres Big Law europea, el modelo \"firma como early investor\" cede el paso a \"firma como cliente ancla\" cuando el capital editorial escala.",
+  "why_sota": "Mayor apuesta editorial europea reciente por IA legal soberana; reordena el mapa publisher+AI frente a US labs.",
+  "why_now": "Cierre 23 sep 2026; señal fresca EU dentro de la ventana de 14 días.",
+  "geo": [
+    "EU",
+    "DE",
+    "AT"
+  ],
+  "topics": [
+    "sovereign-ai",
+    "funding",
+    "legal-publishing",
+    "pan-european",
+    "content"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/23/noxtua-raises-e100m-c-h-beck-now-majority-shareholder/",
+      "cited_title": "Noxtua Raises EUR100m, C.H. Beck Now Majority Shareholder",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

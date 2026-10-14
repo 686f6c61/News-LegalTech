@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-09-29-harvey-550m-guardrails",
+  "date": "2026-09-09",
+  "type": "funding",
+  "sota_score": 8.5,
+  "ai_legaltech": true,
+  "title": "Harvey levanta 550 M$ a valoración 15,5 B$ y compra Guardrails AI",
+  "summary_p1": "Harvey consolida capital a escala de frontier tech y, el mismo día, incorpora infraestructura de fiabilidad y simulación para agentes. No es solo more seats: es la señal de que el cuello de botella se mueve de \"tener un modelo\" a gobernar agentes que se desvían del comportamiento previsto en tiempo real. El 80% del Am Law 100 ya aparece como cliente en el relato de la ronda.",
+  "summary_p2": "Para un despacho, la valoración marca el techo de precios y la urgencia de TokenOps, quotas y atribución por matter antes de que la factura de consumo duela. Quien compra debe pedir evidencia de guardrails, simulación de fallos y políticas de riesgo agéntico, no solo accuracy de demo. Quien vende LegalTech compite contra un rival con caja y con capa de seguridad de agentes integrada: o te especializas (jurisdicción, corpus, workflow) o te integras. En ES/UE, cruza cualquier despliegue Harvey-like con el marco AEPD agéntico antes de abrir DMS y correo.",
+  "why_sota": "Ronda de referencia del sector más M&A de seguridad agéntica; fija el listón de capital y de riesgo operativo.",
+  "why_now": "Anuncio 9 sep; dentro de ventana amplia del primer scan profesional; ancla de mercado.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "funding",
+    "agents",
+    "security",
+    "big-law",
+    "valuation"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/09/09/harvey-raises-550m-at-15-5bn-val-buys-guardrails-ai/",
+      "cited_title": "Harvey Raises $550m at $15.5bn Val, Buys Guardrails AI",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

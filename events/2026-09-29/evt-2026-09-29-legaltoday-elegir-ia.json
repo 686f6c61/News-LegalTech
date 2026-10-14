@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-09-29-legaltoday-elegir-ia",
+  "date": "2026-09-22",
+  "type": "opinion",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "LegalToday: el criterio de compra pasa del prompt al asunto y al workflow",
+  "summary_p1": "Eva Bruch fija el cambio de pregunta: ya no basta \"responde bien en cinco minutos\", hay que preguntar si la herramienta acompaña el asunto (contexto, varias fases, handoff humano) y qué significa de verdad eso de workflow o agent. El artículo empuja a mirar hacia dentro del despacho antes de mirar al vendor: mapear el flujo real del matter es prerrequisito de automatización seria.",
+  "summary_p2": "Para procurement legal ES, convierte el RFP en checklist de fuentes, trazabilidad, datos, integración DMS/CLM y autonomía permitida. Quien vende debe demostrar continuidad de contexto y puntos de supervisión, no solo redacción brillante. Encaja con AEPD (supervisión efectiva) y con la oleada agéntica de Astra, August y Mitratech: el comprador maduro compra proceso rediseñado, no un chat más.",
+  "why_sota": "Pieza ES de criterio de evaluación alineada con el salto agéntico del mercado; útil como marco de compra.",
+  "why_now": "Publicado 22 sep; puente editorial ES del dry-run.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "procurement",
+    "workflow",
+    "agents",
+    "evaluation",
+    "legal-ops"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltoday",
+      "url": "https://www.legaltoday.com/destacado/legaltech-destacado/como-elegir-herramientas-de-ia-para-la-funcion-juridica-2026-09-22/",
+      "cited_title": "Cómo elegir herramientas de IA para la función jurídica",
+      "accessed": "2026-09-29"
+    }
+  ],
+  "entities": [],
+  "lang": "es",
+  "status": "published"
+}

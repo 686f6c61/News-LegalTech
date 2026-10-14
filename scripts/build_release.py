@@ -1140,6 +1140,16 @@ def main(argv: list[str] | None = None) -> int:
             if result.skipped and args.date and not args.pending:
                 # Un dia explicito sin eventos es un skip limpio (el cron no debe fallar).
                 exit_code = 0
+        if not args.dry_run and not args.check:
+            # Dataset acumulado append-only (data/): todos los días, nunca solo el último.
+            import build_dataset
+
+            try:
+                summary = build_dataset.run(root)
+            except build_dataset.DatasetError as exc:
+                raise ReleaseError(f"dataset acumulado: {exc}") from exc
+            print(f"DATASET_DAYS={summary['days']}")
+            print(f"DATASET_EVENTS={summary['events']}")
         return exit_code
     except ReleaseError as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
