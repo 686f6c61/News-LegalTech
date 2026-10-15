@@ -2187,3 +2187,274 @@ entities:
   notes: Senior director of segments en LexisNexis UK; comenta el informe de gobernanza
     de IA. Ficha mínima.
   stub: true
+- id: ent-harvey-intake
+  name: Harvey Intake
+  type: product
+  url: https://www.harvey.ai/blog/building-a-frontier-in-house-organization
+  geo:
+  - US
+  - Global
+  aliases:
+  - Intake
+  notes: Puerta de entrada (legal front door) de Harvey para in-house; early access
+    octubre 2026. Ficha mínima.
+  stub: true
+- id: ent-john-labarre
+  name: John LaBarre
+  type: person
+  url: https://www.harvey.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Chief Legal Officer de Harvey; comenta Intake. Ficha mínima.
+  stub: true
+- id: ent-seena-ghebleh
+  name: Seena Ghebleh
+  type: person
+  url: https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/
+  geo:
+  - US
+  aliases: []
+  notes: Senior Corporate Counsel en Carvana; design partner de Harvey Intake. Ficha
+    mínima.
+  stub: true
+- id: ent-carvana
+  name: Carvana
+  type: company
+  url: https://www.carvana.com/
+  geo:
+  - US
+  aliases: []
+  notes: Marketplace de coches; equipo in-house design partner de Harvey Intake. Ficha
+    mínima.
+  stub: true
+- id: ent-ge-aerospace
+  name: GE Aerospace
+  type: company
+  url: https://www.geaerospace.com/
+  geo:
+  - US
+  aliases:
+  - GE Aerospace
+  notes: Negocio aeroespacial de GE; design partner / usuario de Harvey Contract Intelligence.
+    Ficha mínima.
+  stub: true
+- id: ent-dentsu
+  name: Dentsu
+  type: company
+  url: https://www.dentsu.com/
+  geo:
+  - JP
+  - Global
+  aliases: []
+  notes: Grupo de marketing; equipo in-house design partner de Harvey Intake. Ficha
+    mínima.
+  stub: true
+- id: ent-omnilex
+  name: Omnilex
+  type: law_firm
+  url: https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/
+  geo:
+  - CH
+  - US
+  aliases:
+  - OmniLex
+  notes: Despacho AI-native con origen en Zúrich; abre brazo US con Leon Johnson.
+    Ficha mínima.
+  stub: true
+- id: ent-leon-johnson
+  name: Leon Johnson
+  type: person
+  url: https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/
+  geo:
+  - US
+  aliases: []
+  notes: Ex partner de Goodwin y Kirkland; Managing Partner del brazo US de Omnilex.
+    Ficha mínima.
+  stub: true
+- id: ent-goodwin
+  name: Goodwin
+  type: law_firm
+  url: https://www.goodwinlaw.com/
+  geo:
+  - US
+  aliases:
+  - Goodwin Procter
+  notes: Despacho US; Leon Johnson fue partner en San Francisco antes de Omnilex.
+    Ficha mínima.
+  stub: true
+- id: ent-marco-henri
+  name: Marco Henri
+  type: person
+  url: https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/
+  geo:
+  - CH
+  aliases: []
+  notes: Cofundador y CEO de Omnilex. Ficha mínima.
+  stub: true
+- id: ent-freshfields
+  name: Freshfields
+  type: law_firm
+  url: https://www.freshfields.com/
+  geo:
+  - GB
+  - Global
+  aliases:
+  - Freshfields Bruckhaus Deringer
+  notes: Magic Circle; discute spin-off de Freshfields Lab según FT/PYMNTS. Ficha
+    mínima.
+  stub: true
+- id: ent-freshfields-lab
+  name: Freshfields Lab
+  type: product
+  url: https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/
+  geo:
+  - GB
+  - Global
+  aliases: []
+  notes: Unidad interna de legal tech/IA de Freshfields; posible spin-off a inversores
+    externos. Ficha mínima.
+  stub: true
+- id: ent-ethan-klingsberg
+  name: Ethan Klingsberg
+  type: person
+  url: https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/
+  geo:
+  - US
+  aliases: []
+  notes: Co-head US corporate/M&A de Freshfields; comentó la idea de spin-off al FT.
+    Ficha mínima.
+  stub: true
+- id: ent-jus-mundi
+  name: Jus Mundi
+  type: vendor
+  url: https://jusmundi.com/
+  geo:
+  - FR
+  - Global
+  aliases: []
+  notes: Plataforma de inteligencia jurídica y arbitraje internacional; edita Jus
+    AI. Ficha mínima.
+  stub: true
+- id: ent-jus-ai
+  name: Jus AI
+  type: product
+  url: https://dailyjus.com/news/2026/10/introducing-jus-ai-3-faster-sharper-and-better-grounded-legal-research
+  geo:
+  - FR
+  - Global
+  aliases:
+  - Jus AI 3
+  notes: Motor de research de Jus Mundi para arbitraje; versión 3 con research adaptativo
+    (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-ayushman-dash
+  name: Ayushman Dash
+  type: person
+  url: https://dailyjus.com/news/2026/10/introducing-jus-ai-3-faster-sharper-and-better-grounded-legal-research
+  geo:
+  - FR
+  - Global
+  aliases: []
+  notes: Head of Data and AI en Jus Mundi; autor del anuncio de Jus AI 3. Ficha mínima.
+  stub: true
+- id: ent-scorealytics
+  name: SCOREalytics
+  type: vendor
+  url: https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html
+  geo:
+  - US
+  aliases:
+  - SCORE
+  notes: 'Regulatory intelligence: SCORE (Strategic Compliance, Oversight & Risk Evaluator).
+    Ficha mínima.'
+  stub: true
+- id: ent-jennie-morawetz
+  name: Jennie Morawetz
+  type: person
+  url: https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html
+  geo:
+  - US
+  aliases: []
+  notes: CEO de SCOREalytics; ex partner Kirkland & Ellis y ex CSO/GC de la compañía.
+    Ficha mínima.
+  stub: true
+- id: ent-kirkland-ellis
+  name: Kirkland & Ellis
+  type: law_firm
+  url: https://www.kirkland.com/
+  geo:
+  - US
+  aliases:
+  - Kirkland
+  notes: Despacho Am Law; Morawetz y Johnson pasaron por allí. Ficha mínima.
+  stub: true
+- id: ent-silent-ransom-group
+  name: Silent Ransom Group
+  type: other
+  url: https://www.legalfutures.co.uk/latest-news/cyber-criminals-taking-commercial-approach-to-attacks-on-law-firms
+  geo:
+  - US
+  - Global
+  aliases:
+  - SRG
+  - Chatty Spider
+  - Luna Moth
+  notes: Grupo de ciber-extorsión que apunta a despachos vía ingeniería social; modelo
+    Luna Moth Files. Ficha mínima.
+  stub: true
+- id: ent-check-point
+  name: Check Point
+  type: company
+  url: https://www.checkpoint.com/
+  geo:
+  - IL
+  - Global
+  aliases:
+  - Check Point Software
+  notes: Firma de ciberseguridad; informe Inside the Luna Moth Files sobre SRG. Ficha
+    mínima.
+  stub: true
+- id: ent-introhive
+  name: Introhive
+  type: vendor
+  url: https://www.introhive.com/
+  geo:
+  - CA
+  - US
+  aliases: []
+  notes: Relationship intelligence para BD de despachos y professional services. Ficha
+    mínima.
+  stub: true
+- id: ent-lee-blakemore
+  name: Lee Blakemore
+  type: person
+  url: https://www.lawnext.com/2026/10/partners-want-ai-to-help-them-find-new-business-but-most-are-running-it-on-data-they-cant-use-introhive-survey-finds.html
+  geo:
+  - CA
+  - US
+  aliases: []
+  notes: CEO de Introhive. Ficha mínima.
+  stub: true
+- id: ent-troutman-pepper-locke
+  name: Troutman Pepper Locke
+  type: law_firm
+  url: https://www.law.com/legaltechnews/2026/10/14/how-law-firms-are-strategizing-for-consumption-based-ai-pricing-/
+  geo:
+  - US
+  aliases:
+  - Troutman Pepper
+  notes: Despacho US citado en Law.com sobre routing multi-modelo ante pricing por
+    consumo. Ficha mínima.
+  stub: true
+- id: ent-daily-jus
+  name: Daily Jus
+  type: media
+  url: https://dailyjus.com/
+  geo:
+  - FR
+  - Global
+  aliases:
+  - Daily Jus by Jus Mundi
+  notes: Blog de noticias de Jus Mundi. Ficha mínima.
+  stub: true

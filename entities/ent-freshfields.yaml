@@ -1,0 +1,11 @@
+id: ent-freshfields
+name: Freshfields
+type: law_firm
+url: https://www.freshfields.com/
+geo:
+- GB
+- Global
+aliases:
+- Freshfields Bruckhaus Deringer
+notes: Magic Circle; discute spin-off de Freshfields Lab según FT/PYMNTS. Ficha mínima.
+stub: true

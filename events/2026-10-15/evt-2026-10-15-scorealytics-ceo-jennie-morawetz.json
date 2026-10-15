@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-15-scorealytics-ceo-jennie-morawetz",
+  "date": "2026-10-14",
+  "type": "market",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "SCOREalytics nombra CEO a Jennie Morawetz (ex Kirkland): «un montón de PDFs no es un data set»",
+  "short_title": "SCOREalytics: Jennie Morawetz (ex Kirkland) asume el CEO",
+  "standfirst": "Ex CSO/GC. Monitoriza reguladores en ~30 países con scores de applicability y priority.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "RegTech",
+  "country": "EE. UU.",
+  "piece_type": "Mercado",
+  "summary_p1": "SCOREalytics, la compañía detrás de SCORE (Strategic Compliance, Oversight & Risk Evaluator), nombró esta semana CEO a Jennie Morawetz, ex partner de Kirkland & Ellis donde ayudó a construir el Sustainability Practice Group, según entrevista de LawNext (Bob Ambrogi) del 14 de octubre de 2026. Morawetz llevaba un año como chief strategy officer y general counsel; el paso al CEO, dice, fue natural tras la salida del anterior. La plataforma monitoriza reguladores (no solo alertas de despachos o búsquedas web) en unos 30 países, más tribunales y enforcement, con foco actual en energy/climate, environmental, labor/human rights, corporate governance e information governance (ciber, responsible AI, privacy). Cada novedad recibe un applicability score (¿cae la entidad en el scope?) y un priority score (si aplica, ¿cuánto duele?: enforcement, multas, plazos, carga). Usa scrapers, LLMs y un equipo offshore cuando falla la captura; «antagonist agents» multi-LLM envían desacuerdos a humanos. Clientes: despachos, in-house de multinacionales y algo de PE. Prioridad inmediata: producto, data set y go-to-market; exploran MCP para no sumar otra plataforma.",
+  "summary_p2": "Para un GC o un socio de regulatory, el posicionamiento («no queremos ser el OS jurídico; queremos ser el data set») encaja con la fatiga de plataformas y con el patrón MCP de la semana. La distinción applicability/priority es operativamente útil si el perfil de entidad está bien curado. Matiz: es entrevista al nuevo CEO en LawNext; sin ARR, headcount ni benchmarks públicos de precisión de los scores.",
+  "why_sota": "Regulatory intelligence con doble score (scope vs prioridad) liderada por una practitioner ex-Big Law.",
+  "why_now": "LawNext 14 Oct 2026. NEW vs PASS 09-29→10-14.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "regtech",
+    "compliance",
+    "gobernanza",
+    "mcp",
+    "liderazgo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
+      "cited_title": "New SCOREalytics CEO Jennie Morawetz on Building Regulatory Intelligence Lawyers Can Rely On",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-scorealytics",
+    "ent-jennie-morawetz",
+    "ent-kirkland-ellis"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "evt-2026-10-15-freshfields-lab-spinoff-discusion",
+  "date": "2026-10-14",
+  "type": "market",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Freshfields sopesa un spin-off multimillonario de Freshfields Lab, su unidad de IA",
+  "short_title": "Freshfields discute spin-off multimillonario de su Lab de IA",
+  "standfirst": "Conversaciones tempranas según el FT. Klingsberg: no diluir valor «enterrándolo» en el despacho.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "Socios senior de Freshfields han discutido convertir Freshfields Lab —la unidad interna que desarrolla herramientas de IA para abogados y clientes del despacho— en una compañía separada abierta a inversores externos, según informó el Financial Times el 14 de octubre de 2026 y recogió PYMNTS. Ethan Klingsberg, co-head de corporate y M&A en EE. UU., dijo al FT que la idea «just hit me last week» y que, cuando algo dentro de la firma podría valer más por separado, «you don't want to dilute its value by burying it in something else». Matizó que las conversaciones están en fase temprana, que pueden no cuajar y que el valor de las herramientas para terceros sin los datos de Freshfields es incierto. El reportaje sitúa valoraciones de referencia del mercado legal AI en Harvey (15.500 millones de dólares) y Legora (5.600 millones).",
+  "summary_p2": "Para un managing partner de Magic Circle o Am Law, el episodio confirma que el lab interno ya no es solo eficiencia: es un activo que se compara con unicornios externos. Para un GC cliente de Freshfields, la pregunta práctica es qué IP y qué datos del cliente viajarían a una entidad con equity externo. Matiz: es reporting del FT vía PYMNTS sobre discusiones internas, no un anuncio formal de spin-off ni un term sheet; no hay valuation oficial de Freshfields Lab.",
+  "why_sota": "Un Magic Circle pone sobre la mesa externalizar su lab de IA con equity externo, midiendo el activo frente a Harvey/Legora.",
+  "why_now": "FT 14 Oct 2026 vía PYMNTS. NEW vs PASS 09-29→10-14.",
+  "geo": [
+    "GB",
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "spin-off",
+    "labs",
+    "magic-circle",
+    "inversion",
+    "legal-ai"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/",
+      "cited_title": "Law Firm Freshfields Weighs Billion-Dollar Spinoff for AI Unit",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-freshfields",
+    "ent-freshfields-lab",
+    "ent-ethan-klingsberg",
+    "ent-harvey",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

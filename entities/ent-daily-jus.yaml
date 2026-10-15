@@ -1,0 +1,11 @@
+id: ent-daily-jus
+name: Daily Jus
+type: media
+url: https://dailyjus.com/
+geo:
+- FR
+- Global
+aliases:
+- Daily Jus by Jus Mundi
+notes: Blog de noticias de Jus Mundi. Ficha mínima.
+stub: true

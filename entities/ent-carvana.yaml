@@ -1,0 +1,10 @@
+id: ent-carvana
+name: Carvana
+type: company
+url: https://www.carvana.com/
+geo:
+- US
+aliases: []
+notes: Marketplace de coches; equipo in-house design partner de Harvey Intake. Ficha
+  mínima.
+stub: true

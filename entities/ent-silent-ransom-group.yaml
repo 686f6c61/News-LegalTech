@@ -1,0 +1,14 @@
+id: ent-silent-ransom-group
+name: Silent Ransom Group
+type: other
+url: https://www.legalfutures.co.uk/latest-news/cyber-criminals-taking-commercial-approach-to-attacks-on-law-firms
+geo:
+- US
+- Global
+aliases:
+- SRG
+- Chatty Spider
+- Luna Moth
+notes: Grupo de ciber-extorsión que apunta a despachos vía ingeniería social; modelo
+  Luna Moth Files. Ficha mínima.
+stub: true

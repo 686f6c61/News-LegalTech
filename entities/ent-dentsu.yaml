@@ -1,0 +1,11 @@
+id: ent-dentsu
+name: Dentsu
+type: company
+url: https://www.dentsu.com/
+geo:
+- JP
+- Global
+aliases: []
+notes: Grupo de marketing; equipo in-house design partner de Harvey Intake. Ficha
+  mínima.
+stub: true

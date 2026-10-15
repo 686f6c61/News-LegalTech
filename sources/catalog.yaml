@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 152
+count: 153
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1693,3 +1693,14 @@ sources:
   lang: ES
   tier: archive
   kind: news
+- id: src-daily-jus
+  name: Daily Jus (Jus Mundi)
+  url: https://dailyjus.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Blog de noticias de Jus Mundi sobre arbitraje internacional y legal AI. Ficha
+    añadida para citar una URL de dailyjus.com.
+  region: Global
+  lang: EN
+  tier: archive

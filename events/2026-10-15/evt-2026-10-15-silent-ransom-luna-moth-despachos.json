@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-10-15-silent-ransom-luna-moth-despachos",
+  "date": "2026-10-15",
+  "type": "other",
+  "sota_score": 7.3,
+  "ai_legaltech": false,
+  "title": "Silent Ransom Group trata la extorsión a despachos como un negocio: chat, offer, contract, gold",
+  "short_title": "Silent Ransom Group: extorsión «comercial» a despachos",
+  "standfirst": "Check Point sobre los Luna Moth Files. 42 de 50 víctimas recientes serían law firms. Sin cifrado: ingeniería social.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": true,
+  "topic": "Ciberseguridad",
+  "country": "",
+  "piece_type": "Incidente",
+  "summary_p1": "Legal Futures (15 de octubre de 2026) resume el informe de Check Point Inside the Luna Moth Files: Reconstructing Silent Ransom Group’s Operating Model, basado en una filtración atribuida a Silent Ransom Group (SRG; también Chatty Spider / Luna Moth). El grupo, dice el análisis, no depende en general de cifrar sistemas: usa ingeniería social e impersonación de IT interno para robar información sensible y extorsionar. Etiqueta las fases de negociación como chat, offer, contract y gold; organiza callers, operadores en remoto y negotiators como un servicio. El FBI alertó en mayo de que SRG apuntaba activamente a despachos. Según Check Point, 42 de las 50 víctimas más recientemente observadas eran law firms, con referencias a ambicionar el top 100 global. El material filtrado es unverified y en partes inconsistente; describe scripts de ansiedad/reaseguro y un proyecto de «fake employee» alineado con reportes del FBI sobre acceso físico fingiendo ser IT.",
+  "summary_p2": "Para un CISO o un risk partner de un despacho, el takeaway no es «ransomware clásico» sino un playbook de confianza humana: caller creíble, acceso remoto como «chequeo de seguridad» y presión sobre datos robados. Merece revisar con IT los playbooks de helpdesk, verificación out-of-band y qué pasa si alguien pide AnyDesk/TeamViewer «desde dentro». Matiz: informe de vendor de ciberseguridad sobre material leaked no verificado de forma independiente en la pieza de Legal Futures.",
+  "why_sota": "Modelo operativo documentado de un grupo que industrializa la extorsión a law firms vía social engineering, no cifrado.",
+  "why_now": "Legal Futures 15 Oct 2026 sobre informe Check Point / Luna Moth Files. NEW vs PASS 09-29→10-14.",
+  "geo": [
+    "GB",
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "despachos",
+    "extorsion",
+    "social-engineering",
+    "riesgo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/cyber-criminals-taking-commercial-approach-to-attacks-on-law-firms",
+      "cited_title": "Cyber criminals taking “commercial approach” to attacks on law firms",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-silent-ransom-group",
+    "ent-check-point",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

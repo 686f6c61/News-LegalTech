@@ -1,0 +1,12 @@
+id: ent-harvey-intake
+name: Harvey Intake
+type: product
+url: https://www.harvey.ai/blog/building-a-frontier-in-house-organization
+geo:
+- US
+- Global
+aliases:
+- Intake
+notes: Puerta de entrada (legal front door) de Harvey para in-house; early access
+  octubre 2026. Ficha mínima.
+stub: true

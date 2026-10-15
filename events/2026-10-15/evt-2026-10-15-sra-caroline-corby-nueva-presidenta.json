@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-15-sra-caroline-corby-nueva-presidenta",
+  "date": "2026-10-14",
+  "type": "regulation",
+  "sota_score": 6.2,
+  "ai_legaltech": false,
+  "title": "Caroline Corby (CPS y Professional Standards Authority) será la nueva chair de la SRA",
+  "short_title": "Caroline Corby, nueva chair de la SRA desde el 23 de noviembre",
+  "standfirst": "Sustituye a Anna Bradley. El regulador sigue bajo tres medidas del Legal Services Board.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "Legal Futures informó el 14 de octubre de 2026 de que Caroline Corby, chair de la Crown Prosecution Service y de la Professional Standards Authority (supervisora de reguladores sanitarios), ha sido nombrada nueva chair de la Solicitors Regulation Authority (SRA). Tomará el cargo el 23 de noviembre, sucediendo a Anna Bradley, cuyos mandatos se habían prorrogado en 2024 porque el regulador «no estaba en steady state». Retribución: 105.000 libras al año, al menos dos días por semana. Corby, 61 años, viene de roles públicos (Parole Board, PSA, CPS) y del sector vivienda (Peabody). Sarah Rapson (CEO) destaca su experiencia en regulación y transformación; Brett Dixon (incoming Law Society president) pide restaurar la confianza de público y solicitors. La SRA permanece bajo tres medidas del Legal Services Board tras Axiom Ince y SSB Law.",
+  "summary_p2": "Para un COLP/COFA o un socio de compliance UK, el relevo importa menos por el nombre que por la agenda: modernizar un regulador bajo sanción pública mientras el sector discute IA agéntica y ciber. No es una pieza de producto LegalTech, pero fija el tono del supervisor que marcará enforcement y orientación a despachos. Matiz: nombramiento institucional; sin detalle aún de prioridades concretas de Corby sobre tecnología o AI.",
+  "why_sota": "Relevo al frente del regulador de solicitors UK en pleno ciclo de medidas LSB y presión de confianza.",
+  "why_now": "Legal Futures 14 Oct 2026. NEW vs PASS 09-29→10-14 (pausa COLP/COFA de octubre no cubría el chair).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "sra",
+    "regulacion",
+    "solicitors",
+    "compliance",
+    "uk"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/head-of-cps-and-health-regulator-named-new-sra-chair",
+      "cited_title": "Head of CPS and health regulator named new SRA chair",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

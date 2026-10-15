@@ -1,0 +1,11 @@
+id: ent-introhive
+name: Introhive
+type: vendor
+url: https://www.introhive.com/
+geo:
+- CA
+- US
+aliases: []
+notes: Relationship intelligence para BD de despachos y professional services. Ficha
+  mínima.
+stub: true

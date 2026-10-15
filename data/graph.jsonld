@@ -12,8 +12,8 @@
         "schema:CreativeWork"
       ],
       "schema:name": "Radar LegalTech · acumulado",
-      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-10-14, 149 eventos).",
-      "schema:temporalCoverage": "2026-09-29/2026-10-14",
+      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-10-15, 158 eventos).",
+      "schema:temporalCoverage": "2026-09-29/2026-10-15",
       "schema:inLanguage": "es",
       "schema:license": "https://spdx.org/licenses/MIT.html",
       "schema:hasPart": [
@@ -463,6 +463,33 @@
         },
         {
           "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-14-permeta-ferc-ai-elibrary-mcp"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-harvey-intake-front-door-inhouse"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-omnilex-leon-johnson-brazo-us"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-freshfields-lab-spinoff-discusion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-jus-ai-3-research-adaptativo-arbitraje"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-scorealytics-ceo-jennie-morawetz"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-silent-ransom-luna-moth-despachos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-introhive-encuesta-bd-ia-datos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-pricing-consumo-ia-despachos-law-com"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-sra-caroline-corby-nueva-presidenta"
         }
       ]
     },
@@ -7157,6 +7184,468 @@
       ]
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-harvey-intake-front-door-inhouse",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-harvey-intake-front-door-inhouse",
+      "schema:headline": "Harvey lanza Intake: puerta de entrada in-house con first-pass de contratos vía playbooks",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Harvey lanzó el 14 de octubre de 2026 Intake, su legal front door (puerta de entrada jurídica) para equipos in-house, según Artificial Lawyer y el propio blog de producto. Extiende Contract Intelligence: captura peticiones desde las herramientas que ya usa el negocio (email, Slack, Teams, Jira, ServiceNow, Salesforce y otras), las enruta al agente, solución o abogado correcto bajo las reglas del equipo legal, resuelve las rutinarias y hace un first-pass (primera pasada) del resto aplicando playbooks del departamento a contratos entrantes. Early access comienza en octubre. Carvana, GE Aerospace y Dentsu figuran como design partners; Seena Ghebleh (Senior Corporate Counsel, Carvana) describe que, fuera de horario o en reuniones, Intake puede aplicar el playbook y dejar la revisión inicial lista para su sign-off. John LaBarre (CLO de Harvey) lo enmarca como una sola puerta de entrada para el soporte legal. Harvey dice trabajar ya con 1.600 equipos in-house, incluidos 5 de los Fortune 10. Artificial Lawyer subraya la coincidencia: Legora había lanzado su propio Intake el día anterior.",
+      "schema:articleBody": "Harvey lanzó el 14 de octubre de 2026 Intake, su legal front door (puerta de entrada jurídica) para equipos in-house, según Artificial Lawyer y el propio blog de producto. Extiende Contract Intelligence: captura peticiones desde las herramientas que ya usa el negocio (email, Slack, Teams, Jira, ServiceNow, Salesforce y otras), las enruta al agente, solución o abogado correcto bajo las reglas del equipo legal, resuelve las rutinarias y hace un first-pass (primera pasada) del resto aplicando playbooks del departamento a contratos entrantes. Early access comienza en octubre. Carvana, GE Aerospace y Dentsu figuran como design partners; Seena Ghebleh (Senior Corporate Counsel, Carvana) describe que, fuera de horario o en reuniones, Intake puede aplicar el playbook y dejar la revisión inicial lista para su sign-off. John LaBarre (CLO de Harvey) lo enmarca como una sola puerta de entrada para el soporte legal. Harvey dice trabajar ya con 1.600 equipos in-house, incluidos 5 de los Fortune 10. Artificial Lawyer subraya la coincidencia: Legora había lanzado su propio Intake el día anterior.\n\nPara un GC, el mensaje de la semana es claro: el mercado de la «puerta de entrada» in-house se ha convertido en campo de batalla entre plataformas anchas (Harvey, Legora) y especialistas. La diferencia que AL destaca en Harvey es el first-pass contractual con playbooks propios, no solo el triaje. Antes de un POC, conviene fijar qué tipos de request se resuelven solos, dónde queda el human-in-the-loop (humano en el bucle) y cómo se audita lo enviado al negocio. Matiz: cifras de footprint in-house y el relato de design partners vienen del vendor y de cobertura AL; no hay métricas públicas de tiempo de ciclo ni de precisión del first-pass.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Front door in-house de un vendor frontier que añade first-pass contractual con playbooks al triaje y routing.",
+      "sota:whyNow": "AL + blog Harvey 14 Oct 2026; NEW vs Legora Intake (14.10.26 / 13 oct) y PASS 09-29→10-14.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "inhouse",
+        "intake",
+        "contratos",
+        "agentes",
+        "playbooks"
+      ],
+      "sota:summaryP1": "Harvey lanzó el 14 de octubre de 2026 Intake, su legal front door (puerta de entrada jurídica) para equipos in-house, según Artificial Lawyer y el propio blog de producto. Extiende Contract Intelligence: captura peticiones desde las herramientas que ya usa el negocio (email, Slack, Teams, Jira, ServiceNow, Salesforce y otras), las enruta al agente, solución o abogado correcto bajo las reglas del equipo legal, resuelve las rutinarias y hace un first-pass (primera pasada) del resto aplicando playbooks del departamento a contratos entrantes. Early access comienza en octubre. Carvana, GE Aerospace y Dentsu figuran como design partners; Seena Ghebleh (Senior Corporate Counsel, Carvana) describe que, fuera de horario o en reuniones, Intake puede aplicar el playbook y dejar la revisión inicial lista para su sign-off. John LaBarre (CLO de Harvey) lo enmarca como una sola puerta de entrada para el soporte legal. Harvey dice trabajar ya con 1.600 equipos in-house, incluidos 5 de los Fortune 10. Artificial Lawyer subraya la coincidencia: Legora había lanzado su propio Intake el día anterior.",
+      "sota:summaryP2": "Para un GC, el mensaje de la semana es claro: el mercado de la «puerta de entrada» in-house se ha convertido en campo de batalla entre plataformas anchas (Harvey, Legora) y especialistas. La diferencia que AL destaca en Harvey es el first-pass contractual con playbooks propios, no solo el triaje. Antes de un POC, conviene fijar qué tipos de request se resuelven solos, dónde queda el human-in-the-loop (humano en el bucle) y cómo se audita lo enviado al negocio. Matiz: cifras de footprint in-house y el relato de design partners vienen del vendor y de cobertura AL; no hay métricas públicas de tiempo de ciclo ni de precisión del first-pass.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/",
+          "schema:name": "Harvey Launches Intake for Inhouse Teams",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.harvey.ai/blog/building-a-frontier-in-house-organization",
+          "schema:name": "Building a Frontier In-House Organization",
+          "sota:sourceId": "src-harvey"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey-intake"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-john-labarre"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-seena-ghebleh"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-carvana"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ge-aerospace"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dentsu"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-omnilex-leon-johnson-brazo-us",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-omnilex-leon-johnson-brazo-us",
+      "schema:headline": "Leon Johnson (ex Goodwin y Kirkland) abre el brazo US de Omnilex, despacho AI-native de Zúrich",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Leon Johnson, hasta hace poco partner de Goodwin en San Francisco y antes partner de Kirkland & Ellis (donde ayudó a levantar la oficina de Salt Lake City por encima de 100 abogados), se incorpora a Omnilex como Managing Partner para liderar su negocio en Estados Unidos, según entrevista de Artificial Lawyer del 14 de octubre de 2026. Omnilex nació en Suiza como legal tech y pasó a prestar servicios jurídicos sobre su propia plataforma de agentes que conocen contratos, deals y matters previos del cliente; cofundadores Marco Henri (CEO), Ismael Seck (COO) y Etienne Salimbeni (CTO); seed de 4,5 millones de dólares en noviembre de 2025 (Founderful, Plug and Play, Tiny Supercomputer, Angel Invest). Unos 20 personas y ~100 equipos jurídicos (Bayer, Randstad, Deloitte, Swatch, BDO entre los citados). El brazo US se estructura como MSO (managed services organization); hoy tres abogados y expectativa de crecimiento rápido. Johnson, mentorado en su día por Clayton Christensen, sostiene que el modelo piramidal de Big Law choca con entregas a precio fijo impulsadas por IA: el agente resuelve y el abogado revisa y firma bajo las reglas éticas de California.",
+      "schema:articleBody": "Leon Johnson, hasta hace poco partner de Goodwin en San Francisco y antes partner de Kirkland & Ellis (donde ayudó a levantar la oficina de Salt Lake City por encima de 100 abogados), se incorpora a Omnilex como Managing Partner para liderar su negocio en Estados Unidos, según entrevista de Artificial Lawyer del 14 de octubre de 2026. Omnilex nació en Suiza como legal tech y pasó a prestar servicios jurídicos sobre su propia plataforma de agentes que conocen contratos, deals y matters previos del cliente; cofundadores Marco Henri (CEO), Ismael Seck (COO) y Etienne Salimbeni (CTO); seed de 4,5 millones de dólares en noviembre de 2025 (Founderful, Plug and Play, Tiny Supercomputer, Angel Invest). Unos 20 personas y ~100 equipos jurídicos (Bayer, Randstad, Deloitte, Swatch, BDO entre los citados). El brazo US se estructura como MSO (managed services organization); hoy tres abogados y expectativa de crecimiento rápido. Johnson, mentorado en su día por Clayton Christensen, sostiene que el modelo piramidal de Big Law choca con entregas a precio fijo impulsadas por IA: el agente resuelve y el abogado revisa y firma bajo las reglas éticas de California.\n\nPara un innovation lead o un socio de corporate que mira el new model, el fichaje importa porque no es un junior «probando» AI-native: es un partner de transactional/PE/venture que deja Goodwin. El foco declarado (NVCA/venture docs, governance de startups, commercial contracts) es el terreno donde el incentivo adversarial es bajo y el fixed fee encaja mejor, como el propio Tromans argumentaba esta semana. Preguntas útiles: cobertura de insurance, cómo escalan especialistas en M&A grande y qué parte del matter queda realmente automatizada. Matiz: cobertura basada en entrevista AL; sin métricas de revenue US ni lista pública de clientes americanos.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Fichaje senior Big Law → AI-native US con estructura MSO y plataforma propia de agentes.",
+      "sota:whyNow": "Artificial Lawyer 14 Oct 2026. NEW vs Driven Lawyers NL (02-10) y PASS 09-29→10-14.",
+      "sota:geo": [
+        "US",
+        "CH",
+        "Global"
+      ],
+      "sota:topics": [
+        "new-model",
+        "ai-native",
+        "despachos",
+        "venture",
+        "mso"
+      ],
+      "sota:summaryP1": "Leon Johnson, hasta hace poco partner de Goodwin en San Francisco y antes partner de Kirkland & Ellis (donde ayudó a levantar la oficina de Salt Lake City por encima de 100 abogados), se incorpora a Omnilex como Managing Partner para liderar su negocio en Estados Unidos, según entrevista de Artificial Lawyer del 14 de octubre de 2026. Omnilex nació en Suiza como legal tech y pasó a prestar servicios jurídicos sobre su propia plataforma de agentes que conocen contratos, deals y matters previos del cliente; cofundadores Marco Henri (CEO), Ismael Seck (COO) y Etienne Salimbeni (CTO); seed de 4,5 millones de dólares en noviembre de 2025 (Founderful, Plug and Play, Tiny Supercomputer, Angel Invest). Unos 20 personas y ~100 equipos jurídicos (Bayer, Randstad, Deloitte, Swatch, BDO entre los citados). El brazo US se estructura como MSO (managed services organization); hoy tres abogados y expectativa de crecimiento rápido. Johnson, mentorado en su día por Clayton Christensen, sostiene que el modelo piramidal de Big Law choca con entregas a precio fijo impulsadas por IA: el agente resuelve y el abogado revisa y firma bajo las reglas éticas de California.",
+      "sota:summaryP2": "Para un innovation lead o un socio de corporate que mira el new model, el fichaje importa porque no es un junior «probando» AI-native: es un partner de transactional/PE/venture que deja Goodwin. El foco declarado (NVCA/venture docs, governance de startups, commercial contracts) es el terreno donde el incentivo adversarial es bajo y el fixed fee encaja mejor, como el propio Tromans argumentaba esta semana. Preguntas útiles: cobertura de insurance, cómo escalan especialistas en M&A grande y qué parte del matter queda realmente automatizada. Matiz: cobertura basada en entrevista AL; sin métricas de revenue US ni lista pública de clientes americanos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/",
+          "schema:name": "Goodwin Partner Launches US AI-Native Law Firm Arm",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-omnilex"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-leon-johnson"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-goodwin"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-kirkland-ellis"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-marco-henri"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-freshfields-lab-spinoff-discusion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-freshfields-lab-spinoff-discusion",
+      "schema:headline": "Freshfields sopesa un spin-off multimillonario de Freshfields Lab, su unidad de IA",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Socios senior de Freshfields han discutido convertir Freshfields Lab —la unidad interna que desarrolla herramientas de IA para abogados y clientes del despacho— en una compañía separada abierta a inversores externos, según informó el Financial Times el 14 de octubre de 2026 y recogió PYMNTS. Ethan Klingsberg, co-head de corporate y M&A en EE. UU., dijo al FT que la idea «just hit me last week» y que, cuando algo dentro de la firma podría valer más por separado, «you don't want to dilute its value by burying it in something else». Matizó que las conversaciones están en fase temprana, que pueden no cuajar y que el valor de las herramientas para terceros sin los datos de Freshfields es incierto. El reportaje sitúa valoraciones de referencia del mercado legal AI en Harvey (15.500 millones de dólares) y Legora (5.600 millones).",
+      "schema:articleBody": "Socios senior de Freshfields han discutido convertir Freshfields Lab —la unidad interna que desarrolla herramientas de IA para abogados y clientes del despacho— en una compañía separada abierta a inversores externos, según informó el Financial Times el 14 de octubre de 2026 y recogió PYMNTS. Ethan Klingsberg, co-head de corporate y M&A en EE. UU., dijo al FT que la idea «just hit me last week» y que, cuando algo dentro de la firma podría valer más por separado, «you don't want to dilute its value by burying it in something else». Matizó que las conversaciones están en fase temprana, que pueden no cuajar y que el valor de las herramientas para terceros sin los datos de Freshfields es incierto. El reportaje sitúa valoraciones de referencia del mercado legal AI en Harvey (15.500 millones de dólares) y Legora (5.600 millones).\n\nPara un managing partner de Magic Circle o Am Law, el episodio confirma que el lab interno ya no es solo eficiencia: es un activo que se compara con unicornios externos. Para un GC cliente de Freshfields, la pregunta práctica es qué IP y qué datos del cliente viajarían a una entidad con equity externo. Matiz: es reporting del FT vía PYMNTS sobre discusiones internas, no un anuncio formal de spin-off ni un term sheet; no hay valuation oficial de Freshfields Lab.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un Magic Circle pone sobre la mesa externalizar su lab de IA con equity externo, midiendo el activo frente a Harvey/Legora.",
+      "sota:whyNow": "FT 14 Oct 2026 vía PYMNTS. NEW vs PASS 09-29→10-14.",
+      "sota:geo": [
+        "GB",
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "spin-off",
+        "labs",
+        "magic-circle",
+        "inversion",
+        "legal-ai"
+      ],
+      "sota:summaryP1": "Socios senior de Freshfields han discutido convertir Freshfields Lab —la unidad interna que desarrolla herramientas de IA para abogados y clientes del despacho— en una compañía separada abierta a inversores externos, según informó el Financial Times el 14 de octubre de 2026 y recogió PYMNTS. Ethan Klingsberg, co-head de corporate y M&A en EE. UU., dijo al FT que la idea «just hit me last week» y que, cuando algo dentro de la firma podría valer más por separado, «you don't want to dilute its value by burying it in something else». Matizó que las conversaciones están en fase temprana, que pueden no cuajar y que el valor de las herramientas para terceros sin los datos de Freshfields es incierto. El reportaje sitúa valoraciones de referencia del mercado legal AI en Harvey (15.500 millones de dólares) y Legora (5.600 millones).",
+      "sota:summaryP2": "Para un managing partner de Magic Circle o Am Law, el episodio confirma que el lab interno ya no es solo eficiencia: es un activo que se compara con unicornios externos. Para un GC cliente de Freshfields, la pregunta práctica es qué IP y qué datos del cliente viajarían a una entidad con equity externo. Matiz: es reporting del FT vía PYMNTS sobre discusiones internas, no un anuncio formal de spin-off ni un term sheet; no hay valuation oficial de Freshfields Lab.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/",
+          "schema:name": "Law Firm Freshfields Weighs Billion-Dollar Spinoff for AI Unit",
+          "sota:sourceId": "src-pymnts"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-freshfields"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-freshfields-lab"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ethan-klingsberg"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-jus-ai-3-research-adaptativo-arbitraje",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-jus-ai-3-research-adaptativo-arbitraje",
+      "schema:headline": "Jus Mundi lanza Jus AI 3: research adaptativo que vuelve a las fuentes antes de responder",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Jus Mundi presentó el 14 de octubre de 2026 Jus AI 3, la nueva generación del motor de research que alimenta todos los modos de Jus AI, según Daily Jus (Ayushman Dash, Head of Data and AI). Frente al pipeline lineal «recuperar → razonar → responder», Jus AI 3 evalúa lo encontrado, detecta huecos y lanza follow-up o verificación dirigida antes de contestar; en preguntas simples omite pasos innecesarios y responde antes, en las complejas profundiza. El stack propietario Tenet está orientado a arbitraje internacional. Benchmark interno sobre 114 prompts frente a Jus AI 2: 19% más rápido el time to first answer, 10% más de scores perfectos de relevancy y 8% más de faithfulness (escala 1–5). Anuncia para este trimestre arbitrator search y due diligence conversacional sobre datos de Jus Mundi y Jus Connect (ejemplo: presidentes de tribunal en español para un ICC mining dispute con parte latinoamericana y sede en París).",
+      "schema:articleBody": "Jus Mundi presentó el 14 de octubre de 2026 Jus AI 3, la nueva generación del motor de research que alimenta todos los modos de Jus AI, según Daily Jus (Ayushman Dash, Head of Data and AI). Frente al pipeline lineal «recuperar → razonar → responder», Jus AI 3 evalúa lo encontrado, detecta huecos y lanza follow-up o verificación dirigida antes de contestar; en preguntas simples omite pasos innecesarios y responde antes, en las complejas profundiza. El stack propietario Tenet está orientado a arbitraje internacional. Benchmark interno sobre 114 prompts frente a Jus AI 2: 19% más rápido el time to first answer, 10% más de scores perfectos de relevancy y 8% más de faithfulness (escala 1–5). Anuncia para este trimestre arbitrator search y due diligence conversacional sobre datos de Jus Mundi y Jus Connect (ejemplo: presidentes de tribunal en español para un ICC mining dispute con parte latinoamericana y sede en París).\n\nPara un equipo de international arbitration, el salto útil no es otro chat sino un motor que sigue el hilo entre tratados, laudos y comentario como haría un asociado cuidadoso. La hoja de ruta de selección de árbitros concentraría en un solo sitio lo que hoy se reparte entre bases y spreadsheets. Matiz: métricas y benchmark son del proveedor; no hay evaluación independiente publicada en la pieza.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Motor de research de arbitraje que añade bucle de verificación/follow-up y prepara arbitrator diligence conversacional.",
+      "sota:whyNow": "Daily Jus 14 Oct 2026. NEW vs PASS 09-29→10-14.",
+      "sota:geo": [
+        "FR",
+        "Global"
+      ],
+      "sota:topics": [
+        "arbitraje",
+        "research",
+        "jus-mundi",
+        "benchmarks",
+        "arbitrators"
+      ],
+      "sota:summaryP1": "Jus Mundi presentó el 14 de octubre de 2026 Jus AI 3, la nueva generación del motor de research que alimenta todos los modos de Jus AI, según Daily Jus (Ayushman Dash, Head of Data and AI). Frente al pipeline lineal «recuperar → razonar → responder», Jus AI 3 evalúa lo encontrado, detecta huecos y lanza follow-up o verificación dirigida antes de contestar; en preguntas simples omite pasos innecesarios y responde antes, en las complejas profundiza. El stack propietario Tenet está orientado a arbitraje internacional. Benchmark interno sobre 114 prompts frente a Jus AI 2: 19% más rápido el time to first answer, 10% más de scores perfectos de relevancy y 8% más de faithfulness (escala 1–5). Anuncia para este trimestre arbitrator search y due diligence conversacional sobre datos de Jus Mundi y Jus Connect (ejemplo: presidentes de tribunal en español para un ICC mining dispute con parte latinoamericana y sede en París).",
+      "sota:summaryP2": "Para un equipo de international arbitration, el salto útil no es otro chat sino un motor que sigue el hilo entre tratados, laudos y comentario como haría un asociado cuidadoso. La hoja de ruta de selección de árbitros concentraría en un solo sitio lo que hoy se reparte entre bases y spreadsheets. Matiz: métricas y benchmark son del proveedor; no hay evaluación independiente publicada en la pieza.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://dailyjus.com/news/2026/10/introducing-jus-ai-3-faster-sharper-and-better-grounded-legal-research",
+          "schema:name": "Introducing Jus AI 3: Faster, Sharper and Better-Grounded Legal Research",
+          "sota:sourceId": "src-daily-jus"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jus-mundi"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jus-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ayushman-dash"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-daily-jus"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-scorealytics-ceo-jennie-morawetz",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-scorealytics-ceo-jennie-morawetz",
+      "schema:headline": "SCOREalytics nombra CEO a Jennie Morawetz (ex Kirkland): «un montón de PDFs no es un data set»",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "SCOREalytics, la compañía detrás de SCORE (Strategic Compliance, Oversight & Risk Evaluator), nombró esta semana CEO a Jennie Morawetz, ex partner de Kirkland & Ellis donde ayudó a construir el Sustainability Practice Group, según entrevista de LawNext (Bob Ambrogi) del 14 de octubre de 2026. Morawetz llevaba un año como chief strategy officer y general counsel; el paso al CEO, dice, fue natural tras la salida del anterior. La plataforma monitoriza reguladores (no solo alertas de despachos o búsquedas web) en unos 30 países, más tribunales y enforcement, con foco actual en energy/climate, environmental, labor/human rights, corporate governance e information governance (ciber, responsible AI, privacy). Cada novedad recibe un applicability score (¿cae la entidad en el scope?) y un priority score (si aplica, ¿cuánto duele?: enforcement, multas, plazos, carga). Usa scrapers, LLMs y un equipo offshore cuando falla la captura; «antagonist agents» multi-LLM envían desacuerdos a humanos. Clientes: despachos, in-house de multinacionales y algo de PE. Prioridad inmediata: producto, data set y go-to-market; exploran MCP para no sumar otra plataforma.",
+      "schema:articleBody": "SCOREalytics, la compañía detrás de SCORE (Strategic Compliance, Oversight & Risk Evaluator), nombró esta semana CEO a Jennie Morawetz, ex partner de Kirkland & Ellis donde ayudó a construir el Sustainability Practice Group, según entrevista de LawNext (Bob Ambrogi) del 14 de octubre de 2026. Morawetz llevaba un año como chief strategy officer y general counsel; el paso al CEO, dice, fue natural tras la salida del anterior. La plataforma monitoriza reguladores (no solo alertas de despachos o búsquedas web) en unos 30 países, más tribunales y enforcement, con foco actual en energy/climate, environmental, labor/human rights, corporate governance e information governance (ciber, responsible AI, privacy). Cada novedad recibe un applicability score (¿cae la entidad en el scope?) y un priority score (si aplica, ¿cuánto duele?: enforcement, multas, plazos, carga). Usa scrapers, LLMs y un equipo offshore cuando falla la captura; «antagonist agents» multi-LLM envían desacuerdos a humanos. Clientes: despachos, in-house de multinacionales y algo de PE. Prioridad inmediata: producto, data set y go-to-market; exploran MCP para no sumar otra plataforma.\n\nPara un GC o un socio de regulatory, el posicionamiento («no queremos ser el OS jurídico; queremos ser el data set») encaja con la fatiga de plataformas y con el patrón MCP de la semana. La distinción applicability/priority es operativamente útil si el perfil de entidad está bien curado. Matiz: es entrevista al nuevo CEO en LawNext; sin ARR, headcount ni benchmarks públicos de precisión de los scores.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Regulatory intelligence con doble score (scope vs prioridad) liderada por una practitioner ex-Big Law.",
+      "sota:whyNow": "LawNext 14 Oct 2026. NEW vs PASS 09-29→10-14.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "regtech",
+        "compliance",
+        "gobernanza",
+        "mcp",
+        "liderazgo"
+      ],
+      "sota:summaryP1": "SCOREalytics, la compañía detrás de SCORE (Strategic Compliance, Oversight & Risk Evaluator), nombró esta semana CEO a Jennie Morawetz, ex partner de Kirkland & Ellis donde ayudó a construir el Sustainability Practice Group, según entrevista de LawNext (Bob Ambrogi) del 14 de octubre de 2026. Morawetz llevaba un año como chief strategy officer y general counsel; el paso al CEO, dice, fue natural tras la salida del anterior. La plataforma monitoriza reguladores (no solo alertas de despachos o búsquedas web) en unos 30 países, más tribunales y enforcement, con foco actual en energy/climate, environmental, labor/human rights, corporate governance e information governance (ciber, responsible AI, privacy). Cada novedad recibe un applicability score (¿cae la entidad en el scope?) y un priority score (si aplica, ¿cuánto duele?: enforcement, multas, plazos, carga). Usa scrapers, LLMs y un equipo offshore cuando falla la captura; «antagonist agents» multi-LLM envían desacuerdos a humanos. Clientes: despachos, in-house de multinacionales y algo de PE. Prioridad inmediata: producto, data set y go-to-market; exploran MCP para no sumar otra plataforma.",
+      "sota:summaryP2": "Para un GC o un socio de regulatory, el posicionamiento («no queremos ser el OS jurídico; queremos ser el data set») encaja con la fatiga de plataformas y con el patrón MCP de la semana. La distinción applicability/priority es operativamente útil si el perfil de entidad está bien curado. Matiz: es entrevista al nuevo CEO en LawNext; sin ARR, headcount ni benchmarks públicos de precisión de los scores.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
+          "schema:name": "New SCOREalytics CEO Jennie Morawetz on Building Regulatory Intelligence Lawyers Can Rely On",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-scorealytics"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jennie-morawetz"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-kirkland-ellis"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-silent-ransom-luna-moth-despachos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-silent-ransom-luna-moth-despachos",
+      "schema:headline": "Silent Ransom Group trata la extorsión a despachos como un negocio: chat, offer, contract, gold",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal Futures (15 de octubre de 2026) resume el informe de Check Point Inside the Luna Moth Files: Reconstructing Silent Ransom Group’s Operating Model, basado en una filtración atribuida a Silent Ransom Group (SRG; también Chatty Spider / Luna Moth). El grupo, dice el análisis, no depende en general de cifrar sistemas: usa ingeniería social e impersonación de IT interno para robar información sensible y extorsionar. Etiqueta las fases de negociación como chat, offer, contract y gold; organiza callers, operadores en remoto y negotiators como un servicio. El FBI alertó en mayo de que SRG apuntaba activamente a despachos. Según Check Point, 42 de las 50 víctimas más recientemente observadas eran law firms, con referencias a ambicionar el top 100 global. El material filtrado es unverified y en partes inconsistente; describe scripts de ansiedad/reaseguro y un proyecto de «fake employee» alineado con reportes del FBI sobre acceso físico fingiendo ser IT.",
+      "schema:articleBody": "Legal Futures (15 de octubre de 2026) resume el informe de Check Point Inside the Luna Moth Files: Reconstructing Silent Ransom Group’s Operating Model, basado en una filtración atribuida a Silent Ransom Group (SRG; también Chatty Spider / Luna Moth). El grupo, dice el análisis, no depende en general de cifrar sistemas: usa ingeniería social e impersonación de IT interno para robar información sensible y extorsionar. Etiqueta las fases de negociación como chat, offer, contract y gold; organiza callers, operadores en remoto y negotiators como un servicio. El FBI alertó en mayo de que SRG apuntaba activamente a despachos. Según Check Point, 42 de las 50 víctimas más recientemente observadas eran law firms, con referencias a ambicionar el top 100 global. El material filtrado es unverified y en partes inconsistente; describe scripts de ansiedad/reaseguro y un proyecto de «fake employee» alineado con reportes del FBI sobre acceso físico fingiendo ser IT.\n\nPara un CISO o un risk partner de un despacho, el takeaway no es «ransomware clásico» sino un playbook de confianza humana: caller creíble, acceso remoto como «chequeo de seguridad» y presión sobre datos robados. Merece revisar con IT los playbooks de helpdesk, verificación out-of-band y qué pasa si alguien pide AnyDesk/TeamViewer «desde dentro». Matiz: informe de vendor de ciberseguridad sobre material leaked no verificado de forma independiente en la pieza de Legal Futures.",
+      "sota:type": "other",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Modelo operativo documentado de un grupo que industrializa la extorsión a law firms vía social engineering, no cifrado.",
+      "sota:whyNow": "Legal Futures 15 Oct 2026 sobre informe Check Point / Luna Moth Files. NEW vs PASS 09-29→10-14.",
+      "sota:geo": [
+        "GB",
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "ciberseguridad",
+        "despachos",
+        "extorsion",
+        "social-engineering",
+        "riesgo"
+      ],
+      "sota:summaryP1": "Legal Futures (15 de octubre de 2026) resume el informe de Check Point Inside the Luna Moth Files: Reconstructing Silent Ransom Group’s Operating Model, basado en una filtración atribuida a Silent Ransom Group (SRG; también Chatty Spider / Luna Moth). El grupo, dice el análisis, no depende en general de cifrar sistemas: usa ingeniería social e impersonación de IT interno para robar información sensible y extorsionar. Etiqueta las fases de negociación como chat, offer, contract y gold; organiza callers, operadores en remoto y negotiators como un servicio. El FBI alertó en mayo de que SRG apuntaba activamente a despachos. Según Check Point, 42 de las 50 víctimas más recientemente observadas eran law firms, con referencias a ambicionar el top 100 global. El material filtrado es unverified y en partes inconsistente; describe scripts de ansiedad/reaseguro y un proyecto de «fake employee» alineado con reportes del FBI sobre acceso físico fingiendo ser IT.",
+      "sota:summaryP2": "Para un CISO o un risk partner de un despacho, el takeaway no es «ransomware clásico» sino un playbook de confianza humana: caller creíble, acceso remoto como «chequeo de seguridad» y presión sobre datos robados. Merece revisar con IT los playbooks de helpdesk, verificación out-of-band y qué pasa si alguien pide AnyDesk/TeamViewer «desde dentro». Matiz: informe de vendor de ciberseguridad sobre material leaked no verificado de forma independiente en la pieza de Legal Futures.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/cyber-criminals-taking-commercial-approach-to-attacks-on-law-firms",
+          "schema:name": "Cyber criminals taking “commercial approach” to attacks on law firms",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-silent-ransom-group"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-check-point"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-introhive-encuesta-bd-ia-datos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-introhive-encuesta-bd-ia-datos",
+      "schema:headline": "Introhive: los partners quieren IA para BD, pero el 78% no puede actuar sobre sus datos de relación",
+      "schema:datePublished": "2026-10-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LawNext (13 de octubre de 2026) recoge la encuesta AI and Business Development in Law and Accounting Firms de Introhive (con Thinktiv): 123 partners (42 legal, 42 accounting, 39 otros professional services). El 78% dice que los datos de relación de su firma son difíciles de activar; entre quienes ya usan IA para business development, el 68% solo emplea herramientas generalistas (ChatGPT, Copilot, Gemini) sin acceso a esos datos, con satisfacción 6,7/10. El 47% elige «surface new business opportunities» como la capacidad BD semanal más deseada. El 57% sitúa a su firma en etapas 1–2 de madurez BD, pero el 84% espera alcanzar etapas 3–4 en 18–24 meses. Solo el 22% afirma tener una estrategia de IA fully developed; el 63% no tiene forma de medir ROI de BD ligada a revenue. Lee Blakemore (CEO) insiste en MCP como vía «agnóstica» para consultar relationship data desde Claude, Harvey, ChatGPT o Copilot bajo permisos existentes, y avisa: desplegar IA sin datos accionables es tirar dinero.",
+      "schema:articleBody": "LawNext (13 de octubre de 2026) recoge la encuesta AI and Business Development in Law and Accounting Firms de Introhive (con Thinktiv): 123 partners (42 legal, 42 accounting, 39 otros professional services). El 78% dice que los datos de relación de su firma son difíciles de activar; entre quienes ya usan IA para business development, el 68% solo emplea herramientas generalistas (ChatGPT, Copilot, Gemini) sin acceso a esos datos, con satisfacción 6,7/10. El 47% elige «surface new business opportunities» como la capacidad BD semanal más deseada. El 57% sitúa a su firma en etapas 1–2 de madurez BD, pero el 84% espera alcanzar etapas 3–4 en 18–24 meses. Solo el 22% afirma tener una estrategia de IA fully developed; el 63% no tiene forma de medir ROI de BD ligada a revenue. Lee Blakemore (CEO) insiste en MCP como vía «agnóstica» para consultar relationship data desde Claude, Harvey, ChatGPT o Copilot bajo permisos existentes, y avisa: desplegar IA sin datos accionables es tirar dinero.\n\nPara un CMO legal o un socio de BD, el informe pone cifra a una intuición: la prisa por el chatbot no sustituye CRM limpio ni change management. MCP aparece otra vez como tubería, no como producto final. Matiz: encuesta encargada por Introhive (vendor de relationship intelligence); muestra moderada y sesgo de auto-selección posibles.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos frescos sobre la desalineación entre ambición de BD con IA y calidad/accesibilidad de relationship data.",
+      "sota:whyNow": "LawNext 13 Oct 2026 (no entró en PASS 14.10.26). NEW vs PASS 09-29→10-14.",
+      "sota:geo": [
+        "US",
+        "CA",
+        "Global"
+      ],
+      "sota:topics": [
+        "bd",
+        "crm",
+        "mcp",
+        "datos",
+        "encuestas"
+      ],
+      "sota:summaryP1": "LawNext (13 de octubre de 2026) recoge la encuesta AI and Business Development in Law and Accounting Firms de Introhive (con Thinktiv): 123 partners (42 legal, 42 accounting, 39 otros professional services). El 78% dice que los datos de relación de su firma son difíciles de activar; entre quienes ya usan IA para business development, el 68% solo emplea herramientas generalistas (ChatGPT, Copilot, Gemini) sin acceso a esos datos, con satisfacción 6,7/10. El 47% elige «surface new business opportunities» como la capacidad BD semanal más deseada. El 57% sitúa a su firma en etapas 1–2 de madurez BD, pero el 84% espera alcanzar etapas 3–4 en 18–24 meses. Solo el 22% afirma tener una estrategia de IA fully developed; el 63% no tiene forma de medir ROI de BD ligada a revenue. Lee Blakemore (CEO) insiste en MCP como vía «agnóstica» para consultar relationship data desde Claude, Harvey, ChatGPT o Copilot bajo permisos existentes, y avisa: desplegar IA sin datos accionables es tirar dinero.",
+      "sota:summaryP2": "Para un CMO legal o un socio de BD, el informe pone cifra a una intuición: la prisa por el chatbot no sustituye CRM limpio ni change management. MCP aparece otra vez como tubería, no como producto final. Matiz: encuesta encargada por Introhive (vendor de relationship intelligence); muestra moderada y sesgo de auto-selección posibles.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/partners-want-ai-to-help-them-find-new-business-but-most-are-running-it-on-data-they-cant-use-introhive-survey-finds.html",
+          "schema:name": "Partners Want AI to Help Them Find New Business, But Most Are Running It on Data They Can’t Use, Introhive Survey Finds",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-introhive"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lee-blakemore"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-pricing-consumo-ia-despachos-law-com",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-pricing-consumo-ia-despachos-law-com",
+      "schema:headline": "Law.com: los despachos se preparan para el pricing por consumo de IA tras el giro de Anthropic",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legaltech News (Law.com) publicó el 14 de octubre de 2026 un reportaje de Ella Sherman sobre cómo los despachos empiezan a planear el impacto de pasar de licencias por asiento (seat-based) a pricing por consumo (consumption-based) en IA. Anthropic y otras tecnológicas han movido su tarificación en esa dirección este año, y la pieza señala que vendors de legal tech podrían seguir el mismo camino, encareciendo el gasto tecnológico. Entre las respuestas que anticipan las firmas, Troutman Pepper Locke aparece planificando que sus herramientas internas tengan mecanismos para enrutar trabajo a distintos modelos antes de que el cambio de pricing se consolide. La incertidumbre, dice el texto, se acentuó cuando Anthropic inició ese desplazamiento.",
+      "schema:articleBody": "Legaltech News (Law.com) publicó el 14 de octubre de 2026 un reportaje de Ella Sherman sobre cómo los despachos empiezan a planear el impacto de pasar de licencias por asiento (seat-based) a pricing por consumo (consumption-based) en IA. Anthropic y otras tecnológicas han movido su tarificación en esa dirección este año, y la pieza señala que vendors de legal tech podrían seguir el mismo camino, encareciendo el gasto tecnológico. Entre las respuestas que anticipan las firmas, Troutman Pepper Locke aparece planificando que sus herramientas internas tengan mecanismos para enrutar trabajo a distintos modelos antes de que el cambio de pricing se consolide. La incertidumbre, dice el texto, se acentuó cuando Anthropic inició ese desplazamiento.\n\nPara un CIO legal o un pricing partner, el paralelismo con los credit controls de Jylo 3.0 (ayer) es inmediato: sin routing, presupuestos y visibilidad de tokens, el modelo «premium por defecto» dispara la factura. Pregunta de compra a cualquier vendor: ¿facturan por seat, por token, por matter, y quién puede elegir el modelo? Matiz: Law.com está tras paywall; el resumen se basa en el lead y los bullets abiertos de la pieza, sin el desarrollo completo del reportaje.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Señal de mercado: el coste variable de la IA frontier obliga a arquitectura multi-modelo dentro del despacho.",
+      "sota:whyNow": "Law.com/Legaltech News 14 Oct 2026. NEW vs Jylo credit management (14.10.26) y PASS 09-29→10-14.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "pricing",
+        "consumo",
+        "anthropic",
+        "costes",
+        "gobernanza"
+      ],
+      "sota:summaryP1": "Legaltech News (Law.com) publicó el 14 de octubre de 2026 un reportaje de Ella Sherman sobre cómo los despachos empiezan a planear el impacto de pasar de licencias por asiento (seat-based) a pricing por consumo (consumption-based) en IA. Anthropic y otras tecnológicas han movido su tarificación en esa dirección este año, y la pieza señala que vendors de legal tech podrían seguir el mismo camino, encareciendo el gasto tecnológico. Entre las respuestas que anticipan las firmas, Troutman Pepper Locke aparece planificando que sus herramientas internas tengan mecanismos para enrutar trabajo a distintos modelos antes de que el cambio de pricing se consolide. La incertidumbre, dice el texto, se acentuó cuando Anthropic inició ese desplazamiento.",
+      "sota:summaryP2": "Para un CIO legal o un pricing partner, el paralelismo con los credit controls de Jylo 3.0 (ayer) es inmediato: sin routing, presupuestos y visibilidad de tokens, el modelo «premium por defecto» dispara la factura. Pregunta de compra a cualquier vendor: ¿facturan por seat, por token, por matter, y quién puede elegir el modelo? Matiz: Law.com está tras paywall; el resumen se basa en el lead y los bullets abiertos de la pieza, sin el desarrollo completo del reportaje.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/14/how-law-firms-are-strategizing-for-consumption-based-ai-pricing-/",
+          "schema:name": "How Law Firms Are Strategizing for Consumption-Based AI Pricing",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-troutman-pepper-locke"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-15-sra-caroline-corby-nueva-presidenta",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-15-sra-caroline-corby-nueva-presidenta",
+      "schema:headline": "Caroline Corby (CPS y Professional Standards Authority) será la nueva chair de la SRA",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal Futures informó el 14 de octubre de 2026 de que Caroline Corby, chair de la Crown Prosecution Service y de la Professional Standards Authority (supervisora de reguladores sanitarios), ha sido nombrada nueva chair de la Solicitors Regulation Authority (SRA). Tomará el cargo el 23 de noviembre, sucediendo a Anna Bradley, cuyos mandatos se habían prorrogado en 2024 porque el regulador «no estaba en steady state». Retribución: 105.000 libras al año, al menos dos días por semana. Corby, 61 años, viene de roles públicos (Parole Board, PSA, CPS) y del sector vivienda (Peabody). Sarah Rapson (CEO) destaca su experiencia en regulación y transformación; Brett Dixon (incoming Law Society president) pide restaurar la confianza de público y solicitors. La SRA permanece bajo tres medidas del Legal Services Board tras Axiom Ince y SSB Law.",
+      "schema:articleBody": "Legal Futures informó el 14 de octubre de 2026 de que Caroline Corby, chair de la Crown Prosecution Service y de la Professional Standards Authority (supervisora de reguladores sanitarios), ha sido nombrada nueva chair de la Solicitors Regulation Authority (SRA). Tomará el cargo el 23 de noviembre, sucediendo a Anna Bradley, cuyos mandatos se habían prorrogado en 2024 porque el regulador «no estaba en steady state». Retribución: 105.000 libras al año, al menos dos días por semana. Corby, 61 años, viene de roles públicos (Parole Board, PSA, CPS) y del sector vivienda (Peabody). Sarah Rapson (CEO) destaca su experiencia en regulación y transformación; Brett Dixon (incoming Law Society president) pide restaurar la confianza de público y solicitors. La SRA permanece bajo tres medidas del Legal Services Board tras Axiom Ince y SSB Law.\n\nPara un COLP/COFA o un socio de compliance UK, el relevo importa menos por el nombre que por la agenda: modernizar un regulador bajo sanción pública mientras el sector discute IA agéntica y ciber. No es una pieza de producto LegalTech, pero fija el tono del supervisor que marcará enforcement y orientación a despachos. Matiz: nombramiento institucional; sin detalle aún de prioridades concretas de Corby sobre tecnología o AI.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Relevo al frente del regulador de solicitors UK en pleno ciclo de medidas LSB y presión de confianza.",
+      "sota:whyNow": "Legal Futures 14 Oct 2026. NEW vs PASS 09-29→10-14 (pausa COLP/COFA de octubre no cubría el chair).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "sra",
+        "regulacion",
+        "solicitors",
+        "compliance",
+        "uk"
+      ],
+      "sota:summaryP1": "Legal Futures informó el 14 de octubre de 2026 de que Caroline Corby, chair de la Crown Prosecution Service y de la Professional Standards Authority (supervisora de reguladores sanitarios), ha sido nombrada nueva chair de la Solicitors Regulation Authority (SRA). Tomará el cargo el 23 de noviembre, sucediendo a Anna Bradley, cuyos mandatos se habían prorrogado en 2024 porque el regulador «no estaba en steady state». Retribución: 105.000 libras al año, al menos dos días por semana. Corby, 61 años, viene de roles públicos (Parole Board, PSA, CPS) y del sector vivienda (Peabody). Sarah Rapson (CEO) destaca su experiencia en regulación y transformación; Brett Dixon (incoming Law Society president) pide restaurar la confianza de público y solicitors. La SRA permanece bajo tres medidas del Legal Services Board tras Axiom Ince y SSB Law.",
+      "sota:summaryP2": "Para un COLP/COFA o un socio de compliance UK, el relevo importa menos por el nombre que por la agenda: modernizar un regulador bajo sanción pública mientras el sector discute IA agéntica y ciber. No es una pieza de producto LegalTech, pero fija el tono del supervisor que marcará enforcement y orientación a despachos. Matiz: nombramiento institucional; sin detalle aún de prioridades concretas de Corby sobre tecnología o AI.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/head-of-cps-and-health-regulator-named-new-sra-chair",
+          "schema:name": "Head of CPS and health regulator named new SRA chair",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-3-geeks-and-a-law-blog",
       "@type": "schema:Thing",
       "schema:identifier": "ent-3-geeks-and-a-law-blog",
@@ -7449,6 +7938,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ayushman-dash",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ayushman-dash",
+      "schema:name": "Ayushman Dash",
+      "sota:entityType": "person",
+      "schema:url": "https://dailyjus.com/news/2026/10/introducing-jus-ai-3-faster-sharper-and-better-grounded-legal-research",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bar-and-bench",
       "@type": "schema:Thing",
       "schema:identifier": "ent-bar-and-bench",
@@ -7577,12 +8075,30 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-carvana",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-carvana",
+      "schema:name": "Carvana",
+      "sota:entityType": "company",
+      "schema:url": "https://www.carvana.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-casepoint",
       "@type": "schema:Thing",
       "schema:identifier": "ent-casepoint",
       "schema:name": "Casepoint",
       "sota:entityType": "vendor",
       "schema:url": "https://www.casepoint.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-check-point",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-check-point",
+      "schema:name": "Check Point",
+      "sota:entityType": "company",
+      "schema:url": "https://www.checkpoint.com/",
       "sota:stub": true
     },
     {
@@ -7685,6 +8201,24 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-daily-jus",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-daily-jus",
+      "schema:name": "Daily Jus",
+      "sota:entityType": "media",
+      "schema:url": "https://dailyjus.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dentsu",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-dentsu",
+      "schema:name": "Dentsu",
+      "sota:entityType": "company",
+      "schema:url": "https://www.dentsu.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-diario-juridico",
       "@type": "schema:Thing",
       "schema:identifier": "ent-diario-juridico",
@@ -7770,6 +8304,15 @@
       "schema:name": "Eric Redmond",
       "sota:entityType": "person",
       "schema:url": "https://www.permeta.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ethan-klingsberg",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ethan-klingsberg",
+      "schema:name": "Ethan Klingsberg",
+      "sota:entityType": "person",
+      "schema:url": "https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/",
       "sota:stub": true
     },
     {
@@ -7898,6 +8441,24 @@
       "schema:url": "https://free.law/"
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-freshfields",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-freshfields",
+      "schema:name": "Freshfields",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.freshfields.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-freshfields-lab",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-freshfields-lab",
+      "schema:name": "Freshfields Lab",
+      "sota:entityType": "product",
+      "schema:url": "https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ftc",
       "@type": "schema:Thing",
       "schema:identifier": "ent-ftc",
@@ -7925,6 +8486,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ge-aerospace",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ge-aerospace",
+      "schema:name": "GE Aerospace",
+      "sota:entityType": "company",
+      "schema:url": "https://www.geaerospace.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-glm-legal",
       "@type": "schema:Thing",
       "schema:identifier": "ent-glm-legal",
@@ -7949,6 +8519,15 @@
       "schema:name": "Goodlawyer",
       "sota:entityType": "company",
       "schema:url": "https://www.goodlawyer.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-goodwin",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-goodwin",
+      "schema:name": "Goodwin",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.goodwinlaw.com/",
       "sota:stub": true
     },
     {
@@ -7994,6 +8573,15 @@
       "schema:name": "Harvey",
       "sota:entityType": "vendor",
       "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey-intake",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey-intake",
+      "schema:name": "Harvey Intake",
+      "sota:entityType": "product",
+      "schema:url": "https://www.harvey.ai/blog/building-a-frontier-in-house-organization",
       "sota:stub": true
     },
     {
@@ -8072,6 +8660,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-introhive",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-introhive",
+      "schema:name": "Introhive",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.introhive.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iqvia",
       "@type": "schema:Thing",
       "schema:identifier": "ent-iqvia",
@@ -8098,12 +8695,48 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jennie-morawetz",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-jennie-morawetz",
+      "schema:name": "Jennie Morawetz",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-john-labarre",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-john-labarre",
+      "schema:name": "John LaBarre",
+      "sota:entityType": "person",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jove-advocacia-catalunya",
       "@type": "schema:Thing",
       "schema:identifier": "ent-jove-advocacia-catalunya",
       "schema:name": "Jove Advocacia de Catalunya (JAC)",
       "sota:entityType": "association",
       "schema:url": "https://www.jac.cat/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jus-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-jus-ai",
+      "schema:name": "Jus AI",
+      "sota:entityType": "product",
+      "schema:url": "https://dailyjus.com/news/2026/10/introducing-jus-ai-3-faster-sharper-and-better-grounded-legal-research",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jus-mundi",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-jus-mundi",
+      "schema:name": "Jus Mundi",
+      "sota:entityType": "vendor",
+      "schema:url": "https://jusmundi.com/",
       "sota:stub": true
     },
     {
@@ -8131,6 +8764,15 @@
       "schema:name": "Kimball Dean Parker",
       "sota:entityType": "person",
       "schema:url": "https://www.sixfifty.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-kirkland-ellis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-kirkland-ellis",
+      "schema:name": "Kirkland & Ellis",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.kirkland.com/",
       "sota:stub": true
     },
     {
@@ -8219,6 +8861,15 @@
       "schema:identifier": "ent-learned-hand",
       "schema:name": "Learned Hand",
       "sota:entityType": "vendor",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lee-blakemore",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lee-blakemore",
+      "schema:name": "Lee Blakemore",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lawnext.com/2026/10/partners-want-ai-to-help-them-find-new-business-but-most-are-running-it-on-data-they-cant-use-introhive-survey-finds.html",
       "sota:stub": true
     },
     {
@@ -8320,6 +8971,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-leon-johnson",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-leon-johnson",
+      "schema:name": "Leon Johnson",
+      "sota:entityType": "person",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-levelpath",
       "@type": "schema:Thing",
       "schema:identifier": "ent-levelpath",
@@ -8389,6 +9049,15 @@
       "schema:name": "Magnar",
       "sota:entityType": "vendor",
       "schema:url": "https://www.magnar.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-marco-henri",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-marco-henri",
+      "schema:name": "Marco Henri",
+      "sota:entityType": "person",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/",
       "sota:stub": true
     },
     {
@@ -8524,6 +9193,15 @@
       "schema:name": "Offit Kurman",
       "sota:entityType": "law_firm",
       "schema:url": "https://www.offitkurman.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-omnilex",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-omnilex",
+      "schema:name": "Omnilex",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/",
       "sota:stub": true
     },
     {
@@ -8742,12 +9420,39 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-scorealytics",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-scorealytics",
+      "schema:name": "SCOREalytics",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-seena-ghebleh",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-seena-ghebleh",
+      "schema:name": "Seena Ghebleh",
+      "sota:entityType": "person",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-shawn-curran",
       "@type": "schema:Thing",
       "schema:identifier": "ent-shawn-curran",
       "schema:name": "Shawn Curran",
       "sota:entityType": "person",
       "schema:url": "https://legaltechnology.com/exclusive-jylo-unveils-3-0-with-agentic-workflows-microsoft-add-ins-and-ai-spend-controls/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-silent-ransom-group",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-silent-ransom-group",
+      "schema:name": "Silent Ransom Group",
+      "sota:entityType": "other",
+      "schema:url": "https://www.legalfutures.co.uk/latest-news/cyber-criminals-taking-commercial-approach-to-attacks-on-law-firms",
       "sota:stub": true
     },
     {
@@ -8928,6 +9633,15 @@
       "schema:name": "Tribunal Supremo Popular de China",
       "sota:entityType": "court",
       "schema:url": "https://www.court.gov.cn/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-troutman-pepper-locke",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-troutman-pepper-locke",
+      "schema:name": "Troutman Pepper Locke",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.law.com/legaltechnews/2026/10/14/how-law-firms-are-strategizing-for-consumption-based-ai-pricing-/",
       "sota:stub": true
     },
     {

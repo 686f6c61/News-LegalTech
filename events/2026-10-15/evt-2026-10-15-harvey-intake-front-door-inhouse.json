@@ -1,0 +1,59 @@
+{
+  "id": "evt-2026-10-15-harvey-intake-front-door-inhouse",
+  "date": "2026-10-14",
+  "type": "product",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "Harvey lanza Intake: puerta de entrada in-house con first-pass de contratos vía playbooks",
+  "short_title": "Harvey Intake: front door in-house con first-pass de contratos",
+  "standfirst": "Un día después de Legora. Design partners: Carvana, GE Aerospace y Dentsu. Early access este mes.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "In-house",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Harvey lanzó el 14 de octubre de 2026 Intake, su legal front door (puerta de entrada jurídica) para equipos in-house, según Artificial Lawyer y el propio blog de producto. Extiende Contract Intelligence: captura peticiones desde las herramientas que ya usa el negocio (email, Slack, Teams, Jira, ServiceNow, Salesforce y otras), las enruta al agente, solución o abogado correcto bajo las reglas del equipo legal, resuelve las rutinarias y hace un first-pass (primera pasada) del resto aplicando playbooks del departamento a contratos entrantes. Early access comienza en octubre. Carvana, GE Aerospace y Dentsu figuran como design partners; Seena Ghebleh (Senior Corporate Counsel, Carvana) describe que, fuera de horario o en reuniones, Intake puede aplicar el playbook y dejar la revisión inicial lista para su sign-off. John LaBarre (CLO de Harvey) lo enmarca como una sola puerta de entrada para el soporte legal. Harvey dice trabajar ya con 1.600 equipos in-house, incluidos 5 de los Fortune 10. Artificial Lawyer subraya la coincidencia: Legora había lanzado su propio Intake el día anterior.",
+  "summary_p2": "Para un GC, el mensaje de la semana es claro: el mercado de la «puerta de entrada» in-house se ha convertido en campo de batalla entre plataformas anchas (Harvey, Legora) y especialistas. La diferencia que AL destaca en Harvey es el first-pass contractual con playbooks propios, no solo el triaje. Antes de un POC, conviene fijar qué tipos de request se resuelven solos, dónde queda el human-in-the-loop (humano en el bucle) y cómo se audita lo enviado al negocio. Matiz: cifras de footprint in-house y el relato de design partners vienen del vendor y de cobertura AL; no hay métricas públicas de tiempo de ciclo ni de precisión del first-pass.",
+  "why_sota": "Front door in-house de un vendor frontier que añade first-pass contractual con playbooks al triaje y routing.",
+  "why_now": "AL + blog Harvey 14 Oct 2026; NEW vs Legora Intake (14.10.26 / 13 oct) y PASS 09-29→10-14.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "inhouse",
+    "intake",
+    "contratos",
+    "agentes",
+    "playbooks"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/",
+      "cited_title": "Harvey Launches Intake for Inhouse Teams",
+      "accessed": "2026-10-15"
+    },
+    {
+      "source_id": "src-harvey",
+      "url": "https://www.harvey.ai/blog/building-a-frontier-in-house-organization",
+      "cited_title": "Building a Frontier In-House Organization",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-harvey-intake",
+    "ent-john-labarre",
+    "ent-seena-ghebleh",
+    "ent-carvana",
+    "ent-ge-aerospace",
+    "ent-dentsu",
+    "ent-legora",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

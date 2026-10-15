@@ -1,0 +1,62 @@
+scan_id: full-radar-2026-10-15
+date: '2026-10-15'
+release: 15.10.26
+count: 9
+ai_share: 0.78
+dedup_against: events/2026-09-29 → 2026-10-14 + scans PASS
+event_ids:
+- evt-2026-10-15-harvey-intake-front-door-inhouse
+- evt-2026-10-15-omnilex-leon-johnson-brazo-us
+- evt-2026-10-15-freshfields-lab-spinoff-discusion
+- evt-2026-10-15-jus-ai-3-research-adaptativo-arbitraje
+- evt-2026-10-15-scorealytics-ceo-jennie-morawetz
+- evt-2026-10-15-silent-ransom-luna-moth-despachos
+- evt-2026-10-15-introhive-encuesta-bd-ia-datos
+- evt-2026-10-15-pricing-consumo-ia-despachos-law-com
+- evt-2026-10-15-sra-caroline-corby-nueva-presidenta
+events:
+- id: evt-2026-10-15-harvey-intake-front-door-inhouse
+  sota_score: 8.2
+  ai_legaltech: true
+  title: 'Harvey lanza Intake: puerta de entrada in-house con first-pass de contratos
+    vía playbooks'
+- id: evt-2026-10-15-omnilex-leon-johnson-brazo-us
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Leon Johnson (ex Goodwin y Kirkland) abre el brazo US de Omnilex, despacho
+    AI-native de Zúrich
+- id: evt-2026-10-15-freshfields-lab-spinoff-discusion
+  sota_score: 7.5
+  ai_legaltech: true
+  title: Freshfields sopesa un spin-off multimillonario de Freshfields Lab, su unidad
+    de IA
+- id: evt-2026-10-15-jus-ai-3-research-adaptativo-arbitraje
+  sota_score: 7.1
+  ai_legaltech: true
+  title: 'Jus Mundi lanza Jus AI 3: research adaptativo que vuelve a las fuentes antes
+    de responder'
+- id: evt-2026-10-15-scorealytics-ceo-jennie-morawetz
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'SCOREalytics nombra CEO a Jennie Morawetz (ex Kirkland): «un montón de PDFs
+    no es un data set»'
+- id: evt-2026-10-15-silent-ransom-luna-moth-despachos
+  sota_score: 7.3
+  ai_legaltech: false
+  title: 'Silent Ransom Group trata la extorsión a despachos como un negocio: chat,
+    offer, contract, gold'
+- id: evt-2026-10-15-introhive-encuesta-bd-ia-datos
+  sota_score: 6.7
+  ai_legaltech: true
+  title: 'Introhive: los partners quieren IA para BD, pero el 78% no puede actuar
+    sobre sus datos de relación'
+- id: evt-2026-10-15-pricing-consumo-ia-despachos-law-com
+  sota_score: 6.8
+  ai_legaltech: true
+  title: 'Law.com: los despachos se preparan para el pricing por consumo de IA tras
+    el giro de Anthropic'
+- id: evt-2026-10-15-sra-caroline-corby-nueva-presidenta
+  sota_score: 6.2
+  ai_legaltech: false
+  title: Caroline Corby (CPS y Professional Standards Authority) será la nueva chair
+    de la SRA

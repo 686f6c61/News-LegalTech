@@ -1,0 +1,12 @@
+id: ent-jus-ai
+name: Jus AI
+type: product
+url: https://dailyjus.com/news/2026/10/introducing-jus-ai-3-faster-sharper-and-better-grounded-legal-research
+geo:
+- FR
+- Global
+aliases:
+- Jus AI 3
+notes: Motor de research de Jus Mundi para arbitraje; versión 3 con research adaptativo
+  (oct 2026). Ficha mínima.
+stub: true

@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-10-15-jus-ai-3-research-adaptativo-arbitraje",
+  "date": "2026-10-14",
+  "type": "product",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Jus Mundi lanza Jus AI 3: research adaptativo que vuelve a las fuentes antes de responder",
+  "short_title": "Jus AI 3: research adaptativo para arbitraje internacional",
+  "standfirst": "Benchmark interno: +19% time-to-first-answer, +10% relevancy perfecta, +8% faithfulness. Base para arbitrator search.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Arbitraje",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Jus Mundi presentó el 14 de octubre de 2026 Jus AI 3, la nueva generación del motor de research que alimenta todos los modos de Jus AI, según Daily Jus (Ayushman Dash, Head of Data and AI). Frente al pipeline lineal «recuperar → razonar → responder», Jus AI 3 evalúa lo encontrado, detecta huecos y lanza follow-up o verificación dirigida antes de contestar; en preguntas simples omite pasos innecesarios y responde antes, en las complejas profundiza. El stack propietario Tenet está orientado a arbitraje internacional. Benchmark interno sobre 114 prompts frente a Jus AI 2: 19% más rápido el time to first answer, 10% más de scores perfectos de relevancy y 8% más de faithfulness (escala 1–5). Anuncia para este trimestre arbitrator search y due diligence conversacional sobre datos de Jus Mundi y Jus Connect (ejemplo: presidentes de tribunal en español para un ICC mining dispute con parte latinoamericana y sede en París).",
+  "summary_p2": "Para un equipo de international arbitration, el salto útil no es otro chat sino un motor que sigue el hilo entre tratados, laudos y comentario como haría un asociado cuidadoso. La hoja de ruta de selección de árbitros concentraría en un solo sitio lo que hoy se reparte entre bases y spreadsheets. Matiz: métricas y benchmark son del proveedor; no hay evaluación independiente publicada en la pieza.",
+  "why_sota": "Motor de research de arbitraje que añade bucle de verificación/follow-up y prepara arbitrator diligence conversacional.",
+  "why_now": "Daily Jus 14 Oct 2026. NEW vs PASS 09-29→10-14.",
+  "geo": [
+    "FR",
+    "Global"
+  ],
+  "topics": [
+    "arbitraje",
+    "research",
+    "jus-mundi",
+    "benchmarks",
+    "arbitrators"
+  ],
+  "sources": [
+    {
+      "source_id": "src-daily-jus",
+      "url": "https://dailyjus.com/news/2026/10/introducing-jus-ai-3-faster-sharper-and-better-grounded-legal-research",
+      "cited_title": "Introducing Jus AI 3: Faster, Sharper and Better-Grounded Legal Research",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-jus-mundi",
+    "ent-jus-ai",
+    "ent-ayushman-dash",
+    "ent-daily-jus"
+  ],
+  "lang": "es",
+  "status": "published"
+}

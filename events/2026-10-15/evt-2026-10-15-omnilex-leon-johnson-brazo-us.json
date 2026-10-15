@@ -1,0 +1,51 @@
+{
+  "id": "evt-2026-10-15-omnilex-leon-johnson-brazo-us",
+  "date": "2026-10-14",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Leon Johnson (ex Goodwin y Kirkland) abre el brazo US de Omnilex, despacho AI-native de Zúrich",
+  "short_title": "Omnilex: un partner de Goodwin lanza el brazo US AI-native",
+  "standfirst": "MSO en EE. UU. Seed de 4,5 M$ (2025). Empieza por venture, startups y contratos comerciales.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "New Model",
+  "country": "EE. UU.",
+  "piece_type": "Mercado",
+  "summary_p1": "Leon Johnson, hasta hace poco partner de Goodwin en San Francisco y antes partner de Kirkland & Ellis (donde ayudó a levantar la oficina de Salt Lake City por encima de 100 abogados), se incorpora a Omnilex como Managing Partner para liderar su negocio en Estados Unidos, según entrevista de Artificial Lawyer del 14 de octubre de 2026. Omnilex nació en Suiza como legal tech y pasó a prestar servicios jurídicos sobre su propia plataforma de agentes que conocen contratos, deals y matters previos del cliente; cofundadores Marco Henri (CEO), Ismael Seck (COO) y Etienne Salimbeni (CTO); seed de 4,5 millones de dólares en noviembre de 2025 (Founderful, Plug and Play, Tiny Supercomputer, Angel Invest). Unos 20 personas y ~100 equipos jurídicos (Bayer, Randstad, Deloitte, Swatch, BDO entre los citados). El brazo US se estructura como MSO (managed services organization); hoy tres abogados y expectativa de crecimiento rápido. Johnson, mentorado en su día por Clayton Christensen, sostiene que el modelo piramidal de Big Law choca con entregas a precio fijo impulsadas por IA: el agente resuelve y el abogado revisa y firma bajo las reglas éticas de California.",
+  "summary_p2": "Para un innovation lead o un socio de corporate que mira el new model, el fichaje importa porque no es un junior «probando» AI-native: es un partner de transactional/PE/venture que deja Goodwin. El foco declarado (NVCA/venture docs, governance de startups, commercial contracts) es el terreno donde el incentivo adversarial es bajo y el fixed fee encaja mejor, como el propio Tromans argumentaba esta semana. Preguntas útiles: cobertura de insurance, cómo escalan especialistas en M&A grande y qué parte del matter queda realmente automatizada. Matiz: cobertura basada en entrevista AL; sin métricas de revenue US ni lista pública de clientes americanos.",
+  "why_sota": "Fichaje senior Big Law → AI-native US con estructura MSO y plataforma propia de agentes.",
+  "why_now": "Artificial Lawyer 14 Oct 2026. NEW vs Driven Lawyers NL (02-10) y PASS 09-29→10-14.",
+  "geo": [
+    "US",
+    "CH",
+    "Global"
+  ],
+  "topics": [
+    "new-model",
+    "ai-native",
+    "despachos",
+    "venture",
+    "mso"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/",
+      "cited_title": "Goodwin Partner Launches US AI-Native Law Firm Arm",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-omnilex",
+    "ent-leon-johnson",
+    "ent-goodwin",
+    "ent-kirkland-ellis",
+    "ent-marco-henri",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

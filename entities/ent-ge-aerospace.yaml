@@ -1,0 +1,11 @@
+id: ent-ge-aerospace
+name: GE Aerospace
+type: company
+url: https://www.geaerospace.com/
+geo:
+- US
+aliases:
+- GE Aerospace
+notes: Negocio aeroespacial de GE; design partner / usuario de Harvey Contract Intelligence.
+  Ficha mínima.
+stub: true

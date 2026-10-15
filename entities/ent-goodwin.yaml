@@ -1,0 +1,11 @@
+id: ent-goodwin
+name: Goodwin
+type: law_firm
+url: https://www.goodwinlaw.com/
+geo:
+- US
+aliases:
+- Goodwin Procter
+notes: Despacho US; Leon Johnson fue partner en San Francisco antes de Omnilex. Ficha
+  mínima.
+stub: true

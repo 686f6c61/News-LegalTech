@@ -1,0 +1,10 @@
+id: ent-kirkland-ellis
+name: Kirkland & Ellis
+type: law_firm
+url: https://www.kirkland.com/
+geo:
+- US
+aliases:
+- Kirkland
+notes: Despacho Am Law; Morawetz y Johnson pasaron por allí. Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-jus-mundi
+name: Jus Mundi
+type: vendor
+url: https://jusmundi.com/
+geo:
+- FR
+- Global
+aliases: []
+notes: Plataforma de inteligencia jurídica y arbitraje internacional; edita Jus AI.
+  Ficha mínima.
+stub: true

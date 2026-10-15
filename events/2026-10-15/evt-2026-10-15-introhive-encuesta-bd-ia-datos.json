@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-15-introhive-encuesta-bd-ia-datos",
+  "date": "2026-10-13",
+  "type": "other",
+  "sota_score": 6.7,
+  "ai_legaltech": true,
+  "title": "Introhive: los partners quieren IA para BD, pero el 78% no puede actuar sobre sus datos de relación",
+  "short_title": "Introhive: ambición de BD con IA, datos de relación rotos",
+  "standfirst": "Encuesta a 123 partners. El 68% de quienes usan IA para BD solo tiene chatbots generalistas.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Business development",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "LawNext (13 de octubre de 2026) recoge la encuesta AI and Business Development in Law and Accounting Firms de Introhive (con Thinktiv): 123 partners (42 legal, 42 accounting, 39 otros professional services). El 78% dice que los datos de relación de su firma son difíciles de activar; entre quienes ya usan IA para business development, el 68% solo emplea herramientas generalistas (ChatGPT, Copilot, Gemini) sin acceso a esos datos, con satisfacción 6,7/10. El 47% elige «surface new business opportunities» como la capacidad BD semanal más deseada. El 57% sitúa a su firma en etapas 1–2 de madurez BD, pero el 84% espera alcanzar etapas 3–4 en 18–24 meses. Solo el 22% afirma tener una estrategia de IA fully developed; el 63% no tiene forma de medir ROI de BD ligada a revenue. Lee Blakemore (CEO) insiste en MCP como vía «agnóstica» para consultar relationship data desde Claude, Harvey, ChatGPT o Copilot bajo permisos existentes, y avisa: desplegar IA sin datos accionables es tirar dinero.",
+  "summary_p2": "Para un CMO legal o un socio de BD, el informe pone cifra a una intuición: la prisa por el chatbot no sustituye CRM limpio ni change management. MCP aparece otra vez como tubería, no como producto final. Matiz: encuesta encargada por Introhive (vendor de relationship intelligence); muestra moderada y sesgo de auto-selección posibles.",
+  "why_sota": "Datos frescos sobre la desalineación entre ambición de BD con IA y calidad/accesibilidad de relationship data.",
+  "why_now": "LawNext 13 Oct 2026 (no entró en PASS 14.10.26). NEW vs PASS 09-29→10-14.",
+  "geo": [
+    "US",
+    "CA",
+    "Global"
+  ],
+  "topics": [
+    "bd",
+    "crm",
+    "mcp",
+    "datos",
+    "encuestas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/partners-want-ai-to-help-them-find-new-business-but-most-are-running-it-on-data-they-cant-use-introhive-survey-finds.html",
+      "cited_title": "Partners Want AI to Help Them Find New Business, But Most Are Running It on Data They Can’t Use, Introhive Survey Finds",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-introhive",
+    "ent-lee-blakemore",
+    "ent-harvey",
+    "ent-openai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

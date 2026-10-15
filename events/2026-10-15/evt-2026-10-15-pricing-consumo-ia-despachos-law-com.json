@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-15-pricing-consumo-ia-despachos-law-com",
+  "date": "2026-10-14",
+  "type": "other",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Law.com: los despachos se preparan para el pricing por consumo de IA tras el giro de Anthropic",
+  "short_title": "Pricing por consumo de IA: despachos afinan el routing de modelos",
+  "standfirst": "Troutman Pepper Locke planea mecanismos multi-modelo. Vendors legal tech podrían seguir a Anthropic.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Pricing",
+  "country": "EE. UU.",
+  "piece_type": "Análisis",
+  "summary_p1": "Legaltech News (Law.com) publicó el 14 de octubre de 2026 un reportaje de Ella Sherman sobre cómo los despachos empiezan a planear el impacto de pasar de licencias por asiento (seat-based) a pricing por consumo (consumption-based) en IA. Anthropic y otras tecnológicas han movido su tarificación en esa dirección este año, y la pieza señala que vendors de legal tech podrían seguir el mismo camino, encareciendo el gasto tecnológico. Entre las respuestas que anticipan las firmas, Troutman Pepper Locke aparece planificando que sus herramientas internas tengan mecanismos para enrutar trabajo a distintos modelos antes de que el cambio de pricing se consolide. La incertidumbre, dice el texto, se acentuó cuando Anthropic inició ese desplazamiento.",
+  "summary_p2": "Para un CIO legal o un pricing partner, el paralelismo con los credit controls de Jylo 3.0 (ayer) es inmediato: sin routing, presupuestos y visibilidad de tokens, el modelo «premium por defecto» dispara la factura. Pregunta de compra a cualquier vendor: ¿facturan por seat, por token, por matter, y quién puede elegir el modelo? Matiz: Law.com está tras paywall; el resumen se basa en el lead y los bullets abiertos de la pieza, sin el desarrollo completo del reportaje.",
+  "why_sota": "Señal de mercado: el coste variable de la IA frontier obliga a arquitectura multi-modelo dentro del despacho.",
+  "why_now": "Law.com/Legaltech News 14 Oct 2026. NEW vs Jylo credit management (14.10.26) y PASS 09-29→10-14.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "pricing",
+    "consumo",
+    "anthropic",
+    "costes",
+    "gobernanza"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/14/how-law-firms-are-strategizing-for-consumption-based-ai-pricing-/",
+      "cited_title": "How Law Firms Are Strategizing for Consumption-Based AI Pricing",
+      "accessed": "2026-10-15"
+    }
+  ],
+  "entities": [
+    "ent-anthropic",
+    "ent-troutman-pepper-locke"
+  ],
+  "lang": "es",
+  "status": "published"
+}

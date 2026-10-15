@@ -1,0 +1,11 @@
+id: ent-troutman-pepper-locke
+name: Troutman Pepper Locke
+type: law_firm
+url: https://www.law.com/legaltechnews/2026/10/14/how-law-firms-are-strategizing-for-consumption-based-ai-pricing-/
+geo:
+- US
+aliases:
+- Troutman Pepper
+notes: Despacho US citado en Law.com sobre routing multi-modelo ante pricing por consumo.
+  Ficha mínima.
+stub: true

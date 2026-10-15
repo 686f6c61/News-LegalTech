@@ -1,0 +1,11 @@
+id: ent-freshfields-lab
+name: Freshfields Lab
+type: product
+url: https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/
+geo:
+- GB
+- Global
+aliases: []
+notes: Unidad interna de legal tech/IA de Freshfields; posible spin-off a inversores
+  externos. Ficha mínima.
+stub: true

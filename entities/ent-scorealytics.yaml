@@ -1,0 +1,11 @@
+id: ent-scorealytics
+name: SCOREalytics
+type: vendor
+url: https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html
+geo:
+- US
+aliases:
+- SCORE
+notes: 'Regulatory intelligence: SCORE (Strategic Compliance, Oversight & Risk Evaluator).
+  Ficha mínima.'
+stub: true

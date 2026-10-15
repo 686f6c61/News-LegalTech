@@ -1,0 +1,12 @@
+id: ent-omnilex
+name: Omnilex
+type: law_firm
+url: https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/
+geo:
+- CH
+- US
+aliases:
+- OmniLex
+notes: Despacho AI-native con origen en Zúrich; abre brazo US con Leon Johnson. Ficha
+  mínima.
+stub: true

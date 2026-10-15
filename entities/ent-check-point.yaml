@@ -1,0 +1,12 @@
+id: ent-check-point
+name: Check Point
+type: company
+url: https://www.checkpoint.com/
+geo:
+- IL
+- Global
+aliases:
+- Check Point Software
+notes: Firma de ciberseguridad; informe Inside the Luna Moth Files sobre SRG. Ficha
+  mínima.
+stub: true
