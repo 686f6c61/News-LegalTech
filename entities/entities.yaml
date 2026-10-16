@@ -2458,3 +2458,155 @@ entities:
   - Daily Jus by Jus Mundi
   notes: Blog de noticias de Jus Mundi. Ficha mínima.
   stub: true
+- id: ent-microsoft
+  name: Microsoft
+  type: company
+  url: https://www.microsoft.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - MSFT
+  notes: Editor de Word y Microsoft 365 Copilot; lanza Copilot for Legal (15 oct 2026).
+    Ficha mínima.
+  stub: true
+- id: ent-microsoft-copilot-for-legal
+  name: Microsoft Copilot for Legal
+  type: product
+  url: https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html
+  geo:
+  - Global
+  aliases:
+  - Copilot for Legal
+  - Legal Agent
+  notes: Más de 20 skills jurídicas en Word y Cowork; sustituye a Legal Agent. Ficha
+    mínima.
+  stub: true
+- id: ent-clyde-co
+  name: Clyde & Co
+  type: law_firm
+  url: https://www.clydeco.com/
+  geo:
+  - GB
+  - Global
+  aliases:
+  - Clyde & Co LLP
+  notes: Despacho citado como cliente de Copilot for Legal. Ficha mínima.
+  stub: true
+- id: ent-cocounsel-legal
+  name: CoCounsel Legal
+  type: product
+  url: https://www.prnewswire.com/news-releases/legal-work-crosses-borders-now-so-does-cocounsel-legal-302907697.html
+  geo:
+  - Global
+  aliases:
+  - CoCounsel
+  notes: Plataforma de IA jurídica de Thomson Reuters; Multinational Profile (oct
+    2026). Ficha mínima.
+  stub: true
+- id: ent-bloomberg-law
+  name: Bloomberg Law
+  type: vendor
+  url: https://pro.bloomberglaw.com/
+  geo:
+  - US
+  aliases:
+  - Bloomberg Industry Group
+  notes: Research jurídico y dockets; conector MCP para Claude y Microsoft Copilot.
+    Ficha mínima.
+  stub: true
+- id: ent-aaron-pierce
+  name: Aaron Pierce
+  type: person
+  url: https://www.prnewswire.com/news-releases/bloomberg-law-brings-dockets-and-litigation-intelligence-to-microsoft-copilot-302910504.html
+  geo:
+  - US
+  aliases: []
+  notes: Head of Bloomberg Law. Ficha mínima.
+  stub: true
+- id: ent-docket-navigator
+  name: Docket Navigator
+  type: vendor
+  url: https://www.docketnavigator.com/
+  geo:
+  - US
+  aliases: []
+  notes: Datos y analítica de litigación de patentes (district courts, PTAB, ITC);
+    conector MCP para Claude. Ficha mínima.
+  stub: true
+- id: ent-ebrevia
+  name: eBrevia
+  type: vendor
+  url: https://ebrevia.com/
+  geo:
+  - US
+  aliases: []
+  notes: IA de contratos; lanza Command (gestión de contratos) y DraftPro en Word.
+    Ficha mínima.
+  stub: true
+- id: ent-prudencia-ai
+  name: Prudencia.ai
+  type: vendor
+  url: https://prudencia.ai/
+  geo:
+  - ES
+  aliases:
+  - Prudencia
+  - Prudencia Nova
+  notes: IA jurídica española (Barcelona); lanza Prudencia Nova (oct 2026). Ficha
+    mínima.
+  stub: true
+- id: ent-control-risks
+  name: Control Risks
+  type: company
+  url: https://www.controlrisks.com/
+  geo:
+  - GB
+  - Global
+  aliases: []
+  notes: Consultora de riesgo e inteligencia; escinde Discovery + Data Insights y
+    Forensics. Ficha mínima.
+  stub: true
+- id: ent-beringer-capital
+  name: Beringer Capital
+  type: investor
+  url: https://www.beringercapital.com/
+  geo:
+  - CA
+  - Global
+  aliases: []
+  notes: Private equity; propietaria de la nueva compañía escindida de Control Risks.
+    Ficha mínima.
+  stub: true
+- id: ent-georges-sabongui
+  name: Georges Sabongui
+  type: person
+  url: https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html
+  geo:
+  - US
+  aliases: []
+  notes: CEO de la nueva compañía; ex CEO de CloudNine y ex CCO de X1. Ficha mínima.
+  stub: true
+- id: ent-lineal
+  name: Lineal
+  type: vendor
+  url: https://lineal.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Lineal Services
+  notes: Legal technology y servicios de eDiscovery (AmplifyAI); Kansas City. Ficha
+    mínima.
+  stub: true
+- id: ent-forentec
+  name: Forentec
+  type: company
+  url: https://forentec.ch/
+  geo:
+  - CH
+  aliases:
+  - Forentec AG
+  notes: eDiscovery, forensics, ciberseguridad y OSINT en Dübendorf; adquirida por
+    Lineal (oct 2026). Ficha mínima.
+  stub: true

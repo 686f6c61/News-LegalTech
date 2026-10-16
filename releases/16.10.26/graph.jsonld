@@ -1,0 +1,696 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/16.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 16.10.26",
+      "schema:version": "16.10.26",
+      "schema:datePublished": "2026-10-16",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-16, 9 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/16.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-microsoft-copilot-for-legal-word-cowork"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-bloomberg-law-dockets-mcp-copilot"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-docket-navigator-mcp-claude"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-legora-ecosistema-30-integraciones"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-cocounsel-legal-multinational-profile"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-ebrevia-command-gestion-contratos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-prudencia-nova-ia-juridica-espana"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-control-risks-escinde-discovery-forensics"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-lineal-compra-forentec-suiza"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-microsoft-copilot-for-legal-word-cowork",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-microsoft-copilot-for-legal-word-cowork",
+      "schema:headline": "Microsoft lanza Copilot for Legal: más de 20 skills jurídicas en Word y Cowork y plugins de Harvey, Legora y otros",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Microsoft lanzó el 15 de octubre de 2026 Copilot for Legal: más de 20 skills (habilidades) jurídicas dentro de Microsoft 365 Copilot que funcionan en Word y en Cowork, su espacio de trabajo agéntico, según LawSites y Artificial Lawyer. En Word permite revisar contratos contra playbooks, redactar desde plantillas y precedentes aprobados (almacenados en SharePoint, con content controls como marcadores editables) y aplicar las propuestas como tracked changes (control de cambios) nativos; en Cowork coordina trabajo sobre colecciones de contratos y aplicaciones de 365: extraer obligaciones y plazos, comparar acuerdos y construir cronologías de casos. El plugin de Word sustituye a Legal Agent, la herramienta de revisión y redlining que Microsoft lanzó en abril en su programa Frontier. Los plugins de más de dos docenas de partners, entre ellos Harvey, Legora e iManage, empiezan a llegar por el registro de plugins de Microsoft; los de Microsoft se despliegan desde el 15 de octubre para clientes con licencia comercial de Microsoft 365 Copilot. Microsoft cita como cliente a Clyde & Co, cuyo CIO habla de una adopción de Copilot cercana al 90%, y hará una demo en un webinar el 22 de octubre.",
+      "schema:articleBody": "Microsoft lanzó el 15 de octubre de 2026 Copilot for Legal: más de 20 skills (habilidades) jurídicas dentro de Microsoft 365 Copilot que funcionan en Word y en Cowork, su espacio de trabajo agéntico, según LawSites y Artificial Lawyer. En Word permite revisar contratos contra playbooks, redactar desde plantillas y precedentes aprobados (almacenados en SharePoint, con content controls como marcadores editables) y aplicar las propuestas como tracked changes (control de cambios) nativos; en Cowork coordina trabajo sobre colecciones de contratos y aplicaciones de 365: extraer obligaciones y plazos, comparar acuerdos y construir cronologías de casos. El plugin de Word sustituye a Legal Agent, la herramienta de revisión y redlining que Microsoft lanzó en abril en su programa Frontier. Los plugins de más de dos docenas de partners, entre ellos Harvey, Legora e iManage, empiezan a llegar por el registro de plugins de Microsoft; los de Microsoft se despliegan desde el 15 de octubre para clientes con licencia comercial de Microsoft 365 Copilot. Microsoft cita como cliente a Clyde & Co, cuyo CIO habla de una adopción de Copilot cercana al 90%, y hará una demo en un webinar el 22 de octubre.\n\nLawSites lo enmarca como el cuarto gigante de IA que monta un vertical legal en cinco meses, tras Claude for Legal (mayo), Gemini Enterprise for Legal (agosto) y Astra for Law (septiembre), con el mismo patrón: skills propias, conectores a los especialistas y la promesa de no salir de la plataforma. La diferencia es que el abogado ya «vive en Word». Para un vendor centrado en contratos, Artificial Lawyer lo describe como competencia directa aunque sea partner; para un despacho o un in-house con licencias de Copilot, la pregunta práctica es si estas skills bastan para el trabajo rutinario antes de pagar otra plataforma. Ojo con los datos: los números de Legal Agent en Frontier (más de 1.800 usuarios, casi 100.000 ediciones, unas siete de cada diez sugerencias aceptadas) y las métricas internas de fluidez, concisión y relevancia son de Microsoft, sin ningún benchmark jurídico independiente. Westlaw, CoCounsel y LexisNexis no aparecen en la lista; Thomson Reuters solo figura a través de HighQ.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Microsoft lleva un vertical legal completo al editor donde ya trabaja el abogado, con plugins de las grandes plataformas.",
+      "sota:whyNow": "LawSites y Artificial Lawyer, 15 oct 2026; despliegue desde ese día. NEW frente a las pasadas 09-29→10-15.",
+      "sota:geo": [
+        "Global",
+        "US"
+      ],
+      "sota:topics": [
+        "copilot",
+        "word",
+        "plataformas",
+        "contratos",
+        "plugins",
+        "agentes"
+      ],
+      "sota:summaryP1": "Microsoft lanzó el 15 de octubre de 2026 Copilot for Legal: más de 20 skills (habilidades) jurídicas dentro de Microsoft 365 Copilot que funcionan en Word y en Cowork, su espacio de trabajo agéntico, según LawSites y Artificial Lawyer. En Word permite revisar contratos contra playbooks, redactar desde plantillas y precedentes aprobados (almacenados en SharePoint, con content controls como marcadores editables) y aplicar las propuestas como tracked changes (control de cambios) nativos; en Cowork coordina trabajo sobre colecciones de contratos y aplicaciones de 365: extraer obligaciones y plazos, comparar acuerdos y construir cronologías de casos. El plugin de Word sustituye a Legal Agent, la herramienta de revisión y redlining que Microsoft lanzó en abril en su programa Frontier. Los plugins de más de dos docenas de partners, entre ellos Harvey, Legora e iManage, empiezan a llegar por el registro de plugins de Microsoft; los de Microsoft se despliegan desde el 15 de octubre para clientes con licencia comercial de Microsoft 365 Copilot. Microsoft cita como cliente a Clyde & Co, cuyo CIO habla de una adopción de Copilot cercana al 90%, y hará una demo en un webinar el 22 de octubre.",
+      "sota:summaryP2": "LawSites lo enmarca como el cuarto gigante de IA que monta un vertical legal en cinco meses, tras Claude for Legal (mayo), Gemini Enterprise for Legal (agosto) y Astra for Law (septiembre), con el mismo patrón: skills propias, conectores a los especialistas y la promesa de no salir de la plataforma. La diferencia es que el abogado ya «vive en Word». Para un vendor centrado en contratos, Artificial Lawyer lo describe como competencia directa aunque sea partner; para un despacho o un in-house con licencias de Copilot, la pregunta práctica es si estas skills bastan para el trabajo rutinario antes de pagar otra plataforma. Ojo con los datos: los números de Legal Agent en Frontier (más de 1.800 usuarios, casi 100.000 ediciones, unas siete de cada diez sugerencias aceptadas) y las métricas internas de fluidez, concisión y relevancia son de Microsoft, sin ningún benchmark jurídico independiente. Westlaw, CoCounsel y LexisNexis no aparecen en la lista; Thomson Reuters solo figura a través de HighQ.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
+          "schema:name": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
+          "sota:sourceId": "src-lawnext"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/",
+          "schema:name": "Microsoft Launches Copilot for Legal – Brace for Impact!",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/",
+          "schema:name": "Microsoft Copilot for Legal: What Will Be the Fallout?",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-microsoft"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-microsoft-copilot-for-legal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-imanage"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clyde-co"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-bloomberg-law-dockets-mcp-copilot",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-bloomberg-law-dockets-mcp-copilot",
+      "schema:headline": "Bloomberg Law lleva sus dockets federales y estatales a Microsoft Copilot con un conector MCP",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Bloomberg Law anunció el 15 de octubre de 2026 un conector que da acceso a su colección de dockets (expedientes judiciales) federales y estatales y a su litigation intelligence (inteligencia de litigación) desde Microsoft Copilot, según su nota en PR Newswire. El conector usa Model Context Protocol (MCP) y permite buscar y recuperar detalles de dockets y filings (escritos presentados), seguir asuntos con alerts y tracks y sacar tendencias de litigación sin hacer una búsqueda aparte en la plataforma. Aaron Pierce, head de Bloomberg Law, lo presenta como monitorizar actividad litigiosa, revisar y comparar filings e identificar oportunidades «sin salir de Copilot». La página de soporte de Bloomberg Law ya documenta un conector MCP equivalente para Claude, con herramientas de búsqueda de dockets, metadatos, entradas, descarga de documentos y creación de alertas, que exige suscripción con acceso MCP habilitado.",
+      "schema:articleBody": "Bloomberg Law anunció el 15 de octubre de 2026 un conector que da acceso a su colección de dockets (expedientes judiciales) federales y estatales y a su litigation intelligence (inteligencia de litigación) desde Microsoft Copilot, según su nota en PR Newswire. El conector usa Model Context Protocol (MCP) y permite buscar y recuperar detalles de dockets y filings (escritos presentados), seguir asuntos con alerts y tracks y sacar tendencias de litigación sin hacer una búsqueda aparte en la plataforma. Aaron Pierce, head de Bloomberg Law, lo presenta como monitorizar actividad litigiosa, revisar y comparar filings e identificar oportunidades «sin salir de Copilot». La página de soporte de Bloomberg Law ya documenta un conector MCP equivalente para Claude, con herramientas de búsqueda de dockets, metadatos, entradas, descarga de documentos y creación de alertas, que exige suscripción con acceso MCP habilitado.\n\nCoincide con el lanzamiento de Copilot for Legal y confirma el patrón: los proveedores de datos jurídicos se convierten en una capa que se consulta desde el asistente que el cliente ya tiene. Para un equipo de litigación, lo útil es tener monitorización y business development (desarrollo de negocio) sobre filings dentro del flujo de Copilot; lo que hay que revisar es la autenticación por usuario, qué queda registrado en el tenant y que las licencias federadas de Copilot (el add-on de Microsoft 365 Copilot, según la documentación de Microsoft) estén en regla. Matiz: es una nota de prensa del proveedor, sin precio ni fecha de disponibilidad general detallada.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos de litigación de primer nivel consultables por MCP desde Copilot y Claude.",
+      "sota:whyNow": "PR Newswire, 15 oct 2026, el mismo día de Copilot for Legal. NEW frente a 09-29→10-15.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "mcp",
+        "litigacion",
+        "dockets",
+        "copilot",
+        "conectores"
+      ],
+      "sota:summaryP1": "Bloomberg Law anunció el 15 de octubre de 2026 un conector que da acceso a su colección de dockets (expedientes judiciales) federales y estatales y a su litigation intelligence (inteligencia de litigación) desde Microsoft Copilot, según su nota en PR Newswire. El conector usa Model Context Protocol (MCP) y permite buscar y recuperar detalles de dockets y filings (escritos presentados), seguir asuntos con alerts y tracks y sacar tendencias de litigación sin hacer una búsqueda aparte en la plataforma. Aaron Pierce, head de Bloomberg Law, lo presenta como monitorizar actividad litigiosa, revisar y comparar filings e identificar oportunidades «sin salir de Copilot». La página de soporte de Bloomberg Law ya documenta un conector MCP equivalente para Claude, con herramientas de búsqueda de dockets, metadatos, entradas, descarga de documentos y creación de alertas, que exige suscripción con acceso MCP habilitado.",
+      "sota:summaryP2": "Coincide con el lanzamiento de Copilot for Legal y confirma el patrón: los proveedores de datos jurídicos se convierten en una capa que se consulta desde el asistente que el cliente ya tiene. Para un equipo de litigación, lo útil es tener monitorización y business development (desarrollo de negocio) sobre filings dentro del flujo de Copilot; lo que hay que revisar es la autenticación por usuario, qué queda registrado en el tenant y que las licencias federadas de Copilot (el add-on de Microsoft 365 Copilot, según la documentación de Microsoft) estén en regla. Matiz: es una nota de prensa del proveedor, sin precio ni fecha de disponibilidad general detallada.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.prnewswire.com/news-releases/bloomberg-law-brings-dockets-and-litigation-intelligence-to-microsoft-copilot-302910504.html",
+          "schema:name": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
+          "sota:sourceId": "src-pr-newswire"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bloomberg-law"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aaron-pierce"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-microsoft"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-docket-navigator-mcp-claude",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-docket-navigator-mcp-claude",
+      "schema:headline": "Docket Navigator lanza un conector MCP para Claude: jueces, partes y decisiones de patentes con cita al expediente",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Docket Navigator, base de datos de litigación de propiedad intelectual codificada a mano, anunció el 15 de octubre de 2026 un conector Model Context Protocol (MCP) para Claude. Permite describir el problema en lenguaje natural y responder con sus datos, con cada respuesta citada al registro: preparar vistas con el historial de un juez sobre un tipo de motion (moción), investigar a la contraparte en los district courts, el PTAB y la ITC, analizar jueces y tribunales, preparar pitches el día que se presenta una demanda y vigilar el Docket Report diario contra una watch list de clientes. Cada usuario entra con su propia cuenta y solo ve lo que permiten sus permisos; los administradores pueden cortar el acceso, y la investigación se guarda en binders y alertas de Docket Navigator. Según su centro de ayuda y el comunicado del 15 de octubre, el conector figura en el Claude Connectors Directory y para Team y Enterprise lo activa un Owner. Anuncia más plataformas de IA en camino.",
+      "schema:articleBody": "Docket Navigator, base de datos de litigación de propiedad intelectual codificada a mano, anunció el 15 de octubre de 2026 un conector Model Context Protocol (MCP) para Claude. Permite describir el problema en lenguaje natural y responder con sus datos, con cada respuesta citada al registro: preparar vistas con el historial de un juez sobre un tipo de motion (moción), investigar a la contraparte en los district courts, el PTAB y la ITC, analizar jueces y tribunales, preparar pitches el día que se presenta una demanda y vigilar el Docket Report diario contra una watch list de clientes. Cada usuario entra con su propia cuenta y solo ve lo que permiten sus permisos; los administradores pueden cortar el acceso, y la investigación se guarda en binders y alertas de Docket Navigator. Según su centro de ayuda y el comunicado del 15 de octubre, el conector figura en el Claude Connectors Directory y para Team y Enterprise lo activa un Owner. Anuncia más plataformas de IA en camino.\n\nEs otra pieza del mismo movimiento que el de Bloomberg Law: el dato especializado se sirve como herramienta dentro del asistente general. Para un equipo de patent litigation (litigación de patentes), el valor está en la granularidad (motion outcomes, claim constructions, remedios) y en que cada cifra lleve su enlace. El propio centro de ayuda pide verificar la fuente citada y revisar denominador, periodo y población de cualquier estadística antes de usarla en un documento para cliente. Matiz: el anuncio es del proveedor; no hay datos de uso ni de precisión, y la experiencia depende del modelo que use cada organización.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Analítica de litigación de patentes codificada a mano y consultable vía MCP con citas.",
+      "sota:whyNow": "Anuncio del 15 oct 2026. NEW frente a 09-29→10-15.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "mcp",
+        "patentes",
+        "litigacion",
+        "claude",
+        "analitica-judicial"
+      ],
+      "sota:summaryP1": "Docket Navigator, base de datos de litigación de propiedad intelectual codificada a mano, anunció el 15 de octubre de 2026 un conector Model Context Protocol (MCP) para Claude. Permite describir el problema en lenguaje natural y responder con sus datos, con cada respuesta citada al registro: preparar vistas con el historial de un juez sobre un tipo de motion (moción), investigar a la contraparte en los district courts, el PTAB y la ITC, analizar jueces y tribunales, preparar pitches el día que se presenta una demanda y vigilar el Docket Report diario contra una watch list de clientes. Cada usuario entra con su propia cuenta y solo ve lo que permiten sus permisos; los administradores pueden cortar el acceso, y la investigación se guarda en binders y alertas de Docket Navigator. Según su centro de ayuda y el comunicado del 15 de octubre, el conector figura en el Claude Connectors Directory y para Team y Enterprise lo activa un Owner. Anuncia más plataformas de IA en camino.",
+      "sota:summaryP2": "Es otra pieza del mismo movimiento que el de Bloomberg Law: el dato especializado se sirve como herramienta dentro del asistente general. Para un equipo de patent litigation (litigación de patentes), el valor está en la granularidad (motion outcomes, claim constructions, remedios) y en que cada cifra lleve su enlace. El propio centro de ayuda pide verificar la fuente citada y revisar denominador, periodo y población de cualquier estadística antes de usarla en un documento para cliente. Matiz: el anuncio es del proveedor; no hay datos de uso ni de precisión, y la experiencia depende del modelo que use cada organización.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://help.docketnavigator.com/mcp/installation-instructions/claude/",
+          "schema:name": "Connect Docket Navigator to Claude",
+          "sota:sourceId": "src-docket-navigator"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-docket-navigator"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-legora-ecosistema-30-integraciones",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-legora-ecosistema-30-integraciones",
+      "schema:headline": "Legora busca la «centralidad» con un ecosistema de más de 30 integraciones que conecta DMS, deals y contratos a sus agentes",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legora presentó el 15 de octubre de 2026 un ecosistema de integraciones con más de 30 compañías que se conectan a su capacidad agéntica y llevan datos y trabajo externo a sus flujos, según Artificial Lawyer. La empresa lo explica como conectar con «los sistemas donde los equipos jurídicos ya guardan sus documentos, aplican sus ethical walls (barreras éticas), llevan sus deals y gestionan sus contratos», para completar el trabajo de principio a fin en vez de tarea a tarea. También lo vende como «cerrar huecos»: aplicar IA a ese trabajo solía exigir descargar archivos de una plataforma y subirlos a otra, fuera de los permisos que los gobiernan. Bryan Tsao, Chief Product Officer de Legora, resume que «cada viaje a otro sistema se come el tiempo que ahorra la IA».",
+      "schema:articleBody": "Legora presentó el 15 de octubre de 2026 un ecosistema de integraciones con más de 30 compañías que se conectan a su capacidad agéntica y llevan datos y trabajo externo a sus flujos, según Artificial Lawyer. La empresa lo explica como conectar con «los sistemas donde los equipos jurídicos ya guardan sus documentos, aplican sus ethical walls (barreras éticas), llevan sus deals y gestionan sus contratos», para completar el trabajo de principio a fin en vez de tarea a tarea. También lo vende como «cerrar huecos»: aplicar IA a ese trabajo solía exigir descargar archivos de una plataforma y subirlos a otra, fuera de los permisos que los gobiernan. Bryan Tsao, Chief Product Officer de Legora, resume que «cada viaje a otro sistema se come el tiempo que ahorra la IA».\n\nArtificial Lawyer lo lee como la «batalla por la centralidad»: quien gane el espacio donde el abogado pasa el día tendrá ventaja durante años, y quien no lo consiga acabará siendo un conector dentro del entorno de otro. La noticia sale el mismo día que Copilot for Legal, del que Legora es a la vez partner. Para un CIO o un responsable de innovación, lo que hay que mirar es si las integraciones respetan los permisos y las barreras éticas del DMS (gestor documental) de origen, y qué parte es conector de lectura y qué parte escribe de vuelta. Matiz: la lista de partners y el relato son de Legora vía AL; no hay datos de uso.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Plataforma de IA legal que apuesta por ser el espacio de trabajo central integrando 30+ sistemas.",
+      "sota:whyNow": "Artificial Lawyer, 15 oct 2026. NEW frente a Legora Intake (10-14) y Laurel (10-14).",
+      "sota:geo": [
+        "Global"
+      ],
+      "sota:topics": [
+        "plataformas",
+        "integraciones",
+        "dms",
+        "agentes",
+        "centralidad"
+      ],
+      "sota:summaryP1": "Legora presentó el 15 de octubre de 2026 un ecosistema de integraciones con más de 30 compañías que se conectan a su capacidad agéntica y llevan datos y trabajo externo a sus flujos, según Artificial Lawyer. La empresa lo explica como conectar con «los sistemas donde los equipos jurídicos ya guardan sus documentos, aplican sus ethical walls (barreras éticas), llevan sus deals y gestionan sus contratos», para completar el trabajo de principio a fin en vez de tarea a tarea. También lo vende como «cerrar huecos»: aplicar IA a ese trabajo solía exigir descargar archivos de una plataforma y subirlos a otra, fuera de los permisos que los gobiernan. Bryan Tsao, Chief Product Officer de Legora, resume que «cada viaje a otro sistema se come el tiempo que ahorra la IA».",
+      "sota:summaryP2": "Artificial Lawyer lo lee como la «batalla por la centralidad»: quien gane el espacio donde el abogado pasa el día tendrá ventaja durante años, y quien no lo consiga acabará siendo un conector dentro del entorno de otro. La noticia sale el mismo día que Copilot for Legal, del que Legora es a la vez partner. Para un CIO o un responsable de innovación, lo que hay que mirar es si las integraciones respetan los permisos y las barreras éticas del DMS (gestor documental) de origen, y qué parte es conector de lectura y qué parte escribe de vuelta. Matiz: la lista de partners y el relato son de Legora vía AL; no hay datos de uso.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/15/legora-seeks-centrality-with-30-integrations-ecosystem/",
+          "schema:name": "Legora Seeks Centrality With 30+ Integrations Ecosystem",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bryan-tsao"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-cocounsel-legal-multinational-profile",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-cocounsel-legal-multinational-profile",
+      "schema:headline": "Thomson Reuters lanza el Multinational Profile de CoCounsel Legal: research transfronterizo de más de 100 países en un flujo",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Thomson Reuters anunció el 14 de octubre de 2026 la nueva generación de CoCounsel Legal a escala global y, con ella, el Multinational Profile: contenido jurídico de más de 100 países y territorios dentro de un único flujo de CoCounsel Legal. Según la nota de prensa, permite investigar requisitos legales y de compliance en varios países, comparar diferencias clave, identificar cuestiones que pueden requerir asesoramiento local y trazar cada hallazgo hasta su fuente, sin cambiar de herramienta. La nueva generación está disponible ya en el Reino Unido, con disponibilidad general prevista antes de que acabe octubre en países como Australia, Brasil, Canadá, Singapur y Emiratos; el Multinational Profile llegará a clientes de EE. UU., Europa, Reino Unido, Canadá y Australia a lo largo de octubre.",
+      "schema:articleBody": "Thomson Reuters anunció el 14 de octubre de 2026 la nueva generación de CoCounsel Legal a escala global y, con ella, el Multinational Profile: contenido jurídico de más de 100 países y territorios dentro de un único flujo de CoCounsel Legal. Según la nota de prensa, permite investigar requisitos legales y de compliance en varios países, comparar diferencias clave, identificar cuestiones que pueden requerir asesoramiento local y trazar cada hallazgo hasta su fuente, sin cambiar de herramienta. La nueva generación está disponible ya en el Reino Unido, con disponibilidad general prevista antes de que acabe octubre en países como Australia, Brasil, Canadá, Singapur y Emiratos; el Multinational Profile llegará a clientes de EE. UU., Europa, Reino Unido, Canadá y Australia a lo largo de octubre.\n\nPara un in-house con operaciones en varias jurisdicciones o un despacho que coordina corresponsales, el atractivo es una primera pasada comparada antes de pedir opinión local, con la fuente a la vista. La pregunta clave es la profundidad real por país: no es lo mismo Westlaw y Practical Law en EE. UU. o Reino Unido que la cobertura en mercados donde Thomson Reuters no tiene contenido editorial propio. Llega la misma semana en que Thomson Reuters queda fuera de Copilot for Legal salvo por HighQ. Matiz: es un comunicado del proveedor; no detalla qué fuentes cubre cada país ni la cobertura para España.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Research comparado de más de 100 jurisdicciones dentro de una plataforma agéntica incumbente.",
+      "sota:whyNow": "Nota de prensa del 14 oct 2026; despliegue durante octubre. NEW frente a TR×OpenAI (descartado 10-15).",
+      "sota:geo": [
+        "Global",
+        "GB",
+        "US"
+      ],
+      "sota:topics": [
+        "research",
+        "transfronterizo",
+        "compliance",
+        "cocounsel"
+      ],
+      "sota:summaryP1": "Thomson Reuters anunció el 14 de octubre de 2026 la nueva generación de CoCounsel Legal a escala global y, con ella, el Multinational Profile: contenido jurídico de más de 100 países y territorios dentro de un único flujo de CoCounsel Legal. Según la nota de prensa, permite investigar requisitos legales y de compliance en varios países, comparar diferencias clave, identificar cuestiones que pueden requerir asesoramiento local y trazar cada hallazgo hasta su fuente, sin cambiar de herramienta. La nueva generación está disponible ya en el Reino Unido, con disponibilidad general prevista antes de que acabe octubre en países como Australia, Brasil, Canadá, Singapur y Emiratos; el Multinational Profile llegará a clientes de EE. UU., Europa, Reino Unido, Canadá y Australia a lo largo de octubre.",
+      "sota:summaryP2": "Para un in-house con operaciones en varias jurisdicciones o un despacho que coordina corresponsales, el atractivo es una primera pasada comparada antes de pedir opinión local, con la fuente a la vista. La pregunta clave es la profundidad real por país: no es lo mismo Westlaw y Practical Law en EE. UU. o Reino Unido que la cobertura en mercados donde Thomson Reuters no tiene contenido editorial propio. Llega la misma semana en que Thomson Reuters queda fuera de Copilot for Legal salvo por HighQ. Matiz: es un comunicado del proveedor; no detalla qué fuentes cubre cada país ni la cobertura para España.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.prnewswire.com/news-releases/legal-work-crosses-borders-now-so-does-cocounsel-legal-302907697.html",
+          "schema:name": "Legal Work Crosses Borders. Now So Does CoCounsel Legal.",
+          "sota:sourceId": "src-pr-newswire"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cocounsel-legal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-ebrevia-command-gestion-contratos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-ebrevia-command-gestion-contratos",
+      "schema:headline": "eBrevia lanza Command: gestión de contratos con IA sin las implantaciones largas de un CLM",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "eBrevia, pionera de la IA para contratos orientada a in-house, lanzó el 15 de octubre de 2026 Command, una plataforma de gestión de contratos que, según la empresa, ayuda a entender qué hay en los acuerdos, identificar qué requiere atención y actuar, según Artificial Lawyer. La posiciona como una forma de obtener muchos de los beneficios de un CLM (contract lifecycle management, gestión del ciclo de vida de contratos) sin «implantaciones largas, mucha personalización ni rediseño de procesos». Da a los equipos legal, de ventas, compras, finanzas y compliance acceso directo a compromisos, obligaciones y oportunidades de sus contratos, y funciona junto a DraftPro, su herramienta de redacción, revisión y negociación asistida por IA en Microsoft Word. Adam Nguyen (CEO) y Jake Mundt (CTO), cofundadores, insisten en la velocidad, la precisión y el coste.",
+      "schema:articleBody": "eBrevia, pionera de la IA para contratos orientada a in-house, lanzó el 15 de octubre de 2026 Command, una plataforma de gestión de contratos que, según la empresa, ayuda a entender qué hay en los acuerdos, identificar qué requiere atención y actuar, según Artificial Lawyer. La posiciona como una forma de obtener muchos de los beneficios de un CLM (contract lifecycle management, gestión del ciclo de vida de contratos) sin «implantaciones largas, mucha personalización ni rediseño de procesos». Da a los equipos legal, de ventas, compras, finanzas y compliance acceso directo a compromisos, obligaciones y oportunidades de sus contratos, y funciona junto a DraftPro, su herramienta de redacción, revisión y negociación asistida por IA en Microsoft Word. Adam Nguyen (CEO) y Jake Mundt (CTO), cofundadores, insisten en la velocidad, la precisión y el coste.\n\nArtificial Lawyer recuerda que el CLM no ha muerto, pero compite como nunca: las empresas de IA de contratos montan plataformas que cubren lo que antes era monopolio del CLM, y los grandes de IA van directos al in-house (el mismo día, Copilot for Legal promete extraer obligaciones y plazos en Cowork). Para un GC con un repositorio sin explotar, Command apunta al caso de visibilidad rápida; conviene pedir una prueba con contratos propios y medir la extracción, más que fiarse del discurso. Matiz: solo hay declaraciones del proveedor, sin precio, clientes ni métricas.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Alternativa ligera al CLM basada en extracción con IA, en plena presión de las plataformas.",
+      "sota:whyNow": "Artificial Lawyer, 15 oct 2026. NEW frente a 09-29→10-15.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "contratos",
+        "clm",
+        "in-house",
+        "extraccion"
+      ],
+      "sota:summaryP1": "eBrevia, pionera de la IA para contratos orientada a in-house, lanzó el 15 de octubre de 2026 Command, una plataforma de gestión de contratos que, según la empresa, ayuda a entender qué hay en los acuerdos, identificar qué requiere atención y actuar, según Artificial Lawyer. La posiciona como una forma de obtener muchos de los beneficios de un CLM (contract lifecycle management, gestión del ciclo de vida de contratos) sin «implantaciones largas, mucha personalización ni rediseño de procesos». Da a los equipos legal, de ventas, compras, finanzas y compliance acceso directo a compromisos, obligaciones y oportunidades de sus contratos, y funciona junto a DraftPro, su herramienta de redacción, revisión y negociación asistida por IA en Microsoft Word. Adam Nguyen (CEO) y Jake Mundt (CTO), cofundadores, insisten en la velocidad, la precisión y el coste.",
+      "sota:summaryP2": "Artificial Lawyer recuerda que el CLM no ha muerto, pero compite como nunca: las empresas de IA de contratos montan plataformas que cubren lo que antes era monopolio del CLM, y los grandes de IA van directos al in-house (el mismo día, Copilot for Legal promete extraer obligaciones y plazos en Cowork). Para un GC con un repositorio sin explotar, Command apunta al caso de visibilidad rápida; conviene pedir una prueba con contratos propios y medir la extracción, más que fiarse del discurso. Matiz: solo hay declaraciones del proveedor, sin precio, clientes ni métricas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/15/ebrevia-launches-command-contract-management-platform/",
+          "schema:name": "eBrevia Launches ‘Command’ Contract Management Platform",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ebrevia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-prudencia-nova-ia-juridica-espana",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-prudencia-nova-ia-juridica-espana",
+      "schema:headline": "Prudencia.ai presenta Prudencia Nova: verificación de normas y jurisprudencia, deep research y expedientes con memoria",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La española Prudencia.ai (Barcelona) ha presentado Prudencia Nova, la evolución de su plataforma de IA jurídica, según un artículo publicado en Lawyerpress el 15 de octubre de 2026 y un comunicado difundido por Europa Press el 2 de octubre. Las novedades que destaca son la verificación normativa y jurisprudencial, la investigación jurídica en profundidad (deep research), el acceso a los documentos originales que fundamentan cada respuesta, un nuevo buscador de jurisprudencia, una biblioteca de prompting jurídico, memoria y organización por expedientes y la incorporación progresiva de workflows (flujos de trabajo) especializados. El blog de la empresa añade un Radar Normativo con IA para vigilar novedades del BOE. Prudencia.ai combina modelos de IA con recuperación propia sobre fuentes de legislación y jurisprudencia, y amplía la cobertura de fuentes nacionales y europeas.",
+      "schema:articleBody": "La española Prudencia.ai (Barcelona) ha presentado Prudencia Nova, la evolución de su plataforma de IA jurídica, según un artículo publicado en Lawyerpress el 15 de octubre de 2026 y un comunicado difundido por Europa Press el 2 de octubre. Las novedades que destaca son la verificación normativa y jurisprudencial, la investigación jurídica en profundidad (deep research), el acceso a los documentos originales que fundamentan cada respuesta, un nuevo buscador de jurisprudencia, una biblioteca de prompting jurídico, memoria y organización por expedientes y la incorporación progresiva de workflows (flujos de trabajo) especializados. El blog de la empresa añade un Radar Normativo con IA para vigilar novedades del BOE. Prudencia.ai combina modelos de IA con recuperación propia sobre fuentes de legislación y jurisprudencia, y amplía la cobertura de fuentes nacionales y europeas.\n\nInteresa como termómetro del mercado español: los asistentes locales pasan del chat a espacios de trabajo con verificación de fuentes, el mismo giro que hacen Harvey o Legora a otra escala. Para un despacho español que lo evalúe, la prueba útil es pedir citas a sentencias concretas y comprobar vigencia y existencia, no fiarse del ranking. Cautela: la pieza de Lawyerpress tiene tono de contenido patrocinado y el lanzamiento salió como comunicado de empresa en Europa Press; la primera posición en el Índice de Fiabilidad Jurídica de Observatorio Legal (15 asistentes) y los más de 20.000 usuarios registrados los cita la propia compañía, sin auditoría independiente.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "IA jurídica española que pasa del chat a un espacio de trabajo con verificación de fuentes.",
+      "sota:whyNow": "Lawyerpress, 15 oct 2026 (comunicado en Europa Press del 2 oct). NEW frente a 09-29→10-15.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "espana",
+        "research",
+        "verificacion",
+        "jurisprudencia"
+      ],
+      "sota:summaryP1": "La española Prudencia.ai (Barcelona) ha presentado Prudencia Nova, la evolución de su plataforma de IA jurídica, según un artículo publicado en Lawyerpress el 15 de octubre de 2026 y un comunicado difundido por Europa Press el 2 de octubre. Las novedades que destaca son la verificación normativa y jurisprudencial, la investigación jurídica en profundidad (deep research), el acceso a los documentos originales que fundamentan cada respuesta, un nuevo buscador de jurisprudencia, una biblioteca de prompting jurídico, memoria y organización por expedientes y la incorporación progresiva de workflows (flujos de trabajo) especializados. El blog de la empresa añade un Radar Normativo con IA para vigilar novedades del BOE. Prudencia.ai combina modelos de IA con recuperación propia sobre fuentes de legislación y jurisprudencia, y amplía la cobertura de fuentes nacionales y europeas.",
+      "sota:summaryP2": "Interesa como termómetro del mercado español: los asistentes locales pasan del chat a espacios de trabajo con verificación de fuentes, el mismo giro que hacen Harvey o Legora a otra escala. Para un despacho español que lo evalúe, la prueba útil es pedir citas a sentencias concretas y comprobar vigencia y existencia, no fiarse del ranking. Cautela: la pieza de Lawyerpress tiene tono de contenido patrocinado y el lanzamiento salió como comunicado de empresa en Europa Press; la primera posición en el Índice de Fiabilidad Jurídica de Observatorio Legal (15 asistentes) y los más de 20.000 usuarios registrados los cita la propia compañía, sin auditoría independiente.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawyerpress.com/2026/10/15/prudencia-nova-la-inteligencia-artificial-juridica-evoluciona-hacia-la-investigacion-la-verificacion-y-la-automatizacion-del-trabajo-de-los-abogados/",
+          "schema:name": "Prudencia Nova: la inteligencia artificial jurídica evoluciona hacia la investigación, la verificación y la automatización del trabajo de los abogados",
+          "sota:sourceId": "src-lawyerpress-news"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-prudencia-nova-nueva-generacion-inteligencia-artificial-juridica-abogados-20261002160302.html",
+          "schema:name": "Prudencia Nova: una nueva generación de inteligencia artificial jurídica para abogados",
+          "sota:sourceId": "src-europa-press"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-prudencia-ai"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-control-risks-escinde-discovery-forensics",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-control-risks-escinde-discovery-forensics",
+      "schema:headline": "Control Risks escinde su negocio de discovery, datos y forensics en una nueva compañía propiedad de Beringer Capital",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Control Risks, consultora global de inteligencia estratégica y seguridad, anunció el 15 de octubre de 2026 un acuerdo para escindir dos negocios, Discovery + Data Insights y Forensics, en una compañía independiente que operará inicialmente como Control Risks – Compliance, Investigations & eDiscovery, según LawSites. La nueva empresa será propiedad del private equity Beringer Capital, que invertirá en capacidades, tecnología y talento. Control Risks conservará una participación «significativa», sin cuantificar, y una alianza estratégica. El cierre se espera antes de fin de año. La dirigirá Georges Sabongui, CEO de CloudNine entre 2021 y 2024 y antes chief commercial officer de X1, y pasarán todos los equipos de América, EMEA y APAC, incluidos los socios Michele Wiener, Brad Kolacinski, John Kim y Brian Mich.",
+      "schema:articleBody": "Control Risks, consultora global de inteligencia estratégica y seguridad, anunció el 15 de octubre de 2026 un acuerdo para escindir dos negocios, Discovery + Data Insights y Forensics, en una compañía independiente que operará inicialmente como Control Risks – Compliance, Investigations & eDiscovery, según LawSites. La nueva empresa será propiedad del private equity Beringer Capital, que invertirá en capacidades, tecnología y talento. Control Risks conservará una participación «significativa», sin cuantificar, y una alianza estratégica. El cierre se espera antes de fin de año. La dirigirá Georges Sabongui, CEO de CloudNine entre 2021 y 2024 y antes chief commercial officer de X1, y pasarán todos los equipos de América, EMEA y APAC, incluidos los socios Michele Wiener, Brad Kolacinski, John Kim y Brian Mich.\n\nNo es una noticia de IA, pero sí de mercado: el eDiscovery y el forensics se separan de las consultoras generalistas para recibir capital propio, en paralelo a la compra de Forentec por Lineal el mismo día. Para un despacho o un in-house con investigaciones abiertas con Control Risks, conviene preguntar por la continuidad de equipos, contratos y ubicación de datos durante la transición. Matiz: no se publican importe, tamaño de la participación ni cifras de negocio.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.4,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Movimiento de capital privado en eDiscovery y forensics; contexto de mercado, no IA.",
+      "sota:whyNow": "LawSites, 15 oct 2026. NEW frente a 09-29→10-15.",
+      "sota:geo": [
+        "Global",
+        "US",
+        "GB"
+      ],
+      "sota:topics": [
+        "ediscovery",
+        "forensics",
+        "private-equity",
+        "escision"
+      ],
+      "sota:summaryP1": "Control Risks, consultora global de inteligencia estratégica y seguridad, anunció el 15 de octubre de 2026 un acuerdo para escindir dos negocios, Discovery + Data Insights y Forensics, en una compañía independiente que operará inicialmente como Control Risks – Compliance, Investigations & eDiscovery, según LawSites. La nueva empresa será propiedad del private equity Beringer Capital, que invertirá en capacidades, tecnología y talento. Control Risks conservará una participación «significativa», sin cuantificar, y una alianza estratégica. El cierre se espera antes de fin de año. La dirigirá Georges Sabongui, CEO de CloudNine entre 2021 y 2024 y antes chief commercial officer de X1, y pasarán todos los equipos de América, EMEA y APAC, incluidos los socios Michele Wiener, Brad Kolacinski, John Kim y Brian Mich.",
+      "sota:summaryP2": "No es una noticia de IA, pero sí de mercado: el eDiscovery y el forensics se separan de las consultoras generalistas para recibir capital propio, en paralelo a la compra de Forentec por Lineal el mismo día. Para un despacho o un in-house con investigaciones abiertas con Control Risks, conviene preguntar por la continuidad de equipos, contratos y ubicación de datos durante la transición. Matiz: no se publican importe, tamaño de la participación ni cifras de negocio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
+          "schema:name": "Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-control-risks"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-beringer-capital"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-georges-sabongui"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-16-lineal-compra-forentec-suiza",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-16-lineal-compra-forentec-suiza",
+      "schema:headline": "Lineal compra la suiza Forentec y suma forensics, ciberseguridad y OSINT a su eDiscovery",
+      "schema:datePublished": "2026-10-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Lineal, proveedor global de legal technology y servicios con sede en Kansas City, anunció el 14 de octubre de 2026 la compra de Forentec, empresa de Dübendorf (Suiza) de eDiscovery, digital forensics, ciberseguridad y OSINT (inteligencia de fuentes abiertas), según la nota difundida por GlobeNewswire (recogida en National Law Review), el comunicado de Forentec y Law.com. Lionel Bloch, fundador y managing partner de Forentec, seguirá al frente con su equipo y ayudará a ampliar la oferta de ciberseguridad y OSINT de Lineal a escala global; los clientes de Forentec tendrán acceso a la revisión gestionada, el eDiscovery y las capacidades de IA de Lineal. La operación sigue al nombramiento de David Kern, antes responsable global de Processing & Review Management de eDiscovery en UBS en Zúrich, como director general de EMEA.",
+      "schema:articleBody": "Lineal, proveedor global de legal technology y servicios con sede en Kansas City, anunció el 14 de octubre de 2026 la compra de Forentec, empresa de Dübendorf (Suiza) de eDiscovery, digital forensics, ciberseguridad y OSINT (inteligencia de fuentes abiertas), según la nota difundida por GlobeNewswire (recogida en National Law Review), el comunicado de Forentec y Law.com. Lionel Bloch, fundador y managing partner de Forentec, seguirá al frente con su equipo y ayudará a ampliar la oferta de ciberseguridad y OSINT de Lineal a escala global; los clientes de Forentec tendrán acceso a la revisión gestionada, el eDiscovery y las capacidades de IA de Lineal. La operación sigue al nombramiento de David Kern, antes responsable global de Processing & Review Management de eDiscovery en UBS en Zúrich, como director general de EMEA.\n\nTampoco es IA, pero va en la misma dirección que la escisión de Control Risks: el eDiscovery se consolida con forensics y ciber, porque las investigaciones mezclan cada vez más disciplinas y jurisdicciones. Para equipos en Europa con datos sensibles, una presencia física en Suiza importa por residencia de datos y regulación bancaria. Matiz: sin importe ni cifras de negocio; la fuente principal es la nota de las empresas y la pieza de Law.com está tras muro de pago.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Consolidación de eDiscovery con forensics y OSINT en EMEA; contexto de mercado, no IA.",
+      "sota:whyNow": "Comunicado del 14 oct 2026; Law.com 15 oct. NEW frente a 09-29→10-15.",
+      "sota:geo": [
+        "CH",
+        "US",
+        "EU"
+      ],
+      "sota:topics": [
+        "ediscovery",
+        "forensics",
+        "osint",
+        "adquisicion"
+      ],
+      "sota:summaryP1": "Lineal, proveedor global de legal technology y servicios con sede en Kansas City, anunció el 14 de octubre de 2026 la compra de Forentec, empresa de Dübendorf (Suiza) de eDiscovery, digital forensics, ciberseguridad y OSINT (inteligencia de fuentes abiertas), según la nota difundida por GlobeNewswire (recogida en National Law Review), el comunicado de Forentec y Law.com. Lionel Bloch, fundador y managing partner de Forentec, seguirá al frente con su equipo y ayudará a ampliar la oferta de ciberseguridad y OSINT de Lineal a escala global; los clientes de Forentec tendrán acceso a la revisión gestionada, el eDiscovery y las capacidades de IA de Lineal. La operación sigue al nombramiento de David Kern, antes responsable global de Processing & Review Management de eDiscovery en UBS en Zúrich, como director general de EMEA.",
+      "sota:summaryP2": "Tampoco es IA, pero va en la misma dirección que la escisión de Control Risks: el eDiscovery se consolida con forensics y ciber, porque las investigaciones mezclan cada vez más disciplinas y jurisdicciones. Para equipos en Europa con datos sensibles, una presencia física en Suiza importa por residencia de datos y regulación bancaria. Matiz: sin importe ni cifras de negocio; la fuente principal es la nota de las empresas y la pieza de Law.com está tras muro de pago.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://natlawreview.com/press-releases/lineal-acquires-forentec-expanding-global-investigations-and-cyber",
+          "schema:name": "Lineal Acquires Forentec, Expanding Global Investigations and Cyber Capabilities",
+          "sota:sourceId": "src-national-law-review"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/15/lineal-acquires-e-discovery-forensics-company-forentec-/",
+          "schema:name": "Lineal Acquires E-Discovery, Forensics Company Forentec",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lineal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-forentec"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aaron-pierce",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aaron-pierce",
+      "schema:name": "Aaron Pierce",
+      "sota:entityType": "person",
+      "schema:url": "https://www.prnewswire.com/news-releases/bloomberg-law-brings-dockets-and-litigation-intelligence-to-microsoft-copilot-302910504.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-beringer-capital",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-beringer-capital",
+      "schema:name": "Beringer Capital",
+      "sota:entityType": "investor",
+      "schema:url": "https://www.beringercapital.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bloomberg-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bloomberg-law",
+      "schema:name": "Bloomberg Law",
+      "sota:entityType": "vendor",
+      "schema:url": "https://pro.bloomberglaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bryan-tsao",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bryan-tsao",
+      "schema:name": "Bryan Tsao",
+      "sota:entityType": "person",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clyde-co",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clyde-co",
+      "schema:name": "Clyde & Co",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.clydeco.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cocounsel-legal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cocounsel-legal",
+      "schema:name": "CoCounsel Legal",
+      "sota:entityType": "product",
+      "schema:url": "https://www.prnewswire.com/news-releases/legal-work-crosses-borders-now-so-does-cocounsel-legal-302907697.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-control-risks",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-control-risks",
+      "schema:name": "Control Risks",
+      "sota:entityType": "company",
+      "schema:url": "https://www.controlrisks.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-docket-navigator",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-docket-navigator",
+      "schema:name": "Docket Navigator",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.docketnavigator.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ebrevia",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ebrevia",
+      "schema:name": "eBrevia",
+      "sota:entityType": "vendor",
+      "schema:url": "https://ebrevia.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-forentec",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-forentec",
+      "schema:name": "Forentec",
+      "sota:entityType": "company",
+      "schema:url": "https://forentec.ch/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-georges-sabongui",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-georges-sabongui",
+      "schema:name": "Georges Sabongui",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-imanage",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-imanage",
+      "schema:name": "iManage",
+      "sota:entityType": "vendor",
+      "schema:url": "https://imanage.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-com",
+      "schema:name": "Law.com (Legaltech News)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.law.com/legaltechnews/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lineal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lineal",
+      "schema:name": "Lineal",
+      "sota:entityType": "vendor",
+      "schema:url": "https://lineal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-microsoft",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-microsoft",
+      "schema:name": "Microsoft",
+      "sota:entityType": "company",
+      "schema:url": "https://www.microsoft.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-microsoft-copilot-for-legal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-microsoft-copilot-for-legal",
+      "schema:name": "Microsoft Copilot for Legal",
+      "sota:entityType": "product",
+      "schema:url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-prudencia-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-prudencia-ai",
+      "schema:name": "Prudencia.ai",
+      "sota:entityType": "vendor",
+      "schema:url": "https://prudencia.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-thomson-reuters",
+      "schema:name": "Thomson Reuters",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.thomsonreuters.com/",
+      "sota:stub": true
+    }
+  ]
+}

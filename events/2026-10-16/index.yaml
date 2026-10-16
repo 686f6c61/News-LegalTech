@@ -1,0 +1,62 @@
+scan_id: full-radar-2026-10-16
+date: '2026-10-16'
+release: 16.10.26
+count: 9
+ai_share: 0.78
+dedup_against: events/2026-09-29 → 2026-10-15 + scans PASS
+event_ids:
+- evt-2026-10-16-microsoft-copilot-for-legal-word-cowork
+- evt-2026-10-16-bloomberg-law-dockets-mcp-copilot
+- evt-2026-10-16-docket-navigator-mcp-claude
+- evt-2026-10-16-legora-ecosistema-30-integraciones
+- evt-2026-10-16-cocounsel-legal-multinational-profile
+- evt-2026-10-16-ebrevia-command-gestion-contratos
+- evt-2026-10-16-prudencia-nova-ia-juridica-espana
+- evt-2026-10-16-control-risks-escinde-discovery-forensics
+- evt-2026-10-16-lineal-compra-forentec-suiza
+events:
+- id: evt-2026-10-16-microsoft-copilot-for-legal-word-cowork
+  sota_score: 8.8
+  ai_legaltech: true
+  title: 'Microsoft lanza Copilot for Legal: más de 20 skills jurídicas en Word y
+    Cowork y plugins de Harvey, Legora y otros'
+- id: evt-2026-10-16-bloomberg-law-dockets-mcp-copilot
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Bloomberg Law lleva sus dockets federales y estatales a Microsoft Copilot
+    con un conector MCP
+- id: evt-2026-10-16-docket-navigator-mcp-claude
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'Docket Navigator lanza un conector MCP para Claude: jueces, partes y decisiones
+    de patentes con cita al expediente'
+- id: evt-2026-10-16-legora-ecosistema-30-integraciones
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Legora busca la «centralidad» con un ecosistema de más de 30 integraciones
+    que conecta DMS, deals y contratos a sus agentes
+- id: evt-2026-10-16-cocounsel-legal-multinational-profile
+  sota_score: 7.5
+  ai_legaltech: true
+  title: 'Thomson Reuters lanza el Multinational Profile de CoCounsel Legal: research
+    transfronterizo de más de 100 países en un flujo'
+- id: evt-2026-10-16-ebrevia-command-gestion-contratos
+  sota_score: 6.6
+  ai_legaltech: true
+  title: 'eBrevia lanza Command: gestión de contratos con IA sin las implantaciones
+    largas de un CLM'
+- id: evt-2026-10-16-prudencia-nova-ia-juridica-espana
+  sota_score: 6.2
+  ai_legaltech: true
+  title: 'Prudencia.ai presenta Prudencia Nova: verificación de normas y jurisprudencia,
+    deep research y expedientes con memoria'
+- id: evt-2026-10-16-control-risks-escinde-discovery-forensics
+  sota_score: 6.4
+  ai_legaltech: false
+  title: Control Risks escinde su negocio de discovery, datos y forensics en una nueva
+    compañía propiedad de Beringer Capital
+- id: evt-2026-10-16-lineal-compra-forentec-suiza
+  sota_score: 6.0
+  ai_legaltech: false
+  title: Lineal compra la suiza Forentec y suma forensics, ciberseguridad y OSINT
+    a su eDiscovery

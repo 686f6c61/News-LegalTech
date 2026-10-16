@@ -1,0 +1,53 @@
+{
+  "id": "evt-2026-10-16-lineal-compra-forentec-suiza",
+  "date": "2026-10-14",
+  "type": "market",
+  "sota_score": 6.0,
+  "ai_legaltech": false,
+  "title": "Lineal compra la suiza Forentec y suma forensics, ciberseguridad y OSINT a su eDiscovery",
+  "short_title": "Lineal compra la suiza Forentec: forensics, ciber y OSINT",
+  "standfirst": "Primera presencia propia en Suiza tras fichar a un ex UBS como director general para EMEA. Sin importe.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "eDiscovery",
+  "country": "Suiza",
+  "piece_type": "Mercado",
+  "summary_p1": "Lineal, proveedor global de legal technology y servicios con sede en Kansas City, anunció el 14 de octubre de 2026 la compra de Forentec, empresa de Dübendorf (Suiza) de eDiscovery, digital forensics, ciberseguridad y OSINT (inteligencia de fuentes abiertas), según la nota difundida por GlobeNewswire (recogida en National Law Review), el comunicado de Forentec y Law.com. Lionel Bloch, fundador y managing partner de Forentec, seguirá al frente con su equipo y ayudará a ampliar la oferta de ciberseguridad y OSINT de Lineal a escala global; los clientes de Forentec tendrán acceso a la revisión gestionada, el eDiscovery y las capacidades de IA de Lineal. La operación sigue al nombramiento de David Kern, antes responsable global de Processing & Review Management de eDiscovery en UBS en Zúrich, como director general de EMEA.",
+  "summary_p2": "Tampoco es IA, pero va en la misma dirección que la escisión de Control Risks: el eDiscovery se consolida con forensics y ciber, porque las investigaciones mezclan cada vez más disciplinas y jurisdicciones. Para equipos en Europa con datos sensibles, una presencia física en Suiza importa por residencia de datos y regulación bancaria. Matiz: sin importe ni cifras de negocio; la fuente principal es la nota de las empresas y la pieza de Law.com está tras muro de pago.",
+  "why_sota": "Consolidación de eDiscovery con forensics y OSINT en EMEA; contexto de mercado, no IA.",
+  "why_now": "Comunicado del 14 oct 2026; Law.com 15 oct. NEW frente a 09-29→10-15.",
+  "geo": [
+    "CH",
+    "US",
+    "EU"
+  ],
+  "topics": [
+    "ediscovery",
+    "forensics",
+    "osint",
+    "adquisicion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-national-law-review",
+      "url": "https://natlawreview.com/press-releases/lineal-acquires-forentec-expanding-global-investigations-and-cyber",
+      "cited_title": "Lineal Acquires Forentec, Expanding Global Investigations and Cyber Capabilities",
+      "accessed": "2026-10-16"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/10/15/lineal-acquires-e-discovery-forensics-company-forentec-/",
+      "cited_title": "Lineal Acquires E-Discovery, Forensics Company Forentec",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-lineal",
+    "ent-forentec",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

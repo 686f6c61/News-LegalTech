@@ -1,0 +1,11 @@
+id: ent-control-risks
+name: Control Risks
+type: company
+url: https://www.controlrisks.com/
+geo:
+- GB
+- Global
+aliases: []
+notes: Consultora de riesgo e inteligencia; escinde Discovery + Data Insights y Forensics.
+  Ficha mínima.
+stub: true

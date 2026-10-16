@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 153
+count: 154
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1702,5 +1702,16 @@ sources:
   why: Blog de noticias de Jus Mundi sobre arbitraje internacional y legal AI. Ficha
     añadida para citar una URL de dailyjus.com.
   region: Global
+  lang: EN
+  tier: archive
+- id: src-docket-navigator
+  name: Docket Navigator
+  url: https://www.docketnavigator.com/
+  type: vendor
+  kind: news
+  frequency: irregular
+  why: Base de datos de litigación de patentes (district courts, PTAB, ITC). Ficha
+    añadida para citar una URL de docketnavigator.com.
+  region: US
   lang: EN
   tier: archive

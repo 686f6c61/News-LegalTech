@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-16-cocounsel-legal-multinational-profile",
+  "date": "2026-10-14",
+  "type": "product",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Thomson Reuters lanza el Multinational Profile de CoCounsel Legal: research transfronterizo de más de 100 países en un flujo",
+  "short_title": "CoCounsel Legal añade research de más de 100 países en un flujo",
+  "standfirst": "Comparar requisitos entre países y detectar qué pide asesoramiento local, con cada hallazgo trazado a su fuente. Despliegue durante octubre.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Research",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Thomson Reuters anunció el 14 de octubre de 2026 la nueva generación de CoCounsel Legal a escala global y, con ella, el Multinational Profile: contenido jurídico de más de 100 países y territorios dentro de un único flujo de CoCounsel Legal. Según la nota de prensa, permite investigar requisitos legales y de compliance en varios países, comparar diferencias clave, identificar cuestiones que pueden requerir asesoramiento local y trazar cada hallazgo hasta su fuente, sin cambiar de herramienta. La nueva generación está disponible ya en el Reino Unido, con disponibilidad general prevista antes de que acabe octubre en países como Australia, Brasil, Canadá, Singapur y Emiratos; el Multinational Profile llegará a clientes de EE. UU., Europa, Reino Unido, Canadá y Australia a lo largo de octubre.",
+  "summary_p2": "Para un in-house con operaciones en varias jurisdicciones o un despacho que coordina corresponsales, el atractivo es una primera pasada comparada antes de pedir opinión local, con la fuente a la vista. La pregunta clave es la profundidad real por país: no es lo mismo Westlaw y Practical Law en EE. UU. o Reino Unido que la cobertura en mercados donde Thomson Reuters no tiene contenido editorial propio. Llega la misma semana en que Thomson Reuters queda fuera de Copilot for Legal salvo por HighQ. Matiz: es un comunicado del proveedor; no detalla qué fuentes cubre cada país ni la cobertura para España.",
+  "why_sota": "Research comparado de más de 100 jurisdicciones dentro de una plataforma agéntica incumbente.",
+  "why_now": "Nota de prensa del 14 oct 2026; despliegue durante octubre. NEW frente a TR×OpenAI (descartado 10-15).",
+  "geo": [
+    "Global",
+    "GB",
+    "US"
+  ],
+  "topics": [
+    "research",
+    "transfronterizo",
+    "compliance",
+    "cocounsel"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pr-newswire",
+      "url": "https://www.prnewswire.com/news-releases/legal-work-crosses-borders-now-so-does-cocounsel-legal-302907697.html",
+      "cited_title": "Legal Work Crosses Borders. Now So Does CoCounsel Legal.",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-thomson-reuters",
+    "ent-cocounsel-legal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

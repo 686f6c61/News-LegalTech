@@ -1,0 +1,12 @@
+id: ent-microsoft
+name: Microsoft
+type: company
+url: https://www.microsoft.com/
+geo:
+- US
+- Global
+aliases:
+- MSFT
+notes: Editor de Word y Microsoft 365 Copilot; lanza Copilot for Legal (15 oct 2026).
+  Ficha mínima.
+stub: true

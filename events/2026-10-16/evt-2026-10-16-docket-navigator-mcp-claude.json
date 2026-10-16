@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-16-docket-navigator-mcp-claude",
+  "date": "2026-10-15",
+  "type": "product",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Docket Navigator lanza un conector MCP para Claude: jueces, partes y decisiones de patentes con cita al expediente",
+  "short_title": "Docket Navigator abre su litigación de patentes a Claude vía MCP",
+  "standfirst": "District courts, PTAB e ITC en lenguaje natural, con cada respuesta citada. Permisos por usuario y otras plataformas de IA más adelante.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "EE. UU.",
+  "piece_type": "Producto",
+  "summary_p1": "Docket Navigator, base de datos de litigación de propiedad intelectual codificada a mano, anunció el 15 de octubre de 2026 un conector Model Context Protocol (MCP) para Claude. Permite describir el problema en lenguaje natural y responder con sus datos, con cada respuesta citada al registro: preparar vistas con el historial de un juez sobre un tipo de motion (moción), investigar a la contraparte en los district courts, el PTAB y la ITC, analizar jueces y tribunales, preparar pitches el día que se presenta una demanda y vigilar el Docket Report diario contra una watch list de clientes. Cada usuario entra con su propia cuenta y solo ve lo que permiten sus permisos; los administradores pueden cortar el acceso, y la investigación se guarda en binders y alertas de Docket Navigator. Según su centro de ayuda y el comunicado del 15 de octubre, el conector figura en el Claude Connectors Directory y para Team y Enterprise lo activa un Owner. Anuncia más plataformas de IA en camino.",
+  "summary_p2": "Es otra pieza del mismo movimiento que el de Bloomberg Law: el dato especializado se sirve como herramienta dentro del asistente general. Para un equipo de patent litigation (litigación de patentes), el valor está en la granularidad (motion outcomes, claim constructions, remedios) y en que cada cifra lleve su enlace. El propio centro de ayuda pide verificar la fuente citada y revisar denominador, periodo y población de cualquier estadística antes de usarla en un documento para cliente. Matiz: el anuncio es del proveedor; no hay datos de uso ni de precisión, y la experiencia depende del modelo que use cada organización.",
+  "why_sota": "Analítica de litigación de patentes codificada a mano y consultable vía MCP con citas.",
+  "why_now": "Anuncio del 15 oct 2026. NEW frente a 09-29→10-15.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "mcp",
+    "patentes",
+    "litigacion",
+    "claude",
+    "analitica-judicial"
+  ],
+  "sources": [
+    {
+      "source_id": "src-docket-navigator",
+      "url": "https://help.docketnavigator.com/mcp/installation-instructions/claude/",
+      "cited_title": "Connect Docket Navigator to Claude",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-docket-navigator",
+    "ent-anthropic"
+  ],
+  "lang": "es",
+  "status": "published"
+}

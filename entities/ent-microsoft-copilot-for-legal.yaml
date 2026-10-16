@@ -1,0 +1,12 @@
+id: ent-microsoft-copilot-for-legal
+name: Microsoft Copilot for Legal
+type: product
+url: https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html
+geo:
+- Global
+aliases:
+- Copilot for Legal
+- Legal Agent
+notes: Más de 20 skills jurídicas en Word y Cowork; sustituye a Legal Agent. Ficha
+  mínima.
+stub: true

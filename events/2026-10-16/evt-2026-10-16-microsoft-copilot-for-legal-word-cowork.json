@@ -1,0 +1,66 @@
+{
+  "id": "evt-2026-10-16-microsoft-copilot-for-legal-word-cowork",
+  "date": "2026-10-15",
+  "type": "product",
+  "sota_score": 8.8,
+  "ai_legaltech": true,
+  "title": "Microsoft lanza Copilot for Legal: más de 20 skills jurídicas en Word y Cowork y plugins de Harvey, Legora y otros",
+  "short_title": "Microsoft lanza Copilot for Legal: 20+ skills jurídicas en Word",
+  "standfirst": "Cuarto gigante de IA con vertical legal en cinco meses. Sustituye a Legal Agent; Westlaw, CoCounsel y Lexis no figuran entre los partners.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Plataformas",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Microsoft lanzó el 15 de octubre de 2026 Copilot for Legal: más de 20 skills (habilidades) jurídicas dentro de Microsoft 365 Copilot que funcionan en Word y en Cowork, su espacio de trabajo agéntico, según LawSites y Artificial Lawyer. En Word permite revisar contratos contra playbooks, redactar desde plantillas y precedentes aprobados (almacenados en SharePoint, con content controls como marcadores editables) y aplicar las propuestas como tracked changes (control de cambios) nativos; en Cowork coordina trabajo sobre colecciones de contratos y aplicaciones de 365: extraer obligaciones y plazos, comparar acuerdos y construir cronologías de casos. El plugin de Word sustituye a Legal Agent, la herramienta de revisión y redlining que Microsoft lanzó en abril en su programa Frontier. Los plugins de más de dos docenas de partners, entre ellos Harvey, Legora e iManage, empiezan a llegar por el registro de plugins de Microsoft; los de Microsoft se despliegan desde el 15 de octubre para clientes con licencia comercial de Microsoft 365 Copilot. Microsoft cita como cliente a Clyde & Co, cuyo CIO habla de una adopción de Copilot cercana al 90%, y hará una demo en un webinar el 22 de octubre.",
+  "summary_p2": "LawSites lo enmarca como el cuarto gigante de IA que monta un vertical legal en cinco meses, tras Claude for Legal (mayo), Gemini Enterprise for Legal (agosto) y Astra for Law (septiembre), con el mismo patrón: skills propias, conectores a los especialistas y la promesa de no salir de la plataforma. La diferencia es que el abogado ya «vive en Word». Para un vendor centrado en contratos, Artificial Lawyer lo describe como competencia directa aunque sea partner; para un despacho o un in-house con licencias de Copilot, la pregunta práctica es si estas skills bastan para el trabajo rutinario antes de pagar otra plataforma. Ojo con los datos: los números de Legal Agent en Frontier (más de 1.800 usuarios, casi 100.000 ediciones, unas siete de cada diez sugerencias aceptadas) y las métricas internas de fluidez, concisión y relevancia son de Microsoft, sin ningún benchmark jurídico independiente. Westlaw, CoCounsel y LexisNexis no aparecen en la lista; Thomson Reuters solo figura a través de HighQ.",
+  "why_sota": "Microsoft lleva un vertical legal completo al editor donde ya trabaja el abogado, con plugins de las grandes plataformas.",
+  "why_now": "LawSites y Artificial Lawyer, 15 oct 2026; despliegue desde ese día. NEW frente a las pasadas 09-29→10-15.",
+  "geo": [
+    "Global",
+    "US"
+  ],
+  "topics": [
+    "copilot",
+    "word",
+    "plataformas",
+    "contratos",
+    "plugins",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
+      "cited_title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
+      "accessed": "2026-10-16"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/",
+      "cited_title": "Microsoft Launches Copilot for Legal – Brace for Impact!",
+      "accessed": "2026-10-16"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/",
+      "cited_title": "Microsoft Copilot for Legal: What Will Be the Fallout?",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-microsoft",
+    "ent-microsoft-copilot-for-legal",
+    "ent-harvey",
+    "ent-legora",
+    "ent-imanage",
+    "ent-clyde-co",
+    "ent-thomson-reuters",
+    "ent-anthropic",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

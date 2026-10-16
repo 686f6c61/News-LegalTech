@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-16-legora-ecosistema-30-integraciones",
+  "date": "2026-10-15",
+  "type": "product",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Legora busca la «centralidad» con un ecosistema de más de 30 integraciones que conecta DMS, deals y contratos a sus agentes",
+  "short_title": "Legora monta un ecosistema de más de 30 integraciones",
+  "standfirst": "Trabajar sobre los sistemas del despacho sin descargar ni subir archivos fuera de sus permisos. Respuesta a la presión de los grandes de IA.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Plataformas",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Legora presentó el 15 de octubre de 2026 un ecosistema de integraciones con más de 30 compañías que se conectan a su capacidad agéntica y llevan datos y trabajo externo a sus flujos, según Artificial Lawyer. La empresa lo explica como conectar con «los sistemas donde los equipos jurídicos ya guardan sus documentos, aplican sus ethical walls (barreras éticas), llevan sus deals y gestionan sus contratos», para completar el trabajo de principio a fin en vez de tarea a tarea. También lo vende como «cerrar huecos»: aplicar IA a ese trabajo solía exigir descargar archivos de una plataforma y subirlos a otra, fuera de los permisos que los gobiernan. Bryan Tsao, Chief Product Officer de Legora, resume que «cada viaje a otro sistema se come el tiempo que ahorra la IA».",
+  "summary_p2": "Artificial Lawyer lo lee como la «batalla por la centralidad»: quien gane el espacio donde el abogado pasa el día tendrá ventaja durante años, y quien no lo consiga acabará siendo un conector dentro del entorno de otro. La noticia sale el mismo día que Copilot for Legal, del que Legora es a la vez partner. Para un CIO o un responsable de innovación, lo que hay que mirar es si las integraciones respetan los permisos y las barreras éticas del DMS (gestor documental) de origen, y qué parte es conector de lectura y qué parte escribe de vuelta. Matiz: la lista de partners y el relato son de Legora vía AL; no hay datos de uso.",
+  "why_sota": "Plataforma de IA legal que apuesta por ser el espacio de trabajo central integrando 30+ sistemas.",
+  "why_now": "Artificial Lawyer, 15 oct 2026. NEW frente a Legora Intake (10-14) y Laurel (10-14).",
+  "geo": [
+    "Global"
+  ],
+  "topics": [
+    "plataformas",
+    "integraciones",
+    "dms",
+    "agentes",
+    "centralidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/15/legora-seeks-centrality-with-30-integrations-ecosystem/",
+      "cited_title": "Legora Seeks Centrality With 30+ Integrations Ecosystem",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-legora",
+    "ent-bryan-tsao",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

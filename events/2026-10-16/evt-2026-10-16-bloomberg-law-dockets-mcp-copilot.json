@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-16-bloomberg-law-dockets-mcp-copilot",
+  "date": "2026-10-15",
+  "type": "product",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Bloomberg Law lleva sus dockets federales y estatales a Microsoft Copilot con un conector MCP",
+  "short_title": "Bloomberg Law lleva sus dockets a Microsoft Copilot vía MCP",
+  "standfirst": "Buscar dockets, recuperar filings y crear alertas sin entrar en Bloomberg Law. Ya tenía un conector equivalente para Claude.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "EE. UU.",
+  "piece_type": "Producto",
+  "summary_p1": "Bloomberg Law anunció el 15 de octubre de 2026 un conector que da acceso a su colección de dockets (expedientes judiciales) federales y estatales y a su litigation intelligence (inteligencia de litigación) desde Microsoft Copilot, según su nota en PR Newswire. El conector usa Model Context Protocol (MCP) y permite buscar y recuperar detalles de dockets y filings (escritos presentados), seguir asuntos con alerts y tracks y sacar tendencias de litigación sin hacer una búsqueda aparte en la plataforma. Aaron Pierce, head de Bloomberg Law, lo presenta como monitorizar actividad litigiosa, revisar y comparar filings e identificar oportunidades «sin salir de Copilot». La página de soporte de Bloomberg Law ya documenta un conector MCP equivalente para Claude, con herramientas de búsqueda de dockets, metadatos, entradas, descarga de documentos y creación de alertas, que exige suscripción con acceso MCP habilitado.",
+  "summary_p2": "Coincide con el lanzamiento de Copilot for Legal y confirma el patrón: los proveedores de datos jurídicos se convierten en una capa que se consulta desde el asistente que el cliente ya tiene. Para un equipo de litigación, lo útil es tener monitorización y business development (desarrollo de negocio) sobre filings dentro del flujo de Copilot; lo que hay que revisar es la autenticación por usuario, qué queda registrado en el tenant y que las licencias federadas de Copilot (el add-on de Microsoft 365 Copilot, según la documentación de Microsoft) estén en regla. Matiz: es una nota de prensa del proveedor, sin precio ni fecha de disponibilidad general detallada.",
+  "why_sota": "Datos de litigación de primer nivel consultables por MCP desde Copilot y Claude.",
+  "why_now": "PR Newswire, 15 oct 2026, el mismo día de Copilot for Legal. NEW frente a 09-29→10-15.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "mcp",
+    "litigacion",
+    "dockets",
+    "copilot",
+    "conectores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pr-newswire",
+      "url": "https://www.prnewswire.com/news-releases/bloomberg-law-brings-dockets-and-litigation-intelligence-to-microsoft-copilot-302910504.html",
+      "cited_title": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-bloomberg-law",
+    "ent-aaron-pierce",
+    "ent-microsoft",
+    "ent-anthropic"
+  ],
+  "lang": "es",
+  "status": "published"
+}

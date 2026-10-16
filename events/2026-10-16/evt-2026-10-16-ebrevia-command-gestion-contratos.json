@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-16-ebrevia-command-gestion-contratos",
+  "date": "2026-10-15",
+  "type": "product",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "eBrevia lanza Command: gestión de contratos con IA sin las implantaciones largas de un CLM",
+  "short_title": "eBrevia lanza Command, gestión de contratos sin implantación de CLM",
+  "standfirst": "Saca obligaciones y oportunidades de los contratos para legal, ventas, compras y finanzas. Funciona junto a DraftPro en Word.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Contratos",
+  "country": "EE. UU.",
+  "piece_type": "Producto",
+  "summary_p1": "eBrevia, pionera de la IA para contratos orientada a in-house, lanzó el 15 de octubre de 2026 Command, una plataforma de gestión de contratos que, según la empresa, ayuda a entender qué hay en los acuerdos, identificar qué requiere atención y actuar, según Artificial Lawyer. La posiciona como una forma de obtener muchos de los beneficios de un CLM (contract lifecycle management, gestión del ciclo de vida de contratos) sin «implantaciones largas, mucha personalización ni rediseño de procesos». Da a los equipos legal, de ventas, compras, finanzas y compliance acceso directo a compromisos, obligaciones y oportunidades de sus contratos, y funciona junto a DraftPro, su herramienta de redacción, revisión y negociación asistida por IA en Microsoft Word. Adam Nguyen (CEO) y Jake Mundt (CTO), cofundadores, insisten en la velocidad, la precisión y el coste.",
+  "summary_p2": "Artificial Lawyer recuerda que el CLM no ha muerto, pero compite como nunca: las empresas de IA de contratos montan plataformas que cubren lo que antes era monopolio del CLM, y los grandes de IA van directos al in-house (el mismo día, Copilot for Legal promete extraer obligaciones y plazos en Cowork). Para un GC con un repositorio sin explotar, Command apunta al caso de visibilidad rápida; conviene pedir una prueba con contratos propios y medir la extracción, más que fiarse del discurso. Matiz: solo hay declaraciones del proveedor, sin precio, clientes ni métricas.",
+  "why_sota": "Alternativa ligera al CLM basada en extracción con IA, en plena presión de las plataformas.",
+  "why_now": "Artificial Lawyer, 15 oct 2026. NEW frente a 09-29→10-15.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "contratos",
+    "clm",
+    "in-house",
+    "extraccion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/15/ebrevia-launches-command-contract-management-platform/",
+      "cited_title": "eBrevia Launches ‘Command’ Contract Management Platform",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-ebrevia",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

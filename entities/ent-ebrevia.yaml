@@ -1,0 +1,10 @@
+id: ent-ebrevia
+name: eBrevia
+type: vendor
+url: https://ebrevia.com/
+geo:
+- US
+aliases: []
+notes: IA de contratos; lanza Command (gestión de contratos) y DraftPro en Word. Ficha
+  mínima.
+stub: true

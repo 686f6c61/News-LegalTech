@@ -1,0 +1,11 @@
+id: ent-bloomberg-law
+name: Bloomberg Law
+type: vendor
+url: https://pro.bloomberglaw.com/
+geo:
+- US
+aliases:
+- Bloomberg Industry Group
+notes: Research jurídico y dockets; conector MCP para Claude y Microsoft Copilot.
+  Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-forentec
+name: Forentec
+type: company
+url: https://forentec.ch/
+geo:
+- CH
+aliases:
+- Forentec AG
+notes: eDiscovery, forensics, ciberseguridad y OSINT en Dübendorf; adquirida por Lineal
+  (oct 2026). Ficha mínima.
+stub: true

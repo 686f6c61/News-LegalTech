@@ -1,0 +1,11 @@
+id: ent-prudencia-ai
+name: Prudencia.ai
+type: vendor
+url: https://prudencia.ai/
+geo:
+- ES
+aliases:
+- Prudencia
+- Prudencia Nova
+notes: IA jurídica española (Barcelona); lanza Prudencia Nova (oct 2026). Ficha mínima.
+stub: true

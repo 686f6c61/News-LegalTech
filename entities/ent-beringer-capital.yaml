@@ -1,0 +1,11 @@
+id: ent-beringer-capital
+name: Beringer Capital
+type: investor
+url: https://www.beringercapital.com/
+geo:
+- CA
+- Global
+aliases: []
+notes: Private equity; propietaria de la nueva compañía escindida de Control Risks.
+  Ficha mínima.
+stub: true

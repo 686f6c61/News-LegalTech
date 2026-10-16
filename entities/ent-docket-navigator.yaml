@@ -1,0 +1,10 @@
+id: ent-docket-navigator
+name: Docket Navigator
+type: vendor
+url: https://www.docketnavigator.com/
+geo:
+- US
+aliases: []
+notes: Datos y analítica de litigación de patentes (district courts, PTAB, ITC); conector
+  MCP para Claude. Ficha mínima.
+stub: true

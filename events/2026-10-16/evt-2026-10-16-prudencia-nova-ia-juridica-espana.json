@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-16-prudencia-nova-ia-juridica-espana",
+  "date": "2026-10-15",
+  "type": "product",
+  "sota_score": 6.2,
+  "ai_legaltech": true,
+  "title": "Prudencia.ai presenta Prudencia Nova: verificación de normas y jurisprudencia, deep research y expedientes con memoria",
+  "short_title": "Prudencia.ai presenta Nova: verificación y deep research en España",
+  "standfirst": "Contenido con apariencia de patrocinado en Lawyerpress, y el lanzamiento salió antes como comunicado en Europa Press. Las cifras son de la empresa.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Research",
+  "country": "España",
+  "piece_type": "Producto",
+  "summary_p1": "La española Prudencia.ai (Barcelona) ha presentado Prudencia Nova, la evolución de su plataforma de IA jurídica, según un artículo publicado en Lawyerpress el 15 de octubre de 2026 y un comunicado difundido por Europa Press el 2 de octubre. Las novedades que destaca son la verificación normativa y jurisprudencial, la investigación jurídica en profundidad (deep research), el acceso a los documentos originales que fundamentan cada respuesta, un nuevo buscador de jurisprudencia, una biblioteca de prompting jurídico, memoria y organización por expedientes y la incorporación progresiva de workflows (flujos de trabajo) especializados. El blog de la empresa añade un Radar Normativo con IA para vigilar novedades del BOE. Prudencia.ai combina modelos de IA con recuperación propia sobre fuentes de legislación y jurisprudencia, y amplía la cobertura de fuentes nacionales y europeas.",
+  "summary_p2": "Interesa como termómetro del mercado español: los asistentes locales pasan del chat a espacios de trabajo con verificación de fuentes, el mismo giro que hacen Harvey o Legora a otra escala. Para un despacho español que lo evalúe, la prueba útil es pedir citas a sentencias concretas y comprobar vigencia y existencia, no fiarse del ranking. Cautela: la pieza de Lawyerpress tiene tono de contenido patrocinado y el lanzamiento salió como comunicado de empresa en Europa Press; la primera posición en el Índice de Fiabilidad Jurídica de Observatorio Legal (15 asistentes) y los más de 20.000 usuarios registrados los cita la propia compañía, sin auditoría independiente.",
+  "why_sota": "IA jurídica española que pasa del chat a un espacio de trabajo con verificación de fuentes.",
+  "why_now": "Lawyerpress, 15 oct 2026 (comunicado en Europa Press del 2 oct). NEW frente a 09-29→10-15.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "espana",
+    "research",
+    "verificacion",
+    "jurisprudencia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/10/15/prudencia-nova-la-inteligencia-artificial-juridica-evoluciona-hacia-la-investigacion-la-verificacion-y-la-automatizacion-del-trabajo-de-los-abogados/",
+      "cited_title": "Prudencia Nova: la inteligencia artificial jurídica evoluciona hacia la investigación, la verificación y la automatización del trabajo de los abogados",
+      "accessed": "2026-10-16"
+    },
+    {
+      "source_id": "src-europa-press",
+      "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-prudencia-nova-nueva-generacion-inteligencia-artificial-juridica-abogados-20261002160302.html",
+      "cited_title": "Prudencia Nova: una nueva generación de inteligencia artificial jurídica para abogados",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-prudencia-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,12 @@
+id: ent-lineal
+name: Lineal
+type: vendor
+url: https://lineal.com/
+geo:
+- US
+- Global
+aliases:
+- Lineal Services
+notes: Legal technology y servicios de eDiscovery (AmplifyAI); Kansas City. Ficha
+  mínima.
+stub: true

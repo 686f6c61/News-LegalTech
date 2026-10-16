@@ -1,0 +1,11 @@
+id: ent-clyde-co
+name: Clyde & Co
+type: law_firm
+url: https://www.clydeco.com/
+geo:
+- GB
+- Global
+aliases:
+- Clyde & Co LLP
+notes: Despacho citado como cliente de Copilot for Legal. Ficha mínima.
+stub: true

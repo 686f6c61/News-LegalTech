@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-16-control-risks-escinde-discovery-forensics",
+  "date": "2026-10-15",
+  "type": "market",
+  "sota_score": 6.4,
+  "ai_legaltech": false,
+  "title": "Control Risks escinde su negocio de discovery, datos y forensics en una nueva compañía propiedad de Beringer Capital",
+  "short_title": "Control Risks escinde su eDiscovery y forensics con Beringer Capital",
+  "standfirst": "Georges Sabongui (ex CloudNine) será CEO. Control Risks conserva una participación que no cuantifica; cierre previsto antes de fin de año.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "eDiscovery",
+  "country": "",
+  "piece_type": "Mercado",
+  "summary_p1": "Control Risks, consultora global de inteligencia estratégica y seguridad, anunció el 15 de octubre de 2026 un acuerdo para escindir dos negocios, Discovery + Data Insights y Forensics, en una compañía independiente que operará inicialmente como Control Risks – Compliance, Investigations & eDiscovery, según LawSites. La nueva empresa será propiedad del private equity Beringer Capital, que invertirá en capacidades, tecnología y talento. Control Risks conservará una participación «significativa», sin cuantificar, y una alianza estratégica. El cierre se espera antes de fin de año. La dirigirá Georges Sabongui, CEO de CloudNine entre 2021 y 2024 y antes chief commercial officer de X1, y pasarán todos los equipos de América, EMEA y APAC, incluidos los socios Michele Wiener, Brad Kolacinski, John Kim y Brian Mich.",
+  "summary_p2": "No es una noticia de IA, pero sí de mercado: el eDiscovery y el forensics se separan de las consultoras generalistas para recibir capital propio, en paralelo a la compra de Forentec por Lineal el mismo día. Para un despacho o un in-house con investigaciones abiertas con Control Risks, conviene preguntar por la continuidad de equipos, contratos y ubicación de datos durante la transición. Matiz: no se publican importe, tamaño de la participación ni cifras de negocio.",
+  "why_sota": "Movimiento de capital privado en eDiscovery y forensics; contexto de mercado, no IA.",
+  "why_now": "LawSites, 15 oct 2026. NEW frente a 09-29→10-15.",
+  "geo": [
+    "Global",
+    "US",
+    "GB"
+  ],
+  "topics": [
+    "ediscovery",
+    "forensics",
+    "private-equity",
+    "escision"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
+      "cited_title": "Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company",
+      "accessed": "2026-10-16"
+    }
+  ],
+  "entities": [
+    "ent-control-risks",
+    "ent-beringer-capital",
+    "ent-georges-sabongui"
+  ],
+  "lang": "es",
+  "status": "published"
+}
