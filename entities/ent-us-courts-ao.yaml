@@ -1,0 +1,11 @@
+id: ent-us-courts-ao
+name: Administrative Office of the U.S. Courts
+type: government
+url: https://www.uscourts.gov/
+geo:
+- US
+aliases:
+- AO
+- uscourts.gov
+notes: Órgano administrativo de la judicatura federal de EE. UU. Ficha mínima.
+stub: true

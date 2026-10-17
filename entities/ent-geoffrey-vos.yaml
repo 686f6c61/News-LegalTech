@@ -1,0 +1,11 @@
+id: ent-geoffrey-vos
+name: Sir Geoffrey Vos
+type: person
+url: https://www.judiciary.uk/
+geo:
+- GB
+aliases:
+- Master of the Rolls
+notes: Master of the Rolls (Inglaterra y Gales); preside el steering group de SIFoCC.
+  Ficha mínima.
+stub: true

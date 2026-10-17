@@ -1,0 +1,10 @@
+id: ent-justizministerium-rlp
+name: Ministerio de Justicia de Renania-Palatinado
+type: government
+url: https://jm.rlp.de/
+geo:
+- DE
+aliases:
+- Justizministerium Rheinland-Pfalz
+notes: Organiza el Segundo Examen de Estado en Renania-Palatinado. Ficha mínima.
+stub: true

@@ -1,0 +1,15 @@
+id: ent-hogan-lovells-cadwalader
+name: Hogan Lovells Cadwalader
+type: law_firm
+url: https://www.hoganlovells.com/
+geo:
+- US
+- GB
+- Global
+aliases:
+- Hogan Lovells
+- Cadwalader
+notes: Despacho resultante de la fusión Hogan Lovells y Cadwalader (operativo desde
+  el 1 jul 2026); estrategia de IA firmwide con Harvey y Legora (16 oct 2026). Ficha
+  mínima.
+stub: true

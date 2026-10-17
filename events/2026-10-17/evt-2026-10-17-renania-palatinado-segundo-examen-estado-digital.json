@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-17-renania-palatinado-segundo-examen-estado-digital",
+  "date": "2026-10-16",
+  "type": "other",
+  "sota_score": 6.2,
+  "ai_legaltech": false,
+  "title": "Renania-Palatinado celebra el primer Segundo Examen de Estado de Derecho íntegramente digital, con leyes y comentarios en pantalla",
+  "short_title": "Alemania: primer Segundo Examen de Derecho íntegramente digital",
+  "standfirst": "Unos 200 aspirantes, ocho pruebas y una biblioteca electrónica de C.H. Beck en un segundo monitor. Adiós a la maleta de códigos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Formación jurídica",
+  "country": "Alemania",
+  "piece_type": "Producto",
+  "summary_p1": "Renania-Palatinado ha celebrado por primera vez toda la parte escrita del Segundo Examen de Estado de Derecho en formato digital, según Legal Tribune Online (16 de octubre de 2026). Unos 200 aspirantes en Maguncia, Tréveris y Frankenthal escribieron sus ocho pruebas de cinco horas en portátil, como ya era posible desde octubre de 2021, pero ahora con un segundo monitor con una biblioteca electrónica de leyes y comentarios en lugar de los volúmenes en papel. Según el Ministerio de Justicia regional, es el primer Land que ofrece electrónicamente todos los materiales permitidos. La literatura la aporta el grupo C.H. Beck y el entorno técnico de examen, IQUL GmbH; la corrección y el acceso al expediente ya eran electrónicos. Se probó en mayo con un examen piloto sin incidencias técnicas, y los aspirantes tenían la biblioteca desde el inicio de su formación práctica en mayo de 2025.",
+  "summary_p2": "No es IA, pero es infraestructura: la generación de juristas que entra ahora en despachos y juzgados alemanes se examina ya con texto legal en pantalla y búsqueda, no con papel, y eso condiciona cómo esperará trabajar. Para las editoriales jurídicas, el examen convierte su base de datos en el entorno oficial de la prueba, con lo que supone de fidelización temprana del usuario; para quien diseñe pruebas profesionales en otros países, incluido el acceso a la abogacía en España, es un precedente operativo de cómo digitalizar materiales sin abrir la puerta a herramientas no permitidas. Matiz: el artículo no detalla qué funciones de búsqueda o restricciones tiene el entorno de examen.",
+  "why_sota": "Primer examen de Estado jurídico alemán con todos los materiales en digital.",
+  "why_now": "LTO, 16 oct 2026, tras las dos semanas de pruebas. NEW frente a 09-29→10-16.",
+  "geo": [
+    "DE"
+  ],
+  "topics": [
+    "formacion",
+    "examenes",
+    "editoriales",
+    "digitalizacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/nachrichten/n/rheinland-pfalz-zweites-staatsexamen-digital-hilfsmittel-e-examen",
+      "cited_title": "Zweites Jura-Examen erstmals komplett digital: Das Ende des Rollkoffers",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-justizministerium-rlp",
+    "ent-ch-beck",
+    "ent-iqul"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-17-sepin-helena-carpetas-con-conocimiento",
+  "date": "2026-10-16",
+  "type": "product",
+  "sota_score": 6.5,
+  "ai_legaltech": true,
+  "title": "Helena, la IA jurídica de Sepín, añade carpetas con conocimiento para trabajar con documentos propios de cada asunto",
+  "short_title": "Helena (Sepín) añade carpetas con documentos propios por asunto",
+  "standfirst": "Nueva interfaz, buscador de conversaciones y personalización de PDF con el logo del despacho. El cambio de fondo es el contexto por expediente.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "IA jurídica en España",
+  "country": "España",
+  "piece_type": "Producto",
+  "summary_p1": "Sepín publicó el 16 de octubre de 2026 en su web el resumen de la evolución de Helena, su asistente de IA jurídica, que presentó en un webinar ya disponible en grabación. La novedad principal son las carpetas con conocimiento: además de agrupar conversaciones por materia, cliente o expediente, permiten subir documentos propios para que Helena los tenga en cuenta al responder dentro de esa carpeta, combinando la documentación del profesional con el fondo jurídico de Sepín. Sepín pone ejemplos como un contrato con anexos y comunicaciones, las actas y estatutos de una comunidad o cartas de despido. Llegan también una interfaz renovada, un buscador dentro del contenido de chats anteriores y una zona de usuario para cargar hasta cinco logotipos en los PDF e infografías y decidir si se muestra «Generado por Sepín».",
+  "summary_p2": "Es la misma dirección que siguen los grandes asistentes jurídicos: pasar de la consulta puntual a un espacio de trabajo por asunto, con el documento del cliente como contexto. Para despachos pequeños, administradores de fincas y graduados sociales, que son el público al que se dirige Sepín, eso acerca el uso diario, pero también traslada a la editorial documentación del cliente. Antes de subir contratos o expedientes conviene revisar dónde se almacenan, cuánto tiempo se conservan, si se usan para entrenar y qué dice el encargo de tratamiento. Y la opción de quitar «Generado por Sepín» de los PDF obliga a decidir internamente cómo se informa al cliente del uso de IA. Matiz: es contenido del propio proveedor, sin datos de precisión, precio ni condiciones de tratamiento.",
+  "why_sota": "Un asistente jurídico español pasa a trabajar con el contexto documental de cada asunto.",
+  "why_now": "Publicación de Sepín, 16 oct 2026. NEW frente a 09-29→10-16.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "ia-juridica-espana",
+    "asistentes",
+    "documentos",
+    "rgpd",
+    "pymes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-sepin-helena-ia",
+      "url": "https://helena-ia.sepin.es/helena-evoluciona-novedades-ia-juridica/",
+      "cited_title": "Helena evoluciona: descubre todas sus novedades y cómo aprovecharlas",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-sepin",
+    "ent-helena-sepin"
+  ],
+  "lang": "es",
+  "status": "published"
+}

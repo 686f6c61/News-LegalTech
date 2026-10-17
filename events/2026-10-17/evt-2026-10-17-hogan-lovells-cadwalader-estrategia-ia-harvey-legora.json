@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-17-hogan-lovells-cadwalader-estrategia-ia-harvey-legora",
+  "date": "2026-10-16",
+  "type": "market",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "Hogan Lovells Cadwalader firma con Harvey y Legora, crea un AI Board y nombra un managing partner de tecnología e IA",
+  "short_title": "Hogan Lovells Cadwalader apuesta por Harvey y Legora a la vez",
+  "standfirst": "Estrategia de IA firmwide con dos plataformas, desarrollo propio vía ELTEMATE y un órgano que decide qué se construye y qué se compra.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "",
+  "piece_type": "Mercado",
+  "summary_p1": "Hogan Lovells Cadwalader presentó el 16 de octubre de 2026 una estrategia de IA para toda la firma con acuerdos firmados con Harvey y con Legora, según recoge Unite.AI a partir del anuncio de Harvey y del propio despacho. Harvey se despliega en Corporate & Finance, Litigation & Arbitration y Regulatory/IP, y los abogados ya han construido custom agents (agentes a medida) para knowledge management (gestión del conocimiento), Capital Markets y arbitraje internacional, además de playbooks colaborativos. ELTEMATE, su brazo tecnológico, seguirá desarrollando herramientas propias y soluciones de cara al cliente. La firma crea un AI Board que evaluará ideas de las áreas de práctica, decidirá si se construyen dentro o se compran fuera y asignará recursos; nombra a Paul Otto Managing Partner de Legal Technology and AI, a Oliver Campbell Chief Transformation Officer y a Bill Ferreira al frente de una nueva Commercial Unit de pricing, legal project management y client delivery (entrega al cliente).",
+  "summary_p2": "Lo relevante no es elegir vendor, sino la frase del CEO Miguel Zaldivar: «no hay una única solución de IA que cubra todas las necesidades de un despacho global moderno». Un despacho de unos 3.100 abogados que paga dos plataformas generalistas a la vez y mantiene desarrollo propio confirma que en la gran firma el modelo multi-vendor ya es la norma, y que la batalla entre Harvey y Legora se decide más por área de práctica que por contrato marco. Para un despacho mediano, el patrón que vale copiar es el de gobierno: un órgano que decide build or buy (construir o comprar) y que vincula la IA con pricing y entrega al cliente, no solo con productividad. Matiz: todo procede del anuncio de Harvey y del comunicado del despacho; no hay cifras de uso, coste ni resultados.",
+  "why_sota": "Gran despacho global que formaliza un modelo multi-plataforma con gobierno propio de IA.",
+  "why_now": "Anuncio de Harvey y del despacho, 16 oct 2026. NEW frente a las pasadas 09-29→10-16.",
+  "geo": [
+    "Global",
+    "US",
+    "GB"
+  ],
+  "topics": [
+    "despachos",
+    "harvey",
+    "legora",
+    "gobierno-ia",
+    "agentes",
+    "pricing"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/custom-ai-agents-built-by-hogan-lovells-cadwalader-lawyers-harvey-says/",
+      "cited_title": "Custom AI Agents Built by Hogan Lovells Cadwalader Lawyers, Harvey Says",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-hogan-lovells-cadwalader",
+    "ent-harvey",
+    "ent-legora",
+    "ent-eltemate",
+    "ent-paul-otto",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

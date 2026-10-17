@@ -1,0 +1,12 @@
+id: ent-ch-beck
+name: C.H. Beck
+type: company
+url: https://www.beck.de/
+geo:
+- DE
+aliases:
+- C.H.Beck
+- Verlag C.H.Beck
+notes: Editorial jurídica alemana; aporta la literatura digital del Segundo Examen
+  en Renania-Palatinado. Ficha mínima.
+stub: true

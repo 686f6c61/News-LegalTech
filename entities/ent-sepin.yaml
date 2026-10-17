@@ -1,0 +1,10 @@
+id: ent-sepin
+name: Sepín
+type: vendor
+url: https://www.sepin.es/
+geo:
+- ES
+aliases:
+- Editorial Jurídica Sepín
+notes: Editorial jurídica española. Ficha mínima.
+stub: true

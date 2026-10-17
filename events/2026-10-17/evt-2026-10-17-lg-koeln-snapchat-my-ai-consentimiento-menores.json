@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-17-lg-koeln-snapchat-my-ai-consentimiento-menores",
+  "date": "2026-10-15",
+  "type": "case_law",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "El LG Köln declara ilícito que Snapchat use por defecto lo que los menores cuentan a su chatbot My AI para publicidad",
+  "short_title": "LG Köln: Snapchat no puede fingir el consentimiento en My AI",
+  "standfirst": "Datos sensibles de menores introducidos en el chatbot, casillas premarcadas y publicidad de alcohol. Sentencia de 17 de septiembre, publicada ahora.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Protección de datos",
+  "country": "Alemania",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Landgericht Köln (tribunal regional de Colonia) resolvió que Snap Group recogió y trató de forma ilícita datos personales sensibles introducidos en My AI, el chatbot de IA integrado en Snapchat, según informa Legal Tribune Online (15 de octubre de 2026; sentencia de 17 de septiembre de 2026, Az. 33 O 120/24). Antes del primer uso, un aviso decía que My AI podía usar la información para mejorar productos y personalizar anuncios, y en «preferencias de anuncios» todas las opciones venían marcadas: lo escrito en el chat, incluidas fotos, notas de voz y datos sobre religión u orientación sexual, podía usarse para publicidad personalizada y cederse a redes publicitarias. Los demandantes, defensores de los consumidores, demandaron tras abrir una cuenta de menor. LTO recuerda que el artículo 9 del RGPD exige consentimiento expreso, que en servicios dirigidos a menores de 16 años debe dar o autorizar quien tiene la patria potestad, y que Snapchat ni siquiera lo preveía; el tribunal se apoyó en la jurisprudencia del BGH, que no admite el consentimiento por casillas premarcadas.",
+  "summary_p2": "La sentencia prohíbe a Snapchat fingir el consentimiento con opciones premarcadas y censura además la publicidad de alcohol y juego dirigida a menores; los demandantes criticaron también que el chatbot, ante el perfil de una supuesta usuaria de 14 años, sugiriera probar cócteles. Para quien integre un asistente conversacional en un producto de consumo, y también para vendors jurídicos que ofrecen chatbots al público, la lección es que lo que el usuario escribe al bot se trata como dato propio con su base jurídica, y que el texto del aviso y la configuración por defecto se van a revisar como cualquier otro tratamiento. En Europa es una pieza más de la línea que separa el uso del prompt para entrenar o hacer publicidad del servicio que el usuario cree estar usando. Matiz: la fuente es la crónica de LTO; no consta si la sentencia es firme.",
+  "why_sota": "Primer caso alemán que aplica el art. 9 RGPD a lo que los menores escriben a un chatbot de IA.",
+  "why_now": "LTO, 15 oct 2026 (sentencia de 17 sep 2026). NEW frente a 09-29→10-16.",
+  "geo": [
+    "DE",
+    "EU"
+  ],
+  "topics": [
+    "rgpd",
+    "chatbots",
+    "menores",
+    "consentimiento",
+    "publicidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/nachrichten/n/lg-koeln-ki-chatbot-snapchat-datenschutz-33-o-120-24",
+      "cited_title": "LG Köln zu Social-Media-Plattform: Snapchat verstößt gegen Daten- und Jugendschutz",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-lg-koeln",
+    "ent-snap"
+  ],
+  "lang": "es",
+  "status": "published"
+}

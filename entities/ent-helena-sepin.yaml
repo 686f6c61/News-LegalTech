@@ -1,0 +1,11 @@
+id: ent-helena-sepin
+name: Helena (Sepín)
+type: product
+url: https://helena-ia.sepin.es/
+geo:
+- ES
+aliases:
+- Helena IA
+notes: Asistente de IA jurídica de Sepín; carpetas con conocimiento (oct 2026). Ficha
+  mínima.
+stub: true

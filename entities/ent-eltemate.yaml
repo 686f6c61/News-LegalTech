@@ -1,0 +1,10 @@
+id: ent-eltemate
+name: ELTEMATE
+type: vendor
+url: https://www.eltemate.com/
+geo:
+- Global
+aliases: []
+notes: Unidad de tecnología jurídica de Hogan Lovells Cadwalader que desarrolla herramientas
+  y soluciones propias. Ficha mínima.
+stub: true

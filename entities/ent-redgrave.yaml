@@ -1,0 +1,11 @@
+id: ent-redgrave
+name: Redgrave LLP
+type: law_firm
+url: https://www.redgravellp.com/
+geo:
+- US
+aliases:
+- Redgrave
+notes: Despacho de eDiscovery e information governance; working paper 2026-01 sobre
+  aiR for Review. Ficha mínima.
+stub: true

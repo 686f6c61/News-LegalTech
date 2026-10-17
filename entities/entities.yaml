@@ -2610,3 +2610,225 @@ entities:
   notes: eDiscovery, forensics, ciberseguridad y OSINT en Dübendorf; adquirida por
     Lineal (oct 2026). Ficha mínima.
   stub: true
+- id: ent-hogan-lovells-cadwalader
+  name: Hogan Lovells Cadwalader
+  type: law_firm
+  url: https://www.hoganlovells.com/
+  geo:
+  - US
+  - GB
+  - Global
+  aliases:
+  - Hogan Lovells
+  - Cadwalader
+  notes: Despacho resultante de la fusión Hogan Lovells y Cadwalader (operativo desde
+    el 1 jul 2026); estrategia de IA firmwide con Harvey y Legora (16 oct 2026). Ficha
+    mínima.
+  stub: true
+- id: ent-eltemate
+  name: ELTEMATE
+  type: vendor
+  url: https://www.eltemate.com/
+  geo:
+  - Global
+  aliases: []
+  notes: Unidad de tecnología jurídica de Hogan Lovells Cadwalader que desarrolla
+    herramientas y soluciones propias. Ficha mínima.
+  stub: true
+- id: ent-paul-otto
+  name: Paul Otto
+  type: person
+  url: https://www.unite.ai/custom-ai-agents-built-by-hogan-lovells-cadwalader-lawyers-harvey-says/
+  geo:
+  - US
+  aliases: []
+  notes: Managing Partner, Legal Technology and AI, de Hogan Lovells Cadwalader (oct
+    2026). Ficha mínima.
+  stub: true
+- id: ent-geoffrey-vos
+  name: Sir Geoffrey Vos
+  type: person
+  url: https://www.judiciary.uk/
+  geo:
+  - GB
+  aliases:
+  - Master of the Rolls
+  notes: Master of the Rolls (Inglaterra y Gales); preside el steering group de SIFoCC.
+    Ficha mínima.
+  stub: true
+- id: ent-redgrave
+  name: Redgrave LLP
+  type: law_firm
+  url: https://www.redgravellp.com/
+  geo:
+  - US
+  aliases:
+  - Redgrave
+  notes: Despacho de eDiscovery e information governance; working paper 2026-01 sobre
+    aiR for Review. Ficha mínima.
+  stub: true
+- id: ent-elevate
+  name: Elevate
+  type: company
+  url: https://elevateservices.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Elevate Services
+  notes: Proveedor de servicios jurídicos; Jeremy Pickens coautor del paper que reanaliza
+    el estudio de Redgrave. Ficha mínima.
+  stub: true
+- id: ent-maura-grossman
+  name: Maura R. Grossman
+  type: person
+  url: https://complexdiscovery.com/waterloo-and-elevate-researchers-say-redgraves-air-study-compared-two-different-tasks/
+  geo:
+  - CA
+  - US
+  aliases: []
+  notes: Investigadora (University of Waterloo) en TAR y eDiscovery. Ficha mínima.
+  stub: true
+- id: ent-mode-inc
+  name: Mode.Inc
+  type: company
+  url: https://abovethelaw.com/2026/10/tech-company-launches-program-to-pay-law-firms-for-their-emails-privilege-be-damned/
+  geo:
+  - US
+  aliases:
+  - Mode
+  - BizBuyData
+  notes: Empresa de Chicago que lanza BizBuyData.com para licenciar registros operativos
+    de despachos a laboratorios de IA. Ficha mínima.
+  stub: true
+- id: ent-snap
+  name: Snap Group
+  type: company
+  url: https://www.snap.com/
+  geo:
+  - DE
+  - Global
+  aliases:
+  - Snapchat
+  - Snap Inc.
+  - My AI
+  notes: Operador de Snapchat y del chatbot My AI. Ficha mínima.
+  stub: true
+- id: ent-lg-koeln
+  name: Landgericht Köln
+  type: government
+  url: https://www.lg-koeln.nrw.de/
+  geo:
+  - DE
+  aliases:
+  - LG Köln
+  notes: Tribunal regional de Colonia; sentencia 33 O 120/24 sobre Snapchat My AI.
+    Ficha mínima.
+  stub: true
+- id: ent-chariot-claims
+  name: Chariot Claims
+  type: vendor
+  url: https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html
+  geo:
+  - US
+  aliases:
+  - ClaimClam
+  notes: Plataforma de reclamaciones de consumo para arbitraje masivo y class actions;
+    Serie A de 10 M$ (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-silverton-partners
+  name: Silverton Partners
+  type: company
+  url: https://www.silvertonpartners.com/
+  geo:
+  - US
+  aliases: []
+  notes: Fondo de venture capital; lidera la Serie A de Chariot Claims. Ficha mínima.
+  stub: true
+- id: ent-js-held
+  name: J.S. Held
+  type: company
+  url: https://www.jsheld.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Ocean Tomo
+  notes: Consultora global; publica el AI Disputes Monitor. Ficha mínima.
+  stub: true
+- id: ent-sepin
+  name: Sepín
+  type: vendor
+  url: https://www.sepin.es/
+  geo:
+  - ES
+  aliases:
+  - Editorial Jurídica Sepín
+  notes: Editorial jurídica española. Ficha mínima.
+  stub: true
+- id: ent-helena-sepin
+  name: Helena (Sepín)
+  type: product
+  url: https://helena-ia.sepin.es/
+  geo:
+  - ES
+  aliases:
+  - Helena IA
+  notes: Asistente de IA jurídica de Sepín; carpetas con conocimiento (oct 2026).
+    Ficha mínima.
+  stub: true
+- id: ent-ch-beck
+  name: C.H. Beck
+  type: company
+  url: https://www.beck.de/
+  geo:
+  - DE
+  aliases:
+  - C.H.Beck
+  - Verlag C.H.Beck
+  notes: Editorial jurídica alemana; aporta la literatura digital del Segundo Examen
+    en Renania-Palatinado. Ficha mínima.
+  stub: true
+- id: ent-iqul
+  name: IQUL GmbH
+  type: company
+  url: https://www.lto.de/recht/nachrichten/n/rheinland-pfalz-zweites-staatsexamen-digital-hilfsmittel-e-examen
+  geo:
+  - DE
+  aliases:
+  - IQUL
+  notes: Proveedor del entorno técnico de examen digital en Renania-Palatinado. Ficha
+    mínima.
+  stub: true
+- id: ent-justizministerium-rlp
+  name: Ministerio de Justicia de Renania-Palatinado
+  type: government
+  url: https://jm.rlp.de/
+  geo:
+  - DE
+  aliases:
+  - Justizministerium Rheinland-Pfalz
+  notes: Organiza el Segundo Examen de Estado en Renania-Palatinado. Ficha mínima.
+  stub: true
+- id: ent-bae-systems
+  name: BAE Systems
+  type: company
+  url: https://www.baesystems.com/
+  geo:
+  - GB
+  - US
+  aliases: []
+  notes: Su filial estadounidense opera el Bankruptcy Noticing Center para la judicatura
+    federal. Ficha mínima.
+  stub: true
+- id: ent-us-courts-ao
+  name: Administrative Office of the U.S. Courts
+  type: government
+  url: https://www.uscourts.gov/
+  geo:
+  - US
+  aliases:
+  - AO
+  - uscourts.gov
+  notes: Órgano administrativo de la judicatura federal de EE. UU. Ficha mínima.
+  stub: true

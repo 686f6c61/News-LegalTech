@@ -1,0 +1,11 @@
+id: ent-lg-koeln
+name: Landgericht Köln
+type: government
+url: https://www.lg-koeln.nrw.de/
+geo:
+- DE
+aliases:
+- LG Köln
+notes: Tribunal regional de Colonia; sentencia 33 O 120/24 sobre Snapchat My AI. Ficha
+  mínima.
+stub: true

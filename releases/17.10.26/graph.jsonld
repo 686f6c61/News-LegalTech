@@ -1,0 +1,792 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/17.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 17.10.26",
+      "schema:version": "17.10.26",
+      "schema:datePublished": "2026-10-17",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-17, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/17.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-hogan-lovells-cadwalader-estrategia-ia-harvey-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-master-of-the-rolls-ia-arbitraje-convencion-nueva-york"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-cormack-grossman-pickens-reanalisis-redgrave-air"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-mode-bizbuydata-emails-despachos-entrenar-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-lg-koeln-snapchat-my-ai-consentimiento-menores"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-chariot-claims-serie-a-arbitraje-masivo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-js-held-ai-disputes-monitor-q3-2026"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-sepin-helena-carpetas-con-conocimiento"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-renania-palatinado-segundo-examen-estado-digital"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-bankruptcy-noticing-center-ciberincidente-bae"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-hogan-lovells-cadwalader-estrategia-ia-harvey-legora",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-hogan-lovells-cadwalader-estrategia-ia-harvey-legora",
+      "schema:headline": "Hogan Lovells Cadwalader firma con Harvey y Legora, crea un AI Board y nombra un managing partner de tecnología e IA",
+      "schema:datePublished": "2026-10-16",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Hogan Lovells Cadwalader presentó el 16 de octubre de 2026 una estrategia de IA para toda la firma con acuerdos firmados con Harvey y con Legora, según recoge Unite.AI a partir del anuncio de Harvey y del propio despacho. Harvey se despliega en Corporate & Finance, Litigation & Arbitration y Regulatory/IP, y los abogados ya han construido custom agents (agentes a medida) para knowledge management (gestión del conocimiento), Capital Markets y arbitraje internacional, además de playbooks colaborativos. ELTEMATE, su brazo tecnológico, seguirá desarrollando herramientas propias y soluciones de cara al cliente. La firma crea un AI Board que evaluará ideas de las áreas de práctica, decidirá si se construyen dentro o se compran fuera y asignará recursos; nombra a Paul Otto Managing Partner de Legal Technology and AI, a Oliver Campbell Chief Transformation Officer y a Bill Ferreira al frente de una nueva Commercial Unit de pricing, legal project management y client delivery (entrega al cliente).",
+      "schema:articleBody": "Hogan Lovells Cadwalader presentó el 16 de octubre de 2026 una estrategia de IA para toda la firma con acuerdos firmados con Harvey y con Legora, según recoge Unite.AI a partir del anuncio de Harvey y del propio despacho. Harvey se despliega en Corporate & Finance, Litigation & Arbitration y Regulatory/IP, y los abogados ya han construido custom agents (agentes a medida) para knowledge management (gestión del conocimiento), Capital Markets y arbitraje internacional, además de playbooks colaborativos. ELTEMATE, su brazo tecnológico, seguirá desarrollando herramientas propias y soluciones de cara al cliente. La firma crea un AI Board que evaluará ideas de las áreas de práctica, decidirá si se construyen dentro o se compran fuera y asignará recursos; nombra a Paul Otto Managing Partner de Legal Technology and AI, a Oliver Campbell Chief Transformation Officer y a Bill Ferreira al frente de una nueva Commercial Unit de pricing, legal project management y client delivery (entrega al cliente).\n\nLo relevante no es elegir vendor, sino la frase del CEO Miguel Zaldivar: «no hay una única solución de IA que cubra todas las necesidades de un despacho global moderno». Un despacho de unos 3.100 abogados que paga dos plataformas generalistas a la vez y mantiene desarrollo propio confirma que en la gran firma el modelo multi-vendor ya es la norma, y que la batalla entre Harvey y Legora se decide más por área de práctica que por contrato marco. Para un despacho mediano, el patrón que vale copiar es el de gobierno: un órgano que decide build or buy (construir o comprar) y que vincula la IA con pricing y entrega al cliente, no solo con productividad. Matiz: todo procede del anuncio de Harvey y del comunicado del despacho; no hay cifras de uso, coste ni resultados.",
+      "sota:type": "market",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Gran despacho global que formaliza un modelo multi-plataforma con gobierno propio de IA.",
+      "sota:whyNow": "Anuncio de Harvey y del despacho, 16 oct 2026. NEW frente a las pasadas 09-29→10-16.",
+      "sota:geo": [
+        "Global",
+        "US",
+        "GB"
+      ],
+      "sota:topics": [
+        "despachos",
+        "harvey",
+        "legora",
+        "gobierno-ia",
+        "agentes",
+        "pricing"
+      ],
+      "sota:summaryP1": "Hogan Lovells Cadwalader presentó el 16 de octubre de 2026 una estrategia de IA para toda la firma con acuerdos firmados con Harvey y con Legora, según recoge Unite.AI a partir del anuncio de Harvey y del propio despacho. Harvey se despliega en Corporate & Finance, Litigation & Arbitration y Regulatory/IP, y los abogados ya han construido custom agents (agentes a medida) para knowledge management (gestión del conocimiento), Capital Markets y arbitraje internacional, además de playbooks colaborativos. ELTEMATE, su brazo tecnológico, seguirá desarrollando herramientas propias y soluciones de cara al cliente. La firma crea un AI Board que evaluará ideas de las áreas de práctica, decidirá si se construyen dentro o se compran fuera y asignará recursos; nombra a Paul Otto Managing Partner de Legal Technology and AI, a Oliver Campbell Chief Transformation Officer y a Bill Ferreira al frente de una nueva Commercial Unit de pricing, legal project management y client delivery (entrega al cliente).",
+      "sota:summaryP2": "Lo relevante no es elegir vendor, sino la frase del CEO Miguel Zaldivar: «no hay una única solución de IA que cubra todas las necesidades de un despacho global moderno». Un despacho de unos 3.100 abogados que paga dos plataformas generalistas a la vez y mantiene desarrollo propio confirma que en la gran firma el modelo multi-vendor ya es la norma, y que la batalla entre Harvey y Legora se decide más por área de práctica que por contrato marco. Para un despacho mediano, el patrón que vale copiar es el de gobierno: un órgano que decide build or buy (construir o comprar) y que vincula la IA con pricing y entrega al cliente, no solo con productividad. Matiz: todo procede del anuncio de Harvey y del comunicado del despacho; no hay cifras de uso, coste ni resultados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.unite.ai/custom-ai-agents-built-by-hogan-lovells-cadwalader-lawyers-harvey-says/",
+          "schema:name": "Custom AI Agents Built by Hogan Lovells Cadwalader Lawyers, Harvey Says",
+          "sota:sourceId": "src-unite-ai"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hogan-lovells-cadwalader"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eltemate"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-paul-otto"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-master-of-the-rolls-ia-arbitraje-convencion-nueva-york",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-master-of-the-rolls-ia-arbitraje-convencion-nueva-york",
+      "schema:headline": "El Master of the Rolls avisa: los laudos hechos con IA pueden toparse con la excepción de orden público de la Convención de Nueva York",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Sir Geoffrey Vos, Master of the Rolls, dedicó su discurso del 15 de octubre de 2026 sobre el futuro de la resolución de disputas transfronterizas a la tecnología y a la ejecución. Su punto de partida: un juez inglés no puede delegar su decisión en Claude o ChatGPT sin autorización del Parlamento y sin garantizar un tribunal independiente en el sentido del artículo 6 del CEDH, pero el arbitraje es consensual y las partes pueden pactar que decida una máquina. Cita el AI arbitrator (árbitro de IA) de la ICDR/AAA para disputas de construcción solo documentales, los 60 millones de disputas que resuelve eBay al año y su visita en septiembre al Tribunal Popular Intermedio de Shenzhen, donde la IA resume la prueba, lista las cuestiones a decidir y redacta borradores. Sostiene que muchos profesionales del arbitraje están «en negación», que detectar textos escritos por IA es «una vía sin salida» y que el árbitro humano sigue siendo responsable de lo que firma, use o no un LLM.",
+      "schema:articleBody": "Sir Geoffrey Vos, Master of the Rolls, dedicó su discurso del 15 de octubre de 2026 sobre el futuro de la resolución de disputas transfronterizas a la tecnología y a la ejecución. Su punto de partida: un juez inglés no puede delegar su decisión en Claude o ChatGPT sin autorización del Parlamento y sin garantizar un tribunal independiente en el sentido del artículo 6 del CEDH, pero el arbitraje es consensual y las partes pueden pactar que decida una máquina. Cita el AI arbitrator (árbitro de IA) de la ICDR/AAA para disputas de construcción solo documentales, los 60 millones de disputas que resuelve eBay al año y su visita en septiembre al Tribunal Popular Intermedio de Shenzhen, donde la IA resume la prueba, lista las cuestiones a decidir y redacta borradores. Sostiene que muchos profesionales del arbitraje están «en negación», que detectar textos escritos por IA es «una vía sin salida» y que el árbitro humano sigue siendo responsable de lo que firma, use o no un LLM.\n\nLa parte práctica está en la ejecución: como los países adoptan la IA a velocidades muy distintas, Vos prevé que el condenado alegue que reconocer un laudo con fuerte intervención de IA es contrario al orden público del Estado de ejecución, la excepción del artículo V(2)(b) de la Convención de Nueva York. Para despachos de arbitraje y para in-house que redactan cláusulas, el mensaje es que conviene decidir ya, y dejar por escrito, qué uso de IA aceptan las partes y el tribunal, porque esa trazabilidad puede ser lo que salve un laudo en la fase de ejecución. Vos propone pautas comunes de buenas prácticas y explica que SIFoCC, cuyo steering group preside, intenta destilarlas de sus 71 jurisdicciones junto con UNCITRAL, UNESCO y el European Law Institute. Matiz: es un discurso, no una norma ni una guía judicial.",
+      "sota:type": "opinion",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Uno de los jueces más influyentes en IA judicial sitúa el riesgo de la IA arbitral en la fase de ejecución.",
+      "sota:whyNow": "Discurso publicado por la judicatura de Inglaterra y Gales el 15 oct 2026. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "GB",
+        "Global",
+        "CN",
+        "US"
+      ],
+      "sota:topics": [
+        "arbitraje",
+        "convencion-nueva-york",
+        "ia-judicial",
+        "orden-publico",
+        "sifocc"
+      ],
+      "sota:summaryP1": "Sir Geoffrey Vos, Master of the Rolls, dedicó su discurso del 15 de octubre de 2026 sobre el futuro de la resolución de disputas transfronterizas a la tecnología y a la ejecución. Su punto de partida: un juez inglés no puede delegar su decisión en Claude o ChatGPT sin autorización del Parlamento y sin garantizar un tribunal independiente en el sentido del artículo 6 del CEDH, pero el arbitraje es consensual y las partes pueden pactar que decida una máquina. Cita el AI arbitrator (árbitro de IA) de la ICDR/AAA para disputas de construcción solo documentales, los 60 millones de disputas que resuelve eBay al año y su visita en septiembre al Tribunal Popular Intermedio de Shenzhen, donde la IA resume la prueba, lista las cuestiones a decidir y redacta borradores. Sostiene que muchos profesionales del arbitraje están «en negación», que detectar textos escritos por IA es «una vía sin salida» y que el árbitro humano sigue siendo responsable de lo que firma, use o no un LLM.",
+      "sota:summaryP2": "La parte práctica está en la ejecución: como los países adoptan la IA a velocidades muy distintas, Vos prevé que el condenado alegue que reconocer un laudo con fuerte intervención de IA es contrario al orden público del Estado de ejecución, la excepción del artículo V(2)(b) de la Convención de Nueva York. Para despachos de arbitraje y para in-house que redactan cláusulas, el mensaje es que conviene decidir ya, y dejar por escrito, qué uso de IA aceptan las partes y el tribunal, porque esa trazabilidad puede ser lo que salve un laudo en la fase de ejecución. Vos propone pautas comunes de buenas prácticas y explica que SIFoCC, cuyo steering group preside, intenta destilarlas de sus 71 jurisdicciones junto con UNCITRAL, UNESCO y el European Law Institute. Matiz: es un discurso, no una norma ni una guía judicial.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.judiciary.uk/speech-by-the-master-of-the-rolls-the-future-of-cross-border-dispute-resolution/",
+          "schema:name": "Speech by the Master of the Rolls: The future of cross border dispute resolution",
+          "sota:sourceId": "src-judiciary-uk"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-geoffrey-vos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-courts-tribunals-judiciary"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aaa"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-cormack-grossman-pickens-reanalisis-redgrave-air",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-cormack-grossman-pickens-reanalisis-redgrave-air",
+      "schema:headline": "Cormack, Grossman y Pickens reanalizan el estudio de Redgrave: aiR for Review es «comparable, pero no superior» a la active learning de Relativity",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Gordon V. Cormack y Maura R. Grossman (University of Waterloo) y Jeremy Pickens (Elevate) publicaron el 12 de octubre de 2026 en arXiv un preprint que reanaliza el working paper de Redgrave LLP de junio, según el cual Relativity aiR for Review alcanzó un 88% de recall (exhaustividad) frente al 64% de una managed review (revisión gestionada) con Relativity Active Learning (RAL), y lo explica ComplexDiscovery. Redgrave compartió sus datos. La objeción central es que se comparaban dos tareas distintas: en la revisión gestionada solo contaba lo que los revisores L1 marcaban como responsive (pertinente), mientras que la etiqueta de aiR se aceptaba sin esa criba. Aplicando la misma criba a ambos, RAL queda en el 64% y aiR en el 59,5%, y sin criba RAL sube al 97,2% frente al 88% de aiR. Un modelo de continuous active learning (aprendizaje activo continuo) de código abierto, S-CAL, igualó a aiR revisando una muestra ponderada de 2.000 documentos.",
+      "schema:articleBody": "Gordon V. Cormack y Maura R. Grossman (University of Waterloo) y Jeremy Pickens (Elevate) publicaron el 12 de octubre de 2026 en arXiv un preprint que reanaliza el working paper de Redgrave LLP de junio, según el cual Relativity aiR for Review alcanzó un 88% de recall (exhaustividad) frente al 64% de una managed review (revisión gestionada) con Relativity Active Learning (RAL), y lo explica ComplexDiscovery. Redgrave compartió sus datos. La objeción central es que se comparaban dos tareas distintas: en la revisión gestionada solo contaba lo que los revisores L1 marcaban como responsive (pertinente), mientras que la etiqueta de aiR se aceptaba sin esa criba. Aplicando la misma criba a ambos, RAL queda en el 64% y aiR en el 59,5%, y sin criba RAL sube al 97,2% frente al 88% de aiR. Un modelo de continuous active learning (aprendizaje activo continuo) de código abierto, S-CAL, igualó a aiR revisando una muestra ponderada de 2.000 documentos.\n\nPara un equipo de eDiscovery o un in-house que aprueba presupuestos de revisión, la lección es leer bien un head-to-head (comparativa directa): ambos papers coinciden en qué mide cada cifra y discrepan en lo que permite concluir. Los autores añaden que todo se mide contra un único experto que discrepaba mucho de los revisores L1, que las diferencias dentro de cada tarea no superan el error de muestreo y que el caso es un solo asunto, con un solo equipo y prompts confidenciales. En la práctica, nadie debería justificar ante un tribunal o un cliente el paso de TAR a GenAI con el titular «la GenAI supera al TAR»; lo defendible es validar recall y proporcionalidad en cada asunto. Matiz: los dos documentos son working paper y preprint, sin revisión por pares.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Los referentes del TAR corrigen el benchmark más citado de GenAI en revisión documental.",
+      "sota:whyNow": "Preprint de 12 oct 2026; ComplexDiscovery, 15 oct 2026. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ediscovery",
+        "tar",
+        "genai",
+        "recall",
+        "benchmarks",
+        "relativity"
+      ],
+      "sota:summaryP1": "Gordon V. Cormack y Maura R. Grossman (University of Waterloo) y Jeremy Pickens (Elevate) publicaron el 12 de octubre de 2026 en arXiv un preprint que reanaliza el working paper de Redgrave LLP de junio, según el cual Relativity aiR for Review alcanzó un 88% de recall (exhaustividad) frente al 64% de una managed review (revisión gestionada) con Relativity Active Learning (RAL), y lo explica ComplexDiscovery. Redgrave compartió sus datos. La objeción central es que se comparaban dos tareas distintas: en la revisión gestionada solo contaba lo que los revisores L1 marcaban como responsive (pertinente), mientras que la etiqueta de aiR se aceptaba sin esa criba. Aplicando la misma criba a ambos, RAL queda en el 64% y aiR en el 59,5%, y sin criba RAL sube al 97,2% frente al 88% de aiR. Un modelo de continuous active learning (aprendizaje activo continuo) de código abierto, S-CAL, igualó a aiR revisando una muestra ponderada de 2.000 documentos.",
+      "sota:summaryP2": "Para un equipo de eDiscovery o un in-house que aprueba presupuestos de revisión, la lección es leer bien un head-to-head (comparativa directa): ambos papers coinciden en qué mide cada cifra y discrepan en lo que permite concluir. Los autores añaden que todo se mide contra un único experto que discrepaba mucho de los revisores L1, que las diferencias dentro de cada tarea no superan el error de muestreo y que el caso es un solo asunto, con un solo equipo y prompts confidenciales. En la práctica, nadie debería justificar ante un tribunal o un cliente el paso de TAR a GenAI con el titular «la GenAI supera al TAR»; lo defendible es validar recall y proporcionalidad en cada asunto. Matiz: los dos documentos son working paper y preprint, sin revisión por pares.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://complexdiscovery.com/waterloo-and-elevate-researchers-say-redgraves-air-study-compared-two-different-tasks/",
+          "schema:name": "Waterloo and Elevate researchers say Redgrave's aiR study compared two different tasks",
+          "sota:sourceId": "src-complexdiscovery"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-maura-grossman"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-elevate"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-redgrave"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-relativity"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-mode-bizbuydata-emails-despachos-entrenar-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-mode-bizbuydata-emails-despachos-entrenar-ia",
+      "schema:headline": "Una tecnológica ofrece pagar a los despachos por sus emails y mensajes internos para entrenar agentes de IA, y Above the Law ve el privilegio en juego",
+      "schema:datePublished": "2026-10-16",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Mode.Inc, empresa de Chicago que compra apps y paga a usuarios por sus datos, lanzó esta semana BizBuyData.com, un programa que propone a los despachos licenciar a laboratorios de IA sus «registros operativos históricos»: mensajes internos, emails e historiales de proyectos que muestran cómo se razona y se decide, según Above the Law (16 de octubre de 2026). Mode dice que sus herramientas eliminan información sensible y sustituyen nombres, y que la firma aprueba qué sistemas y periodos se exportan. Basta con tener seis empleados que usen herramientas digitales, y Mode paga a quien presente un despacho «el mayor de 50.000 dólares o el 6%» del pago. Su CEO, Dan Novaes, lo resume así: los laboratorios no pueden hacer scraping de estos datos y tienen que licenciarlos.",
+      "schema:articleBody": "Mode.Inc, empresa de Chicago que compra apps y paga a usuarios por sus datos, lanzó esta semana BizBuyData.com, un programa que propone a los despachos licenciar a laboratorios de IA sus «registros operativos históricos»: mensajes internos, emails e historiales de proyectos que muestran cómo se razona y se decide, según Above the Law (16 de octubre de 2026). Mode dice que sus herramientas eliminan información sensible y sustituyen nombres, y que la firma aprueba qué sistemas y periodos se exportan. Basta con tener seis empleados que usen herramientas digitales, y Mode paga a quien presente un despacho «el mayor de 50.000 dólares o el 6%» del pago. Su CEO, Dan Novaes, lo resume así: los laboratorios no pueden hacer scraping de estos datos y tienen que licenciarlos.\n\nAbove the Law plantea la objeción obvia: esos hilos son precisamente attorney-client privilege (secreto profesional) y work product, el privilegio pertenece al cliente y no caduca, la Model Rule 1.6 alcanza toda información relativa al encargo aunque no lleve nombre, y la Formal Opinion 512 de la ABA ya exige consentimiento informado para meter datos del cliente en herramientas que aprenden. Para socios directores y responsables de riesgos, la conclusión práctica es que la anonimización no convierte un memo de estrategia en dato vendible y que la comisión por referido va a generar presión comercial, sobre todo en despachos pequeños sin comité de riesgos. Para el mercado, confirma que el cuello de botella de la IA jurídica es el dato del trabajo real, igual que mostró la venta de datos corporativos de Spirit. Matiz: es una pieza de opinión; las condiciones son las que publica Mode y no consta ningún despacho adherido.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "El dato interno del despacho entra en el mercado de entrenamiento de IA, con el privilegio como frontera.",
+      "sota:whyNow": "Above the Law, 16 oct 2026, días después del lanzamiento. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "datos-entrenamiento",
+        "privilegio",
+        "deontologia",
+        "agentes",
+        "riesgo"
+      ],
+      "sota:summaryP1": "Mode.Inc, empresa de Chicago que compra apps y paga a usuarios por sus datos, lanzó esta semana BizBuyData.com, un programa que propone a los despachos licenciar a laboratorios de IA sus «registros operativos históricos»: mensajes internos, emails e historiales de proyectos que muestran cómo se razona y se decide, según Above the Law (16 de octubre de 2026). Mode dice que sus herramientas eliminan información sensible y sustituyen nombres, y que la firma aprueba qué sistemas y periodos se exportan. Basta con tener seis empleados que usen herramientas digitales, y Mode paga a quien presente un despacho «el mayor de 50.000 dólares o el 6%» del pago. Su CEO, Dan Novaes, lo resume así: los laboratorios no pueden hacer scraping de estos datos y tienen que licenciarlos.",
+      "sota:summaryP2": "Above the Law plantea la objeción obvia: esos hilos son precisamente attorney-client privilege (secreto profesional) y work product, el privilegio pertenece al cliente y no caduca, la Model Rule 1.6 alcanza toda información relativa al encargo aunque no lleve nombre, y la Formal Opinion 512 de la ABA ya exige consentimiento informado para meter datos del cliente en herramientas que aprenden. Para socios directores y responsables de riesgos, la conclusión práctica es que la anonimización no convierte un memo de estrategia en dato vendible y que la comisión por referido va a generar presión comercial, sobre todo en despachos pequeños sin comité de riesgos. Para el mercado, confirma que el cuello de botella de la IA jurídica es el dato del trabajo real, igual que mostró la venta de datos corporativos de Spirit. Matiz: es una pieza de opinión; las condiciones son las que publica Mode y no consta ningún despacho adherido.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abovethelaw.com/2026/10/tech-company-launches-program-to-pay-law-firms-for-their-emails-privilege-be-damned/",
+          "schema:name": "Tech Company Launches Program To Pay Law Firms For Their Emails, Privilege Be Damned",
+          "sota:sourceId": "src-above-the-law"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-mode-inc"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-lg-koeln-snapchat-my-ai-consentimiento-menores",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-lg-koeln-snapchat-my-ai-consentimiento-menores",
+      "schema:headline": "El LG Köln declara ilícito que Snapchat use por defecto lo que los menores cuentan a su chatbot My AI para publicidad",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Landgericht Köln (tribunal regional de Colonia) resolvió que Snap Group recogió y trató de forma ilícita datos personales sensibles introducidos en My AI, el chatbot de IA integrado en Snapchat, según informa Legal Tribune Online (15 de octubre de 2026; sentencia de 17 de septiembre de 2026, Az. 33 O 120/24). Antes del primer uso, un aviso decía que My AI podía usar la información para mejorar productos y personalizar anuncios, y en «preferencias de anuncios» todas las opciones venían marcadas: lo escrito en el chat, incluidas fotos, notas de voz y datos sobre religión u orientación sexual, podía usarse para publicidad personalizada y cederse a redes publicitarias. Los demandantes, defensores de los consumidores, demandaron tras abrir una cuenta de menor. LTO recuerda que el artículo 9 del RGPD exige consentimiento expreso, que en servicios dirigidos a menores de 16 años debe dar o autorizar quien tiene la patria potestad, y que Snapchat ni siquiera lo preveía; el tribunal se apoyó en la jurisprudencia del BGH, que no admite el consentimiento por casillas premarcadas.",
+      "schema:articleBody": "El Landgericht Köln (tribunal regional de Colonia) resolvió que Snap Group recogió y trató de forma ilícita datos personales sensibles introducidos en My AI, el chatbot de IA integrado en Snapchat, según informa Legal Tribune Online (15 de octubre de 2026; sentencia de 17 de septiembre de 2026, Az. 33 O 120/24). Antes del primer uso, un aviso decía que My AI podía usar la información para mejorar productos y personalizar anuncios, y en «preferencias de anuncios» todas las opciones venían marcadas: lo escrito en el chat, incluidas fotos, notas de voz y datos sobre religión u orientación sexual, podía usarse para publicidad personalizada y cederse a redes publicitarias. Los demandantes, defensores de los consumidores, demandaron tras abrir una cuenta de menor. LTO recuerda que el artículo 9 del RGPD exige consentimiento expreso, que en servicios dirigidos a menores de 16 años debe dar o autorizar quien tiene la patria potestad, y que Snapchat ni siquiera lo preveía; el tribunal se apoyó en la jurisprudencia del BGH, que no admite el consentimiento por casillas premarcadas.\n\nLa sentencia prohíbe a Snapchat fingir el consentimiento con opciones premarcadas y censura además la publicidad de alcohol y juego dirigida a menores; los demandantes criticaron también que el chatbot, ante el perfil de una supuesta usuaria de 14 años, sugiriera probar cócteles. Para quien integre un asistente conversacional en un producto de consumo, y también para vendors jurídicos que ofrecen chatbots al público, la lección es que lo que el usuario escribe al bot se trata como dato propio con su base jurídica, y que el texto del aviso y la configuración por defecto se van a revisar como cualquier otro tratamiento. En Europa es una pieza más de la línea que separa el uso del prompt para entrenar o hacer publicidad del servicio que el usuario cree estar usando. Matiz: la fuente es la crónica de LTO; no consta si la sentencia es firme.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer caso alemán que aplica el art. 9 RGPD a lo que los menores escriben a un chatbot de IA.",
+      "sota:whyNow": "LTO, 15 oct 2026 (sentencia de 17 sep 2026). NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "DE",
+        "EU"
+      ],
+      "sota:topics": [
+        "rgpd",
+        "chatbots",
+        "menores",
+        "consentimiento",
+        "publicidad"
+      ],
+      "sota:summaryP1": "El Landgericht Köln (tribunal regional de Colonia) resolvió que Snap Group recogió y trató de forma ilícita datos personales sensibles introducidos en My AI, el chatbot de IA integrado en Snapchat, según informa Legal Tribune Online (15 de octubre de 2026; sentencia de 17 de septiembre de 2026, Az. 33 O 120/24). Antes del primer uso, un aviso decía que My AI podía usar la información para mejorar productos y personalizar anuncios, y en «preferencias de anuncios» todas las opciones venían marcadas: lo escrito en el chat, incluidas fotos, notas de voz y datos sobre religión u orientación sexual, podía usarse para publicidad personalizada y cederse a redes publicitarias. Los demandantes, defensores de los consumidores, demandaron tras abrir una cuenta de menor. LTO recuerda que el artículo 9 del RGPD exige consentimiento expreso, que en servicios dirigidos a menores de 16 años debe dar o autorizar quien tiene la patria potestad, y que Snapchat ni siquiera lo preveía; el tribunal se apoyó en la jurisprudencia del BGH, que no admite el consentimiento por casillas premarcadas.",
+      "sota:summaryP2": "La sentencia prohíbe a Snapchat fingir el consentimiento con opciones premarcadas y censura además la publicidad de alcohol y juego dirigida a menores; los demandantes criticaron también que el chatbot, ante el perfil de una supuesta usuaria de 14 años, sugiriera probar cócteles. Para quien integre un asistente conversacional en un producto de consumo, y también para vendors jurídicos que ofrecen chatbots al público, la lección es que lo que el usuario escribe al bot se trata como dato propio con su base jurídica, y que el texto del aviso y la configuración por defecto se van a revisar como cualquier otro tratamiento. En Europa es una pieza más de la línea que separa el uso del prompt para entrenar o hacer publicidad del servicio que el usuario cree estar usando. Matiz: la fuente es la crónica de LTO; no consta si la sentencia es firme.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lto.de/recht/nachrichten/n/lg-koeln-ki-chatbot-snapchat-datenschutz-33-o-120-24",
+          "schema:name": "LG Köln zu Social-Media-Plattform: Snapchat verstößt gegen Daten- und Jugendschutz",
+          "sota:sourceId": "src-legal-tribune-online-legal-tech"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lg-koeln"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-snap"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-chariot-claims-serie-a-arbitraje-masivo",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-chariot-claims-serie-a-arbitraje-masivo",
+      "schema:headline": "Chariot Claims levanta 10 millones de dólares para escalar con IA el arbitraje masivo de consumidores contra grandes empresas",
+      "schema:datePublished": "2026-10-16",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Chariot Claims, que localiza a consumidores afectados por casos de arbitraje masivo y class action (acción colectiva) y los conecta con despachos, anunció una Serie A de 10 millones de dólares liderada por Silverton Partners, según LawSites (16 de octubre de 2026); la financiación total llega a 15,7 millones. Fundada en 2023 como ClaimClam, afirma procesar más de 200.000 reclamaciones precalificadas al mes, sobre todo arbitrajes masivos contra empresas del Fortune 500. Su plataforma, que describe como impulsada por IA, detecta patrones de posibles infracciones, empareja consumidores con casos, los califica en minutos y coordina las reclamaciones individuales con despachos de demandantes hasta el cobro. La estrategia aprovecha que muchos contratos de consumo prohíben la class action y exigen arbitraje individual: miles de arbitrajes en paralelo convierten esa cláusula en un coste para la empresa.",
+      "schema:articleBody": "Chariot Claims, que localiza a consumidores afectados por casos de arbitraje masivo y class action (acción colectiva) y los conecta con despachos, anunció una Serie A de 10 millones de dólares liderada por Silverton Partners, según LawSites (16 de octubre de 2026); la financiación total llega a 15,7 millones. Fundada en 2023 como ClaimClam, afirma procesar más de 200.000 reclamaciones precalificadas al mes, sobre todo arbitrajes masivos contra empresas del Fortune 500. Su plataforma, que describe como impulsada por IA, detecta patrones de posibles infracciones, empareja consumidores con casos, los califica en minutos y coordina las reclamaciones individuales con despachos de demandantes hasta el cobro. La estrategia aprovecha que muchos contratos de consumo prohíben la class action y exigen arbitraje individual: miles de arbitrajes en paralelo convierten esa cláusula en un coste para la empresa.\n\nPara los departamentos legales de empresas de consumo, el dato es incómodo: si la captación y calificación de reclamantes se automatiza, la cláusula de arbitraje individual deja de ser un escudo y pasa a ser una exposición en tasas por expediente, algo que debería revisarse con la redacción de las cláusulas y la estrategia frente a mass arbitration. Para los despachos de demandantes, Chariot funciona como canal de captación y gestión a escala. La compañía dice que destinará el dinero a su IA, a operaciones y a defenderse de represalias corporativas, y que ampliará la cobertura a datos de menores, financieros y de salud. Matiz: las cifras de volumen, el cobro medio de 460 dólares por reclamación y la comparación con la CFPB son de la propia empresa.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "La IA industrializa la captación y gestión de reclamaciones de consumo para el arbitraje masivo.",
+      "sota:whyNow": "LawSites, 16 oct 2026. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "arbitraje-masivo",
+        "consumo",
+        "financiacion",
+        "plaintiffs",
+        "privacidad"
+      ],
+      "sota:summaryP1": "Chariot Claims, que localiza a consumidores afectados por casos de arbitraje masivo y class action (acción colectiva) y los conecta con despachos, anunció una Serie A de 10 millones de dólares liderada por Silverton Partners, según LawSites (16 de octubre de 2026); la financiación total llega a 15,7 millones. Fundada en 2023 como ClaimClam, afirma procesar más de 200.000 reclamaciones precalificadas al mes, sobre todo arbitrajes masivos contra empresas del Fortune 500. Su plataforma, que describe como impulsada por IA, detecta patrones de posibles infracciones, empareja consumidores con casos, los califica en minutos y coordina las reclamaciones individuales con despachos de demandantes hasta el cobro. La estrategia aprovecha que muchos contratos de consumo prohíben la class action y exigen arbitraje individual: miles de arbitrajes en paralelo convierten esa cláusula en un coste para la empresa.",
+      "sota:summaryP2": "Para los departamentos legales de empresas de consumo, el dato es incómodo: si la captación y calificación de reclamantes se automatiza, la cláusula de arbitraje individual deja de ser un escudo y pasa a ser una exposición en tasas por expediente, algo que debería revisarse con la redacción de las cláusulas y la estrategia frente a mass arbitration. Para los despachos de demandantes, Chariot funciona como canal de captación y gestión a escala. La compañía dice que destinará el dinero a su IA, a operaciones y a defenderse de represalias corporativas, y que ampliará la cobertura a datos de menores, financieros y de salud. Matiz: las cifras de volumen, el cobro medio de 460 dólares por reclamación y la comparación con la CFPB son de la propia empresa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
+          "schema:name": "Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-chariot-claims"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-silverton-partners"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-js-held-ai-disputes-monitor-q3-2026",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-js-held-ai-disputes-monitor-q3-2026",
+      "schema:headline": "J.S. Held: la litigación de IA pasa de cómo se entrenan los modelos a cómo se comportan una vez desplegados",
+      "schema:datePublished": "2026-10-15",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La consultora J.S. Held publicó la actualización del tercer trimestre de 2026 de su AI Disputes Monitor, según Canadian Lawyer (15 de octubre de 2026). El conjunto cubre 468 disputas, 115 de ellas iniciadas entre el 1 de enero y el 30 de septiembre, con 42 añadidas en el trimestre. Copyright y training data (datos de entrenamiento) siguen siendo el bloque más visible y las disputas legales y de propiedad intelectual el mayor segmento, pero las nuevas se centran cada vez más en lo que hace el sistema tras el despliegue: outputs, salvaguardas del producto, decisiones automatizadas, declaraciones corporativas y supervisión del consejo. La consultora identifica dos riesgos de AI disclosure (información sobre IA): exagerar las capacidades de la IA y quedarse corto.",
+      "schema:articleBody": "La consultora J.S. Held publicó la actualización del tercer trimestre de 2026 de su AI Disputes Monitor, según Canadian Lawyer (15 de octubre de 2026). El conjunto cubre 468 disputas, 115 de ellas iniciadas entre el 1 de enero y el 30 de septiembre, con 42 añadidas en el trimestre. Copyright y training data (datos de entrenamiento) siguen siendo el bloque más visible y las disputas legales y de propiedad intelectual el mayor segmento, pero las nuevas se centran cada vez más en lo que hace el sistema tras el despliegue: outputs, salvaguardas del producto, decisiones automatizadas, declaraciones corporativas y supervisión del consejo. La consultora identifica dos riesgos de AI disclosure (información sobre IA): exagerar las capacidades de la IA y quedarse corto.\n\nPara litigadores e in-house, el giro cambia la prueba: como dice James Malackowski, de J.S. Held, ya no basta con explicar de dónde vienen los datos, sino cómo se comportó el sistema, qué controles había, qué se dijo de sus capacidades y cómo afectó al valor económico. Eso exige un expediente pericial integrado, en el que peritos técnicos, financieros y de gobierno corporativo trabajen sobre los mismos hechos, y obliga a cuidar desde ya los logs, la documentación de controles y lo que marketing y relación con inversores dicen de la IA. Matiz: el dataset y la clasificación son de la propia consultora, que vende servicios periciales en estos litigios; Canadian Lawyer resume su nota de prensa.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato agregado sobre el desplazamiento de la litigación de IA hacia el riesgo de despliegue.",
+      "sota:whyNow": "Canadian Lawyer, 15 oct 2026. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "Global",
+        "US"
+      ],
+      "sota:topics": [
+        "litigacion-ia",
+        "disclosure",
+        "peritaje",
+        "gobierno-corporativo"
+      ],
+      "sota:summaryP1": "La consultora J.S. Held publicó la actualización del tercer trimestre de 2026 de su AI Disputes Monitor, según Canadian Lawyer (15 de octubre de 2026). El conjunto cubre 468 disputas, 115 de ellas iniciadas entre el 1 de enero y el 30 de septiembre, con 42 añadidas en el trimestre. Copyright y training data (datos de entrenamiento) siguen siendo el bloque más visible y las disputas legales y de propiedad intelectual el mayor segmento, pero las nuevas se centran cada vez más en lo que hace el sistema tras el despliegue: outputs, salvaguardas del producto, decisiones automatizadas, declaraciones corporativas y supervisión del consejo. La consultora identifica dos riesgos de AI disclosure (información sobre IA): exagerar las capacidades de la IA y quedarse corto.",
+      "sota:summaryP2": "Para litigadores e in-house, el giro cambia la prueba: como dice James Malackowski, de J.S. Held, ya no basta con explicar de dónde vienen los datos, sino cómo se comportó el sistema, qué controles había, qué se dijo de sus capacidades y cómo afectó al valor económico. Eso exige un expediente pericial integrado, en el que peritos técnicos, financieros y de gobierno corporativo trabajen sobre los mismos hechos, y obliga a cuidar desde ya los logs, la documentación de controles y lo que marketing y relación con inversores dicen de la IA. Matiz: el dataset y la clasificación son de la propia consultora, que vende servicios periciales en estos litigios; Canadian Lawyer resume su nota de prensa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.canadianlawyermag.com/news/international/ai-cases-are-focusing-more-on-how-systems-act-after-deployment-js-held-analysis/394796",
+          "schema:name": "AI cases are focusing more on how systems act after deployment: J.S. Held analysis",
+          "sota:sourceId": "src-canadian-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-js-held"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-sepin-helena-carpetas-con-conocimiento",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-sepin-helena-carpetas-con-conocimiento",
+      "schema:headline": "Helena, la IA jurídica de Sepín, añade carpetas con conocimiento para trabajar con documentos propios de cada asunto",
+      "schema:datePublished": "2026-10-16",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Sepín publicó el 16 de octubre de 2026 en su web el resumen de la evolución de Helena, su asistente de IA jurídica, que presentó en un webinar ya disponible en grabación. La novedad principal son las carpetas con conocimiento: además de agrupar conversaciones por materia, cliente o expediente, permiten subir documentos propios para que Helena los tenga en cuenta al responder dentro de esa carpeta, combinando la documentación del profesional con el fondo jurídico de Sepín. Sepín pone ejemplos como un contrato con anexos y comunicaciones, las actas y estatutos de una comunidad o cartas de despido. Llegan también una interfaz renovada, un buscador dentro del contenido de chats anteriores y una zona de usuario para cargar hasta cinco logotipos en los PDF e infografías y decidir si se muestra «Generado por Sepín».",
+      "schema:articleBody": "Sepín publicó el 16 de octubre de 2026 en su web el resumen de la evolución de Helena, su asistente de IA jurídica, que presentó en un webinar ya disponible en grabación. La novedad principal son las carpetas con conocimiento: además de agrupar conversaciones por materia, cliente o expediente, permiten subir documentos propios para que Helena los tenga en cuenta al responder dentro de esa carpeta, combinando la documentación del profesional con el fondo jurídico de Sepín. Sepín pone ejemplos como un contrato con anexos y comunicaciones, las actas y estatutos de una comunidad o cartas de despido. Llegan también una interfaz renovada, un buscador dentro del contenido de chats anteriores y una zona de usuario para cargar hasta cinco logotipos en los PDF e infografías y decidir si se muestra «Generado por Sepín».\n\nEs la misma dirección que siguen los grandes asistentes jurídicos: pasar de la consulta puntual a un espacio de trabajo por asunto, con el documento del cliente como contexto. Para despachos pequeños, administradores de fincas y graduados sociales, que son el público al que se dirige Sepín, eso acerca el uso diario, pero también traslada a la editorial documentación del cliente. Antes de subir contratos o expedientes conviene revisar dónde se almacenan, cuánto tiempo se conservan, si se usan para entrenar y qué dice el encargo de tratamiento. Y la opción de quitar «Generado por Sepín» de los PDF obliga a decidir internamente cómo se informa al cliente del uso de IA. Matiz: es contenido del propio proveedor, sin datos de precisión, precio ni condiciones de tratamiento.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un asistente jurídico español pasa a trabajar con el contexto documental de cada asunto.",
+      "sota:whyNow": "Publicación de Sepín, 16 oct 2026. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "ia-juridica-espana",
+        "asistentes",
+        "documentos",
+        "rgpd",
+        "pymes"
+      ],
+      "sota:summaryP1": "Sepín publicó el 16 de octubre de 2026 en su web el resumen de la evolución de Helena, su asistente de IA jurídica, que presentó en un webinar ya disponible en grabación. La novedad principal son las carpetas con conocimiento: además de agrupar conversaciones por materia, cliente o expediente, permiten subir documentos propios para que Helena los tenga en cuenta al responder dentro de esa carpeta, combinando la documentación del profesional con el fondo jurídico de Sepín. Sepín pone ejemplos como un contrato con anexos y comunicaciones, las actas y estatutos de una comunidad o cartas de despido. Llegan también una interfaz renovada, un buscador dentro del contenido de chats anteriores y una zona de usuario para cargar hasta cinco logotipos en los PDF e infografías y decidir si se muestra «Generado por Sepín».",
+      "sota:summaryP2": "Es la misma dirección que siguen los grandes asistentes jurídicos: pasar de la consulta puntual a un espacio de trabajo por asunto, con el documento del cliente como contexto. Para despachos pequeños, administradores de fincas y graduados sociales, que son el público al que se dirige Sepín, eso acerca el uso diario, pero también traslada a la editorial documentación del cliente. Antes de subir contratos o expedientes conviene revisar dónde se almacenan, cuánto tiempo se conservan, si se usan para entrenar y qué dice el encargo de tratamiento. Y la opción de quitar «Generado por Sepín» de los PDF obliga a decidir internamente cómo se informa al cliente del uso de IA. Matiz: es contenido del propio proveedor, sin datos de precisión, precio ni condiciones de tratamiento.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://helena-ia.sepin.es/helena-evoluciona-novedades-ia-juridica/",
+          "schema:name": "Helena evoluciona: descubre todas sus novedades y cómo aprovecharlas",
+          "sota:sourceId": "src-sepin-helena-ia"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sepin"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-helena-sepin"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-renania-palatinado-segundo-examen-estado-digital",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-renania-palatinado-segundo-examen-estado-digital",
+      "schema:headline": "Renania-Palatinado celebra el primer Segundo Examen de Estado de Derecho íntegramente digital, con leyes y comentarios en pantalla",
+      "schema:datePublished": "2026-10-16",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Renania-Palatinado ha celebrado por primera vez toda la parte escrita del Segundo Examen de Estado de Derecho en formato digital, según Legal Tribune Online (16 de octubre de 2026). Unos 200 aspirantes en Maguncia, Tréveris y Frankenthal escribieron sus ocho pruebas de cinco horas en portátil, como ya era posible desde octubre de 2021, pero ahora con un segundo monitor con una biblioteca electrónica de leyes y comentarios en lugar de los volúmenes en papel. Según el Ministerio de Justicia regional, es el primer Land que ofrece electrónicamente todos los materiales permitidos. La literatura la aporta el grupo C.H. Beck y el entorno técnico de examen, IQUL GmbH; la corrección y el acceso al expediente ya eran electrónicos. Se probó en mayo con un examen piloto sin incidencias técnicas, y los aspirantes tenían la biblioteca desde el inicio de su formación práctica en mayo de 2025.",
+      "schema:articleBody": "Renania-Palatinado ha celebrado por primera vez toda la parte escrita del Segundo Examen de Estado de Derecho en formato digital, según Legal Tribune Online (16 de octubre de 2026). Unos 200 aspirantes en Maguncia, Tréveris y Frankenthal escribieron sus ocho pruebas de cinco horas en portátil, como ya era posible desde octubre de 2021, pero ahora con un segundo monitor con una biblioteca electrónica de leyes y comentarios en lugar de los volúmenes en papel. Según el Ministerio de Justicia regional, es el primer Land que ofrece electrónicamente todos los materiales permitidos. La literatura la aporta el grupo C.H. Beck y el entorno técnico de examen, IQUL GmbH; la corrección y el acceso al expediente ya eran electrónicos. Se probó en mayo con un examen piloto sin incidencias técnicas, y los aspirantes tenían la biblioteca desde el inicio de su formación práctica en mayo de 2025.\n\nNo es IA, pero es infraestructura: la generación de juristas que entra ahora en despachos y juzgados alemanes se examina ya con texto legal en pantalla y búsqueda, no con papel, y eso condiciona cómo esperará trabajar. Para las editoriales jurídicas, el examen convierte su base de datos en el entorno oficial de la prueba, con lo que supone de fidelización temprana del usuario; para quien diseñe pruebas profesionales en otros países, incluido el acceso a la abogacía en España, es un precedente operativo de cómo digitalizar materiales sin abrir la puerta a herramientas no permitidas. Matiz: el artículo no detalla qué funciones de búsqueda o restricciones tiene el entorno de examen.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Primer examen de Estado jurídico alemán con todos los materiales en digital.",
+      "sota:whyNow": "LTO, 16 oct 2026, tras las dos semanas de pruebas. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "DE"
+      ],
+      "sota:topics": [
+        "formacion",
+        "examenes",
+        "editoriales",
+        "digitalizacion"
+      ],
+      "sota:summaryP1": "Renania-Palatinado ha celebrado por primera vez toda la parte escrita del Segundo Examen de Estado de Derecho en formato digital, según Legal Tribune Online (16 de octubre de 2026). Unos 200 aspirantes en Maguncia, Tréveris y Frankenthal escribieron sus ocho pruebas de cinco horas en portátil, como ya era posible desde octubre de 2021, pero ahora con un segundo monitor con una biblioteca electrónica de leyes y comentarios en lugar de los volúmenes en papel. Según el Ministerio de Justicia regional, es el primer Land que ofrece electrónicamente todos los materiales permitidos. La literatura la aporta el grupo C.H. Beck y el entorno técnico de examen, IQUL GmbH; la corrección y el acceso al expediente ya eran electrónicos. Se probó en mayo con un examen piloto sin incidencias técnicas, y los aspirantes tenían la biblioteca desde el inicio de su formación práctica en mayo de 2025.",
+      "sota:summaryP2": "No es IA, pero es infraestructura: la generación de juristas que entra ahora en despachos y juzgados alemanes se examina ya con texto legal en pantalla y búsqueda, no con papel, y eso condiciona cómo esperará trabajar. Para las editoriales jurídicas, el examen convierte su base de datos en el entorno oficial de la prueba, con lo que supone de fidelización temprana del usuario; para quien diseñe pruebas profesionales en otros países, incluido el acceso a la abogacía en España, es un precedente operativo de cómo digitalizar materiales sin abrir la puerta a herramientas no permitidas. Matiz: el artículo no detalla qué funciones de búsqueda o restricciones tiene el entorno de examen.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lto.de/recht/nachrichten/n/rheinland-pfalz-zweites-staatsexamen-digital-hilfsmittel-e-examen",
+          "schema:name": "Zweites Jura-Examen erstmals komplett digital: Das Ende des Rollkoffers",
+          "sota:sourceId": "src-legal-tribune-online-legal-tech"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-justizministerium-rlp"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ch-beck"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iqul"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-17-bankruptcy-noticing-center-ciberincidente-bae",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-17-bankruptcy-noticing-center-ciberincidente-bae",
+      "schema:headline": "Un ciberincidente en BAE Systems deja sin servicio el Bankruptcy Noticing Center de los tribunales concursales federales de EE. UU.",
+      "schema:datePublished": "2026-10-16",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Un incidente de ciberseguridad en BAE Systems ha dejado sin servicio los sistemas que su filial estadounidense opera para la judicatura federal, entre ellos el Bankruptcy Noticing Center (centro de notificaciones concursales), según ABA Journal (16 de octubre de 2026), que cita a Law.com. Entre los servicios afectados están BNC.uscourts.gov, BankruptcyNotices.uscourts.gov, Notices.uscourts.gov y el National Creditor Registration Service (registro nacional de acreedores). La Administrative Office of the U.S. Courts dice que se ha comunicado con los tribunales y se coordina con BAE Systems mientras la empresa investiga el incidente y restablece las operaciones.",
+      "schema:articleBody": "Un incidente de ciberseguridad en BAE Systems ha dejado sin servicio los sistemas que su filial estadounidense opera para la judicatura federal, entre ellos el Bankruptcy Noticing Center (centro de notificaciones concursales), según ABA Journal (16 de octubre de 2026), que cita a Law.com. Entre los servicios afectados están BNC.uscourts.gov, BankruptcyNotices.uscourts.gov, Notices.uscourts.gov y el National Creditor Registration Service (registro nacional de acreedores). La Administrative Office of the U.S. Courts dice que se ha comunicado con los tribunales y se coordina con BAE Systems mientras la empresa investiga el incidente y restablece las operaciones.\n\nEs un recordatorio de que la infraestructura judicial depende de proveedores externos y de que un ataque a un tercero puede afectar directamente a un procedimiento. Para despachos de insolvencias, acreedores y administradores, la consecuencia práctica es comprobar plazos y notificaciones por otras vías mientras dure la caída y documentar cualquier incidencia que pueda afectar a cómputos o a la recepción de avisos. Para quien contrate tecnología crítica para juzgados o despachos, la lección es la de siempre: un plan de continuidad que funcione cuando cae el proveedor y cláusulas claras sobre notificación de incidentes. Matiz: la información pública es escasa; no se conoce el alcance del ataque, si hay datos comprometidos ni cuándo se restablecerá el servicio.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Un fallo en un proveedor tecnológico interrumpe un servicio esencial de la justicia federal.",
+      "sota:whyNow": "ABA Journal, 16 oct 2026. NEW frente a 09-29→10-16.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ciberseguridad",
+        "tribunales",
+        "insolvencia",
+        "proveedores",
+        "continuidad"
+      ],
+      "sota:summaryP1": "Un incidente de ciberseguridad en BAE Systems ha dejado sin servicio los sistemas que su filial estadounidense opera para la judicatura federal, entre ellos el Bankruptcy Noticing Center (centro de notificaciones concursales), según ABA Journal (16 de octubre de 2026), que cita a Law.com. Entre los servicios afectados están BNC.uscourts.gov, BankruptcyNotices.uscourts.gov, Notices.uscourts.gov y el National Creditor Registration Service (registro nacional de acreedores). La Administrative Office of the U.S. Courts dice que se ha comunicado con los tribunales y se coordina con BAE Systems mientras la empresa investiga el incidente y restablece las operaciones.",
+      "sota:summaryP2": "Es un recordatorio de que la infraestructura judicial depende de proveedores externos y de que un ataque a un tercero puede afectar directamente a un procedimiento. Para despachos de insolvencias, acreedores y administradores, la consecuencia práctica es comprobar plazos y notificaciones por otras vías mientras dure la caída y documentar cualquier incidencia que pueda afectar a cómputos o a la recepción de avisos. Para quien contrate tecnología crítica para juzgados o despachos, la lección es la de siempre: un plan de continuidad que funcione cuando cae el proveedor y cláusulas claras sobre notificación de incidentes. Matiz: la información pública es escasa; no se conoce el alcance del ataque, si hay datos comprometidos ni cuándo se restablecerá el servicio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/news/article/cybersecurity-incident-disrupts-federal-bankruptcy-courts/",
+          "schema:name": "Cybersecurity incident disrupts federal bankruptcy courts",
+          "sota:sourceId": "src-aba-journal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bae-systems"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-courts-ao"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aaa",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aaa",
+      "schema:name": "American Arbitration Association",
+      "sota:entityType": "other",
+      "schema:url": "https://www.adr.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aba-journal",
+      "schema:name": "ABA Journal",
+      "sota:entityType": "media",
+      "schema:url": "https://www.abajournal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-above-the-law",
+      "schema:name": "Above the Law",
+      "sota:entityType": "media",
+      "schema:url": "https://abovethelaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bae-systems",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bae-systems",
+      "schema:name": "BAE Systems",
+      "sota:entityType": "company",
+      "schema:url": "https://www.baesystems.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-canadian-lawyer",
+      "schema:name": "Canadian Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.canadianlawyermag.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ch-beck",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ch-beck",
+      "schema:name": "C.H. Beck",
+      "sota:entityType": "company",
+      "schema:url": "https://www.beck.de/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-chariot-claims",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-chariot-claims",
+      "schema:name": "Chariot Claims",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-complexdiscovery",
+      "schema:name": "ComplexDiscovery",
+      "sota:entityType": "media",
+      "schema:url": "https://complexdiscovery.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-courts-tribunals-judiciary",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-courts-tribunals-judiciary",
+      "schema:name": "Courts and Tribunals Judiciary (Inglaterra y Gales)",
+      "sota:entityType": "government",
+      "schema:url": "https://www.judiciary.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-elevate",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-elevate",
+      "schema:name": "Elevate",
+      "sota:entityType": "company",
+      "schema:url": "https://elevateservices.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eltemate",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-eltemate",
+      "schema:name": "ELTEMATE",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.eltemate.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-geoffrey-vos",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-geoffrey-vos",
+      "schema:name": "Sir Geoffrey Vos",
+      "sota:entityType": "person",
+      "schema:url": "https://www.judiciary.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-helena-sepin",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-helena-sepin",
+      "schema:name": "Helena (Sepín)",
+      "sota:entityType": "product",
+      "schema:url": "https://helena-ia.sepin.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hogan-lovells-cadwalader",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-hogan-lovells-cadwalader",
+      "schema:name": "Hogan Lovells Cadwalader",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.hoganlovells.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-iqul",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-iqul",
+      "schema:name": "IQUL GmbH",
+      "sota:entityType": "company",
+      "schema:url": "https://www.lto.de/recht/nachrichten/n/rheinland-pfalz-zweites-staatsexamen-digital-hilfsmittel-e-examen",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-js-held",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-js-held",
+      "schema:name": "J.S. Held",
+      "sota:entityType": "company",
+      "schema:url": "https://www.jsheld.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-justizministerium-rlp",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-justizministerium-rlp",
+      "schema:name": "Ministerio de Justicia de Renania-Palatinado",
+      "sota:entityType": "government",
+      "schema:url": "https://jm.rlp.de/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lg-koeln",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lg-koeln",
+      "schema:name": "Landgericht Köln",
+      "sota:entityType": "government",
+      "schema:url": "https://www.lg-koeln.nrw.de/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-maura-grossman",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-maura-grossman",
+      "schema:name": "Maura R. Grossman",
+      "sota:entityType": "person",
+      "schema:url": "https://complexdiscovery.com/waterloo-and-elevate-researchers-say-redgraves-air-study-compared-two-different-tasks/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-mode-inc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-mode-inc",
+      "schema:name": "Mode.Inc",
+      "sota:entityType": "company",
+      "schema:url": "https://abovethelaw.com/2026/10/tech-company-launches-program-to-pay-law-firms-for-their-emails-privilege-be-damned/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-paul-otto",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-paul-otto",
+      "schema:name": "Paul Otto",
+      "sota:entityType": "person",
+      "schema:url": "https://www.unite.ai/custom-ai-agents-built-by-hogan-lovells-cadwalader-lawyers-harvey-says/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-redgrave",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-redgrave",
+      "schema:name": "Redgrave LLP",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.redgravellp.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-relativity",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-relativity",
+      "schema:name": "Relativity",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.relativity.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sepin",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sepin",
+      "schema:name": "Sepín",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.sepin.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-silverton-partners",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-silverton-partners",
+      "schema:name": "Silverton Partners",
+      "sota:entityType": "company",
+      "schema:url": "https://www.silvertonpartners.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-snap",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-snap",
+      "schema:name": "Snap Group",
+      "sota:entityType": "company",
+      "schema:url": "https://www.snap.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-unite-ai",
+      "schema:name": "Unite.AI",
+      "sota:entityType": "media",
+      "schema:url": "https://www.unite.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-courts-ao",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-us-courts-ao",
+      "schema:name": "Administrative Office of the U.S. Courts",
+      "sota:entityType": "government",
+      "schema:url": "https://www.uscourts.gov/",
+      "sota:stub": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+id: ent-snap
+name: Snap Group
+type: company
+url: https://www.snap.com/
+geo:
+- DE
+- Global
+aliases:
+- Snapchat
+- Snap Inc.
+- My AI
+notes: Operador de Snapchat y del chatbot My AI. Ficha mínima.
+stub: true

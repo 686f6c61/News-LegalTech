@@ -1,0 +1,11 @@
+id: ent-js-held
+name: J.S. Held
+type: company
+url: https://www.jsheld.com/
+geo:
+- US
+- Global
+aliases:
+- Ocean Tomo
+notes: Consultora global; publica el AI Disputes Monitor. Ficha mínima.
+stub: true

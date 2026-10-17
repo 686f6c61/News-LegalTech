@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-17-cormack-grossman-pickens-reanalisis-redgrave-air",
+  "date": "2026-10-15",
+  "type": "research",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Cormack, Grossman y Pickens reanalizan el estudio de Redgrave: aiR for Review es «comparable, pero no superior» a la active learning de Relativity",
+  "short_title": "Reanálisis del estudio Redgrave: aiR, comparable pero no superior",
+  "standfirst": "Con los mismos datos y la misma criba humana, la ventaja de la GenAI en recall desaparece. El debate es de diseño del estudio, no de software.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "eDiscovery",
+  "country": "EE. UU.",
+  "piece_type": "Análisis",
+  "summary_p1": "Gordon V. Cormack y Maura R. Grossman (University of Waterloo) y Jeremy Pickens (Elevate) publicaron el 12 de octubre de 2026 en arXiv un preprint que reanaliza el working paper de Redgrave LLP de junio, según el cual Relativity aiR for Review alcanzó un 88% de recall (exhaustividad) frente al 64% de una managed review (revisión gestionada) con Relativity Active Learning (RAL), y lo explica ComplexDiscovery. Redgrave compartió sus datos. La objeción central es que se comparaban dos tareas distintas: en la revisión gestionada solo contaba lo que los revisores L1 marcaban como responsive (pertinente), mientras que la etiqueta de aiR se aceptaba sin esa criba. Aplicando la misma criba a ambos, RAL queda en el 64% y aiR en el 59,5%, y sin criba RAL sube al 97,2% frente al 88% de aiR. Un modelo de continuous active learning (aprendizaje activo continuo) de código abierto, S-CAL, igualó a aiR revisando una muestra ponderada de 2.000 documentos.",
+  "summary_p2": "Para un equipo de eDiscovery o un in-house que aprueba presupuestos de revisión, la lección es leer bien un head-to-head (comparativa directa): ambos papers coinciden en qué mide cada cifra y discrepan en lo que permite concluir. Los autores añaden que todo se mide contra un único experto que discrepaba mucho de los revisores L1, que las diferencias dentro de cada tarea no superan el error de muestreo y que el caso es un solo asunto, con un solo equipo y prompts confidenciales. En la práctica, nadie debería justificar ante un tribunal o un cliente el paso de TAR a GenAI con el titular «la GenAI supera al TAR»; lo defendible es validar recall y proporcionalidad en cada asunto. Matiz: los dos documentos son working paper y preprint, sin revisión por pares.",
+  "why_sota": "Los referentes del TAR corrigen el benchmark más citado de GenAI en revisión documental.",
+  "why_now": "Preprint de 12 oct 2026; ComplexDiscovery, 15 oct 2026. NEW frente a 09-29→10-16.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ediscovery",
+    "tar",
+    "genai",
+    "recall",
+    "benchmarks",
+    "relativity"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/waterloo-and-elevate-researchers-say-redgraves-air-study-compared-two-different-tasks/",
+      "cited_title": "Waterloo and Elevate researchers say Redgrave's aiR study compared two different tasks",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-maura-grossman",
+    "ent-elevate",
+    "ent-redgrave",
+    "ent-relativity",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

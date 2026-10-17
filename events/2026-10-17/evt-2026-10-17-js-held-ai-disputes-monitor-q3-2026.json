@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-17-js-held-ai-disputes-monitor-q3-2026",
+  "date": "2026-10-15",
+  "type": "research",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "J.S. Held: la litigación de IA pasa de cómo se entrenan los modelos a cómo se comportan una vez desplegados",
+  "short_title": "J.S. Held: la litigación de IA mira ya al sistema desplegado",
+  "standfirst": "Su AI Disputes Monitor suma 468 disputas, 115 iniciadas entre enero y septiembre de 2026, y añade el riesgo de disclosure sobre capacidades de IA.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Litigación de IA",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "La consultora J.S. Held publicó la actualización del tercer trimestre de 2026 de su AI Disputes Monitor, según Canadian Lawyer (15 de octubre de 2026). El conjunto cubre 468 disputas, 115 de ellas iniciadas entre el 1 de enero y el 30 de septiembre, con 42 añadidas en el trimestre. Copyright y training data (datos de entrenamiento) siguen siendo el bloque más visible y las disputas legales y de propiedad intelectual el mayor segmento, pero las nuevas se centran cada vez más en lo que hace el sistema tras el despliegue: outputs, salvaguardas del producto, decisiones automatizadas, declaraciones corporativas y supervisión del consejo. La consultora identifica dos riesgos de AI disclosure (información sobre IA): exagerar las capacidades de la IA y quedarse corto.",
+  "summary_p2": "Para litigadores e in-house, el giro cambia la prueba: como dice James Malackowski, de J.S. Held, ya no basta con explicar de dónde vienen los datos, sino cómo se comportó el sistema, qué controles había, qué se dijo de sus capacidades y cómo afectó al valor económico. Eso exige un expediente pericial integrado, en el que peritos técnicos, financieros y de gobierno corporativo trabajen sobre los mismos hechos, y obliga a cuidar desde ya los logs, la documentación de controles y lo que marketing y relación con inversores dicen de la IA. Matiz: el dataset y la clasificación son de la propia consultora, que vende servicios periciales en estos litigios; Canadian Lawyer resume su nota de prensa.",
+  "why_sota": "Dato agregado sobre el desplazamiento de la litigación de IA hacia el riesgo de despliegue.",
+  "why_now": "Canadian Lawyer, 15 oct 2026. NEW frente a 09-29→10-16.",
+  "geo": [
+    "Global",
+    "US"
+  ],
+  "topics": [
+    "litigacion-ia",
+    "disclosure",
+    "peritaje",
+    "gobierno-corporativo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-canadian-lawyer",
+      "url": "https://www.canadianlawyermag.com/news/international/ai-cases-are-focusing-more-on-how-systems-act-after-deployment-js-held-analysis/394796",
+      "cited_title": "AI cases are focusing more on how systems act after deployment: J.S. Held analysis",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-js-held",
+    "ent-canadian-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

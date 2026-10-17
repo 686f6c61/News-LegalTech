@@ -1,0 +1,11 @@
+id: ent-bae-systems
+name: BAE Systems
+type: company
+url: https://www.baesystems.com/
+geo:
+- GB
+- US
+aliases: []
+notes: Su filial estadounidense opera el Bankruptcy Noticing Center para la judicatura
+  federal. Ficha mínima.
+stub: true

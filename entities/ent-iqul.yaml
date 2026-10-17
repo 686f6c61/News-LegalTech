@@ -1,0 +1,11 @@
+id: ent-iqul
+name: IQUL GmbH
+type: company
+url: https://www.lto.de/recht/nachrichten/n/rheinland-pfalz-zweites-staatsexamen-digital-hilfsmittel-e-examen
+geo:
+- DE
+aliases:
+- IQUL
+notes: Proveedor del entorno técnico de examen digital en Renania-Palatinado. Ficha
+  mínima.
+stub: true

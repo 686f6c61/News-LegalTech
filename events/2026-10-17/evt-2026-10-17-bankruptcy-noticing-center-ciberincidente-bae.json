@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-17-bankruptcy-noticing-center-ciberincidente-bae",
+  "date": "2026-10-16",
+  "type": "other",
+  "sota_score": 6.0,
+  "ai_legaltech": false,
+  "title": "Un ciberincidente en BAE Systems deja sin servicio el Bankruptcy Noticing Center de los tribunales concursales federales de EE. UU.",
+  "short_title": "Ciberincidente en BAE tumba las notificaciones concursales de EE. UU.",
+  "standfirst": "La filial que opera el sistema de notificaciones de la judicatura sufre el ataque. Caen BNC.uscourts.gov y el registro nacional de acreedores.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Ciberseguridad",
+  "country": "EE. UU.",
+  "piece_type": "Incidente",
+  "summary_p1": "Un incidente de ciberseguridad en BAE Systems ha dejado sin servicio los sistemas que su filial estadounidense opera para la judicatura federal, entre ellos el Bankruptcy Noticing Center (centro de notificaciones concursales), según ABA Journal (16 de octubre de 2026), que cita a Law.com. Entre los servicios afectados están BNC.uscourts.gov, BankruptcyNotices.uscourts.gov, Notices.uscourts.gov y el National Creditor Registration Service (registro nacional de acreedores). La Administrative Office of the U.S. Courts dice que se ha comunicado con los tribunales y se coordina con BAE Systems mientras la empresa investiga el incidente y restablece las operaciones.",
+  "summary_p2": "Es un recordatorio de que la infraestructura judicial depende de proveedores externos y de que un ataque a un tercero puede afectar directamente a un procedimiento. Para despachos de insolvencias, acreedores y administradores, la consecuencia práctica es comprobar plazos y notificaciones por otras vías mientras dure la caída y documentar cualquier incidencia que pueda afectar a cómputos o a la recepción de avisos. Para quien contrate tecnología crítica para juzgados o despachos, la lección es la de siempre: un plan de continuidad que funcione cuando cae el proveedor y cláusulas claras sobre notificación de incidentes. Matiz: la información pública es escasa; no se conoce el alcance del ataque, si hay datos comprometidos ni cuándo se restablecerá el servicio.",
+  "why_sota": "Un fallo en un proveedor tecnológico interrumpe un servicio esencial de la justicia federal.",
+  "why_now": "ABA Journal, 16 oct 2026. NEW frente a 09-29→10-16.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "tribunales",
+    "insolvencia",
+    "proveedores",
+    "continuidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/cybersecurity-incident-disrupts-federal-bankruptcy-courts/",
+      "cited_title": "Cybersecurity incident disrupts federal bankruptcy courts",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-bae-systems",
+    "ent-us-courts-ao",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

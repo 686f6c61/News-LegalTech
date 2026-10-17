@@ -1,0 +1,12 @@
+id: ent-mode-inc
+name: Mode.Inc
+type: company
+url: https://abovethelaw.com/2026/10/tech-company-launches-program-to-pay-law-firms-for-their-emails-privilege-be-damned/
+geo:
+- US
+aliases:
+- Mode
+- BizBuyData
+notes: Empresa de Chicago que lanza BizBuyData.com para licenciar registros operativos
+  de despachos a laboratorios de IA. Ficha mínima.
+stub: true

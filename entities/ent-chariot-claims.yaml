@@ -1,0 +1,11 @@
+id: ent-chariot-claims
+name: Chariot Claims
+type: vendor
+url: https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html
+geo:
+- US
+aliases:
+- ClaimClam
+notes: Plataforma de reclamaciones de consumo para arbitraje masivo y class actions;
+  Serie A de 10 M$ (oct 2026). Ficha mínima.
+stub: true

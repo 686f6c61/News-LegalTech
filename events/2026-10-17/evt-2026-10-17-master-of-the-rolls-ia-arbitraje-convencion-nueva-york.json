@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-17-master-of-the-rolls-ia-arbitraje-convencion-nueva-york",
+  "date": "2026-10-15",
+  "type": "opinion",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "El Master of the Rolls avisa: los laudos hechos con IA pueden toparse con la excepción de orden público de la Convención de Nueva York",
+  "short_title": "Vos: la IA en los laudos puede chocar con la Convención de Nueva York",
+  "standfirst": "Sir Geoffrey Vos cree que muchos árbitros están «en negación» y pide pautas internacionales comunes antes de que haya dos velocidades.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Arbitraje",
+  "country": "Reino Unido",
+  "piece_type": "Análisis",
+  "summary_p1": "Sir Geoffrey Vos, Master of the Rolls, dedicó su discurso del 15 de octubre de 2026 sobre el futuro de la resolución de disputas transfronterizas a la tecnología y a la ejecución. Su punto de partida: un juez inglés no puede delegar su decisión en Claude o ChatGPT sin autorización del Parlamento y sin garantizar un tribunal independiente en el sentido del artículo 6 del CEDH, pero el arbitraje es consensual y las partes pueden pactar que decida una máquina. Cita el AI arbitrator (árbitro de IA) de la ICDR/AAA para disputas de construcción solo documentales, los 60 millones de disputas que resuelve eBay al año y su visita en septiembre al Tribunal Popular Intermedio de Shenzhen, donde la IA resume la prueba, lista las cuestiones a decidir y redacta borradores. Sostiene que muchos profesionales del arbitraje están «en negación», que detectar textos escritos por IA es «una vía sin salida» y que el árbitro humano sigue siendo responsable de lo que firma, use o no un LLM.",
+  "summary_p2": "La parte práctica está en la ejecución: como los países adoptan la IA a velocidades muy distintas, Vos prevé que el condenado alegue que reconocer un laudo con fuerte intervención de IA es contrario al orden público del Estado de ejecución, la excepción del artículo V(2)(b) de la Convención de Nueva York. Para despachos de arbitraje y para in-house que redactan cláusulas, el mensaje es que conviene decidir ya, y dejar por escrito, qué uso de IA aceptan las partes y el tribunal, porque esa trazabilidad puede ser lo que salve un laudo en la fase de ejecución. Vos propone pautas comunes de buenas prácticas y explica que SIFoCC, cuyo steering group preside, intenta destilarlas de sus 71 jurisdicciones junto con UNCITRAL, UNESCO y el European Law Institute. Matiz: es un discurso, no una norma ni una guía judicial.",
+  "why_sota": "Uno de los jueces más influyentes en IA judicial sitúa el riesgo de la IA arbitral en la fase de ejecución.",
+  "why_now": "Discurso publicado por la judicatura de Inglaterra y Gales el 15 oct 2026. NEW frente a 09-29→10-16.",
+  "geo": [
+    "GB",
+    "Global",
+    "CN",
+    "US"
+  ],
+  "topics": [
+    "arbitraje",
+    "convencion-nueva-york",
+    "ia-judicial",
+    "orden-publico",
+    "sifocc"
+  ],
+  "sources": [
+    {
+      "source_id": "src-judiciary-uk",
+      "url": "https://www.judiciary.uk/speech-by-the-master-of-the-rolls-the-future-of-cross-border-dispute-resolution/",
+      "cited_title": "Speech by the Master of the Rolls: The future of cross border dispute resolution",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-geoffrey-vos",
+    "ent-courts-tribunals-judiciary",
+    "ent-aaa"
+  ],
+  "lang": "es",
+  "status": "published"
+}

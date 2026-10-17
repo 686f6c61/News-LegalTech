@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-17-mode-bizbuydata-emails-despachos-entrenar-ia",
+  "date": "2026-10-16",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Una tecnológica ofrece pagar a los despachos por sus emails y mensajes internos para entrenar agentes de IA, y Above the Law ve el privilegio en juego",
+  "short_title": "Pagar a despachos por sus emails para entrenar IA: el privilegio",
+  "standfirst": "Mode.Inc lanza BizBuyData.com: licenciar registros operativos a laboratorios de IA, con anonimización y 50.000 dólares mínimos por referido.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Datos y privilegio",
+  "country": "EE. UU.",
+  "piece_type": "Mercado",
+  "summary_p1": "Mode.Inc, empresa de Chicago que compra apps y paga a usuarios por sus datos, lanzó esta semana BizBuyData.com, un programa que propone a los despachos licenciar a laboratorios de IA sus «registros operativos históricos»: mensajes internos, emails e historiales de proyectos que muestran cómo se razona y se decide, según Above the Law (16 de octubre de 2026). Mode dice que sus herramientas eliminan información sensible y sustituyen nombres, y que la firma aprueba qué sistemas y periodos se exportan. Basta con tener seis empleados que usen herramientas digitales, y Mode paga a quien presente un despacho «el mayor de 50.000 dólares o el 6%» del pago. Su CEO, Dan Novaes, lo resume así: los laboratorios no pueden hacer scraping de estos datos y tienen que licenciarlos.",
+  "summary_p2": "Above the Law plantea la objeción obvia: esos hilos son precisamente attorney-client privilege (secreto profesional) y work product, el privilegio pertenece al cliente y no caduca, la Model Rule 1.6 alcanza toda información relativa al encargo aunque no lleve nombre, y la Formal Opinion 512 de la ABA ya exige consentimiento informado para meter datos del cliente en herramientas que aprenden. Para socios directores y responsables de riesgos, la conclusión práctica es que la anonimización no convierte un memo de estrategia en dato vendible y que la comisión por referido va a generar presión comercial, sobre todo en despachos pequeños sin comité de riesgos. Para el mercado, confirma que el cuello de botella de la IA jurídica es el dato del trabajo real, igual que mostró la venta de datos corporativos de Spirit. Matiz: es una pieza de opinión; las condiciones son las que publica Mode y no consta ningún despacho adherido.",
+  "why_sota": "El dato interno del despacho entra en el mercado de entrenamiento de IA, con el privilegio como frontera.",
+  "why_now": "Above the Law, 16 oct 2026, días después del lanzamiento. NEW frente a 09-29→10-16.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "datos-entrenamiento",
+    "privilegio",
+    "deontologia",
+    "agentes",
+    "riesgo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/tech-company-launches-program-to-pay-law-firms-for-their-emails-privilege-be-damned/",
+      "cited_title": "Tech Company Launches Program To Pay Law Firms For Their Emails, Privilege Be Damned",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-mode-inc",
+    "ent-above-the-law"
+  ],
+  "lang": "es",
+  "status": "published"
+}

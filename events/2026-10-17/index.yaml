@@ -1,0 +1,68 @@
+scan_id: full-radar-2026-10-17
+date: '2026-10-17'
+release: 17.10.26
+count: 10
+ai_share: 0.8
+dedup_against: events/2026-09-29 → 2026-10-16 + scans PASS
+event_ids:
+- evt-2026-10-17-hogan-lovells-cadwalader-estrategia-ia-harvey-legora
+- evt-2026-10-17-master-of-the-rolls-ia-arbitraje-convencion-nueva-york
+- evt-2026-10-17-cormack-grossman-pickens-reanalisis-redgrave-air
+- evt-2026-10-17-mode-bizbuydata-emails-despachos-entrenar-ia
+- evt-2026-10-17-lg-koeln-snapchat-my-ai-consentimiento-menores
+- evt-2026-10-17-chariot-claims-serie-a-arbitraje-masivo
+- evt-2026-10-17-js-held-ai-disputes-monitor-q3-2026
+- evt-2026-10-17-sepin-helena-carpetas-con-conocimiento
+- evt-2026-10-17-renania-palatinado-segundo-examen-estado-digital
+- evt-2026-10-17-bankruptcy-noticing-center-ciberincidente-bae
+events:
+- id: evt-2026-10-17-hogan-lovells-cadwalader-estrategia-ia-harvey-legora
+  sota_score: 8.2
+  ai_legaltech: true
+  title: Hogan Lovells Cadwalader firma con Harvey y Legora, crea un AI Board y nombra
+    un managing partner de tecnología e IA
+- id: evt-2026-10-17-master-of-the-rolls-ia-arbitraje-convencion-nueva-york
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'El Master of the Rolls avisa: los laudos hechos con IA pueden toparse con
+    la excepción de orden público de la Convención de Nueva York'
+- id: evt-2026-10-17-cormack-grossman-pickens-reanalisis-redgrave-air
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Cormack, Grossman y Pickens reanalizan el estudio de Redgrave: aiR for Review
+    es «comparable, pero no superior» a la active learning de Relativity'
+- id: evt-2026-10-17-mode-bizbuydata-emails-despachos-entrenar-ia
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Una tecnológica ofrece pagar a los despachos por sus emails y mensajes internos
+    para entrenar agentes de IA, y Above the Law ve el privilegio en juego
+- id: evt-2026-10-17-lg-koeln-snapchat-my-ai-consentimiento-menores
+  sota_score: 7.3
+  ai_legaltech: true
+  title: El LG Köln declara ilícito que Snapchat use por defecto lo que los menores
+    cuentan a su chatbot My AI para publicidad
+- id: evt-2026-10-17-chariot-claims-serie-a-arbitraje-masivo
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Chariot Claims levanta 10 millones de dólares para escalar con IA el arbitraje
+    masivo de consumidores contra grandes empresas
+- id: evt-2026-10-17-js-held-ai-disputes-monitor-q3-2026
+  sota_score: 6.6
+  ai_legaltech: true
+  title: 'J.S. Held: la litigación de IA pasa de cómo se entrenan los modelos a cómo
+    se comportan una vez desplegados'
+- id: evt-2026-10-17-sepin-helena-carpetas-con-conocimiento
+  sota_score: 6.5
+  ai_legaltech: true
+  title: Helena, la IA jurídica de Sepín, añade carpetas con conocimiento para trabajar
+    con documentos propios de cada asunto
+- id: evt-2026-10-17-renania-palatinado-segundo-examen-estado-digital
+  sota_score: 6.2
+  ai_legaltech: false
+  title: Renania-Palatinado celebra el primer Segundo Examen de Estado de Derecho
+    íntegramente digital, con leyes y comentarios en pantalla
+- id: evt-2026-10-17-bankruptcy-noticing-center-ciberincidente-bae
+  sota_score: 6.0
+  ai_legaltech: false
+  title: Un ciberincidente en BAE Systems deja sin servicio el Bankruptcy Noticing
+    Center de los tribunales concursales federales de EE. UU.

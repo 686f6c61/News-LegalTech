@@ -1,0 +1,12 @@
+id: ent-elevate
+name: Elevate
+type: company
+url: https://elevateservices.com/
+geo:
+- US
+- Global
+aliases:
+- Elevate Services
+notes: Proveedor de servicios jurídicos; Jeremy Pickens coautor del paper que reanaliza
+  el estudio de Redgrave. Ficha mínima.
+stub: true

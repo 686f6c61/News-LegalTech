@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-17-chariot-claims-serie-a-arbitraje-masivo",
+  "date": "2026-10-16",
+  "type": "funding",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Chariot Claims levanta 10 millones de dólares para escalar con IA el arbitraje masivo de consumidores contra grandes empresas",
+  "short_title": "Chariot Claims levanta 10 M$ para el arbitraje masivo con IA",
+  "standfirst": "Serie A liderada por Silverton Partners. Dice procesar 200.000 reclamaciones precalificadas al mes y ya recibe amenazas de litigio de los demandados.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Acceso a la justicia",
+  "country": "EE. UU.",
+  "piece_type": "Inversión",
+  "summary_p1": "Chariot Claims, que localiza a consumidores afectados por casos de arbitraje masivo y class action (acción colectiva) y los conecta con despachos, anunció una Serie A de 10 millones de dólares liderada por Silverton Partners, según LawSites (16 de octubre de 2026); la financiación total llega a 15,7 millones. Fundada en 2023 como ClaimClam, afirma procesar más de 200.000 reclamaciones precalificadas al mes, sobre todo arbitrajes masivos contra empresas del Fortune 500. Su plataforma, que describe como impulsada por IA, detecta patrones de posibles infracciones, empareja consumidores con casos, los califica en minutos y coordina las reclamaciones individuales con despachos de demandantes hasta el cobro. La estrategia aprovecha que muchos contratos de consumo prohíben la class action y exigen arbitraje individual: miles de arbitrajes en paralelo convierten esa cláusula en un coste para la empresa.",
+  "summary_p2": "Para los departamentos legales de empresas de consumo, el dato es incómodo: si la captación y calificación de reclamantes se automatiza, la cláusula de arbitraje individual deja de ser un escudo y pasa a ser una exposición en tasas por expediente, algo que debería revisarse con la redacción de las cláusulas y la estrategia frente a mass arbitration. Para los despachos de demandantes, Chariot funciona como canal de captación y gestión a escala. La compañía dice que destinará el dinero a su IA, a operaciones y a defenderse de represalias corporativas, y que ampliará la cobertura a datos de menores, financieros y de salud. Matiz: las cifras de volumen, el cobro medio de 460 dólares por reclamación y la comparación con la CFPB son de la propia empresa.",
+  "why_sota": "La IA industrializa la captación y gestión de reclamaciones de consumo para el arbitraje masivo.",
+  "why_now": "LawSites, 16 oct 2026. NEW frente a 09-29→10-16.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "arbitraje-masivo",
+    "consumo",
+    "financiacion",
+    "plaintiffs",
+    "privacidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
+      "cited_title": "Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations",
+      "accessed": "2026-10-17"
+    }
+  ],
+  "entities": [
+    "ent-chariot-claims",
+    "ent-silverton-partners"
+  ],
+  "lang": "es",
+  "status": "published"
+}
