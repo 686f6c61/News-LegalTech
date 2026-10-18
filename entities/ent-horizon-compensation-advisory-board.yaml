@@ -1,0 +1,11 @@
+id: ent-horizon-compensation-advisory-board
+name: Horizon Compensation Advisory Board
+type: other
+url: https://www.gov.uk/government/groups/horizon-compensation-advisory-board
+geo:
+- GB
+aliases:
+- HCAB
+notes: Consejo asesor independiente sobre las compensaciones del caso Post Office
+  Horizon. Ficha mínima.
+stub: true

@@ -1,4 +1,4 @@
-count: 154
+count: 156
 agenda_count: 9
 sources:
 - id: src-artificial-lawyer
@@ -1707,6 +1707,28 @@ sources:
   why: Base de datos de litigación de patentes (district courts, PTAB, ITC). Ficha
     añadida para citar una URL de docketnavigator.com.
   region: US
+  lang: EN
+  tier: archive
+- id: src-el-pais
+  name: El País
+  url: https://elpais.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Diario español de información general. Ficha añadida para citar una URL de
+    elpais.com.
+  region: ES
+  lang: ES
+  tier: archive
+- id: src-law-society-gazette
+  name: Law Society Gazette
+  url: https://www.lawgazette.co.uk/
+  type: news
+  kind: news
+  frequency: diario
+  why: Publicación de la Law Society de Inglaterra y Gales. Ficha añadida para citar
+    URLs de lawgazette.co.uk.
+  region: UK
   lang: EN
   tier: archive
 

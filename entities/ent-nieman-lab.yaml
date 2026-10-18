@@ -1,0 +1,10 @@
+id: ent-nieman-lab
+name: Nieman Lab
+type: media
+url: https://www.niemanlab.org/
+geo:
+- US
+aliases: []
+notes: Laboratorio de periodismo de Harvard; adelantó el cambio de términos comerciales
+  de Meta (oct 2026). Ficha mínima.
+stub: true

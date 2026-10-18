@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-18-cla-encuesta-copyright-prompts-sector-legal",
+  "date": "2026-10-15",
+  "type": "research",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Solo el 2% de los profesionales jurídicos británicos sabe qué puede copiar legalmente, y la mitad de quienes usan IA pega material de terceros en sus prompts cada semana",
+  "short_title": "CLA: solo el 2% del sector legal sabe qué puede copiar",
+  "standfirst": "Encuesta a 562 profesionales: siete de cada diez usan IA generativa y la CLA estima que menos del 10% de los despachos tiene la licencia adecuada.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Propiedad intelectual",
+  "country": "Reino Unido",
+  "piece_type": "Análisis",
+  "summary_p1": "La Copyright Licensing Agency (CLA), que concede licencias para copiar y compartir extractos de libros, revistas y webs, publicó el 15 de octubre de 2026, primer día de Legal Geek, una encuesta a 562 profesionales del sector jurídico, según la Law Society Gazette. Casi tres cuartas partes creen saber qué contenido pueden copiar legalmente en el trabajo, pero solo el 2% lo sabe de verdad. Siete de cada diez usan IA generativa en el trabajo, la mayoría con el impulso de sus responsables; casi la mitad de esos usuarios pega material de terceros en prompts al menos una vez por semana, y casi la mitad de los encuestados sube con esa frecuencia documentos que lo contienen. La CLA estima que menos del 10% de los despachos tiene una licencia de copyright adecuada.",
+  "summary_p2": "El dato útil no es el 2%, sino el cruce: la IA ha convertido el copia y pega de doctrina, artículos y bases de datos en una operación diaria y masiva, y casi nadie ha revisado si la licencia del despacho o el contrato con la editorial cubre subir ese contenido a una herramienta de terceros. Para knowledge managers y responsables de riesgos, la tarea práctica es auditar qué fuentes de pago entran en los prompts y qué dicen sus licencias sobre IA, y fijar reglas claras en la política de uso. Para editoriales jurídicas y proveedores de IA es un argumento comercial: el contenido licenciado dentro de la herramienta resuelve el problema que el usuario crea por fuera. Matiz: la encuesta la publica una entidad que vende licencias, y no se conoce su metodología completa.",
+  "why_sota": "Primer dato cuantitativo sobre copyright y prompts en el sector jurídico británico.",
+  "why_now": "Law Society Gazette, 15 oct 2026 (Legal Geek). NEW frente a 09-29→10-17.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "copyright",
+    "prompts",
+    "licencias",
+    "gestion-del-conocimiento",
+    "riesgo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-law-society-gazette",
+      "url": "https://www.lawgazette.co.uk/news/very-few-legal-professionals-know-what-they-can-legally-copy-and-paste/5128220.article",
+      "cited_title": "Very few legal professionals know what they can legally copy and paste",
+      "accessed": "2026-10-18"
+    }
+  ],
+  "entities": [
+    "ent-copyright-licensing-agency",
+    "ent-law-society-gazette"
+  ],
+  "lang": "es",
+  "status": "published"
+}

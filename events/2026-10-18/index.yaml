@@ -1,0 +1,57 @@
+scan_id: full-radar-2026-10-18
+date: '2026-10-18'
+release: 18.10.26
+count: 8
+ai_share: 0.62
+dedup_against: events/2026-09-29 → 2026-10-17 + scans PASS
+event_ids:
+- evt-2026-10-18-meta-terminos-comerciales-rastreo-entrenamiento-ia
+- evt-2026-10-18-nautadutilh-bluefield-equipo-abogados-ingenieros
+- evt-2026-10-18-cuatrecasas-perez-de-ayala-ia-facturacion-juniors
+- evt-2026-10-18-cla-encuesta-copyright-prompts-sector-legal
+- evt-2026-10-18-cnil-reconstitucion-emails-profesionales-prospeccion
+- evt-2026-10-18-legal-aid-agency-ciberataque-datos-detalle
+- evt-2026-10-18-proofpoint-adquiere-varonis-seguridad-dato-ia
+- evt-2026-10-18-horizon-advisory-board-poderes-reguladores-bsb
+events:
+- id: evt-2026-10-18-meta-terminos-comerciales-rastreo-entrenamiento-ia
+  sota_score: 7.9
+  ai_legaltech: true
+  title: 'Meta reescribe sus términos comerciales: desde el 30 de octubre las cuentas
+    de empresa autorizan el rastreo de sus webs y el uso de su contenido para «entrenar»'
+- id: evt-2026-10-18-nautadutilh-bluefield-equipo-abogados-ingenieros
+  sota_score: 7.4
+  ai_legaltech: true
+  title: NautaDutilh lanza Bluefield, un equipo propio de abogados e ingenieros de
+    software, y ficha un AI & Innovation Partner
+- id: evt-2026-10-18-cuatrecasas-perez-de-ayala-ia-facturacion-juniors
+  sota_score: 7.3
+  ai_legaltech: true
+  title: 'El presidente de Cuatrecasas: la facturación por horas «dejará de ser una
+    referencia» y los abogados jóvenes no pueden aprender de la IA'
+- id: evt-2026-10-18-cla-encuesta-copyright-prompts-sector-legal
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Solo el 2% de los profesionales jurídicos británicos sabe qué puede copiar
+    legalmente, y la mitad de quienes usan IA pega material de terceros en sus prompts
+    cada semana
+- id: evt-2026-10-18-cnil-reconstitucion-emails-profesionales-prospeccion
+  sota_score: 6.6
+  ai_legaltech: false
+  title: 'La CNIL fija cuándo se puede deducir el email profesional de alguien para
+    contactarle: interés legítimo, sí, pero con condiciones'
+- id: evt-2026-10-18-legal-aid-agency-ciberataque-datos-detalle
+  sota_score: 6.4
+  ai_legaltech: false
+  title: 'El Gobierno británico detalla qué se llevaron en el ataque a la Legal Aid
+    Agency: datos de detenidos, cuentas bancarias de despachos y registros desde 1978'
+- id: evt-2026-10-18-proofpoint-adquiere-varonis-seguridad-dato-ia
+  sota_score: 6.2
+  ai_legaltech: true
+  title: Proofpoint acuerda comprar Varonis por unos 6.300 millones de dólares para
+    unir seguridad del dato, accesos y agentes de IA
+- id: evt-2026-10-18-horizon-advisory-board-poderes-reguladores-bsb
+  sota_score: 6.0
+  ai_legaltech: false
+  title: 'Los asesores del caso Post Office Horizon avisan: las investigaciones de
+    los reguladores de la abogacía «podrían fracasar» por falta de poderes'

@@ -1,0 +1,11 @@
+id: ent-legal-aid-agency
+name: Legal Aid Agency
+type: government
+url: https://www.gov.uk/government/organisations/legal-aid-agency
+geo:
+- GB
+aliases:
+- LAA
+notes: Agencia de asistencia jurídica gratuita de Inglaterra y Gales; ciberataque
+  detectado en abril de 2025. Ficha mínima.
+stub: true

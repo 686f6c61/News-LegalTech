@@ -1,0 +1,10 @@
+id: ent-ministry-of-justice-uk
+name: Ministry of Justice (UK)
+type: government
+url: https://www.gov.uk/government/organisations/ministry-of-justice
+geo:
+- GB
+aliases:
+- MoJ
+notes: Ministerio de Justicia del Reino Unido. Ficha mínima.
+stub: true

@@ -65,7 +65,7 @@ News-LegalTech/
 
 Los digests canónicos viven en `content/digests/` (ver `content/README.md` y `content/digests/_schema.md`).
 
-Catálogo de fuentes: `sources/catalog.yaml` (alias `sources/full-catalog.yaml`). Hoy hay 154 fuentes news y 9 fuentes agenda. El campo `kind` vale `news` (seguimiento: medio, regulador, asociación, vendor, investigación) o `agenda` (evento, congreso o programa de formación). `count` cuenta solo las fichas `kind: news`. `agenda_count` cuenta las fichas `kind: agenda`. Esas fichas de agenda se quedan en el catálogo. El subset de arranque ES/AI sigue en `sources/src-*.yaml` + `sources.yaml`. Las fichas añadidas para cerrar una URL citada (Cinco Días, Governor of California, GlobeNewswire, etc.) viven en ese catálogo.
+Catálogo de fuentes: `sources/catalog.yaml` (alias `sources/full-catalog.yaml`). Hoy hay 156 fuentes news y 9 fuentes agenda. El campo `kind` vale `news` (seguimiento: medio, regulador, asociación, vendor, investigación) o `agenda` (evento, congreso o programa de formación). `count` cuenta solo las fichas `kind: news`. `agenda_count` cuenta las fichas `kind: agenda`. Esas fichas de agenda se quedan en el catálogo. El subset de arranque ES/AI sigue en `sources/src-*.yaml` + `sources.yaml`. Las fichas añadidas para cerrar una URL citada (Cinco Días, Governor of California, GlobeNewswire, etc.) viven en ese catálogo.
 
 ## Dataset acumulado (append-only)
 

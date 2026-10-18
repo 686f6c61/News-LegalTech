@@ -2832,3 +2832,207 @@ entities:
   - uscourts.gov
   notes: Órgano administrativo de la judicatura federal de EE. UU. Ficha mínima.
   stub: true
+- id: ent-meta
+  name: Meta Platforms
+  type: company
+  url: https://about.meta.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Meta
+  - Facebook
+  - Instagram
+  notes: Matriz de Facebook, Instagram y WhatsApp; actualiza sus Commercial Terms
+    con efecto 30 oct 2026. Ficha mínima.
+  stub: true
+- id: ent-nieman-lab
+  name: Nieman Lab
+  type: media
+  url: https://www.niemanlab.org/
+  geo:
+  - US
+  aliases: []
+  notes: Laboratorio de periodismo de Harvard; adelantó el cambio de términos comerciales
+    de Meta (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-nautadutilh
+  name: NautaDutilh
+  type: law_firm
+  url: https://www.nautadutilh.com/
+  geo:
+  - NL
+  - BE
+  - LU
+  aliases: []
+  notes: Despacho del Benelux; lanza Bluefield, su iniciativa tecnológica interna
+    (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-bluefield-nautadutilh
+  name: Bluefield (NautaDutilh)
+  type: product
+  url: https://thedealwire.com/nautadutilh-launches-bluefield-ai-team/
+  geo:
+  - NL
+  aliases:
+  - Bluefield
+  notes: Iniciativa tecnológica interna de NautaDutilh que une abogados e ingenieros
+    de software. Ficha mínima.
+  stub: true
+- id: ent-the-deal-wire
+  name: The Deal Wire
+  type: media
+  url: https://thedealwire.com/
+  geo:
+  - GB
+  - Global
+  aliases: []
+  notes: Medio de noticias corporativas y jurídicas de Reino Unido y Europa. Ficha
+    mínima.
+  stub: true
+- id: ent-cuatrecasas
+  name: Cuatrecasas
+  type: law_firm
+  url: https://www.cuatrecasas.com/
+  geo:
+  - ES
+  - PT
+  - Global
+  aliases: []
+  notes: Despacho español; presidente no ejecutivo Luis Pérez de Ayala desde enero
+    de 2026. Ficha mínima.
+  stub: true
+- id: ent-luis-perez-de-ayala
+  name: Luis Pérez de Ayala
+  type: person
+  url: https://elpais.com/economia/negocios/2026-10-18/luis-perez-de-ayala-cuatrecasas-no-podemos-dejar-que-los-abogados-jovenes-aprendan-de-la-ia.html
+  geo:
+  - ES
+  aliases: []
+  notes: Presidente no ejecutivo de Cuatrecasas. Ficha mínima.
+  stub: true
+- id: ent-el-pais
+  name: El País
+  type: media
+  url: https://elpais.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Diario español. Ficha mínima.
+  stub: true
+- id: ent-copyright-licensing-agency
+  name: Copyright Licensing Agency
+  type: association
+  url: https://www.cla.co.uk/
+  geo:
+  - GB
+  aliases:
+  - CLA
+  notes: Entidad británica que concede licencias para copiar y compartir extractos
+    de obras protegidas. Ficha mínima.
+  stub: true
+- id: ent-law-society-gazette
+  name: Law Society Gazette
+  type: media
+  url: https://www.lawgazette.co.uk/
+  geo:
+  - GB
+  aliases:
+  - Law Gazette
+  notes: Publicación de la Law Society de Inglaterra y Gales. Ficha mínima.
+  stub: true
+- id: ent-cnil
+  name: CNIL
+  type: regulator
+  url: https://www.cnil.fr/
+  geo:
+  - FR
+  aliases:
+  - Commission nationale de l'informatique et des libertés
+  notes: Autoridad francesa de protección de datos. Ficha mínima.
+  stub: true
+- id: ent-proofpoint
+  name: Proofpoint
+  type: company
+  url: https://www.proofpoint.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Proveedor de ciberseguridad propiedad de Thoma Bravo; acuerdo para adquirir
+    Varonis (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-varonis
+  name: Varonis
+  type: company
+  url: https://www.varonis.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Proveedor de seguridad del dato (DSPM y gobierno de accesos). Ficha mínima.
+  stub: true
+- id: ent-forrester
+  name: Forrester
+  type: company
+  url: https://www.forrester.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Forrester Research
+  notes: Firma de análisis de mercado tecnológico. Ficha mínima.
+  stub: true
+- id: ent-legal-aid-agency
+  name: Legal Aid Agency
+  type: government
+  url: https://www.gov.uk/government/organisations/legal-aid-agency
+  geo:
+  - GB
+  aliases:
+  - LAA
+  notes: Agencia de asistencia jurídica gratuita de Inglaterra y Gales; ciberataque
+    detectado en abril de 2025. Ficha mínima.
+  stub: true
+- id: ent-ministry-of-justice-uk
+  name: Ministry of Justice (UK)
+  type: government
+  url: https://www.gov.uk/government/organisations/ministry-of-justice
+  geo:
+  - GB
+  aliases:
+  - MoJ
+  notes: Ministerio de Justicia del Reino Unido. Ficha mínima.
+  stub: true
+- id: ent-horizon-compensation-advisory-board
+  name: Horizon Compensation Advisory Board
+  type: other
+  url: https://www.gov.uk/government/groups/horizon-compensation-advisory-board
+  geo:
+  - GB
+  aliases:
+  - HCAB
+  notes: Consejo asesor independiente sobre las compensaciones del caso Post Office
+    Horizon. Ficha mínima.
+  stub: true
+- id: ent-bar-standards-board
+  name: Bar Standards Board
+  type: regulator
+  url: https://www.barstandardsboard.org.uk/
+  geo:
+  - GB
+  aliases:
+  - BSB
+  notes: Regulador de los barristers en Inglaterra y Gales. Ficha mínima.
+  stub: true
+- id: ent-legal-services-board
+  name: Legal Services Board
+  type: regulator
+  url: https://legalservicesboard.org.uk/
+  geo:
+  - GB
+  aliases:
+  - LSB
+  notes: Supervisor de los reguladores de servicios jurídicos de Inglaterra y Gales.
+    Ficha mínima.
+  stub: true

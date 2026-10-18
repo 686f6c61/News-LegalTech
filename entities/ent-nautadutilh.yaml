@@ -1,0 +1,12 @@
+id: ent-nautadutilh
+name: NautaDutilh
+type: law_firm
+url: https://www.nautadutilh.com/
+geo:
+- NL
+- BE
+- LU
+aliases: []
+notes: Despacho del Benelux; lanza Bluefield, su iniciativa tecnológica interna (oct
+  2026). Ficha mínima.
+stub: true

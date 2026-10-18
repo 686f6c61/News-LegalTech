@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-18-proofpoint-adquiere-varonis-seguridad-dato-ia",
+  "date": "2026-10-17",
+  "type": "market",
+  "sota_score": 6.2,
+  "ai_legaltech": true,
+  "title": "Proofpoint acuerda comprar Varonis por unos 6.300 millones de dólares para unir seguridad del dato, accesos y agentes de IA",
+  "short_title": "Proofpoint compra Varonis por unos 6.300 M$: dato, accesos e IA",
+  "standfirst": "Forrester ve lógica en la operación, pero avisa de que integrar la pila de productos será la verdadera prueba.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Seguridad del dato",
+  "country": "EE. UU.",
+  "piece_type": "Mercado",
+  "summary_p1": "Proofpoint, propiedad de Thoma Bravo, ha anunciado un acuerdo para adquirir Varonis en una operación en efectivo valorada en unos 6.300 millones de dólares, y Forrester la analiza en su blog (17 de octubre de 2026). El argumento: cada vez más personas, aplicaciones y sistemas de IA necesitan acceso al dato corporativo, y entender ese dato, controlar quién accede y vigilar cómo se usa se han convertido en un mismo problema. Proofpoint destaca en DLP (prevención de fuga de datos) e insider risk (riesgo interno) y compró Normalyze en 2024 para DSPM (gestión de la postura de seguridad del dato); Varonis aporta DSPM, gobierno de permisos y accesos y remediación automatizada, además de seguridad de bases de datos tras comprar Cyral en 2025. Ambas compraron en 2026 empresas de seguridad de IA (Acuity y AllTrue.ai).",
+  "summary_p2": "La conclusión de Forrester es que los CISO deben prepararse para que la seguridad del email, la colaboración, el dato y la IA converjan, a medida que los agentes actúan sobre información sensible en todos los canales. Para despachos y departamentos jurídicos que despliegan IA sobre su gestor documental, SharePoint o el correo, el mensaje es conocido: antes del asistente hay que saber qué permisos tiene cada carpeta, porque la IA encuentra lo que nadie debía ver. Si ya usan Proofpoint o Varonis, toca vigilar la hoja de ruta, la integración y la renegociación de contratos, porque Forrester advierte de solapamientos, como la detección de email que Varonis incorporó con SlashNext. Matiz: es un análisis de Forrester sobre un acuerdo anunciado; no consta en la fuente el calendario de cierre ni las autorizaciones.",
+  "why_sota": "La consolidación del mercado de seguridad del dato se justifica explícitamente por el acceso de agentes de IA a información sensible.",
+  "why_now": "Blog de Forrester, 17 oct 2026, tras el anuncio. NEW frente a 09-29→10-17.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "seguridad-del-dato",
+    "dspm",
+    "gobierno-de-accesos",
+    "agentes",
+    "m-and-a"
+  ],
+  "sources": [
+    {
+      "source_id": "src-forrester-wave-document-mining-analytics",
+      "url": "https://www.forrester.com/blogs/proofpoint-varonis-the-platform-promise-meets-the-integration-test/",
+      "cited_title": "Proofpoint + Varonis: The Platform Promise Meets The Integration Test",
+      "accessed": "2026-10-18"
+    }
+  ],
+  "entities": [
+    "ent-proofpoint",
+    "ent-varonis",
+    "ent-forrester"
+  ],
+  "lang": "es",
+  "status": "published"
+}

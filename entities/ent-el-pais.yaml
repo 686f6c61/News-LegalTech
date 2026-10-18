@@ -1,0 +1,9 @@
+id: ent-el-pais
+name: El País
+type: media
+url: https://elpais.com/
+geo:
+- ES
+aliases: []
+notes: Diario español. Ficha mínima.
+stub: true

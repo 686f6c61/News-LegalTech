@@ -1,0 +1,10 @@
+id: ent-the-deal-wire
+name: The Deal Wire
+type: media
+url: https://thedealwire.com/
+geo:
+- GB
+- Global
+aliases: []
+notes: Medio de noticias corporativas y jurídicas de Reino Unido y Europa. Ficha mínima.
+stub: true

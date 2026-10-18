@@ -1,0 +1,10 @@
+id: ent-law-society-gazette
+name: Law Society Gazette
+type: media
+url: https://www.lawgazette.co.uk/
+geo:
+- GB
+aliases:
+- Law Gazette
+notes: Publicación de la Law Society de Inglaterra y Gales. Ficha mínima.
+stub: true

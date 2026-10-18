@@ -1,0 +1,51 @@
+{
+  "id": "evt-2026-10-18-cnil-reconstitucion-emails-profesionales-prospeccion",
+  "date": "2026-10-16",
+  "type": "guidance",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "La CNIL fija cuándo se puede deducir el email profesional de alguien para contactarle: interés legítimo, sí, pero con condiciones",
+  "short_title": "CNIL: cuándo se puede «adivinar» un email profesional",
+  "standfirst": "Dos fichas, para empresas y para personas: la reconstitución solo es lícita si la persona podía esperarla y se le informa de cómo se obtuvo su dirección.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "Francia",
+  "piece_type": "Orientación",
+  "summary_p1": "La CNIL publicó el 16 de octubre de 2026 dos fichas sobre la reconstitución de direcciones electrónicas profesionales: deducir el email de una persona a partir de su nombre y del patrón de direcciones de su empleador, una práctica habitual en prospección. Que los datos estén en internet no exime del RGPD ni de las reglas de prospección comercial. La reconstitución puede basarse en el interés legítimo si hay un interés real y no se lesionan de forma desproporcionada los derechos de la persona, y debe valorarse caso a caso: finalidad y grado de intrusión, visibilidad de los datos y control que ejerce la persona, y contexto en que se publicaron. Quien no tiene presencia identificable en línea o protege sus datos de contacto no puede, en principio, esperar que se reconstruya su dirección. Si no se cumplen estas condiciones, hace falta consentimiento.",
+  "summary_p2": "La ficha dirigida a las personas añade la obligación práctica: informar cuanto antes de la finalidad y de cómo se obtuvo la dirección, y atender derechos, con queja ante la CNIL si no hay respuesta en un mes. Para equipos de business development de despachos y para in-house que contratan herramientas de sales intelligence (inteligencia comercial) o de enriquecimiento de contactos, el criterio sirve como lista de control: documentar la ponderación del interés legítimo, revisar si el proveedor deduce direcciones y cómo informa, y preparar el aviso para el primer contacto. Para vendors que venden bases de contactos B2B en Europa, es una señal de que los reguladores miran ya el paso técnico de «adivinar» la dirección, no solo el envío. Matiz: es una orientación de la autoridad francesa, no vincula a la AEPD, aunque interpreta el mismo RGPD.",
+  "why_sota": "Un regulador europeo delimita una técnica habitual de las herramientas de prospección B2B.",
+  "why_now": "CNIL, 16 oct 2026. NEW frente a 09-29→10-17.",
+  "geo": [
+    "FR",
+    "EU"
+  ],
+  "topics": [
+    "rgpd",
+    "prospeccion",
+    "interes-legitimo",
+    "business-development",
+    "datos-de-contacto"
+  ],
+  "sources": [
+    {
+      "source_id": "src-cnil",
+      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+      "cited_title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
+      "accessed": "2026-10-18"
+    },
+    {
+      "source_id": "src-cnil",
+      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
+      "cited_title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
+      "accessed": "2026-10-18"
+    }
+  ],
+  "entities": [
+    "ent-cnil"
+  ],
+  "lang": "es",
+  "status": "published"
+}

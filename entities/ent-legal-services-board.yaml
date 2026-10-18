@@ -1,0 +1,11 @@
+id: ent-legal-services-board
+name: Legal Services Board
+type: regulator
+url: https://legalservicesboard.org.uk/
+geo:
+- GB
+aliases:
+- LSB
+notes: Supervisor de los reguladores de servicios jurídicos de Inglaterra y Gales.
+  Ficha mínima.
+stub: true

@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-18-nautadutilh-bluefield-equipo-abogados-ingenieros",
+  "date": "2026-10-17",
+  "type": "market",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "NautaDutilh lanza Bluefield, un equipo propio de abogados e ingenieros de software, y ficha un AI & Innovation Partner",
+  "short_title": "NautaDutilh lanza Bluefield: abogados e ingenieros en un solo equipo",
+  "standfirst": "Herramientas construidas desde el trabajo diario, sobre datos propios del despacho y como complemento de la IA que ya usa.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Países Bajos",
+  "piece_type": "Mercado",
+  "summary_p1": "NautaDutilh ha lanzado Bluefield, una iniciativa tecnológica interna que reúne en un mismo equipo a abogados e ingenieros de software para desarrollar herramientas para el trabajo de clientes y cambiar cómo se prestan los servicios jurídicos, según The Deal Wire (17 de octubre de 2026). La firma nombra a Elgar Weijtmans AI & Innovation Partner, al frente del equipo de IA e innovación, y a Niels de Jong AI & Innovation Lead, responsable del desarrollo de software; ambos se incorporan el 1 de noviembre. Bluefield complementa las herramientas de IA que el despacho ya utiliza, se apoya en datos propios de NautaDutilh y opera dentro de sus estándares de seguridad y confidencialidad. Lo lideran los socios Jinne van Belle, Sybren de Beurs y Marc Orval junto a Weijtmans y De Jong.",
+  "summary_p2": "Es otra señal de la misma semana: tras el ELTEMATE de Hogan Lovells Cadwalader y el debate sobre un spin-off del Freshfields Lab, los despachos grandes no se conforman con licenciar plataformas generalistas y montan capacidad de ingeniería propia pegada a la práctica. El argumento de Weijtmans es que las mayores oportunidades de la IA están «cerca del trabajo jurídico», lo que traslada la ventaja al dato y al conocimiento interno, no al modelo. Para un despacho mediano la pregunta práctica es si tiene el dato ordenado y el perfil de ingeniero que exige este modelo o si le conviene seguir comprando. Para vendors, cada firma que construye internamente es un cliente que exigirá APIs abiertas e integración, no un producto cerrado. Matiz: es un anuncio del despacho, sin herramientas concretas, presupuesto ni plantilla del equipo.",
+  "why_sota": "Un despacho del Benelux institucionaliza el desarrollo propio de herramientas de IA junto a la práctica.",
+  "why_now": "The Deal Wire, 17 oct 2026; incorporaciones el 1 nov. NEW frente a 09-29→10-17.",
+  "geo": [
+    "NL"
+  ],
+  "topics": [
+    "despachos",
+    "desarrollo-propio",
+    "innovacion",
+    "ingenieria",
+    "datos-internos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-the-deal-wire",
+      "url": "https://thedealwire.com/nautadutilh-launches-bluefield-ai-team/",
+      "cited_title": "NautaDutilh Launches Bluefield to Embed AI in Legal Work",
+      "accessed": "2026-10-18"
+    }
+  ],
+  "entities": [
+    "ent-nautadutilh",
+    "ent-bluefield-nautadutilh",
+    "ent-the-deal-wire"
+  ],
+  "lang": "es",
+  "status": "published"
+}

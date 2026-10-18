@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-18-cuatrecasas-perez-de-ayala-ia-facturacion-juniors",
+  "date": "2026-10-18",
+  "type": "opinion",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "El presidente de Cuatrecasas: la facturación por horas «dejará de ser una referencia» y los abogados jóvenes no pueden aprender de la IA",
+  "short_title": "Cuatrecasas: adiós a la hora como referencia y juniors sin atajos",
+  "standfirst": "Luis Pérez de Ayala, en su primera entrevista como presidente, descarta por ahora recortes de plantilla y reparte el beneficio de la IA entre cliente y despacho.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "España",
+  "piece_type": "Análisis",
+  "summary_p1": "Luis Pérez de Ayala, presidente no ejecutivo de Cuatrecasas desde enero, habla de IA en su primera entrevista en el cargo (El País, 18 de octubre de 2026). La define como «una revolución cuyo alcance aún no tenemos claro» y dice que el despacho, que facturó 447 millones de euros en el último ejercicio, no se plantea por ahora reducir personal. Sobre precios, rechaza el debate de subir o bajar tarifas: «sería un error pensar que todo el beneficio de la IA debe irse a los clientes, como sería un error pensar que nos lo vamos a apropiar los despachos», y anticipa que «la facturación en función del tiempo dejará de ser una referencia». Sobre talento: «no podemos dejar que los abogados jóvenes, en lugar de aprender de los veteranos, aprendan de la IA».",
+  "summary_p2": "Que lo diga el presidente de uno de los mayores despachos españoles convierte en posición de mercado lo que hasta ahora eran ponencias: el cambio de modelo de facturación llega a la conversación con el cliente, y el reparto de la eficiencia será objeto de negociación, no un descuento automático. Para socios y directores financieros, la consecuencia es preparar ya métricas de valor por tipo de asunto, porque el cliente corporativo pedirá trasladar el ahorro a la tarifa. La frase sobre los juniors toca un problema que ya se debate en otros mercados: si la IA hace la revisión y el primer borrador, el despacho tiene que rediseñar a propósito cómo se forma criterio, con supervisión y revisión real del trabajo generado. Matiz: es una entrevista; no hay cifras de adopción, herramientas ni plazos.",
+  "why_sota": "Un gran despacho español fija posición pública sobre facturación por horas, reparto de la eficiencia y formación con IA.",
+  "why_now": "El País, 18 oct 2026. NEW frente a 09-29→10-17.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "despachos",
+    "facturacion",
+    "billable-hour",
+    "talento",
+    "formacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-el-pais",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/luis-perez-de-ayala-cuatrecasas-no-podemos-dejar-que-los-abogados-jovenes-aprendan-de-la-ia.html",
+      "cited_title": "Luis Pérez de Ayala (Cuatrecasas): “No podemos dejar que los abogados jóvenes aprendan de la IA”",
+      "accessed": "2026-10-18"
+    }
+  ],
+  "entities": [
+    "ent-cuatrecasas",
+    "ent-luis-perez-de-ayala",
+    "ent-el-pais"
+  ],
+  "lang": "es",
+  "status": "published"
+}

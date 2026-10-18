@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-18-meta-terminos-comerciales-rastreo-entrenamiento-ia",
+  "date": "2026-10-16",
+  "type": "other",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "Meta reescribe sus términos comerciales: desde el 30 de octubre las cuentas de empresa autorizan el rastreo de sus webs y el uso de su contenido para «entrenar»",
+  "short_title": "Meta: rastreo y entrenamiento con las webs de cuentas de empresa",
+  "standfirst": "Sin opt-out y con «test credentials» incluidas. Meta dice que nada cambia y que robots.txt se respeta; varios juristas lo ven como una licencia por la puerta de atrás.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Contratos y datos",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "Meta actualizará el 30 de octubre de 2026 sus Commercial Terms (términos comerciales) para todas las cuentas de empresa, según Ars Technica a partir de una información de Nieman Lab. El nuevo texto autoriza a Meta, o a quien actúe en su nombre, a usar software automatizado (web scrapers, bots, crawlers) y a crear test credentials (credenciales de prueba) para acceder, indexar, cachear y rastrear los dominios y URLs asociados a los productos o servicios del cliente, y a usar «cualquier contenido» de esas páginas para «proporcionar, desarrollar, mejorar, investigar, entrenar» los productos de Meta. No hay opción de exclusión: quien no acepte tendría que dejar de usar los servicios. Meta lo presenta como una consolidación de cláusulas dispersas, afirma que no cambia cómo usa sus crawlers y que los editores pueden seguir bloqueando el rastreo con robots.txt.",
+  "summary_p2": "La lectura jurídica es la que interesa. James Grimmelmann (Cornell) y Matt Topic (Loevy & Loevy) advierten de que no está claro que un tribunal lo haga cumplir, pero que la cláusula podría usarse para sostener que existe permiso contractual para entrenar con ese contenido, con independencia de cómo se resuelva el debate de fair use, y otros expertos lo comparan con el tying (venta atada) antitrust. Ars añade que las test credentials solo aparecían antes en acuerdos de uso limitado, como el Seller Agreement o los términos de anuncios de autoservicio. Para in-house y asesores de propiedad intelectual, el aprendizaje es que la licencia de datos para IA ya se negocia, o se impone, en condiciones generales de plataforma que nadie relee, y que robots.txt y contrato pueden acabar diciendo cosas distintas. Cualquier organización con cuenta de empresa en Meta y web vinculada, despachos incluidos, debería revisar qué acepta antes del 30 de octubre. Matiz: el texto definitivo y su alcance práctico dependen de Meta, que niega cambios en su conducta.",
+  "why_sota": "La licencia de contenido para entrenar IA se desplaza a los términos de servicio de una gran plataforma.",
+  "why_now": "Ars Technica, 16 oct 2026; entrada en vigor el 30 oct 2026. NEW frente a 09-29→10-17.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "datos-entrenamiento",
+    "terminos-de-servicio",
+    "propiedad-intelectual",
+    "scraping",
+    "contratos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "cited_title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "accessed": "2026-10-18"
+    }
+  ],
+  "entities": [
+    "ent-meta",
+    "ent-nieman-lab",
+    "ent-ars-technica"
+  ],
+  "lang": "es",
+  "status": "published"
+}

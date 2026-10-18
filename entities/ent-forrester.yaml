@@ -1,0 +1,11 @@
+id: ent-forrester
+name: Forrester
+type: company
+url: https://www.forrester.com/
+geo:
+- US
+- Global
+aliases:
+- Forrester Research
+notes: Firma de análisis de mercado tecnológico. Ficha mínima.
+stub: true

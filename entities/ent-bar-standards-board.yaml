@@ -1,0 +1,10 @@
+id: ent-bar-standards-board
+name: Bar Standards Board
+type: regulator
+url: https://www.barstandardsboard.org.uk/
+geo:
+- GB
+aliases:
+- BSB
+notes: Regulador de los barristers en Inglaterra y Gales. Ficha mínima.
+stub: true

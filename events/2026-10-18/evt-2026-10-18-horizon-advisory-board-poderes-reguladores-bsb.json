@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-18-horizon-advisory-board-poderes-reguladores-bsb",
+  "date": "2026-10-16",
+  "type": "regulation",
+  "sota_score": 6.0,
+  "ai_legaltech": false,
+  "title": "Los asesores del caso Post Office Horizon avisan: las investigaciones de los reguladores de la abogacía «podrían fracasar» por falta de poderes",
+  "short_title": "Caso Horizon: los reguladores de la abogacía, sin poderes suficientes",
+  "standfirst": "El BSB no puede obligar a aportar pruebas y la sentencia Carter-Ruck limita al SRA. El Legal Services Board estudia con el Ministerio de Justicia vías para cambiarlo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación profesional",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "El Horizon Compensation Advisory Board (HCAB), consejo independiente de parlamentarios y académicos, ha escrito al Gobierno y al Legal Services Board (LSB) para alertar de que el Bar Standards Board (BSB) carece de poderes para obligar a aportar pruebas en sus investigaciones sobre los abogados implicados en el escándalo Post Office Horizon, según Legal Futures (16 de octubre de 2026). El HCAB cita además la sentencia del High Court en el caso Carter-Ruck, según la cual el SRA no tenía la potestad legal que creía para exigir información protegida por privilegio, y que el SRA recurre directamente ante el Supreme Court. Su presidente, Chris Hodges, habla de «una omisión significativa» en las herramientas del regulador. La presidenta del LSB, Monisha Shah, respondió que explorará con los reguladores y el Ministerio de Justicia vías legales para reforzar esos poderes.",
+  "summary_p2": "El caso Horizon nació de un sistema informático cuyos errores se trataron como prueba fiable, y ahora la rendición de cuentas de los abogados que intervinieron choca con un límite de diseño regulatorio. Para despachos británicos, la consecuencia es que el resultado del recurso de Carter-Ruck y una eventual reforma legal definirán qué documentos privilegiados puede pedirles un regulador, y conviene seguirlo junto con sus políticas de conservación y de respuesta a requerimientos. Para el resto, es un recordatorio de que la prueba generada por sistemas y la responsabilidad profesional sobre cómo se usó en juicio siguen abiertas, años después. Matiz: es correspondencia publicada y declaraciones; el Ministerio de Justicia solo dice que vigila el marco regulatorio y no hay propuesta normativa.",
+  "why_sota": "Las secuelas del mayor escándalo de prueba informática británico ponen a prueba los poderes de los reguladores de la abogacía.",
+  "why_now": "Legal Futures, 16 oct 2026. NEW frente a 09-29→10-17; sigue la pieza Carter-Ruck del 06-10.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "regulacion-profesional",
+    "privilegio",
+    "post-office-horizon",
+    "bsb",
+    "sra"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/legal-regulators-post-office-probes-could-fail-due-to-lack-of-powers",
+      "cited_title": "Legal regulators’ Post Office probes “could fail” due to lack of powers",
+      "accessed": "2026-10-18"
+    }
+  ],
+  "entities": [
+    "ent-horizon-compensation-advisory-board",
+    "ent-bar-standards-board",
+    "ent-legal-services-board",
+    "ent-sra",
+    "ent-carter-ruck",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

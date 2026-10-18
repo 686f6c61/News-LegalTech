@@ -1,0 +1,11 @@
+id: ent-copyright-licensing-agency
+name: Copyright Licensing Agency
+type: association
+url: https://www.cla.co.uk/
+geo:
+- GB
+aliases:
+- CLA
+notes: Entidad británica que concede licencias para copiar y compartir extractos de
+  obras protegidas. Ficha mínima.
+stub: true

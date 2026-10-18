@@ -1,0 +1,14 @@
+id: ent-meta
+name: Meta Platforms
+type: company
+url: https://about.meta.com/
+geo:
+- US
+- Global
+aliases:
+- Meta
+- Facebook
+- Instagram
+notes: Matriz de Facebook, Instagram y WhatsApp; actualiza sus Commercial Terms con
+  efecto 30 oct 2026. Ficha mínima.
+stub: true

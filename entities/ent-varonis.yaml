@@ -1,0 +1,10 @@
+id: ent-varonis
+name: Varonis
+type: company
+url: https://www.varonis.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Proveedor de seguridad del dato (DSPM y gobierno de accesos). Ficha mínima.
+stub: true

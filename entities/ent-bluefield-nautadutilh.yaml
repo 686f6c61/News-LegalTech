@@ -1,0 +1,11 @@
+id: ent-bluefield-nautadutilh
+name: Bluefield (NautaDutilh)
+type: product
+url: https://thedealwire.com/nautadutilh-launches-bluefield-ai-team/
+geo:
+- NL
+aliases:
+- Bluefield
+notes: Iniciativa tecnológica interna de NautaDutilh que une abogados e ingenieros
+  de software. Ficha mínima.
+stub: true

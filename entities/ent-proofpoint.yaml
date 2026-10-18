@@ -1,0 +1,11 @@
+id: ent-proofpoint
+name: Proofpoint
+type: company
+url: https://www.proofpoint.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Proveedor de ciberseguridad propiedad de Thoma Bravo; acuerdo para adquirir
+  Varonis (oct 2026). Ficha mínima.
+stub: true

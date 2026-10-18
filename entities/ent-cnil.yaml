@@ -1,0 +1,10 @@
+id: ent-cnil
+name: CNIL
+type: regulator
+url: https://www.cnil.fr/
+geo:
+- FR
+aliases:
+- Commission nationale de l'informatique et des libertés
+notes: Autoridad francesa de protección de datos. Ficha mínima.
+stub: true
