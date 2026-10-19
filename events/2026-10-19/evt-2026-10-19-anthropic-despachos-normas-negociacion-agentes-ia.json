@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-19-anthropic-despachos-normas-negociacion-agentes-ia",
+  "date": "2026-10-18",
+  "type": "market",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Anthropic consulta a despachos de abogados para enseñar a sus agentes de IA a negociar en nombre del usuario, según el Financial Times",
+  "short_title": "Anthropic pide a despachos normas de negociación para sus agentes",
+  "standfirst": "Cómo representar al cliente sin perder la equidad, cuánto consultar al humano y cuánto desconfiar del agente de enfrente.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Agentes de IA",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Anthropic está en conversaciones con despachos de abogados para entender cómo negocian los letrados, representando a su cliente sin dejar de respetar resultados justos, y trasladarlo a sus agentes de IA, según el Financial Times (18 de octubre de 2026), que cita a dos fuentes conocedoras del asunto, en la versión de PYMNTS. Una de ellas explica que la compañía estudia «normas de negociación» para cuando los modelos interactúen entre sí: los agentes «representarán al usuario» frente a otros agentes cuyos «objetivos están en conflicto». También trabaja en cuánta intervención humana debe pedir un agente durante una negociación y en cuánto debe desconfiar de su contraparte artificial sin volverse «paranoico» o «conspiranoico». Anthropic declinó comentar al FT.",
+  "summary_p2": "Es la siguiente vuelta del fichaje de abogados por los laboratorios de IA que ya contamos: ahora el saber del negociador, no solo el del redactor de documentos, se convierte en material para entrenar agentes. Para los despachos que colaboren, la pregunta es qué ceden exactamente, con qué confidencialidad y si su know-how de negociación pasa a formar parte del producto. Para in-house y abogados de contratos, el horizonte es una negociación de agente contra agente en la que habrá que definir de antemano mandatos, límites de autoridad y puntos de escalado al humano, y decidir quién responde si el agente cierra algo que no debía. Matiz: es información de fuentes anónimas sin confirmación de Anthropic; no se citan despachos concretos ni el alcance de los acuerdos.",
+  "why_sota": "Un gran laboratorio busca en la práctica de los despachos las reglas de conducta de agentes que negocian entre sí.",
+  "why_now": "Financial Times y PYMNTS, 18 oct 2026. NEW frente a 09-29→10-18.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "agentes-ia",
+    "negociacion",
+    "despachos",
+    "laboratorios-ia",
+    "contratos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/",
+      "cited_title": "Anthropic Turns to Lawyers to Teach AI Agents to Negotiate",
+      "accessed": "2026-10-19"
+    }
+  ],
+  "entities": [
+    "ent-anthropic",
+    "ent-pymnts",
+    "ent-financial-times"
+  ],
+  "lang": "es",
+  "status": "published"
+}

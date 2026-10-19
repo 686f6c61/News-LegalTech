@@ -1,0 +1,12 @@
+id: ent-pwc
+name: PwC
+type: company
+url: https://www.pwc.co.uk/
+geo:
+- GB
+- Global
+aliases:
+- PricewaterhouseCoopers
+notes: Firma de servicios profesionales; publica la encuesta anual a los 100 mayores
+  despachos británicos (35.ª edición, oct 2026). Ficha mínima.
+stub: true

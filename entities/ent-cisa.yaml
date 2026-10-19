@@ -1,0 +1,10 @@
+id: ent-cisa
+name: CISA
+type: government
+url: https://www.cisa.gov/
+geo:
+- US
+aliases:
+- Cybersecurity and Infrastructure Security Agency
+notes: Agencia de ciberseguridad e infraestructuras de EE. UU. Ficha mínima.
+stub: true

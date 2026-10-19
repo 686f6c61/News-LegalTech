@@ -1,0 +1,485 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/19.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 19.10.26",
+      "schema:version": "19.10.26",
+      "schema:datePublished": "2026-10-19",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-19, 6 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/19.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-abogados-australianos-clausulas-ia-clientes"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-nist-nsa-cisa-preservar-evidencias-agentes-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-pwc-encuesta-top-100-despachos-ia-beneficio"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-anthropic-despachos-normas-negociacion-agentes-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-ribon-sanchez-algoritmos-consumo-registro-estatal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-anthropic-metr-evaluadores-internos-propuesta-ley"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-abogados-australianos-clausulas-ia-clientes",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-19-abogados-australianos-clausulas-ia-clientes",
+      "schema:headline": "Abogados australianos meten en sus hojas de encargo recargos y cláusulas para cuando el cliente revisa su trabajo con IA generalista",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Confilegal recoge (19 de octubre de 2026) un reportaje de The Australian Financial Review del 16 de octubre sobre clientes que pasan el trabajo de su abogado por asistentes de IA generalistas para auditarlo, rebatirlo o sustituirlo. La fiscalista Tania Waterhouse ha añadido a sus hojas de encargo un recargo para cuando el cliente revise el trabajo con IA y ha dejado de enviar borradores; el tributarista David Marks, que recibió 300 páginas de objeciones, suspende el asunto si sospecha que el material viene de la IA y pacta con el cliente cuánto tiempo costará desmontarlo. La investigadora Mimi Zou (Universidad de Nueva Gales del Sur) estudia dos cláusulas más: prohibir que el trabajo del abogado se use para entrenar modelos y obligar al cliente a declarar si ha usado IA. La presidenta del Law Council of Australia, Tania Wolff, recuerda que si ese material puede llegar a un tribunal hay que comprobarlo entero.",
+      "schema:articleBody": "Confilegal recoge (19 de octubre de 2026) un reportaje de The Australian Financial Review del 16 de octubre sobre clientes que pasan el trabajo de su abogado por asistentes de IA generalistas para auditarlo, rebatirlo o sustituirlo. La fiscalista Tania Waterhouse ha añadido a sus hojas de encargo un recargo para cuando el cliente revise el trabajo con IA y ha dejado de enviar borradores; el tributarista David Marks, que recibió 300 páginas de objeciones, suspende el asunto si sospecha que el material viene de la IA y pacta con el cliente cuánto tiempo costará desmontarlo. La investigadora Mimi Zou (Universidad de Nueva Gales del Sur) estudia dos cláusulas más: prohibir que el trabajo del abogado se use para entrenar modelos y obligar al cliente a declarar si ha usado IA. La presidenta del Law Council of Australia, Tania Wolff, recuerda que si ese material puede llegar a un tribunal hay que comprobarlo entero.\n\nEl fondo es deontológico y económico: el abogado no puede ignorar las preguntas del cliente, por endebles que sean, y en los honorarios cerrados ese tiempo extra no está previsto. Para cualquier despacho, también en España, la lección práctica es revisar la hoja de encargo: qué incluye el precio fijo, cómo se factura la revisión de material generado por IA que aporta el cliente, si se envían borradores y qué uso puede hacer el cliente del trabajo entregado, incluido subirlo a una herramienta que entrene con él. No todos lo ven como amenaza: la experta en derecho e IA Jeannie Paterson sostiene que el consumidor gana comprensión de su asunto y que los clientes «quizá no sean tan torpes» como sugieren los abogados; otra abogada citada se niega a cobrar por el mero uso de ChatGPT. Matiz: son testimonios recogidos por la prensa, no una encuesta ni una norma colegial.",
+      "sota:type": "other",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "La IA generalista del cliente entra en la hoja de encargo: recargos, cláusulas de declaración y de no entrenamiento.",
+      "sota:whyNow": "AFR, 16 oct 2026; Confilegal, 19 oct 2026. NEW frente a 09-29→10-18.",
+      "sota:geo": [
+        "AU"
+      ],
+      "sota:topics": [
+        "despachos",
+        "hoja-de-encargo",
+        "honorarios",
+        "deontologia",
+        "ia-generalista"
+      ],
+      "sota:summaryP1": "Confilegal recoge (19 de octubre de 2026) un reportaje de The Australian Financial Review del 16 de octubre sobre clientes que pasan el trabajo de su abogado por asistentes de IA generalistas para auditarlo, rebatirlo o sustituirlo. La fiscalista Tania Waterhouse ha añadido a sus hojas de encargo un recargo para cuando el cliente revise el trabajo con IA y ha dejado de enviar borradores; el tributarista David Marks, que recibió 300 páginas de objeciones, suspende el asunto si sospecha que el material viene de la IA y pacta con el cliente cuánto tiempo costará desmontarlo. La investigadora Mimi Zou (Universidad de Nueva Gales del Sur) estudia dos cláusulas más: prohibir que el trabajo del abogado se use para entrenar modelos y obligar al cliente a declarar si ha usado IA. La presidenta del Law Council of Australia, Tania Wolff, recuerda que si ese material puede llegar a un tribunal hay que comprobarlo entero.",
+      "sota:summaryP2": "El fondo es deontológico y económico: el abogado no puede ignorar las preguntas del cliente, por endebles que sean, y en los honorarios cerrados ese tiempo extra no está previsto. Para cualquier despacho, también en España, la lección práctica es revisar la hoja de encargo: qué incluye el precio fijo, cómo se factura la revisión de material generado por IA que aporta el cliente, si se envían borradores y qué uso puede hacer el cliente del trabajo entregado, incluido subirlo a una herramienta que entrene con él. No todos lo ven como amenaza: la experta en derecho e IA Jeannie Paterson sostiene que el consumidor gana comprensión de su asunto y que los clientes «quizá no sean tan torpes» como sugieren los abogados; otra abogada citada se niega a cobrar por el mero uso de ChatGPT. Matiz: son testimonios recogidos por la prensa, no una encuesta ni una norma colegial.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261019-abogados-cobrar-clientes-inteligencia-artificial-revisar-trabajo/",
+          "schema:name": "Los abogados australianos declaran la guerra a los clientes que les obligan a revisar la “basura” generada por la IA",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-australian-financial-review"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-council-of-australia"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-nist-nsa-cisa-preservar-evidencias-agentes-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-19-nist-nsa-cisa-preservar-evidencias-agentes-ia",
+      "schema:headline": "NIST, NSA y CISA piden a los desarrolladores de agentes de IA conservar pesos, registros y llamadas rechazadas para investigar incidentes, pero sin plazo de conservación ni mención a litigios",
+      "schema:datePublished": "2026-10-18",
+      "schema:inLanguage": "es",
+      "schema:abstract": "NIST, el Super Intelligence Security Center de la NSA y CISA publicaron el 16 de octubre de 2026 un documento conjunto de 14 páginas, Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation, con diez prácticas voluntarias en cinco fases (preparar, detectar, responder, recuperar e informar), según ComplexDiscovery (18 de octubre). Se dirige sobre todo a desarrolladores y evaluadores de agentes muy capaces que ejecutan tareas largas con poca supervisión humana, aunque los autores dicen que los deployers (quienes los despliegan) también pueden estar incluidos. Aconseja conservar pesos del modelo, checkpoints, registros del sandbox y llamadas a herramientas rechazadas en la medida necesaria para investigar un «incidente de control», definido como acciones significativas no ordenadas por nadie que vulneran las políticas o controles del operador. Las acciones causadas por prompt injection o por un modelo con puerta trasera cuentan como «ordenadas».",
+      "schema:articleBody": "NIST, el Super Intelligence Security Center de la NSA y CISA publicaron el 16 de octubre de 2026 un documento conjunto de 14 páginas, Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation, con diez prácticas voluntarias en cinco fases (preparar, detectar, responder, recuperar e informar), según ComplexDiscovery (18 de octubre). Se dirige sobre todo a desarrolladores y evaluadores de agentes muy capaces que ejecutan tareas largas con poca supervisión humana, aunque los autores dicen que los deployers (quienes los despliegan) también pueden estar incluidos. Aconseja conservar pesos del modelo, checkpoints, registros del sandbox y llamadas a herramientas rechazadas en la medida necesaria para investigar un «incidente de control», definido como acciones significativas no ordenadas por nadie que vulneran las políticas o controles del operador. Las acciones causadas por prompt injection o por un modelo con puerta trasera cuentan como «ordenadas».\n\nLo relevante para abogados es lo que falta: el documento no fija plazo de conservación, no menciona litigios y su propio aviso dice que no es asesoramiento de cumplimiento ni legal. ComplexDiscovery subraya que el deber de preservar puede nacer mientras la investigación sigue abierta y que la recomendación de reconstruir entornos comprometidos choca con ese deber; recuerda además que quince fiscales generales estatales ya pidieron a OpenAI conservar registros de su intrusión en Hugging Face, con aviso de posibles sanciones por destrucción de prueba (spoliation). Para in-house de empresas que desarrollan o despliegan agentes, la tarea es escribir ya en los runbooks cuándo una conservación técnica se convierte en legal hold, y para proveedores de eDiscovery, prepararse para logs de agentes como nueva fuente de prueba. Matiz: es una guía voluntaria; la lectura sobre litigios es de ComplexDiscovery, no de las agencias.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Las agencias federales fijan qué prueba técnica conservar tras un incidente de agente de IA, y abren el debate sobre legal hold.",
+      "sota:whyNow": "Documento del 16 oct 2026; ComplexDiscovery, 18 oct 2026. NEW frente a 09-29→10-18.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "agentes-ia",
+        "ediscovery",
+        "preservacion-prueba",
+        "legal-hold",
+        "respuesta-incidentes"
+      ],
+      "sota:summaryP1": "NIST, el Super Intelligence Security Center de la NSA y CISA publicaron el 16 de octubre de 2026 un documento conjunto de 14 páginas, Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation, con diez prácticas voluntarias en cinco fases (preparar, detectar, responder, recuperar e informar), según ComplexDiscovery (18 de octubre). Se dirige sobre todo a desarrolladores y evaluadores de agentes muy capaces que ejecutan tareas largas con poca supervisión humana, aunque los autores dicen que los deployers (quienes los despliegan) también pueden estar incluidos. Aconseja conservar pesos del modelo, checkpoints, registros del sandbox y llamadas a herramientas rechazadas en la medida necesaria para investigar un «incidente de control», definido como acciones significativas no ordenadas por nadie que vulneran las políticas o controles del operador. Las acciones causadas por prompt injection o por un modelo con puerta trasera cuentan como «ordenadas».",
+      "sota:summaryP2": "Lo relevante para abogados es lo que falta: el documento no fija plazo de conservación, no menciona litigios y su propio aviso dice que no es asesoramiento de cumplimiento ni legal. ComplexDiscovery subraya que el deber de preservar puede nacer mientras la investigación sigue abierta y que la recomendación de reconstruir entornos comprometidos choca con ese deber; recuerda además que quince fiscales generales estatales ya pidieron a OpenAI conservar registros de su intrusión en Hugging Face, con aviso de posibles sanciones por destrucción de prueba (spoliation). Para in-house de empresas que desarrollan o despliegan agentes, la tarea es escribir ya en los runbooks cuándo una conservación técnica se convierte en legal hold, y para proveedores de eDiscovery, prepararse para logs de agentes como nueva fuente de prueba. Matiz: es una guía voluntaria; la lectura sobre litigios es de ComplexDiscovery, no de las agencias.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://complexdiscovery.com/nist-nsa-and-cisa-guidance-asks-ai-developers-to-preserve-agent-evidence-for-investigation-but-sets-no-retention-clock/",
+          "schema:name": "NIST, NSA and CISA guidance asks AI developers to preserve agent evidence for investigation but sets no retention clock",
+          "sota:sourceId": "src-complexdiscovery"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nist"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nsa"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cisa"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-pwc-encuesta-top-100-despachos-ia-beneficio",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-19-pwc-encuesta-top-100-despachos-ia-beneficio",
+      "schema:headline": "PwC: dos tercios de los 100 mayores despachos británicos ya usan IA, pero solo el 8% declara beneficios monetizados",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La 35.ª encuesta anual de PwC a los 100 mayores despachos del Reino Unido, recogida por Legal Futures (19 de octubre de 2026), concluye que las firmas han «dejado atrás la fase de experimentación» con la IA: dos tercios la han implantado, pero solo el 8% declara beneficios monetizados. Los despachos estiman que en torno al 18% de las horas facturables podría ahorrarse con IA, frente al 16% del año pasado. El 84% está preocupado por la velocidad del cambio tecnológico y el 68% teme que los clientes automaticen trabajo, dependan menos del asesor externo o presionen las tarifas. En paralelo, los diez primeros pasan del 45% al 51% de los honorarios del top 100 en dos años y su beneficio por socio de capital sube un 10,3%, hasta 1,82 millones de libras.",
+      "schema:articleBody": "La 35.ª encuesta anual de PwC a los 100 mayores despachos del Reino Unido, recogida por Legal Futures (19 de octubre de 2026), concluye que las firmas han «dejado atrás la fase de experimentación» con la IA: dos tercios la han implantado, pero solo el 8% declara beneficios monetizados. Los despachos estiman que en torno al 18% de las horas facturables podría ahorrarse con IA, frente al 16% del año pasado. El 84% está preocupado por la velocidad del cambio tecnológico y el 68% teme que los clientes automaticen trabajo, dependan menos del asesor externo o presionen las tarifas. En paralelo, los diez primeros pasan del 45% al 51% de los honorarios del top 100 en dos años y su beneficio por socio de capital sube un 10,3%, hasta 1,82 millones de libras.\n\nPwC atribuye la distancia entre promesa e impacto a carencias de datos, formación, medición e integración operativa, y a una «reticencia muy humana» a abandonar la facturación por horas, con el riesgo de superponer tecnología nueva a formas de trabajo viejas. El dato que más interesa a los vendors y a los despachos medianos es otro: solo el 30% se preocupa por modelos competidores disruptivos, lo que PwC llama un posible «punto ciego» ante proveedores respaldados por private equity o con estructuras alternativas que combinan tecnología, capital y otra forma de prestar el servicio. Para socios y directores financieros, la consecuencia es medir ya el retorno de la IA por tipo de asunto antes de que el cliente lo haga por ellos. Matiz: los porcentajes salen de la encuesta de PwC tal como los resume Legal Futures; no hemos visto el informe completo.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato de referencia anual sobre adopción frente a rendimiento real de la IA en los grandes despachos británicos.",
+      "sota:whyNow": "Legal Futures, 19 oct 2026 (PwC Law Firms' Survey, 35.ª edición). NEW frente a 09-29→10-18.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "despachos",
+        "encuesta",
+        "adopcion-ia",
+        "rentabilidad",
+        "billable-hour"
+      ],
+      "sota:summaryP1": "La 35.ª encuesta anual de PwC a los 100 mayores despachos del Reino Unido, recogida por Legal Futures (19 de octubre de 2026), concluye que las firmas han «dejado atrás la fase de experimentación» con la IA: dos tercios la han implantado, pero solo el 8% declara beneficios monetizados. Los despachos estiman que en torno al 18% de las horas facturables podría ahorrarse con IA, frente al 16% del año pasado. El 84% está preocupado por la velocidad del cambio tecnológico y el 68% teme que los clientes automaticen trabajo, dependan menos del asesor externo o presionen las tarifas. En paralelo, los diez primeros pasan del 45% al 51% de los honorarios del top 100 en dos años y su beneficio por socio de capital sube un 10,3%, hasta 1,82 millones de libras.",
+      "sota:summaryP2": "PwC atribuye la distancia entre promesa e impacto a carencias de datos, formación, medición e integración operativa, y a una «reticencia muy humana» a abandonar la facturación por horas, con el riesgo de superponer tecnología nueva a formas de trabajo viejas. El dato que más interesa a los vendors y a los despachos medianos es otro: solo el 30% se preocupa por modelos competidores disruptivos, lo que PwC llama un posible «punto ciego» ante proveedores respaldados por private equity o con estructuras alternativas que combinan tecnología, capital y otra forma de prestar el servicio. Para socios y directores financieros, la consecuencia es medir ya el retorno de la IA por tipo de asunto antes de que el cliente lo haga por ellos. Matiz: los porcentajes salen de la encuesta de PwC tal como los resume Legal Futures; no hemos visto el informe completo.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/pwc-top-10-march-on-but-clouds-on-horizon-for-other-big-firms",
+          "schema:name": "PwC: Top 10 march on but clouds on horizon for other big firms",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pwc"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-anthropic-despachos-normas-negociacion-agentes-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-19-anthropic-despachos-normas-negociacion-agentes-ia",
+      "schema:headline": "Anthropic consulta a despachos de abogados para enseñar a sus agentes de IA a negociar en nombre del usuario, según el Financial Times",
+      "schema:datePublished": "2026-10-18",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Anthropic está en conversaciones con despachos de abogados para entender cómo negocian los letrados, representando a su cliente sin dejar de respetar resultados justos, y trasladarlo a sus agentes de IA, según el Financial Times (18 de octubre de 2026), que cita a dos fuentes conocedoras del asunto, en la versión de PYMNTS. Una de ellas explica que la compañía estudia «normas de negociación» para cuando los modelos interactúen entre sí: los agentes «representarán al usuario» frente a otros agentes cuyos «objetivos están en conflicto». También trabaja en cuánta intervención humana debe pedir un agente durante una negociación y en cuánto debe desconfiar de su contraparte artificial sin volverse «paranoico» o «conspiranoico». Anthropic declinó comentar al FT.",
+      "schema:articleBody": "Anthropic está en conversaciones con despachos de abogados para entender cómo negocian los letrados, representando a su cliente sin dejar de respetar resultados justos, y trasladarlo a sus agentes de IA, según el Financial Times (18 de octubre de 2026), que cita a dos fuentes conocedoras del asunto, en la versión de PYMNTS. Una de ellas explica que la compañía estudia «normas de negociación» para cuando los modelos interactúen entre sí: los agentes «representarán al usuario» frente a otros agentes cuyos «objetivos están en conflicto». También trabaja en cuánta intervención humana debe pedir un agente durante una negociación y en cuánto debe desconfiar de su contraparte artificial sin volverse «paranoico» o «conspiranoico». Anthropic declinó comentar al FT.\n\nEs la siguiente vuelta del fichaje de abogados por los laboratorios de IA que ya contamos: ahora el saber del negociador, no solo el del redactor de documentos, se convierte en material para entrenar agentes. Para los despachos que colaboren, la pregunta es qué ceden exactamente, con qué confidencialidad y si su know-how de negociación pasa a formar parte del producto. Para in-house y abogados de contratos, el horizonte es una negociación de agente contra agente en la que habrá que definir de antemano mandatos, límites de autoridad y puntos de escalado al humano, y decidir quién responde si el agente cierra algo que no debía. Matiz: es información de fuentes anónimas sin confirmación de Anthropic; no se citan despachos concretos ni el alcance de los acuerdos.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un gran laboratorio busca en la práctica de los despachos las reglas de conducta de agentes que negocian entre sí.",
+      "sota:whyNow": "Financial Times y PYMNTS, 18 oct 2026. NEW frente a 09-29→10-18.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "agentes-ia",
+        "negociacion",
+        "despachos",
+        "laboratorios-ia",
+        "contratos"
+      ],
+      "sota:summaryP1": "Anthropic está en conversaciones con despachos de abogados para entender cómo negocian los letrados, representando a su cliente sin dejar de respetar resultados justos, y trasladarlo a sus agentes de IA, según el Financial Times (18 de octubre de 2026), que cita a dos fuentes conocedoras del asunto, en la versión de PYMNTS. Una de ellas explica que la compañía estudia «normas de negociación» para cuando los modelos interactúen entre sí: los agentes «representarán al usuario» frente a otros agentes cuyos «objetivos están en conflicto». También trabaja en cuánta intervención humana debe pedir un agente durante una negociación y en cuánto debe desconfiar de su contraparte artificial sin volverse «paranoico» o «conspiranoico». Anthropic declinó comentar al FT.",
+      "sota:summaryP2": "Es la siguiente vuelta del fichaje de abogados por los laboratorios de IA que ya contamos: ahora el saber del negociador, no solo el del redactor de documentos, se convierte en material para entrenar agentes. Para los despachos que colaboren, la pregunta es qué ceden exactamente, con qué confidencialidad y si su know-how de negociación pasa a formar parte del producto. Para in-house y abogados de contratos, el horizonte es una negociación de agente contra agente en la que habrá que definir de antemano mandatos, límites de autoridad y puntos de escalado al humano, y decidir quién responde si el agente cierra algo que no debía. Matiz: es información de fuentes anónimas sin confirmación de Anthropic; no se citan despachos concretos ni el alcance de los acuerdos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/",
+          "schema:name": "Anthropic Turns to Lawyers to Teach AI Agents to Negotiate",
+          "sota:sourceId": "src-pymnts"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-financial-times"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-ribon-sanchez-algoritmos-consumo-registro-estatal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-19-ribon-sanchez-algoritmos-consumo-registro-estatal",
+      "schema:headline": "Ribón y Sánchez García llevan los algoritmos al banquillo del derecho de consumo y proponen un Registro Estatal de Algoritmos",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "En la mesa de Consumo y Bancario del XXI Congreso Jurídico de la Abogacía Malagueña (15 y 16 de octubre de 2026), según Confilegal (19 de octubre), el exdecano de Barcelona Jesús María Sánchez García planteó el paso del «consentimiento informado» al «consentimiento inducido»: el profesional ya no solo redacta las cláusulas, también diseña el recorrido digital que lleva al «sí», con botones de aceptar más visibles que los de rechazar, urgencias artificiales o bajas deliberadamente complicadas. El decano del Colegio de la Abogacía de Madrid, Eugenio Ribón, presentó «Del clic al pleito. Algoritmos en el banquillo»: diez supuestos prácticos, desde una financiación denegada por una puntuación opaca hasta precios personalizados o promesas incumplidas de un chatbot, para convertir un problema tecnológico en una reclamación viable. Y propuso un Registro Estatal de Algoritmos con incidencia en las relaciones de consumo.",
+      "schema:articleBody": "En la mesa de Consumo y Bancario del XXI Congreso Jurídico de la Abogacía Malagueña (15 y 16 de octubre de 2026), según Confilegal (19 de octubre), el exdecano de Barcelona Jesús María Sánchez García planteó el paso del «consentimiento informado» al «consentimiento inducido»: el profesional ya no solo redacta las cláusulas, también diseña el recorrido digital que lleva al «sí», con botones de aceptar más visibles que los de rechazar, urgencias artificiales o bajas deliberadamente complicadas. El decano del Colegio de la Abogacía de Madrid, Eugenio Ribón, presentó «Del clic al pleito. Algoritmos en el banquillo»: diez supuestos prácticos, desde una financiación denegada por una puntuación opaca hasta precios personalizados o promesas incumplidas de un chatbot, para convertir un problema tecnológico en una reclamación viable. Y propuso un Registro Estatal de Algoritmos con incidencia en las relaciones de consumo.\n\nLa parte práctica es la más útil para despachos de consumo y bancario: según Ribón, la clave no siempre es descifrar el código fuente, sino identificar el incumplimiento, conservar capturas de pantalla y pedir la prueba pertinente; la interfaz se convierte en objeto de examen y en prueba. El registro propuesto serviría para conocer la finalidad y los criterios básicos de sistemas que condicionan precios, contratos o acceso a servicios, y facilitar su supervisión, una idea que entronca con las obligaciones de transparencia del Reglamento de IA europeo. Para empresas y sus asesores in-house, el aviso es que el diseño de la pantalla y la respuesta del chatbot pueden acabar como prueba de cargo, así que conviene revisarlos con ojos de litigio. Matiz: es una propuesta en un congreso, sin texto ni respaldo normativo; Confilegal no detalla los diez supuestos.",
+      "sota:type": "opinion",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "El decano del Colegio de la Abogacía de Madrid propone un registro de algoritmos de consumo y una metodología de litigio sobre interfaces.",
+      "sota:whyNow": "Congreso de Málaga, 15-16 oct 2026; Confilegal, 19 oct 2026. NEW frente a 09-29→10-18.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "consumo",
+        "algoritmos",
+        "dark-patterns",
+        "chatbots",
+        "prueba-digital"
+      ],
+      "sota:summaryP1": "En la mesa de Consumo y Bancario del XXI Congreso Jurídico de la Abogacía Malagueña (15 y 16 de octubre de 2026), según Confilegal (19 de octubre), el exdecano de Barcelona Jesús María Sánchez García planteó el paso del «consentimiento informado» al «consentimiento inducido»: el profesional ya no solo redacta las cláusulas, también diseña el recorrido digital que lleva al «sí», con botones de aceptar más visibles que los de rechazar, urgencias artificiales o bajas deliberadamente complicadas. El decano del Colegio de la Abogacía de Madrid, Eugenio Ribón, presentó «Del clic al pleito. Algoritmos en el banquillo»: diez supuestos prácticos, desde una financiación denegada por una puntuación opaca hasta precios personalizados o promesas incumplidas de un chatbot, para convertir un problema tecnológico en una reclamación viable. Y propuso un Registro Estatal de Algoritmos con incidencia en las relaciones de consumo.",
+      "sota:summaryP2": "La parte práctica es la más útil para despachos de consumo y bancario: según Ribón, la clave no siempre es descifrar el código fuente, sino identificar el incumplimiento, conservar capturas de pantalla y pedir la prueba pertinente; la interfaz se convierte en objeto de examen y en prueba. El registro propuesto serviría para conocer la finalidad y los criterios básicos de sistemas que condicionan precios, contratos o acceso a servicios, y facilitar su supervisión, una idea que entronca con las obligaciones de transparencia del Reglamento de IA europeo. Para empresas y sus asesores in-house, el aviso es que el diseño de la pantalla y la respuesta del chatbot pueden acabar como prueba de cargo, así que conviene revisarlos con ojos de litigio. Matiz: es una propuesta en un congreso, sin texto ni respaldo normativo; Confilegal no detalla los diez supuestos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261019-sanchez-ribon-consumidores-consentimiento-inducido-algoritmos/",
+          "schema:name": "Del click al pleito, algoritmos en el banquillo: Ribón y Sánchez anticipan el futuro de los tribunales",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icam"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eugenio-ribon"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-anthropic-metr-evaluadores-internos-propuesta-ley",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-19-anthropic-metr-evaluadores-internos-propuesta-ley",
+      "schema:headline": "Anthropic integra en su oficina a evaluadores externos de METR con acceso «de empleado» y lleva al Congreso de EE. UU. su borrador de ley de seguridad de la IA",
+      "schema:datePublished": "2026-10-18",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Anthropic ha incorporado a seis empleados de METR, una organización sin ánimo de lucro de evaluación de riesgos de IA, con hardware de la empresa, espacio en sus oficinas y acceso a herramientas y sistemas internos «aproximadamente al nivel» de sus propios equipos de riesgo, según Ars Technica (18 de octubre de 2026, a partir del Financial Times). Anthropic no paga a METR, los evaluadores publicarán sus análisis sin que la compañía pueda vetarlos, aunque sí puede exigir que se supriman datos de clientes, información amparada por el privilegio abogado-cliente o detalles de arquitectura de los modelos; la empresa compara el modelo con los inspectores residentes de la supervisión bancaria. En paralelo, PYMNTS recoge, a partir de Politico (16 de octubre), que Anthropic presenta a legisladores un borrador de ley que permitiría bloquear un modelo solo ante un riesgo previsible e inminente de más de 1.000 millones de dólares en daños o de muerte o daño grave a más de 50 personas, ligado a armas biológicas, evasión de controles o ciberataques.",
+      "schema:articleBody": "Anthropic ha incorporado a seis empleados de METR, una organización sin ánimo de lucro de evaluación de riesgos de IA, con hardware de la empresa, espacio en sus oficinas y acceso a herramientas y sistemas internos «aproximadamente al nivel» de sus propios equipos de riesgo, según Ars Technica (18 de octubre de 2026, a partir del Financial Times). Anthropic no paga a METR, los evaluadores publicarán sus análisis sin que la compañía pueda vetarlos, aunque sí puede exigir que se supriman datos de clientes, información amparada por el privilegio abogado-cliente o detalles de arquitectura de los modelos; la empresa compara el modelo con los inspectores residentes de la supervisión bancaria. En paralelo, PYMNTS recoge, a partir de Politico (16 de octubre), que Anthropic presenta a legisladores un borrador de ley que permitiría bloquear un modelo solo ante un riesgo previsible e inminente de más de 1.000 millones de dólares en daños o de muerte o daño grave a más de 50 personas, ligado a armas biológicas, evasión de controles o ciberataques.\n\nPara quienes asesoran en gobernanza de IA, las dos noticias dibujan el modelo que la industria quiere: auditoría externa incrustada y umbrales de riesgo muy altos para la intervención pública, con evaluadores registrados ante el Departamento de Comercio que deberían informar en 72 horas de un riesgo inminente. Los críticos citados por Ars advierten de conflictos de interés similares a los de la auditoría contable y reclaman más regulación pública. Para in-house y despachos, el detalle práctico está en las exclusiones: qué información puede suprimirse del informe del auditor, incluido el privilegio, será el terreno de negociación de cualquier acuerdo de auditoría de IA, y la referencia europea sigue siendo el Reglamento de IA, mucho más amplio que este borrador. Matiz: el borrador es un texto de Anthropic visto por Politico, no un proyecto de ley registrado, y la Casa Blanca se opone a la regulación obligatoria.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un laboratorio puntero institucionaliza la auditoría externa residente y propone su propio estándar legal de intervención.",
+      "sota:whyNow": "Ars Technica y PYMNTS, 18 oct 2026 (Politico, 16 oct). NEW frente a 09-29→10-18.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "gobernanza-ia",
+        "auditoria-externa",
+        "seguridad-ia",
+        "regulacion",
+        "privilegio"
+      ],
+      "sota:summaryP1": "Anthropic ha incorporado a seis empleados de METR, una organización sin ánimo de lucro de evaluación de riesgos de IA, con hardware de la empresa, espacio en sus oficinas y acceso a herramientas y sistemas internos «aproximadamente al nivel» de sus propios equipos de riesgo, según Ars Technica (18 de octubre de 2026, a partir del Financial Times). Anthropic no paga a METR, los evaluadores publicarán sus análisis sin que la compañía pueda vetarlos, aunque sí puede exigir que se supriman datos de clientes, información amparada por el privilegio abogado-cliente o detalles de arquitectura de los modelos; la empresa compara el modelo con los inspectores residentes de la supervisión bancaria. En paralelo, PYMNTS recoge, a partir de Politico (16 de octubre), que Anthropic presenta a legisladores un borrador de ley que permitiría bloquear un modelo solo ante un riesgo previsible e inminente de más de 1.000 millones de dólares en daños o de muerte o daño grave a más de 50 personas, ligado a armas biológicas, evasión de controles o ciberataques.",
+      "sota:summaryP2": "Para quienes asesoran en gobernanza de IA, las dos noticias dibujan el modelo que la industria quiere: auditoría externa incrustada y umbrales de riesgo muy altos para la intervención pública, con evaluadores registrados ante el Departamento de Comercio que deberían informar en 72 horas de un riesgo inminente. Los críticos citados por Ars advierten de conflictos de interés similares a los de la auditoría contable y reclaman más regulación pública. Para in-house y despachos, el detalle práctico está en las exclusiones: qué información puede suprimirse del informe del auditor, incluido el privilegio, será el terreno de negociación de cualquier acuerdo de auditoría de IA, y la referencia europea sigue siendo el Reglamento de IA, mucho más amplio que este borrador. Matiz: el borrador es un texto de Anthropic visto por Politico, no un proyecto de ley registrado, y la Casa Blanca se opone a la regulación obligatoria.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "schema:name": "Anthropic gives outside AI watchdog “employee-like” access",
+          "sota:sourceId": "src-ars-technica"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-takes-its-ai-safety-proposals-to-capitol-hill/",
+          "schema:name": "Anthropic Takes Its AI Safety Proposals to Capitol Hill",
+          "sota:sourceId": "src-pymnts"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-metr"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-politico"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ars-technica",
+      "schema:name": "Ars Technica",
+      "sota:entityType": "media",
+      "schema:url": "https://arstechnica.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-australian-financial-review",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-australian-financial-review",
+      "schema:name": "The Australian Financial Review",
+      "sota:entityType": "media",
+      "schema:url": "https://www.afr.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cisa",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cisa",
+      "schema:name": "CISA",
+      "sota:entityType": "government",
+      "schema:url": "https://www.cisa.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-complexdiscovery",
+      "schema:name": "ComplexDiscovery",
+      "sota:entityType": "media",
+      "schema:url": "https://complexdiscovery.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-confilegal",
+      "schema:name": "Confilegal",
+      "sota:entityType": "media",
+      "schema:url": "https://confilegal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-eugenio-ribon",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-eugenio-ribon",
+      "schema:name": "Eugenio Ribón Seisdedos",
+      "sota:entityType": "person",
+      "schema:url": "https://web.icam.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-financial-times",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-financial-times",
+      "schema:name": "Financial Times",
+      "sota:entityType": "media",
+      "schema:url": "https://www.ft.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icam",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-icam",
+      "schema:name": "Ilustre Colegio de la Abogacía de Madrid",
+      "sota:entityType": "association",
+      "schema:url": "https://web.icam.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-council-of-australia",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-council-of-australia",
+      "schema:name": "Law Council of Australia",
+      "sota:entityType": "association",
+      "schema:url": "https://lawcouncil.au/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-futures",
+      "schema:name": "Legal Futures",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalfutures.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-metr",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-metr",
+      "schema:name": "METR",
+      "sota:entityType": "other",
+      "schema:url": "https://metr.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nist",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nist",
+      "schema:name": "NIST",
+      "sota:entityType": "government",
+      "schema:url": "https://www.nist.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nsa",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nsa",
+      "schema:name": "National Security Agency",
+      "sota:entityType": "government",
+      "schema:url": "https://www.nsa.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-politico",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-politico",
+      "schema:name": "Politico",
+      "sota:entityType": "media",
+      "schema:url": "https://www.politico.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pwc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pwc",
+      "schema:name": "PwC",
+      "sota:entityType": "company",
+      "schema:url": "https://www.pwc.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pymnts",
+      "schema:name": "PYMNTS",
+      "sota:entityType": "media",
+      "schema:url": "https://www.pymnts.com/",
+      "sota:stub": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+scan_id: full-radar-2026-10-19
+date: '2026-10-19'
+release: 19.10.26
+count: 6
+ai_share: 1.0
+dedup_against: events/2026-09-29 → 2026-10-18 + scans PASS
+event_ids:
+- evt-2026-10-19-abogados-australianos-clausulas-ia-clientes
+- evt-2026-10-19-nist-nsa-cisa-preservar-evidencias-agentes-ia
+- evt-2026-10-19-pwc-encuesta-top-100-despachos-ia-beneficio
+- evt-2026-10-19-anthropic-despachos-normas-negociacion-agentes-ia
+- evt-2026-10-19-ribon-sanchez-algoritmos-consumo-registro-estatal
+- evt-2026-10-19-anthropic-metr-evaluadores-internos-propuesta-ley
+events:
+- id: evt-2026-10-19-abogados-australianos-clausulas-ia-clientes
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Abogados australianos meten en sus hojas de encargo recargos y cláusulas
+    para cuando el cliente revisa su trabajo con IA generalista
+- id: evt-2026-10-19-nist-nsa-cisa-preservar-evidencias-agentes-ia
+  sota_score: 7.5
+  ai_legaltech: true
+  title: NIST, NSA y CISA piden a los desarrolladores de agentes de IA conservar pesos,
+    registros y llamadas rechazadas para investigar incidentes, pero sin plazo de
+    conservación ni mención a litigios
+- id: evt-2026-10-19-pwc-encuesta-top-100-despachos-ia-beneficio
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'PwC: dos tercios de los 100 mayores despachos británicos ya usan IA, pero
+    solo el 8% declara beneficios monetizados'
+- id: evt-2026-10-19-anthropic-despachos-normas-negociacion-agentes-ia
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Anthropic consulta a despachos de abogados para enseñar a sus agentes de
+    IA a negociar en nombre del usuario, según el Financial Times
+- id: evt-2026-10-19-ribon-sanchez-algoritmos-consumo-registro-estatal
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Ribón y Sánchez García llevan los algoritmos al banquillo del derecho de
+    consumo y proponen un Registro Estatal de Algoritmos
+- id: evt-2026-10-19-anthropic-metr-evaluadores-internos-propuesta-ley
+  sota_score: 6.8
+  ai_legaltech: true
+  title: Anthropic integra en su oficina a evaluadores externos de METR con acceso
+    «de empleado» y lleva al Congreso de EE. UU. su borrador de ley de seguridad de
+    la IA

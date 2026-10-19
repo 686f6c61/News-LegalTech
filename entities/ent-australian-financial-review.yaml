@@ -1,0 +1,11 @@
+id: ent-australian-financial-review
+name: The Australian Financial Review
+type: media
+url: https://www.afr.com/
+geo:
+- AU
+aliases:
+- AFR
+notes: Diario económico australiano; reportaje sobre clientes que revisan con IA el
+  trabajo de sus abogados (16 oct 2026). Ficha mínima.
+stub: true

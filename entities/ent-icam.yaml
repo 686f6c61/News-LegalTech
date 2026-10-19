@@ -1,0 +1,10 @@
+id: ent-icam
+name: Ilustre Colegio de la Abogacía de Madrid
+type: association
+url: https://web.icam.es/
+geo:
+- ES
+aliases:
+- ICAM
+notes: Colegio de la abogacía de Madrid; decano Eugenio Ribón. Ficha mínima.
+stub: true

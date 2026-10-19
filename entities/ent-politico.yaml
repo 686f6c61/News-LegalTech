@@ -1,0 +1,10 @@
+id: ent-politico
+name: Politico
+type: media
+url: https://www.politico.com/
+geo:
+- US
+- EU
+aliases: []
+notes: Medio de información política. Ficha mínima.
+stub: true

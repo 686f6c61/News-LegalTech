@@ -1,0 +1,10 @@
+id: ent-metr
+name: METR
+type: other
+url: https://metr.org/
+geo:
+- US
+aliases: []
+notes: Organización sin ánimo de lucro de evaluación de riesgos de modelos de IA;
+  equipo integrado en Anthropic (oct 2026). Ficha mínima.
+stub: true

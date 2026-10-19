@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-19-pwc-encuesta-top-100-despachos-ia-beneficio",
+  "date": "2026-10-19",
+  "type": "research",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "PwC: dos tercios de los 100 mayores despachos británicos ya usan IA, pero solo el 8% declara beneficios monetizados",
+  "short_title": "PwC: dos tercios del top 100 usa IA; solo el 8% la monetiza",
+  "standfirst": "Calculan que la IA podría ahorrar el 18% de las horas facturables y temen que los clientes automaticen, pero apenas miran a los competidores alternativos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "La 35.ª encuesta anual de PwC a los 100 mayores despachos del Reino Unido, recogida por Legal Futures (19 de octubre de 2026), concluye que las firmas han «dejado atrás la fase de experimentación» con la IA: dos tercios la han implantado, pero solo el 8% declara beneficios monetizados. Los despachos estiman que en torno al 18% de las horas facturables podría ahorrarse con IA, frente al 16% del año pasado. El 84% está preocupado por la velocidad del cambio tecnológico y el 68% teme que los clientes automaticen trabajo, dependan menos del asesor externo o presionen las tarifas. En paralelo, los diez primeros pasan del 45% al 51% de los honorarios del top 100 en dos años y su beneficio por socio de capital sube un 10,3%, hasta 1,82 millones de libras.",
+  "summary_p2": "PwC atribuye la distancia entre promesa e impacto a carencias de datos, formación, medición e integración operativa, y a una «reticencia muy humana» a abandonar la facturación por horas, con el riesgo de superponer tecnología nueva a formas de trabajo viejas. El dato que más interesa a los vendors y a los despachos medianos es otro: solo el 30% se preocupa por modelos competidores disruptivos, lo que PwC llama un posible «punto ciego» ante proveedores respaldados por private equity o con estructuras alternativas que combinan tecnología, capital y otra forma de prestar el servicio. Para socios y directores financieros, la consecuencia es medir ya el retorno de la IA por tipo de asunto antes de que el cliente lo haga por ellos. Matiz: los porcentajes salen de la encuesta de PwC tal como los resume Legal Futures; no hemos visto el informe completo.",
+  "why_sota": "Dato de referencia anual sobre adopción frente a rendimiento real de la IA en los grandes despachos británicos.",
+  "why_now": "Legal Futures, 19 oct 2026 (PwC Law Firms' Survey, 35.ª edición). NEW frente a 09-29→10-18.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "despachos",
+    "encuesta",
+    "adopcion-ia",
+    "rentabilidad",
+    "billable-hour"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/pwc-top-10-march-on-but-clouds-on-horizon-for-other-big-firms",
+      "cited_title": "PwC: Top 10 march on but clouds on horizon for other big firms",
+      "accessed": "2026-10-19"
+    }
+  ],
+  "entities": [
+    "ent-pwc",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

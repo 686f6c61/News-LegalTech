@@ -1,0 +1,11 @@
+id: ent-nist
+name: NIST
+type: government
+url: https://www.nist.gov/
+geo:
+- US
+aliases:
+- National Institute of Standards and Technology
+notes: Instituto de normalización de EE. UU.; coautor de prácticas de respuesta a
+  incidentes de agentes de IA (oct 2026). Ficha mínima.
+stub: true

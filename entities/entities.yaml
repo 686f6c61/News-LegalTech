@@ -3036,3 +3036,119 @@ entities:
   notes: Supervisor de los reguladores de servicios jurídicos de Inglaterra y Gales.
     Ficha mínima.
   stub: true
+- id: ent-law-council-of-australia
+  name: Law Council of Australia
+  type: association
+  url: https://lawcouncil.au/
+  geo:
+  - AU
+  aliases: []
+  notes: Órgano nacional de la abogacía australiana; su presidenta Tania Wolff opina
+    sobre material generado por IA (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-australian-financial-review
+  name: The Australian Financial Review
+  type: media
+  url: https://www.afr.com/
+  geo:
+  - AU
+  aliases:
+  - AFR
+  notes: Diario económico australiano; reportaje sobre clientes que revisan con IA
+    el trabajo de sus abogados (16 oct 2026). Ficha mínima.
+  stub: true
+- id: ent-financial-times
+  name: Financial Times
+  type: media
+  url: https://www.ft.com/
+  geo:
+  - GB
+  - Global
+  aliases:
+  - FT
+  notes: Diario económico británico. Ficha mínima.
+  stub: true
+- id: ent-nist
+  name: NIST
+  type: government
+  url: https://www.nist.gov/
+  geo:
+  - US
+  aliases:
+  - National Institute of Standards and Technology
+  notes: Instituto de normalización de EE. UU.; coautor de prácticas de respuesta
+    a incidentes de agentes de IA (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-nsa
+  name: National Security Agency
+  type: government
+  url: https://www.nsa.gov/
+  geo:
+  - US
+  aliases:
+  - NSA
+  notes: Agencia de seguridad nacional de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-cisa
+  name: CISA
+  type: government
+  url: https://www.cisa.gov/
+  geo:
+  - US
+  aliases:
+  - Cybersecurity and Infrastructure Security Agency
+  notes: Agencia de ciberseguridad e infraestructuras de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-pwc
+  name: PwC
+  type: company
+  url: https://www.pwc.co.uk/
+  geo:
+  - GB
+  - Global
+  aliases:
+  - PricewaterhouseCoopers
+  notes: Firma de servicios profesionales; publica la encuesta anual a los 100 mayores
+    despachos británicos (35.ª edición, oct 2026). Ficha mínima.
+  stub: true
+- id: ent-icam
+  name: Ilustre Colegio de la Abogacía de Madrid
+  type: association
+  url: https://web.icam.es/
+  geo:
+  - ES
+  aliases:
+  - ICAM
+  notes: Colegio de la abogacía de Madrid; decano Eugenio Ribón. Ficha mínima.
+  stub: true
+- id: ent-eugenio-ribon
+  name: Eugenio Ribón Seisdedos
+  type: person
+  url: https://web.icam.es/
+  geo:
+  - ES
+  aliases:
+  - Eugenio Ribón
+  notes: Decano del ICAM; propone un Registro Estatal de Algoritmos con incidencia
+    en consumo (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-metr
+  name: METR
+  type: other
+  url: https://metr.org/
+  geo:
+  - US
+  aliases: []
+  notes: Organización sin ánimo de lucro de evaluación de riesgos de modelos de IA;
+    equipo integrado en Anthropic (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-politico
+  name: Politico
+  type: media
+  url: https://www.politico.com/
+  geo:
+  - US
+  - EU
+  aliases: []
+  notes: Medio de información política. Ficha mínima.
+  stub: true

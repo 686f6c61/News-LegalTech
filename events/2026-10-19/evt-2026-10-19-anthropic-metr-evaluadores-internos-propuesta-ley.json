@@ -1,0 +1,54 @@
+{
+  "id": "evt-2026-10-19-anthropic-metr-evaluadores-internos-propuesta-ley",
+  "date": "2026-10-18",
+  "type": "regulation",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Anthropic integra en su oficina a evaluadores externos de METR con acceso «de empleado» y lleva al Congreso de EE. UU. su borrador de ley de seguridad de la IA",
+  "short_title": "Anthropic: auditores de METR dentro y borrador de ley en Washington",
+  "standfirst": "Publicarán sin veto de Anthropic, salvo datos de clientes, privilegio abogado-cliente o arquitectura; el borrador solo permitiría frenar modelos ante riesgos de más de 1.000 millones.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Gobernanza de la IA",
+  "country": "Estados Unidos",
+  "piece_type": "Regulación",
+  "summary_p1": "Anthropic ha incorporado a seis empleados de METR, una organización sin ánimo de lucro de evaluación de riesgos de IA, con hardware de la empresa, espacio en sus oficinas y acceso a herramientas y sistemas internos «aproximadamente al nivel» de sus propios equipos de riesgo, según Ars Technica (18 de octubre de 2026, a partir del Financial Times). Anthropic no paga a METR, los evaluadores publicarán sus análisis sin que la compañía pueda vetarlos, aunque sí puede exigir que se supriman datos de clientes, información amparada por el privilegio abogado-cliente o detalles de arquitectura de los modelos; la empresa compara el modelo con los inspectores residentes de la supervisión bancaria. En paralelo, PYMNTS recoge, a partir de Politico (16 de octubre), que Anthropic presenta a legisladores un borrador de ley que permitiría bloquear un modelo solo ante un riesgo previsible e inminente de más de 1.000 millones de dólares en daños o de muerte o daño grave a más de 50 personas, ligado a armas biológicas, evasión de controles o ciberataques.",
+  "summary_p2": "Para quienes asesoran en gobernanza de IA, las dos noticias dibujan el modelo que la industria quiere: auditoría externa incrustada y umbrales de riesgo muy altos para la intervención pública, con evaluadores registrados ante el Departamento de Comercio que deberían informar en 72 horas de un riesgo inminente. Los críticos citados por Ars advierten de conflictos de interés similares a los de la auditoría contable y reclaman más regulación pública. Para in-house y despachos, el detalle práctico está en las exclusiones: qué información puede suprimirse del informe del auditor, incluido el privilegio, será el terreno de negociación de cualquier acuerdo de auditoría de IA, y la referencia europea sigue siendo el Reglamento de IA, mucho más amplio que este borrador. Matiz: el borrador es un texto de Anthropic visto por Politico, no un proyecto de ley registrado, y la Casa Blanca se opone a la regulación obligatoria.",
+  "why_sota": "Un laboratorio puntero institucionaliza la auditoría externa residente y propone su propio estándar legal de intervención.",
+  "why_now": "Ars Technica y PYMNTS, 18 oct 2026 (Politico, 16 oct). NEW frente a 09-29→10-18.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "gobernanza-ia",
+    "auditoria-externa",
+    "seguridad-ia",
+    "regulacion",
+    "privilegio"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "cited_title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "accessed": "2026-10-19"
+    },
+    {
+      "source_id": "src-pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-takes-its-ai-safety-proposals-to-capitol-hill/",
+      "cited_title": "Anthropic Takes Its AI Safety Proposals to Capitol Hill",
+      "accessed": "2026-10-19"
+    }
+  ],
+  "entities": [
+    "ent-anthropic",
+    "ent-metr",
+    "ent-ars-technica",
+    "ent-pymnts",
+    "ent-politico"
+  ],
+  "lang": "es",
+  "status": "published"
+}

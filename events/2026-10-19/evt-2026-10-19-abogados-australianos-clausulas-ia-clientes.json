@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-19-abogados-australianos-clausulas-ia-clientes",
+  "date": "2026-10-19",
+  "type": "other",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Abogados australianos meten en sus hojas de encargo recargos y cláusulas para cuando el cliente revisa su trabajo con IA generalista",
+  "short_title": "Australia: recargos para clientes que revisan el trabajo con IA",
+  "standfirst": "Del «un millón de preguntas» a 300 páginas de objeciones: la deontología obliga a contestar, y alguien tiene que pagar ese tiempo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Australia",
+  "piece_type": "Análisis",
+  "summary_p1": "Confilegal recoge (19 de octubre de 2026) un reportaje de The Australian Financial Review del 16 de octubre sobre clientes que pasan el trabajo de su abogado por asistentes de IA generalistas para auditarlo, rebatirlo o sustituirlo. La fiscalista Tania Waterhouse ha añadido a sus hojas de encargo un recargo para cuando el cliente revise el trabajo con IA y ha dejado de enviar borradores; el tributarista David Marks, que recibió 300 páginas de objeciones, suspende el asunto si sospecha que el material viene de la IA y pacta con el cliente cuánto tiempo costará desmontarlo. La investigadora Mimi Zou (Universidad de Nueva Gales del Sur) estudia dos cláusulas más: prohibir que el trabajo del abogado se use para entrenar modelos y obligar al cliente a declarar si ha usado IA. La presidenta del Law Council of Australia, Tania Wolff, recuerda que si ese material puede llegar a un tribunal hay que comprobarlo entero.",
+  "summary_p2": "El fondo es deontológico y económico: el abogado no puede ignorar las preguntas del cliente, por endebles que sean, y en los honorarios cerrados ese tiempo extra no está previsto. Para cualquier despacho, también en España, la lección práctica es revisar la hoja de encargo: qué incluye el precio fijo, cómo se factura la revisión de material generado por IA que aporta el cliente, si se envían borradores y qué uso puede hacer el cliente del trabajo entregado, incluido subirlo a una herramienta que entrene con él. No todos lo ven como amenaza: la experta en derecho e IA Jeannie Paterson sostiene que el consumidor gana comprensión de su asunto y que los clientes «quizá no sean tan torpes» como sugieren los abogados; otra abogada citada se niega a cobrar por el mero uso de ChatGPT. Matiz: son testimonios recogidos por la prensa, no una encuesta ni una norma colegial.",
+  "why_sota": "La IA generalista del cliente entra en la hoja de encargo: recargos, cláusulas de declaración y de no entrenamiento.",
+  "why_now": "AFR, 16 oct 2026; Confilegal, 19 oct 2026. NEW frente a 09-29→10-18.",
+  "geo": [
+    "AU"
+  ],
+  "topics": [
+    "despachos",
+    "hoja-de-encargo",
+    "honorarios",
+    "deontologia",
+    "ia-generalista"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261019-abogados-cobrar-clientes-inteligencia-artificial-revisar-trabajo/",
+      "cited_title": "Los abogados australianos declaran la guerra a los clientes que les obligan a revisar la “basura” generada por la IA",
+      "accessed": "2026-10-19"
+    }
+  ],
+  "entities": [
+    "ent-confilegal",
+    "ent-australian-financial-review",
+    "ent-law-council-of-australia"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-nsa
+name: National Security Agency
+type: government
+url: https://www.nsa.gov/
+geo:
+- US
+aliases:
+- NSA
+notes: Agencia de seguridad nacional de EE. UU. Ficha mínima.
+stub: true

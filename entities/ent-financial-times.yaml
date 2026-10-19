@@ -1,0 +1,11 @@
+id: ent-financial-times
+name: Financial Times
+type: media
+url: https://www.ft.com/
+geo:
+- GB
+- Global
+aliases:
+- FT
+notes: Diario económico británico. Ficha mínima.
+stub: true

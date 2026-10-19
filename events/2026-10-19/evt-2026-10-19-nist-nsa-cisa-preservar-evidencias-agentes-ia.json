@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-19-nist-nsa-cisa-preservar-evidencias-agentes-ia",
+  "date": "2026-10-18",
+  "type": "guidance",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "NIST, NSA y CISA piden a los desarrolladores de agentes de IA conservar pesos, registros y llamadas rechazadas para investigar incidentes, pero sin plazo de conservación ni mención a litigios",
+  "short_title": "NIST, NSA y CISA: guardar la prueba de los agentes de IA, sin plazo",
+  "standfirst": "Diez prácticas voluntarias para «incidentes de control»; el hueco entre investigación interna y legal hold queda para los equipos jurídicos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "eDiscovery y prueba",
+  "country": "Estados Unidos",
+  "piece_type": "Orientación",
+  "summary_p1": "NIST, el Super Intelligence Security Center de la NSA y CISA publicaron el 16 de octubre de 2026 un documento conjunto de 14 páginas, Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation, con diez prácticas voluntarias en cinco fases (preparar, detectar, responder, recuperar e informar), según ComplexDiscovery (18 de octubre). Se dirige sobre todo a desarrolladores y evaluadores de agentes muy capaces que ejecutan tareas largas con poca supervisión humana, aunque los autores dicen que los deployers (quienes los despliegan) también pueden estar incluidos. Aconseja conservar pesos del modelo, checkpoints, registros del sandbox y llamadas a herramientas rechazadas en la medida necesaria para investigar un «incidente de control», definido como acciones significativas no ordenadas por nadie que vulneran las políticas o controles del operador. Las acciones causadas por prompt injection o por un modelo con puerta trasera cuentan como «ordenadas».",
+  "summary_p2": "Lo relevante para abogados es lo que falta: el documento no fija plazo de conservación, no menciona litigios y su propio aviso dice que no es asesoramiento de cumplimiento ni legal. ComplexDiscovery subraya que el deber de preservar puede nacer mientras la investigación sigue abierta y que la recomendación de reconstruir entornos comprometidos choca con ese deber; recuerda además que quince fiscales generales estatales ya pidieron a OpenAI conservar registros de su intrusión en Hugging Face, con aviso de posibles sanciones por destrucción de prueba (spoliation). Para in-house de empresas que desarrollan o despliegan agentes, la tarea es escribir ya en los runbooks cuándo una conservación técnica se convierte en legal hold, y para proveedores de eDiscovery, prepararse para logs de agentes como nueva fuente de prueba. Matiz: es una guía voluntaria; la lectura sobre litigios es de ComplexDiscovery, no de las agencias.",
+  "why_sota": "Las agencias federales fijan qué prueba técnica conservar tras un incidente de agente de IA, y abren el debate sobre legal hold.",
+  "why_now": "Documento del 16 oct 2026; ComplexDiscovery, 18 oct 2026. NEW frente a 09-29→10-18.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "agentes-ia",
+    "ediscovery",
+    "preservacion-prueba",
+    "legal-hold",
+    "respuesta-incidentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/nist-nsa-and-cisa-guidance-asks-ai-developers-to-preserve-agent-evidence-for-investigation-but-sets-no-retention-clock/",
+      "cited_title": "NIST, NSA and CISA guidance asks AI developers to preserve agent evidence for investigation but sets no retention clock",
+      "accessed": "2026-10-19"
+    }
+  ],
+  "entities": [
+    "ent-complexdiscovery",
+    "ent-nist",
+    "ent-nsa",
+    "ent-cisa"
+  ],
+  "lang": "es",
+  "status": "published"
+}
