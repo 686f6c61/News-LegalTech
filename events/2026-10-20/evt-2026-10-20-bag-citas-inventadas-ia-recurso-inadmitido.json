@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-20-bag-citas-inventadas-ia-recurso-inadmitido",
+  "date": "2026-10-19",
+  "type": "case_law",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "El Tribunal Federal de Trabajo alemán inadmite un recurso con siete citas falsas o deformadas: firmar sin revisar un escrito hecho con IA equivale a no estar representado",
+  "short_title": "Alemania: el BAG inadmite un recurso con citas inventadas por la IA",
+  "standfirst": "Cuatro resoluciones inexistentes y tres mal citadas bastaron para concluir que el abogado no revisó el escrito; su asunción de responsabilidad llegó fuera de plazo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Alemania",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Bundesarbeitsgericht (BAG), el Tribunal Federal de Trabajo alemán, declaró inadmisible un recurso contra la no admisión de la revisión porque el escrito citaba cuatro resoluciones que no existen y otras tres con un contenido distinto del real (auto de 30 de septiembre de 2026, Az. 2 AZN 339/26), según analizan en Legal Tribune Online (19 de octubre) Hans-Patrick Schroeder y Jule Sofie Hindahl, de Freshfields. El escrito, firmado por el letrado y enviado desde su buzón electrónico profesional (beA), no llevaba el membrete del despacho, tenía un formato inusual y expresiones jurídicamente extrañas. Ante el BAG la representación por abogado es obligatoria y el escrito debe ser trabajo propio o, al menos, revisado y asumido por él; el tribunal consideró descartado de todo punto que lo hubiera revisado, se remitió a las indicaciones de la BRAK sobre IA y concluyó que faltaba una representación válida. Su declaración posterior de que asumía el contenido llegó vencido el plazo y no sirvió.",
+  "summary_p2": "La consecuencia va más allá de la sanción deontológica que otros tribunales alemanes habían apuntado: el Kammergericht de Berlín, en un caso parecido de noviembre de 2025, solo insinuó una infracción profesional, mientras que el BAG deja sin efecto el propio acto procesal. Para despachos que litigan en procedimientos con representación preceptiva, obliga a documentar la verificación de cada cita antes de presentar, porque la firma deja de bastar cuando las circunstancias muestran que nadie revisó el texto. Los autores recuerdan que la BRAK exige control final de todo resultado de IA, que el DAV pide comprobar íntegramente las citas y que, a partir de cierto grado de automatización, el seguro de responsabilidad civil podría negar la cobertura. Para vendors de investigación jurídica, refuerza el argumento comercial de la verificación de citas integrada. Matiz: la lectura es de dos abogados de Freshfields en una tribuna; en Alemania no hay todavía reglas vinculantes sobre el uso de IA por abogados.",
+  "why_sota": "Un tribunal supremo federal convierte la cita alucinada en causa de inadmisión por falta de representación.",
+  "why_now": "Auto BAG 30 sep 2026; LTO, 19 oct 2026. NEW frente a 09-29→10-19.",
+  "geo": [
+    "DE"
+  ],
+  "topics": [
+    "alucinaciones",
+    "citas",
+    "deontologia",
+    "litigacion",
+    "verificacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/hintergruende/h/bag-2azn33926-ki-schriftsatz-fundstellen-halluziniert-postulationsfaehigkeit",
+      "cited_title": "BAG zu halluzinierten Urteilen: KI-Schriftsatz ersetzt nicht den Anwalt",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-bundesarbeitsgericht",
+    "ent-legal-tribune-online",
+    "ent-freshfields",
+    "ent-brak"
+  ],
+  "lang": "es",
+  "status": "published"
+}

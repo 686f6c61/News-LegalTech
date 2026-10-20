@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-20-apdcat-circular-1-2026-videovigilancia",
+  "date": "2026-10-19",
+  "type": "regulation",
+  "sota_score": 6.4,
+  "ai_legaltech": false,
+  "title": "La APDCAT sustituye su instrucción de 2009 por la Circular 1/2026 de videovigilancia: incluye drones, vehículos y uniformes y entra en vigor el 8 de noviembre",
+  "short_title": "Cataluña renueva sus reglas de videovigilancia, con drones y uniformes",
+  "standfirst": "Obligatoria para administraciones catalanas, universidades, colegios profesionales y privados con funciones públicas: un mes máximo de conservación y memoria previa.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "España",
+  "piece_type": "Regulación",
+  "summary_p1": "La Autoridad Catalana de Protección de Datos (APDCAT) ha aprobado la Circular 1/2026 sobre el tratamiento de datos personales mediante cámaras de videovigilancia, publicada en el DOGC el 19 de octubre de 2026, según Lawandtrends y la Federació de Municipis de Catalunya. Es de obligado cumplimiento en su ámbito (administraciones catalanas, entes locales, universidades, colegios profesionales y entidades privadas cuando ejercen funciones públicas) y sustituye a la Instrucción 1/2009, redactada bajo la antigua Ley Orgánica 15/1999, para adaptarse al RGPD, la Ley Orgánica 3/2018, la Ley Orgánica 7/2021, la reforma de la Ley de seguridad privada y el Reglamento de IA. Se aplica a cámaras fijas o móviles, incluidas las instaladas en vehículos, drones o indumentaria, y consta de 23 artículos en seis capítulos más un anexo con el diseño de los carteles informativos.",
+  "summary_p2": "Las obligaciones son concretas: suprimir las grabaciones en un mes como máximo, salvo que haya que conservarlas para acreditar infracciones, exigir responsabilidades o atender derechos, y ponerlas a disposición de las autoridades en 72 horas cuando proceda; redactar una memoria justificativa antes de poner en marcha el sistema, sustituida por una evaluación de impacto si el riesgo es alto; inscribirlo en el registro de actividades y formalizar los encargos con las empresas de seguridad. Los sistemas con reconocimiento facial u otras funciones de IA deberán respetar las garantías europeas de protección de datos y de IA. Para ayuntamientos, universidades, colegios profesionales y sus contratistas de seguridad, la entrada en vigor el 8 de noviembre de 2026 deja menos de tres semanas para revisar protocolos de acceso a las grabaciones y contratos; los carteles que cumplan la norma anterior pueden mantenerse hasta su sustitución ordinaria. Matiz: es una norma autonómica de ámbito subjetivo limitado y las policías locales siguen con su normativa específica.",
+  "why_sota": "Actualización vinculante de las reglas de videovigilancia pública con drones, cámaras corporales e IA en el radar.",
+  "why_now": "DOGC 19 oct 2026. NEW frente a 09-29→10-19.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "proteccion-datos",
+    "videovigilancia",
+    "sector-publico",
+    "drones",
+    "biometria"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawandtrends",
+      "url": "https://www.lawandtrends.com/noticias/tic/la-apdcat-aprueba-la-circular-1-2026-sobre-el-tratamiento-de-datos-personales-mediante-camaras-con-fines-de-1.html",
+      "cited_title": "La APDCAT aprueba la Circular 1/2026, sobre el tratamiento de datos personales mediante cámaras con fines de videovigilancia",
+      "accessed": "2026-10-20"
+    },
+    {
+      "source_id": "src-federacio-municipis-catalunya",
+      "url": "https://www.fmc.cat/noticia_fitxa_sf.aspx?id=44909",
+      "cited_title": "L'Autoritat Catalana de Protecció de Dades actualitza la regulació dels sistemes de videovigilància",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-apdcat",
+    "ent-lawandtrends",
+    "ent-federacio-municipis-catalunya"
+  ],
+  "lang": "es",
+  "status": "published"
+}

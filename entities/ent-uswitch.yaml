@@ -1,0 +1,10 @@
+id: ent-uswitch
+name: Uswitch
+type: company
+url: https://www.uswitch.com/
+geo:
+- GB
+aliases: []
+notes: Comparador británico; encuesta sobre uso de IA en lugar de un solicitor (oct
+  2026). Ficha mínima.
+stub: true

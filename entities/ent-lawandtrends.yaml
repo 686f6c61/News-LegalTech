@@ -1,0 +1,9 @@
+id: ent-lawandtrends
+name: Lawandtrends
+type: media
+url: https://www.lawandtrends.com/
+geo:
+- ES
+aliases: []
+notes: Medio jurídico español. Ficha mínima.
+stub: true

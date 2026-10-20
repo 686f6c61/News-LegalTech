@@ -1,0 +1,55 @@
+{
+  "id": "evt-2026-10-20-disney-character-ai-quiebra-sin-demandas",
+  "date": "2026-10-19",
+  "type": "market",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Disney se queda con la plantilla y la tecnología de Character.AI a través de su quiebra, mientras las demandas por daños a menores se quedan en la empresa vaciada",
+  "short_title": "Disney se lleva Character.AI vía concurso y deja atrás sus demandas",
+  "standfirst": "Un \"reverse acquihire\" en dos fases con una orden \"free and clear\": licencia perpetua del código, la mayoría del equipo y ninguna responsabilidad heredada.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Responsabilidad de la IA",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Character.AI, la plataforma de chatbots de compañía que afronta demandas por bots que habrían animado a menores a autolesionarse, se acogió al Chapter 11 el 12 de octubre de 2026, y los escritos judiciales muestran que la quiebra es una pieza del acuerdo con Disney, según Ars Technica (19 de octubre, con información de WIRED). En septiembre Disney pagó 5,5 millones de dólares más un depósito reembolsable de 2 millones y contrató a la mayoría de la plantilla, incluido el entonces consejero delegado Karandeep Anand. En el concurso aspira a una licencia perpetua, mundial y no exclusiva sobre código, herramientas, moderación de seguridad, infraestructura de entrenamiento y tecnología de predicción de edad, sin los datos de usuarios; si gana la subasta pagará otros 12,5 millones. Un borrador de orden \"363 free and clear\" aclara que no es una fusión y que Character.AI conserva cualquier responsabilidad, incluidas las reclamaciones judiciales.",
+  "summary_p2": "John Newman, profesor de la Universidad de Memphis y exdirector adjunto de competencia de la FTC, explica a WIRED que décadas de derecho societario se construyeron para impedir que un comprador se lleve los activos sin los pasivos, y que esas salvaguardas no estaban pensadas para una estructura así. Para litigantes de responsabilidad por productos de IA el precedente es incómodo: los demandantes pueden acabar frente a una sociedad sin equipo ni negocio, y PYMNTS añade que 40 fiscales generales estatales han pedido al tribunal concursal que cualquier venta incluya garantías de privacidad y seguridad. Para asesores de M&A tecnológico, eleva el listón de la due diligence y del escrutinio de competencia sobre los \"reverse acquihires\", que las empresas suelen no notificar a las autoridades antimonopolio. Matiz: la operación depende todavía de la subasta y de la aprobación judicial; Disney declinó comentar, y los acuerdos de las demandas previas contra Character.AI y Google se aprobaron el 11 de octubre, un día antes del concurso.",
+  "why_sota": "Primer gran caso de una compra de IA estructurada en concurso para separar tecnología y responsabilidad civil.",
+  "why_now": "Ars Technica y PYMNTS, 19 oct 2026. NEW frente a 09-29→10-19.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "responsabilidad-ia",
+    "concurso",
+    "acquihire",
+    "competencia",
+    "menores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "cited_title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "accessed": "2026-10-20"
+    },
+    {
+      "source_id": "src-pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/character-ai-bankruptcy-exposes-the-high-cost-of-ai-companionship/",
+      "cited_title": "Character.ai Bankruptcy Exposes the High Cost of AI Companionship",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-character-ai",
+    "ent-disney",
+    "ent-google",
+    "ent-ars-technica",
+    "ent-wired",
+    "ent-pymnts"
+  ],
+  "lang": "es",
+  "status": "published"
+}

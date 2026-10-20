@@ -1,0 +1,66 @@
+scan_id: full-radar-2026-10-20
+date: '2026-10-20'
+release: 20.10.26
+count: 9
+ai_share: 0.78
+dedup_against: events/2026-09-29 → 2026-10-19 + scans PASS
+event_ids:
+- evt-2026-10-20-en-18286-primera-norma-armonizada-ai-act-calidad
+- evt-2026-10-20-bag-citas-inventadas-ia-recurso-inadmitido
+- evt-2026-10-20-disney-character-ai-quiebra-sin-demandas
+- evt-2026-10-20-harvey-midpage-legora-blue-j-conectores-mcp
+- evt-2026-10-20-tirant-estudio-ia-abogacia-espanola-generalista
+- evt-2026-10-20-legalon-agent-builder-beta-juridico-interno
+- evt-2026-10-20-lawtechuk-inversion-record-primer-semestre
+- evt-2026-10-20-uswitch-encuesta-ia-en-lugar-de-abogado
+- evt-2026-10-20-apdcat-circular-1-2026-videovigilancia
+events:
+- id: evt-2026-10-20-en-18286-primera-norma-armonizada-ai-act-calidad
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'La Comisión publica en el Diario Oficial la primera norma armonizada del
+    Reglamento de IA: la EN 18286 da presunción de conformidad al sistema de gestión
+    de calidad del artículo 17'
+- id: evt-2026-10-20-bag-citas-inventadas-ia-recurso-inadmitido
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'El Tribunal Federal de Trabajo alemán inadmite un recurso con siete citas
+    falsas o deformadas: firmar sin revisar un escrito hecho con IA equivale a no
+    estar representado'
+- id: evt-2026-10-20-disney-character-ai-quiebra-sin-demandas
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Disney se queda con la plantilla y la tecnología de Character.AI a través
+    de su quiebra, mientras las demandas por daños a menores se quedan en la empresa
+    vaciada
+- id: evt-2026-10-20-harvey-midpage-legora-blue-j-conectores-mcp
+  sota_score: 7.2
+  ai_legaltech: true
+  title: 'Harvey se conecta a Midpage y Legora a Blue J: las plataformas de IA jurídica
+    abren su interfaz a bases de investigación de terceros vía MCP'
+- id: evt-2026-10-20-tirant-estudio-ia-abogacia-espanola-generalista
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'Un estudio impulsado por Grupo Tirant sobre 760 abogados españoles: el 78,4%
+    usa IA, sobre todo generalista, pero las IA jurídicas puntúan mejor en rigor,
+    fuentes y privacidad'
+- id: evt-2026-10-20-legalon-agent-builder-beta-juridico-interno
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'LegalOn abre en beta Agent Builder: agentes que ejecutan solos tareas del
+    departamento jurídico cuando se cumple una condición en el gestor de asuntos'
+- id: evt-2026-10-20-lawtechuk-inversion-record-primer-semestre
+  sota_score: 6.8
+  ai_legaltech: false
+  title: 'La inversión en lawtech británico bate récord con 227 millones de libras
+    en seis meses, pero más concentrada: tres empresas se llevan el 69%'
+- id: evt-2026-10-20-uswitch-encuesta-ia-en-lugar-de-abogado
+  sota_score: 6.6
+  ai_legaltech: true
+  title: Cuatro de cada diez británicos preguntarían a la IA antes que a un solicitor,
+    aunque casi uno de cada cuatro usuarios recibió consejos erróneos con consecuencias
+- id: evt-2026-10-20-apdcat-circular-1-2026-videovigilancia
+  sota_score: 6.4
+  ai_legaltech: false
+  title: 'La APDCAT sustituye su instrucción de 2009 por la Circular 1/2026 de videovigilancia:
+    incluye drones, vehículos y uniformes y entra en vigor el 8 de noviembre'

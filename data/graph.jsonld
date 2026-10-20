@@ -12,8 +12,8 @@
         "schema:CreativeWork"
       ],
       "schema:name": "Radar LegalTech · acumulado",
-      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-10-19, 191 eventos).",
-      "schema:temporalCoverage": "2026-09-29/2026-10-19",
+      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-10-20, 200 eventos).",
+      "schema:temporalCoverage": "2026-09-29/2026-10-20",
       "schema:inLanguage": "es",
       "schema:license": "https://spdx.org/licenses/MIT.html",
       "schema:hasPart": [
@@ -589,6 +589,33 @@
         },
         {
           "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-19-anthropic-metr-evaluadores-internos-propuesta-ley"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-en-18286-primera-norma-armonizada-ai-act-calidad"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-bag-citas-inventadas-ia-recurso-inadmitido"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-disney-character-ai-quiebra-sin-demandas"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-harvey-midpage-legora-blue-j-conectores-mcp"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-tirant-estudio-ia-abogacia-espanola-generalista"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-legalon-agent-builder-beta-juridico-interno"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-lawtechuk-inversion-record-primer-semestre"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-uswitch-encuesta-ia-en-lugar-de-abogado"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-apdcat-circular-1-2026-videovigilancia"
         }
       ]
     },
@@ -9325,6 +9352,469 @@
       ]
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-en-18286-primera-norma-armonizada-ai-act-calidad",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-en-18286-primera-norma-armonizada-ai-act-calidad",
+      "schema:headline": "La Comisión publica en el Diario Oficial la primera norma armonizada del Reglamento de IA: la EN 18286 da presunción de conformidad al sistema de gestión de calidad del artículo 17",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Comisión Europea publicó el 19 de octubre de 2026 en el Diario Oficial de la UE la referencia de la primera norma armonizada de apoyo al Reglamento de IA: la EN 18286:2026, \"Artificial intelligence - Quality management system for EU AI Act regulatory purposes\", elaborada por los organismos europeos de normalización CEN y CENELEC. Con la Decisión de Ejecución (UE) 2026/2274, los proveedores de sistemas de IA de alto riesgo que apliquen la norma disfrutan de presunción de conformidad con los requisitos del artículo 17 (sistema de gestión de la calidad) que la norma cubre. Según la Comisión, es la única norma de gestión de calidad para IA con esa presunción, está organizada en torno al ciclo de vida del sistema y no de la organización, y está pensada para superponerse a ISO/IEC 42001, ISO 9001 o normas sectoriales como ISO 13485, no para sustituirlas.",
+      "schema:articleBody": "La Comisión Europea publicó el 19 de octubre de 2026 en el Diario Oficial de la UE la referencia de la primera norma armonizada de apoyo al Reglamento de IA: la EN 18286:2026, \"Artificial intelligence - Quality management system for EU AI Act regulatory purposes\", elaborada por los organismos europeos de normalización CEN y CENELEC. Con la Decisión de Ejecución (UE) 2026/2274, los proveedores de sistemas de IA de alto riesgo que apliquen la norma disfrutan de presunción de conformidad con los requisitos del artículo 17 (sistema de gestión de la calidad) que la norma cubre. Según la Comisión, es la única norma de gestión de calidad para IA con esa presunción, está organizada en torno al ciclo de vida del sistema y no de la organización, y está pensada para superponerse a ISO/IEC 42001, ISO 9001 o normas sectoriales como ISO 13485, no para sustituirlas.\n\nPara in-house y asesores de proveedores de IA de alto riesgo, la norma convierte un artículo abstracto en un sistema auditable: quien ya tenga ISO/IEC 42001 o un sistema sectorial puede ampliarlo, y quien no lo tenga puede construir el suyo sobre EN 18286 sin duplicar estructuras, algo que la Comisión admite expresamente en sectores regulados. Para despachos y consultoras abre trabajo de análisis de brechas y de revisión contractual, porque los compradores empezarán a pedir conformidad con EN 18286 como garantía. La Comisión anuncia más normas armonizadas antes de que se apliquen los requisitos de alto riesgo; Confilegal, a partir de un informe de Softtek, sitúa las principales obligaciones para sistemas de alto riesgo como los de apoyo a la justicia en el 2 de diciembre de 2027, tras el cambio de calendario aprobado en julio de 2026. Matiz: aplicar la norma es voluntario y la presunción solo alcanza a los requisitos del artículo 17 que la norma recoge.",
+      "sota:type": "standards",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera vía técnica con presunción legal de conformidad bajo el Reglamento de IA.",
+      "sota:whyNow": "DOUE y Comisión, 19 oct 2026. NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "EU"
+      ],
+      "sota:topics": [
+        "ai-act",
+        "normalizacion",
+        "gestion-calidad",
+        "alto-riesgo",
+        "cumplimiento"
+      ],
+      "sota:summaryP1": "La Comisión Europea publicó el 19 de octubre de 2026 en el Diario Oficial de la UE la referencia de la primera norma armonizada de apoyo al Reglamento de IA: la EN 18286:2026, \"Artificial intelligence - Quality management system for EU AI Act regulatory purposes\", elaborada por los organismos europeos de normalización CEN y CENELEC. Con la Decisión de Ejecución (UE) 2026/2274, los proveedores de sistemas de IA de alto riesgo que apliquen la norma disfrutan de presunción de conformidad con los requisitos del artículo 17 (sistema de gestión de la calidad) que la norma cubre. Según la Comisión, es la única norma de gestión de calidad para IA con esa presunción, está organizada en torno al ciclo de vida del sistema y no de la organización, y está pensada para superponerse a ISO/IEC 42001, ISO 9001 o normas sectoriales como ISO 13485, no para sustituirlas.",
+      "sota:summaryP2": "Para in-house y asesores de proveedores de IA de alto riesgo, la norma convierte un artículo abstracto en un sistema auditable: quien ya tenga ISO/IEC 42001 o un sistema sectorial puede ampliarlo, y quien no lo tenga puede construir el suyo sobre EN 18286 sin duplicar estructuras, algo que la Comisión admite expresamente en sectores regulados. Para despachos y consultoras abre trabajo de análisis de brechas y de revisión contractual, porque los compradores empezarán a pedir conformidad con EN 18286 como garantía. La Comisión anuncia más normas armonizadas antes de que se apliquen los requisitos de alto riesgo; Confilegal, a partir de un informe de Softtek, sitúa las principales obligaciones para sistemas de alto riesgo como los de apoyo a la justicia en el 2 de diciembre de 2027, tras el cambio de calendario aprobado en julio de 2026. Matiz: aplicar la norma es voluntario y la presunción solo alcanza a los requisitos del artículo 17 que la norma recoge.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+          "schema:name": "First harmonised standard supporting the AI Act published in the Official Journal",
+          "sota:sourceId": "src-comision-europea-ai-act-digital-strategy"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261019-softtek-apuesta-por-una-ia-mas-transparente-comprensible-y-supervisada-en-la-justicia/",
+          "schema:name": "Softtek apuesta por una IA más transparente, comprensible y supervisada en la Justicia",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-comision-europea"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cen-cenelec"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-bag-citas-inventadas-ia-recurso-inadmitido",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-bag-citas-inventadas-ia-recurso-inadmitido",
+      "schema:headline": "El Tribunal Federal de Trabajo alemán inadmite un recurso con siete citas falsas o deformadas: firmar sin revisar un escrito hecho con IA equivale a no estar representado",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Bundesarbeitsgericht (BAG), el Tribunal Federal de Trabajo alemán, declaró inadmisible un recurso contra la no admisión de la revisión porque el escrito citaba cuatro resoluciones que no existen y otras tres con un contenido distinto del real (auto de 30 de septiembre de 2026, Az. 2 AZN 339/26), según analizan en Legal Tribune Online (19 de octubre) Hans-Patrick Schroeder y Jule Sofie Hindahl, de Freshfields. El escrito, firmado por el letrado y enviado desde su buzón electrónico profesional (beA), no llevaba el membrete del despacho, tenía un formato inusual y expresiones jurídicamente extrañas. Ante el BAG la representación por abogado es obligatoria y el escrito debe ser trabajo propio o, al menos, revisado y asumido por él; el tribunal consideró descartado de todo punto que lo hubiera revisado, se remitió a las indicaciones de la BRAK sobre IA y concluyó que faltaba una representación válida. Su declaración posterior de que asumía el contenido llegó vencido el plazo y no sirvió.",
+      "schema:articleBody": "El Bundesarbeitsgericht (BAG), el Tribunal Federal de Trabajo alemán, declaró inadmisible un recurso contra la no admisión de la revisión porque el escrito citaba cuatro resoluciones que no existen y otras tres con un contenido distinto del real (auto de 30 de septiembre de 2026, Az. 2 AZN 339/26), según analizan en Legal Tribune Online (19 de octubre) Hans-Patrick Schroeder y Jule Sofie Hindahl, de Freshfields. El escrito, firmado por el letrado y enviado desde su buzón electrónico profesional (beA), no llevaba el membrete del despacho, tenía un formato inusual y expresiones jurídicamente extrañas. Ante el BAG la representación por abogado es obligatoria y el escrito debe ser trabajo propio o, al menos, revisado y asumido por él; el tribunal consideró descartado de todo punto que lo hubiera revisado, se remitió a las indicaciones de la BRAK sobre IA y concluyó que faltaba una representación válida. Su declaración posterior de que asumía el contenido llegó vencido el plazo y no sirvió.\n\nLa consecuencia va más allá de la sanción deontológica que otros tribunales alemanes habían apuntado: el Kammergericht de Berlín, en un caso parecido de noviembre de 2025, solo insinuó una infracción profesional, mientras que el BAG deja sin efecto el propio acto procesal. Para despachos que litigan en procedimientos con representación preceptiva, obliga a documentar la verificación de cada cita antes de presentar, porque la firma deja de bastar cuando las circunstancias muestran que nadie revisó el texto. Los autores recuerdan que la BRAK exige control final de todo resultado de IA, que el DAV pide comprobar íntegramente las citas y que, a partir de cierto grado de automatización, el seguro de responsabilidad civil podría negar la cobertura. Para vendors de investigación jurídica, refuerza el argumento comercial de la verificación de citas integrada. Matiz: la lectura es de dos abogados de Freshfields en una tribuna; en Alemania no hay todavía reglas vinculantes sobre el uso de IA por abogados.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un tribunal supremo federal convierte la cita alucinada en causa de inadmisión por falta de representación.",
+      "sota:whyNow": "Auto BAG 30 sep 2026; LTO, 19 oct 2026. NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "DE"
+      ],
+      "sota:topics": [
+        "alucinaciones",
+        "citas",
+        "deontologia",
+        "litigacion",
+        "verificacion"
+      ],
+      "sota:summaryP1": "El Bundesarbeitsgericht (BAG), el Tribunal Federal de Trabajo alemán, declaró inadmisible un recurso contra la no admisión de la revisión porque el escrito citaba cuatro resoluciones que no existen y otras tres con un contenido distinto del real (auto de 30 de septiembre de 2026, Az. 2 AZN 339/26), según analizan en Legal Tribune Online (19 de octubre) Hans-Patrick Schroeder y Jule Sofie Hindahl, de Freshfields. El escrito, firmado por el letrado y enviado desde su buzón electrónico profesional (beA), no llevaba el membrete del despacho, tenía un formato inusual y expresiones jurídicamente extrañas. Ante el BAG la representación por abogado es obligatoria y el escrito debe ser trabajo propio o, al menos, revisado y asumido por él; el tribunal consideró descartado de todo punto que lo hubiera revisado, se remitió a las indicaciones de la BRAK sobre IA y concluyó que faltaba una representación válida. Su declaración posterior de que asumía el contenido llegó vencido el plazo y no sirvió.",
+      "sota:summaryP2": "La consecuencia va más allá de la sanción deontológica que otros tribunales alemanes habían apuntado: el Kammergericht de Berlín, en un caso parecido de noviembre de 2025, solo insinuó una infracción profesional, mientras que el BAG deja sin efecto el propio acto procesal. Para despachos que litigan en procedimientos con representación preceptiva, obliga a documentar la verificación de cada cita antes de presentar, porque la firma deja de bastar cuando las circunstancias muestran que nadie revisó el texto. Los autores recuerdan que la BRAK exige control final de todo resultado de IA, que el DAV pide comprobar íntegramente las citas y que, a partir de cierto grado de automatización, el seguro de responsabilidad civil podría negar la cobertura. Para vendors de investigación jurídica, refuerza el argumento comercial de la verificación de citas integrada. Matiz: la lectura es de dos abogados de Freshfields en una tribuna; en Alemania no hay todavía reglas vinculantes sobre el uso de IA por abogados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lto.de/recht/hintergruende/h/bag-2azn33926-ki-schriftsatz-fundstellen-halluziniert-postulationsfaehigkeit",
+          "schema:name": "BAG zu halluzinierten Urteilen: KI-Schriftsatz ersetzt nicht den Anwalt",
+          "sota:sourceId": "src-legal-tribune-online-legal-tech"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bundesarbeitsgericht"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-tribune-online"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-freshfields"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-brak"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-disney-character-ai-quiebra-sin-demandas",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-disney-character-ai-quiebra-sin-demandas",
+      "schema:headline": "Disney se queda con la plantilla y la tecnología de Character.AI a través de su quiebra, mientras las demandas por daños a menores se quedan en la empresa vaciada",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Character.AI, la plataforma de chatbots de compañía que afronta demandas por bots que habrían animado a menores a autolesionarse, se acogió al Chapter 11 el 12 de octubre de 2026, y los escritos judiciales muestran que la quiebra es una pieza del acuerdo con Disney, según Ars Technica (19 de octubre, con información de WIRED). En septiembre Disney pagó 5,5 millones de dólares más un depósito reembolsable de 2 millones y contrató a la mayoría de la plantilla, incluido el entonces consejero delegado Karandeep Anand. En el concurso aspira a una licencia perpetua, mundial y no exclusiva sobre código, herramientas, moderación de seguridad, infraestructura de entrenamiento y tecnología de predicción de edad, sin los datos de usuarios; si gana la subasta pagará otros 12,5 millones. Un borrador de orden \"363 free and clear\" aclara que no es una fusión y que Character.AI conserva cualquier responsabilidad, incluidas las reclamaciones judiciales.",
+      "schema:articleBody": "Character.AI, la plataforma de chatbots de compañía que afronta demandas por bots que habrían animado a menores a autolesionarse, se acogió al Chapter 11 el 12 de octubre de 2026, y los escritos judiciales muestran que la quiebra es una pieza del acuerdo con Disney, según Ars Technica (19 de octubre, con información de WIRED). En septiembre Disney pagó 5,5 millones de dólares más un depósito reembolsable de 2 millones y contrató a la mayoría de la plantilla, incluido el entonces consejero delegado Karandeep Anand. En el concurso aspira a una licencia perpetua, mundial y no exclusiva sobre código, herramientas, moderación de seguridad, infraestructura de entrenamiento y tecnología de predicción de edad, sin los datos de usuarios; si gana la subasta pagará otros 12,5 millones. Un borrador de orden \"363 free and clear\" aclara que no es una fusión y que Character.AI conserva cualquier responsabilidad, incluidas las reclamaciones judiciales.\n\nJohn Newman, profesor de la Universidad de Memphis y exdirector adjunto de competencia de la FTC, explica a WIRED que décadas de derecho societario se construyeron para impedir que un comprador se lleve los activos sin los pasivos, y que esas salvaguardas no estaban pensadas para una estructura así. Para litigantes de responsabilidad por productos de IA el precedente es incómodo: los demandantes pueden acabar frente a una sociedad sin equipo ni negocio, y PYMNTS añade que 40 fiscales generales estatales han pedido al tribunal concursal que cualquier venta incluya garantías de privacidad y seguridad. Para asesores de M&A tecnológico, eleva el listón de la due diligence y del escrutinio de competencia sobre los \"reverse acquihires\", que las empresas suelen no notificar a las autoridades antimonopolio. Matiz: la operación depende todavía de la subasta y de la aprobación judicial; Disney declinó comentar, y los acuerdos de las demandas previas contra Character.AI y Google se aprobaron el 11 de octubre, un día antes del concurso.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer gran caso de una compra de IA estructurada en concurso para separar tecnología y responsabilidad civil.",
+      "sota:whyNow": "Ars Technica y PYMNTS, 19 oct 2026. NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "responsabilidad-ia",
+        "concurso",
+        "acquihire",
+        "competencia",
+        "menores"
+      ],
+      "sota:summaryP1": "Character.AI, la plataforma de chatbots de compañía que afronta demandas por bots que habrían animado a menores a autolesionarse, se acogió al Chapter 11 el 12 de octubre de 2026, y los escritos judiciales muestran que la quiebra es una pieza del acuerdo con Disney, según Ars Technica (19 de octubre, con información de WIRED). En septiembre Disney pagó 5,5 millones de dólares más un depósito reembolsable de 2 millones y contrató a la mayoría de la plantilla, incluido el entonces consejero delegado Karandeep Anand. En el concurso aspira a una licencia perpetua, mundial y no exclusiva sobre código, herramientas, moderación de seguridad, infraestructura de entrenamiento y tecnología de predicción de edad, sin los datos de usuarios; si gana la subasta pagará otros 12,5 millones. Un borrador de orden \"363 free and clear\" aclara que no es una fusión y que Character.AI conserva cualquier responsabilidad, incluidas las reclamaciones judiciales.",
+      "sota:summaryP2": "John Newman, profesor de la Universidad de Memphis y exdirector adjunto de competencia de la FTC, explica a WIRED que décadas de derecho societario se construyeron para impedir que un comprador se lleve los activos sin los pasivos, y que esas salvaguardas no estaban pensadas para una estructura así. Para litigantes de responsabilidad por productos de IA el precedente es incómodo: los demandantes pueden acabar frente a una sociedad sin equipo ni negocio, y PYMNTS añade que 40 fiscales generales estatales han pedido al tribunal concursal que cualquier venta incluya garantías de privacidad y seguridad. Para asesores de M&A tecnológico, eleva el listón de la due diligence y del escrutinio de competencia sobre los \"reverse acquihires\", que las empresas suelen no notificar a las autoridades antimonopolio. Matiz: la operación depende todavía de la subasta y de la aprobación judicial; Disney declinó comentar, y los acuerdos de las demandas previas contra Character.AI y Google se aprobaron el 11 de octubre, un día antes del concurso.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+          "schema:name": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "sota:sourceId": "src-ars-technica"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.pymnts.com/news/artificial-intelligence/2026/character-ai-bankruptcy-exposes-the-high-cost-of-ai-companionship/",
+          "schema:name": "Character.ai Bankruptcy Exposes the High Cost of AI Companionship",
+          "sota:sourceId": "src-pymnts"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-character-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-disney"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wired"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-harvey-midpage-legora-blue-j-conectores-mcp",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-harvey-midpage-legora-blue-j-conectores-mcp",
+      "schema:headline": "Harvey se conecta a Midpage y Legora a Blue J: las plataformas de IA jurídica abren su interfaz a bases de investigación de terceros vía MCP",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El 19 de octubre de 2026 llegaron dos integraciones casi simultáneas, según LawSites. Harvey estrena un conector con Midpage, plataforma de investigación con jurisprudencia, legislación, reglamentos y materiales administrativos de EE. UU., que permite lanzar búsquedas desde los hilos de Harvey Assistant y recibir las fuentes citadas en el resultado final; Midpage ya tenía conectores con Claude (Claude for Legal) y ChatGPT. Ese mismo día, Legora anunció que sus clientes con suscripción a Blue J, herramienta de investigación fiscal que dice usar más de 6.000 organizaciones, pueden consultarla desde Legora con citas en línea que enlazan a las fuentes de Blue J; la integración usa el Model Context Protocol (MCP) y la investigación se ejecuta en la infraestructura de Blue J. El 16 de octubre Legora e iManage ya habían anunciado planes para conectar Legora con el iManage MCP Server, con los permisos de iManage decidiendo qué recupera cada usuario.",
+      "schema:articleBody": "El 19 de octubre de 2026 llegaron dos integraciones casi simultáneas, según LawSites. Harvey estrena un conector con Midpage, plataforma de investigación con jurisprudencia, legislación, reglamentos y materiales administrativos de EE. UU., que permite lanzar búsquedas desde los hilos de Harvey Assistant y recibir las fuentes citadas en el resultado final; Midpage ya tenía conectores con Claude (Claude for Legal) y ChatGPT. Ese mismo día, Legora anunció que sus clientes con suscripción a Blue J, herramienta de investigación fiscal que dice usar más de 6.000 organizaciones, pueden consultarla desde Legora con citas en línea que enlazan a las fuentes de Blue J; la integración usa el Model Context Protocol (MCP) y la investigación se ejecuta en la infraestructura de Blue J. El 16 de octubre Legora e iManage ya habían anunciado planes para conectar Legora con el iManage MCP Server, con los permisos de iManage decidiendo qué recupera cada usuario.\n\nLa lectura de negocio es que la competencia entre plataformas de IA jurídica se desplaza del modelo al ecosistema: el contenido especializado (jurisprudencia, fiscal, gestión documental) se queda donde está y se alquila por conector. Para el despacho, la ventaja es trabajar en una sola interfaz con trazabilidad de cada afirmación hasta su fuente; el coste es que en ambos casos hacen falta suscripciones a los dos productos, así que el gasto en contenido no desaparece y conviene revisar qué datos viajan entre proveedores. Para editoriales y bases de datos, MCP es a la vez canal de distribución y riesgo de convertirse en proveedor invisible bajo la marca de otro. Matiz: la información procede de los anuncios de las compañías recogidos por LawSites; no hay datos de precio ni de uso.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "MCP se consolida como capa estándar entre plataformas de IA jurídica y proveedores de contenido.",
+      "sota:whyNow": "LawSites, 19 oct 2026 (iManage, 16 oct). NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "mcp",
+        "investigacion-juridica",
+        "integraciones",
+        "fiscal",
+        "plataformas"
+      ],
+      "sota:summaryP1": "El 19 de octubre de 2026 llegaron dos integraciones casi simultáneas, según LawSites. Harvey estrena un conector con Midpage, plataforma de investigación con jurisprudencia, legislación, reglamentos y materiales administrativos de EE. UU., que permite lanzar búsquedas desde los hilos de Harvey Assistant y recibir las fuentes citadas en el resultado final; Midpage ya tenía conectores con Claude (Claude for Legal) y ChatGPT. Ese mismo día, Legora anunció que sus clientes con suscripción a Blue J, herramienta de investigación fiscal que dice usar más de 6.000 organizaciones, pueden consultarla desde Legora con citas en línea que enlazan a las fuentes de Blue J; la integración usa el Model Context Protocol (MCP) y la investigación se ejecuta en la infraestructura de Blue J. El 16 de octubre Legora e iManage ya habían anunciado planes para conectar Legora con el iManage MCP Server, con los permisos de iManage decidiendo qué recupera cada usuario.",
+      "sota:summaryP2": "La lectura de negocio es que la competencia entre plataformas de IA jurídica se desplaza del modelo al ecosistema: el contenido especializado (jurisprudencia, fiscal, gestión documental) se queda donde está y se alquila por conector. Para el despacho, la ventaja es trabajar en una sola interfaz con trazabilidad de cada afirmación hasta su fuente; el coste es que en ambos casos hacen falta suscripciones a los dos productos, así que el gasto en contenido no desaparece y conviene revisar qué datos viajan entre proveedores. Para editoriales y bases de datos, MCP es a la vez canal de distribución y riesgo de convertirse en proveedor invisible bajo la marca de otro. Matiz: la información procede de los anuncios de las compañías recogidos por LawSites; no hay datos de precio ni de uso.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/harvey-now-connects-to-legal-research-platform-midpage-through-an-mcp-connector.html",
+          "schema:name": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector",
+          "sota:sourceId": "src-lawnext"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/new-mcp-makes-tax-research-from-blue-j-available-from-within-legora.html",
+          "schema:name": "New MCP Makes Tax Research from Blue J Available from within Legora",
+          "sota:sourceId": "src-lawnext"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/10/legora-and-imanage-deepen-integration-through-imanagemcp-server.html",
+          "schema:name": "Legora and iManage Deepen Integration Through iManageMCP Server",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-midpage"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-blue-j"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-imanage"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-tirant-estudio-ia-abogacia-espanola-generalista",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-tirant-estudio-ia-abogacia-espanola-generalista",
+      "schema:headline": "Un estudio impulsado por Grupo Tirant sobre 760 abogados españoles: el 78,4% usa IA, sobre todo generalista, pero las IA jurídicas puntúan mejor en rigor, fuentes y privacidad",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Estudio de posicionamiento de Tirant Prime en el mercado jurídico profesional 2026, impulsado por Grupo Tirant y realizado por Coto Consulting con la colaboración de la Universitat de València sobre una muestra de 760 abogados ejercientes en España, concluye que el 78,4% usa algún tipo de IA en su trabajo, según Confilegal (20 de octubre de 2026). Las herramientas generalistas dominan (67,9%), frente al 26,3% que usa IA integrada en plataformas jurídicas y el 13,7% que recurre a IA jurídica independiente. La edad marca la diferencia: entre los menores de 35 años solo el 9,5% no usa ninguna IA, frente al 36% de los de 55 o más, y las IA integradas en plataformas pesan más entre los mayores (32,8% frente a 20,9%).",
+      "schema:articleBody": "El Estudio de posicionamiento de Tirant Prime en el mercado jurídico profesional 2026, impulsado por Grupo Tirant y realizado por Coto Consulting con la colaboración de la Universitat de València sobre una muestra de 760 abogados ejercientes en España, concluye que el 78,4% usa algún tipo de IA en su trabajo, según Confilegal (20 de octubre de 2026). Las herramientas generalistas dominan (67,9%), frente al 26,3% que usa IA integrada en plataformas jurídicas y el 13,7% que recurre a IA jurídica independiente. La edad marca la diferencia: entre los menores de 35 años solo el 9,5% no usa ninguna IA, frente al 36% de los de 55 o más, y las IA integradas en plataformas pesan más entre los mayores (32,8% frente a 20,9%).\n\nEl dato que más interesa a editoriales y bases de datos es el de sustitución: entre los usuarios de IA, el 43,3% no ha reducido sus consultas a plataformas jurídicas, el 29,7% las ha reducido algo, el 16,9% bastante y solo el 10,1% dice que la IA llega a veces a sustituirlas por completo. La IA cambia hábitos más que desplaza la herramienta especializada, y según el estudio las IA jurídicas puntúan mejor en rigor, fuentes, actualización y privacidad aunque se usen mucho menos. Para despachos, la distancia entre el uso masivo de herramientas generalistas y la mejor valoración de las jurídicas es un riesgo de calidad y confidencialidad que conviene cerrar con política interna y formación. Matiz: el estudio lo promueve un proveedor, que destaca las notas de su propia IA, SOFIA (8,28 sobre 10 en privacidad entre quienes la usan como herramienta principal); los porcentajes por tipo suman más del 78,4% porque se puede usar más de una herramienta.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato de adopción de IA en la abogacía española con muestra amplia y desglose por tipo de herramienta y edad.",
+      "sota:whyNow": "Confilegal, 20 oct 2026. NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "adopcion-ia",
+        "abogacia",
+        "encuesta",
+        "ia-generalista",
+        "bases-de-datos"
+      ],
+      "sota:summaryP1": "El Estudio de posicionamiento de Tirant Prime en el mercado jurídico profesional 2026, impulsado por Grupo Tirant y realizado por Coto Consulting con la colaboración de la Universitat de València sobre una muestra de 760 abogados ejercientes en España, concluye que el 78,4% usa algún tipo de IA en su trabajo, según Confilegal (20 de octubre de 2026). Las herramientas generalistas dominan (67,9%), frente al 26,3% que usa IA integrada en plataformas jurídicas y el 13,7% que recurre a IA jurídica independiente. La edad marca la diferencia: entre los menores de 35 años solo el 9,5% no usa ninguna IA, frente al 36% de los de 55 o más, y las IA integradas en plataformas pesan más entre los mayores (32,8% frente a 20,9%).",
+      "sota:summaryP2": "El dato que más interesa a editoriales y bases de datos es el de sustitución: entre los usuarios de IA, el 43,3% no ha reducido sus consultas a plataformas jurídicas, el 29,7% las ha reducido algo, el 16,9% bastante y solo el 10,1% dice que la IA llega a veces a sustituirlas por completo. La IA cambia hábitos más que desplaza la herramienta especializada, y según el estudio las IA jurídicas puntúan mejor en rigor, fuentes, actualización y privacidad aunque se usen mucho menos. Para despachos, la distancia entre el uso masivo de herramientas generalistas y la mejor valoración de las jurídicas es un riesgo de calidad y confidencialidad que conviene cerrar con política interna y formación. Matiz: el estudio lo promueve un proveedor, que destaca las notas de su propia IA, SOFIA (8,28 sobre 10 en privacidad entre quienes la usan como herramienta principal); los porcentajes por tipo suman más del 78,4% porque se puede usar más de una herramienta.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261020-ia-generalista-juridica-abogados-estudio-tirant-2026/",
+          "schema:name": "Ocho de cada diez abogados ya utilizan Inteligencia Artificial, según un estudio impulsado por el Grupo Tirant",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tirant"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-legalon-agent-builder-beta-juridico-interno",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-legalon-agent-builder-beta-juridico-interno",
+      "schema:headline": "LegalOn abre en beta Agent Builder: agentes que ejecutan solos tareas del departamento jurídico cuando se cumple una condición en el gestor de asuntos",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LegalOn Technologies, la empresa japonesa de IA jurídica, empezó el 19 de octubre de 2026 a ofrecer en beta Agent Builder, una función de automatización de tareas con patente solicitada dentro de su plataforma LegalOn. Un agente de IA especializado en derecho ejecuta en cadena varias tareas rutinarias cuando se cumple una condición definida por el equipo jurídico, sin nuevas instrucciones ni pasos manuales. En esta primera fase, los disparadores son hechos del gestor de asuntos, como la creación de un asunto o el cambio de estado o de responsable, y las tareas cubiertas son consultas jurídicas y asignación de asuntos; la compañía prevé ampliarlo a la primera revisión automática de contratos. Según LegalOn, se configura en un mínimo de cinco clics y su equipo de abogados ofrecerá flujos prediseñados que cada cliente podrá adaptar.",
+      "schema:articleBody": "LegalOn Technologies, la empresa japonesa de IA jurídica, empezó el 19 de octubre de 2026 a ofrecer en beta Agent Builder, una función de automatización de tareas con patente solicitada dentro de su plataforma LegalOn. Un agente de IA especializado en derecho ejecuta en cadena varias tareas rutinarias cuando se cumple una condición definida por el equipo jurídico, sin nuevas instrucciones ni pasos manuales. En esta primera fase, los disparadores son hechos del gestor de asuntos, como la creación de un asunto o el cambio de estado o de responsable, y las tareas cubiertas son consultas jurídicas y asignación de asuntos; la compañía prevé ampliarlo a la primera revisión automática de contratos. Según LegalOn, se configura en un mínimo de cinco clics y su equipo de abogados ofrecerá flujos prediseñados que cada cliente podrá adaptar.\n\nEl anuncio se apoya en una encuesta propia de marzo: entre quienes ya usan agentes de IA en el área legal, el 52,0% les confía partes de un proceso y solo el 23,4% procesos completos, y más del 80% quiere ampliar lo que delega. Para direcciones jurídicas, el valor está en el control: se puede limitar qué consulta la IA (el conocimiento propio y, si se quiere, la búsqueda web) y bloquear acciones como enviar correos al solicitante, que es el tipo de gobierno que pedirán auditoría y protección de datos antes de dejar que un agente actúe por su cuenta. Para competidores como Harvey y Legora, que la semana pasada lanzaron sus propios productos de intake para el jurídico interno, confirma que la siguiente frontera es la orquestación de flujos y no el chat. Matiz: es un comunicado del proveedor publicado en su web japonesa, sobre una función en beta; no hay datos de clientes ni de resultados.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Paso del asistente conversacional a agentes disparados por eventos en la gestión de asuntos del jurídico interno.",
+      "sota:whyNow": "Comunicado LegalOn, 19 oct 2026. NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "JP"
+      ],
+      "sota:topics": [
+        "agentes-ia",
+        "in-house",
+        "automatizacion",
+        "gestion-de-asuntos",
+        "gobernanza"
+      ],
+      "sota:summaryP1": "LegalOn Technologies, la empresa japonesa de IA jurídica, empezó el 19 de octubre de 2026 a ofrecer en beta Agent Builder, una función de automatización de tareas con patente solicitada dentro de su plataforma LegalOn. Un agente de IA especializado en derecho ejecuta en cadena varias tareas rutinarias cuando se cumple una condición definida por el equipo jurídico, sin nuevas instrucciones ni pasos manuales. En esta primera fase, los disparadores son hechos del gestor de asuntos, como la creación de un asunto o el cambio de estado o de responsable, y las tareas cubiertas son consultas jurídicas y asignación de asuntos; la compañía prevé ampliarlo a la primera revisión automática de contratos. Según LegalOn, se configura en un mínimo de cinco clics y su equipo de abogados ofrecerá flujos prediseñados que cada cliente podrá adaptar.",
+      "sota:summaryP2": "El anuncio se apoya en una encuesta propia de marzo: entre quienes ya usan agentes de IA en el área legal, el 52,0% les confía partes de un proceso y solo el 23,4% procesos completos, y más del 80% quiere ampliar lo que delega. Para direcciones jurídicas, el valor está en el control: se puede limitar qué consulta la IA (el conocimiento propio y, si se quiere, la búsqueda web) y bloquear acciones como enviar correos al solicitante, que es el tipo de gobierno que pedirán auditoría y protección de datos antes de dejar que un agente actúe por su cuenta. Para competidores como Harvey y Legora, que la semana pasada lanzaron sus propios productos de intake para el jurídico interno, confirma que la siguiente frontera es la orquestación de flujos y no el chat. Matiz: es un comunicado del proveedor publicado en su web japonesa, sobre una función en beta; no hay datos de clientes ni de resultados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalontech.com/jp/news/310",
+          "schema:name": "「LegalOn」、法務の業務を自動化する新機能「エージェントビルダー」β版を提供開始",
+          "sota:sourceId": "src-legalon-technologies"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalon-technologies"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-lawtechuk-inversion-record-primer-semestre",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-lawtechuk-inversion-record-primer-semestre",
+      "schema:headline": "La inversión en lawtech británico bate récord con 227 millones de libras en seis meses, pero más concentrada: tres empresas se llevan el 69%",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La inversión en empresas británicas de tecnología jurídica alcanzó un récord de 227 millones de libras en el primer semestre de 2026, un 20% más que en todo 2025, según el Investment Snapshot de LawtechUK recogido por Legal Futures (20 de octubre). Si el ritmo se mantiene, el año superará los 400 millones. Pero el dinero se concentra: las empresas financiadas bajan de 27 a 17 frente al primer semestre de 2025, el tamaño medio de la operación sube de 4,3 a 13,4 millones, y Orbital, Lawhive y Wordsmith AI suman unos 156 millones, el 69% del total, mientras las otras 14 se reparten unos 71. La financiación de fase avanzada supera los 160 millones.",
+      "schema:articleBody": "La inversión en empresas británicas de tecnología jurídica alcanzó un récord de 227 millones de libras en el primer semestre de 2026, un 20% más que en todo 2025, según el Investment Snapshot de LawtechUK recogido por Legal Futures (20 de octubre). Si el ritmo se mantiene, el año superará los 400 millones. Pero el dinero se concentra: las empresas financiadas bajan de 27 a 17 frente al primer semestre de 2025, el tamaño medio de la operación sube de 4,3 a 13,4 millones, y Orbital, Lawhive y Wordsmith AI suman unos 156 millones, el 69% del total, mientras las otras 14 se reparten unos 71. La financiación de fase avanzada supera los 160 millones.\n\nPara fundadores y fondos, el informe habla de un mercado que madura, con rondas más grandes, más inversión de seguimiento y confianza en los líderes, pero también de inversores que siguen apostando por \"tecnologías que mejoran los flujos de trabajo jurídicos existentes en lugar de sustituirlos\", con una distancia clara entre lo que construyen los fundadores y lo que financian. Cambia el mapa: la tecnología para consumidores sube al 28% de la financiación (8% en 2024), conveyancing e inmobiliario pasa de 12 millones en 2024 a más de 60, las plataformas de conocimiento casi cuadruplican su financiación y documentos y contratos caen al 47% desde el 67% de 2024. Escocia capta el 23% (2,7% en 2024) frente al 59% de Londres. Para despachos medianos, la concentración significa proveedores de referencia con más músculo y más poder de precio. Matiz: son cifras de LawtechUK, programa apoyado por el Gobierno; la proyección de 400 millones supone que el segundo semestre repita el primero.",
+      "sota:type": "funding",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Termómetro semestral de la inversión lawtech en el mayor mercado europeo.",
+      "sota:whyNow": "Legal Futures, 20 oct 2026 (LawtechUK Investment Snapshot). NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "inversion",
+        "lawtech",
+        "concentracion",
+        "consumo",
+        "conveyancing"
+      ],
+      "sota:summaryP1": "La inversión en empresas británicas de tecnología jurídica alcanzó un récord de 227 millones de libras en el primer semestre de 2026, un 20% más que en todo 2025, según el Investment Snapshot de LawtechUK recogido por Legal Futures (20 de octubre). Si el ritmo se mantiene, el año superará los 400 millones. Pero el dinero se concentra: las empresas financiadas bajan de 27 a 17 frente al primer semestre de 2025, el tamaño medio de la operación sube de 4,3 a 13,4 millones, y Orbital, Lawhive y Wordsmith AI suman unos 156 millones, el 69% del total, mientras las otras 14 se reparten unos 71. La financiación de fase avanzada supera los 160 millones.",
+      "sota:summaryP2": "Para fundadores y fondos, el informe habla de un mercado que madura, con rondas más grandes, más inversión de seguimiento y confianza en los líderes, pero también de inversores que siguen apostando por \"tecnologías que mejoran los flujos de trabajo jurídicos existentes en lugar de sustituirlos\", con una distancia clara entre lo que construyen los fundadores y lo que financian. Cambia el mapa: la tecnología para consumidores sube al 28% de la financiación (8% en 2024), conveyancing e inmobiliario pasa de 12 millones en 2024 a más de 60, las plataformas de conocimiento casi cuadruplican su financiación y documentos y contratos caen al 47% desde el 67% de 2024. Escocia capta el 23% (2,7% en 2024) frente al 59% de Londres. Para despachos medianos, la concentración significa proveedores de referencia con más músculo y más poder de precio. Matiz: son cifras de LawtechUK, programa apoyado por el Gobierno; la proyección de 400 millones supone que el segundo semestre repita el primero.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/uk-legal-tech-investment-on-track-to-exceed-400m-in-2026",
+          "schema:name": "UK legal tech investment on track to exceed £400m in 2026",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawtechuk"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-orbital"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawhive"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wordsmith"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-uswitch-encuesta-ia-en-lugar-de-abogado",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-uswitch-encuesta-ia-en-lugar-de-abogado",
+      "schema:headline": "Cuatro de cada diez británicos preguntarían a la IA antes que a un solicitor, aunque casi uno de cada cuatro usuarios recibió consejos erróneos con consecuencias",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Una encuesta del comparador Uswitch a 2.000 personas, recogida por Legal Futures (20 de octubre de 2026), concluye que el 39% de los adultos británicos se plantearía preguntar a la IA en lugar de a un solicitor ante una cuestión jurídica. Los motivos: es más rápido que esperar una cita (43%), está disponible a cualquier hora (42%) y es gratis o más barato (41%); el 29% cree que la respuesta se verifica fácilmente, el 21% no quiere sentirse juzgado y el 18% no confía en que los profesionales defiendan siempre su interés. A la vez, casi una cuarta parte de quienes han pedido consejo a la IA en general recibió orientación errónea que les causó un problema real, desde pérdidas económicas hasta sustos de salud.",
+      "schema:articleBody": "Una encuesta del comparador Uswitch a 2.000 personas, recogida por Legal Futures (20 de octubre de 2026), concluye que el 39% de los adultos británicos se plantearía preguntar a la IA en lugar de a un solicitor ante una cuestión jurídica. Los motivos: es más rápido que esperar una cita (43%), está disponible a cualquier hora (42%) y es gratis o más barato (41%); el 29% cree que la respuesta se verifica fácilmente, el 21% no quiere sentirse juzgado y el 18% no confía en que los profesionales defiendan siempre su interés. A la vez, casi una cuarta parte de quienes han pedido consejo a la IA en general recibió orientación errónea que les causó un problema real, desde pérdidas económicas hasta sustos de salud.\n\nEl 18% ha tomado una decisión personal basándose solo en un chatbot, sin segunda opinión, cifra que sube al 40% en la generación Z, y casi la mitad de quienes usan IA para consejos personales confía en ella tanto o más que en un amigo o familiar. Para despachos de consumo y pequeñas firmas, el cliente llegará cada vez más con una respuesta previa de la IA que habrá que contrastar y, a menudo, corregir; para vendors de IA para consumidores, el dato confirma la demanda pero también la exposición reputacional cuando el consejo falla. Max Beckett, de Uswitch, distingue entre encontrar información y recibir asesoramiento adaptado al caso, y advierte de que los chatbots responden con una seguridad tranquilizadora aunque la información de base sea inexacta. Matiz: es una encuesta de un comparador comercial y la nota no publica ficha técnica.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Mide la sustitución percibida del abogado por la IA generalista en el consumidor.",
+      "sota:whyNow": "Legal Futures, 20 oct 2026. NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "consumidores",
+        "ia-generalista",
+        "acceso-justicia",
+        "encuesta",
+        "riesgos"
+      ],
+      "sota:summaryP1": "Una encuesta del comparador Uswitch a 2.000 personas, recogida por Legal Futures (20 de octubre de 2026), concluye que el 39% de los adultos británicos se plantearía preguntar a la IA en lugar de a un solicitor ante una cuestión jurídica. Los motivos: es más rápido que esperar una cita (43%), está disponible a cualquier hora (42%) y es gratis o más barato (41%); el 29% cree que la respuesta se verifica fácilmente, el 21% no quiere sentirse juzgado y el 18% no confía en que los profesionales defiendan siempre su interés. A la vez, casi una cuarta parte de quienes han pedido consejo a la IA en general recibió orientación errónea que les causó un problema real, desde pérdidas económicas hasta sustos de salud.",
+      "sota:summaryP2": "El 18% ha tomado una decisión personal basándose solo en un chatbot, sin segunda opinión, cifra que sube al 40% en la generación Z, y casi la mitad de quienes usan IA para consejos personales confía en ella tanto o más que en un amigo o familiar. Para despachos de consumo y pequeñas firmas, el cliente llegará cada vez más con una respuesta previa de la IA que habrá que contrastar y, a menudo, corregir; para vendors de IA para consumidores, el dato confirma la demanda pero también la exposición reputacional cuando el consejo falla. Max Beckett, de Uswitch, distingue entre encontrar información y recibir asesoramiento adaptado al caso, y advierte de que los chatbots responden con una seguridad tranquilizadora aunque la información de base sea inexacta. Matiz: es una encuesta de un comparador comercial y la nota no publica ficha técnica.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/many-consumers-willing-to-ask-ai-instead-of-a-solicitor",
+          "schema:name": "Many consumers willing to ask AI instead of a solicitor",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uswitch"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-20-apdcat-circular-1-2026-videovigilancia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-20-apdcat-circular-1-2026-videovigilancia",
+      "schema:headline": "La APDCAT sustituye su instrucción de 2009 por la Circular 1/2026 de videovigilancia: incluye drones, vehículos y uniformes y entra en vigor el 8 de noviembre",
+      "schema:datePublished": "2026-10-19",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Autoridad Catalana de Protección de Datos (APDCAT) ha aprobado la Circular 1/2026 sobre el tratamiento de datos personales mediante cámaras de videovigilancia, publicada en el DOGC el 19 de octubre de 2026, según Lawandtrends y la Federació de Municipis de Catalunya. Es de obligado cumplimiento en su ámbito (administraciones catalanas, entes locales, universidades, colegios profesionales y entidades privadas cuando ejercen funciones públicas) y sustituye a la Instrucción 1/2009, redactada bajo la antigua Ley Orgánica 15/1999, para adaptarse al RGPD, la Ley Orgánica 3/2018, la Ley Orgánica 7/2021, la reforma de la Ley de seguridad privada y el Reglamento de IA. Se aplica a cámaras fijas o móviles, incluidas las instaladas en vehículos, drones o indumentaria, y consta de 23 artículos en seis capítulos más un anexo con el diseño de los carteles informativos.",
+      "schema:articleBody": "La Autoridad Catalana de Protección de Datos (APDCAT) ha aprobado la Circular 1/2026 sobre el tratamiento de datos personales mediante cámaras de videovigilancia, publicada en el DOGC el 19 de octubre de 2026, según Lawandtrends y la Federació de Municipis de Catalunya. Es de obligado cumplimiento en su ámbito (administraciones catalanas, entes locales, universidades, colegios profesionales y entidades privadas cuando ejercen funciones públicas) y sustituye a la Instrucción 1/2009, redactada bajo la antigua Ley Orgánica 15/1999, para adaptarse al RGPD, la Ley Orgánica 3/2018, la Ley Orgánica 7/2021, la reforma de la Ley de seguridad privada y el Reglamento de IA. Se aplica a cámaras fijas o móviles, incluidas las instaladas en vehículos, drones o indumentaria, y consta de 23 artículos en seis capítulos más un anexo con el diseño de los carteles informativos.\n\nLas obligaciones son concretas: suprimir las grabaciones en un mes como máximo, salvo que haya que conservarlas para acreditar infracciones, exigir responsabilidades o atender derechos, y ponerlas a disposición de las autoridades en 72 horas cuando proceda; redactar una memoria justificativa antes de poner en marcha el sistema, sustituida por una evaluación de impacto si el riesgo es alto; inscribirlo en el registro de actividades y formalizar los encargos con las empresas de seguridad. Los sistemas con reconocimiento facial u otras funciones de IA deberán respetar las garantías europeas de protección de datos y de IA. Para ayuntamientos, universidades, colegios profesionales y sus contratistas de seguridad, la entrada en vigor el 8 de noviembre de 2026 deja menos de tres semanas para revisar protocolos de acceso a las grabaciones y contratos; los carteles que cumplan la norma anterior pueden mantenerse hasta su sustitución ordinaria. Matiz: es una norma autonómica de ámbito subjetivo limitado y las policías locales siguen con su normativa específica.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.4,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Actualización vinculante de las reglas de videovigilancia pública con drones, cámaras corporales e IA en el radar.",
+      "sota:whyNow": "DOGC 19 oct 2026. NEW frente a 09-29→10-19.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "proteccion-datos",
+        "videovigilancia",
+        "sector-publico",
+        "drones",
+        "biometria"
+      ],
+      "sota:summaryP1": "La Autoridad Catalana de Protección de Datos (APDCAT) ha aprobado la Circular 1/2026 sobre el tratamiento de datos personales mediante cámaras de videovigilancia, publicada en el DOGC el 19 de octubre de 2026, según Lawandtrends y la Federació de Municipis de Catalunya. Es de obligado cumplimiento en su ámbito (administraciones catalanas, entes locales, universidades, colegios profesionales y entidades privadas cuando ejercen funciones públicas) y sustituye a la Instrucción 1/2009, redactada bajo la antigua Ley Orgánica 15/1999, para adaptarse al RGPD, la Ley Orgánica 3/2018, la Ley Orgánica 7/2021, la reforma de la Ley de seguridad privada y el Reglamento de IA. Se aplica a cámaras fijas o móviles, incluidas las instaladas en vehículos, drones o indumentaria, y consta de 23 artículos en seis capítulos más un anexo con el diseño de los carteles informativos.",
+      "sota:summaryP2": "Las obligaciones son concretas: suprimir las grabaciones en un mes como máximo, salvo que haya que conservarlas para acreditar infracciones, exigir responsabilidades o atender derechos, y ponerlas a disposición de las autoridades en 72 horas cuando proceda; redactar una memoria justificativa antes de poner en marcha el sistema, sustituida por una evaluación de impacto si el riesgo es alto; inscribirlo en el registro de actividades y formalizar los encargos con las empresas de seguridad. Los sistemas con reconocimiento facial u otras funciones de IA deberán respetar las garantías europeas de protección de datos y de IA. Para ayuntamientos, universidades, colegios profesionales y sus contratistas de seguridad, la entrada en vigor el 8 de noviembre de 2026 deja menos de tres semanas para revisar protocolos de acceso a las grabaciones y contratos; los carteles que cumplan la norma anterior pueden mantenerse hasta su sustitución ordinaria. Matiz: es una norma autonómica de ámbito subjetivo limitado y las policías locales siguen con su normativa específica.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawandtrends.com/noticias/tic/la-apdcat-aprueba-la-circular-1-2026-sobre-el-tratamiento-de-datos-personales-mediante-camaras-con-fines-de-1.html",
+          "schema:name": "La APDCAT aprueba la Circular 1/2026, sobre el tratamiento de datos personales mediante cámaras con fines de videovigilancia",
+          "sota:sourceId": "src-lawandtrends"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.fmc.cat/noticia_fitxa_sf.aspx?id=44909",
+          "schema:name": "L'Autoritat Catalana de Protecció de Dades actualitza la regulació dels sistemes de videovigilància",
+          "sota:sourceId": "src-federacio-municipis-catalunya"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-apdcat"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawandtrends"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-federacio-municipis-catalunya"
+        }
+      ]
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-3-geeks-and-a-law-blog",
       "@type": "schema:Thing",
       "schema:identifier": "ent-3-geeks-and-a-law-blog",
@@ -9500,6 +9990,15 @@
       "schema:name": "Anthropic",
       "sota:entityType": "company",
       "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-apdcat",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-apdcat",
+      "schema:name": "Autoritat Catalana de Protecció de Dades",
+      "sota:entityType": "regulator",
+      "schema:url": "https://apdcat.gencat.cat/",
       "sota:stub": true
     },
     {
@@ -9725,6 +10224,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-blue-j",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-blue-j",
+      "schema:name": "Blue J",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.bluej.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bluefield-nautadutilh",
       "@type": "schema:Thing",
       "schema:identifier": "ent-bluefield-nautadutilh",
@@ -9761,12 +10269,30 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-brak",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-brak",
+      "schema:name": "Bundesrechtsanwaltskammer",
+      "sota:entityType": "association",
+      "schema:url": "https://www.brak.de/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bryan-tsao",
       "@type": "schema:Thing",
       "schema:identifier": "ent-bryan-tsao",
       "schema:name": "Bryan Tsao",
       "sota:entityType": "person",
       "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bundesarbeitsgericht",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bundesarbeitsgericht",
+      "schema:name": "Bundesarbeitsgericht",
+      "sota:entityType": "court",
+      "schema:url": "https://www.bundesarbeitsgericht.de/",
       "sota:stub": true
     },
     {
@@ -9835,12 +10361,30 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cen-cenelec",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cen-cenelec",
+      "schema:name": "CEN y CENELEC",
+      "sota:entityType": "association",
+      "schema:url": "https://www.cencenelec.eu/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ch-beck",
       "@type": "schema:Thing",
       "schema:identifier": "ent-ch-beck",
       "schema:name": "C.H. Beck",
       "sota:entityType": "company",
       "schema:url": "https://www.beck.de/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-character-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-character-ai",
+      "schema:name": "Character.AI",
+      "sota:entityType": "company",
+      "schema:url": "https://character.ai/",
       "sota:stub": true
     },
     {
@@ -10051,6 +10595,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-disney",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-disney",
+      "schema:name": "The Walt Disney Company",
+      "sota:entityType": "company",
+      "schema:url": "https://thewaltdisneycompany.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-docket-navigator",
       "@type": "schema:Thing",
       "schema:identifier": "ent-docket-navigator",
@@ -10226,6 +10779,15 @@
       "schema:name": "Falcon",
       "sota:entityType": "law_firm",
       "schema:url": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-federacio-municipis-catalunya",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-federacio-municipis-catalunya",
+      "schema:name": "Federació de Municipis de Catalunya",
+      "sota:entityType": "association",
+      "schema:url": "https://www.fmc.cat/",
       "sota:stub": true
     },
     {
@@ -10823,6 +11385,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawandtrends",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawandtrends",
+      "schema:name": "Lawandtrends",
+      "sota:entityType": "media",
+      "schema:url": "https://www.lawandtrends.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawfront",
       "@type": "schema:Thing",
       "schema:identifier": "ent-lawfront",
@@ -10832,12 +11403,30 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawhive",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawhive",
+      "schema:name": "Lawhive",
+      "sota:entityType": "vendor",
+      "schema:url": "https://lawhive.co.uk/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawshift",
       "@type": "schema:Thing",
       "schema:identifier": "ent-lawshift",
       "schema:name": "LawSHIFT",
       "sota:entityType": "company",
       "schema:url": "https://www.lawnext.com/2026/09/lawshift-publishes-ai-for-pi-index-mini-book-examining-more-than-250000-ai-responses.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawtechuk",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawtechuk",
+      "schema:name": "LawtechUK",
+      "sota:entityType": "government",
+      "schema:url": "https://lawtechuk.io/",
       "sota:stub": true
     },
     {
@@ -10920,12 +11509,30 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-tribune-online",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-tribune-online",
+      "schema:name": "Legal Tribune Online",
+      "sota:entityType": "media",
+      "schema:url": "https://www.lto.de/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalitas",
       "@type": "schema:Thing",
       "schema:identifier": "ent-legalitas",
       "schema:name": "Legálitas",
       "sota:entityType": "company",
       "schema:url": "https://www.legalitas.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalon-technologies",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legalon-technologies",
+      "schema:name": "LegalOn Technologies",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.legalontech.com/",
       "sota:stub": true
     },
     {
@@ -11163,6 +11770,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-midpage",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-midpage",
+      "schema:name": "Midpage",
+      "sota:entityType": "vendor",
+      "schema:url": "https://midpage.ai/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-hacienda",
       "@type": "schema:Thing",
       "schema:identifier": "ent-ministerio-hacienda",
@@ -11375,6 +11991,15 @@
       "schema:name": "Opus 2",
       "sota:entityType": "vendor",
       "schema:url": "https://www.opus2.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-orbital",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-orbital",
+      "schema:name": "Orbital",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.orbital.tech/",
       "sota:stub": true
     },
     {
@@ -11954,6 +12579,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uswitch",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-uswitch",
+      "schema:name": "Uswitch",
+      "sota:entityType": "company",
+      "schema:url": "https://www.uswitch.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-varonis",
       "@type": "schema:Thing",
       "schema:identifier": "ent-varonis",
@@ -11987,6 +12621,15 @@
       "schema:name": "Wilson Sonsini Goodrich & Rosati",
       "sota:entityType": "law_firm",
       "schema:url": "https://www.wsgr.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wired",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-wired",
+      "schema:name": "WIRED",
+      "sota:entityType": "media",
+      "schema:url": "https://www.wired.com/",
       "sota:stub": true
     },
     {

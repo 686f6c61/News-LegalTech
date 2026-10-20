@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-20-uswitch-encuesta-ia-en-lugar-de-abogado",
+  "date": "2026-10-20",
+  "type": "research",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "Cuatro de cada diez británicos preguntarían a la IA antes que a un solicitor, aunque casi uno de cada cuatro usuarios recibió consejos erróneos con consecuencias",
+  "short_title": "El 39% de los británicos preguntaría a la IA antes que a un abogado",
+  "standfirst": "Encuesta de Uswitch a 2.000 personas: rapidez, disponibilidad y precio pesan más que el riesgo; el 40% de la generación Z ya ha decidido algo solo con un chatbot.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Acceso a la justicia",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "Una encuesta del comparador Uswitch a 2.000 personas, recogida por Legal Futures (20 de octubre de 2026), concluye que el 39% de los adultos británicos se plantearía preguntar a la IA en lugar de a un solicitor ante una cuestión jurídica. Los motivos: es más rápido que esperar una cita (43%), está disponible a cualquier hora (42%) y es gratis o más barato (41%); el 29% cree que la respuesta se verifica fácilmente, el 21% no quiere sentirse juzgado y el 18% no confía en que los profesionales defiendan siempre su interés. A la vez, casi una cuarta parte de quienes han pedido consejo a la IA en general recibió orientación errónea que les causó un problema real, desde pérdidas económicas hasta sustos de salud.",
+  "summary_p2": "El 18% ha tomado una decisión personal basándose solo en un chatbot, sin segunda opinión, cifra que sube al 40% en la generación Z, y casi la mitad de quienes usan IA para consejos personales confía en ella tanto o más que en un amigo o familiar. Para despachos de consumo y pequeñas firmas, el cliente llegará cada vez más con una respuesta previa de la IA que habrá que contrastar y, a menudo, corregir; para vendors de IA para consumidores, el dato confirma la demanda pero también la exposición reputacional cuando el consejo falla. Max Beckett, de Uswitch, distingue entre encontrar información y recibir asesoramiento adaptado al caso, y advierte de que los chatbots responden con una seguridad tranquilizadora aunque la información de base sea inexacta. Matiz: es una encuesta de un comparador comercial y la nota no publica ficha técnica.",
+  "why_sota": "Mide la sustitución percibida del abogado por la IA generalista en el consumidor.",
+  "why_now": "Legal Futures, 20 oct 2026. NEW frente a 09-29→10-19.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "consumidores",
+    "ia-generalista",
+    "acceso-justicia",
+    "encuesta",
+    "riesgos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/many-consumers-willing-to-ask-ai-instead-of-a-solicitor",
+      "cited_title": "Many consumers willing to ask AI instead of a solicitor",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-uswitch",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

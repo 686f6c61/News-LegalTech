@@ -1,0 +1,11 @@
+id: ent-legalon-technologies
+name: LegalOn Technologies
+type: vendor
+url: https://www.legalontech.com/
+geo:
+- JP
+- US
+aliases:
+- LegalOn
+notes: Proveedor japonés de IA jurídica; Agent Builder en beta (oct 2026). Ficha mínima.
+stub: true

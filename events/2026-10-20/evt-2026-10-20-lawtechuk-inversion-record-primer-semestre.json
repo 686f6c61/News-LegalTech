@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-10-20-lawtechuk-inversion-record-primer-semestre",
+  "date": "2026-10-20",
+  "type": "funding",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "La inversión en lawtech británico bate récord con 227 millones de libras en seis meses, pero más concentrada: tres empresas se llevan el 69%",
+  "short_title": "Lawtech británico: inversión récord de 227 millones, pero concentrada",
+  "standfirst": "LawtechUK prevé superar los 400 millones en 2026; hay menos rondas pero más grandes, y los inversores prefieren mejorar flujos existentes antes que sustituirlos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Inversión",
+  "country": "Reino Unido",
+  "piece_type": "Inversión",
+  "summary_p1": "La inversión en empresas británicas de tecnología jurídica alcanzó un récord de 227 millones de libras en el primer semestre de 2026, un 20% más que en todo 2025, según el Investment Snapshot de LawtechUK recogido por Legal Futures (20 de octubre). Si el ritmo se mantiene, el año superará los 400 millones. Pero el dinero se concentra: las empresas financiadas bajan de 27 a 17 frente al primer semestre de 2025, el tamaño medio de la operación sube de 4,3 a 13,4 millones, y Orbital, Lawhive y Wordsmith AI suman unos 156 millones, el 69% del total, mientras las otras 14 se reparten unos 71. La financiación de fase avanzada supera los 160 millones.",
+  "summary_p2": "Para fundadores y fondos, el informe habla de un mercado que madura, con rondas más grandes, más inversión de seguimiento y confianza en los líderes, pero también de inversores que siguen apostando por \"tecnologías que mejoran los flujos de trabajo jurídicos existentes en lugar de sustituirlos\", con una distancia clara entre lo que construyen los fundadores y lo que financian. Cambia el mapa: la tecnología para consumidores sube al 28% de la financiación (8% en 2024), conveyancing e inmobiliario pasa de 12 millones en 2024 a más de 60, las plataformas de conocimiento casi cuadruplican su financiación y documentos y contratos caen al 47% desde el 67% de 2024. Escocia capta el 23% (2,7% en 2024) frente al 59% de Londres. Para despachos medianos, la concentración significa proveedores de referencia con más músculo y más poder de precio. Matiz: son cifras de LawtechUK, programa apoyado por el Gobierno; la proyección de 400 millones supone que el segundo semestre repita el primero.",
+  "why_sota": "Termómetro semestral de la inversión lawtech en el mayor mercado europeo.",
+  "why_now": "Legal Futures, 20 oct 2026 (LawtechUK Investment Snapshot). NEW frente a 09-29→10-19.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "inversion",
+    "lawtech",
+    "concentracion",
+    "consumo",
+    "conveyancing"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/uk-legal-tech-investment-on-track-to-exceed-400m-in-2026",
+      "cited_title": "UK legal tech investment on track to exceed £400m in 2026",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-lawtechuk",
+    "ent-legal-futures",
+    "ent-orbital",
+    "ent-lawhive",
+    "ent-wordsmith"
+  ],
+  "lang": "es",
+  "status": "published"
+}

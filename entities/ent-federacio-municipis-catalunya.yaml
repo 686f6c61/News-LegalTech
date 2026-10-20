@@ -1,0 +1,10 @@
+id: ent-federacio-municipis-catalunya
+name: Federació de Municipis de Catalunya
+type: association
+url: https://www.fmc.cat/
+geo:
+- ES
+aliases:
+- FMC
+notes: Asociación de municipios catalanes. Ficha mínima.
+stub: true

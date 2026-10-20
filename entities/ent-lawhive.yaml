@@ -1,0 +1,9 @@
+id: ent-lawhive
+name: Lawhive
+type: vendor
+url: https://lawhive.co.uk/
+geo:
+- GB
+aliases: []
+notes: Plataforma británica de servicios jurídicos para consumidores. Ficha mínima.
+stub: true

@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-20-legalon-agent-builder-beta-juridico-interno",
+  "date": "2026-10-19",
+  "type": "product",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "LegalOn abre en beta Agent Builder: agentes que ejecutan solos tareas del departamento jurídico cuando se cumple una condición en el gestor de asuntos",
+  "short_title": "LegalOn estrena en beta agentes para automatizar el jurídico interno",
+  "standfirst": "Primero, consultas y asignación de asuntos; después, primera revisión de contratos. El administrador limita qué consulta la IA y qué no puede hacer.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Agentes de IA",
+  "country": "Japón",
+  "piece_type": "Producto",
+  "summary_p1": "LegalOn Technologies, la empresa japonesa de IA jurídica, empezó el 19 de octubre de 2026 a ofrecer en beta Agent Builder, una función de automatización de tareas con patente solicitada dentro de su plataforma LegalOn. Un agente de IA especializado en derecho ejecuta en cadena varias tareas rutinarias cuando se cumple una condición definida por el equipo jurídico, sin nuevas instrucciones ni pasos manuales. En esta primera fase, los disparadores son hechos del gestor de asuntos, como la creación de un asunto o el cambio de estado o de responsable, y las tareas cubiertas son consultas jurídicas y asignación de asuntos; la compañía prevé ampliarlo a la primera revisión automática de contratos. Según LegalOn, se configura en un mínimo de cinco clics y su equipo de abogados ofrecerá flujos prediseñados que cada cliente podrá adaptar.",
+  "summary_p2": "El anuncio se apoya en una encuesta propia de marzo: entre quienes ya usan agentes de IA en el área legal, el 52,0% les confía partes de un proceso y solo el 23,4% procesos completos, y más del 80% quiere ampliar lo que delega. Para direcciones jurídicas, el valor está en el control: se puede limitar qué consulta la IA (el conocimiento propio y, si se quiere, la búsqueda web) y bloquear acciones como enviar correos al solicitante, que es el tipo de gobierno que pedirán auditoría y protección de datos antes de dejar que un agente actúe por su cuenta. Para competidores como Harvey y Legora, que la semana pasada lanzaron sus propios productos de intake para el jurídico interno, confirma que la siguiente frontera es la orquestación de flujos y no el chat. Matiz: es un comunicado del proveedor publicado en su web japonesa, sobre una función en beta; no hay datos de clientes ni de resultados.",
+  "why_sota": "Paso del asistente conversacional a agentes disparados por eventos en la gestión de asuntos del jurídico interno.",
+  "why_now": "Comunicado LegalOn, 19 oct 2026. NEW frente a 09-29→10-19.",
+  "geo": [
+    "JP"
+  ],
+  "topics": [
+    "agentes-ia",
+    "in-house",
+    "automatizacion",
+    "gestion-de-asuntos",
+    "gobernanza"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legalon-technologies",
+      "url": "https://www.legalontech.com/jp/news/310",
+      "cited_title": "「LegalOn」、法務の業務を自動化する新機能「エージェントビルダー」β版を提供開始",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-legalon-technologies",
+    "ent-harvey",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

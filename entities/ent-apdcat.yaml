@@ -1,0 +1,12 @@
+id: ent-apdcat
+name: Autoritat Catalana de Protecció de Dades
+type: regulator
+url: https://apdcat.gencat.cat/
+geo:
+- ES
+aliases:
+- APDCAT
+- Autoridad Catalana de Protección de Datos
+notes: Autoridad de protección de datos de Cataluña; Circular 1/2026 de videovigilancia.
+  Ficha mínima.
+stub: true

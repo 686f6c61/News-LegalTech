@@ -1,0 +1,13 @@
+id: ent-cen-cenelec
+name: CEN y CENELEC
+type: association
+url: https://www.cencenelec.eu/
+geo:
+- EU
+aliases:
+- CEN
+- CENELEC
+- CEN-CENELEC
+notes: Organismos europeos de normalización; autores de la EN 18286:2026, primera
+  norma armonizada del Reglamento de IA (oct 2026). Ficha mínima.
+stub: true

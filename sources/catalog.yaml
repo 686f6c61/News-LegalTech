@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 156
+count: 158
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1736,4 +1736,26 @@ sources:
     URLs de lawgazette.co.uk.
   region: UK
   lang: EN
+  tier: archive
+- id: src-legalon-technologies
+  name: LegalOn Technologies (noticias)
+  url: https://www.legalontech.com/jp/news
+  type: vendor
+  kind: news
+  frequency: continuo
+  why: Proveedor japonés de IA jurídica. Ficha añadida para citar comunicados de
+    legalontech.com.
+  region: JP
+  lang: JA
+  tier: archive
+- id: src-federacio-municipis-catalunya
+  name: Federació de Municipis de Catalunya
+  url: https://www.fmc.cat/
+  type: other
+  kind: news
+  frequency: continuo
+  why: Asociación de municipios catalanes con fichas de novedades normativas. Ficha
+    añadida para citar URLs de fmc.cat.
+  region: ES
+  lang: CA
   tier: archive

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-20-tirant-estudio-ia-abogacia-espanola-generalista",
+  "date": "2026-10-20",
+  "type": "research",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Un estudio impulsado por Grupo Tirant sobre 760 abogados españoles: el 78,4% usa IA, sobre todo generalista, pero las IA jurídicas puntúan mejor en rigor, fuentes y privacidad",
+  "short_title": "Tirant: el 78,4% de la abogacía usa IA, sobre todo la generalista",
+  "standfirst": "Solo el 10,1% dice que la IA sustituye a veces por completo su base de datos jurídica; entre los mayores de 55 años, el 36% no usa ninguna.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "España",
+  "piece_type": "Mercado",
+  "summary_p1": "El Estudio de posicionamiento de Tirant Prime en el mercado jurídico profesional 2026, impulsado por Grupo Tirant y realizado por Coto Consulting con la colaboración de la Universitat de València sobre una muestra de 760 abogados ejercientes en España, concluye que el 78,4% usa algún tipo de IA en su trabajo, según Confilegal (20 de octubre de 2026). Las herramientas generalistas dominan (67,9%), frente al 26,3% que usa IA integrada en plataformas jurídicas y el 13,7% que recurre a IA jurídica independiente. La edad marca la diferencia: entre los menores de 35 años solo el 9,5% no usa ninguna IA, frente al 36% de los de 55 o más, y las IA integradas en plataformas pesan más entre los mayores (32,8% frente a 20,9%).",
+  "summary_p2": "El dato que más interesa a editoriales y bases de datos es el de sustitución: entre los usuarios de IA, el 43,3% no ha reducido sus consultas a plataformas jurídicas, el 29,7% las ha reducido algo, el 16,9% bastante y solo el 10,1% dice que la IA llega a veces a sustituirlas por completo. La IA cambia hábitos más que desplaza la herramienta especializada, y según el estudio las IA jurídicas puntúan mejor en rigor, fuentes, actualización y privacidad aunque se usen mucho menos. Para despachos, la distancia entre el uso masivo de herramientas generalistas y la mejor valoración de las jurídicas es un riesgo de calidad y confidencialidad que conviene cerrar con política interna y formación. Matiz: el estudio lo promueve un proveedor, que destaca las notas de su propia IA, SOFIA (8,28 sobre 10 en privacidad entre quienes la usan como herramienta principal); los porcentajes por tipo suman más del 78,4% porque se puede usar más de una herramienta.",
+  "why_sota": "Dato de adopción de IA en la abogacía española con muestra amplia y desglose por tipo de herramienta y edad.",
+  "why_now": "Confilegal, 20 oct 2026. NEW frente a 09-29→10-19.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "adopcion-ia",
+    "abogacia",
+    "encuesta",
+    "ia-generalista",
+    "bases-de-datos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261020-ia-generalista-juridica-abogados-estudio-tirant-2026/",
+      "cited_title": "Ocho de cada diez abogados ya utilizan Inteligencia Artificial, según un estudio impulsado por el Grupo Tirant",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-tirant",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

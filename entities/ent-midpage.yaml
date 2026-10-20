@@ -1,0 +1,10 @@
+id: ent-midpage
+name: Midpage
+type: vendor
+url: https://midpage.ai/
+geo:
+- US
+aliases: []
+notes: Plataforma de investigación jurídica de EE. UU.; conectores con Claude, ChatGPT
+  y Harvey (oct 2026). Ficha mínima.
+stub: true

@@ -1,0 +1,9 @@
+id: ent-orbital
+name: Orbital
+type: vendor
+url: https://www.orbital.tech/
+geo:
+- GB
+aliases: []
+notes: Lawtech británica de inmobiliario. Ficha mínima.
+stub: true

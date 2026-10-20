@@ -1,0 +1,12 @@
+id: ent-blue-j
+name: Blue J
+type: vendor
+url: https://www.bluej.com/
+geo:
+- CA
+- US
+aliases:
+- Blue J Legal
+notes: Herramienta de investigación fiscal con IA; integración MCP con Legora (oct
+  2026). Ficha mínima.
+stub: true

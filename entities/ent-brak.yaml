@@ -1,0 +1,11 @@
+id: ent-brak
+name: Bundesrechtsanwaltskammer
+type: association
+url: https://www.brak.de/
+geo:
+- DE
+aliases:
+- BRAK
+notes: Colegio federal de la abogacía alemana; indicaciones sobre uso de IA (dic 2024).
+  Ficha mínima.
+stub: true

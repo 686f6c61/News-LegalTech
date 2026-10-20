@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-20-en-18286-primera-norma-armonizada-ai-act-calidad",
+  "date": "2026-10-19",
+  "type": "standards",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "La Comisión publica en el Diario Oficial la primera norma armonizada del Reglamento de IA: la EN 18286 da presunción de conformidad al sistema de gestión de calidad del artículo 17",
+  "short_title": "Primera norma armonizada del AI Act: EN 18286, gestión de calidad",
+  "standfirst": "Elaborada por CEN y CENELEC, se monta sobre ISO/IEC 42001 o ISO 9001 en lugar de sustituirlas y abre la serie de normas que llegará antes de las obligaciones de alto riesgo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "Unión Europea",
+  "piece_type": "Regulación",
+  "summary_p1": "La Comisión Europea publicó el 19 de octubre de 2026 en el Diario Oficial de la UE la referencia de la primera norma armonizada de apoyo al Reglamento de IA: la EN 18286:2026, \"Artificial intelligence - Quality management system for EU AI Act regulatory purposes\", elaborada por los organismos europeos de normalización CEN y CENELEC. Con la Decisión de Ejecución (UE) 2026/2274, los proveedores de sistemas de IA de alto riesgo que apliquen la norma disfrutan de presunción de conformidad con los requisitos del artículo 17 (sistema de gestión de la calidad) que la norma cubre. Según la Comisión, es la única norma de gestión de calidad para IA con esa presunción, está organizada en torno al ciclo de vida del sistema y no de la organización, y está pensada para superponerse a ISO/IEC 42001, ISO 9001 o normas sectoriales como ISO 13485, no para sustituirlas.",
+  "summary_p2": "Para in-house y asesores de proveedores de IA de alto riesgo, la norma convierte un artículo abstracto en un sistema auditable: quien ya tenga ISO/IEC 42001 o un sistema sectorial puede ampliarlo, y quien no lo tenga puede construir el suyo sobre EN 18286 sin duplicar estructuras, algo que la Comisión admite expresamente en sectores regulados. Para despachos y consultoras abre trabajo de análisis de brechas y de revisión contractual, porque los compradores empezarán a pedir conformidad con EN 18286 como garantía. La Comisión anuncia más normas armonizadas antes de que se apliquen los requisitos de alto riesgo; Confilegal, a partir de un informe de Softtek, sitúa las principales obligaciones para sistemas de alto riesgo como los de apoyo a la justicia en el 2 de diciembre de 2027, tras el cambio de calendario aprobado en julio de 2026. Matiz: aplicar la norma es voluntario y la presunción solo alcanza a los requisitos del artículo 17 que la norma recoge.",
+  "why_sota": "Primera vía técnica con presunción legal de conformidad bajo el Reglamento de IA.",
+  "why_now": "DOUE y Comisión, 19 oct 2026. NEW frente a 09-29→10-19.",
+  "geo": [
+    "EU"
+  ],
+  "topics": [
+    "ai-act",
+    "normalizacion",
+    "gestion-calidad",
+    "alto-riesgo",
+    "cumplimiento"
+  ],
+  "sources": [
+    {
+      "source_id": "src-comision-europea-ai-act-digital-strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "cited_title": "First harmonised standard supporting the AI Act published in the Official Journal",
+      "accessed": "2026-10-20"
+    },
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261019-softtek-apuesta-por-una-ia-mas-transparente-comprensible-y-supervisada-en-la-justicia/",
+      "cited_title": "Softtek apuesta por una IA más transparente, comprensible y supervisada en la Justicia",
+      "accessed": "2026-10-20"
+    }
+  ],
+  "entities": [
+    "ent-comision-europea",
+    "ent-cen-cenelec",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

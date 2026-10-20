@@ -1,0 +1,10 @@
+id: ent-legal-tribune-online
+name: Legal Tribune Online
+type: media
+url: https://www.lto.de/
+geo:
+- DE
+aliases:
+- LTO
+notes: Medio jurídico alemán. Ficha mínima.
+stub: true

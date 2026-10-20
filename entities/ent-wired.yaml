@@ -1,0 +1,9 @@
+id: ent-wired
+name: WIRED
+type: media
+url: https://www.wired.com/
+geo:
+- US
+aliases: []
+notes: Revista de tecnología. Ficha mínima.
+stub: true

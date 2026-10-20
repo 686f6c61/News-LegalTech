@@ -1,0 +1,11 @@
+id: ent-disney
+name: The Walt Disney Company
+type: company
+url: https://thewaltdisneycompany.com/
+geo:
+- US
+aliases:
+- Disney
+notes: Grupo de entretenimiento; contrató a la mayoría de la plantilla de Character.AI
+  y aspira a licenciar su tecnología (oct 2026). Ficha mínima.
+stub: true

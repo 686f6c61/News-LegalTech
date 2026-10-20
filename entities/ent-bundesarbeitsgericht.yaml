@@ -1,0 +1,12 @@
+id: ent-bundesarbeitsgericht
+name: Bundesarbeitsgericht
+type: court
+url: https://www.bundesarbeitsgericht.de/
+geo:
+- DE
+aliases:
+- BAG
+- Tribunal Federal de Trabajo
+notes: Tribunal Federal de Trabajo de Alemania; auto 2 AZN 339/26 sobre citas inexistentes
+  (sep 2026). Ficha mínima.
+stub: true

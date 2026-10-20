@@ -1,0 +1,10 @@
+id: ent-lawtechuk
+name: LawtechUK
+type: government
+url: https://lawtechuk.io/
+geo:
+- GB
+aliases: []
+notes: Programa apoyado por el Ministry of Justice para el ecosistema lawtech británico;
+  Investment Snapshot (oct 2026). Ficha mínima.
+stub: true

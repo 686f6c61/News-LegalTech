@@ -3152,3 +3152,184 @@ entities:
   aliases: []
   notes: Medio de información política. Ficha mínima.
   stub: true
+- id: ent-cen-cenelec
+  name: CEN y CENELEC
+  type: association
+  url: https://www.cencenelec.eu/
+  geo:
+  - EU
+  aliases:
+  - CEN
+  - CENELEC
+  - CEN-CENELEC
+  notes: Organismos europeos de normalización; autores de la EN 18286:2026, primera
+    norma armonizada del Reglamento de IA (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-bundesarbeitsgericht
+  name: Bundesarbeitsgericht
+  type: court
+  url: https://www.bundesarbeitsgericht.de/
+  geo:
+  - DE
+  aliases:
+  - BAG
+  - Tribunal Federal de Trabajo
+  notes: Tribunal Federal de Trabajo de Alemania; auto 2 AZN 339/26 sobre citas inexistentes
+    (sep 2026). Ficha mínima.
+  stub: true
+- id: ent-legal-tribune-online
+  name: Legal Tribune Online
+  type: media
+  url: https://www.lto.de/
+  geo:
+  - DE
+  aliases:
+  - LTO
+  notes: Medio jurídico alemán. Ficha mínima.
+  stub: true
+- id: ent-brak
+  name: Bundesrechtsanwaltskammer
+  type: association
+  url: https://www.brak.de/
+  geo:
+  - DE
+  aliases:
+  - BRAK
+  notes: Colegio federal de la abogacía alemana; indicaciones sobre uso de IA (dic
+    2024). Ficha mínima.
+  stub: true
+- id: ent-character-ai
+  name: Character.AI
+  type: company
+  url: https://character.ai/
+  geo:
+  - US
+  aliases:
+  - Character.ai
+  - Character Technologies
+  notes: Plataforma de chatbots de compañía; Chapter 11 el 12 oct 2026 en el marco
+    de un acuerdo con Disney. Ficha mínima.
+  stub: true
+- id: ent-disney
+  name: The Walt Disney Company
+  type: company
+  url: https://thewaltdisneycompany.com/
+  geo:
+  - US
+  aliases:
+  - Disney
+  notes: Grupo de entretenimiento; contrató a la mayoría de la plantilla de Character.AI
+    y aspira a licenciar su tecnología (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-wired
+  name: WIRED
+  type: media
+  url: https://www.wired.com/
+  geo:
+  - US
+  aliases: []
+  notes: Revista de tecnología. Ficha mínima.
+  stub: true
+- id: ent-midpage
+  name: Midpage
+  type: vendor
+  url: https://midpage.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Plataforma de investigación jurídica de EE. UU.; conectores con Claude, ChatGPT
+    y Harvey (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-blue-j
+  name: Blue J
+  type: vendor
+  url: https://www.bluej.com/
+  geo:
+  - CA
+  - US
+  aliases:
+  - Blue J Legal
+  notes: Herramienta de investigación fiscal con IA; integración MCP con Legora (oct
+    2026). Ficha mínima.
+  stub: true
+- id: ent-legalon-technologies
+  name: LegalOn Technologies
+  type: vendor
+  url: https://www.legalontech.com/
+  geo:
+  - JP
+  - US
+  aliases:
+  - LegalOn
+  notes: Proveedor japonés de IA jurídica; Agent Builder en beta (oct 2026). Ficha
+    mínima.
+  stub: true
+- id: ent-lawtechuk
+  name: LawtechUK
+  type: government
+  url: https://lawtechuk.io/
+  geo:
+  - GB
+  aliases: []
+  notes: Programa apoyado por el Ministry of Justice para el ecosistema lawtech británico;
+    Investment Snapshot (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-orbital
+  name: Orbital
+  type: vendor
+  url: https://www.orbital.tech/
+  geo:
+  - GB
+  aliases: []
+  notes: Lawtech británica de inmobiliario. Ficha mínima.
+  stub: true
+- id: ent-lawhive
+  name: Lawhive
+  type: vendor
+  url: https://lawhive.co.uk/
+  geo:
+  - GB
+  aliases: []
+  notes: Plataforma británica de servicios jurídicos para consumidores. Ficha mínima.
+  stub: true
+- id: ent-uswitch
+  name: Uswitch
+  type: company
+  url: https://www.uswitch.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Comparador británico; encuesta sobre uso de IA en lugar de un solicitor (oct
+    2026). Ficha mínima.
+  stub: true
+- id: ent-apdcat
+  name: Autoritat Catalana de Protecció de Dades
+  type: regulator
+  url: https://apdcat.gencat.cat/
+  geo:
+  - ES
+  aliases:
+  - APDCAT
+  - Autoridad Catalana de Protección de Datos
+  notes: Autoridad de protección de datos de Cataluña; Circular 1/2026 de videovigilancia.
+    Ficha mínima.
+  stub: true
+- id: ent-federacio-municipis-catalunya
+  name: Federació de Municipis de Catalunya
+  type: association
+  url: https://www.fmc.cat/
+  geo:
+  - ES
+  aliases:
+  - FMC
+  notes: Asociación de municipios catalanes. Ficha mínima.
+  stub: true
+- id: ent-lawandtrends
+  name: Lawandtrends
+  type: media
+  url: https://www.lawandtrends.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Medio jurídico español. Ficha mínima.
+  stub: true
