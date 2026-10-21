@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-21-moonlit-commentaries-gratuitos-mcp",
+  "date": "2026-10-20",
+  "type": "product",
+  "sota_score": 6.4,
+  "ai_legaltech": true,
+  "title": "La editorial neerlandesa Moonlit publica gratis comentarios jurídicos redactados con IA desde las fuentes primarias y revisados por expertos, también accesibles desde Claude, ChatGPT y Copilot",
+  "short_title": "Moonlit regala comentarios jurídicos hechos con IA y revisados",
+  "standfirst": "Empieza por la fiscalidad indirecta de la UE, artículo por artículo, con cada afirmación enlazada a su fuente y una fecha de referencia del estado del derecho.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación jurídica",
+  "country": "Países Bajos",
+  "piece_type": "Producto",
+  "summary_p1": "Moonlit, editorial jurídica neerlandesa, ha lanzado Commentaries, una biblioteca gratuita de comentarios jurídicos redactados directamente desde las fuentes primarias con su IA propia y revisados y validados por expertos, según Artificial Lawyer (20 de octubre de 2026). El lanzamiento se centra en la fiscalidad indirecta, armonizada en gran parte a escala de la UE pero interpretada de forma distinta en cada Estado, y recorre artículo por artículo las disposiciones más usadas, conectando la legislación y la jurisprudencia de los Estados miembros que interpretan una misma norma. Cada afirmación enlaza con la disposición que interpreta y con la fuente en que se apoya, como EUR-Lex; editores académicos y autores profesionales remunerados revisan cada borrador, con distintivos que muestran qué pasajes ha validado un experto, y cada comentario lleva una fecha de referencia. Moonlit lo llevará también a su API de datos y a su conector MCP, para que aparezca dentro de Copilot, ChatGPT y Claude.",
+  "summary_p2": "Moonlit afirma que su capa de datos se actualiza a diario y avisa a los editores de nuevas resoluciones para revisar el comentario y su fecha, frente a series comerciales que se revisan una o dos veces al año. Su consejero delegado, Roderick Lucas, plantea un argumento de política pública: buena parte de la doctrina la escriben académicos de universidades públicas que luego tienen que pagar para leerla, «se paga dos veces». Para asesores fiscales y despachos con práctica de IVA europeo, es una fuente gratuita y trazable que conviene evaluar con la misma cautela que cualquier doctrina; para las grandes editoriales jurídicas, es otra presión, junto a los conectores MCP de Harvey y Legora y las alianzas de los grandes modelos con proveedores de jurisprudencia, sobre un segmento que parecía estable. Para in-house, la clave es que la doctrina revisada llegue al asistente generalista que ya usan. Matiz: la información procede del anuncio del proveedor recogido por Artificial Lawyer; no hay datos de cobertura, número de comentarios ni de revisores.",
+  "why_sota": "Doctrina generada con IA, revisada por expertos y gratuita, servida por MCP dentro de los asistentes generalistas.",
+  "why_now": "Artificial Lawyer, 20 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "NL",
+    "EU"
+  ],
+  "topics": [
+    "investigacion-juridica",
+    "doctrina",
+    "mcp",
+    "fiscalidad-indirecta",
+    "editoriales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/20/more-legal-research-moves-as-moonlit-launches-free-commentaries/",
+      "cited_title": "More Legal Research Moves as Moonlit Launches Free Commentaries",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-moonlit",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

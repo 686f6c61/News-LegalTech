@@ -1,0 +1,51 @@
+{
+  "id": "evt-2026-10-21-nyc-dcwp-norma-chatbots-atencion-cliente",
+  "date": "2026-10-20",
+  "type": "regulation",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Nueva York propone la primera norma municipal contra los «doom loops» de los chatbots de atención al cliente: acceso a una persona y responsabilidad por lo que diga la IA",
+  "short_title": "Nueva York propone regular los chatbots de atención al cliente",
+  "standfirst": "La autoridad de consumo de la ciudad tratará como práctica engañosa prometer atención y responder con información irrelevante o errónea; las multas empiezan en 525 dólares.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "EE. UU.",
+  "piece_type": "Regulación",
+  "summary_p1": "El Department of Consumer and Worker Protection (DCWP) de Nueva York publicó el 20 de octubre de 2026 en el City Record una propuesta de norma sobre sistemas automatizados de atención al cliente, incluidos chatbots de IA y respuesta de voz telefónica. La norma obligaría a las empresas a dar una atención razonable y a tiempo y a ofrecer un acceso sencillo a una persona cuando el sistema no resuelva. Calificaría como práctica engañosa y abusiva insinuar que hay atención al cliente para luego no atender de forma repetida e injustificada o responder solo con información irrelevante o errónea, y aclara que nadie puede eludir su responsabilidad alegando que la tecnología causó el incumplimiento. Los infractores responderían con restitución a los consumidores y multas desde 525 dólares; hay 30 días de comentarios y audiencia pública el 19 de noviembre. Según el DCWP, Nueva York sería el primer municipio de EE. UU. con capacidad para aplicar este tipo de protección.",
+  "summary_p2": "Para in-house de empresas que atienden a consumidores en la ciudad, la propuesta convierte el diseño del flujo de atención en riesgo de cumplimiento: habrá que documentar cuándo y cómo se deriva a una persona y revisar qué promete la empresa sobre su servicio. Lo más relevante para la litigación es el principio de que la empresa responde de lo que diga su chatbot, en línea con la declaración conjunta de septiembre del propio DCWP sobre representaciones hechas por chatbots y sistemas agénticos. Para vendors de IA conversacional, los contratos con clientes tenderán a pedir trazabilidad de respuestas y escalado garantizado. El comisionado Samuel Levine lo presenta como una respuesta local ante la inacción federal («no vamos a esperar a que Washington venga al rescate»), y el DCWP cita un informe de Gartner según el cual los chatbots resuelven entre el 17% de las disputas de facturación y el 58% de devoluciones o cancelaciones. Matiz: es una propuesta en trámite de comentarios y su texto final puede cambiar.",
+  "why_sota": "Primera norma municipal de EE. UU. que imputa al negocio la responsabilidad por la atención automatizada con IA.",
+  "why_now": "DCWP, City Record, 20 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "chatbots",
+    "consumo",
+    "responsabilidad-ia",
+    "atencion-al-cliente",
+    "regulacion-local"
+  ],
+  "sources": [
+    {
+      "source_id": "src-nyc-dcwp",
+      "url": "https://www.nyc.gov/site/dca/news/072-26/mamdani-administration-proposes-ban-ai-customer-service-doom-loops",
+      "cited_title": "Mamdani Administration Proposes Ban on AI Customer Service Doom Loops",
+      "accessed": "2026-10-21"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/newyorklawjournal/2026/10/20/nyc-proposes-first-of-its-kind-automated-customer-service-chatbot-regulation/",
+      "cited_title": "NYC Proposes First-of-Its-Kind Automated Customer Service Chatbot Regulation",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-nyc-dcwp",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

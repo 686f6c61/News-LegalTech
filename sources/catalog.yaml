@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 158
+count: 159
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1758,4 +1758,15 @@ sources:
     añadida para citar URLs de fmc.cat.
   region: ES
   lang: CA
+  tier: archive
+- id: src-nyc-dcwp
+  name: NYC Department of Consumer and Worker Protection
+  url: https://www.nyc.gov/site/dca/
+  type: regulator
+  kind: news
+  frequency: continuo
+  why: Autoridad municipal de consumo de Nueva York. Ficha añadida para citar notas
+    de prensa de nyc.gov.
+  region: US
+  lang: EN
   tier: archive

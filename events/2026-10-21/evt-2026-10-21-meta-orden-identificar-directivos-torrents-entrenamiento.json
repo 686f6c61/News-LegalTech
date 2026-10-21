@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-21-meta-orden-identificar-directivos-torrents-entrenamiento",
+  "date": "2026-10-20",
+  "type": "litigation",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Un juez ordena a Meta identificar a quién autorizó descargar por torrent bibliotecas pirata para entrenar sus modelos, frente a su tesis de que «nadie decidió» nada",
+  "short_title": "Meta deberá nombrar a quién aprobó los torrents para entrenar IA",
+  "standfirst": "La orden de discovery en las demandas de autores y de Entrepreneur Media alcanza a todos los que tomaron, autorizaron o aprobaron la decisión, y a qué pasó con las obras no usadas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Propiedad intelectual",
+  "country": "EE. UU.",
+  "piece_type": "Mercado",
+  "summary_p1": "El juez federal Thomas Hixon (magistrate judge) ha ordenado a Meta que identifique a quienes tomaron, autorizaron o aprobaron la decisión de obtener o descargar bibliotecas pirata como LibGen y Anna's Archive para entrenar sus modelos, según Ars Technica (20 de octubre de 2026), que se apoya en TorrentFreak. La orden de discovery afecta a la demanda colectiva de autores encabezada por Richard Kadrey y Sarah Silverman y a la de la editorial Entrepreneur Media. Meta sostenía que los primeros conjuntos de datos para Llama 1 y 2 se reunieron con un «enfoque informal» en el que nadie con autoridad decidió nada, que la decisión solo existió en el sentido de que algunos empleados descargaron técnicamente los torrents y que las aprobaciones surgieron de conversaciones colaborativas sin un único responsable. Hixon contestó que la petición no se limitaba a decisiones formales ni presumía un único decisor: pregunta por todos.",
+  "summary_p2": "La orden también obliga a Meta a explicar qué pasó con las obras pirateadas que no se usaron para entrenar. Los demandantes sostienen que Meta indujo la infracción al descargar y redistribuir obras, porque el torrent depende de compartir, y que no habría podido bajar 80,6 terabytes de LibGen ni 35,7 de Anna's Archive tan rápido sin hacer de semilla; Meta alega que aplicó medidas para evitarlo. Hay mensajes internos en los que empleados se resistían («torrentear desde un portátil corporativo no parece correcto») y testimonios de que hacía falta aprobación de director o vicepresidente; una cadena desclasificada a principios del año pasado menciona una escalada previa a «MZ». Para litigadores de copyright e IA, la vía de la responsabilidad contributiva por la adquisición de datos, al margen del debate sobre uso legítimo del entrenamiento, gana peso probatorio; para in-house de empresas que entrenan modelos, confirma que la cadena de aprobación de cada fuente de datos acabará en discovery y conviene documentarla. Matiz: es una orden procesal, no un pronunciamiento sobre el fondo; Meta y la editorial no comentaron.",
+  "why_sota": "Lleva el foco de los pleitos de entrenamiento a quién decidió adquirir datos pirateados dentro de la empresa.",
+  "why_now": "Orden de discovery recogida por Ars Technica, 20 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "copyright",
+    "datos-de-entrenamiento",
+    "discovery",
+    "litigacion-ia",
+    "gobierno-del-dato"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "cited_title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-meta",
+    "ent-ars-technica",
+    "ent-entrepreneur-media"
+  ],
+  "lang": "es",
+  "status": "published"
+}

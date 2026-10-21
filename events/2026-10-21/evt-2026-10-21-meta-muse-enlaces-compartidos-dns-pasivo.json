@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-21-meta-muse-enlaces-compartidos-dns-pasivo",
+  "date": "2026-10-20",
+  "type": "other",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "El agente Muse de Meta dejaba encontrar las conversaciones compartidas por su título en registros DNS públicos: 6.800 enlaces localizados con una sola consulta",
+  "short_title": "Meta Muse: conversaciones compartidas localizables vía DNS",
+  "standfirst": "Meta suspende la función de compartir tras la investigación de Claroc, que halló datos personales y de negocio en enlaces que nadie había recibido.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Seguridad del dato",
+  "country": "EE. UU.",
+  "piece_type": "Incidente",
+  "summary_p1": "Investigadores de la empresa de seguridad Claroc localizaron unos 6.800 enlaces de conversaciones compartidas desde Muse, el nuevo agente de IA de Meta, y al abrir unos cientos encontraron información personal y de negocio que no debía ser pública, según Ars Technica (20 de octubre de 2026). Meta ha suspendido la función de compartir mientras la revisa. El problema está en el diseño de la URL: cada conversación compartida se publica en un subdominio de cf.metaaiusercontent.com que incluye el título de la conversación y una cadena aleatoria, de modo que, en cuanto el destinatario abre el enlace, la resolución DNS queda registrada en servicios comerciales de DNS pasivo que cualquiera puede consultar. «Habríamos dicho que reunirlos costaría un esfuerzo real; bastó una consulta», escriben los investigadores, que llaman GhostShares a estas páginas que se abren para quien nunca recibió el enlace.",
+  "summary_p2": "Asaf Aprozper, cofundador de Claroc, dice que lo comunicó por el programa de recompensas de Meta el 8 de octubre sin obtener respuesta; Meta responde que abrió ese programa precisamente para recibir estos escenarios. Muse rellena formularios, reserva citas, compra y crea documentos, y para hacerlo necesita acceso a casi todas las cuentas del usuario; tres semanas después de su lanzamiento ya se había descubierto una vulnerabilidad que permitía a otra aplicación del mismo dispositivo hacerse con la cuenta. Para despachos y jurídicos internos, el caso es un argumento concreto para la política de uso de asistentes generalistas: compartir un enlace no equivale a enviarlo a una persona, y los títulos de conversación («loan-application-draft», «q3-revenue-review» en los ejemplos de Ars) pueden revelar por sí solos un asunto. Para delegados de protección de datos, encaja en la evaluación de brechas por diseño defectuoso del encargado. Matiz: los datos proceden de la investigación del propio Claroc; Meta no ha informado de cuántos usuarios se vieron afectados.",
+  "why_sota": "Muestra un vector de fuga de datos de agentes de IA que no depende de buscadores ni de adivinar enlaces.",
+  "why_now": "Investigación Claroc y respuesta de Meta, Ars Technica, 20 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "agentes-de-ia",
+    "confidencialidad",
+    "seguridad",
+    "proteccion-de-datos",
+    "enlaces-compartidos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "cited_title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-meta",
+    "ent-ars-technica",
+    "ent-claroc"
+  ],
+  "lang": "es",
+  "status": "published"
+}

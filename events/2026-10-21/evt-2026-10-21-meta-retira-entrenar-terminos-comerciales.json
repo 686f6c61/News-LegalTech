@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-21-meta-retira-entrenar-terminos-comerciales",
+  "date": "2026-10-20",
+  "type": "market",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Meta borra la palabra «entrenar» de sus nuevos términos comerciales tras la polémica, pero los expertos dicen que el rastreo de webs de empresas sigue siendo igual de amplio",
+  "short_title": "Meta retira «entrenar» de sus términos comerciales",
+  "standfirst": "Los términos que entran en vigor el 30 de octubre ya no hablan de «cualquier contenido», pero siguen sin comprometerse a respetar robots.txt; los editores piden a Bruselas que intervenga.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Contratos y datos",
+  "country": "EE. UU.",
+  "piece_type": "Mercado",
+  "summary_p1": "Meta ha eliminado la palabra «train» (entrenar) de los nuevos términos comerciales que se aplicarán a las cuentas de empresa desde el 30 de octubre, según Ars Technica (20 de octubre de 2026), después de que expertos citados por Nieman Lab advirtieran de que permitían rastrear sin límite las webs enlazadas en páginas de empresa. La versión inicial autorizaba a usar «cualquier contenido» de esas webs para «proporcionar, desarrollar, mejorar, investigar, entrenar y mantener la integridad» de cualquier producto de Meta; la nueva ya no habla de cualquier contenido y permite «extraer periódicamente actualizaciones» de las webs para proporcionar, desarrollar, mejorar, investigar y mantener productos publicitarios y de empresa. Un portavoz de Meta confirmó que no avisó a los usuarios del cambio y sostuvo que los términos solo afectan a sus productos de anuncios y empresa, que no cambian el uso de sus rastreadores y que los titulares pueden seguir usando robots.txt.",
+  "summary_p2": "Los expertos no se dan por satisfechos: Matt Topic (Loevy & Loevy) cree que «desarrollar» productos de empresa, un término sin definir, es lo bastante amplio para incluir entrenar; James Grimmelmann (Cornell) dice que el texto sigue siendo «lo bastante ancho para pasar con un camión», y Benjamin Sobel (Wisconsin) pide que Meta se comprometa por escrito a respetar robots.txt, porque una preferencia que no es exigible puede ignorarse. La News Media Association británica habla de «apropiación descarada», el European Publishers Council ya ha pedido a la Comisión Europea que intervenga y la News/Media Alliance estadounidense califica los términos de «probablemente ilegales». Para in-house de medios, marcas y cualquier empresa con página en Meta, hay nueve días para decidir si aceptan, renegocian o retiran enlaces y cómo documentan su oposición; para abogados de competencia y propiedad intelectual, el caso alimenta el debate sobre condiciones impuestas como abuso de posición dominante. Matiz: seguimiento de la pieza del 18 de octubre; las valoraciones de los expertos proceden de Nieman Lab, recogidas por Ars Technica.",
+  "why_sota": "Primer retoque de unos términos de plataforma que condicionan el acceso a la audiencia a ceder contenido web.",
+  "why_now": "Ars Technica, 20 oct 2026; entrada en vigor 30 oct. Seguimiento NEW de evt-2026-10-18 (cambio material de los términos).",
+  "geo": [
+    "US",
+    "EU",
+    "GB"
+  ],
+  "topics": [
+    "datos-de-entrenamiento",
+    "terminos-de-servicio",
+    "robots-txt",
+    "editores",
+    "competencia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "cited_title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-meta",
+    "ent-ars-technica",
+    "ent-nieman-lab",
+    "ent-european-publishers-council"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+id: ent-nyc-dcwp
+name: NYC Department of Consumer and Worker Protection
+type: regulator
+url: https://www.nyc.gov/site/dca/
+geo:
+- US
+aliases:
+- DCWP
+notes: Autoridad municipal de consumo de Nueva York; propuesta de norma sobre sistemas
+  automatizados de atención al cliente (oct 2026). Ficha mínima.
+stub: true

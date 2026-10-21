@@ -1,0 +1,10 @@
+id: ent-oab-pr
+name: OAB Paraná
+type: association
+url: https://www.oabpr.org.br/
+geo:
+- BR
+aliases:
+- OAB-PR
+notes: Seccional de la Ordem dos Advogados do Brasil en Paraná. Ficha mínima.
+stub: true

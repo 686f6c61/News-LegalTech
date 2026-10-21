@@ -1,0 +1,10 @@
+id: ent-conjur
+name: Consultor Jurídico (ConJur)
+type: media
+url: https://www.conjur.com.br/
+geo:
+- BR
+aliases:
+- ConJur
+notes: Medio jurídico brasileño. Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-moonlit
+name: Moonlit
+type: vendor
+url: https://www.moonlit.ai/
+geo:
+- NL
+- EU
+aliases: []
+notes: Editorial jurídica neerlandesa con IA; Commentaries gratuitos (oct 2026). Ficha
+  mínima.
+stub: true

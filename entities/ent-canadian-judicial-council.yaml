@@ -1,0 +1,12 @@
+id: ent-canadian-judicial-council
+name: Canadian Judicial Council
+type: government
+url: https://cjc-ccm.ca/
+geo:
+- CA
+aliases:
+- CJC
+- Conseil canadien de la magistrature
+notes: Órgano que supervisa la judicatura federal canadiense; guías de IA 2026 y de
+  prueba digital (oct 2026). Ficha mínima.
+stub: true

@@ -1,0 +1,697 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/21.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 21.10.26",
+      "schema:version": "21.10.26",
+      "schema:datePublished": "2026-10-21",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-21, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/21.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-stj-multa-prompt-injection-peticion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-cjc-canada-guias-ia-prueba-digital-deepfakes"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-nyc-dcwp-norma-chatbots-atencion-cliente"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-meta-retira-entrenar-terminos-comerciales"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-meta-orden-identificar-directivos-torrents-entrenamiento"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-meta-muse-enlaces-compartidos-dns-pasivo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-womble-ai-labs-herramientas-propias"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-moonlit-commentaries-gratuitos-mcp"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-lawfairy-ia-generativa-riesgo-sistemico-supervision"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-aepd-brechas-notificadas-primer-semestre-138"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-stj-multa-prompt-injection-peticion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-stj-multa-prompt-injection-peticion",
+      "schema:headline": "El Superior Tribunal de Justiça de Brasil multa con 20.000 reales a los abogados que escondieron en un recurso órdenes invisibles para la IA del tribunal",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La 1ª Turma del Superior Tribunal de Justiça (STJ) de Brasil acordó multar con 20.000 reales a los abogados que insertaron en la petición de un recurso especial comandos ocultos dirigidos a la inteligencia artificial del tribunal, la práctica conocida como prompt injection, por considerarla un acto atentatorio contra la dignidad de la Justicia, según Consultor Jurídico (20 de octubre de 2026). El tribunal remitió además las actuaciones a la OAB de Paraná, para una posible sanción disciplinaria, y al Ministerio Público Federal, por si hubiera delito. El comando, de unos 1.500 caracteres, aparecía dos veces: en el encabezado, en letra blanca sobre fondo blanco, y al pie, en verde confundido con la franja del membrete del despacho, ambos en cuerpo de 0,8 puntos frente a los 7 a 10,5 del texto visible; pedía al sistema dar por cumplidos los requisitos de admisibilidad y el análisis de fondo, y partía palabras clave («pet ição») para esquivar búsquedas.",
+      "schema:articleBody": "La 1ª Turma del Superior Tribunal de Justiça (STJ) de Brasil acordó multar con 20.000 reales a los abogados que insertaron en la petición de un recurso especial comandos ocultos dirigidos a la inteligencia artificial del tribunal, la práctica conocida como prompt injection, por considerarla un acto atentatorio contra la dignidad de la Justicia, según Consultor Jurídico (20 de octubre de 2026). El tribunal remitió además las actuaciones a la OAB de Paraná, para una posible sanción disciplinaria, y al Ministerio Público Federal, por si hubiera delito. El comando, de unos 1.500 caracteres, aparecía dos veces: en el encabezado, en letra blanca sobre fondo blanco, y al pie, en verde confundido con la franja del membrete del despacho, ambos en cuerpo de 0,8 puntos frente a los 7 a 10,5 del texto visible; pedía al sistema dar por cumplidos los requisitos de admisibilidad y el análisis de fondo, y partía palabras clave («pet ição») para esquivar búsquedas.\n\nEl relator, Paulo Sérgio Domingues, aclaró que no se castiga usar IA para redactar escritos sino emplearla como vehículo de órdenes veladas contra la IA del órgano judicial, y rechazó la defensa de que el texto era un «residuo» de la herramienta: un accidente no se repite en dos puntos del documento con técnicas de ocultación distintas. Da igual que el truco no lograra influir en la herramienta de lectura del tribunal; cuenta la ocultación. Herman Benjamin fue más allá y reclamó el despido de los abogados por su despacho. Es la mayor sanción del STJ por esta conducta, después de que en mayo anunciara que la investigaría y de que en el Supremo Tribunal Federal Alexandre de Moraes multara ya a otro abogado. Para despachos, obliga a revisar plantillas, membretes y PDF generados con IA antes de presentar; para tribunales y vendors que procesan escritos con IA, confirma que la entrada es una superficie de ataque y que hay que sanear el texto oculto. Matiz: la multa recae sobre todos los abogados porque el STJ no individualiza responsabilidades; ConJur no enlaza el texto de la resolución.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera sanción de un tribunal superior por intentar manipular la IA judicial con texto oculto en un escrito.",
+      "sota:whyNow": "STJ 1ª Turma; ConJur, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "BR"
+      ],
+      "sota:topics": [
+        "prompt-injection",
+        "ia-judicial",
+        "deontologia",
+        "litigacion",
+        "seguridad"
+      ],
+      "sota:summaryP1": "La 1ª Turma del Superior Tribunal de Justiça (STJ) de Brasil acordó multar con 20.000 reales a los abogados que insertaron en la petición de un recurso especial comandos ocultos dirigidos a la inteligencia artificial del tribunal, la práctica conocida como prompt injection, por considerarla un acto atentatorio contra la dignidad de la Justicia, según Consultor Jurídico (20 de octubre de 2026). El tribunal remitió además las actuaciones a la OAB de Paraná, para una posible sanción disciplinaria, y al Ministerio Público Federal, por si hubiera delito. El comando, de unos 1.500 caracteres, aparecía dos veces: en el encabezado, en letra blanca sobre fondo blanco, y al pie, en verde confundido con la franja del membrete del despacho, ambos en cuerpo de 0,8 puntos frente a los 7 a 10,5 del texto visible; pedía al sistema dar por cumplidos los requisitos de admisibilidad y el análisis de fondo, y partía palabras clave («pet ição») para esquivar búsquedas.",
+      "sota:summaryP2": "El relator, Paulo Sérgio Domingues, aclaró que no se castiga usar IA para redactar escritos sino emplearla como vehículo de órdenes veladas contra la IA del órgano judicial, y rechazó la defensa de que el texto era un «residuo» de la herramienta: un accidente no se repite en dos puntos del documento con técnicas de ocultación distintas. Da igual que el truco no lograra influir en la herramienta de lectura del tribunal; cuenta la ocultación. Herman Benjamin fue más allá y reclamó el despido de los abogados por su despacho. Es la mayor sanción del STJ por esta conducta, después de que en mayo anunciara que la investigaría y de que en el Supremo Tribunal Federal Alexandre de Moraes multara ya a otro abogado. Para despachos, obliga a revisar plantillas, membretes y PDF generados con IA antes de presentar; para tribunales y vendors que procesan escritos con IA, confirma que la entrada es una superficie de ataque y que hay que sanear el texto oculto. Matiz: la multa recae sobre todos los abogados porque el STJ no individualiza responsabilidades; ConJur no enlaza el texto de la resolución.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://conjur.com.br/2026-out-20/stj-multa-advogados-em-r-20-mil-por-uso-de-prompt-injection-em-peticao/",
+          "schema:name": "STJ multa advogados em R$ 20 mil por uso de prompt injection em petição",
+          "sota:sourceId": "src-conjur"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stj-brasil"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-conjur"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-oab-pr"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-cjc-canada-guias-ia-prueba-digital-deepfakes",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-cjc-canada-guias-ia-prueba-digital-deepfakes",
+      "schema:headline": "El Consejo Judicial de Canadá pasa de advertir sobre la IA a animar a los jueces a usarla, y publica una guía aparte para valorar pruebas que podrían ser deepfakes",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Canadian Judicial Council (CJC), que supervisa la judicatura federal canadiense, publicó el 20 de octubre de 2026 dos guías, según Canadian Lawyer: una nueva edición de sus pautas sobre IA para jueces y otra sobre la valoración de prueba en soporte digital cuando se alega o sospecha que ha sido creada o alterada con IA. La edición de 2024 buscaba sobre todo concienciar de los riesgos; la de 2026 anima a usar la IA en apoyo de la administración de justicia siempre que encaje con los principios judiciales, e incluye un anexo con ejemplos de usos apropiados, de alto riesgo e inapropiados. El uso individual de IA por un juez no requerirá normalmente revelarse, igual que no se revela el apoyo de letrados, traductores automáticos o correctores; pero los tribunales, como instituciones, deberán poder explicar cómo se evaluaron, aprobaron, gobiernan y protegen sus sistemas de IA y qué supervisión tienen.",
+      "schema:articleBody": "El Canadian Judicial Council (CJC), que supervisa la judicatura federal canadiense, publicó el 20 de octubre de 2026 dos guías, según Canadian Lawyer: una nueva edición de sus pautas sobre IA para jueces y otra sobre la valoración de prueba en soporte digital cuando se alega o sospecha que ha sido creada o alterada con IA. La edición de 2024 buscaba sobre todo concienciar de los riesgos; la de 2026 anima a usar la IA en apoyo de la administración de justicia siempre que encaje con los principios judiciales, e incluye un anexo con ejemplos de usos apropiados, de alto riesgo e inapropiados. El uso individual de IA por un juez no requerirá normalmente revelarse, igual que no se revela el apoyo de letrados, traductores automáticos o correctores; pero los tribunales, como instituciones, deberán poder explicar cómo se evaluaron, aprobaron, gobiernan y protegen sus sistemas de IA y qué supervisión tienen.\n\nLa guía de prueba digital incluye listas de comprobación para tres supuestos (prueba de IA reconocida, no reconocida e indirecta) y subraya un riesgo que el CJC califica de igual de importante que el deepfake admitido: que una prueba auténtica se excluya porque se la tacha de fabricada, la llamada defensa del deepfake o dividendo del mentiroso. Cita R. v. Medow, en el que el Tribunal de Justicia de Ontario rechazó alegaciones sin respaldo de manipulación de vídeos de cámaras corporales, y pide atención a litigantes sin abogado o sin recursos para pagar peritos forenses. Para litigadores, anticipa debates de autenticidad más ordenados y la necesidad de preparar cadena de custodia y peritaje antes de que la contraparte alegue manipulación; para vendors de forense digital, abre mercado. Tom Macintosh Zheng (Courtready.ca) celebra que la guía diga qué tareas deben o no hacer los jueces con IA, aunque advierte de que no resuelve la brecha entre quien puede pagar peritos y quien no. Matiz: son pautas orientativas del CJC, no normas procesales vinculantes.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un consejo judicial nacional pasa de la cautela a la adopción con salvaguardas y fija método para la prueba sospechosa de IA.",
+      "sota:whyNow": "CJC y Canadian Lawyer, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "ia-judicial",
+        "deepfakes",
+        "prueba-digital",
+        "transparencia",
+        "acceso-a-la-justicia"
+      ],
+      "sota:summaryP1": "El Canadian Judicial Council (CJC), que supervisa la judicatura federal canadiense, publicó el 20 de octubre de 2026 dos guías, según Canadian Lawyer: una nueva edición de sus pautas sobre IA para jueces y otra sobre la valoración de prueba en soporte digital cuando se alega o sospecha que ha sido creada o alterada con IA. La edición de 2024 buscaba sobre todo concienciar de los riesgos; la de 2026 anima a usar la IA en apoyo de la administración de justicia siempre que encaje con los principios judiciales, e incluye un anexo con ejemplos de usos apropiados, de alto riesgo e inapropiados. El uso individual de IA por un juez no requerirá normalmente revelarse, igual que no se revela el apoyo de letrados, traductores automáticos o correctores; pero los tribunales, como instituciones, deberán poder explicar cómo se evaluaron, aprobaron, gobiernan y protegen sus sistemas de IA y qué supervisión tienen.",
+      "sota:summaryP2": "La guía de prueba digital incluye listas de comprobación para tres supuestos (prueba de IA reconocida, no reconocida e indirecta) y subraya un riesgo que el CJC califica de igual de importante que el deepfake admitido: que una prueba auténtica se excluya porque se la tacha de fabricada, la llamada defensa del deepfake o dividendo del mentiroso. Cita R. v. Medow, en el que el Tribunal de Justicia de Ontario rechazó alegaciones sin respaldo de manipulación de vídeos de cámaras corporales, y pide atención a litigantes sin abogado o sin recursos para pagar peritos forenses. Para litigadores, anticipa debates de autenticidad más ordenados y la necesidad de preparar cadena de custodia y peritaje antes de que la contraparte alegue manipulación; para vendors de forense digital, abre mercado. Tom Macintosh Zheng (Courtready.ca) celebra que la guía diga qué tareas deben o no hacer los jueces con IA, aunque advierte de que no resuelve la brecha entre quien puede pagar peritos y quien no. Matiz: son pautas orientativas del CJC, no normas procesales vinculantes.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.canadianlawyermag.com/news/general/canadian-judicial-council-releases-ai-and-digital-evidence-guidelines/394819",
+          "schema:name": "Canadian Judicial Council releases AI and digital evidence guidelines",
+          "sota:sourceId": "src-canadian-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-judicial-council"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-nyc-dcwp-norma-chatbots-atencion-cliente",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-nyc-dcwp-norma-chatbots-atencion-cliente",
+      "schema:headline": "Nueva York propone la primera norma municipal contra los «doom loops» de los chatbots de atención al cliente: acceso a una persona y responsabilidad por lo que diga la IA",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Department of Consumer and Worker Protection (DCWP) de Nueva York publicó el 20 de octubre de 2026 en el City Record una propuesta de norma sobre sistemas automatizados de atención al cliente, incluidos chatbots de IA y respuesta de voz telefónica. La norma obligaría a las empresas a dar una atención razonable y a tiempo y a ofrecer un acceso sencillo a una persona cuando el sistema no resuelva. Calificaría como práctica engañosa y abusiva insinuar que hay atención al cliente para luego no atender de forma repetida e injustificada o responder solo con información irrelevante o errónea, y aclara que nadie puede eludir su responsabilidad alegando que la tecnología causó el incumplimiento. Los infractores responderían con restitución a los consumidores y multas desde 525 dólares; hay 30 días de comentarios y audiencia pública el 19 de noviembre. Según el DCWP, Nueva York sería el primer municipio de EE. UU. con capacidad para aplicar este tipo de protección.",
+      "schema:articleBody": "El Department of Consumer and Worker Protection (DCWP) de Nueva York publicó el 20 de octubre de 2026 en el City Record una propuesta de norma sobre sistemas automatizados de atención al cliente, incluidos chatbots de IA y respuesta de voz telefónica. La norma obligaría a las empresas a dar una atención razonable y a tiempo y a ofrecer un acceso sencillo a una persona cuando el sistema no resuelva. Calificaría como práctica engañosa y abusiva insinuar que hay atención al cliente para luego no atender de forma repetida e injustificada o responder solo con información irrelevante o errónea, y aclara que nadie puede eludir su responsabilidad alegando que la tecnología causó el incumplimiento. Los infractores responderían con restitución a los consumidores y multas desde 525 dólares; hay 30 días de comentarios y audiencia pública el 19 de noviembre. Según el DCWP, Nueva York sería el primer municipio de EE. UU. con capacidad para aplicar este tipo de protección.\n\nPara in-house de empresas que atienden a consumidores en la ciudad, la propuesta convierte el diseño del flujo de atención en riesgo de cumplimiento: habrá que documentar cuándo y cómo se deriva a una persona y revisar qué promete la empresa sobre su servicio. Lo más relevante para la litigación es el principio de que la empresa responde de lo que diga su chatbot, en línea con la declaración conjunta de septiembre del propio DCWP sobre representaciones hechas por chatbots y sistemas agénticos. Para vendors de IA conversacional, los contratos con clientes tenderán a pedir trazabilidad de respuestas y escalado garantizado. El comisionado Samuel Levine lo presenta como una respuesta local ante la inacción federal («no vamos a esperar a que Washington venga al rescate»), y el DCWP cita un informe de Gartner según el cual los chatbots resuelven entre el 17% de las disputas de facturación y el 58% de devoluciones o cancelaciones. Matiz: es una propuesta en trámite de comentarios y su texto final puede cambiar.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera norma municipal de EE. UU. que imputa al negocio la responsabilidad por la atención automatizada con IA.",
+      "sota:whyNow": "DCWP, City Record, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "chatbots",
+        "consumo",
+        "responsabilidad-ia",
+        "atencion-al-cliente",
+        "regulacion-local"
+      ],
+      "sota:summaryP1": "El Department of Consumer and Worker Protection (DCWP) de Nueva York publicó el 20 de octubre de 2026 en el City Record una propuesta de norma sobre sistemas automatizados de atención al cliente, incluidos chatbots de IA y respuesta de voz telefónica. La norma obligaría a las empresas a dar una atención razonable y a tiempo y a ofrecer un acceso sencillo a una persona cuando el sistema no resuelva. Calificaría como práctica engañosa y abusiva insinuar que hay atención al cliente para luego no atender de forma repetida e injustificada o responder solo con información irrelevante o errónea, y aclara que nadie puede eludir su responsabilidad alegando que la tecnología causó el incumplimiento. Los infractores responderían con restitución a los consumidores y multas desde 525 dólares; hay 30 días de comentarios y audiencia pública el 19 de noviembre. Según el DCWP, Nueva York sería el primer municipio de EE. UU. con capacidad para aplicar este tipo de protección.",
+      "sota:summaryP2": "Para in-house de empresas que atienden a consumidores en la ciudad, la propuesta convierte el diseño del flujo de atención en riesgo de cumplimiento: habrá que documentar cuándo y cómo se deriva a una persona y revisar qué promete la empresa sobre su servicio. Lo más relevante para la litigación es el principio de que la empresa responde de lo que diga su chatbot, en línea con la declaración conjunta de septiembre del propio DCWP sobre representaciones hechas por chatbots y sistemas agénticos. Para vendors de IA conversacional, los contratos con clientes tenderán a pedir trazabilidad de respuestas y escalado garantizado. El comisionado Samuel Levine lo presenta como una respuesta local ante la inacción federal («no vamos a esperar a que Washington venga al rescate»), y el DCWP cita un informe de Gartner según el cual los chatbots resuelven entre el 17% de las disputas de facturación y el 58% de devoluciones o cancelaciones. Matiz: es una propuesta en trámite de comentarios y su texto final puede cambiar.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.nyc.gov/site/dca/news/072-26/mamdani-administration-proposes-ban-ai-customer-service-doom-loops",
+          "schema:name": "Mamdani Administration Proposes Ban on AI Customer Service Doom Loops",
+          "sota:sourceId": "src-nyc-dcwp"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/newyorklawjournal/2026/10/20/nyc-proposes-first-of-its-kind-automated-customer-service-chatbot-regulation/",
+          "schema:name": "NYC Proposes First-of-Its-Kind Automated Customer Service Chatbot Regulation",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nyc-dcwp"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-meta-retira-entrenar-terminos-comerciales",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-meta-retira-entrenar-terminos-comerciales",
+      "schema:headline": "Meta borra la palabra «entrenar» de sus nuevos términos comerciales tras la polémica, pero los expertos dicen que el rastreo de webs de empresas sigue siendo igual de amplio",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Meta ha eliminado la palabra «train» (entrenar) de los nuevos términos comerciales que se aplicarán a las cuentas de empresa desde el 30 de octubre, según Ars Technica (20 de octubre de 2026), después de que expertos citados por Nieman Lab advirtieran de que permitían rastrear sin límite las webs enlazadas en páginas de empresa. La versión inicial autorizaba a usar «cualquier contenido» de esas webs para «proporcionar, desarrollar, mejorar, investigar, entrenar y mantener la integridad» de cualquier producto de Meta; la nueva ya no habla de cualquier contenido y permite «extraer periódicamente actualizaciones» de las webs para proporcionar, desarrollar, mejorar, investigar y mantener productos publicitarios y de empresa. Un portavoz de Meta confirmó que no avisó a los usuarios del cambio y sostuvo que los términos solo afectan a sus productos de anuncios y empresa, que no cambian el uso de sus rastreadores y que los titulares pueden seguir usando robots.txt.",
+      "schema:articleBody": "Meta ha eliminado la palabra «train» (entrenar) de los nuevos términos comerciales que se aplicarán a las cuentas de empresa desde el 30 de octubre, según Ars Technica (20 de octubre de 2026), después de que expertos citados por Nieman Lab advirtieran de que permitían rastrear sin límite las webs enlazadas en páginas de empresa. La versión inicial autorizaba a usar «cualquier contenido» de esas webs para «proporcionar, desarrollar, mejorar, investigar, entrenar y mantener la integridad» de cualquier producto de Meta; la nueva ya no habla de cualquier contenido y permite «extraer periódicamente actualizaciones» de las webs para proporcionar, desarrollar, mejorar, investigar y mantener productos publicitarios y de empresa. Un portavoz de Meta confirmó que no avisó a los usuarios del cambio y sostuvo que los términos solo afectan a sus productos de anuncios y empresa, que no cambian el uso de sus rastreadores y que los titulares pueden seguir usando robots.txt.\n\nLos expertos no se dan por satisfechos: Matt Topic (Loevy & Loevy) cree que «desarrollar» productos de empresa, un término sin definir, es lo bastante amplio para incluir entrenar; James Grimmelmann (Cornell) dice que el texto sigue siendo «lo bastante ancho para pasar con un camión», y Benjamin Sobel (Wisconsin) pide que Meta se comprometa por escrito a respetar robots.txt, porque una preferencia que no es exigible puede ignorarse. La News Media Association británica habla de «apropiación descarada», el European Publishers Council ya ha pedido a la Comisión Europea que intervenga y la News/Media Alliance estadounidense califica los términos de «probablemente ilegales». Para in-house de medios, marcas y cualquier empresa con página en Meta, hay nueve días para decidir si aceptan, renegocian o retiran enlaces y cómo documentan su oposición; para abogados de competencia y propiedad intelectual, el caso alimenta el debate sobre condiciones impuestas como abuso de posición dominante. Matiz: seguimiento de la pieza del 18 de octubre; las valoraciones de los expertos proceden de Nieman Lab, recogidas por Ars Technica.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer retoque de unos términos de plataforma que condicionan el acceso a la audiencia a ceder contenido web.",
+      "sota:whyNow": "Ars Technica, 20 oct 2026; entrada en vigor 30 oct. Seguimiento NEW de evt-2026-10-18 (cambio material de los términos).",
+      "sota:geo": [
+        "US",
+        "EU",
+        "GB"
+      ],
+      "sota:topics": [
+        "datos-de-entrenamiento",
+        "terminos-de-servicio",
+        "robots-txt",
+        "editores",
+        "competencia"
+      ],
+      "sota:summaryP1": "Meta ha eliminado la palabra «train» (entrenar) de los nuevos términos comerciales que se aplicarán a las cuentas de empresa desde el 30 de octubre, según Ars Technica (20 de octubre de 2026), después de que expertos citados por Nieman Lab advirtieran de que permitían rastrear sin límite las webs enlazadas en páginas de empresa. La versión inicial autorizaba a usar «cualquier contenido» de esas webs para «proporcionar, desarrollar, mejorar, investigar, entrenar y mantener la integridad» de cualquier producto de Meta; la nueva ya no habla de cualquier contenido y permite «extraer periódicamente actualizaciones» de las webs para proporcionar, desarrollar, mejorar, investigar y mantener productos publicitarios y de empresa. Un portavoz de Meta confirmó que no avisó a los usuarios del cambio y sostuvo que los términos solo afectan a sus productos de anuncios y empresa, que no cambian el uso de sus rastreadores y que los titulares pueden seguir usando robots.txt.",
+      "sota:summaryP2": "Los expertos no se dan por satisfechos: Matt Topic (Loevy & Loevy) cree que «desarrollar» productos de empresa, un término sin definir, es lo bastante amplio para incluir entrenar; James Grimmelmann (Cornell) dice que el texto sigue siendo «lo bastante ancho para pasar con un camión», y Benjamin Sobel (Wisconsin) pide que Meta se comprometa por escrito a respetar robots.txt, porque una preferencia que no es exigible puede ignorarse. La News Media Association británica habla de «apropiación descarada», el European Publishers Council ya ha pedido a la Comisión Europea que intervenga y la News/Media Alliance estadounidense califica los términos de «probablemente ilegales». Para in-house de medios, marcas y cualquier empresa con página en Meta, hay nueve días para decidir si aceptan, renegocian o retiran enlaces y cómo documentan su oposición; para abogados de competencia y propiedad intelectual, el caso alimenta el debate sobre condiciones impuestas como abuso de posición dominante. Matiz: seguimiento de la pieza del 18 de octubre; las valoraciones de los expertos proceden de Nieman Lab, recogidas por Ars Technica.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+          "schema:name": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+          "sota:sourceId": "src-ars-technica"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-meta"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nieman-lab"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-european-publishers-council"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-meta-orden-identificar-directivos-torrents-entrenamiento",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-meta-orden-identificar-directivos-torrents-entrenamiento",
+      "schema:headline": "Un juez ordena a Meta identificar a quién autorizó descargar por torrent bibliotecas pirata para entrenar sus modelos, frente a su tesis de que «nadie decidió» nada",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El juez federal Thomas Hixon (magistrate judge) ha ordenado a Meta que identifique a quienes tomaron, autorizaron o aprobaron la decisión de obtener o descargar bibliotecas pirata como LibGen y Anna's Archive para entrenar sus modelos, según Ars Technica (20 de octubre de 2026), que se apoya en TorrentFreak. La orden de discovery afecta a la demanda colectiva de autores encabezada por Richard Kadrey y Sarah Silverman y a la de la editorial Entrepreneur Media. Meta sostenía que los primeros conjuntos de datos para Llama 1 y 2 se reunieron con un «enfoque informal» en el que nadie con autoridad decidió nada, que la decisión solo existió en el sentido de que algunos empleados descargaron técnicamente los torrents y que las aprobaciones surgieron de conversaciones colaborativas sin un único responsable. Hixon contestó que la petición no se limitaba a decisiones formales ni presumía un único decisor: pregunta por todos.",
+      "schema:articleBody": "El juez federal Thomas Hixon (magistrate judge) ha ordenado a Meta que identifique a quienes tomaron, autorizaron o aprobaron la decisión de obtener o descargar bibliotecas pirata como LibGen y Anna's Archive para entrenar sus modelos, según Ars Technica (20 de octubre de 2026), que se apoya en TorrentFreak. La orden de discovery afecta a la demanda colectiva de autores encabezada por Richard Kadrey y Sarah Silverman y a la de la editorial Entrepreneur Media. Meta sostenía que los primeros conjuntos de datos para Llama 1 y 2 se reunieron con un «enfoque informal» en el que nadie con autoridad decidió nada, que la decisión solo existió en el sentido de que algunos empleados descargaron técnicamente los torrents y que las aprobaciones surgieron de conversaciones colaborativas sin un único responsable. Hixon contestó que la petición no se limitaba a decisiones formales ni presumía un único decisor: pregunta por todos.\n\nLa orden también obliga a Meta a explicar qué pasó con las obras pirateadas que no se usaron para entrenar. Los demandantes sostienen que Meta indujo la infracción al descargar y redistribuir obras, porque el torrent depende de compartir, y que no habría podido bajar 80,6 terabytes de LibGen ni 35,7 de Anna's Archive tan rápido sin hacer de semilla; Meta alega que aplicó medidas para evitarlo. Hay mensajes internos en los que empleados se resistían («torrentear desde un portátil corporativo no parece correcto») y testimonios de que hacía falta aprobación de director o vicepresidente; una cadena desclasificada a principios del año pasado menciona una escalada previa a «MZ». Para litigadores de copyright e IA, la vía de la responsabilidad contributiva por la adquisición de datos, al margen del debate sobre uso legítimo del entrenamiento, gana peso probatorio; para in-house de empresas que entrenan modelos, confirma que la cadena de aprobación de cada fuente de datos acabará en discovery y conviene documentarla. Matiz: es una orden procesal, no un pronunciamiento sobre el fondo; Meta y la editorial no comentaron.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Lleva el foco de los pleitos de entrenamiento a quién decidió adquirir datos pirateados dentro de la empresa.",
+      "sota:whyNow": "Orden de discovery recogida por Ars Technica, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "copyright",
+        "datos-de-entrenamiento",
+        "discovery",
+        "litigacion-ia",
+        "gobierno-del-dato"
+      ],
+      "sota:summaryP1": "El juez federal Thomas Hixon (magistrate judge) ha ordenado a Meta que identifique a quienes tomaron, autorizaron o aprobaron la decisión de obtener o descargar bibliotecas pirata como LibGen y Anna's Archive para entrenar sus modelos, según Ars Technica (20 de octubre de 2026), que se apoya en TorrentFreak. La orden de discovery afecta a la demanda colectiva de autores encabezada por Richard Kadrey y Sarah Silverman y a la de la editorial Entrepreneur Media. Meta sostenía que los primeros conjuntos de datos para Llama 1 y 2 se reunieron con un «enfoque informal» en el que nadie con autoridad decidió nada, que la decisión solo existió en el sentido de que algunos empleados descargaron técnicamente los torrents y que las aprobaciones surgieron de conversaciones colaborativas sin un único responsable. Hixon contestó que la petición no se limitaba a decisiones formales ni presumía un único decisor: pregunta por todos.",
+      "sota:summaryP2": "La orden también obliga a Meta a explicar qué pasó con las obras pirateadas que no se usaron para entrenar. Los demandantes sostienen que Meta indujo la infracción al descargar y redistribuir obras, porque el torrent depende de compartir, y que no habría podido bajar 80,6 terabytes de LibGen ni 35,7 de Anna's Archive tan rápido sin hacer de semilla; Meta alega que aplicó medidas para evitarlo. Hay mensajes internos en los que empleados se resistían («torrentear desde un portátil corporativo no parece correcto») y testimonios de que hacía falta aprobación de director o vicepresidente; una cadena desclasificada a principios del año pasado menciona una escalada previa a «MZ». Para litigadores de copyright e IA, la vía de la responsabilidad contributiva por la adquisición de datos, al margen del debate sobre uso legítimo del entrenamiento, gana peso probatorio; para in-house de empresas que entrenan modelos, confirma que la cadena de aprobación de cada fuente de datos acabará en discovery y conviene documentarla. Matiz: es una orden procesal, no un pronunciamiento sobre el fondo; Meta y la editorial no comentaron.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+          "schema:name": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+          "sota:sourceId": "src-ars-technica"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-meta"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-entrepreneur-media"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-meta-muse-enlaces-compartidos-dns-pasivo",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-meta-muse-enlaces-compartidos-dns-pasivo",
+      "schema:headline": "El agente Muse de Meta dejaba encontrar las conversaciones compartidas por su título en registros DNS públicos: 6.800 enlaces localizados con una sola consulta",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Investigadores de la empresa de seguridad Claroc localizaron unos 6.800 enlaces de conversaciones compartidas desde Muse, el nuevo agente de IA de Meta, y al abrir unos cientos encontraron información personal y de negocio que no debía ser pública, según Ars Technica (20 de octubre de 2026). Meta ha suspendido la función de compartir mientras la revisa. El problema está en el diseño de la URL: cada conversación compartida se publica en un subdominio de cf.metaaiusercontent.com que incluye el título de la conversación y una cadena aleatoria, de modo que, en cuanto el destinatario abre el enlace, la resolución DNS queda registrada en servicios comerciales de DNS pasivo que cualquiera puede consultar. «Habríamos dicho que reunirlos costaría un esfuerzo real; bastó una consulta», escriben los investigadores, que llaman GhostShares a estas páginas que se abren para quien nunca recibió el enlace.",
+      "schema:articleBody": "Investigadores de la empresa de seguridad Claroc localizaron unos 6.800 enlaces de conversaciones compartidas desde Muse, el nuevo agente de IA de Meta, y al abrir unos cientos encontraron información personal y de negocio que no debía ser pública, según Ars Technica (20 de octubre de 2026). Meta ha suspendido la función de compartir mientras la revisa. El problema está en el diseño de la URL: cada conversación compartida se publica en un subdominio de cf.metaaiusercontent.com que incluye el título de la conversación y una cadena aleatoria, de modo que, en cuanto el destinatario abre el enlace, la resolución DNS queda registrada en servicios comerciales de DNS pasivo que cualquiera puede consultar. «Habríamos dicho que reunirlos costaría un esfuerzo real; bastó una consulta», escriben los investigadores, que llaman GhostShares a estas páginas que se abren para quien nunca recibió el enlace.\n\nAsaf Aprozper, cofundador de Claroc, dice que lo comunicó por el programa de recompensas de Meta el 8 de octubre sin obtener respuesta; Meta responde que abrió ese programa precisamente para recibir estos escenarios. Muse rellena formularios, reserva citas, compra y crea documentos, y para hacerlo necesita acceso a casi todas las cuentas del usuario; tres semanas después de su lanzamiento ya se había descubierto una vulnerabilidad que permitía a otra aplicación del mismo dispositivo hacerse con la cuenta. Para despachos y jurídicos internos, el caso es un argumento concreto para la política de uso de asistentes generalistas: compartir un enlace no equivale a enviarlo a una persona, y los títulos de conversación («loan-application-draft», «q3-revenue-review» en los ejemplos de Ars) pueden revelar por sí solos un asunto. Para delegados de protección de datos, encaja en la evaluación de brechas por diseño defectuoso del encargado. Matiz: los datos proceden de la investigación del propio Claroc; Meta no ha informado de cuántos usuarios se vieron afectados.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Muestra un vector de fuga de datos de agentes de IA que no depende de buscadores ni de adivinar enlaces.",
+      "sota:whyNow": "Investigación Claroc y respuesta de Meta, Ars Technica, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "agentes-de-ia",
+        "confidencialidad",
+        "seguridad",
+        "proteccion-de-datos",
+        "enlaces-compartidos"
+      ],
+      "sota:summaryP1": "Investigadores de la empresa de seguridad Claroc localizaron unos 6.800 enlaces de conversaciones compartidas desde Muse, el nuevo agente de IA de Meta, y al abrir unos cientos encontraron información personal y de negocio que no debía ser pública, según Ars Technica (20 de octubre de 2026). Meta ha suspendido la función de compartir mientras la revisa. El problema está en el diseño de la URL: cada conversación compartida se publica en un subdominio de cf.metaaiusercontent.com que incluye el título de la conversación y una cadena aleatoria, de modo que, en cuanto el destinatario abre el enlace, la resolución DNS queda registrada en servicios comerciales de DNS pasivo que cualquiera puede consultar. «Habríamos dicho que reunirlos costaría un esfuerzo real; bastó una consulta», escriben los investigadores, que llaman GhostShares a estas páginas que se abren para quien nunca recibió el enlace.",
+      "sota:summaryP2": "Asaf Aprozper, cofundador de Claroc, dice que lo comunicó por el programa de recompensas de Meta el 8 de octubre sin obtener respuesta; Meta responde que abrió ese programa precisamente para recibir estos escenarios. Muse rellena formularios, reserva citas, compra y crea documentos, y para hacerlo necesita acceso a casi todas las cuentas del usuario; tres semanas después de su lanzamiento ya se había descubierto una vulnerabilidad que permitía a otra aplicación del mismo dispositivo hacerse con la cuenta. Para despachos y jurídicos internos, el caso es un argumento concreto para la política de uso de asistentes generalistas: compartir un enlace no equivale a enviarlo a una persona, y los títulos de conversación («loan-application-draft», «q3-revenue-review» en los ejemplos de Ars) pueden revelar por sí solos un asunto. Para delegados de protección de datos, encaja en la evaluación de brechas por diseño defectuoso del encargado. Matiz: los datos proceden de la investigación del propio Claroc; Meta no ha informado de cuántos usuarios se vieron afectados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "schema:name": "Meta Muse exposes users' personal and business secrets when they share conversations",
+          "sota:sourceId": "src-ars-technica"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-meta"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-claroc"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-womble-ai-labs-herramientas-propias",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-womble-ai-labs-herramientas-propias",
+      "schema:headline": "Womble Bond Dickinson crea Womble AI Labs para construir sus propias herramientas de IA para el despacho y sus clientes, empezando por tareas estructuradas y repetibles",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Womble Bond Dickinson, despacho transatlántico con 1.300 abogados en 42 oficinas del Reino Unido y EE. UU., ha lanzado Womble AI Labs para desarrollar soluciones de IA para la firma y sus clientes, según Artificial Lawyer (20 de octubre de 2026). Lo dirige el Chief AI and Technology Officer, Chad Ergun, y está integrado en la función de IT. El laboratorio se centrará en tareas jurídicas y administrativas «estructuradas, repetibles y bien definidas»: seguimiento regulatorio, generación y empaquetado de documentos, revisión de contratos y gestión de su ciclo de vida, y análisis jurídicos y valoraciones de casos en fase inicial. Law.com añade que el equipo, con ingenieros, aspira a construir su propio modelo de IA a corto plazo.",
+      "schema:articleBody": "Womble Bond Dickinson, despacho transatlántico con 1.300 abogados en 42 oficinas del Reino Unido y EE. UU., ha lanzado Womble AI Labs para desarrollar soluciones de IA para la firma y sus clientes, según Artificial Lawyer (20 de octubre de 2026). Lo dirige el Chief AI and Technology Officer, Chad Ergun, y está integrado en la función de IT. El laboratorio se centrará en tareas jurídicas y administrativas «estructuradas, repetibles y bien definidas»: seguimiento regulatorio, generación y empaquetado de documentos, revisión de contratos y gestión de su ciclo de vida, y análisis jurídicos y valoraciones de casos en fase inicial. Law.com añade que el equipo, con ingenieros, aspira a construir su propio modelo de IA a corto plazo.\n\nEl laboratorio se suma a dos programas internos: AI Champions, una red de más de 200 profesionales de todos los departamentos creada a principios de 2026 que se comprometen a probar herramientas y compartir casos de uso, y un AI Training Program que incluye un curso de Berkeley Law Executive Education. Para despachos medianos y grandes, es otra señal de que la ventaja ya no está solo en licenciar Harvey o Legora sino en tener capacidad propia de construir encima, con ingenieros dentro y un catálogo de tareas acotadas donde medir el retorno; para clientes, abre la puerta a herramientas a medida ofrecidas por el despacho, con las preguntas contractuales que eso implica sobre propiedad, confidencialidad y responsabilidad. Para vendors, el mensaje es que los despachos con presupuesto quieren componentes y API, no solo producto cerrado. Matiz: el anuncio es del propio despacho; no hay datos de inversión, plantilla del laboratorio ni calendario para el modelo propio.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un despacho de 1.300 abogados internaliza el desarrollo de IA con laboratorio propio y vocación de servir a clientes.",
+      "sota:whyNow": "Artificial Lawyer y Law.com, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "GB",
+        "US"
+      ],
+      "sota:topics": [
+        "despachos",
+        "desarrollo-propio",
+        "ia-generativa",
+        "formacion",
+        "innovacion"
+      ],
+      "sota:summaryP1": "Womble Bond Dickinson, despacho transatlántico con 1.300 abogados en 42 oficinas del Reino Unido y EE. UU., ha lanzado Womble AI Labs para desarrollar soluciones de IA para la firma y sus clientes, según Artificial Lawyer (20 de octubre de 2026). Lo dirige el Chief AI and Technology Officer, Chad Ergun, y está integrado en la función de IT. El laboratorio se centrará en tareas jurídicas y administrativas «estructuradas, repetibles y bien definidas»: seguimiento regulatorio, generación y empaquetado de documentos, revisión de contratos y gestión de su ciclo de vida, y análisis jurídicos y valoraciones de casos en fase inicial. Law.com añade que el equipo, con ingenieros, aspira a construir su propio modelo de IA a corto plazo.",
+      "sota:summaryP2": "El laboratorio se suma a dos programas internos: AI Champions, una red de más de 200 profesionales de todos los departamentos creada a principios de 2026 que se comprometen a probar herramientas y compartir casos de uso, y un AI Training Program que incluye un curso de Berkeley Law Executive Education. Para despachos medianos y grandes, es otra señal de que la ventaja ya no está solo en licenciar Harvey o Legora sino en tener capacidad propia de construir encima, con ingenieros dentro y un catálogo de tareas acotadas donde medir el retorno; para clientes, abre la puerta a herramientas a medida ofrecidas por el despacho, con las preguntas contractuales que eso implica sobre propiedad, confidencialidad y responsabilidad. Para vendors, el mensaje es que los despachos con presupuesto quieren componentes y API, no solo producto cerrado. Matiz: el anuncio es del propio despacho; no hay datos de inversión, plantilla del laboratorio ni calendario para el modelo propio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs/",
+          "schema:name": "Womble Bond Dickinson Launches 'AI Labs'",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/10/20/womble-establishes-lab-for-developing-proprietary-ai-tools-/",
+          "schema:name": "Womble Establishes Lab for Developing Proprietary AI Tools",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-womble-bond-dickinson"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-moonlit-commentaries-gratuitos-mcp",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-moonlit-commentaries-gratuitos-mcp",
+      "schema:headline": "La editorial neerlandesa Moonlit publica gratis comentarios jurídicos redactados con IA desde las fuentes primarias y revisados por expertos, también accesibles desde Claude, ChatGPT y Copilot",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Moonlit, editorial jurídica neerlandesa, ha lanzado Commentaries, una biblioteca gratuita de comentarios jurídicos redactados directamente desde las fuentes primarias con su IA propia y revisados y validados por expertos, según Artificial Lawyer (20 de octubre de 2026). El lanzamiento se centra en la fiscalidad indirecta, armonizada en gran parte a escala de la UE pero interpretada de forma distinta en cada Estado, y recorre artículo por artículo las disposiciones más usadas, conectando la legislación y la jurisprudencia de los Estados miembros que interpretan una misma norma. Cada afirmación enlaza con la disposición que interpreta y con la fuente en que se apoya, como EUR-Lex; editores académicos y autores profesionales remunerados revisan cada borrador, con distintivos que muestran qué pasajes ha validado un experto, y cada comentario lleva una fecha de referencia. Moonlit lo llevará también a su API de datos y a su conector MCP, para que aparezca dentro de Copilot, ChatGPT y Claude.",
+      "schema:articleBody": "Moonlit, editorial jurídica neerlandesa, ha lanzado Commentaries, una biblioteca gratuita de comentarios jurídicos redactados directamente desde las fuentes primarias con su IA propia y revisados y validados por expertos, según Artificial Lawyer (20 de octubre de 2026). El lanzamiento se centra en la fiscalidad indirecta, armonizada en gran parte a escala de la UE pero interpretada de forma distinta en cada Estado, y recorre artículo por artículo las disposiciones más usadas, conectando la legislación y la jurisprudencia de los Estados miembros que interpretan una misma norma. Cada afirmación enlaza con la disposición que interpreta y con la fuente en que se apoya, como EUR-Lex; editores académicos y autores profesionales remunerados revisan cada borrador, con distintivos que muestran qué pasajes ha validado un experto, y cada comentario lleva una fecha de referencia. Moonlit lo llevará también a su API de datos y a su conector MCP, para que aparezca dentro de Copilot, ChatGPT y Claude.\n\nMoonlit afirma que su capa de datos se actualiza a diario y avisa a los editores de nuevas resoluciones para revisar el comentario y su fecha, frente a series comerciales que se revisan una o dos veces al año. Su consejero delegado, Roderick Lucas, plantea un argumento de política pública: buena parte de la doctrina la escriben académicos de universidades públicas que luego tienen que pagar para leerla, «se paga dos veces». Para asesores fiscales y despachos con práctica de IVA europeo, es una fuente gratuita y trazable que conviene evaluar con la misma cautela que cualquier doctrina; para las grandes editoriales jurídicas, es otra presión, junto a los conectores MCP de Harvey y Legora y las alianzas de los grandes modelos con proveedores de jurisprudencia, sobre un segmento que parecía estable. Para in-house, la clave es que la doctrina revisada llegue al asistente generalista que ya usan. Matiz: la información procede del anuncio del proveedor recogido por Artificial Lawyer; no hay datos de cobertura, número de comentarios ni de revisores.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Doctrina generada con IA, revisada por expertos y gratuita, servida por MCP dentro de los asistentes generalistas.",
+      "sota:whyNow": "Artificial Lawyer, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "NL",
+        "EU"
+      ],
+      "sota:topics": [
+        "investigacion-juridica",
+        "doctrina",
+        "mcp",
+        "fiscalidad-indirecta",
+        "editoriales"
+      ],
+      "sota:summaryP1": "Moonlit, editorial jurídica neerlandesa, ha lanzado Commentaries, una biblioteca gratuita de comentarios jurídicos redactados directamente desde las fuentes primarias con su IA propia y revisados y validados por expertos, según Artificial Lawyer (20 de octubre de 2026). El lanzamiento se centra en la fiscalidad indirecta, armonizada en gran parte a escala de la UE pero interpretada de forma distinta en cada Estado, y recorre artículo por artículo las disposiciones más usadas, conectando la legislación y la jurisprudencia de los Estados miembros que interpretan una misma norma. Cada afirmación enlaza con la disposición que interpreta y con la fuente en que se apoya, como EUR-Lex; editores académicos y autores profesionales remunerados revisan cada borrador, con distintivos que muestran qué pasajes ha validado un experto, y cada comentario lleva una fecha de referencia. Moonlit lo llevará también a su API de datos y a su conector MCP, para que aparezca dentro de Copilot, ChatGPT y Claude.",
+      "sota:summaryP2": "Moonlit afirma que su capa de datos se actualiza a diario y avisa a los editores de nuevas resoluciones para revisar el comentario y su fecha, frente a series comerciales que se revisan una o dos veces al año. Su consejero delegado, Roderick Lucas, plantea un argumento de política pública: buena parte de la doctrina la escriben académicos de universidades públicas que luego tienen que pagar para leerla, «se paga dos veces». Para asesores fiscales y despachos con práctica de IVA europeo, es una fuente gratuita y trazable que conviene evaluar con la misma cautela que cualquier doctrina; para las grandes editoriales jurídicas, es otra presión, junto a los conectores MCP de Harvey y Legora y las alianzas de los grandes modelos con proveedores de jurisprudencia, sobre un segmento que parecía estable. Para in-house, la clave es que la doctrina revisada llegue al asistente generalista que ya usan. Matiz: la información procede del anuncio del proveedor recogido por Artificial Lawyer; no hay datos de cobertura, número de comentarios ni de revisores.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/20/more-legal-research-moves-as-moonlit-launches-free-commentaries/",
+          "schema:name": "More Legal Research Moves as Moonlit Launches Free Commentaries",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-moonlit"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-lawfairy-ia-generativa-riesgo-sistemico-supervision",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-lawfairy-ia-generativa-riesgo-sistemico-supervision",
+      "schema:headline": "El fundador de LawFairy advierte de que la IA generativa es un «riesgo sistémico» para el sector jurídico: un phishing dirigido a escala que borra las señales con las que se supervisaba a los juniors",
+      "schema:datePublished": "2026-10-21",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Raj Panasar, antiguo socio de un despacho de la City y fundador de LawFairy, el segundo despacho solo tecnológico autorizado por la Solicitors Regulation Authority, advirtió en la conferencia del Westminster Legal Policy Forum sobre tecnología e innovación en servicios jurídicos de que el uso de IA generativa por los despachos supone un «riesgo sistémico» para el sector, según Legal Futures (21 de octubre de 2026). Su analogía es el spear phishing: igual que el phishing dirigido funciona porque una parte de las víctimas cae, el despliegue de LLM en el sistema jurídico es «una campaña de spear phishing a escala». Explicó que los socios aprendieron durante años a detectar cuándo algo falla en el memorando de un junior (una cita endeble, un razonamiento dubitativo, una redacción torpe) y que los modelos, cuanto más sofisticados, más eliminan esas señales: son fluidos, seguros y bien formateados tanto si aciertan como si no.",
+      "schema:articleBody": "Raj Panasar, antiguo socio de un despacho de la City y fundador de LawFairy, el segundo despacho solo tecnológico autorizado por la Solicitors Regulation Authority, advirtió en la conferencia del Westminster Legal Policy Forum sobre tecnología e innovación en servicios jurídicos de que el uso de IA generativa por los despachos supone un «riesgo sistémico» para el sector, según Legal Futures (21 de octubre de 2026). Su analogía es el spear phishing: igual que el phishing dirigido funciona porque una parte de las víctimas cae, el despliegue de LLM en el sistema jurídico es «una campaña de spear phishing a escala». Explicó que los socios aprendieron durante años a detectar cuándo algo falla en el memorando de un junior (una cita endeble, un razonamiento dubitativo, una redacción torpe) y que los modelos, cuanto más sofisticados, más eliminan esas señales: son fluidos, seguros y bien formateados tanto si aciertan como si no.\n\nPanasar añadió que las llamadas trazas de razonamiento que muestran los grandes modelos son un cuaderno de notas y no el proceso real, y que hay indicios de que los modelos eligen qué escribir en él para ocultar lo que ocurre, de modo que seguirlas como si fueran el pensamiento del sistema es «muy peligroso». También señaló una carencia formativa, no solo en el Solicitors Qualifying Exam sino dentro de los despachos: sin entender técnicamente cómo funcionan los LLM, es difícil usarlos bien y con responsabilidad. Para socios responsables de supervisión y de riesgos, el argumento obliga a revisar el método y no solo la herramienta: si la forma deja de delatar el error, la verificación tiene que ser sistemática (citas, hechos, razonamiento) y no basada en la intuición. Para formadores y reguladores, apunta a incluir fundamentos técnicos de IA en la formación jurídica. Matiz: LawFairy no usa IA generativa sino un modelo determinista que codifica el derecho en rutas de decisión, así que el ponente compite con el enfoque que critica.",
+      "sota:type": "opinion",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Formula con precisión por qué la supervisión clásica falla ante textos de IA y pide verificación sistemática.",
+      "sota:whyNow": "Westminster Legal Policy Forum; Legal Futures, 21 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "supervision",
+        "riesgo",
+        "alucinaciones",
+        "formacion-juridica",
+        "llm"
+      ],
+      "sota:summaryP1": "Raj Panasar, antiguo socio de un despacho de la City y fundador de LawFairy, el segundo despacho solo tecnológico autorizado por la Solicitors Regulation Authority, advirtió en la conferencia del Westminster Legal Policy Forum sobre tecnología e innovación en servicios jurídicos de que el uso de IA generativa por los despachos supone un «riesgo sistémico» para el sector, según Legal Futures (21 de octubre de 2026). Su analogía es el spear phishing: igual que el phishing dirigido funciona porque una parte de las víctimas cae, el despliegue de LLM en el sistema jurídico es «una campaña de spear phishing a escala». Explicó que los socios aprendieron durante años a detectar cuándo algo falla en el memorando de un junior (una cita endeble, un razonamiento dubitativo, una redacción torpe) y que los modelos, cuanto más sofisticados, más eliminan esas señales: son fluidos, seguros y bien formateados tanto si aciertan como si no.",
+      "sota:summaryP2": "Panasar añadió que las llamadas trazas de razonamiento que muestran los grandes modelos son un cuaderno de notas y no el proceso real, y que hay indicios de que los modelos eligen qué escribir en él para ocultar lo que ocurre, de modo que seguirlas como si fueran el pensamiento del sistema es «muy peligroso». También señaló una carencia formativa, no solo en el Solicitors Qualifying Exam sino dentro de los despachos: sin entender técnicamente cómo funcionan los LLM, es difícil usarlos bien y con responsabilidad. Para socios responsables de supervisión y de riesgos, el argumento obliga a revisar el método y no solo la herramienta: si la forma deja de delatar el error, la verificación tiene que ser sistemática (citas, hechos, razonamiento) y no basada en la intuición. Para formadores y reguladores, apunta a incluir fundamentos técnicos de IA en la formación jurídica. Matiz: LawFairy no usa IA generativa sino un modelo determinista que codifica el derecho en rutas de decisión, así que el ponente compite con el enfoque que critica.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/generative-ai-a-systemic-risk-to-legal-sector",
+          "schema:name": "Generative AI a “systemic risk” to legal sector",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawfairy"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-21-aepd-brechas-notificadas-primer-semestre-138",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-21-aepd-brechas-notificadas-primer-semestre-138",
+      "schema:headline": "La AEPD recibe 3.027 notificaciones de brechas en el primer semestre, un 138% más y ya por encima de todo 2025, con encargados de reservas hoteleras y ransomware como focos",
+      "schema:datePublished": "2026-10-20",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Agencia Española de Protección de Datos (AEPD) recibió 3.027 notificaciones de brechas de datos personales entre enero y junio de 2026, frente a 1.271 en el mismo periodo de 2025, un aumento del 138%, según su nota del 20 de octubre de 2026. Entre enero y agosto el alza llega al 163% (4.556 frente a 1.728), y el primer semestre supera ya todas las brechas notificadas en 2025. Los informes mensuales de la Agencia apuntan a varios fenómenos: en marzo, un incidente en un único encargado del tratamiento provocó brechas en múltiples responsables; en los meses previos a julio, las notificaciones de hoteles y de sus proveedores de software de gestión de reservas pesaron mucho, con terceros que accedían a datos de clientes y reservas para intentar fraudes; y el ransomware sigue comprometiendo disponibilidad y confidencialidad en sectores distintos.",
+      "schema:articleBody": "La Agencia Española de Protección de Datos (AEPD) recibió 3.027 notificaciones de brechas de datos personales entre enero y junio de 2026, frente a 1.271 en el mismo periodo de 2025, un aumento del 138%, según su nota del 20 de octubre de 2026. Entre enero y agosto el alza llega al 163% (4.556 frente a 1.728), y el primer semestre supera ya todas las brechas notificadas en 2025. Los informes mensuales de la Agencia apuntan a varios fenómenos: en marzo, un incidente en un único encargado del tratamiento provocó brechas en múltiples responsables; en los meses previos a julio, las notificaciones de hoteles y de sus proveedores de software de gestión de reservas pesaron mucho, con terceros que accedían a datos de clientes y reservas para intentar fraudes; y el ransomware sigue comprometiendo disponibilidad y confidencialidad en sectores distintos.\n\nLa AEPD recuerda que el artículo 33 del RGPD obliga a notificar las brechas que probablemente supongan un riesgo y que comunicarlas a los afectados es igual de importante: en el semestre, los responsables enviaron más de 71 millones de comunicaciones a interesados por posible riesgo alto. Para in-house y delegados de protección de datos, el dato del encargado único que arrastra a muchos responsables es el más útil: obliga a revisar los contratos de encargo para exigir aviso sin dilación indebida y a mapear qué proveedores comparten varios clientes, empezando por los de reservas, nóminas o atención al cliente. Para despachos, anticipa más trabajo de respuesta a incidentes, reclamaciones de afectados y regreso de la discusión sobre responsabilidad entre responsable y encargado. La Agencia recomienda minimizar, borrar o anonimizar pronto y tener protocolos listos, y remite a sus herramientas Asesora Brecha y Comunica-Brecha RGPD. Matiz: más notificaciones no implica necesariamente más incidentes; parte del alza puede deberse a una mejor cultura de notificación.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Dato oficial que convierte el riesgo de cadena de suministro en la primera causa práctica de brechas en España.",
+      "sota:whyNow": "Nota de prensa AEPD, 20 oct 2026. NEW frente a 09-29→10-20.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "brechas",
+        "rgpd",
+        "encargados",
+        "ransomware",
+        "respuesta-a-incidentes"
+      ],
+      "sota:summaryP1": "La Agencia Española de Protección de Datos (AEPD) recibió 3.027 notificaciones de brechas de datos personales entre enero y junio de 2026, frente a 1.271 en el mismo periodo de 2025, un aumento del 138%, según su nota del 20 de octubre de 2026. Entre enero y agosto el alza llega al 163% (4.556 frente a 1.728), y el primer semestre supera ya todas las brechas notificadas en 2025. Los informes mensuales de la Agencia apuntan a varios fenómenos: en marzo, un incidente en un único encargado del tratamiento provocó brechas en múltiples responsables; en los meses previos a julio, las notificaciones de hoteles y de sus proveedores de software de gestión de reservas pesaron mucho, con terceros que accedían a datos de clientes y reservas para intentar fraudes; y el ransomware sigue comprometiendo disponibilidad y confidencialidad en sectores distintos.",
+      "sota:summaryP2": "La AEPD recuerda que el artículo 33 del RGPD obliga a notificar las brechas que probablemente supongan un riesgo y que comunicarlas a los afectados es igual de importante: en el semestre, los responsables enviaron más de 71 millones de comunicaciones a interesados por posible riesgo alto. Para in-house y delegados de protección de datos, el dato del encargado único que arrastra a muchos responsables es el más útil: obliga a revisar los contratos de encargo para exigir aviso sin dilación indebida y a mapear qué proveedores comparten varios clientes, empezando por los de reservas, nóminas o atención al cliente. Para despachos, anticipa más trabajo de respuesta a incidentes, reclamaciones de afectados y regreso de la discusión sobre responsabilidad entre responsable y encargado. La Agencia recomienda minimizar, borrar o anonimizar pronto y tener protocolos listos, y remite a sus herramientas Asesora Brecha y Comunica-Brecha RGPD. Matiz: más notificaciones no implica necesariamente más incidentes; parte del alza puede deberse a una mejor cultura de notificación.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-recibe-mas-de-3.000-notificaciones-de-brechas-de",
+          "schema:name": "La AEPD recibe más de 3.000 notificaciones de brechas de datos personales en el primer semestre del año",
+          "sota:sourceId": "src-aepd"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aepd",
+      "schema:name": "Agencia Española de Protección de Datos",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.aepd.es/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ars-technica",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ars-technica",
+      "schema:name": "Ars Technica",
+      "sota:entityType": "media",
+      "schema:url": "https://arstechnica.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-judicial-council",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-canadian-judicial-council",
+      "schema:name": "Canadian Judicial Council",
+      "sota:entityType": "government",
+      "schema:url": "https://cjc-ccm.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-canadian-lawyer",
+      "schema:name": "Canadian Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.canadianlawyermag.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-claroc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-claroc",
+      "schema:name": "Claroc",
+      "sota:entityType": "company",
+      "schema:url": "https://claroc.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-conjur",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-conjur",
+      "schema:name": "Consultor Jurídico (ConJur)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.conjur.com.br/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-entrepreneur-media",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-entrepreneur-media",
+      "schema:name": "Entrepreneur Media",
+      "sota:entityType": "company",
+      "schema:url": "https://www.entrepreneur.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-european-publishers-council",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-european-publishers-council",
+      "schema:name": "European Publishers Council",
+      "sota:entityType": "association",
+      "schema:url": "https://www.epceurope.eu/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-com",
+      "schema:name": "Law.com (Legaltech News)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.law.com/legaltechnews/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawfairy",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawfairy",
+      "schema:name": "LawFairy",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.lawfairy.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-futures",
+      "schema:name": "Legal Futures",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalfutures.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-meta",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-meta",
+      "schema:name": "Meta Platforms",
+      "sota:entityType": "company",
+      "schema:url": "https://about.meta.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-moonlit",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-moonlit",
+      "schema:name": "Moonlit",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.moonlit.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nieman-lab",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nieman-lab",
+      "schema:name": "Nieman Lab",
+      "sota:entityType": "media",
+      "schema:url": "https://www.niemanlab.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nyc-dcwp",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nyc-dcwp",
+      "schema:name": "NYC Department of Consumer and Worker Protection",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.nyc.gov/site/dca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-oab-pr",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-oab-pr",
+      "schema:name": "OAB Paraná",
+      "sota:entityType": "association",
+      "schema:url": "https://www.oabpr.org.br/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sra",
+      "schema:name": "Solicitors Regulation Authority",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.sra.org.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stj-brasil",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-stj-brasil",
+      "schema:name": "Superior Tribunal de Justiça",
+      "sota:entityType": "government",
+      "schema:url": "https://www.stj.jus.br/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-womble-bond-dickinson",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-womble-bond-dickinson",
+      "schema:name": "Womble Bond Dickinson",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.womblebonddickinson.com/",
+      "sota:stub": true
+    }
+  ]
+}

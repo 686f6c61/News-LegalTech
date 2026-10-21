@@ -1,0 +1,75 @@
+scan_id: full-radar-2026-10-21
+date: '2026-10-21'
+release: 21.10.26
+count: 10
+ai_share: 0.9
+dedup_against: events/2026-09-29 → 2026-10-20 + scans PASS
+event_ids:
+- evt-2026-10-21-stj-multa-prompt-injection-peticion
+- evt-2026-10-21-cjc-canada-guias-ia-prueba-digital-deepfakes
+- evt-2026-10-21-nyc-dcwp-norma-chatbots-atencion-cliente
+- evt-2026-10-21-meta-retira-entrenar-terminos-comerciales
+- evt-2026-10-21-meta-orden-identificar-directivos-torrents-entrenamiento
+- evt-2026-10-21-meta-muse-enlaces-compartidos-dns-pasivo
+- evt-2026-10-21-womble-ai-labs-herramientas-propias
+- evt-2026-10-21-moonlit-commentaries-gratuitos-mcp
+- evt-2026-10-21-lawfairy-ia-generativa-riesgo-sistemico-supervision
+- evt-2026-10-21-aepd-brechas-notificadas-primer-semestre-138
+events:
+- id: evt-2026-10-21-stj-multa-prompt-injection-peticion
+  sota_score: 8.0
+  ai_legaltech: true
+  title: El Superior Tribunal de Justiça de Brasil multa con 20.000 reales a los abogados
+    que escondieron en un recurso órdenes invisibles para la IA del tribunal
+- id: evt-2026-10-21-cjc-canada-guias-ia-prueba-digital-deepfakes
+  sota_score: 7.8
+  ai_legaltech: true
+  title: El Consejo Judicial de Canadá pasa de advertir sobre la IA a animar a los
+    jueces a usarla, y publica una guía aparte para valorar pruebas que podrían ser
+    deepfakes
+- id: evt-2026-10-21-nyc-dcwp-norma-chatbots-atencion-cliente
+  sota_score: 7.4
+  ai_legaltech: true
+  title: 'Nueva York propone la primera norma municipal contra los «doom loops» de
+    los chatbots de atención al cliente: acceso a una persona y responsabilidad por
+    lo que diga la IA'
+- id: evt-2026-10-21-meta-retira-entrenar-terminos-comerciales
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Meta borra la palabra «entrenar» de sus nuevos términos comerciales tras
+    la polémica, pero los expertos dicen que el rastreo de webs de empresas sigue
+    siendo igual de amplio
+- id: evt-2026-10-21-meta-orden-identificar-directivos-torrents-entrenamiento
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Un juez ordena a Meta identificar a quién autorizó descargar por torrent
+    bibliotecas pirata para entrenar sus modelos, frente a su tesis de que «nadie
+    decidió» nada
+- id: evt-2026-10-21-meta-muse-enlaces-compartidos-dns-pasivo
+  sota_score: 6.8
+  ai_legaltech: true
+  title: 'El agente Muse de Meta dejaba encontrar las conversaciones compartidas por
+    su título en registros DNS públicos: 6.800 enlaces localizados con una sola consulta'
+- id: evt-2026-10-21-womble-ai-labs-herramientas-propias
+  sota_score: 6.6
+  ai_legaltech: true
+  title: Womble Bond Dickinson crea Womble AI Labs para construir sus propias herramientas
+    de IA para el despacho y sus clientes, empezando por tareas estructuradas y repetibles
+- id: evt-2026-10-21-moonlit-commentaries-gratuitos-mcp
+  sota_score: 6.4
+  ai_legaltech: true
+  title: La editorial neerlandesa Moonlit publica gratis comentarios jurídicos redactados
+    con IA desde las fuentes primarias y revisados por expertos, también accesibles
+    desde Claude, ChatGPT y Copilot
+- id: evt-2026-10-21-lawfairy-ia-generativa-riesgo-sistemico-supervision
+  sota_score: 6.2
+  ai_legaltech: true
+  title: 'El fundador de LawFairy advierte de que la IA generativa es un «riesgo sistémico»
+    para el sector jurídico: un phishing dirigido a escala que borra las señales con
+    las que se supervisaba a los juniors'
+- id: evt-2026-10-21-aepd-brechas-notificadas-primer-semestre-138
+  sota_score: 6.0
+  ai_legaltech: false
+  title: La AEPD recibe 3.027 notificaciones de brechas en el primer semestre, un
+    138% más y ya por encima de todo 2025, con encargados de reservas hoteleras y
+    ransomware como focos

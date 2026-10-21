@@ -1,0 +1,10 @@
+id: ent-european-publishers-council
+name: European Publishers Council
+type: association
+url: https://www.epceurope.eu/
+geo:
+- EU
+aliases:
+- EPC
+notes: Asociación europea de editores de prensa. Ficha mínima.
+stub: true

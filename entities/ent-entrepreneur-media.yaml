@@ -1,0 +1,10 @@
+id: ent-entrepreneur-media
+name: Entrepreneur Media
+type: company
+url: https://www.entrepreneur.com/
+geo:
+- US
+aliases: []
+notes: Editorial estadounidense demandante contra Meta por entrenamiento con libros
+  pirateados. Ficha mínima.
+stub: true

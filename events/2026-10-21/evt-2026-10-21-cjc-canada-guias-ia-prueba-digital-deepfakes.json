@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-21-cjc-canada-guias-ia-prueba-digital-deepfakes",
+  "date": "2026-10-20",
+  "type": "guidance",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "El Consejo Judicial de Canadá pasa de advertir sobre la IA a animar a los jueces a usarla, y publica una guía aparte para valorar pruebas que podrían ser deepfakes",
+  "short_title": "Canadá: nuevas guías judiciales de IA y de prueba digital",
+  "standfirst": "Los jueces no tendrán que revelar su uso individual de IA, pero los tribunales sí deberán explicar qué herramientas usan; la guía de prueba trae listas de comprobación.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Acceso a la justicia",
+  "country": "Canadá",
+  "piece_type": "Orientación",
+  "summary_p1": "El Canadian Judicial Council (CJC), que supervisa la judicatura federal canadiense, publicó el 20 de octubre de 2026 dos guías, según Canadian Lawyer: una nueva edición de sus pautas sobre IA para jueces y otra sobre la valoración de prueba en soporte digital cuando se alega o sospecha que ha sido creada o alterada con IA. La edición de 2024 buscaba sobre todo concienciar de los riesgos; la de 2026 anima a usar la IA en apoyo de la administración de justicia siempre que encaje con los principios judiciales, e incluye un anexo con ejemplos de usos apropiados, de alto riesgo e inapropiados. El uso individual de IA por un juez no requerirá normalmente revelarse, igual que no se revela el apoyo de letrados, traductores automáticos o correctores; pero los tribunales, como instituciones, deberán poder explicar cómo se evaluaron, aprobaron, gobiernan y protegen sus sistemas de IA y qué supervisión tienen.",
+  "summary_p2": "La guía de prueba digital incluye listas de comprobación para tres supuestos (prueba de IA reconocida, no reconocida e indirecta) y subraya un riesgo que el CJC califica de igual de importante que el deepfake admitido: que una prueba auténtica se excluya porque se la tacha de fabricada, la llamada defensa del deepfake o dividendo del mentiroso. Cita R. v. Medow, en el que el Tribunal de Justicia de Ontario rechazó alegaciones sin respaldo de manipulación de vídeos de cámaras corporales, y pide atención a litigantes sin abogado o sin recursos para pagar peritos forenses. Para litigadores, anticipa debates de autenticidad más ordenados y la necesidad de preparar cadena de custodia y peritaje antes de que la contraparte alegue manipulación; para vendors de forense digital, abre mercado. Tom Macintosh Zheng (Courtready.ca) celebra que la guía diga qué tareas deben o no hacer los jueces con IA, aunque advierte de que no resuelve la brecha entre quien puede pagar peritos y quien no. Matiz: son pautas orientativas del CJC, no normas procesales vinculantes.",
+  "why_sota": "Un consejo judicial nacional pasa de la cautela a la adopción con salvaguardas y fija método para la prueba sospechosa de IA.",
+  "why_now": "CJC y Canadian Lawyer, 20 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "ia-judicial",
+    "deepfakes",
+    "prueba-digital",
+    "transparencia",
+    "acceso-a-la-justicia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-canadian-lawyer",
+      "url": "https://www.canadianlawyermag.com/news/general/canadian-judicial-council-releases-ai-and-digital-evidence-guidelines/394819",
+      "cited_title": "Canadian Judicial Council releases AI and digital evidence guidelines",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-canadian-judicial-council",
+    "ent-canadian-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+id: ent-stj-brasil
+name: Superior Tribunal de Justiça
+type: government
+url: https://www.stj.jus.br/
+geo:
+- BR
+aliases:
+- STJ
+notes: Tribunal superior brasileño; la 1ª Turma multó con 20.000 reales a abogados
+  por prompt injection en una petición (oct 2026). Ficha mínima.
+stub: true

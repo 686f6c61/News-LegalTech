@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-21-aepd-brechas-notificadas-primer-semestre-138",
+  "date": "2026-10-20",
+  "type": "regulation",
+  "sota_score": 6.0,
+  "ai_legaltech": false,
+  "title": "La AEPD recibe 3.027 notificaciones de brechas en el primer semestre, un 138% más y ya por encima de todo 2025, con encargados de reservas hoteleras y ransomware como focos",
+  "short_title": "AEPD: las brechas notificadas suben un 138% en el semestre",
+  "standfirst": "Un único encargado comprometido arrastró a múltiples responsables, y las comunicaciones a afectados superaron los 71 millones en seis meses.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "España",
+  "piece_type": "Regulación",
+  "summary_p1": "La Agencia Española de Protección de Datos (AEPD) recibió 3.027 notificaciones de brechas de datos personales entre enero y junio de 2026, frente a 1.271 en el mismo periodo de 2025, un aumento del 138%, según su nota del 20 de octubre de 2026. Entre enero y agosto el alza llega al 163% (4.556 frente a 1.728), y el primer semestre supera ya todas las brechas notificadas en 2025. Los informes mensuales de la Agencia apuntan a varios fenómenos: en marzo, un incidente en un único encargado del tratamiento provocó brechas en múltiples responsables; en los meses previos a julio, las notificaciones de hoteles y de sus proveedores de software de gestión de reservas pesaron mucho, con terceros que accedían a datos de clientes y reservas para intentar fraudes; y el ransomware sigue comprometiendo disponibilidad y confidencialidad en sectores distintos.",
+  "summary_p2": "La AEPD recuerda que el artículo 33 del RGPD obliga a notificar las brechas que probablemente supongan un riesgo y que comunicarlas a los afectados es igual de importante: en el semestre, los responsables enviaron más de 71 millones de comunicaciones a interesados por posible riesgo alto. Para in-house y delegados de protección de datos, el dato del encargado único que arrastra a muchos responsables es el más útil: obliga a revisar los contratos de encargo para exigir aviso sin dilación indebida y a mapear qué proveedores comparten varios clientes, empezando por los de reservas, nóminas o atención al cliente. Para despachos, anticipa más trabajo de respuesta a incidentes, reclamaciones de afectados y regreso de la discusión sobre responsabilidad entre responsable y encargado. La Agencia recomienda minimizar, borrar o anonimizar pronto y tener protocolos listos, y remite a sus herramientas Asesora Brecha y Comunica-Brecha RGPD. Matiz: más notificaciones no implica necesariamente más incidentes; parte del alza puede deberse a una mejor cultura de notificación.",
+  "why_sota": "Dato oficial que convierte el riesgo de cadena de suministro en la primera causa práctica de brechas en España.",
+  "why_now": "Nota de prensa AEPD, 20 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "brechas",
+    "rgpd",
+    "encargados",
+    "ransomware",
+    "respuesta-a-incidentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aepd",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-recibe-mas-de-3.000-notificaciones-de-brechas-de",
+      "cited_title": "La AEPD recibe más de 3.000 notificaciones de brechas de datos personales en el primer semestre del año",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-aepd"
+  ],
+  "lang": "es",
+  "status": "published"
+}

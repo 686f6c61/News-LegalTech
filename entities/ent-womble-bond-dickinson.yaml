@@ -1,0 +1,11 @@
+id: ent-womble-bond-dickinson
+name: Womble Bond Dickinson
+type: law_firm
+url: https://www.womblebonddickinson.com/
+geo:
+- GB
+- US
+aliases:
+- Womble
+notes: Despacho transatlántico; lanza Womble AI Labs (oct 2026). Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-lawfairy
+name: LawFairy
+type: law_firm
+url: https://www.lawfairy.co.uk/
+geo:
+- GB
+aliases: []
+notes: Despacho solo tecnológico autorizado por la SRA; modelo determinista sin IA
+  generativa. Ficha mínima.
+stub: true

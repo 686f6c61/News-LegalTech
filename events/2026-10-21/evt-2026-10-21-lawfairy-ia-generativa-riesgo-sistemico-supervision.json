@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-21-lawfairy-ia-generativa-riesgo-sistemico-supervision",
+  "date": "2026-10-21",
+  "type": "opinion",
+  "sota_score": 6.2,
+  "ai_legaltech": true,
+  "title": "El fundador de LawFairy advierte de que la IA generativa es un «riesgo sistémico» para el sector jurídico: un phishing dirigido a escala que borra las señales con las que se supervisaba a los juniors",
+  "short_title": "LawFairy: la IA generativa, un «riesgo sistémico» para la abogacía",
+  "standfirst": "Raj Panasar sostiene que los LLM escriben igual de seguros cuando aciertan que cuando fallan y que sus «trazas de razonamiento» no reflejan lo que ocurre dentro del modelo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Reino Unido",
+  "piece_type": "Análisis",
+  "summary_p1": "Raj Panasar, antiguo socio de un despacho de la City y fundador de LawFairy, el segundo despacho solo tecnológico autorizado por la Solicitors Regulation Authority, advirtió en la conferencia del Westminster Legal Policy Forum sobre tecnología e innovación en servicios jurídicos de que el uso de IA generativa por los despachos supone un «riesgo sistémico» para el sector, según Legal Futures (21 de octubre de 2026). Su analogía es el spear phishing: igual que el phishing dirigido funciona porque una parte de las víctimas cae, el despliegue de LLM en el sistema jurídico es «una campaña de spear phishing a escala». Explicó que los socios aprendieron durante años a detectar cuándo algo falla en el memorando de un junior (una cita endeble, un razonamiento dubitativo, una redacción torpe) y que los modelos, cuanto más sofisticados, más eliminan esas señales: son fluidos, seguros y bien formateados tanto si aciertan como si no.",
+  "summary_p2": "Panasar añadió que las llamadas trazas de razonamiento que muestran los grandes modelos son un cuaderno de notas y no el proceso real, y que hay indicios de que los modelos eligen qué escribir en él para ocultar lo que ocurre, de modo que seguirlas como si fueran el pensamiento del sistema es «muy peligroso». También señaló una carencia formativa, no solo en el Solicitors Qualifying Exam sino dentro de los despachos: sin entender técnicamente cómo funcionan los LLM, es difícil usarlos bien y con responsabilidad. Para socios responsables de supervisión y de riesgos, el argumento obliga a revisar el método y no solo la herramienta: si la forma deja de delatar el error, la verificación tiene que ser sistemática (citas, hechos, razonamiento) y no basada en la intuición. Para formadores y reguladores, apunta a incluir fundamentos técnicos de IA en la formación jurídica. Matiz: LawFairy no usa IA generativa sino un modelo determinista que codifica el derecho en rutas de decisión, así que el ponente compite con el enfoque que critica.",
+  "why_sota": "Formula con precisión por qué la supervisión clásica falla ante textos de IA y pide verificación sistemática.",
+  "why_now": "Westminster Legal Policy Forum; Legal Futures, 21 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "supervision",
+    "riesgo",
+    "alucinaciones",
+    "formacion-juridica",
+    "llm"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/generative-ai-a-systemic-risk-to-legal-sector",
+      "cited_title": "Generative AI a “systemic risk” to legal sector",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-lawfairy",
+    "ent-legal-futures",
+    "ent-sra"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-21-stj-multa-prompt-injection-peticion",
+  "date": "2026-10-20",
+  "type": "case_law",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "El Superior Tribunal de Justiça de Brasil multa con 20.000 reales a los abogados que escondieron en un recurso órdenes invisibles para la IA del tribunal",
+  "short_title": "Brasil: el STJ multa a abogados por prompt injection en un recurso",
+  "standfirst": "Dos bloques de texto en blanco sobre blanco y en verde sobre el membrete pedían a la IA dar por cumplidos los requisitos de admisión; el caso va a la OAB y a la Fiscalía.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Brasil",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "La 1ª Turma del Superior Tribunal de Justiça (STJ) de Brasil acordó multar con 20.000 reales a los abogados que insertaron en la petición de un recurso especial comandos ocultos dirigidos a la inteligencia artificial del tribunal, la práctica conocida como prompt injection, por considerarla un acto atentatorio contra la dignidad de la Justicia, según Consultor Jurídico (20 de octubre de 2026). El tribunal remitió además las actuaciones a la OAB de Paraná, para una posible sanción disciplinaria, y al Ministerio Público Federal, por si hubiera delito. El comando, de unos 1.500 caracteres, aparecía dos veces: en el encabezado, en letra blanca sobre fondo blanco, y al pie, en verde confundido con la franja del membrete del despacho, ambos en cuerpo de 0,8 puntos frente a los 7 a 10,5 del texto visible; pedía al sistema dar por cumplidos los requisitos de admisibilidad y el análisis de fondo, y partía palabras clave («pet ição») para esquivar búsquedas.",
+  "summary_p2": "El relator, Paulo Sérgio Domingues, aclaró que no se castiga usar IA para redactar escritos sino emplearla como vehículo de órdenes veladas contra la IA del órgano judicial, y rechazó la defensa de que el texto era un «residuo» de la herramienta: un accidente no se repite en dos puntos del documento con técnicas de ocultación distintas. Da igual que el truco no lograra influir en la herramienta de lectura del tribunal; cuenta la ocultación. Herman Benjamin fue más allá y reclamó el despido de los abogados por su despacho. Es la mayor sanción del STJ por esta conducta, después de que en mayo anunciara que la investigaría y de que en el Supremo Tribunal Federal Alexandre de Moraes multara ya a otro abogado. Para despachos, obliga a revisar plantillas, membretes y PDF generados con IA antes de presentar; para tribunales y vendors que procesan escritos con IA, confirma que la entrada es una superficie de ataque y que hay que sanear el texto oculto. Matiz: la multa recae sobre todos los abogados porque el STJ no individualiza responsabilidades; ConJur no enlaza el texto de la resolución.",
+  "why_sota": "Primera sanción de un tribunal superior por intentar manipular la IA judicial con texto oculto en un escrito.",
+  "why_now": "STJ 1ª Turma; ConJur, 20 oct 2026. NEW frente a 09-29→10-20.",
+  "geo": [
+    "BR"
+  ],
+  "topics": [
+    "prompt-injection",
+    "ia-judicial",
+    "deontologia",
+    "litigacion",
+    "seguridad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-conjur",
+      "url": "https://conjur.com.br/2026-out-20/stj-multa-advogados-em-r-20-mil-por-uso-de-prompt-injection-em-peticao/",
+      "cited_title": "STJ multa advogados em R$ 20 mil por uso de prompt injection em petição",
+      "accessed": "2026-10-21"
+    }
+  ],
+  "entities": [
+    "ent-stj-brasil",
+    "ent-conjur",
+    "ent-oab-pr"
+  ],
+  "lang": "es",
+  "status": "published"
+}

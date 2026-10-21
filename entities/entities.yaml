@@ -3333,3 +3333,119 @@ entities:
   aliases: []
   notes: Medio jurídico español. Ficha mínima.
   stub: true
+- id: ent-stj-brasil
+  name: Superior Tribunal de Justiça
+  type: government
+  url: https://www.stj.jus.br/
+  geo:
+  - BR
+  aliases:
+  - STJ
+  notes: Tribunal superior brasileño; la 1ª Turma multó con 20.000 reales a abogados
+    por prompt injection en una petición (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-conjur
+  name: Consultor Jurídico (ConJur)
+  type: media
+  url: https://www.conjur.com.br/
+  geo:
+  - BR
+  aliases:
+  - ConJur
+  notes: Medio jurídico brasileño. Ficha mínima.
+  stub: true
+- id: ent-oab-pr
+  name: OAB Paraná
+  type: association
+  url: https://www.oabpr.org.br/
+  geo:
+  - BR
+  aliases:
+  - OAB-PR
+  notes: Seccional de la Ordem dos Advogados do Brasil en Paraná. Ficha mínima.
+  stub: true
+- id: ent-canadian-judicial-council
+  name: Canadian Judicial Council
+  type: government
+  url: https://cjc-ccm.ca/
+  geo:
+  - CA
+  aliases:
+  - CJC
+  - Conseil canadien de la magistrature
+  notes: Órgano que supervisa la judicatura federal canadiense; guías de IA 2026 y
+    de prueba digital (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-nyc-dcwp
+  name: NYC Department of Consumer and Worker Protection
+  type: regulator
+  url: https://www.nyc.gov/site/dca/
+  geo:
+  - US
+  aliases:
+  - DCWP
+  notes: Autoridad municipal de consumo de Nueva York; propuesta de norma sobre sistemas
+    automatizados de atención al cliente (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-european-publishers-council
+  name: European Publishers Council
+  type: association
+  url: https://www.epceurope.eu/
+  geo:
+  - EU
+  aliases:
+  - EPC
+  notes: Asociación europea de editores de prensa. Ficha mínima.
+  stub: true
+- id: ent-entrepreneur-media
+  name: Entrepreneur Media
+  type: company
+  url: https://www.entrepreneur.com/
+  geo:
+  - US
+  aliases: []
+  notes: Editorial estadounidense demandante contra Meta por entrenamiento con libros
+    pirateados. Ficha mínima.
+  stub: true
+- id: ent-claroc
+  name: Claroc
+  type: company
+  url: https://claroc.com/
+  geo:
+  - US
+  aliases: []
+  notes: Empresa de seguridad; investigación GhostShares sobre enlaces compartidos
+    de Meta Muse (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-womble-bond-dickinson
+  name: Womble Bond Dickinson
+  type: law_firm
+  url: https://www.womblebonddickinson.com/
+  geo:
+  - GB
+  - US
+  aliases:
+  - Womble
+  notes: Despacho transatlántico; lanza Womble AI Labs (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-moonlit
+  name: Moonlit
+  type: vendor
+  url: https://www.moonlit.ai/
+  geo:
+  - NL
+  - EU
+  aliases: []
+  notes: Editorial jurídica neerlandesa con IA; Commentaries gratuitos (oct 2026).
+    Ficha mínima.
+  stub: true
+- id: ent-lawfairy
+  name: LawFairy
+  type: law_firm
+  url: https://www.lawfairy.co.uk/
+  geo:
+  - GB
+  aliases: []
+  notes: Despacho solo tecnológico autorizado por la SRA; modelo determinista sin
+    IA generativa. Ficha mínima.
+  stub: true

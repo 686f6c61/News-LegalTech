@@ -1,0 +1,10 @@
+id: ent-claroc
+name: Claroc
+type: company
+url: https://claroc.com/
+geo:
+- US
+aliases: []
+notes: Empresa de seguridad; investigación GhostShares sobre enlaces compartidos de
+  Meta Muse (oct 2026). Ficha mínima.
+stub: true

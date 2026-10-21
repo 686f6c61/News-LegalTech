@@ -2,7 +2,7 @@
 
 ## Catálogo completo
 
-Hoy hay 158 fuentes news y 9 fuentes agenda.
+Hoy hay 159 fuentes news y 9 fuentes agenda.
 
 - **Canónico:** `catalog.yaml`
 - **Alias:** `full-catalog.yaml` (mismo contenido)
