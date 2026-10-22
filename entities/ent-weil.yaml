@@ -1,0 +1,11 @@
+id: ent-weil
+name: Weil, Gotshal & Manges
+type: law_firm
+url: https://www.weil.com/
+geo:
+- US
+aliases:
+- Weil
+notes: Despacho neoyorquino; equipo LASER y programa de IA para summer associates
+  1L (oct 2026). Ficha mínima.
+stub: true

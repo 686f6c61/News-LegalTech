@@ -1,0 +1,12 @@
+id: ent-tjue
+name: Tribunal de Justicia de la Unión Europea
+type: government
+url: https://curia.europa.eu/
+geo:
+- EU
+aliases:
+- TJUE
+- CJEU
+- EuGH
+notes: Tribunal de Justicia de la UE. Ficha mínima.
+stub: true

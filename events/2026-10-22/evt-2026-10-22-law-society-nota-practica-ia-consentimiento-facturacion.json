@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-22-law-society-nota-practica-ia-consentimiento-facturacion",
+  "date": "2026-10-21",
+  "type": "guidance",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "La Law Society de Inglaterra y Gales avisa de que usar IA puede exigir el consentimiento del cliente y de que no se puede facturar el tiempo que la tarea habría llevado sin IA",
+  "short_title": "Law Society: consentimiento del cliente y facturación honesta con IA",
+  "standfirst": "Una nota de práctica extensa recuerda que el solicitor responde de lo que produce la IA, pide escepticismo profesional frente a los resultados y menciona incluso el impacto ambiental.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Reino Unido",
+  "piece_type": "Orientación",
+  "summary_p1": "La Law Society de Inglaterra y Gales ha publicado esta semana una extensa nota de práctica sobre el uso de IA en los despachos, según Legal Futures (21 de octubre de 2026). Su idea central es que el solicitor sigue respondiendo del trabajo que produce la IA y debe aplicar un nivel de intervención humana y salvaguardas proporcional al riesgo de cada uso, tanto en la gestión del despacho como en el ejercicio; con agentes y sistemas más autónomos, esa supervisión es «cada vez más importante». Contra el sesgo de automatización, propone tratar lo que produce la IA con el mismo escepticismo que el trabajo de un trainee o un junior. Sobre el cliente: si la IA se usa para interactuar con él o asesorarle, debe entender dónde se usa en su asunto; para tareas administrativas internas, o en sistemas propios y seguros donde los datos no entrenan modelos, el consentimiento informado no será normalmente necesario y basta la transparencia; pero usar información del cliente de modo que pueda romper la confidencialidad, incluido entrenar IA, probablemente exigirá consentimiento específico, que puede recogerse en la hoja de encargo.",
+  "summary_p2": "En facturación, la nota es tajante: si se cobra por horas, solo se puede facturar el tiempo realmente empleado, y no el que la tarea habría llevado sin IA; sí puede cobrarse el tiempo de manejar la herramienta, revisar y verificar el resultado y aplicar criterio profesional, si lo permite la hoja de encargo, y cualquier cargo tecnológico aparte debe explicarse y pactarse antes sin duplicar lo ya cobrado. Sobre la posible negligencia por no usar IA, que el UK Jurisdiction Taskforce planteó en julio, la Law Society responde que dependerá de lo que exijan reguladores o tribunales, y que ni ella ni la SRA prevén obligar a usarla. Añade que la huella ambiental de la IA puede chocar con compromisos de cero emisiones del despacho o del cliente. Para despachos españoles con clientes británicos, o que copian estándares anglosajones, es una plantilla útil para la cláusula de IA en la hoja de encargo y para la política de minutas. Matiz: es una nota de práctica de la asociación profesional, no una norma de la SRA; Artificial Lawyer resume además que la nota recuerda que «la IA no es una persona jurídica».",
+  "why_sota": "Primer criterio detallado de un colegio profesional grande sobre consentimiento, confidencialidad y facturación por horas con IA.",
+  "why_now": "Legal Futures y Artificial Lawyer, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "deontologia",
+    "facturacion",
+    "consentimiento",
+    "confidencialidad",
+    "supervision-humana"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-society-you-may-sometimes-need-client-consent-to-use-ai",
+      "cited_title": "Law Society: You may sometimes need client consent to use AI",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-law-society",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

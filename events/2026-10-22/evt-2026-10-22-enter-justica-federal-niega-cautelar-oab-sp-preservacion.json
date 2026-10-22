@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-22-enter-justica-federal-niega-cautelar-oab-sp-preservacion",
+  "date": "2026-10-21",
+  "type": "litigation",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "La Justicia Federal de São Paulo no frena por ahora a la legaltech Enter, pero le ordena conservar contratos, versiones de sus modelos de IA y registros de uso desde 2024",
+  "short_title": "Brasil: la juez no frena a Enter pero le ordena conservar sus modelos",
+  "standfirst": "La juez aprecia una «controversia plausible» sobre la automatización y la revisión humana, deja las restrictivas para después de la prueba y admite a la OAB de Río como coautora.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Brasil",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "La juez Raquel Fernandez Perrini, de la 4ª Vara Cível Federal de São Paulo, resolvió el 21 de octubre de 2026 las medidas urgentes de la acción civil pública de la OAB de São Paulo contra Enter, la startup de agentes de IA para el sector jurídico valorada en 1.200 millones de dólares, según Folha de S.Paulo. Radar contó la demanda el 7 de octubre. La juez rechaza por ahora suspender la publicidad que presenta a Enter como sustituto del abogado y prohibirle cerrar contratos de estrategia procesal o redacción de escritos sin un abogado responsable identificado: dice que esas peticiones exigen prueba y contradicción. Sí le ordena conservar contratos, versiones de sus modelos de IA y registros de uso de la plataforma desde enero de 2024, y le pide datos sobre remuneración, reparto de procesos a abogados y criterios de éxito, con una multa de 50.000 reales por incumplimiento, la mitad de lo pedido. Según la resolución, hay una «controversia plausible» sobre el grado de automatización de los escritos, la revisión humana, quién fija la estrategia y la relación con los despachos.",
+  "summary_p2": "La juez rechazó además suspender el proceso, como pedía Enter alegando que negocia desde hace meses con el Consejo Federal de la OAB: negociar un acuerdo no impide la vía judicial. Pidió al Consejo Federal que informe en diez días del estado de esas conversaciones y admitió a la OAB de Río de Janeiro como coautora. La OAB-SP ha aportado documentos sobre EnterOS, recibidos en parte de forma anónima y sin autenticidad confirmada, que según la Ordem apuntan a contratos a tres bandas, reparto de asuntos a despachos y participación en honorarios de éxito; la juez declaró secreta parte de ese material. Enter sostiene que es una empresa tecnológica, que no presta servicios jurídicos y que los escritos los revisan y presentan abogados; dice procesar más de 300.000 procesos al año para clientes como Nubank, Itaú, Bradesco, Latam, Gol y Azul. Para vendors de IA que trabajan para grandes litigantes, la orden de conservar versiones de modelo y logs anticipa lo que pedirá cualquier juez que examine un sistema así: trazabilidad por versión y por escrito. Matiz: es una resolución cautelar, sin juicio sobre la legalidad del modelo de negocio; Folha tiene muro de pago parcial.",
+  "why_sota": "Primera resolución judicial en el pleito que enfrenta a un colegio de abogados con una legaltech de IA agéntica a gran escala.",
+  "why_now": "Decisión del 21 oct 2026 (Folha, 21 oct 2026). Seguimiento con cambio material de la pieza del 7 de octubre.",
+  "geo": [
+    "BR"
+  ],
+  "topics": [
+    "ejercicio-ilegal",
+    "ia-agentica",
+    "litigacion-masiva",
+    "preservacion-de-prueba",
+    "colegios-profesionales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-folha-de-s-paulo",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/justica-rejeita-suspensao-imediata-de-servicos-de-startup-juridica-de-ia-por-pedido-da-oab-sp.shtml",
+      "cited_title": "Justiça rejeita suspensão imediata de serviços de startup jurídica de IA por pedido da OAB-SP",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-enter",
+    "ent-oab-sp",
+    "ent-oab-rj",
+    "ent-folha-de-s-paulo"
+  ],
+  "lang": "es",
+  "status": "published"
+}

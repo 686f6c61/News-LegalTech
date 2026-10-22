@@ -1,0 +1,11 @@
+id: ent-estonia-dpi
+name: Andmekaitse Inspektsioon (Estonian Data Protection Inspectorate)
+type: regulator
+url: https://www.aki.ee/
+geo:
+- EE
+aliases:
+- AKI
+- Data Protection Inspectorate
+notes: Autoridad estonia de protección de datos. Ficha mínima.
+stub: true

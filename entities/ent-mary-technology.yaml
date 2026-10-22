@@ -1,0 +1,11 @@
+id: ent-mary-technology
+name: Mary Technology
+type: vendor
+url: https://www.marytechnology.com/us/
+geo:
+- AU
+aliases:
+- Mary
+notes: Startup australiana de investigación de hechos para litigación; conector MCP
+  con Harvey (oct 2026). Ficha mínima.
+stub: true

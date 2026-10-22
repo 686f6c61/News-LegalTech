@@ -1,0 +1,10 @@
+id: ent-schufa
+name: SCHUFA Holding AG
+type: company
+url: https://www.schufa.de/
+geo:
+- DE
+aliases:
+- Schufa
+notes: Agencia alemana de información crediticia y scoring. Ficha mínima.
+stub: true

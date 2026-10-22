@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-22-weil-programa-ia-summer-associates-laser",
+  "date": "2026-10-21",
+  "type": "market",
+  "sota_score": 6.2,
+  "ai_legaltech": true,
+  "title": "Weil crea un programa de verano para estudiantes de primero que trabajarán con su equipo de ingeniería jurídica en IA: Python, una red neuronal propia y proyectos reales",
+  "short_title": "Weil lanza un programa de verano de IA para estudiantes de Derecho",
+  "standfirst": "Los seleccionados para 2027 tendrán plaza en el programa de segundo año de 2028; el objetivo declarado no es hacerlos ingenieros sino mejores abogados.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Formación jurídica",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Weil, Gotshal & Manges ha lanzado un programa para parte de sus summer associates de primer curso (1L), que pasarán su estancia trabajando en el «desarrollo y uso de la IA en la práctica jurídica» con su equipo LASER (Lawyer Augmented Solutions Engineering and Research), según Artificial Lawyer (21 de octubre de 2026). Durante diez semanas trabajarán en proyectos jurídicos activos, aprenderán Python desde cero, construirán una red neuronal y estudiarán las tecnologías que hay detrás de los grandes modelos de lenguaje, con un mentor «LASER Architect»; también ayudarán a desarrollar aplicaciones y contribuirán a investigación académica sobre IA y derecho. Los seleccionados para 2027 recibirán además oferta para el programa de 2L de 2028.",
+  "summary_p2": "«La tecnología siempre ha cambiado la forma de ejercer, y la IA no será diferente», dice Ramona Nee, próxima Executive Partner del despacho. Andrew Simon, su Chief AI & Innovation Officer, aclara que la meta no es convertirlos en ingenieros de software, sino en abogados que entiendan la IA lo bastante como para hacer mejores preguntas y trabajar con perfiles distintos. Es la contracara de la preocupación por la formación de los juniors cuando la IA absorbe el trabajo de base: un gran despacho usa la cantera para crear perfiles híbridos antes de que lleguen a la práctica. Para despachos españoles con programas de prácticas, es un modelo concreto a copiar o a medir; para facultades, una señal de qué competencias empieza a pagar el mercado. Matiz: el anuncio no dice cuántas plazas habrá.",
+  "why_sota": "Un despacho del AmLaw 100 diseña la cantera para crear abogados con base técnica real en IA.",
+  "why_now": "Artificial Lawyer, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "talento",
+    "formacion",
+    "despachos",
+    "ingenieria-juridica",
+    "juniors"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/21/weil-starts-special-ai-program-for-summer-associates/",
+      "cited_title": "Weil Starts Special AI Program for Summer Associates",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-weil",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

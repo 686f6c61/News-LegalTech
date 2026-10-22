@@ -1,0 +1,83 @@
+scan_id: full-radar-2026-10-22
+date: '2026-10-22'
+release: 22.10.26
+count: 11
+ai_share: 0.73
+dedup_against: events/2026-09-29 → 2026-10-21 + scans PASS
+event_ids:
+- evt-2026-10-22-legora-serie-e-550m-valoracion-8800m
+- evt-2026-10-22-law-society-nota-practica-ia-consentimiento-facturacion
+- evt-2026-10-22-enter-justica-federal-niega-cautelar-oab-sp-preservacion
+- evt-2026-10-22-harvey-mary-technology-conector-hechos-litigacion
+- evt-2026-10-22-august-products-servicios-productizados-agentes
+- evt-2026-10-22-everlaw-informe-in-house-menos-trabajo-despachos-externos
+- evt-2026-10-22-estonia-grabacion-consultas-medicas-ia-base-juridica
+- evt-2026-10-22-weil-programa-ia-summer-associates-laser
+- evt-2026-10-22-meta-nuevo-mexico-sancion-25000-millones-privacidad
+- evt-2026-10-22-bgh-schufa-scoring-derecho-acceso-logica-rgpd
+- evt-2026-10-22-tjue-c-70-25-phishing-reembolso-inmediato-bancos
+events:
+- id: evt-2026-10-22-legora-serie-e-550m-valoracion-8800m
+  sota_score: 8.2
+  ai_legaltech: true
+  title: Legora levanta 550 millones de dólares en una Serie E que la valora en 8.800
+    millones y asegura haber pasado de 200 millones de ingresos recurrentes
+- id: evt-2026-10-22-law-society-nota-practica-ia-consentimiento-facturacion
+  sota_score: 8.0
+  ai_legaltech: true
+  title: La Law Society de Inglaterra y Gales avisa de que usar IA puede exigir el
+    consentimiento del cliente y de que no se puede facturar el tiempo que la tarea
+    habría llevado sin IA
+- id: evt-2026-10-22-enter-justica-federal-niega-cautelar-oab-sp-preservacion
+  sota_score: 7.9
+  ai_legaltech: true
+  title: La Justicia Federal de São Paulo no frena por ahora a la legaltech Enter,
+    pero le ordena conservar contratos, versiones de sus modelos de IA y registros
+    de uso desde 2024
+- id: evt-2026-10-22-harvey-mary-technology-conector-hechos-litigacion
+  sota_score: 7.2
+  ai_legaltech: true
+  title: 'Harvey se conecta al expediente de hechos de Mary Technology: el trabajo
+    ya revisado por el equipo de litigación, con contradicciones y lagunas, entra
+    en el asistente'
+- id: evt-2026-10-22-august-products-servicios-productizados-agentes
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'August lanza Products: los despachos convierten un servicio en producto
+    a precio fijo que ejecutan sus agentes con sus precedentes y un abogado que valida'
+- id: evt-2026-10-22-everlaw-informe-in-house-menos-trabajo-despachos-externos
+  sota_score: 6.8
+  ai_legaltech: true
+  title: Más de la mitad de los equipos in-house ya envían menos trabajo a despachos
+    externos y el 81% cree que en cinco años casi todo se cobrará por resultado, según
+    un informe de Everlaw
+- id: evt-2026-10-22-estonia-grabacion-consultas-medicas-ia-base-juridica
+  sota_score: 6.7
+  ai_legaltech: true
+  title: La IA que graba y resume consultas médicas se extiende en Estonia y el regulador
+    de datos advierte de que el audio necesita su propia base jurídica, probablemente
+    el consentimiento explícito
+- id: evt-2026-10-22-weil-programa-ia-summer-associates-laser
+  sota_score: 6.2
+  ai_legaltech: true
+  title: 'Weil crea un programa de verano para estudiantes de primero que trabajarán
+    con su equipo de ingeniería jurídica en IA: Python, una red neuronal propia y
+    proyectos reales'
+- id: evt-2026-10-22-meta-nuevo-mexico-sancion-25000-millones-privacidad
+  sota_score: 6.6
+  ai_legaltech: false
+  title: Un juez de Nuevo México fija en 25.000 millones de dólares la sanción a Meta
+    por engañar a los usuarios sobre el control de sus datos, cinco veces la multa
+    de la FTC de 2019
+- id: evt-2026-10-22-bgh-schufa-scoring-derecho-acceso-logica-rgpd
+  sota_score: 6.5
+  ai_legaltech: false
+  title: 'El Supremo alemán precisa cuándo debe la Schufa explicar cómo calcula su
+    scoring: primero hay que probar que el score pesó en un perjuicio concreto, pero
+    basta la coincidencia en el tiempo'
+- id: evt-2026-10-22-tjue-c-70-25-phishing-reembolso-inmediato-bancos
+  sota_score: 6.0
+  ai_legaltech: false
+  title: El TJUE obliga a los bancos a devolver primero el dinero robado por phishing,
+    como tarde al final del día hábil siguiente, aunque sospechen negligencia grave
+    del cliente

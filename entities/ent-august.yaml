@@ -1,0 +1,10 @@
+id: ent-august
+name: August
+type: vendor
+url: https://www.august.law/
+geo:
+- US
+aliases: []
+notes: Plataforma de IA jurídica con agentes; lanza Products para productizar servicios
+  de despachos (oct 2026). Ficha mínima.
+stub: true

@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-10-22-harvey-mary-technology-conector-hechos-litigacion",
+  "date": "2026-10-21",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Harvey se conecta al expediente de hechos de Mary Technology: el trabajo ya revisado por el equipo de litigación, con contradicciones y lagunas, entra en el asistente",
+  "short_title": "Harvey accede a los hechos revisados de Mary Technology vía conector",
+  "standfirst": "La australiana Mary organiza pruebas, hallazgos y su revisión por abogados; el conector MCP lleva ese registro a Harvey para redactar e investigar sin empezar de cero.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Mary Technology, startup australiana de investigación de hechos para litigación, ha anunciado una integración con Harvey que da a esta plataforma acceso al registro del asunto que se mantiene en Mary, incluidos hallazgos previos, prueba de apoyo y la revisión que el equipo ha hecho de esos hallazgos, según Unite.AI (21 de octubre de 2026); Law.com también lo recoge. Mary lee y mapea los documentos del asunto antes de la primera pregunta y conserva hallazgos y revisión a medida que avanza el caso, de modo que cada nueva tarea con IA no arranca de cero. Los usos que citan: valorar la prueba a favor y en contra de una alegación, contrastar la declaración de un testigo con documentos de la época o seguir pagos y transferencias en registros financieros, manteniendo visibles contradicciones, lagunas y prueba que corrobora, e indicando qué documentos se usaron y cuáles se excluyeron.",
+  "summary_p2": "Los abogados confirman hechos, ven lo que han confirmado sus compañeros y tienen historial de auditoría; si llegan documentos nuevos, Mary propone cambios y el usuario los acepta antes de que se apliquen y lleguen a Harvey por el conector. Mary afirma que el despacho conserva el control de accesos y que el contenido de los asuntos no entrena modelos. «El valor de la IA en litigación depende de la calidad del registro de hechos del que parte», dice su cofundador Daniel Lord-Doyle. Para despachos de litigación, el interés está en que la capa de hechos revisados deje de ser una hoja de Excel paralela y alimente al asistente con sus matices; para vendors, confirma que Harvey, como Legora, se abre a especialistas vía MCP. Matiz: es un anuncio de las empresas; no hay métricas independientes de cuánto reduce errores de hecho, y cada despacho debe comprobar cómo encaja con sus permisos y su revisión.",
+  "why_sota": "Lleva al asistente generalista la capa de hechos revisados por humanos, con contradicciones y trazabilidad, no solo documentos sueltos.",
+  "why_now": "Unite.AI y Law.com, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "AU",
+    "US",
+    "GLOBAL"
+  ],
+  "topics": [
+    "litigacion",
+    "mcp",
+    "integraciones",
+    "trazabilidad",
+    "hechos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/mary-technology-partners-with-harvey-to-bring-reviewed-case-facts-into-legal-ai/",
+      "cited_title": "Mary Technology Partners With Harvey to Bring Reviewed Case Facts Into Legal AI",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-mary-technology",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

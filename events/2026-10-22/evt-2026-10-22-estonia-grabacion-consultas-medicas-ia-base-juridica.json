@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-22-estonia-grabacion-consultas-medicas-ia-base-juridica",
+  "date": "2026-10-21",
+  "type": "guidance",
+  "sota_score": 6.7,
+  "ai_legaltech": true,
+  "title": "La IA que graba y resume consultas médicas se extiende en Estonia y el regulador de datos advierte de que el audio necesita su propia base jurídica, probablemente el consentimiento explícito",
+  "short_title": "Estonia: grabar consultas médicas con IA exige base jurídica propia",
+  "standfirst": "La ley sanitaria obliga a conservar 30 años la historia confirmada, pero no dice nada del audio, la transcripción ni el borrador de la IA.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Protección de datos",
+  "country": "Estonia",
+  "piece_type": "Orientación",
+  "summary_p1": "Los sistemas de IA que graban la conversación entre médico y paciente y redactan resúmenes se están extendiendo en la sanidad estonia, según ComplexDiscovery (21 de octubre de 2026), a partir de un reportaje de ERR News del 19 de octubre: la privada Confido ya los usa en varios departamentos, el hospital de Narva licita software de transcripción en estonio y Heba Clinic documenta visitas con IA; el piloto EMO24 del Hospital Universitario de Tartu, iniciado el 14 de octubre, es en cambio un cuestionario escrito en el móvil. La ley de organización de servicios sanitarios obliga a conservar 30 años la documentación confirmada de la asistencia, pero ni la ley ni el reglamento de documentación mencionan el audio ni la transcripción. En dos cartas de 16 de abril y 7 de mayo de 2026, la Inspección de Protección de Datos (AKI) sostiene que grabar la consulta no queda cubierto automáticamente por esa ley y necesita base jurídica propia, y apunta al consentimiento explícito del paciente.",
+  "summary_p2": "La AKI distingue dos fases: el borrador que el médico revisa, corrige y firma puede entenderse parte de la asistencia, y una vez confirmado ya es documentación clínica que no se puede borrar a voluntad; la grabación íntegra, que recoge mucho más que lo necesario, es otra cosa. Para que el consentimiento valga, el paciente debe poder recibir la misma atención si se niega. Si el vendor quiere usar los datos para mejorar su modelo, es una finalidad nueva para la que el consentimiento es, en la práctica, casi imposible de obtener; recomienda mantener las transcripciones en el Espacio Económico Europeo y ve indicios de alto riesgo que exigen evaluación de impacto. El Ministerio de Asuntos Sociales admite que hace falta más claridad jurídica y tiene grupos de trabajo. Para hospitales y vendors de transcripción clínica en España, que se enfrentan a lo mismo bajo el RGPD, el criterio es directamente trasladable: hay que inventariar audio, transcripción bruta, borrador de IA, entrada confirmada y logs, y decidir quién los guarda y cuánto tiempo. Matiz: la primera carta dice expresamente que no es una evaluación vinculante.",
+  "why_sota": "Un regulador europeo separa con claridad la grabación de la consulta del registro clínico que genera la IA.",
+  "why_now": "ComplexDiscovery, 21 oct 2026 (ERR News, 19 oct). NEW frente a 09-29→10-21.",
+  "geo": [
+    "EE",
+    "EU"
+  ],
+  "topics": [
+    "rgpd",
+    "sanidad",
+    "transcripcion",
+    "consentimiento",
+    "conservacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/ai-recording-spreads-in-estonian-health-care-as-the-regulator-says-the-audio-needs-its-own-legal-basis/",
+      "cited_title": "AI recording spreads in Estonian health care as the regulator says the audio needs its own legal basis",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-estonia-dpi",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

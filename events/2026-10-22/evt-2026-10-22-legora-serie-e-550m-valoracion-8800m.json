@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-22-legora-serie-e-550m-valoracion-8800m",
+  "date": "2026-10-21",
+  "type": "funding",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "Legora levanta 550 millones de dólares en una Serie E que la valora en 8.800 millones y asegura haber pasado de 200 millones de ingresos recurrentes",
+  "short_title": "Legora capta 550 millones y se valora en 8.800 millones de dólares",
+  "standfirst": "La ronda la lidera Atreides Management; la valoración sube desde los 5.600 millones de la anterior y el dinero irá a expansión internacional y a su sistema agéntico aOS.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "",
+  "piece_type": "Inversión",
+  "summary_p1": "Legora ha cerrado una Serie E de 550 millones de dólares con una valoración post-money de 8.800 millones, según LegalTech.ca (21 de octubre de 2026). La ronda la lidera Atreides Management, entran como nuevos inversores Baron Capital, Capital Group, Fidelity Management & Research, Glade Brook Capital Partners y J.P. Morgan, y repiten Accel, Benchmark, Bessemer Venture Partners, General Catalyst y Salesforce Ventures. La valoración anterior era de 5.600 millones. Según la propia compañía, sus ingresos recurrentes anuales superan ya los 200 millones de dólares: tardó menos de 18 meses en pasar de 1 a 100 millones y menos de seis en sumar los 100 siguientes. Fundada en 2023 y con producto en el mercado desde octubre de 2024, Legora dice tener más de 1.000 empleados en 18 oficinas y más de 140.000 profesionales usuarios en más de 2.400 despachos y asesorías jurídicas de más de 80 mercados.",
+  "summary_p2": "El dinero irá a crecer en Norteamérica, Europa, Latinoamérica y Asia-Pacífico y a desarrollar Legora aOS, que la empresa presenta como un sistema operativo agéntico en el que los abogados trabajan junto a agentes de IA, con inversión en intake, vigilancia normativa (horizon scanning) e investigación jurídica. Dos datos dicen hacia dónde va el negocio: Estados Unidos ya es su primer mercado por ingresos, con más de la mitad del AmLaw 50 como clientes, y los departamentos jurídicos internos fueron más del 40% de los nuevos clientes del tercer trimestre, frente a una fracción pequeña un año antes. Para despachos y empresas que negocian con Legora o con Harvey, la ronda confirma que ambos pelean por ser la capa de trabajo del abogado, no una herramienta más, y que la presión comercial sobre el cliente in-house va a subir. Matiz: las cifras de ingresos, usuarios y clientes son de la propia Legora y no están auditadas.",
+  "why_sota": "La mayor ronda reciente de una plataforma de IA jurídica europea y la primera con métricas de ingresos de ese tamaño.",
+  "why_now": "LegalTech.ca, Artificial Lawyer y The Lawyer, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "SE",
+    "US",
+    "GLOBAL"
+  ],
+  "topics": [
+    "financiacion",
+    "ia-juridica",
+    "agentes",
+    "in-house",
+    "mercado"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/21/legora-raises-550-million-8-billion-valuation/",
+      "cited_title": "Legora Raises $550 Million at $8.8 Billion Valuation to Expand Legal AI Platform",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-legora",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

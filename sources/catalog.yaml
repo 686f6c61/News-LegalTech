@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 159
+count: 160
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1769,4 +1769,15 @@ sources:
     de prensa de nyc.gov.
   region: US
   lang: EN
+  tier: archive
+- id: src-folha-de-s-paulo
+  name: Folha de S.Paulo
+  url: https://www.folha.uol.com.br/
+  type: media
+  kind: news
+  frequency: continuo
+  why: Diario brasileño de referencia (incluye la sección C-Level de negocios). Ficha
+    añadida para citar URLs de folha.uol.com.br.
+  region: BR
+  lang: PT
   tier: archive

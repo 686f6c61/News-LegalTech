@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-22-tjue-c-70-25-phishing-reembolso-inmediato-bancos",
+  "date": "2026-10-21",
+  "type": "case_law",
+  "sota_score": 6.0,
+  "ai_legaltech": false,
+  "title": "El TJUE obliga a los bancos a devolver primero el dinero robado por phishing, como tarde al final del día hábil siguiente, aunque sospechen negligencia grave del cliente",
+  "short_title": "TJUE: el banco devuelve primero el dinero del phishing",
+  "standfirst": "La sospecha de negligencia grave no permite retrasar el reembolso; el banco podrá reclamar luego las pérdidas si prueba esa negligencia.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Ciberseguridad",
+  "country": "Unión Europea",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Tribunal de Justicia de la UE (asunto C-70/25) ha establecido que los bancos no pueden negarse a devolver de inmediato el dinero sustraído mediante operaciones de pago no autorizadas alegando que el cliente pudo actuar con negligencia grave, según el análisis que publica la Abogacía Española (21 de octubre de 2026), firmado por Juan Carlos Añón, presidente de la Sección de Consumo del Colegio de la Abogacía de Valencia. El caso es el de una mujer polaca que, al vender un objeto por internet, recibió de un supuesto comprador un enlace fraudulento que permitió a los estafadores operar. La entidad debe reembolsar como máximo al final del día hábil siguiente a la notificación; la única excepción del artículo 73.1 de la Directiva 2015/2366 (en España, artículo 45 del Real Decreto-ley 19/2018) es la sospecha razonable de fraude del propio usuario, comunicada por escrito a la autoridad.",
+  "summary_p2": "La sentencia separa dos momentos: primero, la devolución inmediata; después, quién soporta la pérdida. El banco podrá reclamar al cliente si acredita que actuó de forma fraudulenta o con negligencia grave en la custodia de sus credenciales, y le corresponde probar que la operación fue autenticada y registrada correctamente. Si no devuelve, el usuario puede reclamar judicialmente, tras el paso previo por un medio adecuado de solución de controversias cuando proceda. Para asesorías de entidades financieras, obliga a revisar protocolos antifraude y de reclamación; para despachos de consumo, deja de ser necesario litigar para recuperar primero el dinero. Matiz: la pieza se basa en un análisis publicado por la Abogacía, no en el texto de la sentencia, cuya fecha no se indica.",
+  "why_sota": "Cierra la práctica de retener reembolsos de phishing alegando negligencia grave del cliente.",
+  "why_now": "Abogacía Española, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "EU",
+    "ES",
+    "PL"
+  ],
+  "topics": [
+    "phishing",
+    "servicios-de-pago",
+    "psd2",
+    "consumo",
+    "fraude"
+  ],
+  "sources": [
+    {
+      "source_id": "src-consejo-general-de-la-abogacia-espanola-cgae",
+      "url": "https://www.abogacia.es/actualidad/opinion-y-analisis/el-tjue-obliga-a-los-bancos-a-devolver-de-inmediato-el-dinero-sustraido-por-phishing/",
+      "cited_title": "El TJUE obliga a los bancos a devolver de inmediato el dinero sustraído por ‘phishing’",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-tjue",
+    "ent-cgae"
+  ],
+  "lang": "es",
+  "status": "published"
+}

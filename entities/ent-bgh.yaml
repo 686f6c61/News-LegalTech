@@ -1,0 +1,10 @@
+id: ent-bgh
+name: Bundesgerichtshof
+type: government
+url: https://www.bundesgerichtshof.de/
+geo:
+- DE
+aliases:
+- BGH
+notes: Tribunal Supremo federal alemán en materia civil y penal. Ficha mínima.
+stub: true

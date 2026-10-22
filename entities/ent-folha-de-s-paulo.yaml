@@ -1,0 +1,10 @@
+id: ent-folha-de-s-paulo
+name: Folha de S.Paulo
+type: media
+url: https://www.folha.uol.com.br/
+geo:
+- BR
+aliases:
+- Folha
+notes: Diario brasileño; sección C-Level de negocios. Ficha mínima.
+stub: true

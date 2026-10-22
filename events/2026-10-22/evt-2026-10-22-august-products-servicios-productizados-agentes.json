@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-22-august-products-servicios-productizados-agentes",
+  "date": "2026-10-21",
+  "type": "product",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "August lanza Products: los despachos convierten un servicio en producto a precio fijo que ejecutan sus agentes con sus precedentes y un abogado que valida",
+  "short_title": "August Products: servicios jurídicos productizados con agentes",
+  "standfirst": "El despacho decide qué vender y dónde firma un abogado; la orquestación de August construye la aplicación y guarda las correcciones como skills reutilizables.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "La plataforma de IA jurídica August ha lanzado Products, una función para que los despachos conviertan servicios jurídicos en productos, según Artificial Lawyer (21 de octubre de 2026). El despacho decide qué quiere vender y la capa de orquestación de August construye la aplicación completa y la conecta con los agentes del propio despacho, que trabajan con sus precedentes, plantillas y playbooks, con un abogado que revisa antes de que el resultado llegue al cliente. Cuando un abogado corrige el trabajo de un agente, August puede guardar esa corrección como una skill que los agentes reutilizan en el siguiente asunto. «Los despachos pueden obtener ingresos recurrentes de su conocimiento, como las empresas de software con sus productos», dice Riyaan Bakhda, ingeniero fundador de August.",
+  "summary_p2": "La idea no es nueva, y Artificial Lawyer recuerda que Allen & Overy ya vendía productos con reglas y automatización documental hace más de una década con aOSphere; lo distinto es que ahora los agentes hacen buena parte del trabajo y el precio suele ser fijo. El cliente citado es Hicksons, en Australia: su socio David Fischl dice que los agentes trabajan con precedentes de sus expertos para cada cliente, que el despacho decide dónde firma un abogado y que el resultado es «reconociblemente trabajo de Hicksons» con precio cerrado. Para despachos medianos, es una vía para monetizar trabajo de volumen sin montar un equipo de producto; obliga a decidir qué controles de calidad y qué responsabilidad asume quien firma. Matiz: la información procede de August y de un cliente; no hay datos de precios ni de adopción.",
+  "why_sota": "Pasa de la productización con reglas a servicios productizados ejecutados por agentes que aprenden de las correcciones del despacho.",
+  "why_now": "Artificial Lawyer, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "US",
+    "AU",
+    "GLOBAL"
+  ],
+  "topics": [
+    "productizacion",
+    "agentes",
+    "precio-fijo",
+    "despachos",
+    "skills"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/21/august-applies-agents-to-law-firm-productization/",
+      "cited_title": "August Applies Agents to Law Firm Productization",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-august",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

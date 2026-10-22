@@ -1,0 +1,11 @@
+id: ent-cgae
+name: Consejo General de la Abogacía Española
+type: association
+url: https://www.abogacia.es/
+geo:
+- ES
+aliases:
+- CGAE
+- Abogacía Española
+notes: Órgano representativo de la abogacía española. Ficha mínima.
+stub: true

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-22-everlaw-informe-in-house-menos-trabajo-despachos-externos",
+  "date": "2026-10-20",
+  "type": "research",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Más de la mitad de los equipos in-house ya envían menos trabajo a despachos externos y el 81% cree que en cinco años casi todo se cobrará por resultado, según un informe de Everlaw",
+  "short_title": "Everlaw: la mitad de los in-house ya encargan menos a despachos",
+  "standfirst": "La encuesta, con Wakefield Research a 300 abogados internos y profesionales de legal ops, liga el recorte a la confianza en la IA generativa.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "In-house",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Más del 50% de los equipos jurídicos internos han reducido el trabajo que envían a despachos externos y otro 44% piensa hacerlo en el próximo año, según el In-House Innovation Report de Everlaw publicado el 20 de octubre de 2026, que recoge el ABA Journal (21 de octubre). «Gran parte es simplemente confianza en lo que aporta la tecnología», dijo a Law.com Gloria Lee, directora jurídica de Everlaw, en referencia al uso creciente de herramientas de IA generativa en los departamentos. A la hora de elegir qué va fuera, el 56% dice que recurre al despacho por visión de negocio y comercial y el 54% para gestionar asuntos complejos; solo el 27% le encarga trabajo jurídico rutinario.",
+  "summary_p2": "El informe también anticipa un cambio de modelo de precio: el 81% cree que en cinco años la mayor parte del trabajo jurídico se cobrará por resultado y no por hora facturable, y casi la mitad piensa que ocurrirá en tres. Everlaw hizo la encuesta con Wakefield Research a 300 abogados in-house y profesionales de legal operations. Para despachos, el mensaje es que el trabajo rutinario que sostenía horas de asociados está volviendo a casa del cliente y que el valor se desplaza a criterio, negocio y asuntos complejos; para in-house, que el argumento interno para internalizar ya tiene datos de mercado, aunque sean de un vendor. Matiz: lo publica Everlaw, que vende herramientas de eDiscovery e IA a esos mismos equipos; la muestra es de 300 respuestas y no se detalla su reparto por tamaño o país.",
+  "why_sota": "Cuantifica la sustitución de trabajo externo por IA interna y la expectativa de abandonar la hora facturable.",
+  "why_now": "Informe Everlaw, 20 oct 2026; ABA Journal, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "in-house",
+    "encargo-externo",
+    "precio-por-resultado",
+    "ia-generativa",
+    "encuesta"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/nearly-all-in-house-teams-are-sending-less-work-to-outside-counsel-new-report-shows",
+      "cited_title": "Nearly all in-house teams send less work to outside counsel, new report shows",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-everlaw",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

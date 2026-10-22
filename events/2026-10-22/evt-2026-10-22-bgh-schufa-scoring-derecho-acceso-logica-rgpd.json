@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-22-bgh-schufa-scoring-derecho-acceso-logica-rgpd",
+  "date": "2026-10-21",
+  "type": "case_law",
+  "sota_score": 6.5,
+  "ai_legaltech": false,
+  "title": "El Supremo alemán precisa cuándo debe la Schufa explicar cómo calcula su scoring: primero hay que probar que el score pesó en un perjuicio concreto, pero basta la coincidencia en el tiempo",
+  "short_title": "BGH: cuándo debe la Schufa explicar la lógica de su scoring",
+  "standfirst": "El BGH anula en parte cuatro sentencias de Dresde que obligaban a revelar la ponderación de criterios y fija una presunción favorable al afectado.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "Alemania",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Bundesgerichtshof (BGH) anuló parcialmente el 21 de octubre de 2026 cuatro sentencias del Tribunal Superior Regional de Dresde que obligaban a la Schufa a revelar, entre otras cosas, la ponderación de los criterios más influyentes de su scoring, y devolvió los casos (I ZR 227/25 a I ZR 230/25), según Legal Tribune Online. El BGH confirma que el score de la Schufa es elaboración de perfiles en el sentido del artículo 4.4 del RGPD y recuerda que, según el TJUE (C-634/21, 2023), puede ser una decisión automatizada del artículo 22 si es determinante para la decisión de un tercero y afecta de forma significativa al interesado. Solo entonces nace el derecho del artículo 15.1.h a recibir información significativa sobre la lógica aplicada. Dresde no había comprobado ese punto para ninguno de los cuatro demandantes.",
+  "summary_p2": "La parte práctica: el BGH facilita la prueba. Basta que el afectado alegue que la Schufa transmitió su score a una empresa y que poco después hubo una decisión desfavorable, por ejemplo la denegación de un crédito, para presumir que el score fue determinante; se aparta así de exigencias más estrictas de otros tribunales. También deja claro que, si el derecho existe, las respuestas que la Schufa dio en 2023 no bastaban. Los casos se refieren al modelo antiguo: desde el 17 de marzo de 2026 la Schufa usa un nuevo score de 12 criterios entre 100 y 999 puntos, y el 20 de noviembre de 2026 entran en vigor en Alemania nuevas reglas que obligan a mostrar los criterios que más pesan. Para entidades financieras y vendors de scoring o de modelos de riesgo en España, el criterio sirve para medir qué deberán explicar cuando un modelo automatizado decida en la práctica, sea estadístico o de IA. Matiz: no es un caso de IA; el alcance concreto de la información debida lo decidirá ahora Dresde.",
+  "why_sota": "Concreta en el tribunal supremo civil alemán la doctrina Schufa del TJUE y cómo se prueba el carácter determinante de un score.",
+  "why_now": "BGH, 21 oct 2026; LTO, 21 oct 2026. NEW frente a 09-29→10-21.",
+  "geo": [
+    "DE",
+    "EU"
+  ],
+  "topics": [
+    "rgpd",
+    "scoring",
+    "decisiones-automatizadas",
+    "derecho-de-acceso",
+    "explicabilidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/nachrichten/n/bgh-izr22725-izr22825-izr22925-izr23025-schufa-score-auskunft-dsgvo",
+      "cited_title": "BGH zu automatisierter Bonitätsbewertung: Wann muss die Schufa ihr Scoring offenlegen?",
+      "accessed": "2026-10-22"
+    }
+  ],
+  "entities": [
+    "ent-bgh",
+    "ent-schufa",
+    "ent-legal-tribune-online"
+  ],
+  "lang": "es",
+  "status": "published"
+}

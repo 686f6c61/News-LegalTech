@@ -3449,3 +3449,99 @@ entities:
   notes: Despacho solo tecnológico autorizado por la SRA; modelo determinista sin
     IA generativa. Ficha mínima.
   stub: true
+- id: ent-folha-de-s-paulo
+  name: Folha de S.Paulo
+  type: media
+  url: https://www.folha.uol.com.br/
+  geo:
+  - BR
+  aliases:
+  - Folha
+  notes: Diario brasileño; sección C-Level de negocios. Ficha mínima.
+  stub: true
+- id: ent-mary-technology
+  name: Mary Technology
+  type: vendor
+  url: https://www.marytechnology.com/us/
+  geo:
+  - AU
+  aliases:
+  - Mary
+  notes: Startup australiana de investigación de hechos para litigación; conector
+    MCP con Harvey (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-august
+  name: August
+  type: vendor
+  url: https://www.august.law/
+  geo:
+  - US
+  aliases: []
+  notes: Plataforma de IA jurídica con agentes; lanza Products para productizar servicios
+    de despachos (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-weil
+  name: Weil, Gotshal & Manges
+  type: law_firm
+  url: https://www.weil.com/
+  geo:
+  - US
+  aliases:
+  - Weil
+  notes: Despacho neoyorquino; equipo LASER y programa de IA para summer associates
+    1L (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-estonia-dpi
+  name: Andmekaitse Inspektsioon (Estonian Data Protection Inspectorate)
+  type: regulator
+  url: https://www.aki.ee/
+  geo:
+  - EE
+  aliases:
+  - AKI
+  - Data Protection Inspectorate
+  notes: Autoridad estonia de protección de datos. Ficha mínima.
+  stub: true
+- id: ent-bgh
+  name: Bundesgerichtshof
+  type: government
+  url: https://www.bundesgerichtshof.de/
+  geo:
+  - DE
+  aliases:
+  - BGH
+  notes: Tribunal Supremo federal alemán en materia civil y penal. Ficha mínima.
+  stub: true
+- id: ent-schufa
+  name: SCHUFA Holding AG
+  type: company
+  url: https://www.schufa.de/
+  geo:
+  - DE
+  aliases:
+  - Schufa
+  notes: Agencia alemana de información crediticia y scoring. Ficha mínima.
+  stub: true
+- id: ent-tjue
+  name: Tribunal de Justicia de la Unión Europea
+  type: government
+  url: https://curia.europa.eu/
+  geo:
+  - EU
+  aliases:
+  - TJUE
+  - CJEU
+  - EuGH
+  notes: Tribunal de Justicia de la UE. Ficha mínima.
+  stub: true
+- id: ent-cgae
+  name: Consejo General de la Abogacía Española
+  type: association
+  url: https://www.abogacia.es/
+  geo:
+  - ES
+  aliases:
+  - CGAE
+  - Abogacía Española
+  notes: Órgano representativo de la abogacía española. Ficha mínima.
+  stub: true
