@@ -1,0 +1,10 @@
+id: ent-agm-abogados
+name: AGM Abogados
+type: law_firm
+url: https://www.agmabogados.com/
+geo:
+- ES
+aliases:
+- AGM
+notes: Despacho español. Ficha mínima.
+stub: true

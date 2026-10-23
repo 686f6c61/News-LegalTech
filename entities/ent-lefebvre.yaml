@@ -1,0 +1,11 @@
+id: ent-lefebvre
+name: Lefebvre
+type: vendor
+url: https://www.lefebvre.es/
+geo:
+- ES
+aliases:
+- Lefebvre España
+- GenIA-L
+notes: Editorial jurídica; plataforma de IA GenIA-L, software LexON. Ficha mínima.
+stub: true

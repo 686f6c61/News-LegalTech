@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-23-lexisnexis-protege-evenup-mcp-hechos-expediente",
+  "date": "2026-10-22",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "LexisNexis Protégé ya responde dentro de EvenUp con los hechos del expediente: la integración por MCP está en producción, pero solo en un sentido",
+  "short_title": "Protégé responde dentro de EvenUp con los hechos del caso vía MCP",
+  "standfirst": "El asistente de EvenUp selecciona los hechos relevantes del caso, se los pasa a Protégé y devuelve una respuesta con citas y señales de Shepard's; la vía inversa aún no existe.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación jurídica",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "La integración anunciada en septiembre entre LexisNexis y EvenUp, plataforma de IA para abogados de lesiones personales, está activa desde principios de octubre, según LawNext (22 de octubre de 2026), que recibió una demostración de ambas empresas. Desde Companion, el asistente de EvenUp, el abogado pulsa un icono de Protégé y lanza una pregunta jurídica; la conexión va por Model Context Protocol (MCP). Antes de enviarla, Companion revisa los datos estructurados que EvenUp ha extraído del expediente, elige los hechos relevantes y los empaqueta con la pregunta. En la demo, sobre un accidente de tráfico en Florida, Protégé explicó los cuatro umbrales legales de lesión permanente para daños no económicos, citó jurisprudencia y los aplicó a las lesiones del cliente. Cada afirmación lleva cita enlazada con el extracto de apoyo y las autoridades aparecen con su señal de Shepard's.",
+  "summary_p2": "Desde ahí se puede seguir la conversación en Lexis+ con todo el contexto, pero el camino inverso, pedirle a Protégé que traiga hechos de EvenUp, todavía no está disponible, y la redacción tampoco entra en la integración por ahora. Hacen falta suscripciones a ambos productos; EvenUp ofrece una prueba de 30 días de Protégé con conversaciones limitadas y nadie dio precios. Lo interesante es el patrón: el valor ya no está solo en la base de jurisprudencia, sino en quién aporta los hechos del caso sin que el abogado tenga que pegarlos en el prompt; LexisNexis dice ver en sus datos anonimizados que los prompts crecen mucho porque los usuarios intentan meter todo el contexto. Para vendors españoles de gestión de expedientes, es la arquitectura a copiar con las editoriales locales. Matiz: es una demostración preparada por las dos empresas, sin métricas de calidad independientes.",
+  "why_sota": "Integración agente a agente por MCP en producción entre una editorial jurídica y una plataforma vertical de hechos del caso.",
+  "why_now": "LawNext, 22 oct 2026. NEW frente a 09-29→10-22.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "mcp",
+    "investigacion-juridica",
+    "integraciones",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
+      "cited_title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-lexisnexis",
+    "ent-evenup"
+  ],
+  "lang": "es",
+  "status": "published"
+}

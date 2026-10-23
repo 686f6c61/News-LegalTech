@@ -1,0 +1,12 @@
+id: ent-booking
+name: Booking.com
+type: company
+url: https://www.booking.com/
+geo:
+- NL
+- EU
+aliases:
+- Booking
+- Booking Holdings
+notes: Plataforma de reservas de alojamiento; VLOP bajo la DSA. Ficha mínima.
+stub: true

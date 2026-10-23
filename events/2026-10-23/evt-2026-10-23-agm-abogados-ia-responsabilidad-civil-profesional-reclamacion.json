@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-23-agm-abogados-ia-responsabilidad-civil-profesional-reclamacion",
+  "date": "2026-10-23",
+  "type": "opinion",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "Cuando llega la reclamación por un error de IA: AGM Abogados explica cómo reconstruir el fallo, preservar el expediente y ver si es un siniestro o una serie",
+  "short_title": "Error de IA y seguro: qué hacer cuando llega la reclamación",
+  "standfirst": "La tribuna sostiene que la IA no cambia quién responde, pero sí cómo se averigua por qué, cómo y hasta dónde alcanza esa responsabilidad.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Responsabilidad de la IA",
+  "country": "España",
+  "piece_type": "Análisis",
+  "summary_p1": "Gregorio Riber Arranz, socio de Derecho de Seguros de AGM Abogados, publica en Lawandtrends (23 de octubre de 2026) una tribuna sobre lo que pasa cuando falla la prevención y un cliente reclama por un dictamen hecho en parte con IA. Su punto de partida: no basta con culpar a la herramienta ni con suponer que la firma del profesional resuelve la responsabilidad; hay que seguir el recorrido del error. El primer paso es preservar el expediente antes de tocarlo: instrucciones dadas al sistema, fuentes usadas, respuestas obtenidas, versiones del informe y comprobaciones hechas. Después, averiguar si el dato falso lo generó la herramienta, venía del cliente o se introdujo en una revisión posterior.",
+  "summary_p2": "El autor añade un riesgo que suele quedar fuera de los protocolos: que el error se repita en serie, porque una instrucción defectuosa o una fuente inexacta incorporada a un procedimiento de trabajo puede afectar a muchos encargos antes de detectarse. Para la aseguradora eso tiene consecuencias contractuales, porque habrá que decidir si son siniestros independientes o uno solo con origen común, y advierte de que la intervención de IA no determina por sí sola si hay cobertura. También avisa de que una explicación prematura de la causa puede perjudicar tanto la defensa como la cobertura. Para despachos españoles, la tribuna se traduce en una tarea concreta: guardar los prompts y versiones de los trabajos con IA y revisar con el corredor cómo trata la póliza los errores repetidos. Matiz: es una opinión de un despacho, no doctrina ni jurisprudencia.",
+  "why_sota": "Pasa el debate de la IA en el despacho de la prevención a la gestión del siniestro y la póliza de responsabilidad civil.",
+  "why_now": "Lawandtrends, 23 oct 2026. NEW frente a 09-29→10-22.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "responsabilidad-civil",
+    "seguros",
+    "deontologia",
+    "trazabilidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawandtrends",
+      "url": "https://www.lawandtrends.com/noticias/tic/ia-y-responsabilidad-civil-profesional-que-ocurre-cuando-llega-la-reclamacion-1.html",
+      "cited_title": "IA y responsabilidad civil profesional: ¿qué ocurre cuando llega la reclamación?",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-agm-abogados",
+    "ent-lawandtrends"
+  ],
+  "lang": "es",
+  "status": "published"
+}

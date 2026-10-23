@@ -1,0 +1,11 @@
+id: ent-bayverfgh
+name: Bayerischer Verfassungsgerichtshof
+type: government
+url: https://www.bayern.verfassungsgerichtshof.de/
+geo:
+- DE
+aliases:
+- BayVerfGH
+- Tribunal Constitucional de Baviera
+notes: Tribunal constitucional del Land de Baviera. Ficha mínima.
+stub: true

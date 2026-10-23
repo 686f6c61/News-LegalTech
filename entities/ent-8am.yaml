@@ -1,0 +1,12 @@
+id: ent-8am
+name: 8am
+type: vendor
+url: https://www.8am.com/
+geo:
+- US
+aliases:
+- AffiniPay
+- MyCase
+- LawPay
+notes: Antes AffiniPay; matriz de MyCase y LawPay. Ficha mínima.
+stub: true

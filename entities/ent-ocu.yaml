@@ -1,0 +1,10 @@
+id: ent-ocu
+name: Organización de Consumidores y Usuarios
+type: association
+url: https://www.ocu.org/
+geo:
+- ES
+aliases:
+- OCU
+notes: Asociación española de consumidores. Ficha mínima.
+stub: true

@@ -1,0 +1,71 @@
+scan_id: full-radar-2026-10-23
+date: '2026-10-23'
+release: 23.10.26
+count: 10
+ai_share: 0.7
+dedup_against: events/2026-09-29 → 2026-10-22 + scans PASS
+event_ids:
+- evt-2026-10-23-quinto-circuito-aparta-juez-wingate-resoluciones-ia-alucinadas
+- evt-2026-10-23-bayverfgh-tasa-maxima-abuso-escrito-ia-alucinante
+- evt-2026-10-23-lexisnexis-protege-evenup-mcp-hechos-expediente
+- evt-2026-10-23-connectwise-storm-0940-agentes-ia-reloj-72-horas-rgpd
+- evt-2026-10-23-lefebvre-genia-l-nueva-generacion-lexon-50-documentos
+- evt-2026-10-23-agm-abogados-ia-responsabilidad-civil-profesional-reclamacion
+- evt-2026-10-23-noticia-claira-revision-prueba-ia-metadatos
+- evt-2026-10-23-8am-informe-facturacion-horas-domina-pequenos-despachos
+- evt-2026-10-23-tjue-c-660-24-c-681-24-hungria-chequia-interrogatorio-sin-abogado
+- evt-2026-10-23-comision-europea-booking-dsa-estafas-phishing-anuncios
+events:
+- id: evt-2026-10-23-quinto-circuito-aparta-juez-wingate-resoluciones-ia-alucinadas
+  sota_score: 8.6
+  ai_legaltech: true
+  title: El Quinto Circuito de EE. UU. anula la cautelar de un juez de Misisipi contra
+    una ley anti-DEI y le aparta del caso por resoluciones con partes, citas y un
+    precedente inventados por IA
+- id: evt-2026-10-23-bayverfgh-tasa-maxima-abuso-escrito-ia-alucinante
+  sota_score: 8.1
+  ai_legaltech: true
+  title: El Tribunal Constitucional de Baviera impone la tasa máxima por abuso, 3.000
+    euros, a un recurrente que citó sentencias inexistentes del propio tribunal
+- id: evt-2026-10-23-lexisnexis-protege-evenup-mcp-hechos-expediente
+  sota_score: 7.7
+  ai_legaltech: true
+  title: 'LexisNexis Protégé ya responde dentro de EvenUp con los hechos del expediente:
+    la integración por MCP está en producción, pero solo en un sentido'
+- id: evt-2026-10-23-connectwise-storm-0940-agentes-ia-reloj-72-horas-rgpd
+  sota_score: 7.5
+  ai_legaltech: true
+  title: Microsoft atribuye a un grupo ligado a China un ataque con agentes de IA
+    a ConnectWise Cloud Backup, y el reloj de 72 horas del RGPD puede correr antes
+    de que los registros de Microsoft 365 permitan saber qué pasó
+- id: evt-2026-10-23-lefebvre-genia-l-nueva-generacion-lexon-50-documentos
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'Lefebvre relanza GenIA-L como puerta de entrada a todos sus servicios: trabaja
+    con hasta 50 documentos e integra LexON como GenIA-L Gestión'
+- id: evt-2026-10-23-agm-abogados-ia-responsabilidad-civil-profesional-reclamacion
+  sota_score: 6.6
+  ai_legaltech: true
+  title: 'Cuando llega la reclamación por un error de IA: AGM Abogados explica cómo
+    reconstruir el fallo, preservar el expediente y ver si es un siniestro o una serie'
+- id: evt-2026-10-23-noticia-claira-revision-prueba-ia-metadatos
+  sota_score: 6.3
+  ai_legaltech: true
+  title: La canadiense Noticia lanza Claira, revisión de prueba con IA que guarda
+    cada análisis como metadato del conjunto de prueba para reutilizarlo
+- id: evt-2026-10-23-8am-informe-facturacion-horas-domina-pequenos-despachos
+  sota_score: 6.8
+  ai_legaltech: false
+  title: 'La facturación por horas no retrocede en los despachos pequeños y medianos
+    de EE. UU.: los datos de 8am sobre más de 60.000 firmas dan casi 5 a 1 frente
+    a la tarifa plana'
+- id: evt-2026-10-23-tjue-c-660-24-c-681-24-hungria-chequia-interrogatorio-sin-abogado
+  sota_score: 6.5
+  ai_legaltech: false
+  title: El TJUE condena a Hungría y Chequia por permitir interrogar a sospechosos
+    sin abogado cuando este no llega en un plazo fijo
+- id: evt-2026-10-23-comision-europea-booking-dsa-estafas-phishing-anuncios
+  sota_score: 6.4
+  ai_legaltech: false
+  title: Bruselas abre expediente a Booking bajo la DSA por anuncios falsos, phishing
+    con datos de reservas y alojamientos patrocinados sin marcar como publicidad

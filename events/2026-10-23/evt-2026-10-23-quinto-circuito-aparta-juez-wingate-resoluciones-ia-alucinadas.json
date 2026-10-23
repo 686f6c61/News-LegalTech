@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-23-quinto-circuito-aparta-juez-wingate-resoluciones-ia-alucinadas",
+  "date": "2026-10-22",
+  "type": "case_law",
+  "sota_score": 8.6,
+  "ai_legaltech": true,
+  "title": "El Quinto Circuito de EE. UU. anula la cautelar de un juez de Misisipi contra una ley anti-DEI y le aparta del caso por resoluciones con partes, citas y un precedente inventados por IA",
+  "short_title": "El Quinto Circuito aparta a un juez por resoluciones alucinadas por IA",
+  "standfirst": "La sentencia llama «chapuza» al procedimiento: la orden provisional citaba partes y declaraciones inexistentes, y la versión «corregida» seguía citando un caso que no existe.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Tribunal de Apelaciones del Quinto Circuito anuló el 22 de octubre de 2026 la medida cautelar con la que el juez federal Henry Wingate había bloqueado la ley de Misisipi H.B. 1193, de abril de 2025, contra los programas de diversidad, equidad e inclusión (DEI) en la enseñanza pública, y ordenó que el caso pase a otro juez (asunto n.º 25-60496). Según la sentencia, redactada por el juez Jerry Smith, la orden provisional (TRO) incluía partes que no estaban en la demanda, «declaraciones» de personas inexistentes, citas falsas del texto de la ley y programas aparentemente ficticios; Wingate la sustituyó sin explicarlo, y en la vista de apelación se descubrió que la versión «corregida», incorporada a la cautelar, seguía citando un precedente del Cuarto Circuito que no existe, «Cousins v. School Bd. of City of Norfolk». Courthouse News recuerda que, tras las preguntas del senador Chuck Grassley, Wingate reconoció que un letrado de su juzgado había usado IA para un borrador que se registró por error.",
+  "summary_p2": "El tribunal no se queda en las alucinaciones: reprocha además un análisis jurídico pobre del estándar de impugnación facial de Moody v. NetChoice y escribe que «el tribunal de distrito, o quizá, siendo caritativos, su agente de IA, ignoró y manipuló el derecho aplicable». La jueza Haynes coincide con el fallo pero no suscribe la mayor parte del razonamiento. El ponente justifica la reasignación porque, tras el bochorno de las alucinaciones, el juez podría sentir la tentación de demostrar que su primera opinión era la buena. La sentencia lleva el debate de la verificación de citas del abogado al juzgado: quien firma responde, también cuando el borrador lo hizo un asistente. Para despachos que litigan, la lección práctica es revisar las resoluciones con la misma desconfianza que los escritos contrarios. Matiz: la pieza de Law.com está tras muro de pago; los datos vienen de la sentencia publicada por el tribunal y de Courthouse News.",
+  "why_sota": "Un tribunal de apelación federal aparta a un juez de un caso tras resoluciones alucinadas por IA.",
+  "why_now": "Sentencia del 22 oct 2026; Law.com y Courthouse News el mismo día. NEW frente a 09-29→10-22.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "tribunales",
+    "alucinaciones",
+    "ia-judicial",
+    "verificacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/nationallawjournal/2026/10/22/a-botch-job-5th-circuit-reassigns-case-after-judge-misused-ai-to-draft-ruling/",
+      "cited_title": "'A Botch Job': 5th Circuit Reassigns Case After Judge Misused AI to Draft Ruling",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-us-court-appeals-fifth-circuit",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

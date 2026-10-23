@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-23-8am-informe-facturacion-horas-domina-pequenos-despachos",
+  "date": "2026-10-22",
+  "type": "research",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "La facturación por horas no retrocede en los despachos pequeños y medianos de EE. UU.: los datos de 8am sobre más de 60.000 firmas dan casi 5 a 1 frente a la tarifa plana",
+  "short_title": "8am: la hora facturable sigue mandando en los despachos pequeños",
+  "standfirst": "La tarifa plana bajó del 16% al 15% de las facturas y el crecimiento vino de facturar más horas registradas, no de subir precios.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "8am, antes AffiniPay, ha publicado su primer informe semestral sobre facturación y cobro en despachos pequeños y medianos, con datos agregados de más de 60.000 firmas que usan MyCase y LawPay, sobre todo en Estados Unidos, según LawNext (22 de octubre de 2026). En el primer semestre de 2026, el 47,7% de los despachos facturó solo por horas (46,6% un año antes) y el 10,3% solo con tarifa plana (9,7%); el resto mezcla, pero usa tarifa plana en una cuarta parte o menos de sus facturas. Contadas por facturas, la tarifa plana bajó del 16% al 15%. Donde domina es por el tipo de trabajo: 87,7% de las facturas en tráfico y 64% en inmigración, frente al 6,7% en litigación civil y el 2,8% en familia.",
+  "summary_p2": "La facturación mensual creció entre un 5% y un 8%, y no por subir tarifas, que solo aumentaron en los despachos medianos (4,3%), sino porque llegó a factura una parte mayor de las horas registradas: en los de 11 o más empleados, del 44% al 49%. Siete de cada diez despachos siguen teniendo al menos una factura vencida, y los que cobran recargo por pago con tarjeta crecieron un 16%. El dato importa en pleno debate sobre si la IA acabará con la hora facturable: en el segmento pequeño, por ahora, no se ve. Para despachos españoles, la lección es la del propio informe: antes de subir precios, medir cuánto tiempo registrado acaba facturado. Matiz: son datos de los clientes de un proveedor, no una muestra representativa, y el informe no dice cuántos despachos hay en cada tamaño.",
+  "why_sota": "Datos de facturación reales de decenas de miles de despachos frente al relato de que la IA hunde la hora facturable.",
+  "why_now": "LawNext y ABA Journal, 22 oct 2026. NEW frente a 09-29→10-22.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "facturacion",
+    "gestion-despachos",
+    "mercado",
+    "datos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/reports-of-the-billable-hours-demise-are-greatly-exaggerated-8am-data-finds.html",
+      "cited_title": "Reports of the Billable Hour's Demise Are Greatly Exaggerated, 8am Data Finds",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-8am"
+  ],
+  "lang": "es",
+  "status": "published"
+}

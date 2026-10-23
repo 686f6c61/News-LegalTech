@@ -1,0 +1,13 @@
+id: ent-us-court-appeals-fifth-circuit
+name: United States Court of Appeals for the Fifth Circuit
+type: government
+url: https://www.ca5.uscourts.gov/
+geo:
+- US
+aliases:
+- Quinto Circuito
+- 5th Circuit
+- Fifth Circuit
+notes: Tribunal federal de apelaciones de EE. UU. para Luisiana, Misisipi y Texas.
+  Ficha mínima.
+stub: true

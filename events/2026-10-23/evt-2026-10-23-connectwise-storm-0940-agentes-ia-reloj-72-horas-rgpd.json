@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-23-connectwise-storm-0940-agentes-ia-reloj-72-horas-rgpd",
+  "date": "2026-10-22",
+  "type": "other",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Microsoft atribuye a un grupo ligado a China un ataque con agentes de IA a ConnectWise Cloud Backup, y el reloj de 72 horas del RGPD puede correr antes de que los registros de Microsoft 365 permitan saber qué pasó",
+  "short_title": "ConnectWise: agentes de IA, despachos objetivo y el reloj del RGPD",
+  "standfirst": "El grupo Storm-0940 usó un marco abierto de pentesting con IA para probar 2.250 tenants a 2.900 intentos por minuto; Microsoft incluye el sector legal entre los objetivos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ciberseguridad",
+  "country": "",
+  "piece_type": "Incidente",
+  "summary_p1": "Microsoft atribuyó el 21 de octubre de 2026 la intrusión en ConnectWise Cloud Backup, el servicio de copias de Microsoft 365 antes llamado SkyKick, a Storm-0940, un grupo alineado con el Estado chino, según ComplexDiscovery (22 de octubre de 2026). Microsoft dice que el grupo usa desde septiembre ARTEX, un marco abierto de pruebas de penetración que funciona con cualquier modelo de IA, y que algunos ataques llegaron a acceso privilegiado en la nube en menos de tres horas. Tras entrar en ConnectWise, intentó iniciar sesión en más de 2.250 tenants a 2.900 intentos por minuto; el acceso decisivo vino de las credenciales de la propia aplicación del proveedor, no de contraseñas de usuarios. Huntress confirmó accesos del intruso en 162 tenants el 16 de octubre y, un día después, actividad desde su dirección en casi 1.000, con accesos correctos en más de 300, sin presentarlos como prueba de robo de datos; también dijo que la dirección usada después con las credenciales del proveedor había probado contraseñas contra cuatro tenants de despachos los días 13 y 14, sin accesos de usuario con éxito.",
+  "summary_p2": "La parte jurídica es el calendario: el RGPD obliga a notificar una brecha a la autoridad sin dilación y, si es posible, en 72 horas desde que se tiene conocimiento, y los reguladores esperan que cada alerta se investigue rápido. ConnectWise dice no ver dentro de los entornos de sus clientes, y Entra, el servicio de identidad de Microsoft, solo guarda siete días de registros de inicio de sesión y auditoría en su nivel gratuito. Un despacho europeo que use ese servicio puede empezar a contar plazo sin tener ya los registros para saber si hubo acceso a datos. La recomendación práctica es exportar y conservar ya esos registros, revisar credenciales de aplicaciones de terceros con permisos sobre el tenant y documentar la valoración aunque se concluya que no hay que notificar. Matiz: Microsoft no da número de organizaciones comprometidas ni confirma ningún despacho afectado.",
+  "why_sota": "Caso documentado de ataque automatizado con agentes de IA a escala de miles de tenants, con el sector legal entre los objetivos.",
+  "why_now": "Atribución de Microsoft del 21 oct 2026; ComplexDiscovery, 22 oct 2026. NEW frente a 09-29→10-22.",
+  "geo": [
+    "US",
+    "EU",
+    "GLOBAL"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "rgpd",
+    "brechas",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/after-the-connectwise-breach-a-firms-gdpr-clock-may-start-before-its-microsoft-365-logs-can-answer/",
+      "cited_title": "After the ConnectWise breach, a firm's GDPR clock may start before its Microsoft 365 logs can answer",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-connectwise",
+    "ent-microsoft",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

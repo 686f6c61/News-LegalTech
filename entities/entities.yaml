@@ -3545,3 +3545,115 @@ entities:
   - Abogacía Española
   notes: Órgano representativo de la abogacía española. Ficha mínima.
   stub: true
+- id: ent-us-court-appeals-fifth-circuit
+  name: United States Court of Appeals for the Fifth Circuit
+  type: government
+  url: https://www.ca5.uscourts.gov/
+  geo:
+  - US
+  aliases:
+  - Quinto Circuito
+  - 5th Circuit
+  - Fifth Circuit
+  notes: Tribunal federal de apelaciones de EE. UU. para Luisiana, Misisipi y Texas.
+    Ficha mínima.
+  stub: true
+- id: ent-bayverfgh
+  name: Bayerischer Verfassungsgerichtshof
+  type: government
+  url: https://www.bayern.verfassungsgerichtshof.de/
+  geo:
+  - DE
+  aliases:
+  - BayVerfGH
+  - Tribunal Constitucional de Baviera
+  notes: Tribunal constitucional del Land de Baviera. Ficha mínima.
+  stub: true
+- id: ent-evenup
+  name: EvenUp
+  type: vendor
+  url: https://www.evenuplaw.com/
+  geo:
+  - US
+  aliases: []
+  notes: Plataforma de IA para abogados de lesiones personales; integra LexisNexis
+    Protégé vía MCP (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-lefebvre
+  name: Lefebvre
+  type: vendor
+  url: https://www.lefebvre.es/
+  geo:
+  - ES
+  aliases:
+  - Lefebvre España
+  - GenIA-L
+  notes: Editorial jurídica; plataforma de IA GenIA-L, software LexON. Ficha mínima.
+  stub: true
+- id: ent-noticia
+  name: Noticia
+  type: vendor
+  url: https://www.noticia.ca/
+  geo:
+  - CA
+  aliases:
+  - Claira
+  notes: Empresa canadiense de e-discovery desde 2017; producto de revisión asistida
+    por IA Claira (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-connectwise
+  name: ConnectWise
+  type: company
+  url: https://www.connectwise.com/
+  geo:
+  - US
+  aliases:
+  - ConnectWise Cloud Backup
+  - SkyKick
+  notes: Proveedor de software para MSP; su servicio de copia de Microsoft 365 Cloud
+    Backup (antes SkyKick) sufrió una intrusión (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-agm-abogados
+  name: AGM Abogados
+  type: law_firm
+  url: https://www.agmabogados.com/
+  geo:
+  - ES
+  aliases:
+  - AGM
+  notes: Despacho español. Ficha mínima.
+  stub: true
+- id: ent-8am
+  name: 8am
+  type: vendor
+  url: https://www.8am.com/
+  geo:
+  - US
+  aliases:
+  - AffiniPay
+  - MyCase
+  - LawPay
+  notes: Antes AffiniPay; matriz de MyCase y LawPay. Ficha mínima.
+  stub: true
+- id: ent-booking
+  name: Booking.com
+  type: company
+  url: https://www.booking.com/
+  geo:
+  - NL
+  - EU
+  aliases:
+  - Booking
+  - Booking Holdings
+  notes: Plataforma de reservas de alojamiento; VLOP bajo la DSA. Ficha mínima.
+  stub: true
+- id: ent-ocu
+  name: Organización de Consumidores y Usuarios
+  type: association
+  url: https://www.ocu.org/
+  geo:
+  - ES
+  aliases:
+  - OCU
+  notes: Asociación española de consumidores. Ficha mínima.
+  stub: true

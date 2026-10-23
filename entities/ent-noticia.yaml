@@ -1,0 +1,11 @@
+id: ent-noticia
+name: Noticia
+type: vendor
+url: https://www.noticia.ca/
+geo:
+- CA
+aliases:
+- Claira
+notes: Empresa canadiense de e-discovery desde 2017; producto de revisión asistida
+  por IA Claira (oct 2026). Ficha mínima.
+stub: true

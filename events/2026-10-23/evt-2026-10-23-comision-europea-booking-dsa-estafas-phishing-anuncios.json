@@ -1,0 +1,53 @@
+{
+  "id": "evt-2026-10-23-comision-europea-booking-dsa-estafas-phishing-anuncios",
+  "date": "2026-10-21",
+  "type": "regulation",
+  "sota_score": 6.4,
+  "ai_legaltech": false,
+  "title": "Bruselas abre expediente a Booking bajo la DSA por anuncios falsos, phishing con datos de reservas y alojamientos patrocinados sin marcar como publicidad",
+  "short_title": "La Comisión abre expediente a Booking por estafas bajo la DSA",
+  "standfirst": "La OCU, con más de 2.000 consultas y reclamaciones este año, pide que el procedimiento sirva también para reparar a los afectados.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "UE",
+  "piece_type": "Regulación",
+  "summary_p1": "La Comisión Europea abrió el 21 de octubre de 2026 un procedimiento formal contra Booking.com por posibles incumplimientos de la Ley de Servicios Digitales (DSA). Investiga tres cosas: si la plataforma evaluó y mitigó con diligencia el riesgo de anuncios fraudulentos o no conformes, como alojamientos inexistentes y suplantaciones; si ha protegido a los consumidores frente al phishing que aprovecha los datos de reserva compartidos con los alojamientos y su servicio de mensajería; y si los alojamientos que pagan más comisión para salir más arriba están marcados claramente como publicidad. Si se confirman, serían infracciones de los artículos 34 y 35 (riesgos sistémicos de las grandes plataformas) y 26.1 (transparencia de la publicidad); la DSA permite multas de hasta el 6% de la facturación mundial.",
+  "summary_p2": "Confilegal (23 de octubre de 2026) lo conecta con la estafa del falso «Palacio Central Madrid», junto al Retiro, que afectó a cientos de turistas a principios de octubre: Booking lo atribuyó a un ataque a un establecimiento colaborador y retiró el anuncio cinco días después de los primeros avisos. La OCU, que ha recibido más de 2.000 consultas y reclamaciones sobre el portal este año, pide que el expediente no se quede en una sanción y facilite la reparación. Para despachos de consumo, el punto clave es que una multa europea no devuelve el dinero: las reclamaciones de los afectados siguen otra vía, aunque las conclusiones de Bruselas pueden reforzarlas. Para plataformas, confirma que la Comisión trata el fraude en anuncios y el phishing como riesgos sistémicos que hay que documentar. Matiz: la apertura no prejuzga el resultado.",
+  "why_sota": "Primer expediente DSA contra una gran plataforma de viajes centrado en fraude, phishing y publicidad encubierta.",
+  "why_now": "Nota de la Comisión del 21 oct 2026; Confilegal con la posición de la OCU, 23 oct 2026. NEW frente a 09-29→10-22.",
+  "geo": [
+    "EU",
+    "ES"
+  ],
+  "topics": [
+    "dsa",
+    "plataformas",
+    "consumo",
+    "fraude"
+  ],
+  "sources": [
+    {
+      "source_id": "src-comision-europea-ai-act-digital-strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
+      "cited_title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
+      "accessed": "2026-10-23"
+    },
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261023-booking-en-el-punto-de-mira-de-la-comision-europea-y-la-ocu-por-la-prevencion-del-fraude/",
+      "cited_title": "Booking, en el punto de mira de la Comisión Europea y la OCU por la prevención del fraude",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-booking",
+    "ent-comision-europea",
+    "ent-ocu",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

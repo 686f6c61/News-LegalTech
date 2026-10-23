@@ -1,0 +1,10 @@
+id: ent-evenup
+name: EvenUp
+type: vendor
+url: https://www.evenuplaw.com/
+geo:
+- US
+aliases: []
+notes: Plataforma de IA para abogados de lesiones personales; integra LexisNexis Protégé
+  vía MCP (oct 2026). Ficha mínima.
+stub: true

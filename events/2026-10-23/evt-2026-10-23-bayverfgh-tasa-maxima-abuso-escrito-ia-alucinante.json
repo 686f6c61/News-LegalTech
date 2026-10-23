@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-23-bayverfgh-tasa-maxima-abuso-escrito-ia-alucinante",
+  "date": "2026-10-22",
+  "type": "case_law",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "El Tribunal Constitucional de Baviera impone la tasa máxima por abuso, 3.000 euros, a un recurrente que citó sentencias inexistentes del propio tribunal",
+  "short_title": "BayVerfGH: 3.000 euros a un recurso con jurisprudencia inventada",
+  "standfirst": "El tribunal no dice que la multa sea por usar IA, pero deja escrito que el recurrente se apoyó «probablemente en IA alucinante» para inventar su doctrina.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Alemania",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Bayerischer Verfassungsgerichtshof inadmitió un recurso de amparo en un pleito de custodia y le impuso al recurrente la tasa máxima que permite la ley bávara, 3.000 euros (resolución de 23 de septiembre de 2026, asunto 9-VI-25), según Legal Tribune Online (22 de octubre de 2026). El escrito, muy extenso, citaba numerosas resoluciones, entre ellas algunas del propio tribunal de las que extraía principios jurídicos; resultaron ser de otras materias o directamente inexistentes. El tribunal inadmite por falta de fundamentación suficiente y recuerda que no es una instancia de apelación, y no explica la cuantía: se limita a decir que «es adecuado» imponer 3.000 euros. Esa tasa funciona como una sanción por abuso, parecida a la del Tribunal Constitucional federal, que rara vez agota su máximo de 2.600 euros.",
+  "summary_p2": "El tribunal deja abierta la cuestión de qué efecto tienen los principios y referencias inventados por IA, pero introduce una frase: no importa hasta qué punto queda desvirtuado el escrito por haberse apoyado, «probablemente con ayuda de la llamada IA alucinante», en doctrina inventada del propio tribunal. Como no había obligación de abogado, el uso de IA no hacía inadmisible el recurso por sí solo. LTO apunta que no es descartable que las invenciones pesaran en la cuantía, y recuerda que cada vez más tribunales alemanes se quejan de la avalancha de escritos hechos con IA y que el Ministerio federal de Justicia ha anunciado reformas. Para quien litiga, y sobre todo para quien recibe clientes que llegan con borradores propios, el precedente sirve para avisarles de que la factura puede llegar aunque el tribunal no lo diga en voz alta. Matiz: la relación entre la IA y la cuantía es una inferencia del medio, no una afirmación del tribunal.",
+  "why_sota": "Un tribunal constitucional europeo agota la sanción por abuso ante jurisprudencia inventada y lo vincula, de pasada, a la IA.",
+  "why_now": "LTO, 22 oct 2026. NEW frente a 09-29→10-22 (el BAG del 20 oct era otro tribunal y otro supuesto).",
+  "geo": [
+    "DE"
+  ],
+  "topics": [
+    "tribunales",
+    "alucinaciones",
+    "sanciones",
+    "deontologia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/nachrichten/n/bayverfgh-9vi25-halluzinierende-ki-missbrauchsgebuehr-verfassungsbeschwerde",
+      "cited_title": "Schriftsatz mit KI geschrieben?: Bayerischer Verfassungsgerichtshof verhängt maximale Missbrauchsgebühr",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-bayverfgh",
+    "ent-legal-tribune-online"
+  ],
+  "lang": "es",
+  "status": "published"
+}

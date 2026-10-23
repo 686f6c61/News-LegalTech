@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-23-lefebvre-genia-l-nueva-generacion-lexon-50-documentos",
+  "date": "2026-10-22",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Lefebvre relanza GenIA-L como puerta de entrada a todos sus servicios: trabaja con hasta 50 documentos e integra LexON como GenIA-L Gestión",
+  "short_title": "Lefebvre relanza GenIA-L y absorbe LexON como GenIA-L Gestión",
+  "standfirst": "La nueva generación junta contenidos de la editorial, documentos del despacho, flujo de trabajo y gestión de expedientes en un mismo espacio.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "España",
+  "piece_type": "Producto",
+  "summary_p1": "Lefebvre ha presentado una nueva generación de GenIA-L, su plataforma de IA jurídica, que pasa a ser el punto de entrada a todos los servicios de la editorial, según Lawandtrends (22 de octubre de 2026). La compañía la organiza en cuatro dimensiones: las fuentes jurídicas y los contenidos propios (Mementos y libros de Lefebvre), los documentos, precedentes y plantillas del propio abogado, el encadenamiento de investigación, análisis documental, comparación y redacción en un mismo flujo, y la gestión del despacho (expedientes, clientes, agenda y facturación). Ahí entra el software LexON, que se integra como una capacidad llamada GenIA-L Gestión; Client Link y Centinela también pasan a ser capacidades de la plataforma. La nueva versión permite trabajar con hasta 50 documentos, añadir documentación durante la conversación y mantener mejor el contexto.",
+  "summary_p2": "La idea, según Lefebvre, es que el abogado pregunte desde cualquier punto y el sistema decida qué capacidades usar, con fuentes en entorno cerrado y trazables. Es el mismo movimiento que hacen Clio con vLex o Aranzadi LA LEY con sus suites: la editorial deja de vender una base de datos con un chat y pasa a querer ser el escritorio del despacho, gestión incluida. Para despachos medianos españoles que ya usan LexON o Mementos, abre la opción de concentrar proveedor, y con ello la dependencia. Conviene preguntar antes cómo se gobiernan los documentos propios que se suben, qué pasa con ellos al terminar el contrato y si hay pruebas de calidad comparables con otras herramientas. Matiz: el texto es un contenido de la propia Lefebvre, sin datos de uso ni de precisión.",
+  "why_sota": "Una de las grandes editoriales españolas convierte su IA en la capa que une contenido, documentos propios y gestión del despacho.",
+  "why_now": "Lawandtrends, 22 oct 2026. NEW frente a 09-29→10-22 (la calculadora de impacto del 9 sep era otra pieza).",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "ia-juridica",
+    "editoriales",
+    "gestion-despachos",
+    "producto"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawandtrends",
+      "url": "https://www.lawandtrends.com/noticias/tic/nueva-era-de-genia-l-la-plataforma-de-ia-de-confianza-para-el-trabajo-juridico-basada-en-contenidos-premium-1.html",
+      "cited_title": "Nueva era de GenIA-L, la plataforma de IA de confianza para el trabajo jurídico basada en contenidos premium",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-lefebvre",
+    "ent-lawandtrends"
+  ],
+  "lang": "es",
+  "status": "published"
+}

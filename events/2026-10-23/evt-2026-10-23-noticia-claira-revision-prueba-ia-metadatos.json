@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-23-noticia-claira-revision-prueba-ia-metadatos",
+  "date": "2026-10-22",
+  "type": "product",
+  "sota_score": 6.3,
+  "ai_legaltech": true,
+  "title": "La canadiense Noticia lanza Claira, revisión de prueba con IA que guarda cada análisis como metadato del conjunto de prueba para reutilizarlo",
+  "short_title": "Noticia lanza Claira para revisar prueba electrónica con IA",
+  "standfirst": "El producto deja que el revisor describa la tarea en lenguaje natural, construye el prompt y conserva las respuestas; la empresa insiste en no mezclar prueba entre clientes.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "Canadá",
+  "piece_type": "Producto",
+  "summary_p1": "Noticia, empresa canadiense de e-discovery que opera desde 2017, ha desarrollado Claira, un producto de revisión asistida por IA para que los equipos jurídicos trabajen la prueba electrónica, según LegalTech.ca (22 de octubre de 2026). «Háblale como a un junior: acotará la tarea, construirá el prompt, lo ejecutará y guardará sus respuestas para que las uses siempre», explica Duncan Fraser, de Noticia, que antes ayudó a montar las capacidades de e-discovery del Departamento de Justicia federal canadiense. La pieza central es que el análisis generado por la IA se guarda como metadato dentro del conjunto de prueba, para reutilizarlo en vez de tratarlo como un resultado efímero.",
+  "summary_p2": "Su mercado son despachos con mucho volumen de prueba que nunca contratarán a alguien de e-discovery a tiempo completo: Noticia actúa como su back office. Fraser dice que la empresa gestiona más asuntos con menos personas que hace unos años tras adoptar analítica de datos, aprendizaje automático y después IA generativa, y que ahora busca perfiles que mezclen conocimiento de prueba y soltura técnica. También subraya que reutilizar análisis dentro de un mismo conjunto de prueba no es llevar material confidencial de un cliente a otros asuntos. Para despachos de litigación medianos, la idea de capitalizar la revisión como metadato es la que conviene exigir a cualquier herramienta. Matiz: es una presentación de la empresa, sin datos de precisión ni de clientes.",
+  "why_sota": "Trata el resultado de la revisión con IA como activo reutilizable del expediente y no como una respuesta de chat.",
+  "why_now": "LegalTech.ca, 22 oct 2026. NEW frente a 09-29→10-22.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "e-discovery",
+    "revision-documental",
+    "producto"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/22/noticia-builds-claira-to-help-law-firms-streamline-evidence-review/",
+      "cited_title": "Noticia Builds Claira to Help Law Firms Streamline Evidence Review",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-noticia",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

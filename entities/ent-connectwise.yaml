@@ -1,0 +1,12 @@
+id: ent-connectwise
+name: ConnectWise
+type: company
+url: https://www.connectwise.com/
+geo:
+- US
+aliases:
+- ConnectWise Cloud Backup
+- SkyKick
+notes: Proveedor de software para MSP; su servicio de copia de Microsoft 365 Cloud
+  Backup (antes SkyKick) sufrió una intrusión (oct 2026). Ficha mínima.
+stub: true

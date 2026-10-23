@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-23-tjue-c-660-24-c-681-24-hungria-chequia-interrogatorio-sin-abogado",
+  "date": "2026-10-22",
+  "type": "case_law",
+  "sota_score": 6.5,
+  "ai_legaltech": false,
+  "title": "El TJUE condena a Hungría y Chequia por permitir interrogar a sospechosos sin abogado cuando este no llega en un plazo fijo",
+  "short_title": "TJUE: no se puede interrogar sin abogado solo porque no llegó a tiempo",
+  "standfirst": "Dos horas en Hungría y 48 en Chequia: el Tribunal dice que esos plazos generales no encajan en las excepciones tasadas de la Directiva 2013/48.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Litigación",
+  "country": "UE",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Tribunal de Justicia de la UE estimó el 22 de octubre de 2026 los recursos por incumplimiento de la Comisión contra Hungría y la República Checa (asuntos C-660/24 y C-681/24), según Legal Tribune Online. En Hungría, la policía podía interrogar a un sospechoso sin su abogado si este no aparecía en las dos horas siguientes a ser avisado de la detención; en Chequia, si habían pasado 48 horas desde la detención, o si no se había podido localizar al letrado. El Tribunal recuerda que la Directiva 2013/48 garantiza el acceso a abogado antes del interrogatorio y su presencia y participación efectiva, y que presencia significa, en principio, presencia física: que el abogado esté avisado no basta.",
+  "summary_p2": "La directiva permite excepciones temporales en circunstancias extraordinarias, como un peligro urgente para la vida, la integridad física o la libertad de una persona o la necesidad de actuar de inmediato para no comprometer el proceso, pero con una decisión individual motivada, proporcionada, limitada en el tiempo y controlable por un juez, y la lista es cerrada. Un plazo general que habilita a interrogar sin abogado no cumple esos requisitos. En el caso húngaro, LTO señala que el Tribunal reprocha además otro punto relativo a la renuncia del sospechoso a la asistencia letrada. Para la abogacía penal española, la sentencia refuerza los argumentos frente a diligencias policiales hechas sin letrado presente y es útil para pedir nulidades en asuntos con conexión europea. Matiz: es un recurso por incumplimiento, no una cuestión prejudicial sobre un caso concreto.",
+  "why_sota": "Fija que la presencia del abogado en el interrogatorio es física y que no caduca por un plazo nacional.",
+  "why_now": "Sentencia del 22 oct 2026; LTO el mismo día. NEW frente a 09-29→10-22.",
+  "geo": [
+    "EU",
+    "HU",
+    "CZ"
+  ],
+  "topics": [
+    "derecho-de-defensa",
+    "proceso-penal",
+    "tjue"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/nachrichten/n/c66024-c68124-eugh-recht-auf-verteidiger-ungarn-tschechien-vertragsverletzung",
+      "cited_title": "EuGH zur Vernehmung ohne Anwalt: Ermittler müssen warten, bis der Verteidiger da ist",
+      "accessed": "2026-10-23"
+    }
+  ],
+  "entities": [
+    "ent-tjue",
+    "ent-legal-tribune-online"
+  ],
+  "lang": "es",
+  "status": "published"
+}
