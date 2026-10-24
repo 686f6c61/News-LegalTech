@@ -1,0 +1,11 @@
+id: ent-flra
+name: Federal Labor Relations Authority
+type: government
+url: https://www.flra.gov/
+geo:
+- US
+aliases:
+- FLRA
+notes: Agencia cuasijudicial federal de EE. UU. que resuelve conflictos laborales
+  entre agencias federales y sindicatos. Ficha mínima.
+stub: true

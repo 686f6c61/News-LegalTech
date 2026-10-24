@@ -1,0 +1,12 @@
+id: ent-legal-500
+name: The Legal 500
+type: company
+url: https://www.legal500.com/
+geo:
+- UK
+- Global
+aliases:
+- Legal 500
+notes: Directorio y ranking de despachos y abogados; editor de Legal Business. Ficha
+  mínima.
+stub: true

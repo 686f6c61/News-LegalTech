@@ -1,0 +1,10 @@
+id: ent-news-media-alliance
+name: News/Media Alliance
+type: association
+url: https://www.newsmediaalliance.org/
+geo:
+- US
+aliases:
+- NMA
+notes: Asociación de más de 2.000 editores de prensa de EE. UU. Ficha mínima.
+stub: true

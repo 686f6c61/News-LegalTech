@@ -1,0 +1,11 @@
+id: ent-hhs
+name: U.S. Department of Health and Human Services
+type: government
+url: https://www.hhs.gov/
+geo:
+- US
+aliases:
+- HHS
+- Departamento de Salud y Servicios Humanos
+notes: Departamento federal de Sanidad de EE. UU. Ficha mínima.
+stub: true

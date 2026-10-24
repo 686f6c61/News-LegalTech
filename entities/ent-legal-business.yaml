@@ -1,0 +1,10 @@
+id: ent-legal-business
+name: Legal Business
+type: media
+url: https://www.legalbusiness.co.uk/
+geo:
+- UK
+aliases: []
+notes: Revista británica sobre el negocio de los despachos (grupo Legal 500). Ficha
+  mínima.
+stub: true

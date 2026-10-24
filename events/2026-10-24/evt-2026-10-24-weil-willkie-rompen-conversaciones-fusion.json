@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-24-weil-willkie-rompen-conversaciones-fusion",
+  "date": "2026-10-23",
+  "type": "market",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "Weil y Willkie rompen sus conversaciones de fusión y Weil sigue buscando socio mientras pierde a socios de M&A y private equity",
+  "short_title": "Weil y Willkie rompen sus conversaciones de fusión",
+  "standfirst": "Weil había anunciado a sus socios el martes que negociaba una fusión; en las últimas semanas han salido socios clave hacia Paul Weiss, Cravath y Sullivan & Cromwell.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Las conversaciones de fusión entre Weil, Gotshal & Manges y Willkie Farr & Gallagher han terminado, informa Legal Business (23 de octubre de 2026), que cita a Bloomberg Law como primero en publicarlo: los socios de Willkie fueron informados en las 24 horas anteriores. Weil había dicho a sus socios en una reunión general el martes 20 de octubre que estaba en conversaciones de fusión, sin nombrar al otro despacho, y sigue buscando una operación. Además de Willkie, se ha relacionado a Weil con Vinson & Elkins, mientras que Skadden, Cleary y Linklaters han negado conversaciones.",
+  "summary_p2": "El contexto es una sangría de socios: el codirector de private equity Christopher Machera se fue a Paul Weiss en agosto con otros cinco socios, el presidente del departamento corporativo Michael Aiello salió hacia Cravath en septiembre con un equipo de seis socios de M&A, y el socio de mercados de capitales Michael Hickey se va a Sullivan & Cromwell, como antes dos socios de M&A de Londres. Weil intenta reconstruir con fichajes de private equity en EE. UU., Alemania y Londres. Para clientes y competidores, la consecuencia práctica es que los equipos de Weil en transaccional seguirán siendo objetivo de fichajes mientras no haya operación, y que las fusiones transatlánticas de grandes despachos siguen siendo difíciles de cerrar. Matiz: Legal Business limita el acceso con un muro de artículos gratuitos.",
+  "why_sota": "Movimiento estructural en el mercado de grandes despachos estadounidenses con efecto en Londres.",
+  "why_now": "Legal Business, 23 oct 2026. NEW frente a 09-29→10-23 (la pieza de Weil del 21 oct trataba de su programa de verano de IA).",
+  "geo": [
+    "US",
+    "UK"
+  ],
+  "topics": [
+    "fusiones",
+    "despachos",
+    "laterales",
+    "private-equity"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-business",
+      "url": "https://www.legalbusiness.co.uk/law-firms/weil-and-willkie-end-merger-talks/",
+      "cited_title": "Weil and Willkie end merger talks",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-weil",
+    "ent-willkie",
+    "ent-legal-business"
+  ],
+  "lang": "es",
+  "status": "published"
+}

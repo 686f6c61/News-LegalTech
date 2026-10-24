@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-24-florida-4dca-remite-abogada-colegio-ai-slop",
+  "date": "2026-10-23",
+  "type": "case_law",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "Un tribunal de apelación de Florida remite a una abogada al Colegio por «AI slop»: escritos con citas reales y casos que existen, pero sin razonamiento propio",
+  "short_title": "Florida remite a una abogada al Colegio por «AI slop»",
+  "standfirst": "El tribunal deja claro que el problema no son citas inventadas: es entregar argumentos montados por una herramienta sin el juicio de un abogado.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Tribunal de Apelación del Cuarto Distrito de Florida remitió el 21 de octubre de 2026 a la abogada Jaclyn Soroka al Colegio de Abogados de Florida (Florida Bar) para un posible expediente disciplinario por lo que llama «AI slop» (basura generada por IA), informa el ABA Journal (23 de octubre). En septiembre, en el asunto Lisandrillo v. Palozzi (n.º 4D2026-2262), un divorcio con un menor, el tribunal ya había escrito que sospechaba que los escritos contenían partes generadas por IA: «largos y desenfocados», con «galimatías» y argumentos «enrevesados, falsos y frívolos». En una nota al pie dejaba claro el matiz: las citas son reales y los casos existen; lo que delata a la herramienta es la falta de razonamiento propio.",
+  "summary_p2": "La abogada respondió que no usó IA, que sus citas eran reales y que, tras revisar unas 237, solo encontró dos «errores humanos» por falta de tiempo. El tribunal contesta que esa respuesta «no da en el clavo»: no niega el uso de IA, esquiva la cuestión y vuelve a defender los argumentos frívolos. Es un paso más allá de las sanciones por citas inventadas: aunque cada referencia supere la comprobación, un escrito sin criterio profesional puede acabar en el Colegio. Para despachos con controles de calidad centrados en verificar citas, la consecuencia es que el control tiene que llegar también al argumento, y que la firma del abogado responde del razonamiento, no solo de la bibliografía. Matiz: la remisión no es firme hasta que se resuelva una eventual petición de reconsideración.",
+  "why_sota": "Primer paso disciplinario por escritos de IA sin citas falsas: el reproche es la falta de juicio profesional.",
+  "why_now": "Orden del 21 oct 2026; ABA Journal, 23 oct. NEW frente a 09-29→10-23 (el caso Kid International del 12 oct era otro).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ejercicio-profesional",
+    "deontologia",
+    "ia-generativa",
+    "tribunales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/florida-appeals-court-refers-lawyer-for-possible-discipline-over-ai-slop",
+      "cited_title": "Florida appeals court refers lawyer for possible discipline over 'AI slop'",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-florida-4th-dca",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

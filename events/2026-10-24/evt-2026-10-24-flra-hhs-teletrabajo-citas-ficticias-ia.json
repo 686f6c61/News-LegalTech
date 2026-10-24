@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-24-flra-hhs-teletrabajo-citas-ficticias-ia",
+  "date": "2026-10-23",
+  "type": "case_law",
+  "sota_score": 8.4,
+  "ai_legaltech": true,
+  "title": "La FLRA da la razón al sindicato contra el Departamento de Salud de EE. UU. en el pleito del teletrabajo y señala que 35 de las 42 citas de su escrito eran ficticias, erróneas o irrelevantes, probablemente por usar IA",
+  "short_title": "FLRA: 35 de 42 citas del Gobierno, ficticias o erróneas",
+  "standfirst": "Es el propio Gobierno federal, no un abogado particular, quien presenta el escrito con apariencia de IA; la autoridad avisa de que verificar es obligación de quien firma.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "La Federal Labor Relations Authority (FLRA), el órgano cuasijudicial que resuelve los conflictos laborales en la Administración federal, rechazó el 21 de octubre de 2026 todas las objeciones del Departamento de Salud y Servicios Humanos (HHS) a un laudo que le obligaba a restablecer el teletrabajo de los empleados representados por el sindicato NTEU, según Above the Law (23 de octubre). El HHS había anulado esos acuerdos de forma unilateral tras el memorando de vuelta a la oficina de Donald Trump, pese a un convenio colectivo de cinco años que solo permite terminarlos con causa. La decisión añade un dato poco habitual: 22 de las 29 notas al pie y 35 de las 42 citas jurídicas o del expediente del escrito del Departamento eran «ficticias, erróneas o irrelevantes», y, según la propia resolución, al menos nueve completamente inventadas (diez, por la cuenta de FedWeek).",
+  "summary_p2": "La FLRA escribe que, por la naturaleza y el alcance de los errores, «parece que la Agencia pudo usar una herramienta de IA generativa» al redactar, y añade una advertencia general: nada impide usar IA en los escritos, pero las partes deben verificar lo que genera y cumplir los requisitos reglamentarios. Above the Law recuerda que no es el primer episodio del mismo Departamento: el informe MAHA citaba estudios inexistentes y el juez federal Christopher Cooper frenó el mes pasado la reforma de las ayudas del HHS contra el embarazo adolescente por apoyarse en estudios que «parecen no existir o no respaldar» lo que se les atribuye. Para despachos y asesorías que litigan contra la Administración, la lección es revisar las citas del contrario con la misma desconfianza que las propias: un escrito público no viene verificado por defecto. Matiz: Above the Law es una pieza de opinión con tono satírico; los datos de la decisión coinciden con Government Executive, Federal News Network y FedWeek, y el HHS puede recurrir hasta el 21 de diciembre.",
+  "why_sota": "Una autoridad federal señala por escrito citas probablemente generadas por IA en un escrito del propio Gobierno.",
+  "why_now": "Decisión del 21 oct 2026; Above the Law, 23 oct. NEW frente a 09-29→10-23.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "alucinaciones",
+    "verificacion",
+    "administracion-publica",
+    "litigacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/over-80-percent-of-citations-fictitious-erroneous-or-irrelevant-in-trump-admin-brief/",
+      "cited_title": "Over 80 Percent Of Citations 'Fictitious, Erroneous, or Irrelevant' In Trump Admin Brief",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-flra",
+    "ent-hhs",
+    "ent-above-the-law"
+  ],
+  "lang": "es",
+  "status": "published"
+}

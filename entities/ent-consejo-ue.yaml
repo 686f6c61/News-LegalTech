@@ -1,0 +1,11 @@
+id: ent-consejo-ue
+name: Consejo de la Unión Europea
+type: government
+url: https://www.consilium.europa.eu/
+geo:
+- EU
+aliases:
+- Council of the European Union
+- Consejo de la UE
+notes: Institución de la UE que representa a los Estados miembros. Ficha mínima.
+stub: true

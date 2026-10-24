@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-10-24-ivo-micro1-contractbench-grok-lidera-revision-contratos",
+  "date": "2026-10-23",
+  "type": "research",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "ContractBench, de Ivo y micro1: Grok 4.7 lidera la revisión de contratos con un 58,3%, ningún modelo llega al 60% y ninguno iguala la precisión de los abogados al marcar cambios",
+  "short_title": "ContractBench: Grok 4.7 lidera contratos con un 58,3%",
+  "standfirst": "350 tareas redactadas por abogados sobre cinco tipos de contrato; los modelos aciertan al no tocar lo que está bien y fallan al proponer cambios nuevos.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Contratos",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "Ivo, compañía de IA contractual, y el laboratorio de datos micro1 publican ContractBench, un benchmark de 350 tareas de revisión de contratos escrito íntegramente por abogados, informa Artificial Lawyer (23 de octubre de 2026). Cubre cinco tipos de contrato (servicios, licencias de propiedad intelectual, colaboración en investigación, arrendamiento comercial y marketing) y dos momentos: la primera revisión de un borrador limpio y la respuesta a las marcas de la contraparte. Siete modelos pasaron por el mismo entorno y ninguno superó el 60% de los criterios ponderados: Grok 4.7 queda primero con un 58,3%, seguido de Opus 5.5 (58,1%) y Kimi K3 (57,1%); GPT-6 Astra cierra con un 45,6%. Grok completó el 99,5% de las ejecuciones y Opus solo el 80,8%; Kimi sale un 38% más barato y un 13% más rápido que Grok.",
+  "summary_p2": "Los detalles importan más que la clasificación. Según el informe de Ivo, en la respuesta a la contraparte los modelos cumplen más del 96% de los criterios que piden dejar el texto aceptable como está, pero solo entre el 15% y el 37% de los que piden introducir un cambio nuevo; seis de siete puntúan peor en los asuntos que los abogados consideran más importantes, y todos bajan entre 9 y 15 puntos cuando tienen que aplicar el playbook (guía de negociación) de la empresa a los hechos concretos del acuerdo. Los abogados hacen unas 125 ediciones por tarea, de 93 caracteres de media; los modelos, 41 de unos 300. Para departamentos in-house y despachos que eligen herramienta, la conclusión es que el modelo base importa menos que el contexto: playbooks detallados, revisión humana de los asuntos críticos y escalado claro. Matiz: el benchmark lo publica un vendor de revisión de contratos; el conjunto público (210 tareas) y la metodología están abiertos para replicarlo.",
+  "why_sota": "Benchmark abierto de juicio jurídico en revisión de contratos con criterios escritos por abogados y siete modelos frontera.",
+  "why_now": "Artificial Lawyer, 23 oct 2026. NEW frente a 09-29→10-23 (Ivo Sage del 1 oct era otro anuncio).",
+  "geo": [
+    "Global"
+  ],
+  "topics": [
+    "benchmarks",
+    "revision-de-contratos",
+    "modelos",
+    "evaluacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
+      "cited_title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-ivo",
+    "ent-micro1",
+    "ent-xai",
+    "ent-anthropic",
+    "ent-openai",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

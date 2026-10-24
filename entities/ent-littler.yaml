@@ -1,0 +1,12 @@
+id: ent-littler
+name: Littler Mendelson
+type: law_firm
+url: https://www.littler.com/
+geo:
+- US
+- Global
+aliases:
+- Littler
+notes: Mayor despacho de derecho laboral del lado empresarial; alianzas con Legora
+  y Epiq (oct 2026). Ficha mínima.
+stub: true

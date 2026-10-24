@@ -1,0 +1,11 @@
+id: ent-cord
+name: Centre for Online Resolution of Disputes
+type: association
+url: https://www.resolveoncord.com/
+geo:
+- IN
+aliases:
+- CORD
+notes: Institución india de resolución de disputas en línea (arbitraje, mediación);
+  Reglas de Arbitraje 2026. Ficha mínima.
+stub: true

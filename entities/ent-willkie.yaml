@@ -1,0 +1,10 @@
+id: ent-willkie
+name: Willkie Farr & Gallagher
+type: law_firm
+url: https://www.willkie.com/
+geo:
+- US
+aliases:
+- Willkie
+notes: Despacho estadounidense. Ficha mínima.
+stub: true

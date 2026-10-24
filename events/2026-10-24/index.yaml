@@ -1,0 +1,75 @@
+scan_id: full-radar-2026-10-24
+date: '2026-10-24'
+release: 24.10.26
+count: 10
+ai_share: 0.7
+dedup_against: events/2026-09-29 → 2026-10-23 + scans PASS
+event_ids:
+- evt-2026-10-24-flra-hhs-teletrabajo-citas-ficticias-ia
+- evt-2026-10-24-florida-4dca-remite-abogada-colegio-ai-slop
+- evt-2026-10-24-ivo-micro1-contractbench-grok-lidera-revision-contratos
+- evt-2026-10-24-littler-alianza-legora-epiq-transformacion-laboral-ia
+- evt-2026-10-24-cord-reglas-arbitraje-2026-ia-arbitros-laudo
+- evt-2026-10-24-meta-aplaza-terminos-comerciales-20-noviembre-editores
+- evt-2026-10-24-consejo-ue-posicion-digital-omnibus-rgpd-entrenamiento-ia
+- evt-2026-10-24-legal-500-web-caida-resenas-negativas-abogados
+- evt-2026-10-24-weil-willkie-rompen-conversaciones-fusion
+- evt-2026-10-24-laj-firma-sistemas-gestion-procesal-reforma-sin-boe
+events:
+- id: evt-2026-10-24-flra-hhs-teletrabajo-citas-ficticias-ia
+  sota_score: 8.4
+  ai_legaltech: true
+  title: La FLRA da la razón al sindicato contra el Departamento de Salud de EE. UU.
+    en el pleito del teletrabajo y señala que 35 de las 42 citas de su escrito eran
+    ficticias, erróneas o irrelevantes, probablemente por usar IA
+- id: evt-2026-10-24-florida-4dca-remite-abogada-colegio-ai-slop
+  sota_score: 8.2
+  ai_legaltech: true
+  title: 'Un tribunal de apelación de Florida remite a una abogada al Colegio por
+    «AI slop»: escritos con citas reales y casos que existen, pero sin razonamiento
+    propio'
+- id: evt-2026-10-24-ivo-micro1-contractbench-grok-lidera-revision-contratos
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'ContractBench, de Ivo y micro1: Grok 4.7 lidera la revisión de contratos
+    con un 58,3%, ningún modelo llega al 60% y ninguno iguala la precisión de los
+    abogados al marcar cambios'
+- id: evt-2026-10-24-littler-alianza-legora-epiq-transformacion-laboral-ia
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Littler, el mayor despacho laboralista del mundo, se alía con Legora y Epiq
+    para asesorar a empresas en la transformación del trabajo con IA
+- id: evt-2026-10-24-cord-reglas-arbitraje-2026-ia-arbitros-laudo
+  sota_score: 7.5
+  ai_legaltech: true
+  title: Las Reglas de Arbitraje 2026 de la institución india CORD prohíben a los
+    árbitros usar IA para redactar el laudo o valorar la prueba y exigen declarar
+    su uso para investigar o resumir
+- id: evt-2026-10-24-meta-aplaza-terminos-comerciales-20-noviembre-editores
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Meta aplaza al 20 de noviembre sus nuevos términos comerciales, que autorizan
+    el rastreo de las webs de las empresas, después de que los editores de prensa
+    de EE. UU. exigieran retirarlos
+- id: evt-2026-10-24-consejo-ue-posicion-digital-omnibus-rgpd-entrenamiento-ia
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Los Estados miembros cierran su posición sobre el Digital Omnibus: mantienen
+    la definición de dato personal del RGPD, aclaran la base jurídica para entrenar
+    IA y reducen los banners de cookies'
+- id: evt-2026-10-24-legal-500-web-caida-resenas-negativas-abogados
+  sota_score: 7.0
+  ai_legaltech: false
+  title: Legal 500 desconecta su web tras publicar por error reseñas negativas de
+    abogados en su nuevo directorio del Reino Unido
+- id: evt-2026-10-24-weil-willkie-rompen-conversaciones-fusion
+  sota_score: 6.8
+  ai_legaltech: false
+  title: Weil y Willkie rompen sus conversaciones de fusión y Weil sigue buscando
+    socio mientras pierde a socios de M&A y private equity
+- id: evt-2026-10-24-laj-firma-sistemas-gestion-procesal-reforma-sin-boe
+  sota_score: 7.1
+  ai_legaltech: false
+  title: 'Un letrado de la Administración de Justicia denuncia que los sistemas de
+    gestión procesal han suprimido su firma en las resoluciones: «una reforma procesal
+    que nunca pasó por el BOE»'

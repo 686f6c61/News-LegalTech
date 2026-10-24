@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-24-consejo-ue-posicion-digital-omnibus-rgpd-entrenamiento-ia",
+  "date": "2026-10-22",
+  "type": "regulation",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Los Estados miembros cierran su posición sobre el Digital Omnibus: mantienen la definición de dato personal del RGPD, aclaran la base jurídica para entrenar IA y reducen los banners de cookies",
+  "short_title": "Digital Omnibus: el Consejo fija posición sobre RGPD, IA y cookies",
+  "standfirst": "El Consejo rechaza estrechar el concepto de dato personal que proponía la Comisión y abre la puerta a usar datos sensibles para verificación biométrica y entrenamiento de modelos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Protección de datos",
+  "country": "Unión Europea",
+  "piece_type": "Regulación",
+  "summary_p1": "La presidencia irlandesa del Consejo de la UE anunció el acuerdo de los Estados miembros sobre su mandato de negociación del Digital Omnibus, el paquete que simplifica el RGPD, la Directiva ePrivacy y otras normas digitales, informa la IAPP (22 de octubre de 2026). El Consejo mantiene la definición actual de dato personal del RGPD y rechaza el cambio del artículo 4.1 propuesto por la Comisión, según el cual un dato no sería necesariamente personal aunque permitiera identificar a alguien; el CEPD y el SEPD habían advertido en su dictamen conjunto que eso estrecharía mucho el concepto. A cambio, introduce estándares de seudonimización, nuevas garantías para usar datos sensibles en verificación biométrica y en el entrenamiento de modelos de IA, y «aclaraciones» sobre la base jurídica para tratar datos personales al entrenar IA.",
+  "summary_p2": "En cookies, el mandato enumera casos en que no hará falta consentimiento: cuando el dispositivo lo necesite para prestar el servicio, para medir audiencia o para garantizar su seguridad. En incidentes de ciberseguridad, rechaza el punto único europeo de notificación de la Comisión y prefiere puntos nacionales con reglas armonizadas para los incidentes transfronterizos. El trílogo empezará cuando el Parlamento Europeo tenga su posición. Para equipos de protección de datos y vendors que entrenan modelos con datos de clientes, es la primera señal firme de por dónde irá el texto final: no habrá atajo por la vía de la definición de dato personal, pero sí un marco más claro para entrenar IA. Matiz: es la posición de negociación de una de las tres instituciones, no una norma aplicable, y el detalle de las aclaraciones sobre IA aún no se ha publicado.",
+  "why_sota": "Primera posición del Consejo sobre la reforma del RGPD, con reglas específicas para entrenar IA con datos personales.",
+  "why_now": "IAPP, 22 oct 2026. NEW frente a 09-29→10-23.",
+  "geo": [
+    "EU"
+  ],
+  "topics": [
+    "rgpd",
+    "digital-omnibus",
+    "entrenamiento-ia",
+    "cookies"
+  ],
+  "sources": [
+    {
+      "source_id": "src-iapp",
+      "url": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance",
+      "cited_title": "EU member states finalize negotiating stance on Digital Omnibus",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-consejo-ue",
+    "ent-comision-europea",
+    "ent-iapp"
+  ],
+  "lang": "es",
+  "status": "published"
+}

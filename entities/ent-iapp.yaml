@@ -1,0 +1,11 @@
+id: ent-iapp
+name: IAPP
+type: association
+url: https://iapp.org/
+geo:
+- Global
+aliases:
+- International Association of Privacy Professionals
+notes: Asociación internacional de profesionales de la privacidad y gobernanza de
+  IA. Ficha mínima.
+stub: true

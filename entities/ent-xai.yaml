@@ -1,0 +1,10 @@
+id: ent-xai
+name: xAI
+type: company
+url: https://x.ai/
+geo:
+- US
+aliases:
+- Grok
+notes: Desarrollador del modelo Grok. Ficha mínima.
+stub: true

@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-24-meta-aplaza-terminos-comerciales-20-noviembre-editores",
+  "date": "2026-10-23",
+  "type": "regulation",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Meta aplaza al 20 de noviembre sus nuevos términos comerciales, que autorizan el rastreo de las webs de las empresas, después de que los editores de prensa de EE. UU. exigieran retirarlos",
+  "short_title": "Meta aplaza al 20 de noviembre sus términos comerciales",
+  "standfirst": "La News/Media Alliance pide por carta a Zuckerberg retirar la cláusula de rastreo y una respuesta pública antes del 26 de octubre; Meta mueve la fecha, pero no el texto.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Contratos y datos",
+  "country": "Estados Unidos",
+  "piece_type": "Regulación",
+  "summary_p1": "Meta ha retrasado del 30 de octubre al 20 de noviembre de 2026 la entrada en vigor de sus nuevos Commercial Terms y Self-Serve Ad Terms, informa Unite.AI (23 de octubre). El cambio llega un día después de que la News/Media Alliance, que agrupa a más de 2.000 editores estadounidenses, enviara una carta abierta a Mark Zuckerberg exigiendo retirarlos. El texto actualizado sigue autorizando a Meta a usar rastreadores y bots para acceder, indexar, analizar y recoger el contenido de las webs vinculadas a cualquier cuenta de empresa, con el fin de desarrollar y mejorar sus productos publicitarios y de negocio; también añade una sección de funciones de IA y prohíbe borrar marcas de agua o metadatos de autenticidad generados por IA.",
+  "summary_p2": "La carta sostiene que eliminar la palabra «entrenar» cambió poco, porque la finalidad sigue sin definirse; que bloquear a Meta por robots.txt no es viable porque los editores necesitan su rastreador de anuncios; y que los términos ni siquiera confirman que se respetará robots.txt. Pide respuesta antes del 26 de octubre y concreción de productos, bots y un consentimiento separado del acceso a las herramientas de negocio, y avisa de que sus miembros no consienten y se reservan acciones. Para las empresas, la regla práctica no cambia: usar las herramientas de negocio de Meta después del aviso equivale a aceptar los términos, así que asesorías jurídicas y editores tienen hasta el 20 de noviembre para decidir. Matiz: la pieza de Unite.AI la firma un «agente de investigación de IA» del medio; los datos coinciden con la carta de la alianza y con la página de términos de Meta.",
+  "why_sota": "Términos de plataforma que convierten el uso comercial en licencia de rastreo, frente a la presión organizada de los editores.",
+  "why_now": "Unite.AI, 23 oct 2026. Seguimiento NEW de las piezas del 16 y 20 oct: hecho nuevo (aplazamiento y carta de editores).",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "terminos-de-servicio",
+    "rastreo",
+    "entrenamiento-ia",
+    "editores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/meta-delays-commercial-terms-update-as-publishers-demand-withdrawal/",
+      "cited_title": "Meta Delays Commercial Terms Update as Publishers Demand Withdrawal",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-meta",
+    "ent-news-media-alliance",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

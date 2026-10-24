@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-24-littler-alianza-legora-epiq-transformacion-laboral-ia",
+  "date": "2026-10-22",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Littler, el mayor despacho laboralista del mundo, se alía con Legora y Epiq para asesorar a empresas en la transformación del trabajo con IA",
+  "short_title": "Littler se alía con Legora y Epiq para transformar el trabajo con IA",
+  "standfirst": "El despacho pone el derecho laboral y la gobernanza, Legora los flujos de trabajo con IA y Epiq los procesos, los datos y la gestión del cambio.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Littler, el mayor despacho de derecho laboral del lado empresarial, anunció el 22 de octubre de 2026 alianzas estratégicas con Legora y Epiq para ayudar a las empresas con las implicaciones jurídicas, laborales y operativas de reorganizar el trabajo con IA, recoge Artificial Lawyer (23 de octubre). Según el comunicado del despacho, Littler liderará la parte de derecho laboral y gobernanza de la plantilla; Legora, que el despacho ya ha probado en un piloto en sus oficinas europeas, diseñará y construirá los flujos de trabajo jurídicos con IA; y Epiq aportará rediseño de procesos, preparación de datos, gobernanza, privacidad, implantación, formación y gestión del cambio.",
+  "summary_p2": "La jugada importa por el producto que vende: no una herramienta, sino responder a qué tareas cambian, dónde entra la IA, dónde debe quedarse el juicio humano y quién responde, que son a la vez preguntas de derecho laboral y de operaciones. Stephanie Goutos, directora de IA de Littler, lo plantea como unir decisiones tecnológicas, rediseño del trabajo y cumplimiento; el despacho insiste en que el modelo es agnóstico respecto de la plataforma. Para despachos laboralistas, es el formato a vigilar: asesoramiento jurídico empaquetado con un vendor de IA y un proveedor de servicios gestionados. Para Legora, recién financiada, es otro canal de distribución a través de clientes de un despacho. Matiz: los datos proceden de los comunicados de las tres empresas, sin cifras económicas ni clientes concretos.",
+  "why_sota": "Un gran despacho empaqueta asesoramiento laboral, plataforma de IA y servicios gestionados para vender transformación del trabajo.",
+  "why_now": "Comunicado del 22 oct 2026; Artificial Lawyer, 23 oct. NEW frente a 09-29→10-23.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "alianzas",
+    "derecho-laboral",
+    "gobernanza-ia",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
+      "cited_title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-littler",
+    "ent-legora",
+    "ent-epiq",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

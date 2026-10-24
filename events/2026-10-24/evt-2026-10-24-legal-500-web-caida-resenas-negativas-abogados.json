@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-24-legal-500-web-caida-resenas-negativas-abogados",
+  "date": "2026-10-23",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "Legal 500 desconecta su web tras publicar por error reseñas negativas de abogados en su nuevo directorio del Reino Unido",
+  "short_title": "Legal 500 cae tras publicar reseñas negativas de abogados",
+  "standfirst": "Las fichas recién publicadas incluían comentarios como «adecuado pero desorganizado e indeciso»; la empresa habla de un error en la carga de datos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Despachos",
+  "country": "Reino Unido",
+  "piece_type": "Incidente",
+  "summary_p1": "The Legal 500 retiró su web el 23 de octubre de 2026 mientras investiga cómo se publicaron reseñas negativas de abogados en el directorio británico que había salido el día anterior, informa la Law Society Gazette. La Gazette vio capturas de fichas antes de que desaparecieran: un barrister descrito como «adecuado pero desorganizado e indeciso», otra abogada de la que se decía que sus escritos «a veces son descuidados» y que los clientes esperan «semanas o meses» su opinión, una ficha que solo decía «nada que destacar» y otra que describía a un barrister como «un edificio y unas instalaciones impresionantes».",
+  "summary_p2": "La empresa explica que una actualización de la web provocó que una pequeña parte de los testimonios se publicara incorrectamente, que los retiró en cuanto lo supo y que refuerza sus controles de calidad. El problema no fue general: muchos despachos y chambers ya habían difundido sus fichas positivas. Más allá de la anécdota, el incidente enseña lo que contiene la investigación de un directorio: opiniones de clientes y colegas sin filtrar que los despachos no ven y que pueden acabar en público. Para responsables de marketing y socios que alimentan estos rankings con referencias de clientes, conviene revisar qué se ha publicado y preparar la respuesta; y para cualquier proveedor que gestione datos de terceros, es un recordatorio de lo que cuesta un fallo de carga.",
+  "why_sota": "Incidente de datos en el directorio de referencia del mercado jurídico británico.",
+  "why_now": "Law Society Gazette, 23 oct 2026. NEW frente a 09-29→10-23.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "directorios",
+    "reputacion",
+    "marketing-juridico",
+    "incidentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-law-society-gazette",
+      "url": "https://www.lawgazette.co.uk/news/legal-500-site-taken-down-after-negative-review-fiasco/5128072.article",
+      "cited_title": "Legal 500 site down after posting negative reviews of lawyers",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-legal-500",
+    "ent-law-society-gazette"
+  ],
+  "lang": "es",
+  "status": "published"
+}

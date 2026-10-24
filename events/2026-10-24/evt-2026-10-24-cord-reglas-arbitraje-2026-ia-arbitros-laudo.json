@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-24-cord-reglas-arbitraje-2026-ia-arbitros-laudo",
+  "date": "2026-10-23",
+  "type": "guidance",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Las Reglas de Arbitraje 2026 de la institución india CORD prohíben a los árbitros usar IA para redactar el laudo o valorar la prueba y exigen declarar su uso para investigar o resumir",
+  "short_title": "CORD: reglas de arbitraje con tres niveles de uso de IA para árbitros",
+  "standfirst": "Usos libres, usos con declaración previa y usos prohibidos; las partes pueden usar IA sin avisar, pero responden de todo lo que presentan.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Arbitraje",
+  "country": "India",
+  "piece_type": "Orientación",
+  "summary_p1": "El Centre for Online Resolution of Disputes (CORD), institución india de arbitraje y mediación en línea, explica en Daily Jus (23 de octubre de 2026) sus Reglas de Arbitraje 2026, vigentes desde el 4 de septiembre. La regla 38 fija cinco principios para el uso de IA (transparencia, responsabilidad, confidencialidad, equidad y supervisión humana) y una nota práctica divide los usos de los árbitros en tres niveles. Sin declarar: corrección, formato, búsqueda de documentos, cronologías, cálculos y comprobación de citas. Con declaración previa: investigar cuestiones jurídicas, analizar inconsistencias en la prueba, resumir escritos, preparar órdenes procesales o ayudar con las costas. Prohibido: redactar cualquier parte del laudo sobre el fondo, valorar la credibilidad de testigos o el peso de la prueba, decidir cuestiones de hecho o de derecho, daños, competencia o admisibilidad.",
+  "summary_p2": "Las partes y sus abogados pueden usar IA para lo que quieran sin declararlo, pero responden de la exactitud de hechos, argumentos y pruebas; testigos y peritos deben declararlo cuando la IA hace trabajo sustantivo. Las reglas añaden otras novedades: honorarios del árbitro según la complejidad del caso (del 60% al 140% de la escala legal india), costes diarios automáticos por incumplir plazos y una apelación opcional del laudo ante el Mumbai Centre for International Arbitration. Para quien redacta cláusulas arbitrales o actúa como árbitro, es una de las regulaciones institucionales más detalladas sobre IA y un buen modelo para pactar en el acta de misión qué puede hacer el tribunal con la IA. Matiz: el artículo lo firma el cofundador y consejero delegado de CORD, no un tercero independiente.",
+  "why_sota": "Reglamento arbitral con lista cerrada de usos de IA permitidos, declarables y prohibidos para árbitros.",
+  "why_now": "Daily Jus, 23 oct 2026. NEW frente a 09-29→10-23.",
+  "geo": [
+    "IN"
+  ],
+  "topics": [
+    "arbitraje",
+    "ia-judicial",
+    "reglas-institucionales",
+    "transparencia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-daily-jus",
+      "url": "https://dailyjus.com/legal-tech/2026/10/cord-rules-of-arbitration-2026-new-rules-governing-ai-procedural-delay-and-appeals",
+      "cited_title": "CORD Rules of Arbitration 2026: New Rules Governing AI, Procedural Delay, and Appeals",
+      "accessed": "2026-10-24"
+    }
+  ],
+  "entities": [
+    "ent-cord",
+    "ent-daily-jus"
+  ],
+  "lang": "es",
+  "status": "published"
+}

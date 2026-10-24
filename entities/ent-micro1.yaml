@@ -1,0 +1,10 @@
+id: ent-micro1
+name: micro1
+type: vendor
+url: https://www.micro1.ai/
+geo:
+- US
+aliases: []
+notes: Laboratorio de datos para IA; coautor de ContractBench con Ivo (oct 2026).
+  Ficha mínima.
+stub: true

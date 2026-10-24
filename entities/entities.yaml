@@ -3657,3 +3657,132 @@ entities:
   - OCU
   notes: Asociación española de consumidores. Ficha mínima.
   stub: true
+- id: ent-flra
+  name: Federal Labor Relations Authority
+  type: government
+  url: https://www.flra.gov/
+  geo:
+  - US
+  aliases:
+  - FLRA
+  notes: Agencia cuasijudicial federal de EE. UU. que resuelve conflictos laborales
+    entre agencias federales y sindicatos. Ficha mínima.
+  stub: true
+- id: ent-hhs
+  name: U.S. Department of Health and Human Services
+  type: government
+  url: https://www.hhs.gov/
+  geo:
+  - US
+  aliases:
+  - HHS
+  - Departamento de Salud y Servicios Humanos
+  notes: Departamento federal de Sanidad de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-micro1
+  name: micro1
+  type: vendor
+  url: https://www.micro1.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Laboratorio de datos para IA; coautor de ContractBench con Ivo (oct 2026).
+    Ficha mínima.
+  stub: true
+- id: ent-xai
+  name: xAI
+  type: company
+  url: https://x.ai/
+  geo:
+  - US
+  aliases:
+  - Grok
+  notes: Desarrollador del modelo Grok. Ficha mínima.
+  stub: true
+- id: ent-littler
+  name: Littler Mendelson
+  type: law_firm
+  url: https://www.littler.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Littler
+  notes: Mayor despacho de derecho laboral del lado empresarial; alianzas con Legora
+    y Epiq (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-cord
+  name: Centre for Online Resolution of Disputes
+  type: association
+  url: https://www.resolveoncord.com/
+  geo:
+  - IN
+  aliases:
+  - CORD
+  notes: Institución india de resolución de disputas en línea (arbitraje, mediación);
+    Reglas de Arbitraje 2026. Ficha mínima.
+  stub: true
+- id: ent-news-media-alliance
+  name: News/Media Alliance
+  type: association
+  url: https://www.newsmediaalliance.org/
+  geo:
+  - US
+  aliases:
+  - NMA
+  notes: Asociación de más de 2.000 editores de prensa de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-consejo-ue
+  name: Consejo de la Unión Europea
+  type: government
+  url: https://www.consilium.europa.eu/
+  geo:
+  - EU
+  aliases:
+  - Council of the European Union
+  - Consejo de la UE
+  notes: Institución de la UE que representa a los Estados miembros. Ficha mínima.
+  stub: true
+- id: ent-iapp
+  name: IAPP
+  type: association
+  url: https://iapp.org/
+  geo:
+  - Global
+  aliases:
+  - International Association of Privacy Professionals
+  notes: Asociación internacional de profesionales de la privacidad y gobernanza de
+    IA. Ficha mínima.
+  stub: true
+- id: ent-legal-500
+  name: The Legal 500
+  type: company
+  url: https://www.legal500.com/
+  geo:
+  - UK
+  - Global
+  aliases:
+  - Legal 500
+  notes: Directorio y ranking de despachos y abogados; editor de Legal Business. Ficha
+    mínima.
+  stub: true
+- id: ent-legal-business
+  name: Legal Business
+  type: media
+  url: https://www.legalbusiness.co.uk/
+  geo:
+  - UK
+  aliases: []
+  notes: Revista británica sobre el negocio de los despachos (grupo Legal 500). Ficha
+    mínima.
+  stub: true
+- id: ent-willkie
+  name: Willkie Farr & Gallagher
+  type: law_firm
+  url: https://www.willkie.com/
+  geo:
+  - US
+  aliases:
+  - Willkie
+  notes: Despacho estadounidense. Ficha mínima.
+  stub: true
