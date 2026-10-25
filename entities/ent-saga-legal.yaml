@@ -1,0 +1,11 @@
+id: ent-saga-legal
+name: Saga
+type: vendor
+url: https://www.saga.law/
+geo:
+- NL
+aliases:
+- Saga External
+notes: Plataforma de IA jurídica con sede en Ámsterdam; lanza Saga External (oct 2026).
+  Ficha mínima.
+stub: true

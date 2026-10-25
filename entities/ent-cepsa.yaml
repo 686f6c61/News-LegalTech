@@ -1,0 +1,10 @@
+id: ent-cepsa
+name: Cepsa
+type: company
+url: https://www.moeveglobal.com/
+geo:
+- ES
+aliases:
+- Moeve
+notes: Compañía energética española (hoy Moeve). Ficha mínima.
+stub: true

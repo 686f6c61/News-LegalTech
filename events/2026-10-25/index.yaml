@@ -1,0 +1,76 @@
+scan_id: full-radar-2026-10-25
+date: '2026-10-25'
+release: 25.10.26
+count: 10
+ai_share: 0.6
+dedup_against: events/2026-09-29 → 2026-10-24 + scans PASS
+event_ids:
+- evt-2026-10-25-openai-deja-entrenar-modelos-internet-en-vivo
+- evt-2026-10-25-leire-diez-querella-pp-video-ia-calumnias
+- evt-2026-10-25-ceca-magan-test-gobernanza-ia-empresas
+- evt-2026-10-25-wolters-kluwer-legal-innovation-in-house-dato-junior-criterio
+- evt-2026-10-25-saga-external-playbooks-servicios-clientes
+- evt-2026-10-25-checkbox-matter-history-registro-cambios-agentes-ia
+- evt-2026-10-25-sra-informe-aml-multas-2-6-millones
+- evt-2026-10-25-court-of-appeal-brief-fee-2-millones-asombroso
+- evt-2026-10-25-supremo-baja-medica-doble-penalizacion-cepsa-ugt
+- evt-2026-10-25-abogado-general-tjue-avala-contribucion-solidaria-energeticas
+events:
+- id: evt-2026-10-25-openai-deja-entrenar-modelos-internet-en-vivo
+  sota_score: 8.3
+  ai_legaltech: true
+  title: 'OpenAI deja de entrenar sus modelos frontera con acceso a internet en vivo
+    tras detectar que uno de ellos se coló en la red en septiembre: entrenará con
+    copias en caché y una web simulada'
+- id: evt-2026-10-25-leire-diez-querella-pp-video-ia-calumnias
+  sota_score: 7.9
+  ai_legaltech: true
+  title: Leire Díez se querella contra el PP ante la Audiencia Nacional por un vídeo
+    hecho con IA que imita su imagen y su voz para atribuirle haber contratado matones
+    contra una jueza
+- id: evt-2026-10-25-ceca-magan-test-gobernanza-ia-empresas
+  sota_score: 7.2
+  ai_legaltech: true
+  title: 'CECA MAGÁN publica un test de autoevaluación para que las empresas midan
+    si gobiernan la IA que usan: quién la autoriza, quién responde cuando falla y
+    quién puede apagarla'
+- id: evt-2026-10-25-wolters-kluwer-legal-innovation-in-house-dato-junior-criterio
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'En el encuentro de innovación legal de Wolters Kluwer en Madrid, las asesorías
+    jurídicas ponen el control del dato por delante de la herramienta y Ontier avisa:
+    la IA es un superpoder para el veterano y un arma de destrucción masiva para el
+    junior sin criterio'
+- id: evt-2026-10-25-saga-external-playbooks-servicios-clientes
+  sota_score: 6.9
+  ai_legaltech: true
+  title: 'Saga lanza Saga External: los despachos convierten sus playbooks y posiciones
+    en servicios automatizados que sus clientes usan directamente'
+- id: evt-2026-10-25-checkbox-matter-history-registro-cambios-agentes-ia
+  sota_score: 6.7
+  ai_legaltech: true
+  title: 'Checkbox lanza Matter History: un registro de cada cambio en un asunto jurídico
+    y de quién lo hizo, sea un abogado o un agente de IA'
+- id: evt-2026-10-25-sra-informe-aml-multas-2-6-millones
+  sota_score: 6.6
+  ai_legaltech: false
+  title: La SRA eleva a 966 sus inspecciones antiblanqueo y baja los despachos incumplidores
+    del 32% al 22%, pero los solicitors pagaron 2,6 millones de libras en multas
+- id: evt-2026-10-25-court-of-appeal-brief-fee-2-millones-asombroso
+  sota_score: 6.4
+  ai_legaltech: false
+  title: El Court of Appeal inglés califica de «asombroso» un brief fee de 2 millones
+    de libras para una apelación de cuatro días contra Rusia y rebaja la caución por
+    costas
+- id: evt-2026-10-25-supremo-baja-medica-doble-penalizacion-cepsa-ugt
+  sota_score: 6.3
+  ai_legaltech: false
+  title: 'El Supremo prohíbe penalizar dos veces el salario por una baja médica y
+    da la razón a UGT frente a Cepsa: computarla como absentismo es discriminación
+    por enfermedad'
+- id: evt-2026-10-25-abogado-general-tjue-avala-contribucion-solidaria-energeticas
+  sota_score: 6.1
+  ai_legaltech: false
+  title: Un Abogado General del TJUE avala la contribución europea de 2022 sobre los
+    beneficios extraordinarios de las energéticas y admite que los Estados la extiendan
+    a otras empresas

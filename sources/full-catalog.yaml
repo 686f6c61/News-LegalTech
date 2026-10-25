@@ -1,4 +1,4 @@
-count: 160
+count: 161
 agenda_count: 9
 sources:
 - id: src-artificial-lawyer
@@ -1774,6 +1774,17 @@ sources:
     añadida para citar URLs de folha.uol.com.br.
   region: BR
   lang: PT
+  tier: archive
+- id: src-techcrunch
+  name: TechCrunch
+  url: https://techcrunch.com/
+  type: media
+  kind: news
+  frequency: continuo
+  why: Medio tecnológico estadounidense (startups, IA, política tecnológica). Ficha
+    añadida para citar URLs de techcrunch.com.
+  region: US
+  lang: EN
   tier: archive
 
 version: 1.0.0

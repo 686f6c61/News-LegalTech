@@ -1,0 +1,10 @@
+id: ent-partido-popular
+name: Partido Popular
+type: other
+url: https://www.pp.es/
+geo:
+- ES
+aliases:
+- PP
+notes: Partido político español. Ficha mínima.
+stub: true

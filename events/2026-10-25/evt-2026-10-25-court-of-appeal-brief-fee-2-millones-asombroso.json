@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-25-court-of-appeal-brief-fee-2-millones-asombroso",
+  "date": "2026-10-22",
+  "type": "case_law",
+  "sota_score": 6.4,
+  "ai_legaltech": false,
+  "title": "El Court of Appeal inglés califica de «asombroso» un brief fee de 2 millones de libras para una apelación de cuatro días contra Rusia y rebaja la caución por costas",
+  "short_title": "Court of Appeal: un brief fee de 2 millones es «asombroso»",
+  "standfirst": "Lo que un cliente decida pagar a sus abogados no es lo que la otra parte tiene que reembolsar: solo lo razonable y proporcionado.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Litigación",
+  "country": "Reino Unido",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Court of Appeal de Inglaterra y Gales ha calificado de «asombrosos» e injustificables los honorarios previstos por los recurridos en una apelación de cuatro días: un brief fee (honorario por el encargo de la vista) de 2 millones de libras para el leading counsel, más 20.000 libras diarias, 375.000 para el junior y 125.000 por una vista de consecuencias que normalmente no se celebra, informa Legal Futures (22 de octubre de 2026). Los recurridos, tres compañías que piden en Inglaterra el reconocimiento de tres laudos arbitrales dictados en Países Bajos que condenan a Rusia a pagar unos 50.000 millones de dólares más intereses, preveían costas de más de 3,6 millones y pedían una caución del 70%.",
+  "summary_p2": "Lord Justice Fancourt, con Lord Justice Phillips, consideró justo exigir caución porque hay un riesgo real de no poder ejecutar una condena en costas en Rusia, pero la fijó en 975.000 libras en lugar de 2,5 millones: «por mucho que los recurridos decidan gastar en sus abogados, al recurrente solo se le puede exigir lo razonable y proporcionado», y la excelencia del abogado o el mercado tienen «poca relevancia» para ese cálculo. Para despachos y financiadores de litigios en Londres, es un recordatorio de que las tarifas de la élite del barrister no se trasladan a la contraparte y de que conviene presupuestar las costas recuperables con criterios del costs judge, no con la factura real. La apelación se verá el próximo verano.",
+  "why_sota": "Límite judicial a la recuperación de honorarios de élite en litigación internacional en Londres.",
+  "why_now": "Legal Futures, 22 oct 2026. NEW frente a 09-29→10-24.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "honorarios",
+    "costas",
+    "arbitraje",
+    "litigacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-of-appeal-astonished-by-2m-brief-fee-for-four-day-case",
+      "cited_title": "Court of Appeal \"astonished\" by £2m brief fee for four-day case",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "entities": [
+    "ent-england-wales-court-of-appeal",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

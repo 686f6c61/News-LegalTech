@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-25-sra-informe-aml-multas-2-6-millones",
+  "date": "2026-10-22",
+  "type": "regulation",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "La SRA eleva a 966 sus inspecciones antiblanqueo y baja los despachos incumplidores del 32% al 22%, pero los solicitors pagaron 2,6 millones de libras en multas",
+  "short_title": "SRA: menos incumplimiento antiblanqueo, pero 2,6 millones en multas",
+  "standfirst": "El origen de los fondos sigue siendo el punto débil: en el 9% de los expedientes revisados no había ninguna comprobación.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Despachos",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "La Solicitors Regulation Authority (SRA), el regulador de los solicitors de Inglaterra y Gales, hizo un récord de 966 evaluaciones de cumplimiento antiblanqueo (AML) en el año hasta el 6 de abril de 2026, y la proporción de despachos incumplidores bajó del 32% al 22%, según su informe anual recogido por Legal Futures (22 de octubre de 2026). Aun así, en 2025-26 firmó 145 acuerdos con multas por 2 millones de libras, sus adjudicadores impusieron otras 14 por 364.000 libras y el tribunal disciplinario (SDT) resolvió ocho casos con una expulsión, una suspensión y seis multas por 228.000 libras: 2.592.000 libras en total. De 6.592 expedientes revisados, el 5% no acreditaba la identificación del cliente, el 9% no tenía ninguna comprobación del origen de los fondos y, donde había documentos, en el 18% no se habían analizado.",
+  "summary_p2": "El regulador mejora en casi todo (evaluaciones de riesgo de la firma del 47% al 60%, políticas y controles del 38% al 54%), pero señala que el problema ya no es la ausencia de controles, sino su calidad y su aplicación: falta de supervisión de la dirección, formación insuficiente y sistemas que dejan avanzar una operación o recibir fondos sin un bloqueo automático cuando falta la diligencia debida. 206 despachos fueron remitidos a investigación. Para despachos con clientes británicos o con estructura en Reino Unido, el mensaje es concreto: el origen de los fondos hay que analizarlo, no solo archivarlo, y los flujos de trabajo deberían parar solos cuando falta un paso. La SRA ha publicado además nueva guía sobre políticas, controles y procedimientos.",
+  "why_sota": "Datos anuales del regulador con el detalle de dónde fallan los controles antiblanqueo de los despachos.",
+  "why_now": "Legal Futures, 22 oct 2026. NEW frente a 09-29→10-24.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "aml",
+    "regulacion-profesional",
+    "sanciones",
+    "compliance"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/aml-compliance-improving-but-solicitors-still-fined-2-6m",
+      "cited_title": "AML compliance improving but solicitors still fined £2.6m",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "entities": [
+    "ent-sra",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

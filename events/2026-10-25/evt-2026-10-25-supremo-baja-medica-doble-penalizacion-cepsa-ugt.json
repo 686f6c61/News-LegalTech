@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-25-supremo-baja-medica-doble-penalizacion-cepsa-ugt",
+  "date": "2026-10-25",
+  "type": "case_law",
+  "sota_score": 6.3,
+  "ai_legaltech": false,
+  "title": "El Supremo prohíbe penalizar dos veces el salario por una baja médica y da la razón a UGT frente a Cepsa: computarla como absentismo es discriminación por enfermedad",
+  "short_title": "El Supremo prohíbe penalizar dos veces una baja médica",
+  "standfirst": "Se puede pagar un complemento en proporción al tiempo trabajado, pero no añadir otro descuento por absentismo por la misma baja.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Litigación",
+  "country": "España",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "La Sala de lo Social del Tribunal Supremo, en la sentencia 773/2026, de 5 de octubre (ponente: Rafael Antonio López Parada), ha declarado que Cepsa no puede computar las bajas por incapacidad temporal como absentismo para reducir el plus de participación en resultados y el plus de desempeño cuando el convenio ya prevé su abono proporcional al tiempo trabajado, informa Confilegal (25 de octubre de 2026). Esa segunda reducción es una penalización adicional que constituye discriminación por razón de enfermedad, prohibida por la Ley 15/2022. El conflicto afecta a la plantilla de las refinerías de San Roque, La Rábida y Santa Cruz de Tenerife, y el Supremo amplía lo concedido por la Audiencia Nacional: los trabajadores pueden reclamar las diferencias de 2022 a 2025, no solo desde diciembre de 2023.",
+  "summary_p2": "La sentencia traza la línea con claridad: la suspensión del contrato por baja permite dejar de pagar el salario de esos días, pero no introducir descuentos que vayan más allá de la proporcionalidad estricta. Para asesorías jurídicas y despachos laboralistas, el efecto práctico es revisar las cláusulas de absentismo de los convenios y de los sistemas de retribución variable que cuentan la incapacidad temporal entre las ausencias, porque pueden generar reclamaciones de varios años atrás. También afecta al software de nóminas: si el cálculo automático aplica el umbral de absentismo sobre las bajas, el error se replica en toda la plantilla.",
+  "why_sota": "Doctrina del Supremo sobre discriminación por enfermedad en complementos salariales.",
+  "why_now": "Confilegal, 25 oct 2026. NEW frente a 09-29→10-24.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "laboral",
+    "discriminacion",
+    "convenios",
+    "retribucion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261025-el-supremo-prohibe-penalizar-dos-veces-el-salario-por-una-baja-medica-y-da-la-razon-a-ugt-frente-a-cepsa/",
+      "cited_title": "El Supremo prohíbe penalizar dos veces el salario por una baja médica y da la razón a UGT frente a Cepsa",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "entities": [
+    "ent-tribunal-supremo-es",
+    "ent-cepsa",
+    "ent-ugt",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

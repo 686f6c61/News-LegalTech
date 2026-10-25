@@ -1,0 +1,11 @@
+id: ent-ceca-magan
+name: CECA MAGÁN Abogados
+type: law_firm
+url: https://www.cecamagan.com/
+geo:
+- ES
+aliases:
+- CECA MAGÁN
+notes: Despacho español; cuestionario de autoevaluación de gobernanza de IA (oct 2026).
+  Ficha mínima.
+stub: true

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-25-saga-external-playbooks-servicios-clientes",
+  "date": "2026-10-23",
+  "type": "product",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Saga lanza Saga External: los despachos convierten sus playbooks y posiciones en servicios automatizados que sus clientes usan directamente",
+  "short_title": "Saga External: el playbook del despacho, como servicio al cliente",
+  "standfirst": "Un revisor de contratos con el criterio del propio despacho o una revisión de cumplimiento, disponibles para el cliente cuando los necesite.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Países Bajos",
+  "piece_type": "Producto",
+  "summary_p1": "Saga, plataforma de IA jurídica con sede en Ámsterdam, ha lanzado Saga External, que permite a los equipos legales construir nuevos servicios jurídicos y ponerlos directamente a disposición de las personas a las que atienden, informa Artificial Lawyer en su resumen semanal (23 de octubre de 2026). Según la empresa, para un despacho supone tomar lo que ya sabe (sus playbooks o guías de negociación, sus posiciones y la experiencia que hay detrás) y convertirlo en servicios automatizados que los clientes pueden usar cuando lo necesiten; pone como ejemplos un revisor de contratos basado en el playbook del despacho y una revisión de cumplimiento.",
+  "summary_p2": "Es la misma idea que empuja a los departamentos in-house a montar su legal front door (puerta de entrada jurídica), pero vista desde el despacho: empaquetar criterio en un producto en lugar de venderlo por horas. Para despachos medianos, abre una vía de ingresos recurrentes y fideliza al cliente con autoservicio para lo repetitivo, reservando al abogado para lo que se sale del playbook. Lo que no resuelve el anuncio es lo difícil: quién responde si el servicio automatizado se equivoca, cómo se factura y cómo se documenta el alcance del encargo frente al cliente. Matiz: solo hay la descripción del vendor recogida por Artificial Lawyer; no constan clientes, precios ni disponibilidad por jurisdicción.",
+  "why_sota": "Lleva el conocimiento del despacho a un servicio que el cliente usa sin intermediación del abogado.",
+  "why_now": "Artificial Lawyer, 23 oct 2026. NEW frente a 09-29→10-24.",
+  "geo": [
+    "NL",
+    "EU"
+  ],
+  "topics": [
+    "productizacion",
+    "playbooks",
+    "modelo-de-negocio",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
+      "cited_title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "entities": [
+    "ent-saga-legal",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

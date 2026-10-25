@@ -1,0 +1,9 @@
+id: ent-techcrunch
+name: TechCrunch
+type: media
+url: https://techcrunch.com/
+geo:
+- US
+aliases: []
+notes: Medio tecnológico estadounidense. Ficha mínima.
+stub: true

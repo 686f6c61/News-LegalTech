@@ -1,0 +1,10 @@
+id: ent-ontier
+name: Ontier
+type: law_firm
+url: https://www.ontier.net/
+geo:
+- ES
+- Global
+aliases: []
+notes: Despacho de origen español con presencia internacional. Ficha mínima.
+stub: true

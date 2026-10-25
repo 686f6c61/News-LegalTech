@@ -1,0 +1,11 @@
+id: ent-ugt
+name: UGT
+type: association
+url: https://www.ugt.es/
+geo:
+- ES
+aliases:
+- UGT-FICA
+- Unión General de Trabajadores
+notes: Sindicato español. Ficha mínima.
+stub: true

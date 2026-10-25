@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-25-checkbox-matter-history-registro-cambios-agentes-ia",
+  "date": "2026-10-23",
+  "type": "product",
+  "sota_score": 6.7,
+  "ai_legaltech": true,
+  "title": "Checkbox lanza Matter History: un registro de cada cambio en un asunto jurídico y de quién lo hizo, sea un abogado o un agente de IA",
+  "short_title": "Checkbox registra quién cambió cada asunto, abogado o agente de IA",
+  "standfirst": "La puerta de entrada jurídica que usan SAP, PepsiCo y BILL añade trazabilidad cuando los agentes empiezan a tocar expedientes.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Agentes de IA",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Checkbox, legal front door (puerta de entrada jurídica) con IA que usan departamentos in-house como los de SAP, PepsiCo y BILL, ha lanzado Matter History, un registro de cada cambio realizado en un asunto y de quién o qué lo hizo, desde un abogado hasta un agente de IA, informa Artificial Lawyer (23 de octubre de 2026). La actualización incluye además Tasks & Events para seguir plazos dentro de cada asunto, edición masiva entre asuntos y sobres de DocuSign con varios documentos.",
+  "summary_p2": "La novedad parece menor, pero responde a una pregunta que crece con los agentes: cuando un sistema automático reclasifica, asigna o modifica un asunto, alguien tiene que poder reconstruir después qué pasó y quién lo autorizó. Para equipos in-house, un historial que distingue entre acciones humanas y de agentes es la base de cualquier auditoría interna, de la supervisión que piden las políticas de IA y de la defensa ante un error con consecuencias. Al elegir herramienta, conviene pedir a los proveedores este tipo de registro, no darlo por supuesto. Matiz: información del vendor recogida por Artificial Lawyer; no se detallan retención de los registros ni exportación.",
+  "why_sota": "Trazabilidad que distingue acciones humanas y de agentes de IA en la gestión de asuntos.",
+  "why_now": "Artificial Lawyer, 23 oct 2026. NEW frente a 09-29→10-24.",
+  "geo": [
+    "Global"
+  ],
+  "topics": [
+    "agentes",
+    "trazabilidad",
+    "in-house",
+    "auditoria"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
+      "cited_title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "entities": [
+    "ent-checkbox",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

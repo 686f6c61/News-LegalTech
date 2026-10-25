@@ -1,0 +1,11 @@
+id: ent-england-wales-court-of-appeal
+name: Court of Appeal of England and Wales
+type: court
+url: https://www.judiciary.uk/
+geo:
+- UK
+aliases:
+- Court of Appeal
+- EWCA
+notes: Tribunal de apelación de Inglaterra y Gales. Ficha mínima.
+stub: true

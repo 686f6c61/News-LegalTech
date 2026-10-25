@@ -1,0 +1,11 @@
+id: ent-checkbox
+name: Checkbox
+type: vendor
+url: https://www.checkbox.ai/
+geo:
+- AU
+- Global
+aliases: []
+notes: Legal front door (puerta de entrada jurídica) con IA para departamentos in-house;
+  lanza Matter History (oct 2026). Ficha mínima.
+stub: true

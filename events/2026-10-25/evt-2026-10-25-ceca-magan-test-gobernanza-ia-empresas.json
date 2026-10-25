@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-25-ceca-magan-test-gobernanza-ia-empresas",
+  "date": "2026-10-23",
+  "type": "guidance",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "CECA MAGÁN publica un test de autoevaluación para que las empresas midan si gobiernan la IA que usan: quién la autoriza, quién responde cuando falla y quién puede apagarla",
+  "short_title": "CECA MAGÁN lanza un test de gobernanza de IA para empresas",
+  "standfirst": "Muchas empresas tienen ya una política de uso responsable, pero no una matriz de responsabilidades ni un plan para desconectar una herramienta que falla.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "España",
+  "piece_type": "Orientación",
+  "summary_p1": "El área Digital de CECA MAGÁN Abogados ha elaborado un cuestionario de autoevaluación para que las empresas analicen su nivel de preparación para gobernar la inteligencia artificial, informa Confilegal (23 de octubre de 2026). Lo ha diseñado la abogada María Pardo de Vera, que resume el problema así: «Tienen políticas, por ejemplo, de uso responsable, pero no tienen una matriz de responsabilidades». El test pregunta si existe una política de uso responsable y si se ha comunicado a la plantilla, si están definidas las responsabilidades, quién autoriza nuevos usos de IA, si los empleados han recibido formación específica y qué procedimiento se activa cuando una herramienta empieza a funcionar mal, incluido quién tiene capacidad para ordenar su desconexión.",
+  "summary_p2": "El despacho ordena la implantación responsable en tres ámbitos: gobernanza interna, cumplimiento normativo y control de la cadena de suministro, este último clave porque la mayoría de las empresas no desarrolla sus herramientas, sino que las contrata. Pardo de Vera recuerda que frente al cliente responde la empresa, aunque luego pueda repetir contra el proveedor si el daño viene de un defecto de la herramienta, y por eso insiste en dejar trazado quién aprobó cada uso y cómo se evaluaron sus riesgos. Para asesorías jurídicas y pymes que ya usan IA sin estructura, el valor del ejercicio es convertir una política genérica en roles concretos antes de que el Reglamento europeo de IA o un incidente lo exijan. Matiz: es una herramienta comercial de un despacho, no una guía oficial; sirve como checklist, no como criterio de cumplimiento.",
+  "why_sota": "Traduce la gobernanza de la IA a preguntas operativas: responsables, autorización, formación y desconexión.",
+  "why_now": "Confilegal, 23 oct 2026. NEW frente a 09-29→10-24.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "gobernanza-ia",
+    "ai-act",
+    "compliance",
+    "proveedores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261023-ceca-magan-pone-a-examen-a-las-empresas-con-un-test-para-medir-su-preparacion-ante-los-riesgos-de-la-ia/",
+      "cited_title": "CECA MAGÁN pone a examen a las empresas con un test para medir su preparación ante los riesgos de la IA",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "entities": [
+    "ent-ceca-magan",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

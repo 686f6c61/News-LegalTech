@@ -3786,3 +3786,97 @@ entities:
   - Willkie
   notes: Despacho estadounidense. Ficha mínima.
   stub: true
+- id: ent-techcrunch
+  name: TechCrunch
+  type: media
+  url: https://techcrunch.com/
+  geo:
+  - US
+  aliases: []
+  notes: Medio tecnológico estadounidense. Ficha mínima.
+  stub: true
+- id: ent-partido-popular
+  name: Partido Popular
+  type: other
+  url: https://www.pp.es/
+  geo:
+  - ES
+  aliases:
+  - PP
+  notes: Partido político español. Ficha mínima.
+  stub: true
+- id: ent-ceca-magan
+  name: CECA MAGÁN Abogados
+  type: law_firm
+  url: https://www.cecamagan.com/
+  geo:
+  - ES
+  aliases:
+  - CECA MAGÁN
+  notes: Despacho español; cuestionario de autoevaluación de gobernanza de IA (oct
+    2026). Ficha mínima.
+  stub: true
+- id: ent-ontier
+  name: Ontier
+  type: law_firm
+  url: https://www.ontier.net/
+  geo:
+  - ES
+  - Global
+  aliases: []
+  notes: Despacho de origen español con presencia internacional. Ficha mínima.
+  stub: true
+- id: ent-saga-legal
+  name: Saga
+  type: vendor
+  url: https://www.saga.law/
+  geo:
+  - NL
+  aliases:
+  - Saga External
+  notes: Plataforma de IA jurídica con sede en Ámsterdam; lanza Saga External (oct
+    2026). Ficha mínima.
+  stub: true
+- id: ent-checkbox
+  name: Checkbox
+  type: vendor
+  url: https://www.checkbox.ai/
+  geo:
+  - AU
+  - Global
+  aliases: []
+  notes: Legal front door (puerta de entrada jurídica) con IA para departamentos in-house;
+    lanza Matter History (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-england-wales-court-of-appeal
+  name: Court of Appeal of England and Wales
+  type: court
+  url: https://www.judiciary.uk/
+  geo:
+  - UK
+  aliases:
+  - Court of Appeal
+  - EWCA
+  notes: Tribunal de apelación de Inglaterra y Gales. Ficha mínima.
+  stub: true
+- id: ent-cepsa
+  name: Cepsa
+  type: company
+  url: https://www.moeveglobal.com/
+  geo:
+  - ES
+  aliases:
+  - Moeve
+  notes: Compañía energética española (hoy Moeve). Ficha mínima.
+  stub: true
+- id: ent-ugt
+  name: UGT
+  type: association
+  url: https://www.ugt.es/
+  geo:
+  - ES
+  aliases:
+  - UGT-FICA
+  - Unión General de Trabajadores
+  notes: Sindicato español. Ficha mínima.
+  stub: true

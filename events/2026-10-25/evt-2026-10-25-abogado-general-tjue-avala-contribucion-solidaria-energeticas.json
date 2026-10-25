@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-25-abogado-general-tjue-avala-contribucion-solidaria-energeticas",
+  "date": "2026-10-23",
+  "type": "case_law",
+  "sota_score": 6.1,
+  "ai_legaltech": false,
+  "title": "Un Abogado General del TJUE avala la contribución europea de 2022 sobre los beneficios extraordinarios de las energéticas y admite que los Estados la extiendan a otras empresas",
+  "short_title": "El Abogado General del TJUE avala el impuesto a las energéticas",
+  "standfirst": "Medida «urgente, temporal y proporcionada» que el Consejo pudo aprobar sin unanimidad; las conclusiones no vinculan al Tribunal.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": true,
+  "topic": "Litigación",
+  "country": "Unión Europea",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "Un Abogado General del Tribunal de Justicia de la Unión Europea ha concluido que la contribución temporal aprobada por la UE en octubre de 2022 sobre los beneficios extraordinarios de las empresas de petróleo, gas, carbón y refino se ajusta al Derecho de la Unión, informa LegalToday (23 de octubre de 2026). La medida gravaba los beneficios de 2022 y 2023 que superaran en más de un 20% la media de los cuatro ejercicios anteriores. Responde a cuestiones de tribunales de Bélgica, Italia e Irlanda: considera que fue una medida «urgente, temporal y proporcionada» basada en la solidaridad, que el Consejo podía aprobar sin unanimidad porque no armonizaba impuestos nacionales, y que no vulnera el derecho de propiedad, la libertad de empresa ni la seguridad jurídica pese a aplicarse dentro del ejercicio de 2022.",
+  "summary_p2": "El Abogado General añade dos matices relevantes para los litigios pendientes: los Estados no pueden, en principio, cambiar las categorías de empresas sujetas, pero sí extender la contribución a otras que hayan obtenido beneficios excepcionales por las particularidades de su mercado, siempre que la carga global y los objetivos sigan siendo equivalentes; y que una compañía ya sometida a un tope de ingresos pueda pagar también la contribución no es en sí un obstáculo. Tampoco ve ayuda de Estado ni impuesto discriminatorio. Para despachos fiscales y energéticas con recursos contra gravámenes nacionales equivalentes, como el español, las conclusiones debilitan los argumentos de fondo, aunque no son vinculantes y el TJUE dictará sentencia más adelante, en pleno debate sobre un nuevo impuesto europeo que reclaman España y otros cinco países.",
+  "why_sota": "Pieza central para los litigios europeos contra los gravámenes extraordinarios a las energéticas.",
+  "why_now": "LegalToday, 23 oct 2026. NEW frente a 09-29→10-24.",
+  "geo": [
+    "EU",
+    "ES"
+  ],
+  "topics": [
+    "fiscal",
+    "energia",
+    "tjue",
+    "litigacion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltoday",
+      "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-abogado-general-de-la-ue-avala-impuesto-a-los-beneficios-extra-de-las-energeticas-de-la-crisis-de-2022-2026-10-23/",
+      "cited_title": "El Abogado General de la UE avala impuesto a los beneficios extra de las energéticas de la crisis de 2022",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "entities": [
+    "ent-tjue",
+    "ent-legaltoday"
+  ],
+  "lang": "es",
+  "status": "published"
+}

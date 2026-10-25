@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 160
+count: 161
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1780,4 +1780,15 @@ sources:
     añadida para citar URLs de folha.uol.com.br.
   region: BR
   lang: PT
+  tier: archive
+- id: src-techcrunch
+  name: TechCrunch
+  url: https://techcrunch.com/
+  type: media
+  kind: news
+  frequency: continuo
+  why: Medio tecnológico estadounidense (startups, IA, política tecnológica). Ficha
+    añadida para citar URLs de techcrunch.com.
+  region: US
+  lang: EN
   tier: archive
