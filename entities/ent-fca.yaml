@@ -1,0 +1,10 @@
+id: ent-fca
+name: Financial Conduct Authority
+type: regulator
+url: https://www.fca.org.uk/
+geo:
+- UK
+aliases:
+- FCA
+notes: Regulador financiero británico. Ficha mínima.
+stub: true

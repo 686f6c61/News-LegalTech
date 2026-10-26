@@ -1,0 +1,10 @@
+id: ent-attwells
+name: Attwells Solicitors
+type: law_firm
+url: https://www.attwells.com/
+geo:
+- UK
+aliases:
+- Attwells
+notes: Despacho con oficinas en Essex, Suffolk y Londres. Ficha mínima.
+stub: true

@@ -1,0 +1,9 @@
+id: ent-innovate-uk
+name: Innovate UK
+type: government
+url: https://www.ukri.org/councils/innovate-uk/
+geo:
+- UK
+aliases: []
+notes: Agencia pública británica de innovación. Ficha mínima.
+stub: true

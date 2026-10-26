@@ -1,0 +1,11 @@
+id: ent-candle-ai
+name: Candle AI
+type: vendor
+url: https://www.candle.ai/
+geo:
+- US
+aliases:
+- Candle
+notes: Herramienta de flujos de correo con IA para despachos; partner tecnológico
+  de iManage (oct 2026). Ficha mínima.
+stub: true

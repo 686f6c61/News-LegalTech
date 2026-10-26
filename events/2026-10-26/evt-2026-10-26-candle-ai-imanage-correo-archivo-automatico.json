@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-26-candle-ai-imanage-correo-archivo-automatico",
+  "date": "2026-10-22",
+  "type": "product",
+  "sota_score": 6.4,
+  "ai_legaltech": true,
+  "title": "Candle AI entra en el programa de partners tecnológicos de iManage para archivar automáticamente correos y adjuntos en el asunto correcto y traer el contexto del expediente a la bandeja de entrada",
+  "short_title": "Candle AI conecta el correo del abogado con iManage",
+  "standfirst": "iManage sigue siendo el sistema de registro; la IA trabaja en el correo, donde empieza buena parte del trabajo.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Integración",
+  "summary_p1": "Candle AI, que ofrece flujos de trabajo de correo con IA para despachos, anunció que se ha incorporado al iManage Technology Partner Program, informa LawSites (22 de octubre de 2026). La integración promete tres cosas: identificar el asunto adecuado y archivar en iManage los correos y adjuntos relevantes con poca intervención manual, traer a la bandeja de entrada los documentos e información del expediente sin tener que buscar en otro sistema, y convertir conversaciones en tareas para que el trabajo no se pierda en el correo. iManage se mantiene como sistema de registro.",
+  "summary_p2": "El archivo de correos en el asunto correcto es una de las tareas más tediosas y peor cumplidas de cualquier despacho, y de ella depende que el expediente esté completo cuando llega una auditoría, un conflicto de intereses o un litigio. Que un proveedor de IA se monte encima del gestor documental, en lugar de sustituirlo, confirma la tendencia de 2026: el gestor documental gobernado como base y la IA como capa de trabajo. Para responsables de sistemas, lo que hay que preguntar es cómo decide la herramienta el asunto, qué pasa con los errores de archivo y si respeta las barreras éticas configuradas en iManage. Matiz: es un comunicado de la empresa, sin cifras de precisión ni clientes nombrados.",
+  "why_sota": "La IA se aplica al archivo automático de correo sobre el gestor documental, sin sustituirlo.",
+  "why_now": "LawSites, 22 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "gestion-documental",
+    "correo",
+    "imanage"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/candle-ai-joins-the-imanage-technology-partner-program-to-connect-legal-email-workflows-with-trusted-knowledge.html",
+      "cited_title": "Candle AI Joins the iManage Technology Partner Program to Connect Legal Email Workflows with Trusted Knowledge",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-candle-ai",
+    "ent-imanage"
+  ],
+  "lang": "es",
+  "status": "published"
+}

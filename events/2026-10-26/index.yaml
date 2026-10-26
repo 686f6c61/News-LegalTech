@@ -1,0 +1,85 @@
+scan_id: full-radar-2026-10-26
+date: '2026-10-26'
+release: 26.10.26
+count: 11
+ai_share: 0.64
+dedup_against: events/2026-09-29 → 2026-10-25 + scans PASS
+event_ids:
+- evt-2026-10-26-reguladores-bancarios-eeuu-preguntan-si-pueden-apagar-agentes-ia
+- evt-2026-10-26-tse-brasil-retira-video-ia-sin-etiqueta-meta-x-24-horas
+- evt-2026-10-26-ai-act-articulo-50-revision-humana-noticias-agentes
+- evt-2026-10-26-conseal-anonimiza-datos-cliente-dispositivo-antes-chatgpt-claude
+- evt-2026-10-26-billables-ai-filevine-captura-automatica-tiempo
+- evt-2026-10-26-courtroom-insight-harvey-mcp-peritos-jueces-abogados
+- evt-2026-10-26-candle-ai-imanage-correo-archivo-automatico
+- evt-2026-10-26-attwells-portal-clientes-universidad-essex-ktp
+- evt-2026-10-26-reino-unido-grupo-revisa-formacion-juridica-plan-empleo-servicios-profesionales
+- evt-2026-10-26-despachos-reclamaciones-financiacion-coches-piden-prohibir-publicidad
+- evt-2026-10-26-supremo-convenio-origen-trabajadores-proa-subrogados-hertz
+events:
+- id: evt-2026-10-26-reguladores-bancarios-eeuu-preguntan-si-pueden-apagar-agentes-ia
+  sota_score: 8.1
+  ai_legaltech: true
+  title: La Reserva Federal, la OCC y la FDIC preguntan a los bancos de EE. UU. si
+    pueden auditar las decisiones de sus agentes de IA y cómo los apagarían, mientras
+    su nueva guía de riesgo de modelos deja fuera la IA generativa y agéntica
+- id: evt-2026-10-26-tse-brasil-retira-video-ia-sin-etiqueta-meta-x-24-horas
+  sota_score: 7.8
+  ai_legaltech: true
+  title: El Tribunal Superior Electoral de Brasil ordena retirar un vídeo de campaña
+    hecho con IA sin la etiqueta obligatoria y da 24 horas a Meta y X para explicar
+    cómo tratan a los candidatos, con multa de 500.000 reales diarios
+- id: evt-2026-10-26-ai-act-articulo-50-revision-humana-noticias-agentes
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'Un agente de IA puede escribir la noticia, pero el artículo 50.4 del Reglamento
+    europeo de IA exige etiquetarla salvo que una persona la haya revisado de verdad:
+    la Comisión dice que una firma rápida o una revisión hecha por otra IA no basta'
+- id: evt-2026-10-26-conseal-anonimiza-datos-cliente-dispositivo-antes-chatgpt-claude
+  sota_score: 7.3
+  ai_legaltech: true
+  title: Conseal, una app de escritorio, detecta y anonimiza en el propio ordenador
+    los datos del cliente antes de que el abogado los pegue en ChatGPT o Claude, sin
+    enviar nada a la nube, por 29,99 dólares al mes
+- id: evt-2026-10-26-billables-ai-filevine-captura-automatica-tiempo
+  sota_score: 6.9
+  ai_legaltech: true
+  title: Billables AI se integra con Filevine para capturar automáticamente el trabajo
+    de abogados y personal y devolverlo como entradas de tiempo listas para facturar,
+    también en despachos que cobran a éxito
+- id: evt-2026-10-26-courtroom-insight-harvey-mcp-peritos-jueces-abogados
+  sota_score: 6.8
+  ai_legaltech: true
+  title: 'Courtroom Insight entra en la Connector Library de Harvey con un servidor
+    MCP de solo lectura: los abogados pueden evaluar peritos, árbitros, jueces y abogados
+    contrarios y preparar propuestas a clientes sin salir de Harvey'
+- id: evt-2026-10-26-candle-ai-imanage-correo-archivo-automatico
+  sota_score: 6.4
+  ai_legaltech: true
+  title: Candle AI entra en el programa de partners tecnológicos de iManage para archivar
+    automáticamente correos y adjuntos en el asunto correcto y traer el contexto del
+    expediente a la bandeja de entrada
+- id: evt-2026-10-26-attwells-portal-clientes-universidad-essex-ktp
+  sota_score: 6.3
+  ai_legaltech: false
+  title: El despacho inglés Attwells construye su propio portal de clientes con la
+    Universidad de Essex y fondos de Innovate UK, y ficha como responsable digital
+    al graduado que lo desarrolló
+- id: evt-2026-10-26-reino-unido-grupo-revisa-formacion-juridica-plan-empleo-servicios-profesionales
+  sota_score: 6.5
+  ai_legaltech: false
+  title: El Gobierno británico, la judicatura y la profesión crean un grupo para revisar
+    si la formación y las vías de acceso a la abogacía dan a los empleadores los abogados
+    que necesitan, dentro de su plan de empleo para servicios profesionales
+- id: evt-2026-10-26-despachos-reclamaciones-financiacion-coches-piden-prohibir-publicidad
+  sota_score: 6.1
+  ai_legaltech: false
+  title: 'Los despachos británicos de reclamaciones por comisiones en la financiación
+    de coches apoyan prohibir temporalmente la publicidad para acabar con los clientes
+    duplicados: más de un millón de quejas tienen varios representantes'
+- id: evt-2026-10-26-supremo-convenio-origen-trabajadores-proa-subrogados-hertz
+  sota_score: 6.0
+  ai_legaltech: false
+  title: 'El Supremo mantiene el convenio de origen de 49 trabajadores de Proa subrogados
+    por Hertz: un convenio publicado después de la sucesión no lo sustituye si se
+    firmó antes'

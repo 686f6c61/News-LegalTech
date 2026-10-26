@@ -1,0 +1,10 @@
+id: ent-billables-ai
+name: Billables AI
+type: vendor
+url: https://www.billables.ai/
+geo:
+- US
+aliases: []
+notes: Plataforma de captura automática de tiempo y operaciones para despachos. Ficha
+  mínima.
+stub: true

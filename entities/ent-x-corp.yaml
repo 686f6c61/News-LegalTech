@@ -1,0 +1,12 @@
+id: ent-x-corp
+name: X Corp.
+type: company
+url: https://x.com/
+geo:
+- US
+- Global
+aliases:
+- X
+- Twitter
+notes: Plataforma de red social X; asistente Grok. Ficha mínima.
+stub: true

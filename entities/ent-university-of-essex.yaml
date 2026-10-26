@@ -1,0 +1,9 @@
+id: ent-university-of-essex
+name: University of Essex
+type: university
+url: https://www.essex.ac.uk/
+geo:
+- UK
+aliases: []
+notes: Universidad británica. Ficha mínima.
+stub: true

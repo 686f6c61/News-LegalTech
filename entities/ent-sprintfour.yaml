@@ -1,0 +1,11 @@
+id: ent-sprintfour
+name: Sprintfour Technologies
+type: vendor
+url: https://conseal.ai/
+geo:
+- US
+aliases:
+- Conseal
+notes: Empresa de Miami; lanza Conseal, app de enmascarado de datos en el dispositivo
+  (oct 2026). Ficha mínima.
+stub: true

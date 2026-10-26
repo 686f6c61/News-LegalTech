@@ -1,0 +1,11 @@
+id: ent-courtroom-insight
+name: Courtroom Insight
+type: vendor
+url: https://www.courtroominsight.com/
+geo:
+- US
+aliases:
+- CI
+notes: Proveedor de datos sobre peritos, jueces, árbitros, abogados y asuntos. Ficha
+  mínima.
+stub: true

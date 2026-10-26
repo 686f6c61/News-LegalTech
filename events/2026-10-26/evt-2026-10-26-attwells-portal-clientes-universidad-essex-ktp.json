@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-26-attwells-portal-clientes-universidad-essex-ktp",
+  "date": "2026-10-25",
+  "type": "product",
+  "sota_score": 6.3,
+  "ai_legaltech": false,
+  "title": "El despacho inglés Attwells construye su propio portal de clientes con la Universidad de Essex y fondos de Innovate UK, y ficha como responsable digital al graduado que lo desarrolló",
+  "short_title": "Attwells crea su portal de clientes con una universidad",
+  "standfirst": "No encontró en el mercado un portal que acompañara al cliente de principio a fin, así que lo hizo a medida.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "LegalTech",
+  "country": "Reino Unido",
+  "piece_type": "Caso de uso",
+  "summary_p1": "Attwells, despacho con oficinas en Essex, Suffolk y Londres, ha estrenado un portal de clientes desarrollado mediante una Knowledge Transfer Partnership (KTP) con la Universidad de Essex, informa Legal Futures (25 de octubre de 2026). Su socia y directora de operaciones, Laura Harrington-Rutterford, explica que buscaron un portal comercial pero solo encontraron soluciones para la captación o para un único departamento, y ninguna que acompañara al cliente «de principio a fin». Innovate UK cofinanció el proyecto, que duró de enero de 2024 a septiembre de 2026. El portal funciona ya en conveyancing (compraventa inmobiliaria) y se extenderá a otros departamentos después de Navidad, y el graduado que lo diseñó, Sriteja Chilakamarri, se queda en el despacho como responsable de soluciones digitales.",
+  "summary_p2": "Las KTP son un programa británico veterano que junta empresa, universidad y un graduado cualificado, y este caso muestra una vía poco explorada por los despachos medianos: desarrollar a medida con financiación pública en lugar de comprar software que no encaja. El resultado no es solo una herramienta, sino capacidad técnica interna, que es lo que más escasea en firmas de este tamaño. Para socios directores en España, el equivalente serían los doctorados industriales o los convenios con universidades y programas de ayudas a la innovación. El riesgo es el mantenimiento: un desarrollo propio depende de que el talento que lo construyó se quede, y aquí el despacho lo ha resuelto contratándolo.",
+  "why_sota": "Un despacho mediano construye tecnología propia con universidad y fondos públicos e internaliza el talento.",
+  "why_now": "Legal Futures, 25 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "portal-de-clientes",
+    "innovacion",
+    "talento"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/law-firm-partners-with-university-to-create-client-portal",
+      "cited_title": "Law firm partners with university to create client portal",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-attwells",
+    "ent-university-of-essex",
+    "ent-innovate-uk",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

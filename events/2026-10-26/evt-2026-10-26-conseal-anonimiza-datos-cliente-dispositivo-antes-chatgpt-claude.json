@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-26-conseal-anonimiza-datos-cliente-dispositivo-antes-chatgpt-claude",
+  "date": "2026-10-23",
+  "type": "product",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "Conseal, una app de escritorio, detecta y anonimiza en el propio ordenador los datos del cliente antes de que el abogado los pegue en ChatGPT o Claude, sin enviar nada a la nube, por 29,99 dólares al mes",
+  "short_title": "Conseal anonimiza en local los datos del cliente antes de usar IA",
+  "standfirst": "Pensada para el abogado individual y el despacho pequeño, que tienen el mismo deber de confidencialidad que la gran firma pero no su plan enterprise.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "Sprintfour Technologies lanzó el 23 de octubre de 2026 Conseal, una aplicación para Windows y macOS que detecta y elimina información sensible directamente en el ordenador del usuario, tanto en documentos como en tiempo real mientras escribe en cualquier aplicación, informa LawSites. Funciona con modelos ligeros de IA que corren en local y solo se conecta a internet para validar la licencia y buscar actualizaciones. Ofrece redacción definitiva para escritos y producciones de discovery, y anonimización con etiquetas coherentes como [PERSON_1], de modo que la IA externa sigue entendiendo el documento y los datos originales se restauran después desde un archivo de correspondencias que se queda en el equipo. Admite texto, PDF, Word, Excel y CSV, y su función Live Detect actúa dentro de las apps de escritorio de ChatGPT y Claude.",
+  "summary_p2": "El argumento comercial es el deber de confidencialidad: la regla 1.6(c) de la ABA y su opinión formal 512 piden valorar el riesgo antes de introducir datos del cliente en IA generativa, y según datos de la ABA citados por la empresa, siete de cada diez abogados de despacho trabajan solos o en firmas de diez o menos, sin equipo de seguridad. Para el despacho pequeño, una capa local de anonimización es una forma barata de usar herramientas generalistas sin exponer datos identificativos, aunque no sustituye a la revisión: la propia empresa la presenta como primera línea de defensa que el usuario debe comprobar antes de compartir. Para responsables de cumplimiento en Europa, la idea encaja con la seudonimización del RGPD, pero conviene recordar que un dato seudonimizado sigue siendo dato personal. Matiz: es un comunicado de la empresa publicado en LawSites; no hay pruebas independientes de su tasa de detección.",
+  "why_sota": "Anonimización en el dispositivo y reversible para que el despacho pequeño use IA generalista sin sacar datos del cliente.",
+  "why_now": "LawSites, 23 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "confidencialidad",
+    "anonimizacion",
+    "pequeno-despacho",
+    "privacidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/conseal-a-new-on-device-privacy-app-masks-sensitive-client-data-before-it-reaches-ai-tools-like-chatgpt-and-claude.html",
+      "cited_title": "Conseal, a New On-Device Privacy App, Masks Sensitive Client Data Before It Reaches AI Tools Like ChatGPT and Claude",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-sprintfour",
+    "ent-openai",
+    "ent-anthropic"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,9 @@
+id: ent-redazione-zero
+name: Redazione Zero
+type: media
+url: https://redazionezero.it/
+geo:
+- IT
+aliases: []
+notes: Medio italiano cuyas noticias seleccionan y redactan agentes de IA. Ficha mínima.
+stub: true

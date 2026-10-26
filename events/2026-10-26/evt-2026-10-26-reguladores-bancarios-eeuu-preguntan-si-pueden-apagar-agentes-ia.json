@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-26-reguladores-bancarios-eeuu-preguntan-si-pueden-apagar-agentes-ia",
+  "date": "2026-10-25",
+  "type": "regulation",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "La Reserva Federal, la OCC y la FDIC preguntan a los bancos de EE. UU. si pueden auditar las decisiones de sus agentes de IA y cómo los apagarían, mientras su nueva guía de riesgo de modelos deja fuera la IA generativa y agéntica",
+  "short_title": "Supervisores bancarios de EE. UU. preguntan cómo apagar agentes de IA",
+  "standfirst": "Uno de cada tres banqueros dice que el kill switch (botón de apagado) es donde su entidad está menos preparada.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "Estados Unidos",
+  "piece_type": "Supervisión",
+  "summary_p1": "Los tres supervisores bancarios federales de EE. UU., la Reserva Federal, la OCC y la FDIC, están enviando preguntas escritas y orales a bancos grandes, medianos y pequeños sobre los agentes de IA que despliegan: qué límites tienen, quién supervisa y aprueba lo que hacen, si el banco puede rastrear y auditar sus decisiones, qué los mantiene dentro de su autorización y cómo los apagaría, según Reuters, recogido por ComplexDiscovery el 25 de octubre de 2026. Las fuentes lo describen como recogida de información, no como nuevas exigencias, y las agencias no han comentado. El contexto es llamativo: la guía revisada de gestión del riesgo de modelos que publicaron el 17 de abril (SR 26-2, que sustituye a la SR 11-7) excluye expresamente la IA generativa y agéntica de su ámbito, y la petición de información sobre IA anunciada entonces no había aparecido en el Federal Register a 24 de octubre.",
+  "summary_p2": "Para el sector jurídico financiero, la pregunta del supervisor anticipa la del juez: lo que un agente hizo tendrá que poder reconstruirse, y esos registros son información almacenada electrónicamente que se puede ordenar conservar. Una encuesta de Wolters Kluwer a 230 profesionales bancarios sitúa en el 34% a quienes ven los protocolos de apagado como el punto más débil de su respuesta a incidentes de IA, y otras encuestas del sector señalan la integración con sistemas antiguos como primer obstáculo tecnológico. Para in-house de banca y fintech, el mensaje práctico es documentar ya inventario de agentes, permisos, supervisión humana y procedimiento de desconexión, sin esperar a que la guía los cubra. Matiz: la información procede de fuentes anónimas citadas por Reuters y de encuestas de proveedores; no hay todavía un texto oficial de las agencias.",
+  "why_sota": "Los supervisores bancarios de EE. UU. empiezan a preguntar por la auditoría y el apagado de agentes de IA, fuera de su guía formal.",
+  "why_now": "ComplexDiscovery, 25 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "agentes",
+    "banca",
+    "supervision",
+    "gobernanza-ia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/us-bank-regulators-ask-whether-lenders-can-stop-their-ai-agents/",
+      "cited_title": "US bank regulators ask whether lenders can stop their AI agents",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-federal-reserve",
+    "ent-occ",
+    "ent-fdic",
+    "ent-wolters-kluwer",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

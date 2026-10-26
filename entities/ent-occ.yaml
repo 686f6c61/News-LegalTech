@@ -1,0 +1,10 @@
+id: ent-occ
+name: Office of the Comptroller of the Currency
+type: regulator
+url: https://www.occ.gov/
+geo:
+- US
+aliases:
+- OCC
+notes: Supervisor federal de bancos nacionales de EE. UU. Ficha mínima.
+stub: true

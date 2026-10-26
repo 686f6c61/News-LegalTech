@@ -1,0 +1,9 @@
+id: ent-courmacs-legal
+name: Courmacs Legal
+type: law_firm
+url: https://www.courmacslegal.co.uk/
+geo:
+- UK
+aliases: []
+notes: Despacho de reclamaciones de consumo (financiación de vehículos). Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-federal-reserve
+name: Federal Reserve
+type: regulator
+url: https://www.federalreserve.gov/
+geo:
+- US
+aliases:
+- Fed
+- Reserva Federal
+notes: Banco central y supervisor bancario de EE. UU. Ficha mínima.
+stub: true

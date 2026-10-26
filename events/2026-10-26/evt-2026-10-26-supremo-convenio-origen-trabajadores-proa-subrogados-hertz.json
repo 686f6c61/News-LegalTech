@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-26-supremo-convenio-origen-trabajadores-proa-subrogados-hertz",
+  "date": "2026-10-26",
+  "type": "case_law",
+  "sota_score": 6.0,
+  "ai_legaltech": false,
+  "title": "El Supremo mantiene el convenio de origen de 49 trabajadores de Proa subrogados por Hertz: un convenio publicado después de la sucesión no lo sustituye si se firmó antes",
+  "short_title": "Supremo: el convenio previo a la subrogación no desplaza al de origen",
+  "standfirst": "La fecha que cuenta para el artículo 44.4 del Estatuto de los Trabajadores no es solo la de publicación, también la de firma.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Jurisprudencia",
+  "country": "España",
+  "piece_type": "Sentencia",
+  "summary_p1": "La Sala de lo Social del Tribunal Supremo, en su sentencia 768/2026, de 30 de septiembre, concluye que los 49 trabajadores de Proa Rent a Car que pasaron a Hertz el 1 de febrero de 2024 debían seguir sujetos al convenio balear de alquiler de vehículos sin conductor, vigente hasta el 31 de diciembre de 2025, informa Confilegal (26 de octubre de 2026). El convenio de empresa de Hertz se firmó el 27 de septiembre de 2023 pero no se publicó en el BOE hasta el 14 de marzo de 2024, ya consumada la subrogación. El Tribunal Superior de Justicia de Baleares había dado la razón a CCOO por entender que, al entrar en vigor tras la transmisión, era un convenio nuevo capaz de desplazar al anterior; el Supremo estima el recurso de Hertz y desestima la demanda sindical.",
+  "summary_p2": "La clave está en el artículo 44.4 del Estatuto de los Trabajadores: el convenio de origen se mantiene hasta que expira o hasta que entra en vigor otro nuevo aplicable, y para el Supremo «nuevo» exige que se haya firmado después de la sucesión, no basta con que se publique después. Para departamentos laborales y de M&A, la sentencia afecta a la planificación de cualquier transmisión de empresa: no se puede contar con que un convenio ya negociado y pendiente de publicación absorba a la plantilla adquirida. Para la empresa adquirente significa convivir con dos convenios hasta que expire el de origen, con su coste en gestión de nóminas y en negociación colectiva.",
+  "why_sota": "Fija que el convenio nuevo del artículo 44.4 ET debe haberse firmado tras la subrogación.",
+  "why_now": "Confilegal, 26 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "laboral",
+    "subrogacion",
+    "convenios-colectivos",
+    "m-and-a"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261026-supremo-convenio-origen-trabajadores-proa-subrogados-hertz/",
+      "cited_title": "El Supremo mantiene el convenio de origen de 49 trabajadores de Proa subrogados por Hertz",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-tribunal-supremo-es",
+    "ent-hertz",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

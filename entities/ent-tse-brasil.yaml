@@ -1,0 +1,11 @@
+id: ent-tse-brasil
+name: Tribunal Superior Eleitoral
+type: court
+url: https://www.tse.jus.br/
+geo:
+- BR
+aliases:
+- TSE
+- Tribunal Superior Electoral
+notes: Máxima instancia de la justicia electoral brasileña. Ficha mínima.
+stub: true

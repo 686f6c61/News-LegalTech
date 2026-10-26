@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-26-reino-unido-grupo-revisa-formacion-juridica-plan-empleo-servicios-profesionales",
+  "date": "2026-10-25",
+  "type": "regulation",
+  "sota_score": 6.5,
+  "ai_legaltech": false,
+  "title": "El Gobierno británico, la judicatura y la profesión crean un grupo para revisar si la formación y las vías de acceso a la abogacía dan a los empleadores los abogados que necesitan, dentro de su plan de empleo para servicios profesionales",
+  "short_title": "Reino Unido revisa si la formación jurídica sirve a los empleadores",
+  "standfirst": "El plan señala que la IA está cambiando los puestos más rápido de lo que la formación se adapta y que la deslocalización reduce las plazas de entrada.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Profesión",
+  "country": "Reino Unido",
+  "piece_type": "Política pública",
+  "summary_p1": "El plan de empleo del Gobierno británico para los servicios profesionales y empresariales, publicado la semana pasada, crea un grupo de trabajo sobre educación jurídica bajo el Judicial and Legal Diversity Board, informa Legal Futures (25 de octubre de 2026). El grupo reunirá a funcionarios, reguladores y colegios profesionales para analizar si la educación, la formación y las vías de cualificación aportan las capacidades, el volumen y la diversidad que necesitan el sector y la judicatura. El plan lo supervisó un consejo del que forman parte la Law Society, el Bar Council, socios de Clifford Chance, Freshfields y Norton Rose Fulbright y la presidenta del Lawtech Delivery Panel, Christina Blacklaws, y las empresas del conjunto de servicios profesionales se comprometen a contratar 22.400 aprendices menores de 25 años al año durante cinco años.",
+  "summary_p2": "El diagnóstico del plan es lo más útil: escasez de profesionales cualificados, una adopción de IA que «está transformando los puestos más rápido de lo que la formación puede adaptarse», y una deslocalización de tareas rutinarias que reduce las oportunidades de entrada y presiona a la baja los salarios intermedios. También reconoce que limitar la financiación de los aprendizajes de nivel 7, como el de solicitor, a menores de 22 años ha restado acceso, sobre todo en pymes. Para despachos y escuelas de práctica jurídica, la pregunta de fondo es la misma en España: si la IA y la externalización se comen el trabajo del junior, cómo se forma al abogado que tendrá criterio dentro de diez años. Matiz: el grupo aún no tiene conclusiones; es el arranque de una revisión.",
+  "why_sota": "El Gobierno británico abre una revisión formal de la formación jurídica citando el impacto de la IA en los puestos de entrada.",
+  "why_now": "Legal Futures, 25 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "formacion",
+    "talento",
+    "acceso-a-la-profesion"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/group-to-assess-if-legal-training-meets-needs-of-employers",
+      "cited_title": "Group to assess if legal training meets needs of employers",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-judicial-legal-diversity-board",
+    "ent-law-society",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-hertz
+name: Hertz
+type: company
+url: https://www.hertz.es/
+geo:
+- ES
+- Global
+aliases: []
+notes: Empresa de alquiler de vehículos. Ficha mínima.
+stub: true

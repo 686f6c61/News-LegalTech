@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-26-despachos-reclamaciones-financiacion-coches-piden-prohibir-publicidad",
+  "date": "2026-10-26",
+  "type": "other",
+  "sota_score": 6.1,
+  "ai_legaltech": false,
+  "title": "Los despachos británicos de reclamaciones por comisiones en la financiación de coches apoyan prohibir temporalmente la publicidad para acabar con los clientes duplicados: más de un millón de quejas tienen varios representantes",
+  "short_title": "Despachos de reclamaciones de coches piden prohibir la publicidad",
+  "standfirst": "Proponen que el cliente quede con el primer despacho que lo captó de forma conforme.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Profesión",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "Darren Smith, director de Courmacs Legal, que dice tener 1,6 millones de clientes y 4 millones de reclamaciones, propuso en la conferencia Claims Futures una prohibición temporal de la publicidad de reclamaciones por comisiones en la financiación de vehículos, y otros despachos destacados del sector la respaldan, informa Legal Futures (26 de octubre de 2026). El problema son los clientes duplicados: la FCA calcula que más de un millón de quejas tienen varios representantes. Smith propone que conserve al cliente el primer despacho o gestora que lo dio de alta de forma conforme. Kevin Durkin, el solicitor que ganó el caso en el Supreme Court, apoya la idea «en principio» pero duda de que sea viable.",
+  "summary_p2": "Los ponentes atribuyen el caos al largo retraso de la FCA en poner en marcha su plan de compensación y a anuncios que prometen cobrar antes, lo que lleva a clientes frustrados a firmar con varios despachos porque, al ser sin cobro si no se gana, no les cuesta nada. Para el regulador de la abogacía, la SRA, es un problema de conducta que los propios despachos le devuelven; para los clientes, el riesgo es pagar honorarios dobles o ver bloqueada su reclamación. Para despachos españoles de reclamaciones masivas, como las de cláusulas bancarias, la lección es conocida: sin reglas claras sobre la representación y la publicidad, el volumen se convierte en litigiosidad entre los propios despachos.",
+  "why_sota": "Los despachos de reclamaciones masivas piden autorregulación publicitaria ante el problema de los clientes duplicados.",
+  "why_now": "Legal Futures, 26 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "reclamaciones-masivas",
+    "publicidad",
+    "consumo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/claimant-motor-finance-lawyers-back-call-for-advertising-ban",
+      "cited_title": "Claimant motor finance lawyers back call for advertising ban",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-courmacs-legal",
+    "ent-fca",
+    "ent-sra",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

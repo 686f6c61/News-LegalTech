@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-26-ai-act-articulo-50-revision-humana-noticias-agentes",
+  "date": "2026-10-23",
+  "type": "regulation",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Un agente de IA puede escribir la noticia, pero el artículo 50.4 del Reglamento europeo de IA exige etiquetarla salvo que una persona la haya revisado de verdad: la Comisión dice que una firma rápida o una revisión hecha por otra IA no basta",
+  "short_title": "AI Act: noticias de agentes, etiquetadas salvo revisión humana real",
+  "standfirst": "La exención del artículo 50.4 pide responsabilidad editorial y además revisión sustantiva, con verificación de hechos como mínimo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "Unión Europea",
+  "piece_type": "Análisis normativo",
+  "summary_p1": "Desde el 2 de agosto de 2026, el artículo 50.4 del Reglamento europeo de IA obliga a quien use IA para generar o manipular textos publicados para informar al público sobre asuntos de interés general a advertir de que son artificiales, salvo que el texto haya pasado revisión humana o control editorial y alguien asuma la responsabilidad editorial, recuerda ComplexDiscovery (23 de octubre de 2026). Las directrices no vinculantes que la Comisión publicó el 20 de julio precisan que la revisión debe ser sustantiva, con verificación de hechos como mínimo, y que no cuentan la revisión automatizada, la revisión de una IA por otra IA con un vistazo humano superficial ni una aprobación rutinaria. El caso que lo ilustra es Redazione Zero, un medio italiano cuyas noticias eligen y redactan agentes y que avisa en portada de que su contenido se genera sin revisión humana.",
+  "summary_p2": "El texto recuerda errores de 2026 en Ars Technica, The New York Times y el danés Berlingske, todos anteriores a la norma, causados por salidas de IA mal verificadas. Para medios, departamentos de comunicación y despachos que publican contenido informativo con ayuda de IA, la consecuencia es operativa: si se quiere evitar la etiqueta, hay que poder demostrar quién revisó qué y con qué profundidad, aunque el Código de Buenas Prácticas voluntario no exige documentar cada revisión. Para los abogados de medios y de cumplimiento, lo que conviene vigilar son las primeras peticiones de información y quejas, porque fijarán el umbral real de lo que es una revisión suficiente. Matiz: es un análisis de un medio especializado, no una resolución; las directrices de la Comisión no son vinculantes.",
+  "why_sota": "Concreta qué exige la exención de etiquetado del artículo 50.4 para textos generados por agentes.",
+  "why_now": "ComplexDiscovery, 23 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "EU",
+    "IT"
+  ],
+  "topics": [
+    "ai-act",
+    "transparencia",
+    "medios",
+    "etiquetado"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/an-ai-agent-can-write-the-story-but-eu-law-asks-whether-a-human-reviewed-it/",
+      "cited_title": "An AI agent can write the story, but EU law asks whether a human reviewed it",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-comision-europea",
+    "ent-redazione-zero",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-26-tse-brasil-retira-video-ia-sin-etiqueta-meta-x-24-horas",
+  "date": "2026-10-24",
+  "type": "litigation",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "El Tribunal Superior Electoral de Brasil ordena retirar un vídeo de campaña hecho con IA sin la etiqueta obligatoria y da 24 horas a Meta y X para explicar cómo tratan a los candidatos, con multa de 500.000 reales diarios",
+  "short_title": "Brasil: el TSE retira un vídeo con IA y exige explicaciones a Meta y X",
+  "standfirst": "X tendrá que explicar cómo funciona Grok; el tribunal rechaza imponer revisión humana previa a toda retirada de contenido político.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "Brasil",
+  "piece_type": "Resolución judicial",
+  "summary_p1": "A días de la segunda vuelta presidencial del 25 de octubre, el Tribunal Superior Electoral (TSE) de Brasil actuó dos veces sobre inteligencia artificial, informa AI4Brazil (24 de octubre de 2026). El ministro Marco Aurélio Bellizze ordenó en una cautelar retirar un vídeo de 1 minuto y 17 segundos del canal de WhatsApp «Tropa do Flávio», de la campaña del senador Flávio Bolsonaro y con unos 2,1 millones de seguidores, porque su imagen inicial, una figura parecida a Lula ante una bandera con humo rojo y cadenas, se habría generado con IA sin la etiqueta que exige la ley. Por separado, el corregidor electoral Ricardo Villas Bôas Cueva ordenó a Meta y X dar explicaciones técnicas sobre su uso de IA, la distribución de contenido político, los anuncios electorales y las retiradas, con multa diaria de 500.000 reales por incumplimiento; X debe explicar además cómo funciona su asistente Grok.",
+  "summary_p2": "La lectura útil es de método: el TSE aplica sus normas de etiquetado de contenido sintético caso a caso y no con medidas generales. Cueva ordenó revisión humana de una retirada concreta en Instagram, hecha por motivos de IA, pero rechazó exigir revisión humana previa de todas las retiradas de periodismo y opinión sobre los candidatos por ser demasiado amplia, y subrayó que abrir la investigación no supone aceptar las acusaciones. Para plataformas, agencias y equipos de campaña, Brasil muestra cómo se ejecuta en la práctica una obligación de etiquetado: cautelares rápidas, plazos de horas y requerimientos técnicos sobre los sistemas de recomendación. Para despachos europeos que asesoran en el artículo 50 del Reglamento de IA y la DSA, es un anticipo de qué pedirán los reguladores cuando haya elecciones en juego.",
+  "why_sota": "Un tribunal electoral ejecuta en plazo de horas normas de etiquetado de IA y exige a plataformas explicar sus sistemas.",
+  "why_now": "AI4Brazil, 24 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "BR"
+  ],
+  "topics": [
+    "deepfakes",
+    "elecciones",
+    "etiquetado",
+    "plataformas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ai4brazil",
+      "url": "https://ai4brazil.com/en/news/tse-orders-unlabelled-ai-video-removed-and-gives-meta-and-x-24-hours-before-runoff/",
+      "cited_title": "TSE Orders an Unlabelled AI Video Removed and Gives Meta and X 24 Hours to Explain Their Systems Before the Runoff",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-tse-brasil",
+    "ent-meta",
+    "ent-x-corp",
+    "ent-xai",
+    "ent-ai4brazil"
+  ],
+  "lang": "es",
+  "status": "published"
+}

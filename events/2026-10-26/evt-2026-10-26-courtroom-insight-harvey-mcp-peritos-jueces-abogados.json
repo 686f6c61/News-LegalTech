@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-26-courtroom-insight-harvey-mcp-peritos-jueces-abogados",
+  "date": "2026-10-21",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Courtroom Insight entra en la Connector Library de Harvey con un servidor MCP de solo lectura: los abogados pueden evaluar peritos, árbitros, jueces y abogados contrarios y preparar propuestas a clientes sin salir de Harvey",
+  "short_title": "Courtroom Insight lleva a Harvey sus datos de peritos y jueces vía MCP",
+  "standfirst": "Sustituye los correos a todo el despacho preguntando «¿alguien conoce a este perito?» por una consulta dentro de la plataforma de IA.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Integración",
+  "summary_p1": "Courtroom Insight (CI), proveedor de datos verificados sobre profesionales jurídicos y asuntos, anunció el 21 de octubre de 2026 un conector con Harvey disponible en su Connector Library, informa LawSites. El conector, un servidor MCP (Model Context Protocol, el estándar para que la IA consulte fuentes externas) de solo lectura, combina los datos propios de CI con los registros internos del despacho para que los abogados evalúen peritos, árbitros, jueces y otros abogados y redacten propuestas a clientes con datos. Como todos los conectores de la biblioteca, lo ha revisado el equipo de Security & Trust de Harvey, respeta las preferencias de privacidad existentes y puede usarse sin conectar los registros internos. Está disponible para clientes comunes de CI y Harvey desde su panel de administración.",
+  "summary_p2": "Es otra pieza en la carrera de las plataformas de IA jurídica por convertirse en el lugar donde se consulta todo: en octubre Harvey ya sumó Legatics y Midpage, y Legora hizo lo propio con Blue J. Para despachos de litigación y arbitraje, el valor está en decisiones concretas, como a qué perito contratar, quién está al otro lado o qué experiencia tiene un árbitro, que hoy dependen de correos internos y de la memoria de los socios. Para los equipos de conocimiento y desarrollo de negocio, la cuestión es la calidad del dato: la respuesta de la IA será tan buena como los perfiles que alimentan el conector, y conviene saber cómo se verifican y actualizan. Matiz: es un comunicado de la empresa recogido en LawSites.",
+  "why_sota": "Los datos sobre personas y asuntos litigiosos pasan a consultarse dentro de la plataforma de IA mediante MCP.",
+  "why_now": "LawSites, 21 oct 2026. NEW frente a 09-29→10-25.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "mcp",
+    "conectores",
+    "litigacion",
+    "datos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/courtroom-insight-brings-verified-people-and-matter-data-to-harvey-through-new-mcp-in-harveys-connector-library.html",
+      "cited_title": "Courtroom Insight Brings Verified People and Matter Data to Harvey Through New MCP in Harvey's Connector Library",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "entities": [
+    "ent-courtroom-insight",
+    "ent-harvey"
+  ],
+  "lang": "es",
+  "status": "published"
+}

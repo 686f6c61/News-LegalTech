@@ -3880,3 +3880,176 @@ entities:
   - Unión General de Trabajadores
   notes: Sindicato español. Ficha mínima.
   stub: true
+- id: ent-federal-reserve
+  name: Federal Reserve
+  type: regulator
+  url: https://www.federalreserve.gov/
+  geo:
+  - US
+  aliases:
+  - Fed
+  - Reserva Federal
+  notes: Banco central y supervisor bancario de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-occ
+  name: Office of the Comptroller of the Currency
+  type: regulator
+  url: https://www.occ.gov/
+  geo:
+  - US
+  aliases:
+  - OCC
+  notes: Supervisor federal de bancos nacionales de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-fdic
+  name: Federal Deposit Insurance Corporation
+  type: regulator
+  url: https://www.fdic.gov/
+  geo:
+  - US
+  aliases:
+  - FDIC
+  notes: Garante de depósitos y supervisor bancario de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-tse-brasil
+  name: Tribunal Superior Eleitoral
+  type: court
+  url: https://www.tse.jus.br/
+  geo:
+  - BR
+  aliases:
+  - TSE
+  - Tribunal Superior Electoral
+  notes: Máxima instancia de la justicia electoral brasileña. Ficha mínima.
+  stub: true
+- id: ent-x-corp
+  name: X Corp.
+  type: company
+  url: https://x.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - X
+  - Twitter
+  notes: Plataforma de red social X; asistente Grok. Ficha mínima.
+  stub: true
+- id: ent-redazione-zero
+  name: Redazione Zero
+  type: media
+  url: https://redazionezero.it/
+  geo:
+  - IT
+  aliases: []
+  notes: Medio italiano cuyas noticias seleccionan y redactan agentes de IA. Ficha
+    mínima.
+  stub: true
+- id: ent-sprintfour
+  name: Sprintfour Technologies
+  type: vendor
+  url: https://conseal.ai/
+  geo:
+  - US
+  aliases:
+  - Conseal
+  notes: Empresa de Miami; lanza Conseal, app de enmascarado de datos en el dispositivo
+    (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-billables-ai
+  name: Billables AI
+  type: vendor
+  url: https://www.billables.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Plataforma de captura automática de tiempo y operaciones para despachos.
+    Ficha mínima.
+  stub: true
+- id: ent-courtroom-insight
+  name: Courtroom Insight
+  type: vendor
+  url: https://www.courtroominsight.com/
+  geo:
+  - US
+  aliases:
+  - CI
+  notes: Proveedor de datos sobre peritos, jueces, árbitros, abogados y asuntos. Ficha
+    mínima.
+  stub: true
+- id: ent-candle-ai
+  name: Candle AI
+  type: vendor
+  url: https://www.candle.ai/
+  geo:
+  - US
+  aliases:
+  - Candle
+  notes: Herramienta de flujos de correo con IA para despachos; partner tecnológico
+    de iManage (oct 2026). Ficha mínima.
+  stub: true
+- id: ent-attwells
+  name: Attwells Solicitors
+  type: law_firm
+  url: https://www.attwells.com/
+  geo:
+  - UK
+  aliases:
+  - Attwells
+  notes: Despacho con oficinas en Essex, Suffolk y Londres. Ficha mínima.
+  stub: true
+- id: ent-university-of-essex
+  name: University of Essex
+  type: university
+  url: https://www.essex.ac.uk/
+  geo:
+  - UK
+  aliases: []
+  notes: Universidad británica. Ficha mínima.
+  stub: true
+- id: ent-innovate-uk
+  name: Innovate UK
+  type: government
+  url: https://www.ukri.org/councils/innovate-uk/
+  geo:
+  - UK
+  aliases: []
+  notes: Agencia pública británica de innovación. Ficha mínima.
+  stub: true
+- id: ent-judicial-legal-diversity-board
+  name: Judicial and Legal Diversity Board
+  type: government
+  url: https://www.gov.uk/
+  geo:
+  - UK
+  aliases: []
+  notes: Órgano británico de diversidad judicial y jurídica. Ficha mínima.
+  stub: true
+- id: ent-courmacs-legal
+  name: Courmacs Legal
+  type: law_firm
+  url: https://www.courmacslegal.co.uk/
+  geo:
+  - UK
+  aliases: []
+  notes: Despacho de reclamaciones de consumo (financiación de vehículos). Ficha mínima.
+  stub: true
+- id: ent-fca
+  name: Financial Conduct Authority
+  type: regulator
+  url: https://www.fca.org.uk/
+  geo:
+  - UK
+  aliases:
+  - FCA
+  notes: Regulador financiero británico. Ficha mínima.
+  stub: true
+- id: ent-hertz
+  name: Hertz
+  type: company
+  url: https://www.hertz.es/
+  geo:
+  - ES
+  - Global
+  aliases: []
+  notes: Empresa de alquiler de vehículos. Ficha mínima.
+  stub: true
