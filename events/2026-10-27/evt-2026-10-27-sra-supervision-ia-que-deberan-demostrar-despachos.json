@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-27-sra-supervision-ia-que-deberan-demostrar-despachos",
+  "date": "2026-10-27",
+  "type": "opinion",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "Qué pedirá la SRA a los despachos que usan IA: un análisis en Legal Futures sostiene que un error de la IA se leerá como prueba de un fallo de control y que revisar el resultado no basta",
+  "short_title": "Qué pedirá la SRA a los despachos que usan IA, según Legal Futures",
+  "standfirst": "La supervisión por riesgos de la SRA no buscará reglas nuevas, sino pruebas de que el despacho controlaba sus sistemas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Regulación profesional",
+  "country": "Reino Unido",
+  "piece_type": "Opinión",
+  "summary_p1": "En un artículo publicado en Legal Futures el 27 de octubre de 2026, Eleonora Dimitrova, LLB y LLM por Queen Mary University de Londres, sostiene que el impacto regulatorio de la IA en la abogacía de Inglaterra y Gales no vendrá de nuevas normas o prohibiciones, sino de cómo la Solicitors Regulation Authority (SRA) examine los deberes existentes cuando algo falle. Según su análisis, la SRA supervisa por riesgos y trata los incidentes de IA como síntoma de un fallo de control más amplio: falta de responsable claro, poco conocimiento del sistema y supuestos de riesgo sin documentar. Las quejas de clientes serán la vía de entrada más visible, pero no la única, y la pregunta pasará rápido de qué ocurrió a por qué el despacho estaba expuesto.",
+  "summary_p2": "La tesis central es incómoda para muchos despachos: revisar cada resultado de la IA no es un control principal, sino la prueba de una gestión del riesgo reactiva. Lo que el supervisor pedirá es evidencia de una base estructurada para confiar en el sistema: inventario de herramientas, responsables, evaluación previa, formación y registro de decisiones. Para socios de cumplimiento (COLP), la recomendación práctica es documentar ahora por qué se eligió cada herramienta y cómo se supervisa, porque será lo primero que se pida tras una queja. Matiz: es un artículo de opinión de una colaboradora externa, no una posición ni una guía de la SRA.",
+  "why_sota": "Desplaza el debate sobre IA en la abogacía británica de la revisión del resultado a la prueba documental del control.",
+  "why_now": "Legal Futures, 27 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "regulacion-profesional",
+    "supervision",
+    "gobernanza-ia",
+    "cumplimiento"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/blog/sra-supervision-and-ai-what-firms-will-be-asked-to-prove",
+      "cited_title": "SRA supervision and AI: what firms will be asked to prove",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-sra",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

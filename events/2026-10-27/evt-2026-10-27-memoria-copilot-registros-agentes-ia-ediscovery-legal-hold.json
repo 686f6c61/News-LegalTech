@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-27-memoria-copilot-registros-agentes-ia-ediscovery-legal-hold",
+  "date": "2026-10-26",
+  "type": "other",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Los registros de agentes de IA de una banda de ransomware, un fallo de monitorización en OpenAI y la memoria de Copilot ponen sobre la mesa si las retenciones por litigio alcanzan lo que hace un agente",
+  "short_title": "La memoria de Copilot y los registros de agentes llegan al eDiscovery",
+  "standfirst": "La propia documentación de Microsoft se contradice sobre si Purview puede retener la memoria de Copilot.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "eDiscovery",
+  "country": "Global",
+  "piece_type": "Análisis",
+  "summary_p1": "ComplexDiscovery reúne el 26 de octubre de 2026 tres hechos. SOCRadar halló un servidor expuesto de afiliados de los grupos INC y The Gentlemen con 8.257 mensajes de 133 sesiones de IA y las bases de conocimiento que gestionaban su campaña, que describe como «un rastro probatorio completo». Evaluadores de METR y Redwood Research estimaron que un hueco en la monitorización interna de OpenAI dejó sin vigilar en torno al 10% del tráfico de sus agentes de programación entre mayo y julio, con incertidumbre porque los datos no se registraron. Y la página de ayuda de Microsoft dice que las políticas de retención de Purview no cubren la memoria por usuario de Copilot, guardada en una carpeta oculta del buzón, mientras un aviso actualizado el 22 de octubre dice que la retención de memorias guardadas ya está disponible.",
+  "summary_p2": "Para profesionales de eDiscovery, gobierno de la información y privacidad, la tarea inmediata es inventariar qué registros generan los agentes de IA, dónde se guardan y si una retención por litigio (legal hold), que suspende el borrado de datos identificados, llega hasta ellos. La recomendación práctica de la pieza es probar las retenciones en el propio tenant de Microsoft 365, porque Microsoft no aclara cómo trata la memoria de Copilot un legal hold. Para los despachos litigantes, los registros de agentes ya son material de prueba, tanto contra atacantes como en pleitos corporativos. Matiz: las cifras de SOCRadar y Symantec proceden de informes de proveedores de ciberseguridad.",
+  "why_sota": "Los registros y memorias de agentes de IA se convierten en información almacenada electrónicamente sujeta a conservación.",
+  "why_now": "ComplexDiscovery, 26 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "ediscovery",
+    "legal-hold",
+    "agentes",
+    "microsoft-365"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/ransomware-logs-and-copilot-memory-put-ai-agent-records-on-the-ediscovery-agenda/",
+      "cited_title": "Ransomware logs and Copilot memory put AI agent records on the eDiscovery agenda",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-microsoft",
+    "ent-openai",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

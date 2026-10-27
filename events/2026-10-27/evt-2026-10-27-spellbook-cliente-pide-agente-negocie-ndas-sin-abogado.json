@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-27-spellbook-cliente-pide-agente-negocie-ndas-sin-abogado",
+  "date": "2026-10-26",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Una gran empresa sanitaria del Fortune 500 pide a Spellbook que su agente negocie y envíe redlines a la otra parte sin intervención humana, y Above the Law avisa del riesgo de intrusismo y de inyección de instrucciones",
+  "short_title": "Una empresa del Fortune 500 pide a Spellbook negociar sin abogados",
+  "standfirst": "El producto de Spellbook revisa las contrapropuestas contra un playbook, pero deja la aprobación final a un abogado.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Análisis",
+  "summary_p1": "El consejero delegado de Spellbook, Scott Stevenson, contó que en una llamada comercial una empresa sanitaria del Fortune 500 le preguntó si su agente podía negociar con la contraparte de forma automática y enviar redlines (cambios marcados) sin intervención humana, porque cree que la negociación entre agentes es el futuro; después precisó que hablaba de NDA y contratos marco sencillos, recoge Above the Law el 26 de octubre de 2026. El producto que Spellbook acaba de lanzar, Autonomous Contract Management, revisa las contrapropuestas en cuanto llegan, las contrasta con el playbook de la empresa y marca los acuerdos rutinarios como listos para aprobar, pero la aprobación sigue siendo de un abogado. Expansión recuerda el mismo día que Anthropic consulta a despachos para fijar normas de conducta de futuros agentes negociadores.",
+  "summary_p2": "Para in-house, la pregunta ya no es si la IA puede revisar un NDA, sino quién responde si un agente acepta una cláusula sin que nadie la lea: Above the Law apunta al riesgo de práctica no autorizada de la abogacía y al de inyección de instrucciones, texto oculto en el documento de la otra parte capaz de desviar al agente, del que ya advirtió Morgan Lewis. La recomendación práctica es mantener un punto de aprobación humano, aunque sea rápido, y limitar la autonomía a umbrales de importe y tipos de contrato bien definidos. Para el vendor, la demanda existe, pero el producto que lo permita sin control asumirá un riesgo de responsabilidad considerable. Matiz: la anécdota procede de un mensaje del propio proveedor en redes, sin identificar al cliente ni su cargo.",
+  "why_sota": "La demanda de negociación contractual entre agentes sin humano aparece ya en grandes empresas, antes que las reglas para hacerlo.",
+  "why_now": "Above the Law y Expansión, 26 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "contratos",
+    "agentes",
+    "negociacion",
+    "in-house"
+  ],
+  "sources": [
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/fortune-500-healthcare-company-asks-for-ai-to-negotiate-contracts-with-no-human-lawyers/",
+      "cited_title": "Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers",
+      "accessed": "2026-10-27"
+    },
+    {
+      "source_id": "src-expansion",
+      "url": "https://www.expansion.com/juridico/actualidad-tendencias/2026/10/26/ia-preparada-sentarse-negociar-contrato.html",
+      "cited_title": "¿Está la IA preparada para sentarse a negociar un contrato?",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-spellbook",
+    "ent-anthropic",
+    "ent-above-the-law",
+    "ent-expansion"
+  ],
+  "lang": "es",
+  "status": "published"
+}

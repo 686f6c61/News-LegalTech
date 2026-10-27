@@ -1,0 +1,12 @@
+id: ent-page-intelligence
+name: Page
+type: vendor
+url: https://www.clio.com/
+geo:
+- CA
+- US
+aliases:
+- Page Intelligence
+notes: Plataforma de Kitchener-Waterloo de inteligencia legislativa y regulatoria
+  con IA; adquirida por Clio (oct 2026). Ficha mínima.
+stub: true

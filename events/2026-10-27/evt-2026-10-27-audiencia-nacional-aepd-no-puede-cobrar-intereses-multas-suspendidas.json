@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-27-audiencia-nacional-aepd-no-puede-cobrar-intereses-multas-suspendidas",
+  "date": "2026-10-26",
+  "type": "case_law",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "La Audiencia Nacional impide a la AEPD cobrar intereses de demora por el tiempo en que una multa estuvo suspendida cautelarmente por un juez",
+  "short_title": "La AEPD no puede cobrar intereses de multas suspendidas por un juez",
+  "standfirst": "Aplicar las normas de Hacienda a una sanción de protección de datos choca con el principio de legalidad, dice el tribunal.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "España",
+  "piece_type": "Sentencia",
+  "summary_p1": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional ha estimado el recurso de la empresa Meydis contra una resolución de la Agencia Española de Protección de Datos (AEPD) que le liquidaba intereses de demora por todo el periodo en que sus multas habían estado suspendidas cautelarmente por orden judicial mientras las recurría, informa Expansión el 26 de octubre de 2026. El tribunal razona que los intereses compensan no haber podido disponer de un ingreso obligatorio, y que esa base desaparece cuando la exigibilidad de la sanción está suspendida. Añade que la AEPD no puede aplicar las normas tributarias, porque las multas de protección de datos son derecho sancionador, y que no hay precepto que prevea intereses durante una suspensión cautelar.",
+  "summary_p2": "La sentencia anula la liquidación íntegra e impone las costas a la Agencia, y advierte de que aceptar el criterio de la AEPD agravaría la posición de quien obtuvo la tutela cautelar y disuadiría de recurrir las sanciones. Para empresas sancionadas y sus asesores, refuerza el valor de pedir la suspensión cautelar al recurrir una multa de la AEPD: si se concede, el coste de litigar no incluye intereses por el tiempo del pleito. Para los departamentos de cumplimiento, es un argumento a revisar en cualquier liquidación posterior que la Agencia practique sobre multas recurridas. Defendieron a la empresa Picón & Asociados, con la colaboración de Maio Legal.",
+  "why_sota": "Fija que las multas de protección de datos suspendidas judicialmente no devengan intereses de demora.",
+  "why_now": "Expansión, 26 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "proteccion-de-datos",
+    "sanciones",
+    "contencioso-administrativo",
+    "medidas-cautelares"
+  ],
+  "sources": [
+    {
+      "source_id": "src-expansion",
+      "url": "https://www.expansion.com/juridico/2026/10/26/aepd-exigir-intereses-sanciones-suspendidas-juez.html",
+      "cited_title": "La AEPD no puede exigir intereses por sanciones suspendidas por un juez",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-audiencia-nacional",
+    "ent-aepd",
+    "ent-expansion"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,13 @@
+id: ent-consejo-de-europa
+name: Consejo de Europa
+type: government
+url: https://www.coe.int/
+geo:
+- EU
+- Global
+aliases:
+- Council of Europe
+- Europarat
+notes: Organización internacional de derechos humanos; autora de la Convención para
+  la protección de la profesión de abogado. Ficha mínima.
+stub: true

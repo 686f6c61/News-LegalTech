@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-27-cliocon-plataforma-unificada-flujos-agenticos-compra-page",
+  "date": "2026-10-26",
+  "type": "product",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "Clio une en una sola interfaz intake, gestión e IA, lanza flujos agénticos que ejecutan el trabajo, su propia telefonía y compra Page, que vigila proyectos de ley y regulación en EE. UU.",
+  "short_title": "Clio unifica su plataforma, lanza flujos agénticos y compra Page",
+  "standfirst": "Clio Work ya lo usan 10.000 despachos, según su consejero delegado, y la compañía quiere ser el sistema operativo completo del despacho.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "En la conferencia ClioCon, celebrada en Boston el 26 de octubre de 2026, Clio anunció que fusiona Clio Grow (captación), Clio Manage (gestión) y Clio Work (IA jurídica) en una única interfaz con un solo acceso, con despliegue desde noviembre, y un asistente que responde y actúa sobre expedientes, documentos, plazos y facturación a los que el usuario tenga permiso, informa LawSites. Presentó Agentic Workflows, que convierte un procedimiento descrito en lenguaje natural en pasos que el despacho revisa y aprueba y que luego el sistema ejecuta, y Clio Phones, una centralita propia que transcribe, resume y crea la entrada de tiempo de cada llamada. Además compró Page, una plataforma canadiense que sigue la actividad legislativa y regulatoria federal y de los 50 estados, incluidas las comisiones en directo, y la integrará en Vincent en los próximos meses; no se revelaron las condiciones.",
+  "summary_p2": "La estrategia es clara: Clio quiere que el despacho pequeño y mediano tenga en un mismo sistema la captación, la gestión, la investigación, la redacción, la telefonía, la gestión documental y la facturación, y que la IA actúe sobre todo ello. Para el despacho, la ventaja es menos integraciones; el riesgo es la dependencia de un único proveedor y la necesidad de definir bien dónde se detiene el agente, algo que Clio deja en manos del despacho con puntos de aprobación. Con Page, Clio entra en la vigilancia normativa, un servicio que hasta ahora ofrecían despachos y consultoras de asuntos públicos. Matiz: el resumen procede de los comunicados y la keynote de Clio; varias funciones están en beta o solo en algunos estados de EE. UU., y la cobertura de Page detallada es estadounidense.",
+  "why_sota": "El mayor proveedor de gestión para despachos pequeños pasa de la automatización por reglas a agentes que ejecutan procedimientos completos.",
+  "why_now": "LawSites y LegalTech.ca, 26 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "US",
+    "CA"
+  ],
+  "topics": [
+    "gestion-de-despacho",
+    "agentes",
+    "vigilancia-normativa",
+    "adquisiciones"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
+      "cited_title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It's A Lot)",
+      "accessed": "2026-10-27"
+    },
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/26/clio-acquires-page-to-bring-regulatory-intelligence-to-vincent/",
+      "cited_title": "Clio acquires Page to bring regulatory intelligence to Vincent",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-clio",
+    "ent-page-intelligence",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

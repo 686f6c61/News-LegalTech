@@ -1,0 +1,9 @@
+id: ent-cohere
+name: Cohere
+type: company
+url: https://cohere.com/
+geo:
+- CA
+aliases: []
+notes: Empresa canadiense de modelos de IA para empresas. Ficha mínima.
+stub: true

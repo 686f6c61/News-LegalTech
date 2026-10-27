@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-27-comision-europea-frena-ratificacion-convencion-proteccion-abogacia",
+  "date": "2026-10-26",
+  "type": "regulation",
+  "sota_score": 6.4,
+  "ai_legaltech": false,
+  "title": "La Comisión Europea sigue sin dejar que los Estados ratifiquen la convención del Consejo de Europa que protege a los abogados frente a ataques y represión, y su promesa de mover ficha a principios de otoño no se ha cumplido",
+  "short_title": "Bruselas sigue frenando la convención que protege a la abogacía",
+  "standfirst": "Ningún país la ha ratificado aún, y necesita ocho ratificaciones para entrar en vigor.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Profesión jurídica",
+  "country": "Unión Europea",
+  "piece_type": "Regulación",
+  "summary_p1": "La convención del Consejo de Europa para la protección de la profesión de abogado, que Alemania firmó en enero en Estrasburgo, solo entrará en vigor tres meses después de que la ratifiquen ocho países, y todavía no lo ha hecho ninguno, informa Legal Tribune Online el 26 de octubre de 2026. La razón es un veto de la Comisión Europea: como el texto toca competencias de la Unión, Bruselas exige que la UE se adhiera primero y prohíbe a los Estados miembros depositar sus ratificaciones hasta entonces. En una carta del 11 de septiembre al CCBE, la jefa de la unidad de derecho procesal penal de la DG JUST dijo que la Comisión revisaba cuestiones como el secreto profesional y la aplicación ante el Tribunal de Justicia de la UE, y que presentaría sus propuestas a principios de otoño; a finales de octubre no ha ocurrido.",
+  "summary_p2": "Para la abogacía europea, la consecuencia práctica es que el primer tratado internacional vinculante sobre la protección de los abogados sigue sin efecto mientras se discute su encaje con el derecho de la Unión, incluido el alcance del secreto profesional. Los colegios alemanes y franceses enviaron una carta a la presidenta de la Comisión en junio sin respuesta; el CCBE la obtuvo ocho semanas después. Para los colegios españoles y quienes siguen las garantías de la profesión, conviene vigilar las propuestas de la Comisión, porque fijarán cómo se aplica la convención en procedimientos ante instituciones de la UE. Matiz: la información procede de cartas a las que ha tenido acceso LTO.",
+  "why_sota": "El primer tratado vinculante de protección de la abogacía queda bloqueado por un problema de competencias de la UE.",
+  "why_now": "Legal Tribune Online, 26 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "EU",
+    "DE"
+  ],
+  "topics": [
+    "profesion-juridica",
+    "secreto-profesional",
+    "consejo-de-europa",
+    "estado-de-derecho"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/juristen/b/eu-kommission-bremst-ratifizierung-europarat-konvention-schutz-anwaltschaft",
+      "cited_title": "EU-Kommission bremst Ratifizierung von Europaratskonvention: Noch immer kein grünes Licht für mehr Schutz der Anwaltschaft",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-comision-europea",
+    "ent-consejo-de-europa",
+    "ent-ccbe",
+    "ent-legal-tribune-online"
+  ],
+  "lang": "es",
+  "status": "published"
+}

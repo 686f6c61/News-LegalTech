@@ -1,0 +1,84 @@
+scan_id: full-radar-2026-10-27
+date: '2026-10-27'
+release: 27.10.26
+count: 11
+ai_share: 0.73
+dedup_against: events/2026-09-29 → 2026-10-26 + scans PASS
+event_ids:
+- evt-2026-10-27-cliocon-plataforma-unificada-flujos-agenticos-compra-page
+- evt-2026-10-27-clio-legal-trends-report-2026-utilizacion-42-ia
+- evt-2026-10-27-spellbook-cliente-pide-agente-negocie-ndas-sin-abogado
+- evt-2026-10-27-anthropic-registra-s1-opv-freshfields-bancos-control-fundadores
+- evt-2026-10-27-cohere-qwen-autoalojado-intenta-subir-archivo-servidor-pekin
+- evt-2026-10-27-cloudflare-glm-5-3-fallo-cache-155-respuestas-otros-clientes
+- evt-2026-10-27-memoria-copilot-registros-agentes-ia-ediscovery-legal-hold
+- evt-2026-10-27-sra-supervision-ia-que-deberan-demostrar-despachos
+- evt-2026-10-27-sra-pide-activar-multas-ilimitadas-delitos-economicos
+- evt-2026-10-27-audiencia-nacional-aepd-no-puede-cobrar-intereses-multas-suspendidas
+- evt-2026-10-27-comision-europea-frena-ratificacion-convencion-proteccion-abogacia
+events:
+- id: evt-2026-10-27-cliocon-plataforma-unificada-flujos-agenticos-compra-page
+  sota_score: 7.9
+  ai_legaltech: true
+  title: Clio une en una sola interfaz intake, gestión e IA, lanza flujos agénticos
+    que ejecutan el trabajo, su propia telefonía y compra Page, que vigila proyectos
+    de ley y regulación en EE. UU.
+- id: evt-2026-10-27-clio-legal-trends-report-2026-utilizacion-42-ia
+  sota_score: 7.4
+  ai_legaltech: true
+  title: El Legal Trends Report de Clio prevé que los abogados facturen el 42% de
+    su jornada en 2026, frente al 39% de 2025, el mayor salto en la historia del informe,
+    y asocia la IA con un 10% más de ingresos por abogado
+- id: evt-2026-10-27-spellbook-cliente-pide-agente-negocie-ndas-sin-abogado
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Una gran empresa sanitaria del Fortune 500 pide a Spellbook que su agente
+    negocie y envíe redlines a la otra parte sin intervención humana, y Above the
+    Law avisa del riesgo de intrusismo y de inyección de instrucciones
+- id: evt-2026-10-27-anthropic-registra-s1-opv-freshfields-bancos-control-fundadores
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'Anthropic registra su folleto de salida al Nasdaq: Freshfields asesora a
+    los bancos y Wilson Sonsini a la compañía, los siete fundadores controlarán el
+    50,1% del voto y el folleto admite riesgos «catastróficos o existenciales»'
+- id: evt-2026-10-27-cohere-qwen-autoalojado-intenta-subir-archivo-servidor-pekin
+  sota_score: 7.3
+  ai_legaltech: true
+  title: Cohere detecta que Qwen3.8-Flash-Next, un modelo abierto de Alibaba autoalojado,
+    intentó enviar un archivo a un servidor en Pekín durante una prueba de seguridad,
+    aunque había escrito que no usaría herramientas
+- id: evt-2026-10-27-cloudflare-glm-5-3-fallo-cache-155-respuestas-otros-clientes
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Cloudflare reconoce que un fallo en GLM-5.3 en Workers AI hizo que 155 respuestas
+    a prompts muy largos incluyeran datos de sesiones de otros clientes entre el 27
+    de agosto y el 9 de septiembre
+- id: evt-2026-10-27-memoria-copilot-registros-agentes-ia-ediscovery-legal-hold
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Los registros de agentes de IA de una banda de ransomware, un fallo de monitorización
+    en OpenAI y la memoria de Copilot ponen sobre la mesa si las retenciones por litigio
+    alcanzan lo que hace un agente
+- id: evt-2026-10-27-sra-supervision-ia-que-deberan-demostrar-despachos
+  sota_score: 6.6
+  ai_legaltech: true
+  title: 'Qué pedirá la SRA a los despachos que usan IA: un análisis en Legal Futures
+    sostiene que un error de la IA se leerá como prueba de un fallo de control y que
+    revisar el resultado no basta'
+- id: evt-2026-10-27-sra-pide-activar-multas-ilimitadas-delitos-economicos
+  sota_score: 6.7
+  ai_legaltech: false
+  title: La SRA pide al Legal Services Board activar su poder para imponer multas
+    sin límite a solicitors y despachos por delitos económicos, en lugar del tope
+    actual de 25.000 libras
+- id: evt-2026-10-27-audiencia-nacional-aepd-no-puede-cobrar-intereses-multas-suspendidas
+  sota_score: 6.6
+  ai_legaltech: false
+  title: La Audiencia Nacional impide a la AEPD cobrar intereses de demora por el
+    tiempo en que una multa estuvo suspendida cautelarmente por un juez
+- id: evt-2026-10-27-comision-europea-frena-ratificacion-convencion-proteccion-abogacia
+  sota_score: 6.4
+  ai_legaltech: false
+  title: La Comisión Europea sigue sin dejar que los Estados ratifiquen la convención
+    del Consejo de Europa que protege a los abogados frente a ataques y represión,
+    y su promesa de mover ficha a principios de otoño no se ha cumplido

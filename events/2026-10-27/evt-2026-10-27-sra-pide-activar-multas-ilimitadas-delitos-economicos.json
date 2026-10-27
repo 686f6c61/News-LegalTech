@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-27-sra-pide-activar-multas-ilimitadas-delitos-economicos",
+  "date": "2026-10-27",
+  "type": "regulation",
+  "sota_score": 6.7,
+  "ai_legaltech": false,
+  "title": "La SRA pide al Legal Services Board activar su poder para imponer multas sin límite a solicitors y despachos por delitos económicos, en lugar del tope actual de 25.000 libras",
+  "short_title": "La SRA pide activar multas sin límite por delitos económicos",
+  "standfirst": "Tres casos de blanqueo que el año pasado acabaron ante el tribunal disciplinario se habrían resuelto antes y sin costas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación profesional",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "La Solicitors Regulation Authority (SRA) ha solicitado permiso para usar el poder de multar sin límite en casos de delitos económicos que le otorgó la Economic Crime and Corporate Transparency Act 2023, en vigor desde el 4 de marzo de 2024, informa Legal Futures el 27 de octubre de 2026. Para ello debe revisar su guía de multas y obtener la aprobación del Legal Services Board (LSB); la SRA sostiene que no necesita el procedimiento reservado a cambios normativos importantes, y no está claro si el LSB lo acepta. El poder elimina el tope de 25.000 libras para solicitors, despachos tradicionales y sus empleados en conductas iniciadas desde esa fecha que entren en la definición de delito económico: robo, fraude, falsedad contable, soborno, evasión fiscal, blanqueo, financiación del terrorismo y sanciones financieras.",
+  "summary_p2": "Hoy esos casos deben ir al Solicitors Disciplinary Tribunal; con el nuevo poder, la SRA los resolvería directamente. La guía dice que la multa no superará normalmente el 5% de la facturación, pero la SRA advierte que eso no ata a sus decisores, que podrán ir más allá en casos excepcionales o usar otra métrica. Para los despachos, el mensaje es que los incumplimientos de prevención del blanqueo tendrán sanciones más rápidas y potencialmente mucho mayores, en un año en que las inspecciones antiblanqueo de la SRA ya han aumentado. Las ABS (estructuras con socios no abogados) mantienen su régimen propio, con multas de hasta 250 millones de libras para la entidad.",
+  "why_sota": "El regulador de los solicitors pasa a poder multar sin tope en blanqueo y fraude sin pasar por el tribunal.",
+  "why_now": "Legal Futures, 27 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "UK"
+  ],
+  "topics": [
+    "regulacion-profesional",
+    "blanqueo",
+    "sanciones",
+    "cumplimiento"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-moves-to-take-unlimited-fining-power-for-economic-crime",
+      "cited_title": "SRA moves to take unlimited fining power for economic crime",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-sra",
+    "ent-legal-services-board",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

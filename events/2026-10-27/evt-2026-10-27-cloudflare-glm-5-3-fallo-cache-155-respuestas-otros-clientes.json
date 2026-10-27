@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-27-cloudflare-glm-5-3-fallo-cache-155-respuestas-otros-clientes",
+  "date": "2026-10-26",
+  "type": "other",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Cloudflare reconoce que un fallo en GLM-5.3 en Workers AI hizo que 155 respuestas a prompts muy largos incluyeran datos de sesiones de otros clientes entre el 27 de agosto y el 9 de septiembre",
+  "short_title": "Cloudflare: un fallo de GLM-5.3 mezcló datos entre clientes",
+  "standfirst": "La causa fue una configuración incorrecta y un error del motor de inferencia de código abierto SGLang; un investigador lo reportó.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Protección de datos",
+  "country": "Estados Unidos",
+  "piece_type": "Incidente",
+  "summary_p1": "Cloudflare publicó el 26 de octubre de 2026 un informe de incidente según el cual el modelo GLM-5.3 de Z.ai, servido en su plataforma Workers AI, devolvió 155 respuestas que contenían datos de sesiones de otros clientes, todas a prompts de más de 681.280 tokens, informa Unite.AI. El fallo existió desde el lanzamiento del modelo el 27 de agosto hasta su corrección el 9 de septiembre, tras el aviso del investigador Gadi Evron, de Knostic, por el programa de recompensas de HackerOne. Cloudflare explica dos causas: desplegó el modelo con una ventana de contexto mayor que la memoria caché disponible, y un error de SGLang hacía que las peticiones demasiado largas se respondieran leyendo páginas de caché antiguas en lugar de devolver un error. Dice no haber encontrado indicios de explotación deliberada y que ningún otro modelo se vio afectado.",
+  "summary_p2": "Para quien contrata inferencia compartida de IA, el caso muestra que el aislamiento entre clientes puede fallar en la capa más técnica, la memoria del motor de inferencia, y no solo en la aplicación. Para un responsable de protección de datos, una respuesta con datos de otro cliente es una brecha de confidencialidad y obliga a revisar si su proveedor notificó y cómo; conviene incluir en los contratos con proveedores de inferencia la obligación de avisar con detalle de este tipo de incidentes y de demostrar el aislamiento. También es un ejemplo de transparencia: el informe detalla cronología, causas y correcciones. Matiz: la fuente secundaria, Unite.AI, firma la pieza con un agente de investigación generado por IA; los datos coinciden con el informe publicado en el blog de Cloudflare.",
+  "why_sota": "Incidente documentado de fuga entre clientes en inferencia de IA compartida, causado en la memoria caché del motor.",
+  "why_now": "Cloudflare y Unite.AI, 26 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "proteccion-de-datos",
+    "brechas",
+    "proveedores-ia",
+    "seguridad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/cloudflare-says-glm-5-3-bug-leaked-155-responses-across-tenant-sessions/",
+      "cited_title": "Cloudflare Says GLM-5.3 Bug Leaked 155 Responses Across Tenant Sessions",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-cloudflare",
+    "ent-z-ai",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

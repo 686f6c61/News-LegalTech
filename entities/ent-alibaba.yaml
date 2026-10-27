@@ -1,0 +1,11 @@
+id: ent-alibaba
+name: Alibaba
+type: company
+url: https://www.alibabagroup.com/
+geo:
+- CN
+- Global
+aliases:
+- Qwen
+notes: Grupo tecnológico chino; desarrolla los modelos Qwen. Ficha mínima.
+stub: true

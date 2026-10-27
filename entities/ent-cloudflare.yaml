@@ -1,0 +1,11 @@
+id: ent-cloudflare
+name: Cloudflare
+type: company
+url: https://www.cloudflare.com/
+geo:
+- US
+- Global
+aliases:
+- Workers AI
+notes: Proveedor de red, seguridad e inferencia de IA (Workers AI). Ficha mínima.
+stub: true

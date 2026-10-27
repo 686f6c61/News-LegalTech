@@ -1,0 +1,60 @@
+{
+  "id": "evt-2026-10-27-anthropic-registra-s1-opv-freshfields-bancos-control-fundadores",
+  "date": "2026-10-26",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Anthropic registra su folleto de salida al Nasdaq: Freshfields asesora a los bancos y Wilson Sonsini a la compañía, los siete fundadores controlarán el 50,1% del voto y el folleto admite riesgos «catastróficos o existenciales»",
+  "short_title": "Anthropic registra su OPV con Freshfields asesorando a los bancos",
+  "standfirst": "Ingresos de 16.300 millones de dólares en el primer semestre y unos 250 clientes que gastan más de 10 millones al año.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado legal",
+  "country": "Estados Unidos",
+  "piece_type": "Operación",
+  "summary_p1": "Anthropic presentó el 26 de octubre de 2026 ante la SEC su formulario S-1 para cotizar en el Nasdaq con el código ANT, según TechCrunch: 16.300 millones de dólares de ingresos en el primer semestre de 2026, frente a 1.200 millones un año antes, una pérdida operativa de 693 millones y una pérdida neta de 80.700 millones, sobre todo por ajustes contables sin efecto en caja. Freshfields asesora a las entidades colocadoras con un equipo de Silicon Valley y Wilson Sonsini a la compañía, informa Legal Business. Los siete cofundadores controlarán el 50,1% del voto a través de una sociedad propia y el Long-Term Benefit Trust nombrará a la mayoría del consejo; el folleto reconoce que la tecnología puede plantear riesgos «catastróficos o existenciales para la humanidad». Expansión señala que no hay aún precio ni fecha, aunque se espera el debut en la semana del 16 de noviembre.",
+  "summary_p2": "Para el mercado legal, el mandato confirma el empuje de Freshfields en el mercado de capitales estadounidense, en una operación en la que Legal Business sitúa también a Cleary, Cravath y Orrick. Para los clientes corporativos de Claude, entre ellos despachos y plataformas legaltech, el folleto ofrece datos útiles para la diligencia debida del proveedor: los cinco mayores clientes aportan en torno al 25% de los ingresos, muchos contratos no son a largo plazo, el 48% de la facturación pasa por AWS, Google Cloud y Azure, y una gobernanza en la que el accionista público tendrá poca influencia. Para quien asesora en gobierno corporativo, la estructura de voto desligada de la participación económica será uno de los temas del debate sobre la oferta. Matiz: Legal Business ofrece la pieza con muro de pago tras el primer artículo gratuito.",
+  "why_sota": "El folleto del segundo gran laboratorio de IA expone por primera vez datos auditables sobre un proveedor clave de la legaltech.",
+  "why_now": "TechCrunch, Legal Business y Expansión, 26-27 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "opv",
+    "mercado-de-capitales",
+    "gobierno-corporativo",
+    "proveedores-ia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-techcrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "cited_title": "Anthropic officially files for its public debut",
+      "accessed": "2026-10-27"
+    },
+    {
+      "source_id": "src-legal-business",
+      "url": "https://www.legalbusiness.co.uk/law-firms/freshfields-lands-anthropic-ipo-role-amid-raft-of-us-firms/",
+      "cited_title": "Freshfields lands Anthropic IPO role alongside raft of US firms",
+      "accessed": "2026-10-27"
+    },
+    {
+      "source_id": "src-expansion",
+      "url": "https://www.expansion.com/tecnologia/2026/10/27/anthropic-pone-rumbo-bolsa-diez-claves-desvela-esperada-opv.html",
+      "cited_title": "Anthropic pone rumbo a Bolsa: las diez claves que desvela su esperada OPV",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-anthropic",
+    "ent-freshfields",
+    "ent-wilson-sonsini",
+    "ent-techcrunch",
+    "ent-legal-business",
+    "ent-expansion"
+  ],
+  "lang": "es",
+  "status": "published"
+}

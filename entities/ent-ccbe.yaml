@@ -1,0 +1,10 @@
+id: ent-ccbe
+name: Council of Bars and Law Societies of Europe
+type: association
+url: https://www.ccbe.eu/
+geo:
+- EU
+aliases:
+- CCBE
+notes: Consejo de la abogacía europea. Ficha mínima.
+stub: true

@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-27-clio-legal-trends-report-2026-utilizacion-42-ia",
+  "date": "2026-10-26",
+  "type": "research",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "El Legal Trends Report de Clio prevé que los abogados facturen el 42% de su jornada en 2026, frente al 39% de 2025, el mayor salto en la historia del informe, y asocia la IA con un 10% más de ingresos por abogado",
+  "short_title": "Clio: los abogados facturarán el 42% de su jornada en 2026",
+  "standfirst": "La IA no destruye empleo en los despachos encuestados, y el 82% de los consumidores quiere saber cuándo su abogado la usa.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Informe",
+  "summary_p1": "Clio presentó en ClioCon, el 26 de octubre de 2026, su undécimo Legal Trends Report, que proyecta una utilización del 42% de la jornada de ocho horas en 2026, frente al 39% de 2025: unas 3,4 horas facturables al día y un 53% más de trabajo facturado que en 2016, informa LegalTech.ca. Los despachos que usan Clio Work y Clio Manage registran un 10% más de ingresos por abogado responsable, un 6,5% más de horas facturables y una tasa de cobro 2,5 puntos superior a despachos comparables sin sus herramientas de IA. La adopción de IA llega al 85% de los despachos, frente al 79% del año anterior, y la mayoría no atribuye a la IA cambios de plantilla; donde los hay, son más las contrataciones que los recortes, también entre asociados júnior y paralegales.",
+  "summary_p2": "El dato que más interesa a un socio es que la IA, por ahora, está aumentando la hora facturada en lugar de reducirla, lo que aplaza el debate sobre el fin de la hora facturable en el despacho pequeño. Del lado del cliente, casi uno de cada cuatro adultos en EE. UU. ya ha consultado a la IA una duda legal, el 46% lo haría antes de llamar a un abogado, el 82% quiere saber si su abogado usa IA y el 70% dice que esa transparencia aumenta su confianza: un argumento para informar del uso de IA en la hoja de encargo. Matiz: es un informe del propio proveedor con datos de sus clientes; muestra asociación entre uso de sus herramientas y rendimiento, no que la IA cause las mejoras, y describe el mercado estadounidense.",
+  "why_sota": "Primer dato anual amplio de que la IA está subiendo la utilización facturable del despacho pequeño en lugar de erosionarla.",
+  "why_now": "LegalTech.ca y LawSites, 26 oct 2026. NEW frente a 09-29→10-26.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "rentabilidad",
+    "hora-facturable",
+    "adopcion-ia",
+    "pequeno-despacho"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/26/clio-legal-trends-report-projects-record-gain-in-lawyers-billable-time/",
+      "cited_title": "Clio Legal Trends Report projects record gain in lawyers' billable time",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "entities": [
+    "ent-clio",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}
