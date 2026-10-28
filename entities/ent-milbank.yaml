@@ -1,0 +1,10 @@
+id: ent-milbank
+name: Milbank
+type: law_firm
+url: https://www.milbank.com/
+geo:
+- US
+- DE
+aliases: []
+notes: Despacho estadounidense con oficinas en Alemania. Ficha mínima.
+stub: true

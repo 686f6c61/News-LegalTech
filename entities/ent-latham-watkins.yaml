@@ -1,0 +1,11 @@
+id: ent-latham-watkins
+name: Latham & Watkins
+type: law_firm
+url: https://www.lw.com/
+geo:
+- US
+- Global
+aliases:
+- Latham
+notes: Despacho internacional de origen estadounidense. Ficha mínima.
+stub: true

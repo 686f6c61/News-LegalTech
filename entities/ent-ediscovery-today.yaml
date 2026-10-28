@@ -1,0 +1,9 @@
+id: ent-ediscovery-today
+name: eDiscovery Today
+type: media
+url: https://ediscoverytoday.com/
+geo:
+- US
+aliases: []
+notes: Blog de noticias de eDiscovery de Doug Austin. Ficha mínima.
+stub: true

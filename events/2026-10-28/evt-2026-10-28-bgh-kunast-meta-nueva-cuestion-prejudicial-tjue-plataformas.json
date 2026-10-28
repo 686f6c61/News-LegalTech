@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-28-bgh-kunast-meta-nueva-cuestion-prejudicial-tjue-plataformas",
+  "date": "2026-10-27",
+  "type": "case_law",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "El BGH vuelve a suspender el caso Künast contra Meta y pregunta al TJUE si una red social debe borrar por su cuenta las copias de un meme falso",
+  "short_title": "El BGH lleva al TJUE el caso Künast contra Meta",
+  "standfirst": "Las preguntas tocan la responsabilidad de las plataformas como responsables de datos, el puerto seguro de la Directiva de comercio electrónico y el DSA.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Plataformas digitales",
+  "country": "Alemania",
+  "piece_type": "Sentencia",
+  "summary_p1": "El Tribunal Supremo Federal alemán (BGH) suspendió el 27 de octubre de 2026 el procedimiento de la política Renate Künast contra Meta y planteó cuestiones prejudiciales al Tribunal de Justicia de la UE (asunto VI ZR 64/24), informa Legal Tribune Online. Künast pide que Facebook elimine todas las variantes de contenido idéntico de un meme con una frase que ella nunca dijo, sin tener que señalar cada publicación; los tribunales de Fráncfort ya le habían dado la razón en lo esencial. El BGH, que esperaba aclararlo con la sentencia Russmedia del TJUE de diciembre de 2025, pregunta ahora si una red social es plenamente responsable del tratamiento de datos en el sentido del RGPD, si le protegen los artículos 12 a 15 de la Directiva de comercio electrónico aunque cure contenidos con algoritmos y cuándo es un servicio de alojamiento según el DSA.",
+  "summary_p2": "La respuesta del TJUE decidirá si las grandes plataformas deben buscar y eliminar por su cuenta las copias de un contenido ilícito una vez notificado, o si basta con retirar lo que se les señala. Para los despachos que representan a afectados por desinformación o difamación, y para los equipos jurídicos de las plataformas, el resultado puede cambiar los costes de moderación y el alcance de las órdenes judiciales en toda la UE; también puede matizar la sentencia Russmedia, muy criticada por sus efectos sobre la libertad de expresión. Matiz: no hay decisión de fondo y el procedimiento, iniciado hace más de cuatro años, seguirá suspendido hasta que responda el TJUE.",
+  "why_sota": "Cuestión prejudicial clave sobre la responsabilidad de las redes sociales por contenido idéntico al ya notificado.",
+  "why_now": "Legal Tribune Online, 27 oct 2026. NEW frente a 09-29→10-27.",
+  "geo": [
+    "DE",
+    "EU"
+  ],
+  "topics": [
+    "plataformas",
+    "dsa",
+    "proteccion-de-datos",
+    "jurisprudencia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/nachrichten/n/vi-zr-64/24-bgh-kuenast-meta-facebook-meme-eugh",
+      "cited_title": "Grundsatzverfahren gegen Meta: BGH wartet im Fall Künast nochmals auf den EuGH",
+      "accessed": "2026-10-28"
+    }
+  ],
+  "entities": [
+    "ent-bgh",
+    "ent-meta",
+    "ent-tjue",
+    "ent-legal-tribune-online"
+  ],
+  "lang": "es",
+  "status": "published"
+}

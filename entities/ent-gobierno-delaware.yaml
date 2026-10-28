@@ -1,0 +1,12 @@
+id: ent-gobierno-delaware
+name: Gobierno de Delaware
+type: government
+url: https://delaware.gov/
+geo:
+- US
+aliases:
+- State of Delaware
+- Delaware Secretary of State
+notes: Gobierno estatal de Delaware, incluida su Secretaría de Estado (registro de
+  sociedades). Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-dentons
+name: Dentons
+type: law_firm
+url: https://www.dentons.com/
+geo:
+- Global
+- IE
+aliases: []
+notes: Despacho internacional; el informe citado lo firma su oficina de Dublín. Ficha
+  mínima.
+stub: true

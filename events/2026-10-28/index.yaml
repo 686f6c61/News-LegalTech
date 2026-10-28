@@ -1,0 +1,71 @@
+scan_id: full-radar-2026-10-28
+date: '2026-10-28'
+release: 28.10.26
+count: 10
+ai_share: 0.7
+dedup_against: events/2026-09-29 → 2026-10-27 + scans PASS
+event_ids:
+- evt-2026-10-28-latham-harvey-herramienta-ia-constitucion-fondos
+- evt-2026-10-28-casepoint-ai-investigator-agent-alegaciones-citas-documento
+- evt-2026-10-28-jus-mundi-beta-privada-buscador-arbitros-ia
+- evt-2026-10-28-dentons-informe-correspondencia-juridica-generada-ia-no-se-frenara
+- evt-2026-10-28-aepd-decalogo-asistentes-agentes-ia-personas-usuarias
+- evt-2026-10-28-delaware-propone-empresas-dirigidas-agentes-ia-comer-pide-documentos
+- evt-2026-10-28-padres-demandan-openai-gpt-4o-medicacion-antiepileptica
+- evt-2026-10-28-tsj-cataluna-zara-no-puede-exigir-dias-reposo-permiso-retribuido
+- evt-2026-10-28-bgh-kunast-meta-nueva-cuestion-prejudicial-tjue-plataformas
+- evt-2026-10-28-milbank-sube-sueldo-entrada-associates-alemania-200000-euros
+events:
+- id: evt-2026-10-28-latham-harvey-herramienta-ia-constitucion-fondos
+  sota_score: 7.7
+  ai_legaltech: true
+  title: Latham & Watkins y Harvey desarrollan juntos una herramienta de IA para constituir
+    fondos de inversión que Harvey podrá vender después a otros despachos
+- id: evt-2026-10-28-casepoint-ai-investigator-agent-alegaciones-citas-documento
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Casepoint lanza un agente de IA que investiga alegaciones, busca las pruebas
+    que las sostienen o las desmienten y cita cada hecho a su documento de origen
+- id: evt-2026-10-28-jus-mundi-beta-privada-buscador-arbitros-ia
+  sota_score: 6.9
+  ai_legaltech: true
+  title: Jus Mundi abre en beta privada un buscador de árbitros con IA dentro de Jus
+    AI y pide a organizaciones de diversidad que lo prueben contra sesgos
+- id: evt-2026-10-28-dentons-informe-correspondencia-juridica-generada-ia-no-se-frenara
+  sota_score: 7.1
+  ai_legaltech: true
+  title: Dentons concluye que las cartas jurídicas redactadas con IA por consumidores,
+    empleados e interesados no van a dejar de crecer y ya ofrece un servicio para
+    absorberlas
+- id: evt-2026-10-28-aepd-decalogo-asistentes-agentes-ia-personas-usuarias
+  sota_score: 7.3
+  ai_legaltech: true
+  title: 'La AEPD publica un decálogo para delegar tareas en asistentes y agentes
+    de IA: el agente prepara, la persona aprueba, y nada de pulsar "permitir siempre"'
+- id: evt-2026-10-28-delaware-propone-empresas-dirigidas-agentes-ia-comer-pide-documentos
+  sota_score: 7.5
+  ai_legaltech: true
+  title: Delaware prepara una ley para que un agente de IA dirija una empresa, y el
+    presidente del Comité de Supervisión de la Cámara de Representantes pide documentos
+    y apunta a limitar a los estados
+- id: evt-2026-10-28-padres-demandan-openai-gpt-4o-medicacion-antiepileptica
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Unos padres demandan a OpenAI porque, según la demanda, ChatGPT ayudó a su
+    hija a dejar la medicación antiepiléptica y a ocultarlo a sus médicos antes de
+    morir
+- id: evt-2026-10-28-tsj-cataluna-zara-no-puede-exigir-dias-reposo-permiso-retribuido
+  sota_score: 6.5
+  ai_legaltech: false
+  title: El TSJ de Cataluña declara ilegal que Zara exija que el justificante médico
+    concrete los días de reposo de un familiar para conceder el permiso retribuido
+- id: evt-2026-10-28-bgh-kunast-meta-nueva-cuestion-prejudicial-tjue-plataformas
+  sota_score: 6.6
+  ai_legaltech: false
+  title: El BGH vuelve a suspender el caso Künast contra Meta y pregunta al TJUE si
+    una red social debe borrar por su cuenta las copias de un meme falso
+- id: evt-2026-10-28-milbank-sube-sueldo-entrada-associates-alemania-200000-euros
+  sota_score: 6.2
+  ai_legaltech: false
+  title: Milbank sube a 200.000 euros el sueldo fijo de entrada de sus asociados en
+    Alemania a partir de enero de 2027

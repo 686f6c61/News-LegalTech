@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-28-dentons-informe-correspondencia-juridica-generada-ia-no-se-frenara",
+  "date": "2026-10-28",
+  "type": "research",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Dentons concluye que las cartas jurídicas redactadas con IA por consumidores, empleados e interesados no van a dejar de crecer y ya ofrece un servicio para absorberlas",
+  "short_title": "Dentons: las cartas jurídicas hechas con IA seguirán creciendo",
+  "standfirst": "El informe, basado en entrevistas con abogados internos, también anticipa precios por consumo y advierte de un precipicio de costes.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "In-house",
+  "country": "Irlanda",
+  "piece_type": "Informe",
+  "summary_p1": "El informe From AI Adoption to AI Advantage de Dentons, basado en entrevistas con abogados internos de empresas irlandesas e internacionales, concluye que el crecimiento de la correspondencia jurídica generada con IA no va a estabilizarse pronto, informa Legal Futures el 28 de octubre de 2026. Lo firman los socios de Dublín Carlo Salizzo y David Kirton, que advierten de que las cartas largas y con apariencia jurídica que redactan con IA empleados, interesados en protección de datos o consumidores rara vez ayudan a su caso y pueden ahogar las reclamaciones legítimas. Dentons ya ofrece a sus clientes un servicio gestionado para reclamaciones de alto volumen. El informe añade que sustituir puestos con IA es la excepción, que el precio por consumo sustituirá a la licencia fija y que un entrevistado avisó de un precipicio de costes.",
+  "summary_p2": "Para los departamentos jurídicos y de atención al cliente, la IA no solo cambia cómo trabajan ellos, también cómo les escriben: más reclamaciones, más largas y con más citas, algunas inexactas, que hay que leer y contestar igualmente. Eso abre un mercado para despachos y proveedores que filtren, clasifiquen y respondan a gran escala, y obliga a las empresas a presupuestar ese volumen. La otra lectura es económica: si las herramientas pasan a cobrarse por uso, los costes de IA dejan de ser previsibles y conviene vigilarlos antes de extender su uso. Matiz: es un informe cualitativo de un despacho que vende el servicio que recomienda, sin cifras de volumen.",
+  "why_sota": "Documenta un efecto de segundo orden de la IA: el aumento del volumen de reclamaciones redactadas con IA que reciben las empresas.",
+  "why_now": "Legal Futures, 28 oct 2026. NEW frente a 09-29→10-27.",
+  "geo": [
+    "IE",
+    "UK"
+  ],
+  "topics": [
+    "in-house",
+    "reclamaciones",
+    "precios",
+    "informes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/growth-in-ai-generated-legal-correspondence-not-about-to-level-off",
+      "cited_title": "Growth in AI-generated legal correspondence \"not about to level off\"",
+      "accessed": "2026-10-28"
+    }
+  ],
+  "entities": [
+    "ent-dentons",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

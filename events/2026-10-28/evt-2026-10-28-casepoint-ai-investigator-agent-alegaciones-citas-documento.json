@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-10-28-casepoint-ai-investigator-agent-alegaciones-citas-documento",
+  "date": "2026-10-27",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Casepoint lanza un agente de IA que investiga alegaciones, busca las pruebas que las sostienen o las desmienten y cita cada hecho a su documento de origen",
+  "short_title": "Casepoint lanza un agente de IA que investiga alegaciones con citas",
+  "standfirst": "El AI Investigator Agent se suma a los agentes de relevancia y codificación de Casepoint IQ y estará disponible en noviembre.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "eDiscovery",
+  "country": "Estados Unidos",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "Casepoint presentó el 27 de octubre de 2026 su AI Investigator Agent, según el comunicado que reproduce eDiscovery Today. El agente parte de una alegación o de una hipótesis de investigación y reduce el volumen de documentos a los que contienen pruebas que la apoyan o la contradicen, cita cada hecho al documento del que sale y genera cronologías y un informe de conclusiones. Se integra en Casepoint IQ junto a los agentes de determinación de relevancia y de codificación por cuestiones que la empresa ya ofrecía, y su disponibilidad general está prevista para noviembre. El director de producto, Pete Feinberg, lo presenta como una forma de llegar antes a los hechos relevantes en investigaciones internas y litigios.",
+  "summary_p2": "El eDiscovery pasa de clasificar documentos a responder preguntas sobre los hechos, y la cita a la fuente es lo que permite que un abogado verifique el resultado antes de usarlo. Para despachos y departamentos de cumplimiento, este tipo de agente puede acortar la fase inicial de una investigación interna, aunque obliga a documentar qué se le preguntó, qué descartó y quién revisó sus conclusiones, porque el método puede acabar discutido ante un tribunal o un regulador. Para los proveedores, la competencia ya no está en la revisión asistida, que es un producto maduro, sino en los agentes que trabajan sobre el caso completo. Matiz: es un comunicado de la propia empresa, Casepoint patrocina eDiscovery Today y no hay datos independientes de precisión.",
+  "why_sota": "Los agentes de eDiscovery pasan de la relevancia a la investigación de hechos con trazabilidad documento a documento.",
+  "why_now": "eDiscovery Today, 27 oct 2026. NEW frente a 09-29→10-27.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ediscovery",
+    "agentes",
+    "investigaciones-internas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ediscovery-today",
+      "url": "https://ediscoverytoday.com/2026/10/27/casepoint-launches-ai-investigator-agent/",
+      "cited_title": "Casepoint Launches AI Investigator Agent",
+      "accessed": "2026-10-28"
+    }
+  ],
+  "entities": [
+    "ent-casepoint",
+    "ent-ediscovery-today"
+  ],
+  "lang": "es",
+  "status": "published"
+}

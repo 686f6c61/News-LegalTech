@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-28-aepd-decalogo-asistentes-agentes-ia-personas-usuarias",
+  "date": "2026-10-27",
+  "type": "guidance",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "La AEPD publica un decálogo para delegar tareas en asistentes y agentes de IA: el agente prepara, la persona aprueba, y nada de pulsar \"permitir siempre\"",
+  "short_title": "La AEPD publica un decálogo para usar agentes de IA sin perder control",
+  "standfirst": "Propone cinco preguntas antes de delegar y advierte de las instrucciones ocultas en correos, webs y documentos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Protección de datos",
+  "country": "España",
+  "piece_type": "Guía",
+  "summary_p1": "La Agencia Española de Protección de Datos publicó el 27 de octubre de 2026 el documento Asistentes y agentes de IA: Decálogo para personas usuarias. Propone hacerse cinco preguntas antes de delegar una tarea: qué puede ver el asistente, qué puede recordar, qué puede hacer en nuestro nombre, adónde envía los datos y si afecta a otras personas. Recomienda conceder solo los permisos imprescindibles, no pulsar \"permitir siempre\" sin entender su alcance, exigir confirmación antes de enviar, pagar, contratar o borrar, y usar los controles de memoria e historial en lugar de pedirle al asistente que olvide. Advierte de que una web, un correo o un documento pueden contener instrucciones ocultas para el agente y cita el caso de un agente que cerró una venta y dio la dirección del vendedor al comprador sin que este lo supiera.",
+  "summary_p2": "El texto va dirigido a usuarios, pero describe con claridad lo que la AEPD espera ver en un buen producto: permisos diferenciados, confirmación previa de las acciones con efectos, registros de lo que hizo el agente, memoria que se pueda consultar y borrar y proveedores identificables que permitan ejercer derechos en la UE. Para quien desarrolla o compra agentes, incluidos despachos y departamentos jurídicos, es una lista de comprobación útil. El decálogo recuerda además que el usuario puede ser responsable de las acciones que permitió a su agente, un punto relevante cuando el agente firma, contrata o comparte datos de terceros. Matiz: son recomendaciones, no una norma ni criterio sancionador, y es distinto de las orientaciones de la AEPD de septiembre.",
+  "why_sota": "Primera guía de la autoridad española específica sobre agentes de IA que actúan en nombre del usuario.",
+  "why_now": "AEPD y Lawyerpress, 27 oct 2026. NEW frente a 09-29→10-27.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "proteccion-de-datos",
+    "agentes",
+    "guias"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aepd",
+      "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-publica-un-decalogo-para-delegar-tareas-en-asistentes",
+      "cited_title": "La AEPD publica un decálogo para delegar tareas en asistentes y agentes de IA sin perder el control sobre los datos personales",
+      "accessed": "2026-10-28"
+    },
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/10/27/la-aepd-advierte-de-los-riesgos-de-los-agentes-de-ia-y-recomienda-no-permitirles-actuar-sin-autorizacion/",
+      "cited_title": "La AEPD advierte de los riesgos de los agentes de IA y recomienda no permitirles actuar sin autorización",
+      "accessed": "2026-10-28"
+    }
+  ],
+  "entities": [
+    "ent-aepd",
+    "ent-lawyerpress"
+  ],
+  "lang": "es",
+  "status": "published"
+}

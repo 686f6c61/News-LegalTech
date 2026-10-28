@@ -1,0 +1,10 @@
+id: ent-lawyerpress
+name: Lawyerpress
+type: media
+url: https://www.lawyerpress.com/
+geo:
+- ES
+aliases:
+- Lawyerpress News
+notes: Medio español de noticias jurídicas. Ficha mínima.
+stub: true

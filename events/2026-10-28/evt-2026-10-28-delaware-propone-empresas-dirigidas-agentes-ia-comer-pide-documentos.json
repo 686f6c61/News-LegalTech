@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-28-delaware-propone-empresas-dirigidas-agentes-ia-comer-pide-documentos",
+  "date": "2026-10-27",
+  "type": "regulation",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Delaware prepara una ley para que un agente de IA dirija una empresa, y el presidente del Comité de Supervisión de la Cámara de Representantes pide documentos y apunta a limitar a los estados",
+  "short_title": "Delaware quiere empresas dirigidas por IA y el Congreso pide cuentas",
+  "standfirst": "El borrador crea la Artificial Intelligence Company, con un sandbox de 30 meses y un socio protegido salvo fraude o infracapitalización.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación IA",
+  "country": "Estados Unidos",
+  "piece_type": "Regulación",
+  "summary_p1": "Un borrador de ley de Delaware crearía la Artificial Intelligence Company (AIC), una sociedad cuyo negocio diario lo gestiona un agente de IA, informa Ars Technica el 27 de octubre de 2026. La AIC podría tener cualquier objeto lícito salvo la banca, demandar y ser demandada, tener bienes y contraer obligaciones, y debería llevar un registro de su actividad; tendría un único socio, persona o empresa, que la financia y responde solo si la infracapitaliza, la usa para cometer fraude o una infracción dolosa. Se probaría en un sandbox regulatorio de 30 meses. La idea la anunció en julio en Fortune la secretaria de Estado, Charuni Patibanda-Sanchez, junto al fundador de Norm Ai. Ahora el presidente del Comité de Supervisión de la Cámara, James Comer, ha pedido documentos al gobernador Matt Meyer y sugiere una ley federal que limite la regulación estatal de la IA.",
+  "summary_p2": "Delaware es donde se constituyen unas dos terceras partes de las empresas del Fortune 500, así que si allí se admite que un agente dirija una sociedad, la pregunta de quién responde por los actos de una IA deja de ser teórica. Para los abogados societarios y de responsabilidad civil, el diseño importa: el socio queda protegido salvo excepciones, y los perjudicados tendrían que reclamar contra una sociedad cuya solvencia depende de su capitalización. Para los proveedores de agentes es una oportunidad de dar forma jurídica a la contratación automatizada, y para el resto de estados un precedente que el Congreso ya quiere vigilar. Matiz: es un borrador que aún no se ha presentado al legislativo estatal.",
+  "why_sota": "Primera propuesta de un gran registro societario para dar personalidad jurídica operativa a una entidad dirigida por un agente de IA.",
+  "why_now": "Ars Technica, 27 oct 2026. NEW frente a 09-29→10-27.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "derecho-societario",
+    "agentes",
+    "responsabilidad",
+    "regulacion-ia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "cited_title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "accessed": "2026-10-28"
+    }
+  ],
+  "entities": [
+    "ent-gobierno-delaware",
+    "ent-house-oversight-committee",
+    "ent-norm-ai",
+    "ent-ars-technica"
+  ],
+  "lang": "es",
+  "status": "published"
+}

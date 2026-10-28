@@ -1,0 +1,10 @@
+id: ent-ccoo
+name: CCOO
+type: association
+url: https://www.ccoo.es/
+geo:
+- ES
+aliases:
+- Comisiones Obreras
+notes: Sindicato español. Ficha mínima.
+stub: true

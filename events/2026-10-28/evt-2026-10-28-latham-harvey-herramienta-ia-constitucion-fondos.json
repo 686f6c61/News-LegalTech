@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-28-latham-harvey-herramienta-ia-constitucion-fondos",
+  "date": "2026-10-27",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "Latham & Watkins y Harvey desarrollan juntos una herramienta de IA para constituir fondos de inversión que Harvey podrá vender después a otros despachos",
+  "short_title": "Latham y Harvey crean una herramienta de IA para constituir fondos",
+  "standfirst": "Latham actúa como socio de diseño principal y se queda su conocimiento de mercado; el producto se integrará en la suite de Harvey.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Alianza",
+  "summary_p1": "Latham & Watkins y Harvey están construyendo un producto de IA para la constitución de fondos de inversión dentro de la suite de Harvey, informa Legal Business el 27 de octubre de 2026. La herramienta combinará agentes, gestión de proyectos, análisis documental y automatización de procesos para el trabajo más repetitivo de estas operaciones, como las side letters, los documentos de suscripción y los acuerdos de socios (LPA). Latham es el socio de diseño principal y la herramienta podrá venderse más adelante a otros despachos, aunque sin la inteligencia de mercado propia de Latham. Según el despacho no hay ajuste fino de un modelo y aún no está decidido qué modelo usará. Hablan del proyecto el director de sistemas, Rene Mendoza, el presidente de la práctica de fondos, Matthew Chase, y la socia Amber Banks.",
+  "summary_p2": "El acuerdo sigue una tendencia clara: los grandes despachos ya no se limitan a comprar licencias, sino que codiseñan productos con los proveedores, como hizo Kirkland & Ellis con Palantir en junio o varios despachos con OpenAI. Para el despacho que diseña, la ventaja es moldear la herramienta a su forma de trabajar y llegar antes; el coste es que su método acaba, en parte, en un producto que podrán comprar sus competidores. Para el resto del mercado, la constitución de fondos, con mucho documento estándar y mucha negociación repetida, se perfila como una de las primeras áreas transaccionales donde la IA agéntica pasa del piloto al producto. Matiz: no hay fecha de lanzamiento ni precio, y el detalle procede de las declaraciones del despacho.",
+  "why_sota": "Un despacho de primera línea codiseña con Harvey un producto vertical agéntico que después se comercializará a terceros.",
+  "why_now": "Legal Business, 27 oct 2026. NEW frente a 09-29→10-27.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "despachos",
+    "agentes",
+    "fondos",
+    "alianzas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-business",
+      "url": "https://www.legalbusiness.co.uk/law-firms/latham-teams-up-with-harvey-to-develop-ai-fund-formation-tools/",
+      "cited_title": "Latham teams up with Harvey to develop AI fund formation tools",
+      "accessed": "2026-10-28"
+    }
+  ],
+  "entities": [
+    "ent-latham-watkins",
+    "ent-harvey",
+    "ent-kirkland-ellis",
+    "ent-legal-business"
+  ],
+  "lang": "es",
+  "status": "published"
+}

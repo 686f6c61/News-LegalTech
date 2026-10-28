@@ -1,0 +1,10 @@
+id: ent-tsj-cataluna
+name: Tribunal Superior de Justicia de Cataluña
+type: government
+url: https://www.poderjudicial.es/
+geo:
+- ES
+aliases:
+- TSJC
+notes: Tribunal Superior de Justicia de Cataluña. Ficha mínima.
+stub: true

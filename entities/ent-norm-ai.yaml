@@ -1,0 +1,9 @@
+id: ent-norm-ai
+name: Norm Ai
+type: vendor
+url: https://www.norm.ai/
+geo:
+- US
+aliases: []
+notes: Empresa de agentes de IA para cumplimiento normativo. Ficha mínima.
+stub: true

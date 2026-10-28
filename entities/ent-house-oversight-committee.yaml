@@ -1,0 +1,10 @@
+id: ent-house-oversight-committee
+name: Comité de Supervisión de la Cámara de Representantes de EE. UU.
+type: government
+url: https://oversight.house.gov/
+geo:
+- US
+aliases:
+- House Oversight Committee
+notes: Comité del Congreso de EE. UU. Ficha mínima.
+stub: true

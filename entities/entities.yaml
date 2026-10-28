@@ -4119,3 +4119,116 @@ entities:
   - CCBE
   notes: Consejo de la abogacía europea. Ficha mínima.
   stub: true
+- id: ent-latham-watkins
+  name: Latham & Watkins
+  type: law_firm
+  url: https://www.lw.com/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Latham
+  notes: Despacho internacional de origen estadounidense. Ficha mínima.
+  stub: true
+- id: ent-ediscovery-today
+  name: eDiscovery Today
+  type: media
+  url: https://ediscoverytoday.com/
+  geo:
+  - US
+  aliases: []
+  notes: Blog de noticias de eDiscovery de Doug Austin. Ficha mínima.
+  stub: true
+- id: ent-dentons
+  name: Dentons
+  type: law_firm
+  url: https://www.dentons.com/
+  geo:
+  - Global
+  - IE
+  aliases: []
+  notes: Despacho internacional; el informe citado lo firma su oficina de Dublín.
+    Ficha mínima.
+  stub: true
+- id: ent-lawyerpress
+  name: Lawyerpress
+  type: media
+  url: https://www.lawyerpress.com/
+  geo:
+  - ES
+  aliases:
+  - Lawyerpress News
+  notes: Medio español de noticias jurídicas. Ficha mínima.
+  stub: true
+- id: ent-gobierno-delaware
+  name: Gobierno de Delaware
+  type: government
+  url: https://delaware.gov/
+  geo:
+  - US
+  aliases:
+  - State of Delaware
+  - Delaware Secretary of State
+  notes: Gobierno estatal de Delaware, incluida su Secretaría de Estado (registro
+    de sociedades). Ficha mínima.
+  stub: true
+- id: ent-house-oversight-committee
+  name: Comité de Supervisión de la Cámara de Representantes de EE. UU.
+  type: government
+  url: https://oversight.house.gov/
+  geo:
+  - US
+  aliases:
+  - House Oversight Committee
+  notes: Comité del Congreso de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-norm-ai
+  name: Norm Ai
+  type: vendor
+  url: https://www.norm.ai/
+  geo:
+  - US
+  aliases: []
+  notes: Empresa de agentes de IA para cumplimiento normativo. Ficha mínima.
+  stub: true
+- id: ent-tsj-cataluna
+  name: Tribunal Superior de Justicia de Cataluña
+  type: government
+  url: https://www.poderjudicial.es/
+  geo:
+  - ES
+  aliases:
+  - TSJC
+  notes: Tribunal Superior de Justicia de Cataluña. Ficha mínima.
+  stub: true
+- id: ent-ccoo
+  name: CCOO
+  type: association
+  url: https://www.ccoo.es/
+  geo:
+  - ES
+  aliases:
+  - Comisiones Obreras
+  notes: Sindicato español. Ficha mínima.
+  stub: true
+- id: ent-inditex
+  name: Inditex
+  type: company
+  url: https://www.inditex.com/
+  geo:
+  - ES
+  - Global
+  aliases:
+  - Zara
+  notes: Grupo textil español, propietario de Zara. Ficha mínima.
+  stub: true
+- id: ent-milbank
+  name: Milbank
+  type: law_firm
+  url: https://www.milbank.com/
+  geo:
+  - US
+  - DE
+  aliases: []
+  notes: Despacho estadounidense con oficinas en Alemania. Ficha mínima.
+  stub: true

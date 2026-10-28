@@ -1,0 +1,11 @@
+id: ent-inditex
+name: Inditex
+type: company
+url: https://www.inditex.com/
+geo:
+- ES
+- Global
+aliases:
+- Zara
+notes: Grupo textil español, propietario de Zara. Ficha mínima.
+stub: true

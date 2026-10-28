@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-28-milbank-sube-sueldo-entrada-associates-alemania-200000-euros",
+  "date": "2026-10-27",
+  "type": "market",
+  "sota_score": 6.2,
+  "ai_legaltech": false,
+  "title": "Milbank sube a 200.000 euros el sueldo fijo de entrada de sus asociados en Alemania a partir de enero de 2027",
+  "short_title": "Milbank sube a 200.000 euros el sueldo de entrada en Alemania",
+  "standfirst": "La subida, de 20.000 euros, se aplicará a todas las antigüedades y se suma a los movimientos de Latham y de despachos alemanes.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Mercado legal",
+  "country": "Alemania",
+  "piece_type": "Mercado",
+  "summary_p1": "Milbank subirá el 1 de enero de 2027 los sueldos de sus asociados en Alemania y el fijo del primer año pasará de 180.000 a 200.000 euros, al que se pueden sumar bonus por resultados, informa Legal Tribune Online el 27 de octubre de 2026. La subida se aplicará de forma equivalente a todas las antigüedades; hoy un asociado de cuarto año cobra 205.000 euros y uno de sexto, 250.000. El socio director Steffen Oppenländer lo justifica en que los mejores asuntos exigen los mejores abogados. Latham & Watkins había subido su sueldo de entrada en Alemania a 180.000 euros en octubre, y despachos alemanes como Lark o Redeker Sellner Dahs también han elevado sus cifras.",
+  "summary_p2": "La guerra por el talento joven en el mercado alemán se acelera, con subidas cada vez más seguidas en los despachos estadounidenses y presión sobre los nacionales. Para los despachos que compiten por los mismos perfiles, la cifra marca una nueva referencia y encarece la base de costes justo cuando los clientes preguntan cuánto trabajo hará la IA y cuánto pagarán por horas de asociados. Para los departamentos jurídicos de empresa, aumenta la distancia salarial con los despachos y complica la captación. Matiz: la información procede del anuncio del despacho y de sus respuestas a LTO; no incluye datos de bonus.",
+  "why_sota": "Nuevo máximo de sueldo de entrada en Alemania que fija referencia para el mercado de grandes despachos.",
+  "why_now": "Legal Tribune Online, 27 oct 2026. NEW frente a 09-29→10-27.",
+  "geo": [
+    "DE"
+  ],
+  "topics": [
+    "talento",
+    "retribucion",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/kanzleien-unternehmen/k/milbank-mehr-geld-fuer-associates-in-deutschland",
+      "cited_title": "Mehr Geld für Associates in Deutschland: Milbank hebt Einstiegsgehalt auf 200.000 Euro an",
+      "accessed": "2026-10-28"
+    }
+  ],
+  "entities": [
+    "ent-milbank",
+    "ent-latham-watkins",
+    "ent-legal-tribune-online"
+  ],
+  "lang": "es",
+  "status": "published"
+}
