@@ -1,0 +1,11 @@
+id: ent-ny-governor
+name: Gobernadora del Estado de Nueva York
+type: government
+url: https://www.governor.ny.gov/
+geo:
+- US
+aliases:
+- Governor Kathy Hochul
+- Governor of New York
+notes: Oficina de la gobernadora de Nueva York. Ficha mínima.
+stub: true

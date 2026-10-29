@@ -1,0 +1,11 @@
+id: ent-stellantis
+name: Stellantis
+type: company
+url: https://www.stellantis.com/
+geo:
+- Global
+- ES
+aliases:
+- Stellantis España
+notes: Grupo automovilístico. Ficha mínima.
+stub: true

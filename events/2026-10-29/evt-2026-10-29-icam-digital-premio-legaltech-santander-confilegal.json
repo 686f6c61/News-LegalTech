@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-29-icam-digital-premio-legaltech-santander-confilegal",
+  "date": "2026-10-28",
+  "type": "other",
+  "sota_score": 5.9,
+  "ai_legaltech": false,
+  "title": "El proyecto ICAM Digital del Colegio de la Abogacía de Madrid gana el Premio Legaltech Santander de los IX Premios Confilegal",
+  "short_title": "ICAM Digital gana el Premio Legaltech Santander de Confilegal",
+  "standfirst": "El jurado valora la digitalización del turno de oficio, la justicia gratuita y del 100% de los expedientes de deontología.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Profesión",
+  "country": "España",
+  "piece_type": "Mercado",
+  "summary_p1": "El proyecto ICAM Digital del Ilustre Colegio de la Abogacía de Madrid ha ganado el Premio Legaltech Santander en la IX edición de los Premios Confilegal, anunció el propio ICAM el 28 de octubre de 2026. El jurado, de 24 miembros, destaca la modernización del turno de oficio, la justicia gratuita, la colegiación, la deontología y los honorarios. Según el Colegio, en 2025 digitalizó el 100% de los expedientes de deontología y el 87% de los de honorarios, dentro de una estrategia que incluye el portal mi.icam.es y la atención omnicanal. El ICAM gestiona más de 468.000 expedientes al año para cerca de 74.000 colegiados. El premio se entregará el 25 de noviembre en Madrid.",
+  "summary_p2": "El reconocimiento apunta a una legaltech menos visible que la IA generativa pero con mucho impacto diario: la digitalización de los servicios colegiales de los que dependen el turno de oficio y la justicia gratuita. Para los abogados de Madrid, el efecto práctico está en tramitar en línea lo que antes exigía papel y desplazamientos. Para otros colegios, el ICAM se convierte en referencia de lo que se puede medir. Matiz: las cifras proceden del propio Colegio.",
+  "why_sota": "Premio sectorial a la transformación digital del mayor colegio de la abogacía de España.",
+  "why_now": "ICAM, 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "colegios profesionales",
+    "digitalizacion",
+    "turno de oficio"
+  ],
+  "sources": [
+    {
+      "source_id": "src-icam",
+      "url": "https://web.icam.es/icam-digital-reconocido-con-el-premio-legaltech-santander-en-los-ix-premios-confilegal/",
+      "cited_title": "ICAM Digital, reconocido con el Premio Legaltech Santander en los IX Premios Confilegal",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-icam",
+    "ent-confilegal",
+    "ent-banco-santander"
+  ],
+  "lang": "es",
+  "status": "published"
+}

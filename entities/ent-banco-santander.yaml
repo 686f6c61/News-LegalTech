@@ -1,0 +1,12 @@
+id: ent-banco-santander
+name: Banco Santander
+type: company
+url: https://www.santander.com/
+geo:
+- ES
+- Global
+aliases:
+- Santander
+notes: Banco español; patrocina el Premio Legaltech de los Premios Confilegal. Ficha
+  mínima.
+stub: true

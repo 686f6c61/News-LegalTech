@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-29-doj-investiga-compra-hugging-face-nvidia-competencia-ia",
+  "date": "2026-10-28",
+  "type": "regulation",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "El Departamento de Justicia de EE. UU. investiga si la compra de Hugging Face por Nvidia daña la competencia en IA al darle el control de un punto clave de distribución",
+  "short_title": "El DOJ investiga la compra de Hugging Face por Nvidia",
+  "standfirst": "Forma parte de una investigación más amplia sobre Nvidia que empezó con Biden y sigue con Trump; ni el DOJ ni Nvidia comentaron.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "Estados Unidos",
+  "piece_type": "Supervisión",
+  "summary_p1": "El Departamento de Justicia de EE. UU. está examinando si la operación por la que Nvidia adquiere Hugging Face podría dañar la competencia en la industria de la IA al darle el control de un punto clave de distribución de modelos, informó Reuters el 28 de octubre de 2026, según recoge PYMNTS. Las preguntas forman parte de una investigación más amplia sobre la conducta de Nvidia, iniciada durante la Administración Biden y continuada con Trump, que también abarca otras adquisiciones e inversiones, sus prácticas de venta y posibles presiones a clientes. CNBC confirmó la investigación con otra fuente. Nvidia ha dicho que, tras la compra, Hugging Face seguirá trabajando con distintos fabricantes de chips, nubes y empresas de IA.",
+  "summary_p2": "Hugging Face es el repositorio donde se publican y descargan buena parte de los modelos abiertos, incluidos los que usan muchas herramientas jurídicas y departamentos que prefieren modelos propios. Que el antimonopolio estadounidense mire esta operación indica que los reguladores tratan la distribución de modelos como infraestructura crítica. Para quien construye sobre modelos abiertos, el riesgo práctico es la dependencia de un único intermediario y las condiciones de acceso futuras. Matiz: una investigación no prueba ninguna infracción ni implica necesariamente una demanda; la información procede de fuentes anónimas.",
+  "why_sota": "El control antimonopolio llega a la principal plataforma de distribución de modelos abiertos de IA.",
+  "why_now": "PYMNTS (citando a Reuters), 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "competencia",
+    "modelos abiertos",
+    "infraestructura"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pymnts",
+      "url": "https://www.pymnts.com/legal/2026/doj-probes-nvidias-hugging-face-deal-over-ai-competition-concerns/",
+      "cited_title": "DOJ Probes Nvidia’s Hugging Face Deal Over AI Competition Concerns",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-us-doj",
+    "ent-nvidia",
+    "ent-hugging-face",
+    "ent-pymnts"
+  ],
+  "lang": "es",
+  "status": "published"
+}

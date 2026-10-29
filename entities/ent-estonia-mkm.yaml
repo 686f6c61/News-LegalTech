@@ -1,0 +1,12 @@
+id: ent-estonia-mkm
+name: Ministerio de Asuntos Económicos y Comunicaciones de Estonia
+type: government
+url: https://www.mkm.ee/
+geo:
+- EE
+aliases:
+- Majandus- ja Kommunikatsiooniministeerium
+- MKM
+notes: Ministerio estonio que impulsa el registro de identidades para agentes. Ficha
+  mínima.
+stub: true

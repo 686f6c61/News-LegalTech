@@ -1,0 +1,50 @@
+{
+  "id": "evt-2026-10-29-nueva-york-ley-prohibe-funciones-chatbots-ia-menores",
+  "date": "2026-10-28",
+  "type": "regulation",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Nueva York prohíbe a los chatbots de IA fingirse humanos, crear dependencia emocional o hablar de autolesiones con menores, y exige verificar la edad",
+  "short_title": "Nueva York prohíbe funciones peligrosas de chatbots con menores",
+  "standfirst": "La fiscal general Letitia James podrá pedir multas de hasta 25.000 dólares por infracción e incluso la destrucción de modelos entrenados con datos ilícitos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación de la IA",
+  "country": "Estados Unidos",
+  "piece_type": "Regulación",
+  "summary_p1": "La gobernadora de Nueva York, Kathy Hochul, firmó el 28 de octubre de 2026 la ley S.9051B/A.10379C, que prohíbe ofrecer a menores de 18 años, o a cualquier usuario cuya mayoría de edad no se haya confirmado, chatbots que finjan ser una persona real o tener emociones, que reclamen una relación sentimental o de autoridad con el menor, que usen información de salud de conversaciones anteriores, que animen a la autolesión, a los trastornos alimentarios o a guardar secretos ante los padres, o que generen contenido sexual. Las empresas deberán verificar la edad con más de un método, al menos uno que no dependa solo de un documento oficial, y borrar después esos datos. La fiscal general podrá pedir multas de hasta 25.000 dólares por infracción, daños, restitución y la destrucción de los datos o de los modelos entrenados con ellos, y abrirá una web de denuncias.",
+  "summary_p2": "Nueva York no se limita a exigir avisos: prohíbe funciones de diseño concretas, un modelo que otros estados pueden copiar. Para las empresas que ofrecen asistentes conversacionales al público, obliga a revisar el producto, no solo los términos de uso: detección de edad, memoria de conversaciones y respuestas en temas sensibles. Para sus abogados, la sanción de destruir modelos entrenados con datos ilícitos es la que más riesgo concentra. Matiz: la ley se aplicará «en los próximos meses» y el comunicado no fija fecha exacta; el análisis de Law.com está tras suscripción.",
+  "why_sota": "Ley estatal que prohíbe funciones de diseño de chatbots para menores, con verificación de edad y destrucción de modelos como remedio.",
+  "why_now": "Comunicado de la gobernadora de Nueva York y Law.com (New York Law Journal), 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "regulacion",
+    "menores",
+    "chatbots",
+    "verificacion de edad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ny-governor",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+      "cited_title": "Governor Hochul Signs Nation-Leading Legislation to Protect Kids From AI Chatbots and to Ensure Baby Monitor Safety",
+      "accessed": "2026-10-29"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/newyorklawjournal/2026/10/28/ny-implements-chatbot-restrictions-for-interactions-with-minors-puts-ai-companies-on-notice/",
+      "cited_title": "NY Implements Chatbot Restrictions for Interactions With Minors, Puts AI Companies 'On Notice'",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-ny-governor",
+    "ent-ny-attorney-general"
+  ],
+  "lang": "es",
+  "status": "published"
+}

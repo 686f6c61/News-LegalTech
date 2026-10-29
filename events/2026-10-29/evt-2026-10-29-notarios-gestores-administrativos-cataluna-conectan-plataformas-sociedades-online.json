@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-29-notarios-gestores-administrativos-cataluna-conectan-plataformas-sociedades-online",
+  "date": "2026-10-27",
+  "type": "other",
+  "sota_score": 6.2,
+  "ai_legaltech": false,
+  "title": "Notarios y gestores administrativos de Cataluña conectan sus plataformas para constituir sociedades y otorgar poderes en línea desde la gestoría",
+  "short_title": "Notarios y gestores conectan plataformas para trámites en línea",
+  "standfirst": "La conexión entre GENOE y la Sede Electrónica Notarial permitió constituir una sociedad limitada por videoconferencia en la presentación.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Justicia digital",
+  "country": "España",
+  "piece_type": "Integración",
+  "summary_p1": "El Colegio Notarial de Cataluña y el Colegio Oficial de Gestores Administrativos de Cataluña presentaron el 27 de octubre en Barcelona la interconexión de la plataforma GENOE de los gestores con la Sede Electrónica Notarial, informa Lawyerpress el 28 de octubre de 2026. Permite iniciar desde una gestoría trámites notariales que la ley ya admite por videoconferencia, como la constitución de sociedades, poderes y su revocación, pólizas mercantiles, modificaciones societarias y algunas actas, con el notario elegido por el cliente. En la demostración se constituyó una sociedad limitada íntegramente en línea con videoconferencia y firma electrónica cualificada. El sistema ya se había presentado en Madrid por el Consejo General del Notariado y el de los gestores.",
+  "summary_p2": "Es un paso práctico en la digitalización de la fe pública: el notario sigue controlando la legalidad, pero el punto de entrada se acerca a donde ya están pymes y autónomos. Para los despachos que asesoran en constitución de sociedades, aparece un canal competidor apoyado en la red territorial de gestorías, sobre todo en zonas rurales. Para los vendors de software societario, la integración con la Sede Electrónica Notarial es la vía a seguir. Matiz: la información procede de las corporaciones; no hay datos de uso ni de costes.",
+  "why_sota": "Interconexión entre dos colectivos profesionales que lleva la actuación notarial telemática a la gestoría.",
+  "why_now": "Lawyerpress, 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "notariado",
+    "sociedades",
+    "digitalizacion",
+    "videoconferencia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/10/28/notarios-y-gestores-administrativos-conectan-sus-plataformas-para-facilitar-la-constitucion-de-sociedades-y-otros-tramites-en-linea/",
+      "cited_title": "Notarios y gestores administrativos conectan sus plataformas para facilitar la constitución de sociedades y otros trámites en línea",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-colegio-notarial-cataluna",
+    "ent-gestores-administrativos-cataluna",
+    "ent-lawyerpress"
+  ],
+  "lang": "es",
+  "status": "published"
+}

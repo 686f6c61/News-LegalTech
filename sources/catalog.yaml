@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 161
+count: 162
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1158,6 +1158,17 @@ sources:
   frequency: irregular
   why: Notas oficiales del gobernador de California (gov.ca.gov), incluida la firma
     de SB 574.
+  region: US
+  lang: EN
+  tier: archive
+- id: src-ny-governor
+  name: Governor of New York
+  url: https://www.governor.ny.gov/
+  type: regulator
+  kind: news
+  frequency: irregular
+  why: Notas oficiales de la gobernadora de Nueva York (governor.ny.gov), incluida
+    la firma de la ley S.9051B/A.10379C sobre chatbots de IA y menores.
   region: US
   lang: EN
   tier: archive

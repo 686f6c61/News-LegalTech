@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-29-supremo-eleva-5-por-ciento-indemnizacion-cartel-coches",
+  "date": "2026-10-22",
+  "type": "case_law",
+  "sota_score": 6.7,
+  "ai_legaltech": false,
+  "title": "El Tribunal Supremo eleva del 2% al 5% del precio la indemnización mínima por el cártel de coches y desestima el recurso de Stellantis España",
+  "short_title": "El Supremo eleva al 5% la indemnización por el cártel de coches",
+  "standfirst": "La sentencia 1644/2026 considera insuficiente el 2% fijado en Pontevedra y recurre a la estimación judicial del daño.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Litigación",
+  "country": "España",
+  "piece_type": "Sentencia",
+  "summary_p1": "El Tribunal Supremo, en su sentencia 1644/2026 de 22 de octubre, ha elevado del 2% al 5% del precio del vehículo, más intereses legales desde la compra, la indemnización por el cártel de fabricantes de coches, informa Lawyerpress el 28 de octubre de 2026. Estima el recurso de casación de Arriaga Asociados frente a las resoluciones del Juzgado de lo Mercantil número 3 y de la Audiencia Provincial de Pontevedra, condena a Stellantis España y desestima su recurso con costas. El perito de los demandantes cifraba el sobreprecio en el 11,064%, pero ante la dificultad de cuantificarlo con exactitud el tribunal recurre a la estimación judicial del daño y fija el 5% como mínimo, por considerar que el 2% no repara el perjuicio ni disuade.",
+  "summary_p2": "El 2% se había convertido en referencia para muchos juzgados, así que el criterio puede mover las reclamaciones pendientes y los acuerdos extrajudiciales en este y otros litigios de daños por infracciones de competencia. Para los despachos de demandantes, refuerza la estimación judicial cuando la prueba pericial no basta; para los fabricantes demandados, encarece el riesgo de cada procedimiento. Matiz: la noticia procede del despacho ganador y el porcentaje se fija para el supuesto examinado, no como regla general.",
+  "why_sota": "El Supremo fija un nuevo mínimo indemnizatorio en uno de los grandes litigios masivos de competencia en España.",
+  "why_now": "Lawyerpress, 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "competencia",
+    "daños",
+    "litigacion masiva"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/10/28/el-supremo-eleva-al-5-la-indemnizacion-por-el-cartel-de-coches-tras-un-recurso-de-arriaga-asociados/",
+      "cited_title": "El Supremo eleva al 5% la indemnización por el cártel de coches tras un recurso de Arriaga Asociados",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-tribunal-supremo-es",
+    "ent-stellantis",
+    "ent-arriaga-asociados",
+    "ent-lawyerpress"
+  ],
+  "lang": "es",
+  "status": "published"
+}

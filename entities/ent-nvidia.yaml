@@ -1,0 +1,10 @@
+id: ent-nvidia
+name: Nvidia
+type: company
+url: https://www.nvidia.com/
+geo:
+- US
+- Global
+aliases: []
+notes: Fabricante estadounidense de chips. Ficha mínima.
+stub: true

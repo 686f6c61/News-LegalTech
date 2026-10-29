@@ -1,0 +1,77 @@
+scan_id: full-radar-2026-10-29
+date: '2026-10-29'
+release: 29.10.26
+count: 11
+ai_share: 0.64
+dedup_against: events/2026-09-29 → 2026-10-28 + scans PASS
+event_ids:
+- evt-2026-10-29-weil-gotshal-recomienda-liquidacion-ordenada-despacho
+- evt-2026-10-29-anthropic-galeria-artifacts-juridicos-claude-for-legal
+- evt-2026-10-29-everlaw-omni-agente-investigacion-prueba-workflows-revision
+- evt-2026-10-29-thomson-reuters-cocounsel-tax-canada-ia-agentica-fiscal
+- evt-2026-10-29-nueva-york-ley-prohibe-funciones-chatbots-ia-menores
+- evt-2026-10-29-estonia-registro-codigos-agentes-ia-dudas-autoridad-datos
+- evt-2026-10-29-doj-investiga-compra-hugging-face-nvidia-competencia-ia
+- evt-2026-10-29-borderpass-spellbook-blue-j-deloitte-fast-50-canada
+- evt-2026-10-29-supremo-eleva-5-por-ciento-indemnizacion-cartel-coches
+- evt-2026-10-29-notarios-gestores-administrativos-cataluna-conectan-plataformas-sociedades-online
+- evt-2026-10-29-icam-digital-premio-legaltech-santander-confilegal
+events:
+- id: evt-2026-10-29-weil-gotshal-recomienda-liquidacion-ordenada-despacho
+  sota_score: 7.6
+  ai_legaltech: false
+  title: Weil, Gotshal & Manges anuncia que su comité de dirección recomienda la liquidación
+    ordenada del despacho tras meses de fugas de socios y una fusión fallida
+- id: evt-2026-10-29-anthropic-galeria-artifacts-juridicos-claude-for-legal
+  sota_score: 7.8
+  ai_legaltech: true
+  title: Anthropic abre en Claude una galería de artifacts jurídicos listos para usar,
+    con piezas propias y otras hechas por Harvey, Goodwin y Foley & Lardner
+- id: evt-2026-10-29-everlaw-omni-agente-investigacion-prueba-workflows-revision
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Everlaw lanza Omni, un agente que investiga la prueba de un asunto con citas
+    al documento, y Workflows para automatizar revisiones documentales con controles
+    humanos
+- id: evt-2026-10-29-thomson-reuters-cocounsel-tax-canada-ia-agentica-fiscal
+  sota_score: 6.8
+  ai_legaltech: true
+  title: Thomson Reuters lanza CoCounsel Tax Canada, una plataforma de IA agéntica
+    para asesores fiscales canadienses basada en el contenido de Taxnet Pro
+- id: evt-2026-10-29-nueva-york-ley-prohibe-funciones-chatbots-ia-menores
+  sota_score: 7.5
+  ai_legaltech: true
+  title: Nueva York prohíbe a los chatbots de IA fingirse humanos, crear dependencia
+    emocional o hablar de autolesiones con menores, y exige verificar la edad
+- id: evt-2026-10-29-estonia-registro-codigos-agentes-ia-dudas-autoridad-datos
+  sota_score: 7.1
+  ai_legaltech: true
+  title: Estonia quiere un registro estatal de códigos para los agentes de IA que
+    actúan en nombre de una persona, y su autoridad de protección de datos pregunta
+    qué probaría
+- id: evt-2026-10-29-doj-investiga-compra-hugging-face-nvidia-competencia-ia
+  sota_score: 6.9
+  ai_legaltech: true
+  title: El Departamento de Justicia de EE. UU. investiga si la compra de Hugging
+    Face por Nvidia daña la competencia en IA al darle el control de un punto clave
+    de distribución
+- id: evt-2026-10-29-borderpass-spellbook-blue-j-deloitte-fast-50-canada
+  sota_score: 6.3
+  ai_legaltech: true
+  title: Tres legaltech de IA, BorderPass, Spellbook y Blue J, entran en el ranking
+    de Deloitte de las tecnológicas que más crecen en Canadá
+- id: evt-2026-10-29-supremo-eleva-5-por-ciento-indemnizacion-cartel-coches
+  sota_score: 6.7
+  ai_legaltech: false
+  title: El Tribunal Supremo eleva del 2% al 5% del precio la indemnización mínima
+    por el cártel de coches y desestima el recurso de Stellantis España
+- id: evt-2026-10-29-notarios-gestores-administrativos-cataluna-conectan-plataformas-sociedades-online
+  sota_score: 6.2
+  ai_legaltech: false
+  title: Notarios y gestores administrativos de Cataluña conectan sus plataformas
+    para constituir sociedades y otorgar poderes en línea desde la gestoría
+- id: evt-2026-10-29-icam-digital-premio-legaltech-santander-confilegal
+  sota_score: 5.9
+  ai_legaltech: false
+  title: El proyecto ICAM Digital del Colegio de la Abogacía de Madrid gana el Premio
+    Legaltech Santander de los IX Premios Confilegal

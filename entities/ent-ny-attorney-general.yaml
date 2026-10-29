@@ -1,0 +1,11 @@
+id: ent-ny-attorney-general
+name: Fiscal General del Estado de Nueva York
+type: government
+url: https://ag.ny.gov/
+geo:
+- US
+aliases:
+- New York Attorney General
+- Letitia James
+notes: Fiscalía general del Estado de Nueva York. Ficha mínima.
+stub: true

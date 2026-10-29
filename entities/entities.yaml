@@ -4232,3 +4232,163 @@ entities:
   aliases: []
   notes: Despacho estadounidense con oficinas en Alemania. Ficha mínima.
   stub: true
+- id: ent-ny-governor
+  name: Gobernadora del Estado de Nueva York
+  type: government
+  url: https://www.governor.ny.gov/
+  geo:
+  - US
+  aliases:
+  - Governor Kathy Hochul
+  - Governor of New York
+  notes: Oficina de la gobernadora de Nueva York. Ficha mínima.
+  stub: true
+- id: ent-ny-attorney-general
+  name: Fiscal General del Estado de Nueva York
+  type: government
+  url: https://ag.ny.gov/
+  geo:
+  - US
+  aliases:
+  - New York Attorney General
+  - Letitia James
+  notes: Fiscalía general del Estado de Nueva York. Ficha mínima.
+  stub: true
+- id: ent-estonia-mkm
+  name: Ministerio de Asuntos Económicos y Comunicaciones de Estonia
+  type: government
+  url: https://www.mkm.ee/
+  geo:
+  - EE
+  aliases:
+  - Majandus- ja Kommunikatsiooniministeerium
+  - MKM
+  notes: Ministerio estonio que impulsa el registro de identidades para agentes. Ficha
+    mínima.
+  stub: true
+- id: ent-cybernetica
+  name: Cybernetica
+  type: company
+  url: https://cyber.ee/
+  geo:
+  - EE
+  aliases: []
+  notes: Empresa tecnológica estonia de servicios de autenticación y administración
+    electrónica. Ficha mínima.
+  stub: true
+- id: ent-us-doj
+  name: Departamento de Justicia de EE. UU.
+  type: government
+  url: https://www.justice.gov/
+  geo:
+  - US
+  aliases:
+  - DOJ
+  - Department of Justice
+  notes: Departamento de Justicia federal, incluida su División Antimonopolio. Ficha
+    mínima.
+  stub: true
+- id: ent-nvidia
+  name: Nvidia
+  type: company
+  url: https://www.nvidia.com/
+  geo:
+  - US
+  - Global
+  aliases: []
+  notes: Fabricante estadounidense de chips. Ficha mínima.
+  stub: true
+- id: ent-hugging-face
+  name: Hugging Face
+  type: company
+  url: https://huggingface.co/
+  geo:
+  - US
+  - FR
+  - Global
+  aliases: []
+  notes: Plataforma de modelos y datos de IA. Ficha mínima.
+  stub: true
+- id: ent-borderpass
+  name: BorderPass
+  type: vendor
+  url: https://www.borderpass.com/
+  geo:
+  - CA
+  aliases: []
+  notes: Práctica de inmigración con IA y supervisión de abogados, Toronto. Ficha
+    mínima.
+  stub: true
+- id: ent-deloitte
+  name: Deloitte
+  type: company
+  url: https://www.deloitte.com/
+  geo:
+  - Global
+  - CA
+  aliases:
+  - Deloitte Canada
+  notes: Firma de servicios profesionales. Ficha mínima.
+  stub: true
+- id: ent-davis-polk
+  name: Davis Polk
+  type: law_firm
+  url: https://www.davispolk.com/
+  geo:
+  - US
+  aliases:
+  - Davis Polk & Wardwell
+  notes: Despacho estadounidense. Ficha mínima.
+  stub: true
+- id: ent-stellantis
+  name: Stellantis
+  type: company
+  url: https://www.stellantis.com/
+  geo:
+  - Global
+  - ES
+  aliases:
+  - Stellantis España
+  notes: Grupo automovilístico. Ficha mínima.
+  stub: true
+- id: ent-arriaga-asociados
+  name: Arriaga Asociados
+  type: law_firm
+  url: https://www.arriagaasociados.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Despacho español de reclamaciones de consumidores. Ficha mínima.
+  stub: true
+- id: ent-colegio-notarial-cataluna
+  name: Colegio Notarial de Cataluña
+  type: association
+  url: https://www.notarisdecatalunya.org/
+  geo:
+  - ES
+  aliases:
+  - Col·legi de Notaris de Catalunya
+  notes: Corporación notarial de Cataluña. Ficha mínima.
+  stub: true
+- id: ent-gestores-administrativos-cataluna
+  name: Colegio Oficial de Gestores Administrativos de Cataluña
+  type: association
+  url: https://www.gestors.cat/
+  geo:
+  - ES
+  aliases:
+  - Col·legi de Gestors Administratius de Catalunya
+  notes: Colegio profesional de gestores administrativos de Cataluña. Ficha mínima.
+  stub: true
+- id: ent-banco-santander
+  name: Banco Santander
+  type: company
+  url: https://www.santander.com/
+  geo:
+  - ES
+  - Global
+  aliases:
+  - Santander
+  notes: Banco español; patrocina el Premio Legaltech de los Premios Confilegal. Ficha
+    mínima.
+  stub: true

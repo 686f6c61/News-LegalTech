@@ -1,0 +1,11 @@
+id: ent-deloitte
+name: Deloitte
+type: company
+url: https://www.deloitte.com/
+geo:
+- Global
+- CA
+aliases:
+- Deloitte Canada
+notes: Firma de servicios profesionales. Ficha mínima.
+stub: true

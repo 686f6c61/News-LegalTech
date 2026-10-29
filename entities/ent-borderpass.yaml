@@ -1,0 +1,9 @@
+id: ent-borderpass
+name: BorderPass
+type: vendor
+url: https://www.borderpass.com/
+geo:
+- CA
+aliases: []
+notes: Práctica de inmigración con IA y supervisión de abogados, Toronto. Ficha mínima.
+stub: true

@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-10-29-borderpass-spellbook-blue-j-deloitte-fast-50-canada",
+  "date": "2026-10-28",
+  "type": "market",
+  "sota_score": 6.3,
+  "ai_legaltech": true,
+  "title": "Tres legaltech de IA, BorderPass, Spellbook y Blue J, entran en el ranking de Deloitte de las tecnológicas que más crecen en Canadá",
+  "short_title": "BorderPass, Spellbook y Blue J, entre las que más crecen en Canadá",
+  "standfirst": "BorderPass, una práctica de inmigración con IA y supervisión de abogados, queda tercera del Technology Fast 50; Spellbook, séptima.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Canadá",
+  "piece_type": "Mercado",
+  "summary_p1": "Deloitte publicó el 28 de octubre de 2026 su Technology Fast 50 de Canadá, y tres empresas legaltech basadas en IA aparecen en la lista, informa LegalTech.ca. BorderPass, una práctica de inmigración fundada en Toronto en 2020 que combina automatización con supervisión de abogados colegiados, queda tercera. Spellbook, la herramienta de redacción y revisión de contratos con IA, también de Toronto, es séptima, y Blue J, plataforma de investigación fiscal con IA, ocupa el puesto 42. El ranking mide el crecimiento de ingresos a cuatro años, y la media de la promoción de este año es del 3.079%.",
+  "summary_p2": "La presencia de tres legaltech en un ranking general de tecnología confirma que la IA jurídica ya compite por crecimiento con el resto del software. El caso de BorderPass es el más interesante para el sector: no vende una herramienta a despachos, sino que presta el servicio jurídico con IA y abogados, un modelo que los colegios de abogados aún miran con cautela fuera de Norteamérica. Para inversores y despachos, la lista da señales de qué modelos están escalando ingresos de verdad. Matiz: el ranking no publica las cifras de crecimiento de estas tres empresas en la nota recogida.",
+  "why_sota": "Legaltech de IA en el podio de un ranking general de crecimiento tecnológico, incluido un modelo de servicio jurídico con IA.",
+  "why_now": "LegalTech.ca, 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "mercado",
+    "crecimiento",
+    "inmigracion",
+    "contratos",
+    "fiscal"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/28/legaltech-startups-rank-canada-growing-tech-firms/",
+      "cited_title": "Legaltech startups rank among Canada’s fastest-growing tech firms",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-borderpass",
+    "ent-spellbook",
+    "ent-blue-j",
+    "ent-deloitte",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

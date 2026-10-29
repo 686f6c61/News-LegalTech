@@ -1,0 +1,10 @@
+id: ent-gestores-administrativos-cataluna
+name: Colegio Oficial de Gestores Administrativos de Cataluña
+type: association
+url: https://www.gestors.cat/
+geo:
+- ES
+aliases:
+- Col·legi de Gestors Administratius de Catalunya
+notes: Colegio profesional de gestores administrativos de Cataluña. Ficha mínima.
+stub: true

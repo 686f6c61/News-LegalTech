@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-29-estonia-registro-codigos-agentes-ia-dudas-autoridad-datos",
+  "date": "2026-10-28",
+  "type": "regulation",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Estonia quiere un registro estatal de códigos para los agentes de IA que actúan en nombre de una persona, y su autoridad de protección de datos pregunta qué probaría",
+  "short_title": "Estonia propone un registro de códigos para agentes de IA",
+  "standfirst": "El proyecto, de dos páginas, trata los actos del agente como propios de la persona; Cybernetica lo llama peligroso y casi ningún ministerio respondió.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Agentes de IA",
+  "country": "Estonia",
+  "piece_type": "Regulación",
+  "summary_p1": "El Ministerio de Asuntos Económicos y Comunicaciones de Estonia ha circulado un proyecto de dos páginas que reforma la Ley de Información Pública para que ciudadanos, residentes y e-residentes registren una «identidad digital», un código permanente que un software puede usar para actuar por ellos, en una base de datos controlada por la Autoridad del Sistema de Información, informa ComplexDiscovery el 28 de octubre de 2026. Según la memoria, los actos hechos con ese código se tratan como propios de la persona. La autoridad de protección de datos respondió el 22 de octubre que registrar el vínculo no prueba que el agente estuviera autorizado para un acto concreto ni que ese acto respondiera a la voluntad de la persona, y Cybernetica advirtió en 11 páginas que el texto podría leerse como si bastara el código. Al cierre del plazo solo la Oficina del Gobierno lo había aprobado.",
+  "summary_p2": "Es uno de los primeros intentos de un Estado de dar a los agentes de IA una identidad vinculada a una persona, y deja a la vista el problema jurídico de fondo: atribuir un acto al usuario no equivale a probar que lo autorizó. Para quien despliega agentes, el aviso es que la prueba de lo que hizo un agente dependerá de los registros del servicio, de la plataforma y del propio desplegador, no de una inscripción. Para los juristas europeos, el debate anticipa preguntas de mandato, representación y firma que llegarán con el Reglamento eIDAS y las carteras digitales. Matiz: es un borrador; puede llegar al Parlamento a principios de noviembre con cambios.",
+  "why_sota": "Primer registro estatal de identidades para agentes de IA, con objeciones formales del regulador de datos sobre atribución y prueba.",
+  "why_now": "ComplexDiscovery, 28 oct 2026. NEW frente a 09-29→10-28 (la pieza estonia previa era sobre transcripción médica).",
+  "geo": [
+    "EE",
+    "EU"
+  ],
+  "topics": [
+    "agentes",
+    "identidad digital",
+    "prueba",
+    "proteccion de datos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/estonias-ai-agent-register-would-link-a-code-to-a-person-and-state-watchdogs-ask-what-that-proves/",
+      "cited_title": "Estonia's AI agent register would link a code to a person, and state watchdogs ask what that proves",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-estonia-mkm",
+    "ent-estonia-dpi",
+    "ent-cybernetica",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

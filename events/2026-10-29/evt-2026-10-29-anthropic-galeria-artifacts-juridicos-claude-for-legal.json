@@ -1,0 +1,54 @@
+{
+  "id": "evt-2026-10-29-anthropic-galeria-artifacts-juridicos-claude-for-legal",
+  "date": "2026-10-28",
+  "type": "product",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Anthropic abre en Claude una galería de artifacts jurídicos listos para usar, con piezas propias y otras hechas por Harvey, Goodwin y Foley & Lardner",
+  "short_title": "Anthropic lanza una galería de artifacts jurídicos en Claude",
+  "standfirst": "Seis herramientas propias, cuatro de despachos y vendors y nueve de acceso a la justicia; ya suma más de 60 conectores jurídicos desde mayo.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "Anthropic presentó el 28 de octubre de 2026 una galería de artifacts (herramientas interactivas como paneles o tablas que se usan y comparten dentro de Claude) para trabajo jurídico, informa Unite.AI. Incluye seis hechas por Anthropic: verificación de citas, matriz comparativa por jurisdicciones, tablero de asuntos, control de desviaciones frente al playbook contractual, radar de normativa futura y revisión tabular de contratos. Hay además cuatro de terceros, entre ellas un benchmark de gobierno de la IA de Goodwin, Harvey Intake para canalizar consultas al departamento jurídico y un comprobador de obligaciones de Foley & Lardner, y nueve de acceso a la justicia. Anthropic dice haber añadido más de 60 conectores jurídicos desde mayo, como Bloomberg Law, Filevine, Legora o Ivo, y Artificial Lawyer cuenta que abre un programa de Legal Ambassadors para desarrolladores.",
+  "summary_p2": "Es otro paso de los laboratorios de modelos hacia el mercado jurídico: Claude for Legal no es un modelo distinto, sino Claude con flujos empaquetados, plugins y conectores, como subraya Artificial Lawyer. Para los despachos y asesorías jurídicas internas, baja la barrera de entrada a tareas concretas sin desarrollo propio, con el abogado revisando el primer borrador y cada resultado enlazado a su fuente. Para los vendors, el mensaje es ambiguo: Anthropic les ofrece escaparate, como a Harvey, mientras compite por los mismos clientes. Matiz: la información procede del anuncio de Anthropic; no hay datos de uso ni de calidad independientes.",
+  "why_sota": "Un laboratorio de modelos empaqueta flujos jurídicos y distribuye herramientas de despachos y vendors dentro de su propio producto.",
+  "why_now": "Unite.AI y Artificial Lawyer, 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "modelos",
+    "flujos de trabajo",
+    "conectores",
+    "acceso a la justicia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude/",
+      "cited_title": "Anthropic Adds Ready-to-Use Legal Artifacts Gallery to Claude",
+      "accessed": "2026-10-29"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
+      "cited_title": "Anthropic Increases Legal Vertical Push With Artifacts",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-anthropic",
+    "ent-harvey",
+    "ent-goodwin",
+    "ent-unite-ai",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+id: ent-hugging-face
+name: Hugging Face
+type: company
+url: https://huggingface.co/
+geo:
+- US
+- FR
+- Global
+aliases: []
+notes: Plataforma de modelos y datos de IA. Ficha mínima.
+stub: true

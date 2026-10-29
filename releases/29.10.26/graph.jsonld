@@ -1,0 +1,931 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/29.10.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 29.10.26",
+      "schema:version": "29.10.26",
+      "schema:datePublished": "2026-10-29",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-10-29, 11 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/29.10.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-weil-gotshal-recomienda-liquidacion-ordenada-despacho"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-anthropic-galeria-artifacts-juridicos-claude-for-legal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-everlaw-omni-agente-investigacion-prueba-workflows-revision"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-thomson-reuters-cocounsel-tax-canada-ia-agentica-fiscal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-nueva-york-ley-prohibe-funciones-chatbots-ia-menores"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-estonia-registro-codigos-agentes-ia-dudas-autoridad-datos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-doj-investiga-compra-hugging-face-nvidia-competencia-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-borderpass-spellbook-blue-j-deloitte-fast-50-canada"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-supremo-eleva-5-por-ciento-indemnizacion-cartel-coches"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-notarios-gestores-administrativos-cataluna-conectan-plataformas-sociedades-online"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-icam-digital-premio-legaltech-santander-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-weil-gotshal-recomienda-liquidacion-ordenada-despacho",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-weil-gotshal-recomienda-liquidacion-ordenada-despacho",
+      "schema:headline": "Weil, Gotshal & Manges anuncia que su comité de dirección recomienda la liquidación ordenada del despacho tras meses de fugas de socios y una fusión fallida",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El comité de dirección de Weil, Gotshal & Manges ha recomendado «una liquidación ordenada» (orderly wind-down) del despacho, anunció la firma el 28 de octubre de 2026, y los socios votarán la disolución en los próximos días, informa Legal Business. Above the Law, que cita a Bloomberg Law, añade que el despacho, fundado en 1931, facturó 2.100 millones de dólares el año pasado y que el abogado concursal de Davis Polk Brian Resnick asesora el proceso. La caída ha sido rápida: la salida del presidente de corporativo Mike Aiello a Cravath en septiembre, las negociaciones de fusión con Willkie Farr que se rompieron, la renuncia de Ramona Nee a asumir la dirección y una oleada de socios buscando sitio en otros despachos.",
+      "schema:articleBody": "El comité de dirección de Weil, Gotshal & Manges ha recomendado «una liquidación ordenada» (orderly wind-down) del despacho, anunció la firma el 28 de octubre de 2026, y los socios votarán la disolución en los próximos días, informa Legal Business. Above the Law, que cita a Bloomberg Law, añade que el despacho, fundado en 1931, facturó 2.100 millones de dólares el año pasado y que el abogado concursal de Davis Polk Brian Resnick asesora el proceso. La caída ha sido rápida: la salida del presidente de corporativo Mike Aiello a Cravath en septiembre, las negociaciones de fusión con Willkie Farr que se rompieron, la renuncia de Ramona Nee a asumir la dirección y una oleada de socios buscando sitio en otros despachos.\n\nEs el mayor colapso de un gran despacho estadounidense desde Dewey & LeBoeuf en 2012, y se produce en una firma que construyó la práctica concursal moderna con Lehman Brothers, General Motors o Enron. Para los clientes, lo urgente es la continuidad de los asuntos abiertos: a qué despacho se van los equipos, qué pasa con los expedientes y con las obligaciones de confidencialidad y conflicto. Para el resto del mercado, el caso recuerda que en un despacho sin capital externo la confianza de los socios es el balance: cuando empiezan las salidas, la espiral puede cerrarse en semanas. Matiz: la decisión aún debe votarse y parte del detalle procede de fuentes anónimas citadas por la prensa.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Liquidación de un despacho del top de Am Law, con efectos sobre clientes, talento y fusiones en todo el mercado.",
+      "sota:whyNow": "Legal Business y Above the Law, 28 oct 2026. NEW frente a 09-29→10-28 (el 10-23 se publicó solo la ruptura con Willkie).",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "despachos",
+        "mercado",
+        "gobierno corporativo"
+      ],
+      "sota:summaryP1": "El comité de dirección de Weil, Gotshal & Manges ha recomendado «una liquidación ordenada» (orderly wind-down) del despacho, anunció la firma el 28 de octubre de 2026, y los socios votarán la disolución en los próximos días, informa Legal Business. Above the Law, que cita a Bloomberg Law, añade que el despacho, fundado en 1931, facturó 2.100 millones de dólares el año pasado y que el abogado concursal de Davis Polk Brian Resnick asesora el proceso. La caída ha sido rápida: la salida del presidente de corporativo Mike Aiello a Cravath en septiembre, las negociaciones de fusión con Willkie Farr que se rompieron, la renuncia de Ramona Nee a asumir la dirección y una oleada de socios buscando sitio en otros despachos.",
+      "sota:summaryP2": "Es el mayor colapso de un gran despacho estadounidense desde Dewey & LeBoeuf en 2012, y se produce en una firma que construyó la práctica concursal moderna con Lehman Brothers, General Motors o Enron. Para los clientes, lo urgente es la continuidad de los asuntos abiertos: a qué despacho se van los equipos, qué pasa con los expedientes y con las obligaciones de confidencialidad y conflicto. Para el resto del mercado, el caso recuerda que en un despacho sin capital externo la confianza de los socios es el balance: cuando empiezan las salidas, la espiral puede cerrarse en semanas. Matiz: la decisión aún debe votarse y parte del detalle procede de fuentes anónimas citadas por la prensa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalbusiness.co.uk/law-firms/weil-management-recommends-orderly-wind-down/",
+          "schema:name": "Weil management recommends ‘orderly wind-down’",
+          "sota:sourceId": "src-legal-business"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abovethelaw.com/2026/10/after-95-years-weil-gotshal-is-winding-down/",
+          "schema:name": "After 95 Years, Weil Gotshal Is Winding Down",
+          "sota:sourceId": "src-above-the-law"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-weil"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-davis-polk"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-business"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-anthropic-galeria-artifacts-juridicos-claude-for-legal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-anthropic-galeria-artifacts-juridicos-claude-for-legal",
+      "schema:headline": "Anthropic abre en Claude una galería de artifacts jurídicos listos para usar, con piezas propias y otras hechas por Harvey, Goodwin y Foley & Lardner",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Anthropic presentó el 28 de octubre de 2026 una galería de artifacts (herramientas interactivas como paneles o tablas que se usan y comparten dentro de Claude) para trabajo jurídico, informa Unite.AI. Incluye seis hechas por Anthropic: verificación de citas, matriz comparativa por jurisdicciones, tablero de asuntos, control de desviaciones frente al playbook contractual, radar de normativa futura y revisión tabular de contratos. Hay además cuatro de terceros, entre ellas un benchmark de gobierno de la IA de Goodwin, Harvey Intake para canalizar consultas al departamento jurídico y un comprobador de obligaciones de Foley & Lardner, y nueve de acceso a la justicia. Anthropic dice haber añadido más de 60 conectores jurídicos desde mayo, como Bloomberg Law, Filevine, Legora o Ivo, y Artificial Lawyer cuenta que abre un programa de Legal Ambassadors para desarrolladores.",
+      "schema:articleBody": "Anthropic presentó el 28 de octubre de 2026 una galería de artifacts (herramientas interactivas como paneles o tablas que se usan y comparten dentro de Claude) para trabajo jurídico, informa Unite.AI. Incluye seis hechas por Anthropic: verificación de citas, matriz comparativa por jurisdicciones, tablero de asuntos, control de desviaciones frente al playbook contractual, radar de normativa futura y revisión tabular de contratos. Hay además cuatro de terceros, entre ellas un benchmark de gobierno de la IA de Goodwin, Harvey Intake para canalizar consultas al departamento jurídico y un comprobador de obligaciones de Foley & Lardner, y nueve de acceso a la justicia. Anthropic dice haber añadido más de 60 conectores jurídicos desde mayo, como Bloomberg Law, Filevine, Legora o Ivo, y Artificial Lawyer cuenta que abre un programa de Legal Ambassadors para desarrolladores.\n\nEs otro paso de los laboratorios de modelos hacia el mercado jurídico: Claude for Legal no es un modelo distinto, sino Claude con flujos empaquetados, plugins y conectores, como subraya Artificial Lawyer. Para los despachos y asesorías jurídicas internas, baja la barrera de entrada a tareas concretas sin desarrollo propio, con el abogado revisando el primer borrador y cada resultado enlazado a su fuente. Para los vendors, el mensaje es ambiguo: Anthropic les ofrece escaparate, como a Harvey, mientras compite por los mismos clientes. Matiz: la información procede del anuncio de Anthropic; no hay datos de uso ni de calidad independientes.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un laboratorio de modelos empaqueta flujos jurídicos y distribuye herramientas de despachos y vendors dentro de su propio producto.",
+      "sota:whyNow": "Unite.AI y Artificial Lawyer, 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "modelos",
+        "flujos de trabajo",
+        "conectores",
+        "acceso a la justicia"
+      ],
+      "sota:summaryP1": "Anthropic presentó el 28 de octubre de 2026 una galería de artifacts (herramientas interactivas como paneles o tablas que se usan y comparten dentro de Claude) para trabajo jurídico, informa Unite.AI. Incluye seis hechas por Anthropic: verificación de citas, matriz comparativa por jurisdicciones, tablero de asuntos, control de desviaciones frente al playbook contractual, radar de normativa futura y revisión tabular de contratos. Hay además cuatro de terceros, entre ellas un benchmark de gobierno de la IA de Goodwin, Harvey Intake para canalizar consultas al departamento jurídico y un comprobador de obligaciones de Foley & Lardner, y nueve de acceso a la justicia. Anthropic dice haber añadido más de 60 conectores jurídicos desde mayo, como Bloomberg Law, Filevine, Legora o Ivo, y Artificial Lawyer cuenta que abre un programa de Legal Ambassadors para desarrolladores.",
+      "sota:summaryP2": "Es otro paso de los laboratorios de modelos hacia el mercado jurídico: Claude for Legal no es un modelo distinto, sino Claude con flujos empaquetados, plugins y conectores, como subraya Artificial Lawyer. Para los despachos y asesorías jurídicas internas, baja la barrera de entrada a tareas concretas sin desarrollo propio, con el abogado revisando el primer borrador y cada resultado enlazado a su fuente. Para los vendors, el mensaje es ambiguo: Anthropic les ofrece escaparate, como a Harvey, mientras compite por los mismos clientes. Matiz: la información procede del anuncio de Anthropic; no hay datos de uso ni de calidad independientes.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.unite.ai/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude/",
+          "schema:name": "Anthropic Adds Ready-to-Use Legal Artifacts Gallery to Claude",
+          "sota:sourceId": "src-unite-ai"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
+          "schema:name": "Anthropic Increases Legal Vertical Push With Artifacts",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-goodwin"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-everlaw-omni-agente-investigacion-prueba-workflows-revision",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-everlaw-omni-agente-investigacion-prueba-workflows-revision",
+      "schema:headline": "Everlaw lanza Omni, un agente que investiga la prueba de un asunto con citas al documento, y Workflows para automatizar revisiones documentales con controles humanos",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Everlaw presentó en su Everlaw Summit de San Francisco Omni, su suite agéntica de investigación, y Workflows, informa eDiscovery Today el 28 de octubre de 2026 a partir de la nota de prensa. Omni parte de Deep Dive y añade un agente que responde en lenguaje natural combinando funciones de la plataforma, por ejemplo «establecer quién sabía qué y cuándo», con resultados citados al documento, la página o el párrafo, y Case Memory, una biblioteca de hechos extraídos de demandas y declaraciones. Workflows permite diseñar en un lienzo de arrastrar y soltar cómo pasan los documentos por las fases de una revisión, con puntos de aprobación humana. Bracewell, Vorys y Cole, Scott & Kissane lo usan en acceso anticipado; Everlaw anunció también Everlaw for Word y, en su blog, una integración próxima con CoCounsel Legal de Thomson Reuters.",
+      "schema:articleBody": "Everlaw presentó en su Everlaw Summit de San Francisco Omni, su suite agéntica de investigación, y Workflows, informa eDiscovery Today el 28 de octubre de 2026 a partir de la nota de prensa. Omni parte de Deep Dive y añade un agente que responde en lenguaje natural combinando funciones de la plataforma, por ejemplo «establecer quién sabía qué y cuándo», con resultados citados al documento, la página o el párrafo, y Case Memory, una biblioteca de hechos extraídos de demandas y declaraciones. Workflows permite diseñar en un lienzo de arrastrar y soltar cómo pasan los documentos por las fases de una revisión, con puntos de aprobación humana. Bracewell, Vorys y Cole, Scott & Kissane lo usan en acceso anticipado; Everlaw anunció también Everlaw for Word y, en su blog, una integración próxima con CoCounsel Legal de Thomson Reuters.\n\nLas plataformas de eDiscovery están pasando de responder preguntas sobre documentos a ejecutar trabajo en varios pasos dentro del expediente, con registro de las herramientas que usa el agente para poder auditar el proceso. Para los equipos de litigación, la clave es la defendibilidad: que cada hecho remita a su fuente y que la revisión deje rastro de quién decidió qué. Para los proveedores de servicios de revisión, Workflows automatiza parte de la coordinación que hoy venden como servicio. Matiz: la información procede del propio Everlaw y de sus clientes de acceso anticipado; la integración con CoCounsel aún no está disponible.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un líder de eDiscovery mete un agente orquestador y memoria del caso en el núcleo de la plataforma de litigación.",
+      "sota:whyNow": "eDiscovery Today, 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ediscovery",
+        "agentes",
+        "litigacion",
+        "revision documental"
+      ],
+      "sota:summaryP1": "Everlaw presentó en su Everlaw Summit de San Francisco Omni, su suite agéntica de investigación, y Workflows, informa eDiscovery Today el 28 de octubre de 2026 a partir de la nota de prensa. Omni parte de Deep Dive y añade un agente que responde en lenguaje natural combinando funciones de la plataforma, por ejemplo «establecer quién sabía qué y cuándo», con resultados citados al documento, la página o el párrafo, y Case Memory, una biblioteca de hechos extraídos de demandas y declaraciones. Workflows permite diseñar en un lienzo de arrastrar y soltar cómo pasan los documentos por las fases de una revisión, con puntos de aprobación humana. Bracewell, Vorys y Cole, Scott & Kissane lo usan en acceso anticipado; Everlaw anunció también Everlaw for Word y, en su blog, una integración próxima con CoCounsel Legal de Thomson Reuters.",
+      "sota:summaryP2": "Las plataformas de eDiscovery están pasando de responder preguntas sobre documentos a ejecutar trabajo en varios pasos dentro del expediente, con registro de las herramientas que usa el agente para poder auditar el proceso. Para los equipos de litigación, la clave es la defendibilidad: que cada hecho remita a su fuente y que la revisión deje rastro de quién decidió qué. Para los proveedores de servicios de revisión, Workflows automatiza parte de la coordinación que hoy venden como servicio. Matiz: la información procede del propio Everlaw y de sus clientes de acceso anticipado; la integración con CoCounsel aún no está disponible.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://ediscoverytoday.com/2026/10/28/everlaw-introduces-everlaw-omni-and-workflows/",
+          "schema:name": "Everlaw Introduces Everlaw Omni and Workflows",
+          "sota:sourceId": "src-ediscovery-today"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.everlaw.com/blog/ai-and-law/everlaw-and-thomson-reuters-cocounsel-partnership/",
+          "schema:name": "Everlaw and Thomson Reuters CoCounsel Legal Launch New Partnership",
+          "sota:sourceId": "src-everlaw-legal-ai-adoption-impact-report"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-everlaw"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vorys"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ediscovery-today"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-thomson-reuters-cocounsel-tax-canada-ia-agentica-fiscal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-thomson-reuters-cocounsel-tax-canada-ia-agentica-fiscal",
+      "schema:headline": "Thomson Reuters lanza CoCounsel Tax Canada, una plataforma de IA agéntica para asesores fiscales canadienses basada en el contenido de Taxnet Pro",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Thomson Reuters ha lanzado esta semana CoCounsel Tax Canada, una plataforma de IA agéntica para profesionales fiscales en Canadá, informa LegalTech.ca el 28 de octubre de 2026. Se apoya en la legislación, los reglamentos, las guías de la agencia tributaria canadiense y los comentarios de Taxnet Pro. Además de responder consultas, genera análisis, resúmenes y primeros borradores de correspondencia con clientes, revisa varios documentos de un encargo para detectar hechos y riesgos, usa plantillas aprobadas por la firma e incorpora documentos internos a través de una base de conocimiento (Knowledge Base). La compañía lo presenta bajo su etiqueta de «IA de grado fiduciario» (Fiduciary-Grade AI).",
+      "schema:articleBody": "Thomson Reuters ha lanzado esta semana CoCounsel Tax Canada, una plataforma de IA agéntica para profesionales fiscales en Canadá, informa LegalTech.ca el 28 de octubre de 2026. Se apoya en la legislación, los reglamentos, las guías de la agencia tributaria canadiense y los comentarios de Taxnet Pro. Además de responder consultas, genera análisis, resúmenes y primeros borradores de correspondencia con clientes, revisa varios documentos de un encargo para detectar hechos y riesgos, usa plantillas aprobadas por la firma e incorpora documentos internos a través de una base de conocimiento (Knowledge Base). La compañía lo presenta bajo su etiqueta de «IA de grado fiduciario» (Fiduciary-Grade AI).\n\nLa fiscalidad es uno de los terrenos donde la IA jurídica se juega más: normas que cambian con frecuencia, criterios administrativos y responsabilidad profesional por el consejo. El énfasis en trazabilidad y en que el profesional revise el resultado responde a esa exigencia más que a la velocidad. Para despachos y asesorías fiscales, la pregunta práctica es cómo documentar que una respuesta de la IA se verificó antes de llegar al cliente. Matiz: la información procede de Thomson Reuters a través de un medio canadiense; no hay datos de precisión ni de precio.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "El mayor proveedor de contenido jurídico y fiscal lleva su capa agéntica a una vertical nacional con contenido propio.",
+      "sota:whyNow": "LegalTech.ca, 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "fiscal",
+        "agentes",
+        "contenido",
+        "proveedores"
+      ],
+      "sota:summaryP1": "Thomson Reuters ha lanzado esta semana CoCounsel Tax Canada, una plataforma de IA agéntica para profesionales fiscales en Canadá, informa LegalTech.ca el 28 de octubre de 2026. Se apoya en la legislación, los reglamentos, las guías de la agencia tributaria canadiense y los comentarios de Taxnet Pro. Además de responder consultas, genera análisis, resúmenes y primeros borradores de correspondencia con clientes, revisa varios documentos de un encargo para detectar hechos y riesgos, usa plantillas aprobadas por la firma e incorpora documentos internos a través de una base de conocimiento (Knowledge Base). La compañía lo presenta bajo su etiqueta de «IA de grado fiduciario» (Fiduciary-Grade AI).",
+      "sota:summaryP2": "La fiscalidad es uno de los terrenos donde la IA jurídica se juega más: normas que cambian con frecuencia, criterios administrativos y responsabilidad profesional por el consejo. El énfasis en trazabilidad y en que el profesional revise el resultado responde a esa exigencia más que a la velocidad. Para despachos y asesorías fiscales, la pregunta práctica es cómo documentar que una respuesta de la IA se verificó antes de llegar al cliente. Matiz: la información procede de Thomson Reuters a través de un medio canadiense; no hay datos de precisión ni de precio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/28/thomson-reuters-brings-agentic-ai-to-canadian-tax-professionals/",
+          "schema:name": "Thomson Reuters brings agentic AI to Canadian tax professionals",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-ca"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-nueva-york-ley-prohibe-funciones-chatbots-ia-menores",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-nueva-york-ley-prohibe-funciones-chatbots-ia-menores",
+      "schema:headline": "Nueva York prohíbe a los chatbots de IA fingirse humanos, crear dependencia emocional o hablar de autolesiones con menores, y exige verificar la edad",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La gobernadora de Nueva York, Kathy Hochul, firmó el 28 de octubre de 2026 la ley S.9051B/A.10379C, que prohíbe ofrecer a menores de 18 años, o a cualquier usuario cuya mayoría de edad no se haya confirmado, chatbots que finjan ser una persona real o tener emociones, que reclamen una relación sentimental o de autoridad con el menor, que usen información de salud de conversaciones anteriores, que animen a la autolesión, a los trastornos alimentarios o a guardar secretos ante los padres, o que generen contenido sexual. Las empresas deberán verificar la edad con más de un método, al menos uno que no dependa solo de un documento oficial, y borrar después esos datos. La fiscal general podrá pedir multas de hasta 25.000 dólares por infracción, daños, restitución y la destrucción de los datos o de los modelos entrenados con ellos, y abrirá una web de denuncias.",
+      "schema:articleBody": "La gobernadora de Nueva York, Kathy Hochul, firmó el 28 de octubre de 2026 la ley S.9051B/A.10379C, que prohíbe ofrecer a menores de 18 años, o a cualquier usuario cuya mayoría de edad no se haya confirmado, chatbots que finjan ser una persona real o tener emociones, que reclamen una relación sentimental o de autoridad con el menor, que usen información de salud de conversaciones anteriores, que animen a la autolesión, a los trastornos alimentarios o a guardar secretos ante los padres, o que generen contenido sexual. Las empresas deberán verificar la edad con más de un método, al menos uno que no dependa solo de un documento oficial, y borrar después esos datos. La fiscal general podrá pedir multas de hasta 25.000 dólares por infracción, daños, restitución y la destrucción de los datos o de los modelos entrenados con ellos, y abrirá una web de denuncias.\n\nNueva York no se limita a exigir avisos: prohíbe funciones de diseño concretas, un modelo que otros estados pueden copiar. Para las empresas que ofrecen asistentes conversacionales al público, obliga a revisar el producto, no solo los términos de uso: detección de edad, memoria de conversaciones y respuestas en temas sensibles. Para sus abogados, la sanción de destruir modelos entrenados con datos ilícitos es la que más riesgo concentra. Matiz: la ley se aplicará «en los próximos meses» y el comunicado no fija fecha exacta; el análisis de Law.com está tras suscripción.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Ley estatal que prohíbe funciones de diseño de chatbots para menores, con verificación de edad y destrucción de modelos como remedio.",
+      "sota:whyNow": "Comunicado de la gobernadora de Nueva York y Law.com (New York Law Journal), 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "regulacion",
+        "menores",
+        "chatbots",
+        "verificacion de edad"
+      ],
+      "sota:summaryP1": "La gobernadora de Nueva York, Kathy Hochul, firmó el 28 de octubre de 2026 la ley S.9051B/A.10379C, que prohíbe ofrecer a menores de 18 años, o a cualquier usuario cuya mayoría de edad no se haya confirmado, chatbots que finjan ser una persona real o tener emociones, que reclamen una relación sentimental o de autoridad con el menor, que usen información de salud de conversaciones anteriores, que animen a la autolesión, a los trastornos alimentarios o a guardar secretos ante los padres, o que generen contenido sexual. Las empresas deberán verificar la edad con más de un método, al menos uno que no dependa solo de un documento oficial, y borrar después esos datos. La fiscal general podrá pedir multas de hasta 25.000 dólares por infracción, daños, restitución y la destrucción de los datos o de los modelos entrenados con ellos, y abrirá una web de denuncias.",
+      "sota:summaryP2": "Nueva York no se limita a exigir avisos: prohíbe funciones de diseño concretas, un modelo que otros estados pueden copiar. Para las empresas que ofrecen asistentes conversacionales al público, obliga a revisar el producto, no solo los términos de uso: detección de edad, memoria de conversaciones y respuestas en temas sensibles. Para sus abogados, la sanción de destruir modelos entrenados con datos ilícitos es la que más riesgo concentra. Matiz: la ley se aplicará «en los próximos meses» y el comunicado no fija fecha exacta; el análisis de Law.com está tras suscripción.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+          "schema:name": "Governor Hochul Signs Nation-Leading Legislation to Protect Kids From AI Chatbots and to Ensure Baby Monitor Safety",
+          "sota:sourceId": "src-ny-governor"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/newyorklawjournal/2026/10/28/ny-implements-chatbot-restrictions-for-interactions-with-minors-puts-ai-companies-on-notice/",
+          "schema:name": "NY Implements Chatbot Restrictions for Interactions With Minors, Puts AI Companies 'On Notice'",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ny-governor"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ny-attorney-general"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-estonia-registro-codigos-agentes-ia-dudas-autoridad-datos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-estonia-registro-codigos-agentes-ia-dudas-autoridad-datos",
+      "schema:headline": "Estonia quiere un registro estatal de códigos para los agentes de IA que actúan en nombre de una persona, y su autoridad de protección de datos pregunta qué probaría",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Ministerio de Asuntos Económicos y Comunicaciones de Estonia ha circulado un proyecto de dos páginas que reforma la Ley de Información Pública para que ciudadanos, residentes y e-residentes registren una «identidad digital», un código permanente que un software puede usar para actuar por ellos, en una base de datos controlada por la Autoridad del Sistema de Información, informa ComplexDiscovery el 28 de octubre de 2026. Según la memoria, los actos hechos con ese código se tratan como propios de la persona. La autoridad de protección de datos respondió el 22 de octubre que registrar el vínculo no prueba que el agente estuviera autorizado para un acto concreto ni que ese acto respondiera a la voluntad de la persona, y Cybernetica advirtió en 11 páginas que el texto podría leerse como si bastara el código. Al cierre del plazo solo la Oficina del Gobierno lo había aprobado.",
+      "schema:articleBody": "El Ministerio de Asuntos Económicos y Comunicaciones de Estonia ha circulado un proyecto de dos páginas que reforma la Ley de Información Pública para que ciudadanos, residentes y e-residentes registren una «identidad digital», un código permanente que un software puede usar para actuar por ellos, en una base de datos controlada por la Autoridad del Sistema de Información, informa ComplexDiscovery el 28 de octubre de 2026. Según la memoria, los actos hechos con ese código se tratan como propios de la persona. La autoridad de protección de datos respondió el 22 de octubre que registrar el vínculo no prueba que el agente estuviera autorizado para un acto concreto ni que ese acto respondiera a la voluntad de la persona, y Cybernetica advirtió en 11 páginas que el texto podría leerse como si bastara el código. Al cierre del plazo solo la Oficina del Gobierno lo había aprobado.\n\nEs uno de los primeros intentos de un Estado de dar a los agentes de IA una identidad vinculada a una persona, y deja a la vista el problema jurídico de fondo: atribuir un acto al usuario no equivale a probar que lo autorizó. Para quien despliega agentes, el aviso es que la prueba de lo que hizo un agente dependerá de los registros del servicio, de la plataforma y del propio desplegador, no de una inscripción. Para los juristas europeos, el debate anticipa preguntas de mandato, representación y firma que llegarán con el Reglamento eIDAS y las carteras digitales. Matiz: es un borrador; puede llegar al Parlamento a principios de noviembre con cambios.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer registro estatal de identidades para agentes de IA, con objeciones formales del regulador de datos sobre atribución y prueba.",
+      "sota:whyNow": "ComplexDiscovery, 28 oct 2026. NEW frente a 09-29→10-28 (la pieza estonia previa era sobre transcripción médica).",
+      "sota:geo": [
+        "EE",
+        "EU"
+      ],
+      "sota:topics": [
+        "agentes",
+        "identidad digital",
+        "prueba",
+        "proteccion de datos"
+      ],
+      "sota:summaryP1": "El Ministerio de Asuntos Económicos y Comunicaciones de Estonia ha circulado un proyecto de dos páginas que reforma la Ley de Información Pública para que ciudadanos, residentes y e-residentes registren una «identidad digital», un código permanente que un software puede usar para actuar por ellos, en una base de datos controlada por la Autoridad del Sistema de Información, informa ComplexDiscovery el 28 de octubre de 2026. Según la memoria, los actos hechos con ese código se tratan como propios de la persona. La autoridad de protección de datos respondió el 22 de octubre que registrar el vínculo no prueba que el agente estuviera autorizado para un acto concreto ni que ese acto respondiera a la voluntad de la persona, y Cybernetica advirtió en 11 páginas que el texto podría leerse como si bastara el código. Al cierre del plazo solo la Oficina del Gobierno lo había aprobado.",
+      "sota:summaryP2": "Es uno de los primeros intentos de un Estado de dar a los agentes de IA una identidad vinculada a una persona, y deja a la vista el problema jurídico de fondo: atribuir un acto al usuario no equivale a probar que lo autorizó. Para quien despliega agentes, el aviso es que la prueba de lo que hizo un agente dependerá de los registros del servicio, de la plataforma y del propio desplegador, no de una inscripción. Para los juristas europeos, el debate anticipa preguntas de mandato, representación y firma que llegarán con el Reglamento eIDAS y las carteras digitales. Matiz: es un borrador; puede llegar al Parlamento a principios de noviembre con cambios.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://complexdiscovery.com/estonias-ai-agent-register-would-link-a-code-to-a-person-and-state-watchdogs-ask-what-that-proves/",
+          "schema:name": "Estonia's AI agent register would link a code to a person, and state watchdogs ask what that proves",
+          "sota:sourceId": "src-complexdiscovery"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-estonia-mkm"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-estonia-dpi"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cybernetica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-doj-investiga-compra-hugging-face-nvidia-competencia-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-doj-investiga-compra-hugging-face-nvidia-competencia-ia",
+      "schema:headline": "El Departamento de Justicia de EE. UU. investiga si la compra de Hugging Face por Nvidia daña la competencia en IA al darle el control de un punto clave de distribución",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Departamento de Justicia de EE. UU. está examinando si la operación por la que Nvidia adquiere Hugging Face podría dañar la competencia en la industria de la IA al darle el control de un punto clave de distribución de modelos, informó Reuters el 28 de octubre de 2026, según recoge PYMNTS. Las preguntas forman parte de una investigación más amplia sobre la conducta de Nvidia, iniciada durante la Administración Biden y continuada con Trump, que también abarca otras adquisiciones e inversiones, sus prácticas de venta y posibles presiones a clientes. CNBC confirmó la investigación con otra fuente. Nvidia ha dicho que, tras la compra, Hugging Face seguirá trabajando con distintos fabricantes de chips, nubes y empresas de IA.",
+      "schema:articleBody": "El Departamento de Justicia de EE. UU. está examinando si la operación por la que Nvidia adquiere Hugging Face podría dañar la competencia en la industria de la IA al darle el control de un punto clave de distribución de modelos, informó Reuters el 28 de octubre de 2026, según recoge PYMNTS. Las preguntas forman parte de una investigación más amplia sobre la conducta de Nvidia, iniciada durante la Administración Biden y continuada con Trump, que también abarca otras adquisiciones e inversiones, sus prácticas de venta y posibles presiones a clientes. CNBC confirmó la investigación con otra fuente. Nvidia ha dicho que, tras la compra, Hugging Face seguirá trabajando con distintos fabricantes de chips, nubes y empresas de IA.\n\nHugging Face es el repositorio donde se publican y descargan buena parte de los modelos abiertos, incluidos los que usan muchas herramientas jurídicas y departamentos que prefieren modelos propios. Que el antimonopolio estadounidense mire esta operación indica que los reguladores tratan la distribución de modelos como infraestructura crítica. Para quien construye sobre modelos abiertos, el riesgo práctico es la dependencia de un único intermediario y las condiciones de acceso futuras. Matiz: una investigación no prueba ninguna infracción ni implica necesariamente una demanda; la información procede de fuentes anónimas.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "El control antimonopolio llega a la principal plataforma de distribución de modelos abiertos de IA.",
+      "sota:whyNow": "PYMNTS (citando a Reuters), 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "competencia",
+        "modelos abiertos",
+        "infraestructura"
+      ],
+      "sota:summaryP1": "El Departamento de Justicia de EE. UU. está examinando si la operación por la que Nvidia adquiere Hugging Face podría dañar la competencia en la industria de la IA al darle el control de un punto clave de distribución de modelos, informó Reuters el 28 de octubre de 2026, según recoge PYMNTS. Las preguntas forman parte de una investigación más amplia sobre la conducta de Nvidia, iniciada durante la Administración Biden y continuada con Trump, que también abarca otras adquisiciones e inversiones, sus prácticas de venta y posibles presiones a clientes. CNBC confirmó la investigación con otra fuente. Nvidia ha dicho que, tras la compra, Hugging Face seguirá trabajando con distintos fabricantes de chips, nubes y empresas de IA.",
+      "sota:summaryP2": "Hugging Face es el repositorio donde se publican y descargan buena parte de los modelos abiertos, incluidos los que usan muchas herramientas jurídicas y departamentos que prefieren modelos propios. Que el antimonopolio estadounidense mire esta operación indica que los reguladores tratan la distribución de modelos como infraestructura crítica. Para quien construye sobre modelos abiertos, el riesgo práctico es la dependencia de un único intermediario y las condiciones de acceso futuras. Matiz: una investigación no prueba ninguna infracción ni implica necesariamente una demanda; la información procede de fuentes anónimas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.pymnts.com/legal/2026/doj-probes-nvidias-hugging-face-deal-over-ai-competition-concerns/",
+          "schema:name": "DOJ Probes Nvidia’s Hugging Face Deal Over AI Competition Concerns",
+          "sota:sourceId": "src-pymnts"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-doj"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nvidia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hugging-face"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-borderpass-spellbook-blue-j-deloitte-fast-50-canada",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-borderpass-spellbook-blue-j-deloitte-fast-50-canada",
+      "schema:headline": "Tres legaltech de IA, BorderPass, Spellbook y Blue J, entran en el ranking de Deloitte de las tecnológicas que más crecen en Canadá",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Deloitte publicó el 28 de octubre de 2026 su Technology Fast 50 de Canadá, y tres empresas legaltech basadas en IA aparecen en la lista, informa LegalTech.ca. BorderPass, una práctica de inmigración fundada en Toronto en 2020 que combina automatización con supervisión de abogados colegiados, queda tercera. Spellbook, la herramienta de redacción y revisión de contratos con IA, también de Toronto, es séptima, y Blue J, plataforma de investigación fiscal con IA, ocupa el puesto 42. El ranking mide el crecimiento de ingresos a cuatro años, y la media de la promoción de este año es del 3.079%.",
+      "schema:articleBody": "Deloitte publicó el 28 de octubre de 2026 su Technology Fast 50 de Canadá, y tres empresas legaltech basadas en IA aparecen en la lista, informa LegalTech.ca. BorderPass, una práctica de inmigración fundada en Toronto en 2020 que combina automatización con supervisión de abogados colegiados, queda tercera. Spellbook, la herramienta de redacción y revisión de contratos con IA, también de Toronto, es séptima, y Blue J, plataforma de investigación fiscal con IA, ocupa el puesto 42. El ranking mide el crecimiento de ingresos a cuatro años, y la media de la promoción de este año es del 3.079%.\n\nLa presencia de tres legaltech en un ranking general de tecnología confirma que la IA jurídica ya compite por crecimiento con el resto del software. El caso de BorderPass es el más interesante para el sector: no vende una herramienta a despachos, sino que presta el servicio jurídico con IA y abogados, un modelo que los colegios de abogados aún miran con cautela fuera de Norteamérica. Para inversores y despachos, la lista da señales de qué modelos están escalando ingresos de verdad. Matiz: el ranking no publica las cifras de crecimiento de estas tres empresas en la nota recogida.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Legaltech de IA en el podio de un ranking general de crecimiento tecnológico, incluido un modelo de servicio jurídico con IA.",
+      "sota:whyNow": "LegalTech.ca, 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "mercado",
+        "crecimiento",
+        "inmigracion",
+        "contratos",
+        "fiscal"
+      ],
+      "sota:summaryP1": "Deloitte publicó el 28 de octubre de 2026 su Technology Fast 50 de Canadá, y tres empresas legaltech basadas en IA aparecen en la lista, informa LegalTech.ca. BorderPass, una práctica de inmigración fundada en Toronto en 2020 que combina automatización con supervisión de abogados colegiados, queda tercera. Spellbook, la herramienta de redacción y revisión de contratos con IA, también de Toronto, es séptima, y Blue J, plataforma de investigación fiscal con IA, ocupa el puesto 42. El ranking mide el crecimiento de ingresos a cuatro años, y la media de la promoción de este año es del 3.079%.",
+      "sota:summaryP2": "La presencia de tres legaltech en un ranking general de tecnología confirma que la IA jurídica ya compite por crecimiento con el resto del software. El caso de BorderPass es el más interesante para el sector: no vende una herramienta a despachos, sino que presta el servicio jurídico con IA y abogados, un modelo que los colegios de abogados aún miran con cautela fuera de Norteamérica. Para inversores y despachos, la lista da señales de qué modelos están escalando ingresos de verdad. Matiz: el ranking no publica las cifras de crecimiento de estas tres empresas en la nota recogida.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/10/28/legaltech-startups-rank-canada-growing-tech-firms/",
+          "schema:name": "Legaltech startups rank among Canada’s fastest-growing tech firms",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-borderpass"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spellbook"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-blue-j"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-deloitte"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-ca"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-supremo-eleva-5-por-ciento-indemnizacion-cartel-coches",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-supremo-eleva-5-por-ciento-indemnizacion-cartel-coches",
+      "schema:headline": "El Tribunal Supremo eleva del 2% al 5% del precio la indemnización mínima por el cártel de coches y desestima el recurso de Stellantis España",
+      "schema:datePublished": "2026-10-22",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Tribunal Supremo, en su sentencia 1644/2026 de 22 de octubre, ha elevado del 2% al 5% del precio del vehículo, más intereses legales desde la compra, la indemnización por el cártel de fabricantes de coches, informa Lawyerpress el 28 de octubre de 2026. Estima el recurso de casación de Arriaga Asociados frente a las resoluciones del Juzgado de lo Mercantil número 3 y de la Audiencia Provincial de Pontevedra, condena a Stellantis España y desestima su recurso con costas. El perito de los demandantes cifraba el sobreprecio en el 11,064%, pero ante la dificultad de cuantificarlo con exactitud el tribunal recurre a la estimación judicial del daño y fija el 5% como mínimo, por considerar que el 2% no repara el perjuicio ni disuade.",
+      "schema:articleBody": "El Tribunal Supremo, en su sentencia 1644/2026 de 22 de octubre, ha elevado del 2% al 5% del precio del vehículo, más intereses legales desde la compra, la indemnización por el cártel de fabricantes de coches, informa Lawyerpress el 28 de octubre de 2026. Estima el recurso de casación de Arriaga Asociados frente a las resoluciones del Juzgado de lo Mercantil número 3 y de la Audiencia Provincial de Pontevedra, condena a Stellantis España y desestima su recurso con costas. El perito de los demandantes cifraba el sobreprecio en el 11,064%, pero ante la dificultad de cuantificarlo con exactitud el tribunal recurre a la estimación judicial del daño y fija el 5% como mínimo, por considerar que el 2% no repara el perjuicio ni disuade.\n\nEl 2% se había convertido en referencia para muchos juzgados, así que el criterio puede mover las reclamaciones pendientes y los acuerdos extrajudiciales en este y otros litigios de daños por infracciones de competencia. Para los despachos de demandantes, refuerza la estimación judicial cuando la prueba pericial no basta; para los fabricantes demandados, encarece el riesgo de cada procedimiento. Matiz: la noticia procede del despacho ganador y el porcentaje se fija para el supuesto examinado, no como regla general.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 6.7,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "El Supremo fija un nuevo mínimo indemnizatorio en uno de los grandes litigios masivos de competencia en España.",
+      "sota:whyNow": "Lawyerpress, 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "competencia",
+        "daños",
+        "litigacion masiva"
+      ],
+      "sota:summaryP1": "El Tribunal Supremo, en su sentencia 1644/2026 de 22 de octubre, ha elevado del 2% al 5% del precio del vehículo, más intereses legales desde la compra, la indemnización por el cártel de fabricantes de coches, informa Lawyerpress el 28 de octubre de 2026. Estima el recurso de casación de Arriaga Asociados frente a las resoluciones del Juzgado de lo Mercantil número 3 y de la Audiencia Provincial de Pontevedra, condena a Stellantis España y desestima su recurso con costas. El perito de los demandantes cifraba el sobreprecio en el 11,064%, pero ante la dificultad de cuantificarlo con exactitud el tribunal recurre a la estimación judicial del daño y fija el 5% como mínimo, por considerar que el 2% no repara el perjuicio ni disuade.",
+      "sota:summaryP2": "El 2% se había convertido en referencia para muchos juzgados, así que el criterio puede mover las reclamaciones pendientes y los acuerdos extrajudiciales en este y otros litigios de daños por infracciones de competencia. Para los despachos de demandantes, refuerza la estimación judicial cuando la prueba pericial no basta; para los fabricantes demandados, encarece el riesgo de cada procedimiento. Matiz: la noticia procede del despacho ganador y el porcentaje se fija para el supuesto examinado, no como regla general.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawyerpress.com/2026/10/28/el-supremo-eleva-al-5-la-indemnizacion-por-el-cartel-de-coches-tras-un-recurso-de-arriaga-asociados/",
+          "schema:name": "El Supremo eleva al 5% la indemnización por el cártel de coches tras un recurso de Arriaga Asociados",
+          "sota:sourceId": "src-lawyerpress-news"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-es"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stellantis"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-arriaga-asociados"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawyerpress"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-notarios-gestores-administrativos-cataluna-conectan-plataformas-sociedades-online",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-notarios-gestores-administrativos-cataluna-conectan-plataformas-sociedades-online",
+      "schema:headline": "Notarios y gestores administrativos de Cataluña conectan sus plataformas para constituir sociedades y otorgar poderes en línea desde la gestoría",
+      "schema:datePublished": "2026-10-27",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Colegio Notarial de Cataluña y el Colegio Oficial de Gestores Administrativos de Cataluña presentaron el 27 de octubre en Barcelona la interconexión de la plataforma GENOE de los gestores con la Sede Electrónica Notarial, informa Lawyerpress el 28 de octubre de 2026. Permite iniciar desde una gestoría trámites notariales que la ley ya admite por videoconferencia, como la constitución de sociedades, poderes y su revocación, pólizas mercantiles, modificaciones societarias y algunas actas, con el notario elegido por el cliente. En la demostración se constituyó una sociedad limitada íntegramente en línea con videoconferencia y firma electrónica cualificada. El sistema ya se había presentado en Madrid por el Consejo General del Notariado y el de los gestores.",
+      "schema:articleBody": "El Colegio Notarial de Cataluña y el Colegio Oficial de Gestores Administrativos de Cataluña presentaron el 27 de octubre en Barcelona la interconexión de la plataforma GENOE de los gestores con la Sede Electrónica Notarial, informa Lawyerpress el 28 de octubre de 2026. Permite iniciar desde una gestoría trámites notariales que la ley ya admite por videoconferencia, como la constitución de sociedades, poderes y su revocación, pólizas mercantiles, modificaciones societarias y algunas actas, con el notario elegido por el cliente. En la demostración se constituyó una sociedad limitada íntegramente en línea con videoconferencia y firma electrónica cualificada. El sistema ya se había presentado en Madrid por el Consejo General del Notariado y el de los gestores.\n\nEs un paso práctico en la digitalización de la fe pública: el notario sigue controlando la legalidad, pero el punto de entrada se acerca a donde ya están pymes y autónomos. Para los despachos que asesoran en constitución de sociedades, aparece un canal competidor apoyado en la red territorial de gestorías, sobre todo en zonas rurales. Para los vendors de software societario, la integración con la Sede Electrónica Notarial es la vía a seguir. Matiz: la información procede de las corporaciones; no hay datos de uso ni de costes.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Interconexión entre dos colectivos profesionales que lleva la actuación notarial telemática a la gestoría.",
+      "sota:whyNow": "Lawyerpress, 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "notariado",
+        "sociedades",
+        "digitalizacion",
+        "videoconferencia"
+      ],
+      "sota:summaryP1": "El Colegio Notarial de Cataluña y el Colegio Oficial de Gestores Administrativos de Cataluña presentaron el 27 de octubre en Barcelona la interconexión de la plataforma GENOE de los gestores con la Sede Electrónica Notarial, informa Lawyerpress el 28 de octubre de 2026. Permite iniciar desde una gestoría trámites notariales que la ley ya admite por videoconferencia, como la constitución de sociedades, poderes y su revocación, pólizas mercantiles, modificaciones societarias y algunas actas, con el notario elegido por el cliente. En la demostración se constituyó una sociedad limitada íntegramente en línea con videoconferencia y firma electrónica cualificada. El sistema ya se había presentado en Madrid por el Consejo General del Notariado y el de los gestores.",
+      "sota:summaryP2": "Es un paso práctico en la digitalización de la fe pública: el notario sigue controlando la legalidad, pero el punto de entrada se acerca a donde ya están pymes y autónomos. Para los despachos que asesoran en constitución de sociedades, aparece un canal competidor apoyado en la red territorial de gestorías, sobre todo en zonas rurales. Para los vendors de software societario, la integración con la Sede Electrónica Notarial es la vía a seguir. Matiz: la información procede de las corporaciones; no hay datos de uso ni de costes.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawyerpress.com/2026/10/28/notarios-y-gestores-administrativos-conectan-sus-plataformas-para-facilitar-la-constitucion-de-sociedades-y-otros-tramites-en-linea/",
+          "schema:name": "Notarios y gestores administrativos conectan sus plataformas para facilitar la constitución de sociedades y otros trámites en línea",
+          "sota:sourceId": "src-lawyerpress-news"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-colegio-notarial-cataluna"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gestores-administrativos-cataluna"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawyerpress"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-icam-digital-premio-legaltech-santander-confilegal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-29-icam-digital-premio-legaltech-santander-confilegal",
+      "schema:headline": "El proyecto ICAM Digital del Colegio de la Abogacía de Madrid gana el Premio Legaltech Santander de los IX Premios Confilegal",
+      "schema:datePublished": "2026-10-28",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El proyecto ICAM Digital del Ilustre Colegio de la Abogacía de Madrid ha ganado el Premio Legaltech Santander en la IX edición de los Premios Confilegal, anunció el propio ICAM el 28 de octubre de 2026. El jurado, de 24 miembros, destaca la modernización del turno de oficio, la justicia gratuita, la colegiación, la deontología y los honorarios. Según el Colegio, en 2025 digitalizó el 100% de los expedientes de deontología y el 87% de los de honorarios, dentro de una estrategia que incluye el portal mi.icam.es y la atención omnicanal. El ICAM gestiona más de 468.000 expedientes al año para cerca de 74.000 colegiados. El premio se entregará el 25 de noviembre en Madrid.",
+      "schema:articleBody": "El proyecto ICAM Digital del Ilustre Colegio de la Abogacía de Madrid ha ganado el Premio Legaltech Santander en la IX edición de los Premios Confilegal, anunció el propio ICAM el 28 de octubre de 2026. El jurado, de 24 miembros, destaca la modernización del turno de oficio, la justicia gratuita, la colegiación, la deontología y los honorarios. Según el Colegio, en 2025 digitalizó el 100% de los expedientes de deontología y el 87% de los de honorarios, dentro de una estrategia que incluye el portal mi.icam.es y la atención omnicanal. El ICAM gestiona más de 468.000 expedientes al año para cerca de 74.000 colegiados. El premio se entregará el 25 de noviembre en Madrid.\n\nEl reconocimiento apunta a una legaltech menos visible que la IA generativa pero con mucho impacto diario: la digitalización de los servicios colegiales de los que dependen el turno de oficio y la justicia gratuita. Para los abogados de Madrid, el efecto práctico está en tramitar en línea lo que antes exigía papel y desplazamientos. Para otros colegios, el ICAM se convierte en referencia de lo que se puede medir. Matiz: las cifras proceden del propio Colegio.",
+      "sota:type": "other",
+      "sota:sotaScore": 5.9,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Premio sectorial a la transformación digital del mayor colegio de la abogacía de España.",
+      "sota:whyNow": "ICAM, 28 oct 2026. NEW frente a 09-29→10-28.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "colegios profesionales",
+        "digitalizacion",
+        "turno de oficio"
+      ],
+      "sota:summaryP1": "El proyecto ICAM Digital del Ilustre Colegio de la Abogacía de Madrid ha ganado el Premio Legaltech Santander en la IX edición de los Premios Confilegal, anunció el propio ICAM el 28 de octubre de 2026. El jurado, de 24 miembros, destaca la modernización del turno de oficio, la justicia gratuita, la colegiación, la deontología y los honorarios. Según el Colegio, en 2025 digitalizó el 100% de los expedientes de deontología y el 87% de los de honorarios, dentro de una estrategia que incluye el portal mi.icam.es y la atención omnicanal. El ICAM gestiona más de 468.000 expedientes al año para cerca de 74.000 colegiados. El premio se entregará el 25 de noviembre en Madrid.",
+      "sota:summaryP2": "El reconocimiento apunta a una legaltech menos visible que la IA generativa pero con mucho impacto diario: la digitalización de los servicios colegiales de los que dependen el turno de oficio y la justicia gratuita. Para los abogados de Madrid, el efecto práctico está en tramitar en línea lo que antes exigía papel y desplazamientos. Para otros colegios, el ICAM se convierte en referencia de lo que se puede medir. Matiz: las cifras proceden del propio Colegio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://web.icam.es/icam-digital-reconocido-con-el-premio-legaltech-santander-en-los-ix-premios-confilegal/",
+          "schema:name": "ICAM Digital, reconocido con el Premio Legaltech Santander en los IX Premios Confilegal",
+          "sota:sourceId": "src-icam"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icam"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-banco-santander"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-above-the-law",
+      "schema:name": "Above the Law",
+      "sota:entityType": "media",
+      "schema:url": "https://abovethelaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-arriaga-asociados",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-arriaga-asociados",
+      "schema:name": "Arriaga Asociados",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.arriagaasociados.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-banco-santander",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-banco-santander",
+      "schema:name": "Banco Santander",
+      "sota:entityType": "company",
+      "schema:url": "https://www.santander.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-blue-j",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-blue-j",
+      "schema:name": "Blue J",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.bluej.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-borderpass",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-borderpass",
+      "schema:name": "BorderPass",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.borderpass.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-colegio-notarial-cataluna",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-colegio-notarial-cataluna",
+      "schema:name": "Colegio Notarial de Cataluña",
+      "sota:entityType": "association",
+      "schema:url": "https://www.notarisdecatalunya.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-complexdiscovery",
+      "schema:name": "ComplexDiscovery",
+      "sota:entityType": "media",
+      "schema:url": "https://complexdiscovery.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-confilegal",
+      "schema:name": "Confilegal",
+      "sota:entityType": "media",
+      "schema:url": "https://confilegal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cybernetica",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cybernetica",
+      "schema:name": "Cybernetica",
+      "sota:entityType": "company",
+      "schema:url": "https://cyber.ee/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-davis-polk",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-davis-polk",
+      "schema:name": "Davis Polk",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.davispolk.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-deloitte",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-deloitte",
+      "schema:name": "Deloitte",
+      "sota:entityType": "company",
+      "schema:url": "https://www.deloitte.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ediscovery-today",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ediscovery-today",
+      "schema:name": "eDiscovery Today",
+      "sota:entityType": "media",
+      "schema:url": "https://ediscoverytoday.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-estonia-dpi",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-estonia-dpi",
+      "schema:name": "Andmekaitse Inspektsioon (Estonian Data Protection Inspectorate)",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.aki.ee/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-estonia-mkm",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-estonia-mkm",
+      "schema:name": "Ministerio de Asuntos Económicos y Comunicaciones de Estonia",
+      "sota:entityType": "government",
+      "schema:url": "https://www.mkm.ee/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-everlaw",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-everlaw",
+      "schema:name": "Everlaw",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.everlaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-gestores-administrativos-cataluna",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-gestores-administrativos-cataluna",
+      "schema:name": "Colegio Oficial de Gestores Administrativos de Cataluña",
+      "sota:entityType": "association",
+      "schema:url": "https://www.gestors.cat/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-goodwin",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-goodwin",
+      "schema:name": "Goodwin",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.goodwinlaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hugging-face",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-hugging-face",
+      "schema:name": "Hugging Face",
+      "sota:entityType": "company",
+      "schema:url": "https://huggingface.co/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icam",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-icam",
+      "schema:name": "Ilustre Colegio de la Abogacía de Madrid",
+      "sota:entityType": "association",
+      "schema:url": "https://web.icam.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawyerpress",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawyerpress",
+      "schema:name": "Lawyerpress",
+      "sota:entityType": "media",
+      "schema:url": "https://www.lawyerpress.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-business",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-business",
+      "schema:name": "Legal Business",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalbusiness.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-ca",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legaltech-ca",
+      "schema:name": "LegalTech.ca",
+      "sota:entityType": "media",
+      "schema:url": "https://legaltech.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nvidia",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nvidia",
+      "schema:name": "Nvidia",
+      "sota:entityType": "company",
+      "schema:url": "https://www.nvidia.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ny-attorney-general",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ny-attorney-general",
+      "schema:name": "Fiscal General del Estado de Nueva York",
+      "sota:entityType": "government",
+      "schema:url": "https://ag.ny.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ny-governor",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ny-governor",
+      "schema:name": "Gobernadora del Estado de Nueva York",
+      "sota:entityType": "government",
+      "schema:url": "https://www.governor.ny.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pymnts",
+      "schema:name": "PYMNTS",
+      "sota:entityType": "media",
+      "schema:url": "https://www.pymnts.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spellbook",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-spellbook",
+      "schema:name": "Spellbook",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.spellbook.legal/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-stellantis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-stellantis",
+      "schema:name": "Stellantis",
+      "sota:entityType": "company",
+      "schema:url": "https://www.stellantis.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-thomson-reuters",
+      "schema:name": "Thomson Reuters",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.thomsonreuters.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-es",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tribunal-supremo-es",
+      "schema:name": "Tribunal Supremo (España)",
+      "sota:entityType": "other",
+      "schema:url": "https://www.poderjudicial.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-unite-ai",
+      "schema:name": "Unite.AI",
+      "sota:entityType": "media",
+      "schema:url": "https://www.unite.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-doj",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-us-doj",
+      "schema:name": "Departamento de Justicia de EE. UU.",
+      "sota:entityType": "government",
+      "schema:url": "https://www.justice.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vorys",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-vorys",
+      "schema:name": "Vorys, Sater, Seymour and Pease",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.vorys.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-weil",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-weil",
+      "schema:name": "Weil, Gotshal & Manges",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.weil.com/",
+      "sota:stub": true
+    }
+  ]
+}

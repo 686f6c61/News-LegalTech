@@ -1,0 +1,10 @@
+id: ent-cybernetica
+name: Cybernetica
+type: company
+url: https://cyber.ee/
+geo:
+- EE
+aliases: []
+notes: Empresa tecnológica estonia de servicios de autenticación y administración
+  electrónica. Ficha mínima.
+stub: true

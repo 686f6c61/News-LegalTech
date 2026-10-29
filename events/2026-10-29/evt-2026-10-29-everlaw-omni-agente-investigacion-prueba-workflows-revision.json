@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-29-everlaw-omni-agente-investigacion-prueba-workflows-revision",
+  "date": "2026-10-28",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Everlaw lanza Omni, un agente que investiga la prueba de un asunto con citas al documento, y Workflows para automatizar revisiones documentales con controles humanos",
+  "short_title": "Everlaw lanza Omni, su agente para investigar la prueba",
+  "standfirst": "Omni sustituye a Deep Dive e incorpora una memoria del caso; Bracewell y Vorys ya lo usan en acceso anticipado.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "eDiscovery",
+  "country": "Estados Unidos",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "Everlaw presentó en su Everlaw Summit de San Francisco Omni, su suite agéntica de investigación, y Workflows, informa eDiscovery Today el 28 de octubre de 2026 a partir de la nota de prensa. Omni parte de Deep Dive y añade un agente que responde en lenguaje natural combinando funciones de la plataforma, por ejemplo «establecer quién sabía qué y cuándo», con resultados citados al documento, la página o el párrafo, y Case Memory, una biblioteca de hechos extraídos de demandas y declaraciones. Workflows permite diseñar en un lienzo de arrastrar y soltar cómo pasan los documentos por las fases de una revisión, con puntos de aprobación humana. Bracewell, Vorys y Cole, Scott & Kissane lo usan en acceso anticipado; Everlaw anunció también Everlaw for Word y, en su blog, una integración próxima con CoCounsel Legal de Thomson Reuters.",
+  "summary_p2": "Las plataformas de eDiscovery están pasando de responder preguntas sobre documentos a ejecutar trabajo en varios pasos dentro del expediente, con registro de las herramientas que usa el agente para poder auditar el proceso. Para los equipos de litigación, la clave es la defendibilidad: que cada hecho remita a su fuente y que la revisión deje rastro de quién decidió qué. Para los proveedores de servicios de revisión, Workflows automatiza parte de la coordinación que hoy venden como servicio. Matiz: la información procede del propio Everlaw y de sus clientes de acceso anticipado; la integración con CoCounsel aún no está disponible.",
+  "why_sota": "Un líder de eDiscovery mete un agente orquestador y memoria del caso en el núcleo de la plataforma de litigación.",
+  "why_now": "eDiscovery Today, 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ediscovery",
+    "agentes",
+    "litigacion",
+    "revision documental"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ediscovery-today",
+      "url": "https://ediscoverytoday.com/2026/10/28/everlaw-introduces-everlaw-omni-and-workflows/",
+      "cited_title": "Everlaw Introduces Everlaw Omni and Workflows",
+      "accessed": "2026-10-29"
+    },
+    {
+      "source_id": "src-everlaw-legal-ai-adoption-impact-report",
+      "url": "https://www.everlaw.com/blog/ai-and-law/everlaw-and-thomson-reuters-cocounsel-partnership/",
+      "cited_title": "Everlaw and Thomson Reuters CoCounsel Legal Launch New Partnership",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-everlaw",
+    "ent-vorys",
+    "ent-thomson-reuters",
+    "ent-ediscovery-today"
+  ],
+  "lang": "es",
+  "status": "published"
+}

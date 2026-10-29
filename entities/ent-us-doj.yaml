@@ -1,0 +1,12 @@
+id: ent-us-doj
+name: Departamento de Justicia de EE. UU.
+type: government
+url: https://www.justice.gov/
+geo:
+- US
+aliases:
+- DOJ
+- Department of Justice
+notes: Departamento de Justicia federal, incluida su División Antimonopolio. Ficha
+  mínima.
+stub: true

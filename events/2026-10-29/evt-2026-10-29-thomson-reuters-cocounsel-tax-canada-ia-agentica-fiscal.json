@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-29-thomson-reuters-cocounsel-tax-canada-ia-agentica-fiscal",
+  "date": "2026-10-28",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Thomson Reuters lanza CoCounsel Tax Canada, una plataforma de IA agéntica para asesores fiscales canadienses basada en el contenido de Taxnet Pro",
+  "short_title": "Thomson Reuters lanza CoCounsel Tax Canada para asesores fiscales",
+  "standfirst": "Promete resultados trazables a la norma y a la doctrina, borradores de cartas a clientes y una base de conocimiento con documentos del despacho.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Canadá",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "Thomson Reuters ha lanzado esta semana CoCounsel Tax Canada, una plataforma de IA agéntica para profesionales fiscales en Canadá, informa LegalTech.ca el 28 de octubre de 2026. Se apoya en la legislación, los reglamentos, las guías de la agencia tributaria canadiense y los comentarios de Taxnet Pro. Además de responder consultas, genera análisis, resúmenes y primeros borradores de correspondencia con clientes, revisa varios documentos de un encargo para detectar hechos y riesgos, usa plantillas aprobadas por la firma e incorpora documentos internos a través de una base de conocimiento (Knowledge Base). La compañía lo presenta bajo su etiqueta de «IA de grado fiduciario» (Fiduciary-Grade AI).",
+  "summary_p2": "La fiscalidad es uno de los terrenos donde la IA jurídica se juega más: normas que cambian con frecuencia, criterios administrativos y responsabilidad profesional por el consejo. El énfasis en trazabilidad y en que el profesional revise el resultado responde a esa exigencia más que a la velocidad. Para despachos y asesorías fiscales, la pregunta práctica es cómo documentar que una respuesta de la IA se verificó antes de llegar al cliente. Matiz: la información procede de Thomson Reuters a través de un medio canadiense; no hay datos de precisión ni de precio.",
+  "why_sota": "El mayor proveedor de contenido jurídico y fiscal lleva su capa agéntica a una vertical nacional con contenido propio.",
+  "why_now": "LegalTech.ca, 28 oct 2026. NEW frente a 09-29→10-28.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "fiscal",
+    "agentes",
+    "contenido",
+    "proveedores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/10/28/thomson-reuters-brings-agentic-ai-to-canadian-tax-professionals/",
+      "cited_title": "Thomson Reuters brings agentic AI to Canadian tax professionals",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-thomson-reuters",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

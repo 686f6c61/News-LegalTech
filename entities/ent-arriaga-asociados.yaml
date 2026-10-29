@@ -1,0 +1,9 @@
+id: ent-arriaga-asociados
+name: Arriaga Asociados
+type: law_firm
+url: https://www.arriagaasociados.com/
+geo:
+- ES
+aliases: []
+notes: Despacho español de reclamaciones de consumidores. Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-colegio-notarial-cataluna
+name: Colegio Notarial de Cataluña
+type: association
+url: https://www.notarisdecatalunya.org/
+geo:
+- ES
+aliases:
+- Col·legi de Notaris de Catalunya
+notes: Corporación notarial de Cataluña. Ficha mínima.
+stub: true

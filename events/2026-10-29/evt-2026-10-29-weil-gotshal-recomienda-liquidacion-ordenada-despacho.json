@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-29-weil-gotshal-recomienda-liquidacion-ordenada-despacho",
+  "date": "2026-10-28",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": false,
+  "title": "Weil, Gotshal & Manges anuncia que su comité de dirección recomienda la liquidación ordenada del despacho tras meses de fugas de socios y una fusión fallida",
+  "short_title": "Weil, Gotshal & Manges propone liquidar el despacho tras 95 años",
+  "standfirst": "Los socios votarán la disolución en pocos días; Davis Polk asesora el proceso y la comparación inevitable es Dewey & LeBoeuf en 2012.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "El comité de dirección de Weil, Gotshal & Manges ha recomendado «una liquidación ordenada» (orderly wind-down) del despacho, anunció la firma el 28 de octubre de 2026, y los socios votarán la disolución en los próximos días, informa Legal Business. Above the Law, que cita a Bloomberg Law, añade que el despacho, fundado en 1931, facturó 2.100 millones de dólares el año pasado y que el abogado concursal de Davis Polk Brian Resnick asesora el proceso. La caída ha sido rápida: la salida del presidente de corporativo Mike Aiello a Cravath en septiembre, las negociaciones de fusión con Willkie Farr que se rompieron, la renuncia de Ramona Nee a asumir la dirección y una oleada de socios buscando sitio en otros despachos.",
+  "summary_p2": "Es el mayor colapso de un gran despacho estadounidense desde Dewey & LeBoeuf en 2012, y se produce en una firma que construyó la práctica concursal moderna con Lehman Brothers, General Motors o Enron. Para los clientes, lo urgente es la continuidad de los asuntos abiertos: a qué despacho se van los equipos, qué pasa con los expedientes y con las obligaciones de confidencialidad y conflicto. Para el resto del mercado, el caso recuerda que en un despacho sin capital externo la confianza de los socios es el balance: cuando empiezan las salidas, la espiral puede cerrarse en semanas. Matiz: la decisión aún debe votarse y parte del detalle procede de fuentes anónimas citadas por la prensa.",
+  "why_sota": "Liquidación de un despacho del top de Am Law, con efectos sobre clientes, talento y fusiones en todo el mercado.",
+  "why_now": "Legal Business y Above the Law, 28 oct 2026. NEW frente a 09-29→10-28 (el 10-23 se publicó solo la ruptura con Willkie).",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "despachos",
+    "mercado",
+    "gobierno corporativo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-business",
+      "url": "https://www.legalbusiness.co.uk/law-firms/weil-management-recommends-orderly-wind-down/",
+      "cited_title": "Weil management recommends ‘orderly wind-down’",
+      "accessed": "2026-10-29"
+    },
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/10/after-95-years-weil-gotshal-is-winding-down/",
+      "cited_title": "After 95 Years, Weil Gotshal Is Winding Down",
+      "accessed": "2026-10-29"
+    }
+  ],
+  "entities": [
+    "ent-weil",
+    "ent-davis-polk",
+    "ent-legal-business",
+    "ent-above-the-law"
+  ],
+  "lang": "es",
+  "status": "published"
+}
