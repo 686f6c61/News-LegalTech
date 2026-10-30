@@ -1,0 +1,11 @@
+id: ent-ministerio-justicia-ar
+name: Ministerio de Justicia de la Nación (Argentina)
+type: government
+url: https://www.argentina.gob.ar/justicia
+geo:
+- AR
+aliases:
+- Ministerio de Justicia de Argentina
+notes: Ministerio argentino que creó la Mesa Estratégica de Inteligencia Artificial
+  en la Justicia (MEIAJ). Ficha mínima.
+stub: true

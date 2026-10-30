@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-10-30-icam-herramienta-incidencias-judiciales",
+  "date": "2026-10-29",
+  "type": "product",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "El ICAM lanza una aplicación para que los abogados comuniquen, incluso de forma anónima, retrasos, suspensiones y malos tratos en los juzgados desde las tabletas de sus Salas de la Abogacía",
+  "short_title": "El ICAM lanza una app para denunciar incidencias en los juzgados",
+  "standfirst": "Según su encuesta, más del 70% de los abogados sufre incidencias en los tribunales, pero solo el 13% las comunica al Colegio.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Colegios profesionales",
+  "country": "España",
+  "piece_type": "Producto",
+  "summary_p1": "El Ilustre Colegio de la Abogacía de Madrid (ICAM) ha lanzado una aplicación web, disponible en las tabletas de todas sus Salas de la Abogacía, para que los colegiados comuniquen de forma rápida y, si quieren, anónima las incidencias que sufren en juzgados y tribunales, anunció el 29 de octubre. Parte de su macroencuesta de 2023 con GAD3: más del 70% de los profesionales sufre incidencias, pero solo el 13% las comunica. En 2025 el Colegio trasladó 187 incidencias al CGPJ y al TSJ de Madrid; el 70% de los retrasos superó los 90 minutos, con esperas de hasta seis horas, y el 49% de las dilaciones superó los doce meses.",
+  "summary_p2": "La herramienta convierte una queja informal en datos que el Colegio puede llevar al CGPJ y al TSJ de Madrid, y también recoge buenas prácticas, lo que da una visión más equilibrada del funcionamiento de los tribunales. Para los despachos, es una vía sencilla para dejar constancia de esperas y suspensiones que afectan a la defensa y a la facturación, sin volver a la oficina. Para otros colegios, es un modelo replicable de bajo coste. Matiz: no hay datos todavía sobre su uso y las cifras proceden de los propios informes del ICAM.",
+  "why_sota": "Herramienta colegial para cuantificar incidencias judiciales con reporte anónimo.",
+  "why_now": "ICAM y Lawyerpress, 29 oct 2026. NEW frente a 09-29→10-29 (el 10-28 se publicó solo el premio a ICAM Digital).",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "colegios profesionales",
+    "administración de justicia",
+    "herramientas digitales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-icam",
+      "url": "https://web.icam.es/icam-herramienta-incidencias-judiciales/",
+      "cited_title": "Incidencias judiciales: ICAM lanza una herramienta para reportarlas",
+      "accessed": "2026-10-30"
+    },
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/10/29/el-icam-habilita-una-herramienta-para-comunicar-incidencias-judiciales-tambien-de-forma-anonima/",
+      "cited_title": "El ICAM habilita una herramienta para comunicar incidencias judiciales, también de forma anónima",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-icam",
+    "ent-lawyerpress"
+  ],
+  "lang": "es",
+  "status": "published"
+}

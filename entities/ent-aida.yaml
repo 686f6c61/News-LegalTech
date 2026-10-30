@@ -1,0 +1,11 @@
+id: ent-aida
+name: Aida
+type: vendor
+url: https://www.harvey.ai/
+geo:
+- US
+aliases:
+- Aida AI
+notes: Plataforma de ejecución comercial con IA fundada por Piyush Prahladka y Atish
+  Das Sarma; adquirida por Harvey en octubre de 2026. Ficha mínima.
+stub: true

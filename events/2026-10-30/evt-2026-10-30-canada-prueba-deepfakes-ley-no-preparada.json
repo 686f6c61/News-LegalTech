@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-30-canada-prueba-deepfakes-ley-no-preparada",
+  "date": "2026-10-29",
+  "type": "analysis",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Litigadores canadienses avisan de que la ley de prueba no está preparada para los deepfakes: la Canada Evidence Act presume auténtico el documento electrónico si el sistema funcionaba bien",
+  "short_title": "Canadá: la ley de prueba no está lista para los deepfakes",
+  "standfirst": "Blakes y Heuristica piden centrarse en la cadena de custodia y los metadatos, y una doctrina de autenticación que mire la procedencia y no solo el contenido.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Prueba",
+  "country": "Canadá",
+  "piece_type": "Análisis",
+  "summary_p1": "Abogados canadienses creen que el riesgo de prueba falsificada con IA crece más rápido que las reglas para detectarla, publicó Canadian Lawyer el 29 de octubre. Emily Hazlett, socia de Blake, Cassels & Graydon, recuerda que aún no hay sentencias civiles en Canadá sobre intentos de usar deepfakes y que eso no debe dar \"falsa tranquilidad\". Kelly Friedman, de Heuristica, señala que la Canada Evidence Act presume auténtico un documento electrónico si se guardó en un sistema que funcionaba bien, un estándar que muchos deepfakes superan, y que nadie pregunta si el hecho que muestra llegó a ocurrir.",
+  "summary_p2": "Ambas citan la guía del Consejo Judicial de Canadá de mediados de octubre, que advierte también del riesgo contrario: que pruebas auténticas se rechacen como falsas, el llamado \"dividendo del mentiroso\". Para los litigadores, la consecuencia práctica es preservar originales, metadatos y la cadena de custodia de cada audio, vídeo o foto relevante desde el primer día, y preparar peritajes de procedencia. Para proveedores de eDiscovery y forense digital, la autenticación se convierte en un servicio con demanda creciente. Matiz: es la opinión de dos abogadas en un medio profesional, no una reforma ni una sentencia.",
+  "why_sota": "Diagnóstico concreto de por qué la presunción de autenticidad electrónica falla frente a la IA generativa.",
+  "why_now": "Canadian Lawyer, 29 oct 2026. NEW frente a 09-29→10-29 (el 10-20 se publicó la guía del Consejo Judicial; esta pieza aporta el análisis de la Canada Evidence Act).",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "deepfakes",
+    "prueba",
+    "IA generativa",
+    "litigación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-canadian-lawyer",
+      "url": "https://www.canadianlawyermag.com/news/general/risk-of-deepfake-evidence-is-developing-faster-than-canadas-rules-for-navigating-it-litigators/394860",
+      "cited_title": "Deepfake evidence risks developing faster than Canada's rules: litigators",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-canadian-lawyer",
+    "ent-canadian-judicial-council"
+  ],
+  "lang": "es",
+  "status": "published"
+}

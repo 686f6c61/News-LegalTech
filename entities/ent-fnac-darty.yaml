@@ -1,0 +1,11 @@
+id: ent-fnac-darty
+name: Fnac Darty
+type: company
+url: https://www.fnacdarty.com/
+geo:
+- FR
+aliases:
+- FNAC DARTY PARTICIPATIONS ET SERVICES
+- FNAC DIRECT
+notes: Grupo francés de distribución. Ficha mínima.
+stub: true

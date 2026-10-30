@@ -12,8 +12,8 @@
         "schema:CreativeWork"
       ],
       "schema:name": "Radar LegalTech · acumulado",
-      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-10-29, 294 eventos).",
-      "schema:temporalCoverage": "2026-09-29/2026-10-29",
+      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-10-30, 304 eventos).",
+      "schema:temporalCoverage": "2026-09-29/2026-10-30",
       "schema:inLanguage": "es",
       "schema:license": "https://spdx.org/licenses/MIT.html",
       "schema:hasPart": [
@@ -898,6 +898,36 @@
         },
         {
           "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-29-icam-digital-premio-legaltech-santander-confilegal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-harvey-compra-aida-quinta-adquisicion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-cjc-declaracion-ia-testigos-peritos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-vos-despedida-abogados-humanos-no-son-pasado"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-argentina-mesa-estrategica-ia-justicia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-exencion-religiosa-humanista-no-usar-ia-trabajo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-dexterity-law-despacho-ma-ia-honorarios-cerrados"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-canada-prueba-deepfakes-ley-no-preparada"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-cnil-multa-fnac-7-millones-cookies-app"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-general-motors-220-millones-36-estados-datos-conduccion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-icam-herramienta-incidencias-judiciales"
         }
       ]
     },
@@ -14414,6 +14444,467 @@
       ]
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-harvey-compra-aida-quinta-adquisicion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-harvey-compra-aida-quinta-adquisicion",
+      "schema:headline": "Harvey compra Aida, plataforma de IA fundada por un cofundador de Glean, para ayudar a cada despacho a construir su propia ontología de conocimiento; es su quinta adquisición de 2026",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Harvey ha comprado Aida, una plataforma de ejecución comercial con IA fundada por Piyush Prahladka, cofundador de Glean, y Atish Das Sarma, con experiencia previa en Patreon, Apple y X, informó Artificial Lawyer el 29 de octubre. Es la quinta adquisición de Harvey en 2026, tras Benchmark en julio y Guardrails AI en septiembre, y el equipo de ingenieros de búsqueda y aprendizaje automático se incorpora a su organización de producto e ingeniería. Harvey explica que lo que frena hoy a los agentes es que \"no saben lo suficiente\" y que el equipo de Aida acelerará su trabajo para que cada despacho construya su propia ontología. No se ha publicado el precio.",
+      "schema:articleBody": "Harvey ha comprado Aida, una plataforma de ejecución comercial con IA fundada por Piyush Prahladka, cofundador de Glean, y Atish Das Sarma, con experiencia previa en Patreon, Apple y X, informó Artificial Lawyer el 29 de octubre. Es la quinta adquisición de Harvey en 2026, tras Benchmark en julio y Guardrails AI en septiembre, y el equipo de ingenieros de búsqueda y aprendizaje automático se incorpora a su organización de producto e ingeniería. Harvey explica que lo que frena hoy a los agentes es que \"no saben lo suficiente\" y que el equipo de Aida acelerará su trabajo para que cada despacho construya su propia ontología. No se ha publicado el precio.\n\nLa compra confirma que Harvey no está comprando legaltech tradicional sino talento de IA empresarial, y que la próxima batalla de los asistentes jurídicos es el contexto: conectar documentos, sistemas y conocimiento interno que hoy están dispersos. Para los despachos, eso convierte la gestión del conocimiento en un proyecto de datos con implicaciones de seguridad, permisos y confidencialidad que conviene diseñar antes de dejar que un proveedor indexe todo. Para los competidores, la carrera ya no es solo por el modelo, sino por quién mapea mejor el saber propio de cada cliente. Matiz: las declaraciones proceden de Harvey y de los fundadores de Aida.",
+      "sota:type": "investment",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Quinta compra del año del proveedor de IA jurídica más financiado, orientada a ontologías de conocimiento para agentes.",
+      "sota:whyNow": "Artificial Lawyer y Legaltech News, 29 oct 2026; Confilegal, 30 oct. NEW frente a 09-29→10-29.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "IA generativa",
+        "adquisiciones",
+        "gestión del conocimiento",
+        "agentes"
+      ],
+      "sota:summaryP1": "Harvey ha comprado Aida, una plataforma de ejecución comercial con IA fundada por Piyush Prahladka, cofundador de Glean, y Atish Das Sarma, con experiencia previa en Patreon, Apple y X, informó Artificial Lawyer el 29 de octubre. Es la quinta adquisición de Harvey en 2026, tras Benchmark en julio y Guardrails AI en septiembre, y el equipo de ingenieros de búsqueda y aprendizaje automático se incorpora a su organización de producto e ingeniería. Harvey explica que lo que frena hoy a los agentes es que \"no saben lo suficiente\" y que el equipo de Aida acelerará su trabajo para que cada despacho construya su propia ontología. No se ha publicado el precio.",
+      "sota:summaryP2": "La compra confirma que Harvey no está comprando legaltech tradicional sino talento de IA empresarial, y que la próxima batalla de los asistentes jurídicos es el contexto: conectar documentos, sistemas y conocimiento interno que hoy están dispersos. Para los despachos, eso convierte la gestión del conocimiento en un proyecto de datos con implicaciones de seguridad, permisos y confidencialidad que conviene diseñar antes de dejar que un proveedor indexe todo. Para los competidores, la carrera ya no es solo por el modelo, sino por quién mapea mejor el saber propio de cada cliente. Matiz: las declaraciones proceden de Harvey y de los fundadores de Aida.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/29/harvey-buys-aida-5th-purchase-in-2026/",
+          "schema:name": "Harvey Buys Aida - 5th Purchase in 2026",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261030-harvey-compra-aida-y-suma-su-quinta-adquisicion-del-ano-para-reforzar-la-inteligencia-artificial-de-los-despachos/",
+          "schema:name": "Harvey compra Aida y suma su quinta adquisición del año para reforzar la inteligencia artificial de los despachos",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aida"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-cjc-declaracion-ia-testigos-peritos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-cjc-declaracion-ia-testigos-peritos",
+      "schema:headline": "El Civil Justice Council de Inglaterra y Gales recomienda que testigos de hechos y peritos declaren ante el tribunal si la IA ha generado o influido en el contenido de sus declaraciones e informes",
+      "schema:datePublished": "2026-10-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Civil Justice Council (CJC) de Inglaterra y Gales ha publicado su informe final sobre el uso de IA en la preparación de escritos procesales, informó Legal Futures el 30 de octubre. Recomienda que el testigo de hechos declare que su declaración no se ha preparado con una herramienta de IA que haya \"generado o influido en su contenido sustantivo\" y que los peritos hagan una declaración similar con detalle suficiente para que su informe pueda contrastarse. Para el resto de escritos firmados por abogados no habría declaración: la regulación seguiría en manos de los profesionales y sus reguladores, con guía conjunta y una practice direction del Civil Procedure Rule Committee de enfoque \"funcional y basado en riesgo\".",
+      "schema:articleBody": "El Civil Justice Council (CJC) de Inglaterra y Gales ha publicado su informe final sobre el uso de IA en la preparación de escritos procesales, informó Legal Futures el 30 de octubre. Recomienda que el testigo de hechos declare que su declaración no se ha preparado con una herramienta de IA que haya \"generado o influido en su contenido sustantivo\" y que los peritos hagan una declaración similar con detalle suficiente para que su informe pueda contrastarse. Para el resto de escritos firmados por abogados no habría declaración: la regulación seguiría en manos de los profesionales y sus reguladores, con guía conjunta y una practice direction del Civil Procedure Rule Committee de enfoque \"funcional y basado en riesgo\".\n\nEl grupo de trabajo lo presidió Sir Colin Birss, que sustituirá a Sir Geoffrey Vos como Master of the Rolls, y la propuesta llega tras un caso en Truro en que una jueza restó peso al informe de una perita redactado con Microsoft Copilot. Para despachos y peritos, la consecuencia práctica es documentar ya cómo se usa la IA en declaraciones e informes, porque el foco está en el resultado y no en la herramienta. Para los proveedores de IA de litigación, aparece un requisito de trazabilidad que conviene ofrecer de serie. Matiz: son recomendaciones; aún tienen que convertirse en reglas, y el CJC pide además, con urgencia, guía para litigantes sin abogado.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer marco procesal concreto en Inglaterra y Gales sobre IA en la prueba testifical y pericial.",
+      "sota:whyNow": "Legal Futures, 30 oct 2026. NEW frente a 09-29→10-29 (el 10-02 se publicó solo la propuesta de límite de páginas de Birss).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "IA generativa",
+        "prueba",
+        "tribunales",
+        "peritos"
+      ],
+      "sota:summaryP1": "El Civil Justice Council (CJC) de Inglaterra y Gales ha publicado su informe final sobre el uso de IA en la preparación de escritos procesales, informó Legal Futures el 30 de octubre. Recomienda que el testigo de hechos declare que su declaración no se ha preparado con una herramienta de IA que haya \"generado o influido en su contenido sustantivo\" y que los peritos hagan una declaración similar con detalle suficiente para que su informe pueda contrastarse. Para el resto de escritos firmados por abogados no habría declaración: la regulación seguiría en manos de los profesionales y sus reguladores, con guía conjunta y una practice direction del Civil Procedure Rule Committee de enfoque \"funcional y basado en riesgo\".",
+      "sota:summaryP2": "El grupo de trabajo lo presidió Sir Colin Birss, que sustituirá a Sir Geoffrey Vos como Master of the Rolls, y la propuesta llega tras un caso en Truro en que una jueza restó peso al informe de una perita redactado con Microsoft Copilot. Para despachos y peritos, la consecuencia práctica es documentar ya cómo se usa la IA en declaraciones e informes, porque el foco está en el resultado y no en la herramienta. Para los proveedores de IA de litigación, aparece un requisito de trazabilidad que conviene ofrecer de serie. Matiz: son recomendaciones; aún tienen que convertirse en reglas, y el CJC pide además, con urgencia, guía para litigantes sin abogado.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/witnesses-of-fact-and-experts-should-have-to-declare-ai-use-to-court",
+          "schema:name": "Witnesses of fact and experts \"should have to declare AI use\" to court",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-civil-justice-council"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-colin-birss"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-geoffrey-vos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-vos-despedida-abogados-humanos-no-son-pasado",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-vos-despedida-abogados-humanos-no-son-pasado",
+      "schema:headline": "Sir Geoffrey Vos se despide como Master of the Rolls defendiendo que los abogados humanos no son cosa del pasado: la confianza del cliente sigue necesitando personas, pero la profesión debe adoptar la IA sin proteccionismo",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Sir Geoffrey Vos, que se jubila el 31 de octubre como Master of the Rolls, publicó el 29 de octubre el discurso \"Are human lawyers a thing of the past?\", leído por vídeo en Edimburgo. Su respuesta es un \"no\" rotundo: la aceptación de un consejo jurídico depende de la confianza en quien lo da, y la vida en la era de la IA es tan compleja que generará más problemas jurídicos difíciles que seguirán necesitando abogados. Pero pide a los abogados que usen la IA para abaratar el servicio y ampliar el acceso a la justicia, que dejen de repetir \"sin parar\" que alucina y que asuman que siguen siendo responsables de todo lo que firman.",
+      "schema:articleBody": "Sir Geoffrey Vos, que se jubila el 31 de octubre como Master of the Rolls, publicó el 29 de octubre el discurso \"Are human lawyers a thing of the past?\", leído por vídeo en Edimburgo. Su respuesta es un \"no\" rotundo: la aceptación de un consejo jurídico depende de la confianza en quien lo da, y la vida en la era de la IA es tan compleja que generará más problemas jurídicos difíciles que seguirán necesitando abogados. Pero pide a los abogados que usen la IA para abaratar el servicio y ampliar el acceso a la justicia, que dejen de repetir \"sin parar\" que alucina y que asuman que siguen siendo responsables de todo lo que firman.\n\nEl mensaje del juez más activo en IA del Reino Unido es una hoja de ruta para despachos y facultades: formar a abogados capaces de evaluar lo que producen herramientas como Harvey o Legora, en lugar de competir con ellas. Recuerda también que eBay resuelve 60 millones de disputas al año, el 90% sin intervención humana, pero advierte de que son reclamaciones muy pequeñas y que esa confianza no se extiende sola a casos en que el cliente puede perder su casa, su empleo o sus hijos. Para la profesión, la frontera del negocio está en qué asuntos aceptarán los clientes resolver con una máquina y cuáles no. Matiz: es un discurso, no una norma ni una guía judicial.",
+      "sota:type": "analysis",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Discurso de despedida del principal impulsor judicial de la IA en Inglaterra y Gales, centrado en el futuro de la profesión.",
+      "sota:whyNow": "Judiciary UK, 29 oct 2026. NEW frente a 09-29→10-29 (el 10-15 se publicó otro discurso suyo sobre laudos con IA).",
+      "sota:geo": [
+        "GB",
+        "Global"
+      ],
+      "sota:topics": [
+        "IA generativa",
+        "profesión",
+        "formación",
+        "acceso a la justicia"
+      ],
+      "sota:summaryP1": "Sir Geoffrey Vos, que se jubila el 31 de octubre como Master of the Rolls, publicó el 29 de octubre el discurso \"Are human lawyers a thing of the past?\", leído por vídeo en Edimburgo. Su respuesta es un \"no\" rotundo: la aceptación de un consejo jurídico depende de la confianza en quien lo da, y la vida en la era de la IA es tan compleja que generará más problemas jurídicos difíciles que seguirán necesitando abogados. Pero pide a los abogados que usen la IA para abaratar el servicio y ampliar el acceso a la justicia, que dejen de repetir \"sin parar\" que alucina y que asuman que siguen siendo responsables de todo lo que firman.",
+      "sota:summaryP2": "El mensaje del juez más activo en IA del Reino Unido es una hoja de ruta para despachos y facultades: formar a abogados capaces de evaluar lo que producen herramientas como Harvey o Legora, en lugar de competir con ellas. Recuerda también que eBay resuelve 60 millones de disputas al año, el 90% sin intervención humana, pero advierte de que son reclamaciones muy pequeñas y que esa confianza no se extiende sola a casos en que el cliente puede perder su casa, su empleo o sus hijos. Para la profesión, la frontera del negocio está en qué asuntos aceptarán los clientes resolver con una máquina y cuáles no. Matiz: es un discurso, no una norma ni una guía judicial.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.judiciary.uk/speech-by-the-master-of-the-rolls-are-human-lawyers-a-thing-of-the-past/",
+          "schema:name": "Speech by the Master of the Rolls: Are human lawyers a thing of the past?",
+          "sota:sourceId": "src-judiciary-uk"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-geoffrey-vos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-courts-tribunals-judiciary"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-argentina-mesa-estrategica-ia-justicia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-argentina-mesa-estrategica-ia-justicia",
+      "schema:headline": "El Ministerio de Justicia de Argentina crea la Mesa Estratégica de Inteligencia Artificial en la Justicia para inventariar proyectos, proponer pilotos y presentar una estrategia en 90 días",
+      "schema:datePublished": "2026-10-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Ministerio de Justicia de la Nación argentino ha creado la Mesa Estratégica de Inteligencia Artificial en la Justicia (MEIAJ) mediante la Resolución 469/2026, según explican en Abogados.com.ar Diego Fernández, Gustavo P. Giay y Manuela Adrogué. La mesa deberá relevar las iniciativas y herramientas de IA que ya existen en el sistema de justicia, identificar necesidades y áreas prioritarias, proponer casos de uso y pilotos y formar a magistrados y funcionarios. La resolución aclara que no busca establecer un régimen general de regulación de la IA y fija un plazo de 90 días desde su primera reunión para entregar al ministro una propuesta preliminar de estrategia.",
+      "schema:articleBody": "El Ministerio de Justicia de la Nación argentino ha creado la Mesa Estratégica de Inteligencia Artificial en la Justicia (MEIAJ) mediante la Resolución 469/2026, según explican en Abogados.com.ar Diego Fernández, Gustavo P. Giay y Manuela Adrogué. La mesa deberá relevar las iniciativas y herramientas de IA que ya existen en el sistema de justicia, identificar necesidades y áreas prioritarias, proponer casos de uso y pilotos y formar a magistrados y funcionarios. La resolución aclara que no busca establecer un régimen general de regulación de la IA y fija un plazo de 90 días desde su primera reunión para entregar al ministro una propuesta preliminar de estrategia.\n\nLa mesa puede convocar a jueces, ministerios públicos, provincias, universidades, colegios profesionales y empresas tecnológicas, lo que abre una puerta a proveedores de legaltech que quieran participar en pilotos con el Estado. La resolución exige cumplir la normativa de datos personales, seguridad de la información y propiedad intelectual, y aplicar supervisión humana, trazabilidad y evaluación de riesgos: requisitos que cualquier proveedor tendrá que acreditar. Para despachos que litigan en Argentina, conviene seguir qué herramientas se prueban en tribunales, porque acabarán afectando a la tramitación. Matiz: es un órgano de coordinación, no una norma sobre el uso de la IA.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Nuevo órgano de coordinación de IA en la justicia argentina, con plazo y requisitos de supervisión humana.",
+      "sota:whyNow": "Abogados.com.ar, 30 oct 2026. NEW frente a 09-29→10-29.",
+      "sota:geo": [
+        "AR"
+      ],
+      "sota:topics": [
+        "IA",
+        "justicia",
+        "administración pública",
+        "gobernanza de la IA"
+      ],
+      "sota:summaryP1": "El Ministerio de Justicia de la Nación argentino ha creado la Mesa Estratégica de Inteligencia Artificial en la Justicia (MEIAJ) mediante la Resolución 469/2026, según explican en Abogados.com.ar Diego Fernández, Gustavo P. Giay y Manuela Adrogué. La mesa deberá relevar las iniciativas y herramientas de IA que ya existen en el sistema de justicia, identificar necesidades y áreas prioritarias, proponer casos de uso y pilotos y formar a magistrados y funcionarios. La resolución aclara que no busca establecer un régimen general de regulación de la IA y fija un plazo de 90 días desde su primera reunión para entregar al ministro una propuesta preliminar de estrategia.",
+      "sota:summaryP2": "La mesa puede convocar a jueces, ministerios públicos, provincias, universidades, colegios profesionales y empresas tecnológicas, lo que abre una puerta a proveedores de legaltech que quieran participar en pilotos con el Estado. La resolución exige cumplir la normativa de datos personales, seguridad de la información y propiedad intelectual, y aplicar supervisión humana, trazabilidad y evaluación de riesgos: requisitos que cualquier proveedor tendrá que acreditar. Para despachos que litigan en Argentina, conviene seguir qué herramientas se prueban en tribunales, porque acabarán afectando a la tramitación. Matiz: es un órgano de coordinación, no una norma sobre el uso de la IA.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abogados.com.ar/el-ministerio-de-justicia-creo-una-mesa-estrategica-sobre-ia/40377",
+          "schema:name": "El Ministerio de Justicia creó una mesa estratégica sobre IA",
+          "sota:sourceId": "src-abogados-com-ar"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-justicia-ar"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-abogados-com-ar"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-exencion-religiosa-humanista-no-usar-ia-trabajo",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-exencion-religiosa-humanista-no-usar-ia-trabajo",
+      "schema:headline": "Un administrador de la Universidad de Kentucky, humanista no teísta, obtiene una adaptación por motivos religiosos para no usar IA en el trabajo, la primera conocida para un humanista",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "David Durman, administrador de la Universidad de Kentucky y humanista no teísta, ha conseguido una adaptación por motivos religiosos que le permite no usar IA en su trabajo, contó TechCrunch el 29 de octubre. Es el primer humanista que obtiene una medida así, según la American Humanist Association, que le asesoró, y se inspiró en Erin Maus, ingeniera de software unitaria universalista que logró una protección similar. La universidad explicó que estudia cada solicitud de forma individual y que en este caso la adaptación era posible sin afectar a las funciones esenciales del puesto, aunque podrá revisarse \"a medida que evolucionen la tecnología y las responsabilidades\".",
+      "schema:articleBody": "David Durman, administrador de la Universidad de Kentucky y humanista no teísta, ha conseguido una adaptación por motivos religiosos que le permite no usar IA en su trabajo, contó TechCrunch el 29 de octubre. Es el primer humanista que obtiene una medida así, según la American Humanist Association, que le asesoró, y se inspiró en Erin Maus, ingeniera de software unitaria universalista que logró una protección similar. La universidad explicó que estudia cada solicitud de forma individual y que en este caso la adaptación era posible sin afectar a las funciones esenciales del puesto, aunque podrá revisarse \"a medida que evolucionen la tecnología y las responsabilidades\".\n\nEl caso abre un frente que los departamentos de recursos humanos y los abogados laboralistas no tenían en el radar: cuando una empresa convierte el uso de IA en obligatorio, algunos empleados pueden pedir adaptaciones por convicciones, y no solo por creencias religiosas tradicionales. Para el in-house, conviene revisar ya cómo se formulan las políticas de uso obligatorio de IA y cómo se tramitan estas peticiones. Para los despachos y proveedores, la tensión es evidente: su propio negocio empuja a usar IA en todos los puestos. Matiz: es un caso individual contado por la prensa; la universidad no detalla la base jurídica de la adaptación y no hay resolución judicial.",
+      "sota:type": "analysis",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer caso público de adaptación por convicciones no teístas frente a la IA en el trabajo.",
+      "sota:whyNow": "TechCrunch, 29 oct 2026. NEW frente a 09-29→10-29.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "IA",
+        "laboral",
+        "libertad religiosa",
+        "políticas de empresa"
+      ],
+      "sota:summaryP1": "David Durman, administrador de la Universidad de Kentucky y humanista no teísta, ha conseguido una adaptación por motivos religiosos que le permite no usar IA en su trabajo, contó TechCrunch el 29 de octubre. Es el primer humanista que obtiene una medida así, según la American Humanist Association, que le asesoró, y se inspiró en Erin Maus, ingeniera de software unitaria universalista que logró una protección similar. La universidad explicó que estudia cada solicitud de forma individual y que en este caso la adaptación era posible sin afectar a las funciones esenciales del puesto, aunque podrá revisarse \"a medida que evolucionen la tecnología y las responsabilidades\".",
+      "sota:summaryP2": "El caso abre un frente que los departamentos de recursos humanos y los abogados laboralistas no tenían en el radar: cuando una empresa convierte el uso de IA en obligatorio, algunos empleados pueden pedir adaptaciones por convicciones, y no solo por creencias religiosas tradicionales. Para el in-house, conviene revisar ya cómo se formulan las políticas de uso obligatorio de IA y cómo se tramitan estas peticiones. Para los despachos y proveedores, la tensión es evidente: su propio negocio empuja a usar IA en todos los puestos. Matiz: es un caso individual contado por la prensa; la universidad no detalla la base jurídica de la adaptación y no hay resolución judicial.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+          "schema:name": "You don't need to believe in a god to get a religious exemption from using AI at work",
+          "sota:sourceId": "src-techcrunch"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-university-of-kentucky"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-american-humanist-association"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-techcrunch"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-dexterity-law-despacho-ma-ia-honorarios-cerrados",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-dexterity-law-despacho-ma-ia-honorarios-cerrados",
+      "schema:headline": "Nace Dexterity Law, un despacho de M&A con IA y precios por resultado para operaciones de entre 2 y 20 millones de dólares, liderado por el ex Greenberg Traurig Thomas Romer",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Thomas Romer, abogado de operaciones con más de 25 años en Greenberg Traurig, BakerHostetler y otros despachos, y vicepresidente del subcomité de tecnología en M&A de la ABA, ha lanzado Dexterity Law, informó Artificial Lawyer el 29 de octubre. Es un despacho \"potenciado por IA\" con honorarios cerrados que no se centra en megaoperaciones sino en compañías con un valor de empresa de entre 2 y 20 millones de dólares. Según la firma, su tecnología está diseñada para ganar eficiencia en cada fase, desde la carta de intenciones y el NDA hasta la due diligence, la negociación y el cierre, y el ahorro se traslada al cliente.",
+      "schema:articleBody": "Thomas Romer, abogado de operaciones con más de 25 años en Greenberg Traurig, BakerHostetler y otros despachos, y vicepresidente del subcomité de tecnología en M&A de la ABA, ha lanzado Dexterity Law, informó Artificial Lawyer el 29 de octubre. Es un despacho \"potenciado por IA\" con honorarios cerrados que no se centra en megaoperaciones sino en compañías con un valor de empresa de entre 2 y 20 millones de dólares. Según la firma, su tecnología está diseñada para ganar eficiencia en cada fase, desde la carta de intenciones y el NDA hasta la due diligence, la negociación y el cierre, y el ahorro se traslada al cliente.\n\nEs otro ejemplo de un patrón que se repite: despachos nuevos que usan la IA para atacar segmentos que Biglaw dejó de servir por precio, y que compiten con tarifas por resultado y no con la hora facturable. Para vendedores de pymes y compradores de private equity, la promesa es asesoramiento de calidad a un coste antes inaccesible; para los despachos medianos, aparece un competidor con estructura de costes distinta. Para los proveedores de IA para M&A, este tipo de firmas son clientes naturales. Matiz: la descripción y las promesas proceden del propio despacho; no hay datos de clientes ni de tarifas concretas.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Nuevo despacho nativo en IA con honorarios por resultado en M&A del mid-market.",
+      "sota:whyNow": "Artificial Lawyer, 29 oct 2026. NEW frente a 09-29→10-29.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "IA generativa",
+        "nuevos modelos de despacho",
+        "M&A",
+        "honorarios"
+      ],
+      "sota:summaryP1": "Thomas Romer, abogado de operaciones con más de 25 años en Greenberg Traurig, BakerHostetler y otros despachos, y vicepresidente del subcomité de tecnología en M&A de la ABA, ha lanzado Dexterity Law, informó Artificial Lawyer el 29 de octubre. Es un despacho \"potenciado por IA\" con honorarios cerrados que no se centra en megaoperaciones sino en compañías con un valor de empresa de entre 2 y 20 millones de dólares. Según la firma, su tecnología está diseñada para ganar eficiencia en cada fase, desde la carta de intenciones y el NDA hasta la due diligence, la negociación y el cierre, y el ahorro se traslada al cliente.",
+      "sota:summaryP2": "Es otro ejemplo de un patrón que se repite: despachos nuevos que usan la IA para atacar segmentos que Biglaw dejó de servir por precio, y que compiten con tarifas por resultado y no con la hora facturable. Para vendedores de pymes y compradores de private equity, la promesa es asesoramiento de calidad a un coste antes inaccesible; para los despachos medianos, aparece un competidor con estructura de costes distinta. Para los proveedores de IA para M&A, este tipo de firmas son clientes naturales. Matiz: la descripción y las promesas proceden del propio despacho; no hay datos de clientes ni de tarifas concretas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born/",
+          "schema:name": "As Weil Faces the End, A New Mod Is Born",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dexterity-law"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-canada-prueba-deepfakes-ley-no-preparada",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-canada-prueba-deepfakes-ley-no-preparada",
+      "schema:headline": "Litigadores canadienses avisan de que la ley de prueba no está preparada para los deepfakes: la Canada Evidence Act presume auténtico el documento electrónico si el sistema funcionaba bien",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Abogados canadienses creen que el riesgo de prueba falsificada con IA crece más rápido que las reglas para detectarla, publicó Canadian Lawyer el 29 de octubre. Emily Hazlett, socia de Blake, Cassels & Graydon, recuerda que aún no hay sentencias civiles en Canadá sobre intentos de usar deepfakes y que eso no debe dar \"falsa tranquilidad\". Kelly Friedman, de Heuristica, señala que la Canada Evidence Act presume auténtico un documento electrónico si se guardó en un sistema que funcionaba bien, un estándar que muchos deepfakes superan, y que nadie pregunta si el hecho que muestra llegó a ocurrir.",
+      "schema:articleBody": "Abogados canadienses creen que el riesgo de prueba falsificada con IA crece más rápido que las reglas para detectarla, publicó Canadian Lawyer el 29 de octubre. Emily Hazlett, socia de Blake, Cassels & Graydon, recuerda que aún no hay sentencias civiles en Canadá sobre intentos de usar deepfakes y que eso no debe dar \"falsa tranquilidad\". Kelly Friedman, de Heuristica, señala que la Canada Evidence Act presume auténtico un documento electrónico si se guardó en un sistema que funcionaba bien, un estándar que muchos deepfakes superan, y que nadie pregunta si el hecho que muestra llegó a ocurrir.\n\nAmbas citan la guía del Consejo Judicial de Canadá de mediados de octubre, que advierte también del riesgo contrario: que pruebas auténticas se rechacen como falsas, el llamado \"dividendo del mentiroso\". Para los litigadores, la consecuencia práctica es preservar originales, metadatos y la cadena de custodia de cada audio, vídeo o foto relevante desde el primer día, y preparar peritajes de procedencia. Para proveedores de eDiscovery y forense digital, la autenticación se convierte en un servicio con demanda creciente. Matiz: es la opinión de dos abogadas en un medio profesional, no una reforma ni una sentencia.",
+      "sota:type": "analysis",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Diagnóstico concreto de por qué la presunción de autenticidad electrónica falla frente a la IA generativa.",
+      "sota:whyNow": "Canadian Lawyer, 29 oct 2026. NEW frente a 09-29→10-29 (el 10-20 se publicó la guía del Consejo Judicial; esta pieza aporta el análisis de la Canada Evidence Act).",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "deepfakes",
+        "prueba",
+        "IA generativa",
+        "litigación"
+      ],
+      "sota:summaryP1": "Abogados canadienses creen que el riesgo de prueba falsificada con IA crece más rápido que las reglas para detectarla, publicó Canadian Lawyer el 29 de octubre. Emily Hazlett, socia de Blake, Cassels & Graydon, recuerda que aún no hay sentencias civiles en Canadá sobre intentos de usar deepfakes y que eso no debe dar \"falsa tranquilidad\". Kelly Friedman, de Heuristica, señala que la Canada Evidence Act presume auténtico un documento electrónico si se guardó en un sistema que funcionaba bien, un estándar que muchos deepfakes superan, y que nadie pregunta si el hecho que muestra llegó a ocurrir.",
+      "sota:summaryP2": "Ambas citan la guía del Consejo Judicial de Canadá de mediados de octubre, que advierte también del riesgo contrario: que pruebas auténticas se rechacen como falsas, el llamado \"dividendo del mentiroso\". Para los litigadores, la consecuencia práctica es preservar originales, metadatos y la cadena de custodia de cada audio, vídeo o foto relevante desde el primer día, y preparar peritajes de procedencia. Para proveedores de eDiscovery y forense digital, la autenticación se convierte en un servicio con demanda creciente. Matiz: es la opinión de dos abogadas en un medio profesional, no una reforma ni una sentencia.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.canadianlawyermag.com/news/general/risk-of-deepfake-evidence-is-developing-faster-than-canadas-rules-for-navigating-it-litigators/394860",
+          "schema:name": "Deepfake evidence risks developing faster than Canada's rules: litigators",
+          "sota:sourceId": "src-canadian-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-judicial-council"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-cnil-multa-fnac-7-millones-cookies-app",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-cnil-multa-fnac-7-millones-cookies-app",
+      "schema:headline": "La CNIL multa con 7 millones de euros a Fnac Darty y Fnac Direct por usar sin consentimiento un rastreador en su app que alimentaba recomendaciones de productos",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La CNIL ha hecho pública la decisión por la que el 22 de octubre sancionó con 7 millones de euros a Fnac Darty Participations et Services (6 millones) y Fnac Direct (1 millón) por incumplir las reglas sobre rastreadores del artículo 82 de la ley francesa de protección de datos. A raíz de una queja de noyb, la autoridad comprobó que la app móvil enviaba a un dominio de terceros, sin consentimiento, un identificador del usuario y los productos que consultaba para mostrar recomendaciones personalizadas y entrenar el algoritmo de recomendación. Además, ordena a las empresas demostrar en un mes que su nueva herramienta recoge el consentimiento, bajo multa de 10.000 euros por día de retraso.",
+      "schema:articleBody": "La CNIL ha hecho pública la decisión por la que el 22 de octubre sancionó con 7 millones de euros a Fnac Darty Participations et Services (6 millones) y Fnac Direct (1 millón) por incumplir las reglas sobre rastreadores del artículo 82 de la ley francesa de protección de datos. A raíz de una queja de noyb, la autoridad comprobó que la app móvil enviaba a un dominio de terceros, sin consentimiento, un identificador del usuario y los productos que consultaba para mostrar recomendaciones personalizadas y entrenar el algoritmo de recomendación. Además, ordena a las empresas demostrar en un mes que su nueva herramienta recoge el consentimiento, bajo multa de 10.000 euros por día de retraso.\n\nLa decisión deja claro que la personalización comercial dentro de una app no está exenta de consentimiento, aunque el usuario esté usando el servicio, y que la CNIL considera ya consolidada su doctrina sobre rastreadores con fines de marketing. Para departamentos legales de comercio electrónico, toca auditar las llamadas a API de terceros desde las apps, no solo los banners de la web. Para proveedores de motores de recomendación, el consentimiento previo se convierte en condición para recibir datos de navegación. Matiz: las cifras y los hechos proceden del comunicado de la CNIL; la resolución puede recurrirse ante el Consejo de Estado.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Sanción relevante a un gran minorista por rastreo en app móvil con fines de recomendación.",
+      "sota:whyNow": "CNIL, 29 oct 2026. NEW frente a 09-29→10-29.",
+      "sota:geo": [
+        "FR",
+        "EU"
+      ],
+      "sota:topics": [
+        "privacidad",
+        "cookies",
+        "apps móviles",
+        "sanciones"
+      ],
+      "sota:summaryP1": "La CNIL ha hecho pública la decisión por la que el 22 de octubre sancionó con 7 millones de euros a Fnac Darty Participations et Services (6 millones) y Fnac Direct (1 millón) por incumplir las reglas sobre rastreadores del artículo 82 de la ley francesa de protección de datos. A raíz de una queja de noyb, la autoridad comprobó que la app móvil enviaba a un dominio de terceros, sin consentimiento, un identificador del usuario y los productos que consultaba para mostrar recomendaciones personalizadas y entrenar el algoritmo de recomendación. Además, ordena a las empresas demostrar en un mes que su nueva herramienta recoge el consentimiento, bajo multa de 10.000 euros por día de retraso.",
+      "sota:summaryP2": "La decisión deja claro que la personalización comercial dentro de una app no está exenta de consentimiento, aunque el usuario esté usando el servicio, y que la CNIL considera ya consolidada su doctrina sobre rastreadores con fines de marketing. Para departamentos legales de comercio electrónico, toca auditar las llamadas a API de terceros desde las apps, no solo los banners de la web. Para proveedores de motores de recomendación, el consentimiento previo se convierte en condición para recibir datos de navegación. Matiz: las cifras y los hechos proceden del comunicado de la CNIL; la resolución puede recurrirse ante el Consejo de Estado.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+          "schema:name": "Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+          "sota:sourceId": "src-cnil"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cnil"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-fnac-darty"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-noyb"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-general-motors-220-millones-36-estados-datos-conduccion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-general-motors-220-millones-36-estados-datos-conduccion",
+      "schema:headline": "General Motors pagará 220 millones de dólares a 36 estados de EE. UU. para cerrar la demanda por vender a brókeres de datos la conducta y la ubicación de sus conductores",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "General Motors pagará 220 millones de dólares a 36 estados para cerrar la demanda de una coalición de fiscales generales que la acusaba de vender ilegalmente datos de conducción y ubicación a brókeres de datos, que a su vez los vendían a aseguradoras, informó TechCrunch el 29 de octubre. Los datos procedían de Smart Driver, función de sus apps de coche conectado que GM cerró en 2024. El acuerdo obliga a obtener consentimiento expreso antes de recoger o compartir esos datos, en línea con los pactos previos con California y la FTC, y añade una novedad: un tercero deberá evaluar el cumplimiento de su programa de privacidad.",
+      "schema:articleBody": "General Motors pagará 220 millones de dólares a 36 estados para cerrar la demanda de una coalición de fiscales generales que la acusaba de vender ilegalmente datos de conducción y ubicación a brókeres de datos, que a su vez los vendían a aseguradoras, informó TechCrunch el 29 de octubre. Los datos procedían de Smart Driver, función de sus apps de coche conectado que GM cerró en 2024. El acuerdo obliga a obtener consentimiento expreso antes de recoger o compartir esos datos, en línea con los pactos previos con California y la FTC, y añade una novedad: un tercero deberá evaluar el cumplimiento de su programa de privacidad.\n\nEl caso es un aviso para cualquier empresa que monetice datos de sensores o de uso: el coste no está solo en la multa, sino en años de auditorías y obligaciones de transparencia. Para los departamentos legales del sector del automóvil y de seguros, el consentimiento expreso para compartir datos de conducción es ya el estándar exigido por los reguladores de EE. UU. Para brókeres y aseguradoras, la cadena de procedencia de los datos que compran se convierte en riesgo propio. Matiz: GM sostiene que el acuerdo se refiere a Smart Driver, un producto que cerró en 2024, y que ya no vende datos vinculables a una persona.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Uno de los mayores acuerdos estatales de privacidad sobre datos de vehículos conectados.",
+      "sota:whyNow": "TechCrunch, 29 oct 2026. NEW frente a 09-29→10-29.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "privacidad",
+        "datos de vehículos",
+        "brókeres de datos",
+        "fiscales generales"
+      ],
+      "sota:summaryP1": "General Motors pagará 220 millones de dólares a 36 estados para cerrar la demanda de una coalición de fiscales generales que la acusaba de vender ilegalmente datos de conducción y ubicación a brókeres de datos, que a su vez los vendían a aseguradoras, informó TechCrunch el 29 de octubre. Los datos procedían de Smart Driver, función de sus apps de coche conectado que GM cerró en 2024. El acuerdo obliga a obtener consentimiento expreso antes de recoger o compartir esos datos, en línea con los pactos previos con California y la FTC, y añade una novedad: un tercero deberá evaluar el cumplimiento de su programa de privacidad.",
+      "sota:summaryP2": "El caso es un aviso para cualquier empresa que monetice datos de sensores o de uso: el coste no está solo en la multa, sino en años de auditorías y obligaciones de transparencia. Para los departamentos legales del sector del automóvil y de seguros, el consentimiento expreso para compartir datos de conducción es ya el estándar exigido por los reguladores de EE. UU. Para brókeres y aseguradoras, la cadena de procedencia de los datos que compran se convierte en riesgo propio. Matiz: GM sostiene que el acuerdo se refiere a Smart Driver, un producto que cerró en 2024, y que ya no vende datos vinculables a una persona.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+          "schema:name": "GM reaches $220M settlement over selling drivers' private data",
+          "sota:sourceId": "src-techcrunch"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-general-motors"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ftc"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-techcrunch"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-10-30-icam-herramienta-incidencias-judiciales",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-10-30-icam-herramienta-incidencias-judiciales",
+      "schema:headline": "El ICAM lanza una aplicación para que los abogados comuniquen, incluso de forma anónima, retrasos, suspensiones y malos tratos en los juzgados desde las tabletas de sus Salas de la Abogacía",
+      "schema:datePublished": "2026-10-29",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Ilustre Colegio de la Abogacía de Madrid (ICAM) ha lanzado una aplicación web, disponible en las tabletas de todas sus Salas de la Abogacía, para que los colegiados comuniquen de forma rápida y, si quieren, anónima las incidencias que sufren en juzgados y tribunales, anunció el 29 de octubre. Parte de su macroencuesta de 2023 con GAD3: más del 70% de los profesionales sufre incidencias, pero solo el 13% las comunica. En 2025 el Colegio trasladó 187 incidencias al CGPJ y al TSJ de Madrid; el 70% de los retrasos superó los 90 minutos, con esperas de hasta seis horas, y el 49% de las dilaciones superó los doce meses.",
+      "schema:articleBody": "El Ilustre Colegio de la Abogacía de Madrid (ICAM) ha lanzado una aplicación web, disponible en las tabletas de todas sus Salas de la Abogacía, para que los colegiados comuniquen de forma rápida y, si quieren, anónima las incidencias que sufren en juzgados y tribunales, anunció el 29 de octubre. Parte de su macroencuesta de 2023 con GAD3: más del 70% de los profesionales sufre incidencias, pero solo el 13% las comunica. En 2025 el Colegio trasladó 187 incidencias al CGPJ y al TSJ de Madrid; el 70% de los retrasos superó los 90 minutos, con esperas de hasta seis horas, y el 49% de las dilaciones superó los doce meses.\n\nLa herramienta convierte una queja informal en datos que el Colegio puede llevar al CGPJ y al TSJ de Madrid, y también recoge buenas prácticas, lo que da una visión más equilibrada del funcionamiento de los tribunales. Para los despachos, es una vía sencilla para dejar constancia de esperas y suspensiones que afectan a la defensa y a la facturación, sin volver a la oficina. Para otros colegios, es un modelo replicable de bajo coste. Matiz: no hay datos todavía sobre su uso y las cifras proceden de los propios informes del ICAM.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Herramienta colegial para cuantificar incidencias judiciales con reporte anónimo.",
+      "sota:whyNow": "ICAM y Lawyerpress, 29 oct 2026. NEW frente a 09-29→10-29 (el 10-28 se publicó solo el premio a ICAM Digital).",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "colegios profesionales",
+        "administración de justicia",
+        "herramientas digitales"
+      ],
+      "sota:summaryP1": "El Ilustre Colegio de la Abogacía de Madrid (ICAM) ha lanzado una aplicación web, disponible en las tabletas de todas sus Salas de la Abogacía, para que los colegiados comuniquen de forma rápida y, si quieren, anónima las incidencias que sufren en juzgados y tribunales, anunció el 29 de octubre. Parte de su macroencuesta de 2023 con GAD3: más del 70% de los profesionales sufre incidencias, pero solo el 13% las comunica. En 2025 el Colegio trasladó 187 incidencias al CGPJ y al TSJ de Madrid; el 70% de los retrasos superó los 90 minutos, con esperas de hasta seis horas, y el 49% de las dilaciones superó los doce meses.",
+      "sota:summaryP2": "La herramienta convierte una queja informal en datos que el Colegio puede llevar al CGPJ y al TSJ de Madrid, y también recoge buenas prácticas, lo que da una visión más equilibrada del funcionamiento de los tribunales. Para los despachos, es una vía sencilla para dejar constancia de esperas y suspensiones que afectan a la defensa y a la facturación, sin volver a la oficina. Para otros colegios, es un modelo replicable de bajo coste. Matiz: no hay datos todavía sobre su uso y las cifras proceden de los propios informes del ICAM.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://web.icam.es/icam-herramienta-incidencias-judiciales/",
+          "schema:name": "Incidencias judiciales: ICAM lanza una herramienta para reportarlas",
+          "sota:sourceId": "src-icam"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawyerpress.com/2026/10/29/el-icam-habilita-una-herramienta-para-comunicar-incidencias-judiciales-tambien-de-forma-anonima/",
+          "schema:name": "El ICAM habilita una herramienta para comunicar incidencias judiciales, también de forma anónima",
+          "sota:sourceId": "src-lawyerpress-news"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icam"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawyerpress"
+        }
+      ]
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-3-geeks-and-a-law-blog",
       "@type": "schema:Thing",
       "schema:identifier": "ent-3-geeks-and-a-law-blog",
@@ -14465,6 +14956,15 @@
       "schema:name": "Abdulrasheed Ijaodola",
       "sota:entityType": "person",
       "schema:url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-abogados-com-ar",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-abogados-com-ar",
+      "schema:name": "Abogados.com.ar",
+      "sota:entityType": "media",
+      "schema:url": "https://abogados.com.ar/",
       "sota:stub": true
     },
     {
@@ -14566,6 +15066,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aida",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aida",
+      "schema:name": "Aida",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-akerman",
       "@type": "schema:Thing",
       "schema:identifier": "ent-akerman",
@@ -14598,6 +15107,15 @@
       "schema:name": "Allen & Overy",
       "sota:entityType": "law_firm",
       "schema:url": "https://www.allenovery.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-american-humanist-association",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-american-humanist-association",
+      "schema:name": "American Humanist Association",
+      "sota:entityType": "association",
+      "schema:url": "https://americanhumanist.org/",
       "sota:stub": true
     },
     {
@@ -15194,6 +15712,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-civil-justice-council",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-civil-justice-council",
+      "schema:name": "Civil Justice Council",
+      "sota:entityType": "government",
+      "schema:url": "https://www.judiciary.uk/related-offices-and-bodies/advisory-bodies/cjc/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clarke-willmott",
       "@type": "schema:Thing",
       "schema:identifier": "ent-clarke-willmott",
@@ -15497,6 +16024,15 @@
       "schema:name": "Dentsu",
       "sota:entityType": "company",
       "schema:url": "https://www.dentsu.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dexterity-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-dexterity-law",
+      "schema:name": "Dexterity Law",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born/",
       "sota:stub": true
     },
     {
@@ -15894,6 +16430,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-fnac-darty",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-fnac-darty",
+      "schema:name": "Fnac Darty",
+      "sota:entityType": "company",
+      "schema:url": "https://www.fnacdarty.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-folha-de-s-paulo",
       "@type": "schema:Thing",
       "schema:identifier": "ent-folha-de-s-paulo",
@@ -15980,6 +16525,15 @@
       "schema:name": "GE Aerospace",
       "sota:entityType": "company",
       "schema:url": "https://www.geaerospace.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-general-motors",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-general-motors",
+      "schema:name": "General Motors",
+      "sota:entityType": "company",
+      "schema:url": "https://www.gm.com/",
       "sota:stub": true
     },
     {
@@ -16990,6 +17544,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-justicia-ar",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ministerio-justicia-ar",
+      "schema:name": "Ministerio de Justicia de la Nación (Argentina)",
+      "sota:entityType": "government",
+      "schema:url": "https://www.argentina.gob.ar/justicia",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ministerio-justicia-es",
       "@type": "schema:Thing",
       "schema:identifier": "ent-ministerio-justicia-es",
@@ -17140,6 +17703,15 @@
       "schema:name": "Notorio",
       "sota:entityType": "company",
       "schema:url": "https://legaltechnology.com/startup-corner-notorio-one-place-to-organise-your-legal-business/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-noyb",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-noyb",
+      "schema:name": "noyb",
+      "sota:entityType": "association",
+      "schema:url": "https://noyb.eu/",
       "sota:stub": true
     },
     {
@@ -17985,6 +18557,15 @@
       "schema:name": "University of Essex",
       "sota:entityType": "university",
       "schema:url": "https://www.essex.ac.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-university-of-kentucky",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-university-of-kentucky",
+      "schema:name": "Universidad de Kentucky",
+      "sota:entityType": "academia",
+      "schema:url": "https://www.uky.edu/",
       "sota:stub": true
     },
     {

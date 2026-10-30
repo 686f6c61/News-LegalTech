@@ -1,0 +1,10 @@
+id: ent-dexterity-law
+name: Dexterity Law
+type: law_firm
+url: https://www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born/
+geo:
+- US
+aliases: []
+notes: Despacho estadounidense de M&A con IA y honorarios por resultado, liderado
+  por Thomas Romer. Ficha mínima.
+stub: true

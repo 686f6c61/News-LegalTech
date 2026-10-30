@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-30-cnil-multa-fnac-7-millones-cookies-app",
+  "date": "2026-10-29",
+  "type": "regulation",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "La CNIL multa con 7 millones de euros a Fnac Darty y Fnac Direct por usar sin consentimiento un rastreador en su app que alimentaba recomendaciones de productos",
+  "short_title": "La CNIL multa con 7 millones a Fnac por cookies en su app",
+  "standfirst": "La sanción, tras una queja de noyb, añade una orden con multa coercitiva de 10.000 euros diarios si no se demuestra el nuevo sistema de consentimiento en un mes.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Privacidad",
+  "country": "Francia",
+  "piece_type": "Regulación",
+  "summary_p1": "La CNIL ha hecho pública la decisión por la que el 22 de octubre sancionó con 7 millones de euros a Fnac Darty Participations et Services (6 millones) y Fnac Direct (1 millón) por incumplir las reglas sobre rastreadores del artículo 82 de la ley francesa de protección de datos. A raíz de una queja de noyb, la autoridad comprobó que la app móvil enviaba a un dominio de terceros, sin consentimiento, un identificador del usuario y los productos que consultaba para mostrar recomendaciones personalizadas y entrenar el algoritmo de recomendación. Además, ordena a las empresas demostrar en un mes que su nueva herramienta recoge el consentimiento, bajo multa de 10.000 euros por día de retraso.",
+  "summary_p2": "La decisión deja claro que la personalización comercial dentro de una app no está exenta de consentimiento, aunque el usuario esté usando el servicio, y que la CNIL considera ya consolidada su doctrina sobre rastreadores con fines de marketing. Para departamentos legales de comercio electrónico, toca auditar las llamadas a API de terceros desde las apps, no solo los banners de la web. Para proveedores de motores de recomendación, el consentimiento previo se convierte en condición para recibir datos de navegación. Matiz: las cifras y los hechos proceden del comunicado de la CNIL; la resolución puede recurrirse ante el Consejo de Estado.",
+  "why_sota": "Sanción relevante a un gran minorista por rastreo en app móvil con fines de recomendación.",
+  "why_now": "CNIL, 29 oct 2026. NEW frente a 09-29→10-29.",
+  "geo": [
+    "FR",
+    "EU"
+  ],
+  "topics": [
+    "privacidad",
+    "cookies",
+    "apps móviles",
+    "sanciones"
+  ],
+  "sources": [
+    {
+      "source_id": "src-cnil",
+      "url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+      "cited_title": "Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-cnil",
+    "ent-fnac-darty",
+    "ent-noyb"
+  ],
+  "lang": "es",
+  "status": "published"
+}

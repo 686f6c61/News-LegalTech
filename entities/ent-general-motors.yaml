@@ -1,0 +1,11 @@
+id: ent-general-motors
+name: General Motors
+type: company
+url: https://www.gm.com/
+geo:
+- US
+aliases:
+- GM
+- OnStar
+notes: Fabricante estadounidense de automóviles. Ficha mínima.
+stub: true

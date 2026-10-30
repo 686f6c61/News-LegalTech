@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-30-exencion-religiosa-humanista-no-usar-ia-trabajo",
+  "date": "2026-10-29",
+  "type": "analysis",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Un administrador de la Universidad de Kentucky, humanista no teísta, obtiene una adaptación por motivos religiosos para no usar IA en el trabajo, la primera conocida para un humanista",
+  "short_title": "Un humanista logra una exención religiosa para no usar IA",
+  "standfirst": "La American Humanist Association avisa de que la protección de las creencias en el trabajo también alcanza a los no creyentes; la universidad revisará la adaptación si cambia el puesto.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Laboral",
+  "country": "Estados Unidos",
+  "piece_type": "Análisis",
+  "summary_p1": "David Durman, administrador de la Universidad de Kentucky y humanista no teísta, ha conseguido una adaptación por motivos religiosos que le permite no usar IA en su trabajo, contó TechCrunch el 29 de octubre. Es el primer humanista que obtiene una medida así, según la American Humanist Association, que le asesoró, y se inspiró en Erin Maus, ingeniera de software unitaria universalista que logró una protección similar. La universidad explicó que estudia cada solicitud de forma individual y que en este caso la adaptación era posible sin afectar a las funciones esenciales del puesto, aunque podrá revisarse \"a medida que evolucionen la tecnología y las responsabilidades\".",
+  "summary_p2": "El caso abre un frente que los departamentos de recursos humanos y los abogados laboralistas no tenían en el radar: cuando una empresa convierte el uso de IA en obligatorio, algunos empleados pueden pedir adaptaciones por convicciones, y no solo por creencias religiosas tradicionales. Para el in-house, conviene revisar ya cómo se formulan las políticas de uso obligatorio de IA y cómo se tramitan estas peticiones. Para los despachos y proveedores, la tensión es evidente: su propio negocio empuja a usar IA en todos los puestos. Matiz: es un caso individual contado por la prensa; la universidad no detalla la base jurídica de la adaptación y no hay resolución judicial.",
+  "why_sota": "Primer caso público de adaptación por convicciones no teístas frente a la IA en el trabajo.",
+  "why_now": "TechCrunch, 29 oct 2026. NEW frente a 09-29→10-29.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "IA",
+    "laboral",
+    "libertad religiosa",
+    "políticas de empresa"
+  ],
+  "sources": [
+    {
+      "source_id": "src-techcrunch",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "cited_title": "You don't need to believe in a god to get a religious exemption from using AI at work",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-university-of-kentucky",
+    "ent-american-humanist-association",
+    "ent-techcrunch"
+  ],
+  "lang": "es",
+  "status": "published"
+}

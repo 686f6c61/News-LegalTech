@@ -4392,3 +4392,108 @@ entities:
   notes: Banco español; patrocina el Premio Legaltech de los Premios Confilegal. Ficha
     mínima.
   stub: true
+- id: ent-aida
+  name: Aida
+  type: vendor
+  url: https://www.harvey.ai/
+  geo:
+  - US
+  aliases:
+  - Aida AI
+  notes: Plataforma de ejecución comercial con IA fundada por Piyush Prahladka y Atish
+    Das Sarma; adquirida por Harvey en octubre de 2026. Ficha mínima.
+  stub: true
+- id: ent-dexterity-law
+  name: Dexterity Law
+  type: law_firm
+  url: https://www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born/
+  geo:
+  - US
+  aliases: []
+  notes: Despacho estadounidense de M&A con IA y honorarios por resultado, liderado
+    por Thomas Romer. Ficha mínima.
+  stub: true
+- id: ent-civil-justice-council
+  name: Civil Justice Council
+  type: government
+  url: https://www.judiciary.uk/related-offices-and-bodies/advisory-bodies/cjc/
+  geo:
+  - GB
+  aliases:
+  - CJC
+  notes: Órgano asesor sobre justicia civil de Inglaterra y Gales, presidido por el
+    Master of the Rolls. Ficha mínima.
+  stub: true
+- id: ent-ministerio-justicia-ar
+  name: Ministerio de Justicia de la Nación (Argentina)
+  type: government
+  url: https://www.argentina.gob.ar/justicia
+  geo:
+  - AR
+  aliases:
+  - Ministerio de Justicia de Argentina
+  notes: Ministerio argentino que creó la Mesa Estratégica de Inteligencia Artificial
+    en la Justicia (MEIAJ). Ficha mínima.
+  stub: true
+- id: ent-abogados-com-ar
+  name: Abogados.com.ar
+  type: media
+  url: https://abogados.com.ar/
+  geo:
+  - AR
+  aliases: []
+  notes: Medio jurídico argentino. Ficha mínima.
+  stub: true
+- id: ent-american-humanist-association
+  name: American Humanist Association
+  type: association
+  url: https://americanhumanist.org/
+  geo:
+  - US
+  aliases:
+  - AHA
+  notes: Organización sin ánimo de lucro del humanismo secular en EE. UU. Ficha mínima.
+  stub: true
+- id: ent-university-of-kentucky
+  name: Universidad de Kentucky
+  type: academia
+  url: https://www.uky.edu/
+  geo:
+  - US
+  aliases:
+  - University of Kentucky
+  notes: Universidad pública estadounidense. Ficha mínima.
+  stub: true
+- id: ent-fnac-darty
+  name: Fnac Darty
+  type: company
+  url: https://www.fnacdarty.com/
+  geo:
+  - FR
+  aliases:
+  - FNAC DARTY PARTICIPATIONS ET SERVICES
+  - FNAC DIRECT
+  notes: Grupo francés de distribución. Ficha mínima.
+  stub: true
+- id: ent-noyb
+  name: noyb
+  type: association
+  url: https://noyb.eu/
+  geo:
+  - AT
+  - EU
+  aliases:
+  - None Of Your Business
+  notes: Asociación europea de defensa de la privacidad. Ficha mínima.
+  stub: true
+- id: ent-general-motors
+  name: General Motors
+  type: company
+  url: https://www.gm.com/
+  geo:
+  - US
+  aliases:
+  - GM
+  - OnStar
+  notes: Fabricante estadounidense de automóviles. Ficha mínima.
+  stub: true

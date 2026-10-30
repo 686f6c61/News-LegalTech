@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-30-argentina-mesa-estrategica-ia-justicia",
+  "date": "2026-10-30",
+  "type": "regulation",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "El Ministerio de Justicia de Argentina crea la Mesa Estratégica de Inteligencia Artificial en la Justicia para inventariar proyectos, proponer pilotos y presentar una estrategia en 90 días",
+  "short_title": "Argentina crea una mesa estratégica de IA para la Justicia",
+  "standfirst": "La Resolución 469/2026 descarta regular la IA en general y exige supervisión humana, trazabilidad y evaluación de riesgos en las herramientas que se adopten.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Justicia",
+  "country": "Argentina",
+  "piece_type": "Regulación",
+  "summary_p1": "El Ministerio de Justicia de la Nación argentino ha creado la Mesa Estratégica de Inteligencia Artificial en la Justicia (MEIAJ) mediante la Resolución 469/2026, según explican en Abogados.com.ar Diego Fernández, Gustavo P. Giay y Manuela Adrogué. La mesa deberá relevar las iniciativas y herramientas de IA que ya existen en el sistema de justicia, identificar necesidades y áreas prioritarias, proponer casos de uso y pilotos y formar a magistrados y funcionarios. La resolución aclara que no busca establecer un régimen general de regulación de la IA y fija un plazo de 90 días desde su primera reunión para entregar al ministro una propuesta preliminar de estrategia.",
+  "summary_p2": "La mesa puede convocar a jueces, ministerios públicos, provincias, universidades, colegios profesionales y empresas tecnológicas, lo que abre una puerta a proveedores de legaltech que quieran participar en pilotos con el Estado. La resolución exige cumplir la normativa de datos personales, seguridad de la información y propiedad intelectual, y aplicar supervisión humana, trazabilidad y evaluación de riesgos: requisitos que cualquier proveedor tendrá que acreditar. Para despachos que litigan en Argentina, conviene seguir qué herramientas se prueban en tribunales, porque acabarán afectando a la tramitación. Matiz: es un órgano de coordinación, no una norma sobre el uso de la IA.",
+  "why_sota": "Nuevo órgano de coordinación de IA en la justicia argentina, con plazo y requisitos de supervisión humana.",
+  "why_now": "Abogados.com.ar, 30 oct 2026. NEW frente a 09-29→10-29.",
+  "geo": [
+    "AR"
+  ],
+  "topics": [
+    "IA",
+    "justicia",
+    "administración pública",
+    "gobernanza de la IA"
+  ],
+  "sources": [
+    {
+      "source_id": "src-abogados-com-ar",
+      "url": "https://abogados.com.ar/el-ministerio-de-justicia-creo-una-mesa-estrategica-sobre-ia/40377",
+      "cited_title": "El Ministerio de Justicia creó una mesa estratégica sobre IA",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-ministerio-justicia-ar",
+    "ent-abogados-com-ar"
+  ],
+  "lang": "es",
+  "status": "published"
+}

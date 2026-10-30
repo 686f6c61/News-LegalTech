@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-10-30-vos-despedida-abogados-humanos-no-son-pasado",
+  "date": "2026-10-29",
+  "type": "analysis",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Sir Geoffrey Vos se despide como Master of the Rolls defendiendo que los abogados humanos no son cosa del pasado: la confianza del cliente sigue necesitando personas, pero la profesión debe adoptar la IA sin proteccionismo",
+  "short_title": "Vos: los abogados humanos no son cosa del pasado",
+  "standfirst": "En su último discurso antes de jubilarse el 31 de octubre, pide formar abogados capaces de evaluar lo que produce la IA y dejar de repetir que alucina.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Profesión",
+  "country": "Reino Unido",
+  "piece_type": "Análisis",
+  "summary_p1": "Sir Geoffrey Vos, que se jubila el 31 de octubre como Master of the Rolls, publicó el 29 de octubre el discurso \"Are human lawyers a thing of the past?\", leído por vídeo en Edimburgo. Su respuesta es un \"no\" rotundo: la aceptación de un consejo jurídico depende de la confianza en quien lo da, y la vida en la era de la IA es tan compleja que generará más problemas jurídicos difíciles que seguirán necesitando abogados. Pero pide a los abogados que usen la IA para abaratar el servicio y ampliar el acceso a la justicia, que dejen de repetir \"sin parar\" que alucina y que asuman que siguen siendo responsables de todo lo que firman.",
+  "summary_p2": "El mensaje del juez más activo en IA del Reino Unido es una hoja de ruta para despachos y facultades: formar a abogados capaces de evaluar lo que producen herramientas como Harvey o Legora, en lugar de competir con ellas. Recuerda también que eBay resuelve 60 millones de disputas al año, el 90% sin intervención humana, pero advierte de que son reclamaciones muy pequeñas y que esa confianza no se extiende sola a casos en que el cliente puede perder su casa, su empleo o sus hijos. Para la profesión, la frontera del negocio está en qué asuntos aceptarán los clientes resolver con una máquina y cuáles no. Matiz: es un discurso, no una norma ni una guía judicial.",
+  "why_sota": "Discurso de despedida del principal impulsor judicial de la IA en Inglaterra y Gales, centrado en el futuro de la profesión.",
+  "why_now": "Judiciary UK, 29 oct 2026. NEW frente a 09-29→10-29 (el 10-15 se publicó otro discurso suyo sobre laudos con IA).",
+  "geo": [
+    "GB",
+    "Global"
+  ],
+  "topics": [
+    "IA generativa",
+    "profesión",
+    "formación",
+    "acceso a la justicia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-judiciary-uk",
+      "url": "https://www.judiciary.uk/speech-by-the-master-of-the-rolls-are-human-lawyers-a-thing-of-the-past/",
+      "cited_title": "Speech by the Master of the Rolls: Are human lawyers a thing of the past?",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-geoffrey-vos",
+    "ent-courts-tribunals-judiciary",
+    "ent-harvey",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

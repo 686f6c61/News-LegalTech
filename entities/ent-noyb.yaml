@@ -1,0 +1,11 @@
+id: ent-noyb
+name: noyb
+type: association
+url: https://noyb.eu/
+geo:
+- AT
+- EU
+aliases:
+- None Of Your Business
+notes: Asociación europea de defensa de la privacidad. Ficha mínima.
+stub: true

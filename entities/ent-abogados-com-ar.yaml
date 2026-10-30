@@ -1,0 +1,9 @@
+id: ent-abogados-com-ar
+name: Abogados.com.ar
+type: media
+url: https://abogados.com.ar/
+geo:
+- AR
+aliases: []
+notes: Medio jurídico argentino. Ficha mínima.
+stub: true

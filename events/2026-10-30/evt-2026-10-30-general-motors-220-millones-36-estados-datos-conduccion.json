@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-30-general-motors-220-millones-36-estados-datos-conduccion",
+  "date": "2026-10-29",
+  "type": "regulation",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "General Motors pagará 220 millones de dólares a 36 estados de EE. UU. para cerrar la demanda por vender a brókeres de datos la conducta y la ubicación de sus conductores",
+  "short_title": "GM pagará 220 millones a 36 estados por vender datos de conducción",
+  "standfirst": "El acuerdo exige consentimiento expreso y añade una auditoría externa del programa de privacidad, tras los pactos previos con California y la FTC.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Privacidad",
+  "country": "Estados Unidos",
+  "piece_type": "Regulación",
+  "summary_p1": "General Motors pagará 220 millones de dólares a 36 estados para cerrar la demanda de una coalición de fiscales generales que la acusaba de vender ilegalmente datos de conducción y ubicación a brókeres de datos, que a su vez los vendían a aseguradoras, informó TechCrunch el 29 de octubre. Los datos procedían de Smart Driver, función de sus apps de coche conectado que GM cerró en 2024. El acuerdo obliga a obtener consentimiento expreso antes de recoger o compartir esos datos, en línea con los pactos previos con California y la FTC, y añade una novedad: un tercero deberá evaluar el cumplimiento de su programa de privacidad.",
+  "summary_p2": "El caso es un aviso para cualquier empresa que monetice datos de sensores o de uso: el coste no está solo en la multa, sino en años de auditorías y obligaciones de transparencia. Para los departamentos legales del sector del automóvil y de seguros, el consentimiento expreso para compartir datos de conducción es ya el estándar exigido por los reguladores de EE. UU. Para brókeres y aseguradoras, la cadena de procedencia de los datos que compran se convierte en riesgo propio. Matiz: GM sostiene que el acuerdo se refiere a Smart Driver, un producto que cerró en 2024, y que ya no vende datos vinculables a una persona.",
+  "why_sota": "Uno de los mayores acuerdos estatales de privacidad sobre datos de vehículos conectados.",
+  "why_now": "TechCrunch, 29 oct 2026. NEW frente a 09-29→10-29.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "privacidad",
+    "datos de vehículos",
+    "brókeres de datos",
+    "fiscales generales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-techcrunch",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "cited_title": "GM reaches $220M settlement over selling drivers' private data",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-general-motors",
+    "ent-ftc",
+    "ent-techcrunch"
+  ],
+  "lang": "es",
+  "status": "published"
+}

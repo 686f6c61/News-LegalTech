@@ -1,0 +1,10 @@
+id: ent-university-of-kentucky
+name: Universidad de Kentucky
+type: academia
+url: https://www.uky.edu/
+geo:
+- US
+aliases:
+- University of Kentucky
+notes: Universidad pública estadounidense. Ficha mínima.
+stub: true

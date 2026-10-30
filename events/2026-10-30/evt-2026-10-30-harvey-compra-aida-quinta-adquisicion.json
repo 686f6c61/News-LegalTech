@@ -1,0 +1,53 @@
+{
+  "id": "evt-2026-10-30-harvey-compra-aida-quinta-adquisicion",
+  "date": "2026-10-29",
+  "type": "investment",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Harvey compra Aida, plataforma de IA fundada por un cofundador de Glean, para ayudar a cada despacho a construir su propia ontología de conocimiento; es su quinta adquisición de 2026",
+  "short_title": "Harvey compra Aida, su quinta adquisición del año",
+  "standfirst": "El equipo de Aida, ingenieros de búsqueda y aprendizaje automático, se integra en producto e ingeniería de Harvey para dar contexto a sus agentes.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "IA jurídica",
+  "country": "Estados Unidos",
+  "piece_type": "Inversión",
+  "summary_p1": "Harvey ha comprado Aida, una plataforma de ejecución comercial con IA fundada por Piyush Prahladka, cofundador de Glean, y Atish Das Sarma, con experiencia previa en Patreon, Apple y X, informó Artificial Lawyer el 29 de octubre. Es la quinta adquisición de Harvey en 2026, tras Benchmark en julio y Guardrails AI en septiembre, y el equipo de ingenieros de búsqueda y aprendizaje automático se incorpora a su organización de producto e ingeniería. Harvey explica que lo que frena hoy a los agentes es que \"no saben lo suficiente\" y que el equipo de Aida acelerará su trabajo para que cada despacho construya su propia ontología. No se ha publicado el precio.",
+  "summary_p2": "La compra confirma que Harvey no está comprando legaltech tradicional sino talento de IA empresarial, y que la próxima batalla de los asistentes jurídicos es el contexto: conectar documentos, sistemas y conocimiento interno que hoy están dispersos. Para los despachos, eso convierte la gestión del conocimiento en un proyecto de datos con implicaciones de seguridad, permisos y confidencialidad que conviene diseñar antes de dejar que un proveedor indexe todo. Para los competidores, la carrera ya no es solo por el modelo, sino por quién mapea mejor el saber propio de cada cliente. Matiz: las declaraciones proceden de Harvey y de los fundadores de Aida.",
+  "why_sota": "Quinta compra del año del proveedor de IA jurídica más financiado, orientada a ontologías de conocimiento para agentes.",
+  "why_now": "Artificial Lawyer y Legaltech News, 29 oct 2026; Confilegal, 30 oct. NEW frente a 09-29→10-29.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "IA generativa",
+    "adquisiciones",
+    "gestión del conocimiento",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/10/29/harvey-buys-aida-5th-purchase-in-2026/",
+      "cited_title": "Harvey Buys Aida - 5th Purchase in 2026",
+      "accessed": "2026-10-30"
+    },
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261030-harvey-compra-aida-y-suma-su-quinta-adquisicion-del-ano-para-reforzar-la-inteligencia-artificial-de-los-despachos/",
+      "cited_title": "Harvey compra Aida y suma su quinta adquisición del año para reforzar la inteligencia artificial de los despachos",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-aida",
+    "ent-artificial-lawyer",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

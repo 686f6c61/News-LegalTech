@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-30-cjc-declaracion-ia-testigos-peritos",
+  "date": "2026-10-30",
+  "type": "regulation",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "El Civil Justice Council de Inglaterra y Gales recomienda que testigos de hechos y peritos declaren ante el tribunal si la IA ha generado o influido en el contenido de sus declaraciones e informes",
+  "short_title": "El CJC pide que testigos y peritos declaren su uso de IA",
+  "standfirst": "El informe final deja la responsabilidad en los abogados y sus reguladores y propone una practice direction con enfoque funcional y basado en riesgo.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Tribunales",
+  "country": "Reino Unido",
+  "piece_type": "Orientación",
+  "summary_p1": "El Civil Justice Council (CJC) de Inglaterra y Gales ha publicado su informe final sobre el uso de IA en la preparación de escritos procesales, informó Legal Futures el 30 de octubre. Recomienda que el testigo de hechos declare que su declaración no se ha preparado con una herramienta de IA que haya \"generado o influido en su contenido sustantivo\" y que los peritos hagan una declaración similar con detalle suficiente para que su informe pueda contrastarse. Para el resto de escritos firmados por abogados no habría declaración: la regulación seguiría en manos de los profesionales y sus reguladores, con guía conjunta y una practice direction del Civil Procedure Rule Committee de enfoque \"funcional y basado en riesgo\".",
+  "summary_p2": "El grupo de trabajo lo presidió Sir Colin Birss, que sustituirá a Sir Geoffrey Vos como Master of the Rolls, y la propuesta llega tras un caso en Truro en que una jueza restó peso al informe de una perita redactado con Microsoft Copilot. Para despachos y peritos, la consecuencia práctica es documentar ya cómo se usa la IA en declaraciones e informes, porque el foco está en el resultado y no en la herramienta. Para los proveedores de IA de litigación, aparece un requisito de trazabilidad que conviene ofrecer de serie. Matiz: son recomendaciones; aún tienen que convertirse en reglas, y el CJC pide además, con urgencia, guía para litigantes sin abogado.",
+  "why_sota": "Primer marco procesal concreto en Inglaterra y Gales sobre IA en la prueba testifical y pericial.",
+  "why_now": "Legal Futures, 30 oct 2026. NEW frente a 09-29→10-29 (el 10-02 se publicó solo la propuesta de límite de páginas de Birss).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "IA generativa",
+    "prueba",
+    "tribunales",
+    "peritos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/witnesses-of-fact-and-experts-should-have-to-declare-ai-use-to-court",
+      "cited_title": "Witnesses of fact and experts \"should have to declare AI use\" to court",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "entities": [
+    "ent-civil-justice-council",
+    "ent-colin-birss",
+    "ent-geoffrey-vos",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-american-humanist-association
+name: American Humanist Association
+type: association
+url: https://americanhumanist.org/
+geo:
+- US
+aliases:
+- AHA
+notes: Organización sin ánimo de lucro del humanismo secular en EE. UU. Ficha mínima.
+stub: true

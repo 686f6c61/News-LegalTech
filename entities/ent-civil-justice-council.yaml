@@ -1,0 +1,11 @@
+id: ent-civil-justice-council
+name: Civil Justice Council
+type: government
+url: https://www.judiciary.uk/related-offices-and-bodies/advisory-bodies/cjc/
+geo:
+- GB
+aliases:
+- CJC
+notes: Órgano asesor sobre justicia civil de Inglaterra y Gales, presidido por el
+  Master of the Rolls. Ficha mínima.
+stub: true
