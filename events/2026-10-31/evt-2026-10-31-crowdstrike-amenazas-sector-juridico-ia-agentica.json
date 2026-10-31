@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-10-31-crowdstrike-amenazas-sector-juridico-ia-agentica",
+  "date": "2026-10-28",
+  "type": "report",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "CrowdStrike avisa de que los ataques con IA agéntica contra el sector jurídico se han duplicado desde 2023 y cuenta 455 despachos y entidades jurídicas señaladas por grupos de extorsión en un año",
+  "short_title": "CrowdStrike: los ciberataques con IA a despachos se duplican",
+  "standfirst": "El informe describe intrusiones físicas con falsos técnicos, robos de datos a los cuatro minutos del acceso y el primer ataque a un software de facturación jurídica.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ciberseguridad",
+  "country": "Estados Unidos",
+  "piece_type": "Informe",
+  "summary_p1": "CrowdStrike publicó el 28 de octubre su Legal Threat Landscape Report 2026, recogido por ABA Journal y Lawandtrends el 30. Según el informe, los ataques con IA agéntica contra el sector jurídico se han duplicado desde 2023 y, entre agosto de 2025 y agosto de 2026, los grupos de extorsión incluyeron a 455 entidades jurídicas en sus webs de filtraciones, un 39% más que el año anterior. El 82% de la actividad maliciosa tuvo motivación económica; el grupo CHATTY SPIDER aumentó la suya un 129% y llegó a reclutar a una persona para infiltrarse físicamente en despachos haciéndose pasar por personal técnico. En otro caso, el atacante intentó extraer datos cuatro minutos después de entrar.",
+  "summary_p2": "El informe añade que los grupos vinculados a China duplicaron su diversidad y que TITAN PANDA explotó por primera vez un software de facturación específico del sector, mientras MURKY PANDA atacó casi 500 cuentas de un solo despacho estadounidense desde 300 direcciones IP. Para los despachos, la consecuencia es que la seguridad ya no puede limitarse al correo y al perímetro: hay que revisar proveedores sectoriales, control de acceso físico y tiempos de detección. Para clientes e in-house, los cuestionarios de seguridad a sus despachos externos ganan peso, y Reuters recuerda que Quinn Emanuel, WilmerHale y Seyfarth Shaw han sufrido brechas recientes. Matiz: los datos proceden de un proveedor de ciberseguridad que vende protección al sector.",
+  "why_sota": "Radiografía sectorial de amenazas con datos de IA agéntica, extorsión e intrusión física contra despachos.",
+  "why_now": "ABA Journal y Lawandtrends, 30 oct 2026. NEW frente a 09-29→10-30.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "IA agéntica",
+    "despachos",
+    "extorsión"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/law-firms-facing-increasing-ai-fueled-cyber-attacks-new-report-says/",
+      "cited_title": "Law firms facing increasing AI-fueled cyberattacks, new report says",
+      "accessed": "2026-10-31"
+    },
+    {
+      "source_id": "src-lawandtrends",
+      "url": "https://www.lawandtrends.com/noticias/tic/los-ciberdelincuentes-difuminan-la-frontera-entre-lo-digital-y-lo-fisico-en-sus-ataques-contra-abogados-y-procesos-1.html",
+      "cited_title": "Los ciberdelincuentes difuminan la frontera entre lo digital y lo físico en sus ataques contra abogados y procesos judiciales",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-crowdstrike",
+    "ent-aba-journal",
+    "ent-lawandtrends"
+  ],
+  "lang": "es",
+  "status": "published"
+}

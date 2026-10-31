@@ -1,0 +1,10 @@
+id: ent-crowdstrike
+name: CrowdStrike
+type: company
+url: https://www.crowdstrike.com/
+geo:
+- US
+aliases: []
+notes: Empresa estadounidense de ciberseguridad; publica el Legal Threat Landscape
+  Report. Ficha mínima.
+stub: true

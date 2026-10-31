@@ -1,0 +1,11 @@
+id: ent-crosby
+name: Crosby
+type: law_firm
+url: https://crosby.ai/
+geo:
+- US
+aliases:
+- Crosby Legal
+notes: Despacho estadounidense nativo de IA, salido del modo oculto en 2025; financiado
+  por Lux, Index y Sequoia. Ficha mínima.
+stub: true

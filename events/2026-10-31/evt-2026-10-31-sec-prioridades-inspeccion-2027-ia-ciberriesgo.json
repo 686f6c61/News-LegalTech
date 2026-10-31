@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-31-sec-prioridades-inspeccion-2027-ia-ciberriesgo",
+  "date": "2026-10-23",
+  "type": "regulation",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "La SEC sitúa la IA y los ciberataques generados con IA entre sus prioridades de inspección para 2027 y revisará si lo que las entidades cuentan de su IA coincide con cómo funcionan sus herramientas",
+  "short_title": "La SEC pone la IA y el ciberriesgo en sus inspecciones de 2027",
+  "standfirst": "Por la Orden Ejecutiva 14434, la SEC ya escribe \"Super Intelligence\" donde antes decía IA, pero los estándares jurídicos no cambian.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Regulación financiera",
+  "country": "Estados Unidos",
+  "piece_type": "Orientación",
+  "summary_p1": "La División de Inspecciones de la SEC publicó el 23 de octubre sus prioridades para el ejercicio 2027, analizadas en The National Law Review el 30 de octubre. Los temas de fondo apenas cambian, pero la IA y la ciberseguridad ganan peso: la SEC revisará si el uso de IA de las entidades encaja con sus obligaciones fiduciarias, de cumplimiento y de supervisión, y si sus declaraciones son \"justas y exactas\", si sus controles coinciden con lo comunicado a inversores y si los algoritmos dan recomendaciones acordes con el perfil del inversor. En consonancia con la Orden Ejecutiva 14434, el regulador usa ya el término \"Super Intelligence\" en lugar de IA.",
+  "summary_p2": "La novedad en ciberseguridad es el foco en amenazas generadas con IA: la SEC examinará cómo se preparan las entidades frente al phishing escrito con IA y a voces y vídeos sintéticos usados para ingeniería social, y cómo supervisan su propia IA de detección de fraude y el riesgo de proveedores. Para los departamentos legales y de cumplimiento de gestoras y brókeres, la lección es revisar folletos, marketing y comunicaciones con clientes para que lo que se dice de la IA coincida con lo que hace. Para los despachos, son pistas de futuras actuaciones de supervisión y litigios. Matiz: son prioridades de inspección, no normas nuevas.",
+  "why_sota": "Hoja de ruta supervisora de la SEC con foco explícito en declaraciones sobre IA y ciberamenazas generadas con IA.",
+  "why_now": "The National Law Review, 30 oct 2026 (prioridades del 23). NEW frente a 09-29→10-30.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "regulación financiera",
+    "supervisión",
+    "IA",
+    "ciberseguridad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-national-law-review",
+      "url": "https://natlawreview.com/article/secs-2027-examination-priorities-artificial-intelligence-and-cyber-risk",
+      "cited_title": "The SEC's 2027 Examination Priorities: Artificial Intelligence and Cyber Risk",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-us-sec",
+    "ent-national-law-review"
+  ],
+  "lang": "es",
+  "status": "published"
+}

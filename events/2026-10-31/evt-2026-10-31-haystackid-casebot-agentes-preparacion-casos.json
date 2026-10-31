@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-31-haystackid-casebot-agentes-preparacion-casos",
+  "date": "2026-10-29",
+  "type": "product",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "HaystackID lanza CaseBot agéntico, ocho agentes especializados que elaboran cronologías, mapas de entidades, kits de declaración y avisos de prueba ausente, dentro o fuera de Relativity aiR",
+  "short_title": "HaystackID lanza CaseBot, ocho agentes para preparar casos",
+  "standfirst": "La herramienta señala huecos en la prueba, pero su propio aviso legal aclara que no sirve para confirmar que una información no existe.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "eDiscovery",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "HaystackID ha lanzado la versión agéntica de CaseBot, desarrollada por su filial eDiscovery AI, con ocho agentes de habilidades especializadas, informó ComplexDiscovery el 30 de octubre sobre el anuncio del 29. Cuatro trabajan el desarrollo de hechos (narrativa, cronología, mapa de entidades y búsqueda de documentos clave) y otros cuatro la preparación del caso (kit de declaraciones, análisis de pretensiones, análisis de requerimientos y revisión del expediente). Los resultados se exportan en PDF y la herramienta funciona sola o dentro de Relativity aiR. CaseBot se presentó en septiembre de 2025 y está disponible de forma general desde mayo de 2026.",
+  "summary_p2": "El paso de buscar documentos a preparar el caso es donde los proveedores de eDiscovery quieren cobrar más, y CaseBot apunta a tareas que hoy hacen asociados júnior y paralegales. El detalle relevante para despachos es el aviso de HaystackID: la herramienta \"no pretende confirmar la ausencia de información ni prestar asesoramiento jurídico\", y el anuncio cita la Opinión Formal 512 de la ABA, lo que deja la verificación y la responsabilidad en el abogado. Para los equipos de litigación, la pregunta de compra es cómo se documenta lo que el agente no ha encontrado. Matiz: es información del proveedor y el editor de ComplexDiscovery, Rob Robinson, es también director de marketing de HaystackID.",
+  "why_sota": "Agentes especializados de preparación de casos integrados en Relativity aiR, con límites declarados por el propio proveedor.",
+  "why_now": "ComplexDiscovery, 30 oct 2026 (anuncio del 29). NEW frente a 09-29→10-30.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "eDiscovery",
+    "agentes",
+    "litigación",
+    "IA generativa"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/haystackids-agentic-casebot-flags-missing-evidence-but-is-not-intended-to-confirm-absence/",
+      "cited_title": "HaystackID's agentic CaseBot flags missing evidence but is not intended to confirm absence",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-haystackid",
+    "ent-relativity",
+    "ent-complexdiscovery"
+  ],
+  "lang": "es",
+  "status": "published"
+}

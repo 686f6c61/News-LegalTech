@@ -1,0 +1,10 @@
+id: ent-national-law-review
+name: The National Law Review
+type: media
+url: https://natlawreview.com/
+geo:
+- US
+aliases:
+- NLR
+notes: Publicación jurídica estadounidense con análisis de despachos. Ficha mínima.
+stub: true

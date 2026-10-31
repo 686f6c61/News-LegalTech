@@ -1,0 +1,10 @@
+id: ent-senado-chile
+name: Senado de Chile
+type: government
+url: https://www.senado.cl/
+geo:
+- CL
+aliases:
+- Senado de la República de Chile
+notes: Cámara alta del Congreso Nacional de Chile. Ficha mínima.
+stub: true

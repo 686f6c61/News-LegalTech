@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-10-31-senado-chile-aplaza-ley-proteccion-datos",
+  "date": "2026-10-29",
+  "type": "regulation",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "El Senado de Chile aprueba aplazar hasta el 15 de octubre de 2027 la entrada en vigor de la Ley 21.719 de protección de datos personales y ampliar a cinco el consejo de la nueva Agencia",
+  "short_title": "Chile aplaza su nueva ley de datos hasta octubre de 2027",
+  "standfirst": "El proyecto, aprobado por 33 votos a favor y 6 en contra, pasa a segundo trámite constitucional.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Privacidad",
+  "country": "Chile",
+  "piece_type": "Regulación",
+  "summary_p1": "La Sala del Senado de Chile aprobó por 33 votos a favor y 6 en contra el proyecto que modifica la Ley 21.719 de protección y tratamiento de datos personales para posponer su entrada en vigor hasta el 15 de octubre de 2027, informó Diario Jurídico el 29 de octubre. El texto adelanta la fecha frente a la que proponía el Ejecutivo, diciembre de 2027, y aumenta de tres a cinco los miembros del consejo directivo de la Agencia de Protección de Datos Personales, con mandatos de seis años no renovables y renovación parcial cada dos años con acuerdo de dos tercios del Senado. El proyecto pasa a segundo trámite constitucional.",
+  "summary_p2": "Para empresas, despachos y departamentos legales que preparan la adaptación a la ley chilena, el aplazamiento da más margen pero también prolonga la incertidumbre sobre cuándo empezará a supervisar la nueva Agencia. Quienes votaron en contra criticaron que hubo tiempo suficiente para nombrar al consejo y que se deja sin aplicar una norma clave para la privacidad. Para proveedores de cumplimiento en América Latina, conviene mantener los proyectos de adaptación y vigilar los ajustes que se introduzcan en la tramitación. Matiz: el aplazamiento aún debe aprobarse en la Cámara de Diputados.",
+  "why_sota": "Cambio de calendario de la principal reforma de protección de datos en Chile.",
+  "why_now": "Diario Jurídico, 29 oct 2026. NEW frente a 09-29→10-30.",
+  "geo": [
+    "CL"
+  ],
+  "topics": [
+    "protección de datos",
+    "legislación",
+    "autoridad de control",
+    "América Latina"
+  ],
+  "sources": [
+    {
+      "source_id": "src-diario-juridico",
+      "url": "https://www.diariojuridico.com/chile-postergarian-la-vigencia-de-la-ley-de-proteccion-de-datos-personales/",
+      "cited_title": "Chile - Postergarían la vigencia de la Ley de Protección de Datos Personales",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-senado-chile",
+    "ent-diario-juridico"
+  ],
+  "lang": "es",
+  "status": "published"
+}

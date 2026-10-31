@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-31-openai-senal-robots-txt-entrenamiento-ia",
+  "date": "2026-10-30",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "OpenAI respetará una señal común en robots.txt para que los editores excluyan sus contenidos del entrenamiento de IA, basada en un borrador individual presentado ante el IETF por un ingeniero de Anthropic",
+  "short_title": "OpenAI respetará una señal en robots.txt contra el entrenamiento",
+  "standfirst": "El token __usage_ai-training es voluntario, no tiene respaldo del IETF y los acuerdos privados pueden prevalecer sobre él.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Datos",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "OpenAI ha anunciado que respetará una señal compartida en robots.txt para expresar preferencias sobre el uso de contenidos en el entrenamiento de IA, informó Unite.AI el 30 de octubre. La señal es el token __usage_ai-training, definido en el borrador individual draft-kelley-aipref-training-preference-signal-00, firmado por Kevin Kelley, de Anthropic, fechado el 30 de octubre y con caducidad el 3 de mayo de 2027. Se apoya en el trabajo del grupo AI Preferences del IETF, no modifica el estándar de robots.txt (RFC 9309) y OpenAI prevé implantarlo \"en los próximos meses\".",
+  "summary_p2": "Si los grandes desarrolladores adoptan la misma señal, editores, medios y bases de datos jurídicas tendrían por primera vez una forma única de decir \"no\" al entrenamiento sin bloquear la indexación ni los buscadores. Para los despachos que asesoran a editores, encaja con la reserva de derechos de minería de textos de la normativa europea, aunque no la sustituye. Para los equipos legales de empresas de IA, conviene revisar cómo se registra y respeta esa preferencia, porque será prueba en futuros litigios. Matiz: el cumplimiento es voluntario, el borrador no está aprobado por el IETF y los acuerdos de licencia privados pueden prevalecer sobre la señal.",
+  "why_sota": "Primer compromiso de un gran desarrollador con una señal común de exclusión del entrenamiento en robots.txt.",
+  "why_now": "Unite.AI, 30 oct 2026. NEW frente a 09-29→10-30.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "entrenamiento de modelos",
+    "robots.txt",
+    "derechos de autor",
+    "estándares"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
+      "cited_title": "OpenAI to Honor Shared Robots.txt Signal for AI Training Preferences",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-openai",
+    "ent-anthropic",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

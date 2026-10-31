@@ -1,0 +1,54 @@
+{
+  "id": "evt-2026-10-31-meta-x-tiktok-pierden-ofcom-online-safety-act",
+  "date": "2026-10-30",
+  "type": "case",
+  "sota_score": 7.4,
+  "ai_legaltech": false,
+  "title": "Meta, X y TikTok pierden ante el High Court la primera impugnación de los poderes de Ofcom bajo la Online Safety Act y tendrán que entregar sus datos de moderación, incluida la exposición de menores",
+  "short_title": "Meta, X y TikTok pierden ante Ofcom el primer pleito de la OSA",
+  "standfirst": "El tribunal rechaza que los requerimientos de información sean irracionales o desproporcionados pese al coste millonario alegado por las plataformas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación digital",
+  "country": "Reino Unido",
+  "piece_type": "Sentencia",
+  "summary_p1": "Un Divisional Court del High Court de Inglaterra y Gales, formado por Lord Justice Singh y Mrs Justice Collins Rice, desestimó el 30 de octubre las impugnaciones de Meta y WhatsApp, X y TikTok contra los requerimientos de información que Ofcom les dirigió el 10 de febrero de 2026 al amparo del artículo 100 de la Online Safety Act ([2026] EWHC 2779 (Admin)). Es la primera vez que se ponen a prueba judicialmente esos poderes. Las plataformas deberán aportar datos sobre el volumen de actividad de usuarios, contenidos y cuentas moderados, exposición de usuarios, incluidos menores, a contenido retirado, recursos y denuncias de usuarios británicos.",
+  "summary_p2": "Las plataformas alegaron que eran los requerimientos más gravosos que habían recibido de cualquier regulador y que reunir los datos costaría \"millones de libras\", pero el tribunal consideró que no explicaron por qué y aceptó la importancia del objetivo de Ofcom. Para los departamentos legales de servicios digitales que operan en Reino Unido, la sentencia confirma que Ofcom tiene margen amplio para exigir datos cuantitativos y que conviene preparar sistemas de registro de moderación auditables. Para los despachos de regulación tecnológica, el argumento del coste ya no basta sin prueba concreta. Matiz: The Lawyer, que adelantó la noticia, está tras muro de pago; la sentencia es pública.",
+  "why_sota": "Primer precedente judicial sobre los poderes de información de Ofcom en la Online Safety Act.",
+  "why_now": "Courts and Tribunals Judiciary y The Lawyer, 30 oct 2026. NEW frente a 09-29→10-30.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "Online Safety Act",
+    "plataformas",
+    "moderación de contenidos",
+    "regulación digital"
+  ],
+  "sources": [
+    {
+      "source_id": "src-judiciary-uk",
+      "url": "https://www.judiciary.uk/judgments/r-meta-x-tiktok-v-ofcom/",
+      "cited_title": "R (Meta, X, TikTok) -v- OFCOM",
+      "accessed": "2026-10-31"
+    },
+    {
+      "source_id": "src-the-lawyer",
+      "url": "https://www.thelawyer.com/defeat-for-big-tech-in-first-court-challenge-against-online-safety-act-powers/",
+      "cited_title": "Defeat for Big Tech in first court challenge against Online Safety Act powers",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-ofcom",
+    "ent-meta",
+    "ent-x-corp",
+    "ent-tiktok",
+    "ent-courts-tribunals-judiciary",
+    "ent-the-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

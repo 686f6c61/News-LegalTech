@@ -4497,3 +4497,105 @@ entities:
   - OnStar
   notes: Fabricante estadounidense de automóviles. Ficha mínima.
   stub: true
+- id: ent-crosby
+  name: Crosby
+  type: law_firm
+  url: https://crosby.ai/
+  geo:
+  - US
+  aliases:
+  - Crosby Legal
+  notes: Despacho estadounidense nativo de IA, salido del modo oculto en 2025; financiado
+    por Lux, Index y Sequoia. Ficha mínima.
+  stub: true
+- id: ent-haystackid
+  name: HaystackID
+  type: vendor
+  url: https://haystackid.com/
+  geo:
+  - US
+  aliases:
+  - eDiscovery AI
+  notes: Proveedor estadounidense de eDiscovery y servicios de litigación; propietario
+    de eDiscovery AI y CaseBot. Ficha mínima.
+  stub: true
+- id: ent-crowdstrike
+  name: CrowdStrike
+  type: company
+  url: https://www.crowdstrike.com/
+  geo:
+  - US
+  aliases: []
+  notes: Empresa estadounidense de ciberseguridad; publica el Legal Threat Landscape
+    Report. Ficha mínima.
+  stub: true
+- id: ent-wikimedia-foundation
+  name: Fundación Wikimedia
+  type: association
+  url: https://wikimediafoundation.org/
+  geo:
+  - US
+  - Global
+  aliases:
+  - Wikimedia Foundation
+  notes: Fundación sin ánimo de lucro que aloja Wikipedia. Ficha mínima.
+  stub: true
+- id: ent-us-sec
+  name: Securities and Exchange Commission
+  type: government
+  url: https://www.sec.gov/
+  geo:
+  - US
+  aliases:
+  - SEC
+  notes: Regulador federal de valores de EE. UU. Ficha mínima.
+  stub: true
+- id: ent-national-law-review
+  name: The National Law Review
+  type: media
+  url: https://natlawreview.com/
+  geo:
+  - US
+  aliases:
+  - NLR
+  notes: Publicación jurídica estadounidense con análisis de despachos. Ficha mínima.
+  stub: true
+- id: ent-ofcom
+  name: Ofcom
+  type: government
+  url: https://www.ofcom.org.uk/
+  geo:
+  - GB
+  aliases:
+  - Office of Communications
+  notes: Regulador británico de comunicaciones y de la Online Safety Act. Ficha mínima.
+  stub: true
+- id: ent-tiktok
+  name: TikTok
+  type: company
+  url: https://www.tiktok.com/
+  geo:
+  - Global
+  aliases:
+  - TikTok Information Technologies UK Ltd
+  notes: Plataforma de vídeo corto. Ficha mínima.
+  stub: true
+- id: ent-the-lawyer
+  name: The Lawyer
+  type: media
+  url: https://www.thelawyer.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Publicación británica sobre el negocio jurídico. Ficha mínima.
+  stub: true
+- id: ent-senado-chile
+  name: Senado de Chile
+  type: government
+  url: https://www.senado.cl/
+  geo:
+  - CL
+  aliases:
+  - Senado de la República de Chile
+  notes: Cámara alta del Congreso Nacional de Chile. Ficha mínima.
+  stub: true

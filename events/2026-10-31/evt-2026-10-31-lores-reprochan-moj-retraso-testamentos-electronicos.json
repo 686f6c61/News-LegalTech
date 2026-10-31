@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-31-lores-reprochan-moj-retraso-testamentos-electronicos",
+  "date": "2026-10-30",
+  "type": "regulation",
+  "sota_score": 6.7,
+  "ai_legaltech": false,
+  "title": "La comisión de justicia de la Cámara de los Lores reprocha al Ministerio de Justicia británico su \"inacción\" sobre los testamentos electrónicos 18 meses después de la propuesta de la Law Commission",
+  "short_title": "Los Lores reprochan al MoJ el retraso de los testamentos digitales",
+  "standfirst": "La ley exige al Gobierno responder a la Law Commission en un año y los Lores le dan dos semanas para fijar fecha.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Firma electrónica",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "Lord Foster of Bath, presidente de la comisión de justicia e interior de la Cámara de los Lores, ha escrito a la ministra de Tribunales, Sarah Sackman, para preguntar por qué el Gobierno no ha respondido aún al informe Modernising wills de la Law Commission, publicado en mayo de 2025, informó la Law Society Gazette el 30 de octubre. El informe hacía 31 recomendaciones para actualizar una ley de origen victoriano, entre ellas validar los testamentos electrónicos. Foster recuerda que la Law Commission Act 2009 obliga a responder en un año y pide en dos semanas los pasos dados y una fecha para la respuesta completa.",
+  "summary_p2": "Foster resume el problema con una frase: los documentos y firmas electrónicos sirven para abrir cuentas, comprar inmuebles o pedir hipotecas, pero no para testar. Para proveedores de software de sucesiones y de firma electrónica, la validez de los testamentos digitales abriría un mercado nuevo en Inglaterra y Gales, siempre que usen \"sistemas fiables\" con salvaguardas frente al fraude. Para los despachos de sucesiones, conviene seguir el diseño de esas salvaguardas, porque marcará cómo se custodian y prueban los testamentos. Matiz: es una carta parlamentaria; no hay todavía compromiso legislativo del Gobierno.",
+  "why_sota": "Presión parlamentaria para validar los testamentos electrónicos en Inglaterra y Gales.",
+  "why_now": "Law Society Gazette, 30 oct 2026. NEW frente a 09-29→10-30.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "testamentos electrónicos",
+    "firma electrónica",
+    "sucesiones",
+    "reforma legal"
+  ],
+  "sources": [
+    {
+      "source_id": "src-law-society-gazette",
+      "url": "https://www.lawgazette.co.uk/news/peers-admonish-moj-over-electronic-wills-delay/5128399.article",
+      "cited_title": "Peers admonish MoJ over electronic wills delay",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-ministry-of-justice-uk",
+    "ent-uk-law-commission",
+    "ent-law-society-gazette"
+  ],
+  "lang": "es",
+  "status": "published"
+}

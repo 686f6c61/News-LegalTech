@@ -1,0 +1,10 @@
+id: ent-tiktok
+name: TikTok
+type: company
+url: https://www.tiktok.com/
+geo:
+- Global
+aliases:
+- TikTok Information Technologies UK Ltd
+notes: Plataforma de vídeo corto. Ficha mínima.
+stub: true

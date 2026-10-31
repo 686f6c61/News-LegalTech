@@ -1,0 +1,11 @@
+id: ent-haystackid
+name: HaystackID
+type: vendor
+url: https://haystackid.com/
+geo:
+- US
+aliases:
+- eDiscovery AI
+notes: Proveedor estadounidense de eDiscovery y servicios de litigación; propietario
+  de eDiscovery AI y CaseBot. Ficha mínima.
+stub: true

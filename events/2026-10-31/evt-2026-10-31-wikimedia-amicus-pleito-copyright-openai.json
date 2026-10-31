@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-31-wikimedia-amicus-pleito-copyright-openai",
+  "date": "2026-10-29",
+  "type": "case",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "La Fundación Wikimedia pide al juez Stein presentar un escrito amicus en el pleito consolidado de derechos de autor contra OpenAI, sin apoyar a ninguna parte, para que el uso legítimo se analice caso a caso",
+  "short_title": "Wikimedia pide intervenir como amicus en el pleito contra OpenAI",
+  "standfirst": "Avisa de que un uso legítimo estrecho favorece a las grandes tecnológicas y uno demasiado amplio empuja a cerrar la web abierta.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Propiedad intelectual",
+  "country": "Estados Unidos",
+  "piece_type": "Litigio",
+  "summary_p1": "La Fundación Wikimedia presentó el 29 de octubre una moción ante el juez Sidney H. Stein, del Distrito Sur de Nueva York, para presentar un escrito amicus en In re OpenAI, el procedimiento que agrupa 12 demandas de derechos de autor, incluida la del New York Times, informó Unite.AI el 30. El escrito no apoya a ninguna de las partes, tiene 5.831 palabras frente al límite de 6.000 y se apoya en Warhol contra Goldsmith para defender que cada uso debe analizarse por separado. Lo firma Rhett O. Millsaps II, de Lex Lumina, con el director jurídico de la fundación, Stephen LaPorte.",
+  "summary_p2": "La intervención importa porque Wikipedia es a la vez fuente habitual de entrenamiento de modelos y proyecto de conocimiento abierto: la fundación advierte de que un uso legítimo demasiado estrecho solo dejaría entrenar a quien pueda pagar licencias, y uno demasiado amplio empujaría a los editores a cerrar sus contenidos. Para despachos de propiedad intelectual y para empresas que entrenan o ajustan modelos, es un argumento intermedio que puede influir en cómo el tribunal enfoca el análisis. Para los titulares de contenidos, recuerda que la respuesta no será binaria. Matiz: es una solicitud; el juez aún tiene que admitir el escrito, y la pieza de Unite.AI declara una firma generada con IA.",
+  "why_sota": "Voz del mayor proyecto de conocimiento abierto en el principal litigio de derechos de autor contra un desarrollador de IA.",
+  "why_now": "Unite.AI, 30 oct 2026 (moción del 29). NEW frente a 09-29→10-30.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "derechos de autor",
+    "uso legítimo",
+    "entrenamiento de modelos",
+    "litigación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/wikimedia-foundation-seeks-to-file-amicus-brief-in-openai-copyright-case/",
+      "cited_title": "Wikimedia Foundation Seeks to File Amicus Brief in OpenAI Copyright Case",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-wikimedia-foundation",
+    "ent-openai",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

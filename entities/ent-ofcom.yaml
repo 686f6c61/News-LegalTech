@@ -1,0 +1,10 @@
+id: ent-ofcom
+name: Ofcom
+type: government
+url: https://www.ofcom.org.uk/
+geo:
+- GB
+aliases:
+- Office of Communications
+notes: Regulador británico de comunicaciones y de la Online Safety Act. Ficha mínima.
+stub: true

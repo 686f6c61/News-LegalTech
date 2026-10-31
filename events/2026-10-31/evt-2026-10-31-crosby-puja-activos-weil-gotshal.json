@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-10-31-crosby-puja-activos-weil-gotshal",
+  "date": "2026-10-30",
+  "type": "investment",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "Crosby, el despacho nativo de IA respaldado por Sequoia, Lux e Index, puja por la marca y parte de los datos internos de Weil Gotshal y ficha a algunos de sus abogados mientras el despacho vota su disolución",
+  "short_title": "Crosby, despacho nativo de IA, puja por los activos de Weil",
+  "standfirst": "Un despacho de dos años con unos 85 millones de dólares captados quiere quedarse con la marca de uno de los grandes de Wall Street.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Inversión",
+  "summary_p1": "Crosby, un despacho \"AI-first\" fundado hace dos años, ha presentado una oferta por activos de Weil, Gotshal & Manges, entre ellos su marca, su denominación comercial y algunos datos internos no especificados, informó TechCrunch el 30 de octubre a partir de una exclusiva de The Information. Crosby está además contratando a algunos de los cerca de 1.200 abogados de Weil. No se conocen los términos y la oferta puede no prosperar. Crosby salió del modo oculto en 2025 con una ronda semilla de 5,8 millones de dólares y ha captado unos 85 millones, incluida una Serie B de 60 millones en marzo liderada por Lux e Index, con Sequoia, Elad Gil, 01 Advisors y Bain Capital Ventures.",
+  "summary_p2": "Que un despacho financiado por capital riesgo pueda pujar por la marca de un gran despacho de Wall Street en liquidación es una señal del nuevo equilibrio del mercado: el valor que se busca no es solo la cartera de clientes, sino el prestigio del nombre y los datos acumulados para entrenar y alimentar flujos de trabajo con IA. Para los socios de despachos tradicionales, el caso plantea qué ocurre con el conocimiento interno y los precedentes del despacho cuando este desaparece, y qué límites de confidencialidad y secreto profesional se aplican a su venta. Para los competidores, es un aviso de que los nuevos entrantes compiten también por talento sénior. Matiz: la fusión con Willkie se descartó y la votación de disolución de Weil sigue pendiente.",
+  "why_sota": "Primer intento conocido de un despacho nativo de IA de adquirir la marca y datos de un gran despacho tradicional.",
+  "why_now": "TechCrunch, 30 oct 2026. NEW frente a 09-29→10-30 (el 10-29 se publicó solo la recomendación de liquidación de Weil).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "despachos nativos de IA",
+    "capital riesgo",
+    "mercado jurídico",
+    "datos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-techcrunch",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "cited_title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-crosby",
+    "ent-weil",
+    "ent-willkie",
+    "ent-techcrunch"
+  ],
+  "lang": "es",
+  "status": "published"
+}

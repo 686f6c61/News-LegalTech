@@ -1,0 +1,11 @@
+id: ent-wikimedia-foundation
+name: Fundación Wikimedia
+type: association
+url: https://wikimediafoundation.org/
+geo:
+- US
+- Global
+aliases:
+- Wikimedia Foundation
+notes: Fundación sin ánimo de lucro que aloja Wikipedia. Ficha mínima.
+stub: true

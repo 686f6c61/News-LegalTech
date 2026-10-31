@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-10-31-doj-estudiantes-fantasma-ia-prestamos",
+  "date": "2026-10-29",
+  "type": "case",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "El Departamento de Justicia de EE. UU. imputa a cinco personas y se incauta de más de 750.000 dólares en criptomonedas de una red de \"estudiantes fantasma\" que usaba IA para cobrar ayudas al estudio",
+  "short_title": "El DOJ destapa una red de \"estudiantes fantasma\" que usaba IA",
+  "standfirst": "Los defraudadores usaban identidades robadas e IA para rellenar solicitudes, hacer los trabajos del curso y simular asistencia a clases virtuales.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Fraude",
+  "country": "Estados Unidos",
+  "piece_type": "Caso",
+  "summary_p1": "El Departamento de Justicia de EE. UU. ha imputado a cinco personas en la primera gran ofensiva federal contra los \"estudiantes fantasma\", defraudadores que suplantan a estadounidenses para matricularse en universidades y cobrar préstamos y ayudas federales, informó Ars Technica el 30 de octubre sobre el anuncio del 29. Se han incautado más de 750.000 dólares en criptomonedas de una red asociada a ciudadanos kenianos. Según el DOJ, los defraudadores compran datos personales, sobre todo de personas que nunca fueron a la universidad, y usan IA para rellenar la solicitud FAFSA, completar los trabajos y aparentar asistencia en clases en línea.",
+  "summary_p2": "El Departamento de Educación ha identificado más de 830.000 cuentas de ayuda federal potencialmente fraudulentas creadas con datos de ciudadanos, con pérdidas que podrían acercarse a 130 millones de dólares si todas lo fueran. Para universidades y sus asesores, el caso muestra que la verificación de identidad y de presencia en la formación en línea es ya un riesgo de cumplimiento, no solo académico. Para los despachos de defensa penal y de cumplimiento, la IA aparece como herramienta del fraude y los análisis de datos como herramienta de la acusación. Matiz: son imputaciones; los acusados no han sido juzgados.",
+  "why_sota": "Caso federal que documenta el uso de IA para sostener un fraude masivo de identidad en la educación.",
+  "why_now": "Ars Technica, 30 oct 2026 (anuncio del DOJ del 29). NEW frente a 09-29→10-30.",
+  "geo": [
+    "US",
+    "KE"
+  ],
+  "topics": [
+    "fraude",
+    "identidad",
+    "IA generativa",
+    "enjuiciamiento penal"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "cited_title": "Thousands of \"ghost students\" use AI to steal millions in student loans, DOJ says",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "entities": [
+    "ent-us-doj",
+    "ent-ars-technica"
+  ],
+  "lang": "es",
+  "status": "published"
+}

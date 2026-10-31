@@ -1,0 +1,10 @@
+id: ent-us-sec
+name: Securities and Exchange Commission
+type: government
+url: https://www.sec.gov/
+geo:
+- US
+aliases:
+- SEC
+notes: Regulador federal de valores de EE. UU. Ficha mínima.
+stub: true

@@ -1,0 +1,9 @@
+id: ent-the-lawyer
+name: The Lawyer
+type: media
+url: https://www.thelawyer.com/
+geo:
+- GB
+aliases: []
+notes: Publicación británica sobre el negocio jurídico. Ficha mínima.
+stub: true
