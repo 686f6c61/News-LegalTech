@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-01-netdocuments-dms-capa-inteligencia-despacho",
+  "date": "2026-10-30",
+  "type": "interview",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "El consejero delegado de NetDocuments sostiene que el gestor documental será la capa de inteligencia del despacho, aunque acabe sin interfaz propia, y dice que su grafo de contexto reduce a la mitad el coste en tokens de la IA",
+  "short_title": "NetDocuments: el DMS será la capa de inteligencia del despacho",
+  "standfirst": "Josh Baxter separa modelos, «arnés» y datos del despacho, y sostiene que solo la última capa perdurará; las cifras son internas.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Gestión documental",
+  "country": "Estados Unidos",
+  "piece_type": "Entrevista",
+  "summary_p1": "Josh Baxter, consejero delegado de NetDocuments, defiende que el gestor documental (DMS) se está convirtiendo en la capa de inteligencia organizativa del despacho, en un episodio del pódcast LawNext de Bob Ambrogi publicado el 30 de octubre y grabado en la conferencia Inspire de la compañía. Baxter distingue tres capas en la IA jurídica: los modelos, que NetDocuments no construye; el \"arnés\" (la herramienta desde la que se trabaja, como Claude, Harvey, Legora o ChatGPT), que los usuarios cambiarán a voluntad; y los datos y el contexto del despacho, que según él es lo que permanecerá, e incluso admite que el DMS puede acabar sin interfaz propia. Según sus pruebas internas, trabajar contra su grafo de contexto reduce el coste en tokens a la mitad, y hasta un 70% con los modelos más caros; también cita crecimientos mensuales del uso de IA del 40% al 50%.",
+  "summary_p2": "Es la tesis de moda entre los proveedores de gestión documental frente a las plataformas de IA: si el abogado trabaja en Harvey, Legora o Claude, el valor se desplaza a quien guarda los documentos, los metadatos y el historial de cómo se negoció cada asunto. Para el despacho, la consecuencia práctica es que la calidad y los permisos del DMS pasan a determinar lo que la IA puede ver, y conviene decidir qué herramientas externas se conectan y con qué control de accesos. La previsión de precios (una base fija más consumo) anticipa facturas variables en IA. Matiz: es la visión del propio consejero delegado de un proveedor, y las cifras de ahorro y de uso proceden de pruebas internas no verificadas de forma independiente.",
+  "why_sota": "Formula con cifras propias la tesis de que el DMS, y no el modelo ni la interfaz, es la capa duradera de la IA jurídica.",
+  "why_now": "LawNext, 30 oct 2026. NEW frente a 09-29→10-31.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "gestión documental",
+    "DMS",
+    "IA generativa",
+    "precios de IA",
+    "contexto"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/10/lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the-law-firms-intelligence-layer.html",
+      "cited_title": "LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS Is Becoming the Law Firm's Intelligence Layer",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-netdocuments",
+    "ent-lawnext"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-arnold-porter
+name: Arnold & Porter
+type: law_firm
+url: https://www.arnoldporter.com/
+geo:
+- US
+aliases:
+- Arnold & Porter Kaye Scholer
+notes: Despacho estadounidense con práctica de competencia y eDiscovery. Ficha mínima.
+stub: true

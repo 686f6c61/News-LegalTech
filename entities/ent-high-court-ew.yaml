@@ -1,0 +1,10 @@
+id: ent-high-court-ew
+name: High Court of Justice (England and Wales)
+type: court
+url: https://www.judiciary.uk/
+geo:
+- GB
+aliases:
+- High Court
+notes: Tribunal superior de primera instancia de Inglaterra y Gales. Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-dartmouth
+name: Dartmouth College
+type: university
+url: https://home.dartmouth.edu/
+geo:
+- US
+aliases:
+- Dartmouth
+notes: Universidad estadounidense de New Hampshire. Ficha mínima.
+stub: true

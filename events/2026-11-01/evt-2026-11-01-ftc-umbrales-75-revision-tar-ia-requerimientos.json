@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-11-01-ftc-umbrales-75-revision-tar-ia-requerimientos",
+  "date": "2026-10-31",
+  "type": "regulation",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "La FTC exige, según Arnold & Porter, un 75% de exhaustividad y de precisión a quien revise documentos con TAR o IA en sus requerimientos, y obliga a revelar herramienta, modelo y todos los prompts",
+  "short_title": "La FTC fija un 75% de recall y precisión a la revisión con IA",
+  "standfirst": "Los umbrales aparecen en instrucciones de un requerimiento y de una segunda solicitud de fusión; no hay documento público de la FTC que los recoja.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "eDiscovery",
+  "country": "Estados Unidos",
+  "piece_type": "Regulación",
+  "summary_p1": "La Comisión Federal de Comercio (FTC) ha incluido mínimos del 75% de exhaustividad (recall, con un margen de ±3% al 95% de confianza) y del 75% de precisión en las instrucciones que acompañan a un requerimiento de investigación civil y a una segunda solicitud de información en una fusión, para las partes que revisen documentos con revisión asistida por tecnología (TAR) o con IA, informó ComplexDiscovery el 31 de octubre a partir de un análisis del 7 de octubre de Bryan M. Marra, de Arnold & Porter. Las instrucciones fijan además una puntuación de corte mínima de 0,50 y obligan a revelar la herramienta, su versión y proveedor, el modelo subyacente y todos los prompts una semana antes de empezar el entrenamiento, que solo puede empezar cuando se hayan recogido los documentos de todos los custodios; la muestra de elusión debe entregarse dos semanas antes del cumplimiento.",
+  "summary_p2": "Si se confirma, es la primera vez que una agencia estadounidense pone un suelo numérico a la calidad de la revisión con IA, y eso cambia la conversación con el proveedor: el despacho tendrá que poder demostrar recall y precisión con muestras validadas, no solo afirmar que la herramienta funciona. Revelar todos los prompts choca con el argumento de que forman parte del work product del abogado, y obligar a recoger todos los custodios antes de entrenar alarga los plazos de una segunda solicitud. Para los equipos in-house de empresas con operaciones de fusión en EE. UU., conviene revisar ya qué registra su plataforma de revisión. Matiz: ComplexDiscovery no ha localizado ningún documento de la FTC con estas instrucciones, el modelo público de segunda solicitud (enero de 2024) no fija mínimos y todo procede de un único análisis de despacho; además, el editor de ComplexDiscovery, Rob Robinson, es director de marketing de HaystackID.",
+  "why_sota": "Primer suelo numérico conocido de una agencia federal para la revisión documental con TAR o IA, con obligación de revelar los prompts.",
+  "why_now": "ComplexDiscovery, 31 oct 2026 (análisis de Arnold & Porter del 7 oct). NEW frente a 09-29→10-31.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "eDiscovery",
+    "TAR",
+    "competencia",
+    "fusiones",
+    "prompts",
+    "work product"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/ftc-instructions-set-75-percent-recall-and-precision-floors-for-tar-and-ai-review-law-firm-reports/",
+      "cited_title": "FTC instructions set 75 percent recall and precision floors for TAR and AI review, law firm reports",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-ftc",
+    "ent-arnold-porter",
+    "ent-complexdiscovery",
+    "ent-haystackid"
+  ],
+  "lang": "es",
+  "status": "published"
+}

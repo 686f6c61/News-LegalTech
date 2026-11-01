@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-11-01-filevine-lois-voice-agents-captacion-llamadas",
+  "date": "2026-10-27",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Filevine lanza LOIS Voice Agents, agentes de IA que atienden las llamadas entrantes del despacho, hacen la entrevista de captación con las preguntas aprobadas y vuelcan grabación, transcripción y resumen en el expediente",
+  "short_title": "Filevine lanza agentes de voz con IA para la captación de clientes",
+  "standfirst": "Las llamadas por debajo del umbral de confianza que fija el despacho pasan a una cola de revisión humana; de momento está en beta.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Gestión",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "Filevine ha presentado LOIS Voice Agents, agentes de IA que contestan las llamadas entrantes de un despacho, hacen el triaje y la entrevista de captación con las preguntas aprobadas por el propio despacho y derivan la llamada según el motivo, anunció la compañía el 27 de octubre en PR Newswire. Cada llamada queda en el sistema de gestión de casos con su grabación, un resumen generado por IA y la transcripción, de la que se extraen datos como nombres, fechas de nacimiento, fechas del incidente, números de atestado o aseguradoras. El despacho fija el umbral de confianza para asociar la llamada a un cliente potencial; por debajo, va a una cola de revisión. Filevine cifra en un 35% las llamadas a despachos que no se contestan. Está disponible en beta.",
+  "summary_p2": "La recepción y la captación son de los primeros puntos donde la IA de voz entra en los despachos, sobre todo en lesiones personales y en masa, y la diferencia que alega Filevine es que el agente escribe directamente en el expediente en lugar de dejar un mensaje. Para el despacho, la decisión no es solo operativa: el agente graba, transcribe y extrae datos personales y de salud de personas que todavía no son clientes, lo que exige revisar el consentimiento a la grabación, la información previa y el plazo de conservación, y cuidar que el agente no dé nada parecido a un consejo jurídico. Para los proveedores de recepción telefónica, es competencia directa desde la plataforma de gestión. Matiz: es un comunicado del propio proveedor, sin datos de clientes en producción, y el producto está en beta.",
+  "why_sota": "Agentes de voz integrados en la plataforma de gestión del despacho, con umbral de confianza y revisión humana configurables.",
+  "why_now": "PR Newswire, 27 oct 2026 (recogido en el Legaltech Rundown de Law.com del 30). NEW frente a 09-29→10-31.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "agentes de voz",
+    "captación de clientes",
+    "gestión de despachos",
+    "datos personales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pr-newswire",
+      "url": "https://www.prnewswire.com/news-releases/filevine-launches-lois-voice-agents-to-scale-front-desk-and-intake-operations-302920646.html",
+      "cited_title": "Filevine Launches LOIS Voice Agents to Scale Front Desk and Intake Operations",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-filevine"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-01-lexis-protege-caja-unica-instrucciones",
+  "date": "2026-10-30",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "LexisNexis amplía Lexis+ con Protégé para reunir en una sola caja de instrucciones su contenido jurídico, el conocimiento propio del despacho, Shepard's, analítica, noticias y expedientes judiciales",
+  "short_title": "LexisNexis reúne Lexis+ con Protégé en una sola caja de instrucciones",
+  "standfirst": "LexisNexis dice haber escuchado a más de 7.000 profesionales que se quejan de saltar entre herramientas de IA; llega este mes a clientes de EE. UU.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "LexisNexis ha presentado una ampliación de Lexis+ con Protégé que integra en una única caja de instrucciones (prompt box) su contenido jurídico, el conocimiento propio del despacho, la verificación de citas de Shepard's, analítica especializada, noticias y expedientes judiciales, según una nota publicada el 30 de octubre en la sección de asociados de Legal Futures. La compañía dice haber realizado en 2026 cientos de estudios con más de 7.000 profesionales, que describen el mismo problema: saltar entre varias herramientas de IA, trasladar el contexto de un sistema a otro y comprobar una y otra vez citas y conclusiones. Su consejero delegado, Sean Fitzpatrick, habla de un \"arnés jurídico propio\" que coordina modelos y agentes con verificación incorporada. Se despliega este mes para clientes de EE. UU. y llegará después al resto.",
+  "summary_p2": "La batalla entre plataformas de IA jurídica se ha desplazado del modelo a la capa que lo rodea: quién controla el contexto del despacho y la verificación de las fuentes. LexisNexis responde a Harvey, Legora y a los asistentes generalistas con su principal ventaja, el contenido propio y Shepard's, y con la promesa de no tener que salir de una sola pantalla. Para los despachos con Lexis, la pregunta de compra es qué parte de las funciones depende de la suscripción y de los permisos del administrador, porque la propia nota lo advierte. Para quien use varios proveedores, conviene comprobar si el conocimiento interno que se conecta queda atado a la plataforma. Matiz: es una nota de la propia LexisNexis publicada como contenido de asociado, sin datos independientes de rendimiento, y la disponibilidad fuera de EE. UU. no tiene fecha.",
+  "why_sota": "Uno de los dos grandes editores jurídicos unifica contenido, conocimiento del despacho y verificación en una sola interfaz de IA.",
+  "why_now": "Legal Futures (Associate News), 30 oct 2026. NEW frente a 09-29→10-31.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "investigación jurídica",
+    "IA generativa",
+    "verificación de citas",
+    "plataformas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/associate-news/as-lawyers-face-ai-switching-overload-lexis-with-protege-redefines-integrated-verified-legal-work-in-a-single-prompt-box",
+      "cited_title": "As lawyers face AI switching overload, Lexis+ with Protégé redefines integrated, verified legal work in a single prompt box",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-lexisnexis",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

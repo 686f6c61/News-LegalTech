@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-01-high-court-anula-reclamacion-cedida-sociedad-abogados",
+  "date": "2026-10-30",
+  "type": "case",
+  "sota_score": 6.2,
+  "ai_legaltech": false,
+  "title": "La High Court anula una reclamación de 11 millones de libras porque se cedió a una sociedad de los propios abogados del caso, por una regla de 1784 que prohíbe al abogado adquirir la acción de su cliente",
+  "short_title": "La High Court anula una reclamación cedida a los abogados del caso",
+  "standfirst": "Que los abogados fueran socios minoritarios, con un 11% cada uno, no salvó la cesión.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Litigación",
+  "country": "Reino Unido",
+  "piece_type": "Sentencia",
+  "summary_p1": "Una reclamación de 11 millones de libras ha caído por la \"regla del abogado\" (solicitor rule), que desde la sentencia Hall v Hallet de 1784 impide que el abogado que dirige un litigio adquiera por cesión la acción de su cliente, informó Legal Futures el 30 de octubre. La deuda nacía de un préstamo de Maltby Services a John Rhoden; TD Capital, cliente del despacho Hickman Construction Law, la cedió en diciembre de 2025 a MSV Estates, cuyos administradores eran los dos socios del despacho, con alrededor del 11% del capital cada uno. La Master Sullivan, de la High Court, dictó sentencia sumaria: la cesión es nula, aunque se hiciera a través de una sociedad y con participaciones minoritarias, porque la regla \"sería hueca\" si bastara con interponer una empresa.",
+  "summary_p2": "La sentencia toca de lleno los modelos de financiación de litigios y de compra de carteras de reclamaciones, en los que el despacho, sus socios o vehículos vinculados toman una parte del derecho litigioso. Para los despachos, la lección es que estructurar la participación a través de una sociedad no evita el conflicto de interés, y que la regla se aplica antes de presentar la demanda. Para financiadores y compradores de deuda, conviene revisar si algún abogado del asunto participa en el vehículo cesionario. Matiz: es una resolución de una Master en Inglaterra y Gales, queda pendiente una vista sobre las consecuencias y sobre la incorporación de TD Capital al proceso, y no es trasladable sin más a otros ordenamientos.",
+  "why_sota": "Aplica la regla de 1784 a una cesión a un vehículo societario con participación minoritaria de los abogados.",
+  "why_now": "Legal Futures, 30 oct 2026. NEW frente a 09-29→10-31.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "litigación",
+    "cesión de créditos",
+    "conflicto de interés",
+    "financiación de litigios"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-voids-claim-brought-by-solicitors-assigned-clients-cause-of-action",
+      "cited_title": "Court voids claim brought by solicitors assigned client's cause of action",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-high-court-ew",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

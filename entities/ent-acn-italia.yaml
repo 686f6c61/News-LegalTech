@@ -1,0 +1,11 @@
+id: ent-acn-italia
+name: Agenzia per la Cybersicurezza Nazionale
+type: government
+url: https://www.acn.gov.it/
+geo:
+- IT
+aliases:
+- ACN
+notes: Agencia italiana de ciberseguridad; autoridad de vigilancia del mercado del
+  Reglamento de IA en Italia. Ficha mínima.
+stub: true

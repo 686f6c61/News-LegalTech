@@ -1,0 +1,11 @@
+id: ent-agid
+name: Agenzia per l'Italia Digitale
+type: government
+url: https://www.agid.gov.it/
+geo:
+- IT
+aliases:
+- AgID
+notes: Agencia italiana para lo digital; autoridad notificante del Reglamento de IA
+  en Italia. Ficha mínima.
+stub: true

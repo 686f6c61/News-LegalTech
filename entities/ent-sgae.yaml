@@ -1,0 +1,10 @@
+id: ent-sgae
+name: Sociedad General de Autores y Editores
+type: association
+url: https://www.sgae.es/
+geo:
+- ES
+aliases:
+- SGAE
+notes: Entidad española de gestión colectiva de derechos de autor. Ficha mínima.
+stub: true

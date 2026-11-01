@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-01-dartmouth-rector-academico-dimite-uso-ia-no-declarado",
+  "date": "2026-10-30",
+  "type": "case",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "El rector académico de Dartmouth dimite después de que un comité concluyera que no declaró un uso significativo de IA en un artículo académico y en una tribuna del Washington Post, pese a que los editores lo exigían",
+  "short_title": "Dimite el rector académico de Dartmouth por no declarar su uso de IA",
+  "standfirst": "El comité pudo revisar los registros de su cuenta corporativa de Claude, pero no los de sus cuentas personales.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Gobernanza",
+  "country": "Estados Unidos",
+  "piece_type": "Caso",
+  "summary_p1": "Santiago Schnell, provost (rector académico) de Dartmouth College, ha dimitido después de que un comité asesor concluyera que no declaró un uso significativo de IA en un artículo académico y en una tribuna publicada en agosto en el Washington Post, aunque los editores exigían declararlo, informó Ars Technica el 30 de octubre. El comité reprocha una \"cooperación insuficiente\": Schnell entregó su portátil de la universidad, pero no los registros de sus cuentas personales de modelos de lenguaje ni aceptó reunirse. Sí tuvo acceso a la cuenta corporativa de Claude que usaba a través de Dartmouth, que muestra que pedía revisiones de sus artículos, correcciones de código y figuras, e incluso preguntó si un manuscrito tenía \"muchas señales de escritura con IA\". Schnell sostiene que usó la IA como herramienta editorial y que no entendió que debía declararlo.",
+  "summary_p2": "El caso sirve de aviso para cualquier organización con políticas de uso de IA: la obligación que se incumple no es usarla, sino no declararlo cuando se exige, y la prueba principal fueron los registros de una cuenta corporativa. Para los equipos in-house y de compliance, muestra que los logs de las herramientas de IA de empresa son evidencia en investigaciones internas, mientras que las cuentas personales quedan fuera de alcance, lo que obliga a decidir en la política qué herramientas se permiten. Para los despachos, recuerda que tribunales y colegios piden cada vez más declarar el uso de IA en escritos, y que la frontera entre corregir el estilo y generar contenido es justo la que se discute. Matiz: el ámbito es académico, no jurídico, y el comité admite que no pudo determinar el alcance completo del uso de IA.",
+  "why_sota": "Un alto cargo académico cae por no declarar su uso de IA, con registros corporativos de Claude como prueba central.",
+  "why_now": "Ars Technica, 30 oct 2026. NEW frente a 09-29→10-31.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "transparencia",
+    "uso de IA",
+    "investigaciones internas",
+    "registros",
+    "políticas de IA"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ars-technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "cited_title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-dartmouth",
+    "ent-anthropic",
+    "ent-ars-technica"
+  ],
+  "lang": "es",
+  "status": "published"
+}

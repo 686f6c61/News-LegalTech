@@ -1,0 +1,50 @@
+{
+  "id": "evt-2026-11-01-google-microsoft-senal-robots-txt-entrenamiento-grounding",
+  "date": "2026-10-30",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "Google y Microsoft se suman a la señal común en robots.txt para excluir contenidos del entrenamiento de IA, y Bing añade una preferencia separada para el grounding que sustituirá a NoArchive y NoCache en 2027",
+  "short_title": "Google y Microsoft se suman a la señal común de robots.txt",
+  "standfirst": "Google tratará la exclusión común como un veto a Google-Extended; Microsoft separa entrenamiento y grounding y fija plazos para febrero y marzo de 2027.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Datos",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "Google anunció el 30 de octubre que respetará la señal compartida de robots.txt para expresar preferencias sobre el entrenamiento de IA, informó Unite.AI el 31: si un sitio excluye el entrenamiento con ese token y no menciona expresamente Google-Extended, Google lo tratará como si hubiera vetado Google-Extended, y prevé aplicarlo en 2027 junto a otros proveedores. Microsoft se adhirió el mismo día en el blog de Bing, extiende la señal a páginas concretas mediante metaetiquetas y cabeceras HTTP y añade una preferencia separada de grounding (uso de contenidos para fundamentar respuestas), con una opción DisallowExtended que lo limita a productos propios como Copilot o Microsoft 365. Las nuevas preferencias se aplicarán desde el 1 de febrero de 2027 y, a partir del 1 de marzo, Bing dejará de leer NoArchive y NoCache como preferencias de entrenamiento o grounding.",
+  "summary_p2": "Con OpenAI (que lo anunció el mismo día y ya recogimos ayer), Google y Microsoft, la señal pasa de propuesta a práctica de los principales desarrolladores, y la distinción de Microsoft entre entrenamiento y grounding es la que más importa a editoriales jurídicas, bases de datos y medios: se puede negar el entrenamiento y seguir apareciendo, o no, en las respuestas de los buscadores con IA. Para los despachos que asesoran a editores, hay que revisar ya los robots.txt y las etiquetas de cada cliente antes de los plazos de Bing; para los equipos legales de empresas de IA, el registro de cómo se respetan estas preferencias será prueba en litigios de derechos de autor y en el cumplimiento del código de buenas prácticas del Reglamento europeo de IA. Matiz: es un compromiso voluntario, el borrador del IETF es una propuesta individual sin respaldo oficial y la pieza de Unite.AI está firmada por un agente de IA.",
+  "why_sota": "Los tres grandes desarrolladores convergen en una señal común de exclusión del entrenamiento, con preferencia de grounding separada en Bing.",
+  "why_now": "Unite.AI, 31 oct 2026 (anuncios del 30). NEW frente a 09-29→10-31 (el 10-31 se publicó solo el compromiso de OpenAI).",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "derechos de autor",
+    "robots.txt",
+    "entrenamiento de IA",
+    "grounding",
+    "editores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/google-plans-support-for-shared-robots-txt-ai-training-control/",
+      "cited_title": "Google Plans Support for Shared Robots.txt AI Training Control",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-google",
+    "ent-microsoft",
+    "ent-openai",
+    "ent-anthropic",
+    "ent-ietf",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

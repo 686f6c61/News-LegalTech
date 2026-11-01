@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-01-supremo-resucita-multa-sgae-mercados-conexos",
+  "date": "2026-10-31",
+  "type": "case",
+  "sota_score": 6.5,
+  "ai_legaltech": false,
+  "title": "El Supremo anula la sentencia que libró a la SGAE de la multa de 2,95 millones de la CNMC y fija doctrina: se puede abusar de una posición dominante en un mercado conexo sin dominarlo",
+  "short_title": "El Supremo resucita la multa de casi tres millones a la SGAE",
+  "standfirst": "La Audiencia Nacional deberá revisar el caso: perder el dominio en un mercado no anula toda la sanción.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Competencia",
+  "country": "España",
+  "piece_type": "Sentencia",
+  "summary_p1": "El Tribunal Supremo ha anulado, en una sentencia fechada el 21 de octubre, la resolución con la que la Audiencia Nacional anuló en diciembre de 2023 la multa de 2,95 millones de euros que la CNMC impuso a la SGAE en mayo de 2019 por abuso de posición dominante, informó El Confidencial el 31 de octubre. La CNMC sancionó a la SGAE por imponer condiciones estatutarias y contractuales que dificultaban que autores, compositores y editores retiraran parte de sus derechos para gestionarlos con competidores como DAMA o Unison Rights. La Audiencia entendió que la SGAE había perdido el dominio en la gestión de derechos audiovisuales en 2018; el Supremo responde que perder el dominio en uno de los mercados no basta para anular toda la sanción y devuelve el caso a la Audiencia.",
+  "summary_p2": "La doctrina sobre mercados conexos es lo relevante más allá de la SGAE: el Supremo recuerda que basta con que existan \"relaciones o vínculos estrechos\" entre mercados para que el abuso en uno pueda proyectarse sobre otro, sin demostrar dominio en este último. Para los despachos de competencia, refuerza a la CNMC en expedientes contra operadores con poder en mercados vinculados, y para los de propiedad intelectual reabre el margen de los autores para repartir sus derechos entre varias entidades de gestión. Para las entidades de gestión, conviene revisar las cláusulas estatutarias que limiten la retirada parcial de derechos. Matiz: el caso vuelve a la Audiencia Nacional, que deberá pronunciarse de nuevo, y la sentencia la conocemos por la información de El Confidencial.",
+  "why_sota": "El Supremo fija doctrina sobre abuso de posición dominante en mercados conexos en la gestión colectiva de derechos.",
+  "why_now": "El Confidencial, 31 oct 2026 (sentencia del 21 oct). NEW frente a 09-29→10-31.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "competencia",
+    "propiedad intelectual",
+    "entidades de gestión",
+    "Tribunal Supremo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-el-confidencial",
+      "url": "https://www.elconfidencial.com/juridico/2026-10-31/supremo-resucita-multa-tres-millones-sgae_4456380/",
+      "cited_title": "El Supremo resucita la multa de tres millones a la SGAE por poner trabas a sus competidores",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-tribunal-supremo-es",
+    "ent-sgae",
+    "ent-cnmc",
+    "ent-audiencia-nacional",
+    "ent-el-confidencial"
+  ],
+  "lang": "es",
+  "status": "published"
+}

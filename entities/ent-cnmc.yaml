@@ -1,0 +1,10 @@
+id: ent-cnmc
+name: Comisión Nacional de los Mercados y la Competencia
+type: regulator
+url: https://www.cnmc.es/
+geo:
+- ES
+aliases:
+- CNMC
+notes: Autoridad española de competencia y regulación de mercados. Ficha mínima.
+stub: true

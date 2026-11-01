@@ -1,0 +1,12 @@
+id: ent-netdocuments
+name: NetDocuments
+type: vendor
+url: https://www.netdocuments.com/
+geo:
+- US
+aliases:
+- NetDocs
+- ndMAX
+notes: Proveedor estadounidense de gestión documental (DMS) en la nube para despachos.
+  Ficha mínima.
+stub: true

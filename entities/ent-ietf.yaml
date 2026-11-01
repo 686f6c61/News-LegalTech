@@ -1,0 +1,12 @@
+id: ent-ietf
+name: Internet Engineering Task Force
+type: association
+url: https://www.ietf.org/
+geo:
+- Global
+aliases:
+- IETF
+- AIPREF
+notes: Organismo de estándares de Internet; su grupo AI Preferences (AIPREF) trabaja
+  en señales de preferencia sobre IA. Ficha mínima.
+stub: true

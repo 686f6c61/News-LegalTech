@@ -4599,3 +4599,121 @@ entities:
   - Senado de la República de Chile
   notes: Cámara alta del Congreso Nacional de Chile. Ficha mínima.
   stub: true
+- id: ent-arnold-porter
+  name: Arnold & Porter
+  type: law_firm
+  url: https://www.arnoldporter.com/
+  geo:
+  - US
+  aliases:
+  - Arnold & Porter Kaye Scholer
+  notes: Despacho estadounidense con práctica de competencia y eDiscovery. Ficha mínima.
+  stub: true
+- id: ent-ietf
+  name: Internet Engineering Task Force
+  type: association
+  url: https://www.ietf.org/
+  geo:
+  - Global
+  aliases:
+  - IETF
+  - AIPREF
+  notes: Organismo de estándares de Internet; su grupo AI Preferences (AIPREF) trabaja
+    en señales de preferencia sobre IA. Ficha mínima.
+  stub: true
+- id: ent-netdocuments
+  name: NetDocuments
+  type: vendor
+  url: https://www.netdocuments.com/
+  geo:
+  - US
+  aliases:
+  - NetDocs
+  - ndMAX
+  notes: Proveedor estadounidense de gestión documental (DMS) en la nube para despachos.
+    Ficha mínima.
+  stub: true
+- id: ent-lawnext
+  name: LawNext
+  type: media
+  url: https://www.lawnext.com/
+  geo:
+  - US
+  aliases:
+  - LawSites
+  notes: Pódcast y web de Bob Ambrogi sobre legaltech. Ficha mínima.
+  stub: true
+- id: ent-dartmouth
+  name: Dartmouth College
+  type: university
+  url: https://home.dartmouth.edu/
+  geo:
+  - US
+  aliases:
+  - Dartmouth
+  notes: Universidad estadounidense de New Hampshire. Ficha mínima.
+  stub: true
+- id: ent-agid
+  name: Agenzia per l'Italia Digitale
+  type: government
+  url: https://www.agid.gov.it/
+  geo:
+  - IT
+  aliases:
+  - AgID
+  notes: Agencia italiana para lo digital; autoridad notificante del Reglamento de
+    IA en Italia. Ficha mínima.
+  stub: true
+- id: ent-acn-italia
+  name: Agenzia per la Cybersicurezza Nazionale
+  type: government
+  url: https://www.acn.gov.it/
+  geo:
+  - IT
+  aliases:
+  - ACN
+  notes: Agencia italiana de ciberseguridad; autoridad de vigilancia del mercado del
+    Reglamento de IA en Italia. Ficha mínima.
+  stub: true
+- id: ent-libria-desciframe
+  name: Libria, C.B. (Descíframe)
+  type: vendor
+  url: https://confilegal.com/20261101-desciframe-explica-documentos-gratis-cobra-despachos-casos-exclusiva/
+  geo:
+  - ES
+  aliases:
+  - Descíframe
+  - Libria
+  notes: Comunidad de bienes española responsable de Descíframe, plataforma que explica
+    documentos jurídicos y deriva casos a despachos. Ficha mínima.
+  stub: true
+- id: ent-sgae
+  name: Sociedad General de Autores y Editores
+  type: association
+  url: https://www.sgae.es/
+  geo:
+  - ES
+  aliases:
+  - SGAE
+  notes: Entidad española de gestión colectiva de derechos de autor. Ficha mínima.
+  stub: true
+- id: ent-cnmc
+  name: Comisión Nacional de los Mercados y la Competencia
+  type: regulator
+  url: https://www.cnmc.es/
+  geo:
+  - ES
+  aliases:
+  - CNMC
+  notes: Autoridad española de competencia y regulación de mercados. Ficha mínima.
+  stub: true
+- id: ent-high-court-ew
+  name: High Court of Justice (England and Wales)
+  type: court
+  url: https://www.judiciary.uk/
+  geo:
+  - GB
+  aliases:
+  - High Court
+  notes: Tribunal superior de primera instancia de Inglaterra y Gales. Ficha mínima.
+  stub: true

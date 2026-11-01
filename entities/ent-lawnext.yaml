@@ -1,0 +1,10 @@
+id: ent-lawnext
+name: LawNext
+type: media
+url: https://www.lawnext.com/
+geo:
+- US
+aliases:
+- LawSites
+notes: Pódcast y web de Bob Ambrogi sobre legaltech. Ficha mínima.
+stub: true

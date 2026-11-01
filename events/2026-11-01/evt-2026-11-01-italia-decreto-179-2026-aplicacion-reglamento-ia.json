@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-01-italia-decreto-179-2026-aplicacion-reglamento-ia",
+  "date": "2026-10-26",
+  "type": "regulation",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Italia pone en vigor el Decreto Legislativo 179/2026, que reparte la aplicación del Reglamento europeo de IA entre AgID y la Agencia de Ciberseguridad Nacional, con inspecciones sin aviso previo",
+  "short_title": "Italia pone en vigor su decreto de aplicación del Reglamento de IA",
+  "standfirst": "AgID será la autoridad notificante y la ACN, la de vigilancia del mercado y punto de contacto único con la UE.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Regulación",
+  "country": "Italia",
+  "piece_type": "Regulación",
+  "summary_p1": "El Decreto Legislativo 179/2026, que establece el marco italiano de aplicación del Reglamento europeo de IA, entró en vigor el 23 de octubre tras publicarse en la Gazzetta Ufficiale el 8 de octubre, según un análisis de la IAPP publicado el 26 de octubre. Es el segundo paso tras la Ley 132/2025, la ley general italiana de IA. El decreto concreta los papeles de las dos autoridades: la Agenzia per l'Italia Digitale (AgID) actúa como autoridad notificante, que designa y supervisa a los organismos de evaluación de la conformidad y puede suspender o retirar su designación; la Agenzia per la Cybersicurezza Nazionale (ACN) es la principal autoridad de vigilancia del mercado y el punto de contacto único con la UE, con facultades de investigación que incluyen inspeccionar pruebas en condiciones reales sin aviso previo, y se encarga del registro nacional de los sistemas de alto riesgo en infraestructuras críticas (punto 2 del anexo III).",
+  "summary_p2": "El Reglamento de IA es directamente aplicable, pero deja a cada Estado las autoridades, las sanciones y los procedimientos, y Italia es de los primeros grandes mercados en cerrar ese hueco. Para los equipos in-house de grupos con actividad en Italia, el dato práctico es que el interlocutor de vigilancia será una agencia de ciberseguridad, con un enfoque previsiblemente técnico, y que las pruebas en condiciones reales pueden inspeccionarse sin aviso. Para los despachos españoles, sirve de referencia para comparar con el reparto entre la AESIA y otras autoridades en España. Matiz: el análisis de la IAPP solo es accesible para miembros más allá de los primeros párrafos, por lo que no hemos podido verificar el régimen de sanciones ni las dos decisiones propias de Italia que el texto anuncia; conviene leer el decreto en la Gazzetta Ufficiale.",
+  "why_sota": "Uno de los primeros marcos nacionales completos de aplicación del Reglamento europeo de IA en un gran Estado miembro.",
+  "why_now": "IAPP, 26 oct 2026 (en vigor desde el 23). NEW frente a 09-29→10-31.",
+  "geo": [
+    "IT",
+    "EU"
+  ],
+  "topics": [
+    "Reglamento de IA",
+    "autoridades de vigilancia",
+    "alto riesgo",
+    "Italia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-iapp",
+      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
+      "cited_title": "Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations",
+      "accessed": "2026-11-01"
+    }
+  ],
+  "entities": [
+    "ent-agid",
+    "ent-acn-italia",
+    "ent-ai-act",
+    "ent-iapp"
+  ],
+  "lang": "es",
+  "status": "published"
+}
