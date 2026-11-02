@@ -1,4 +1,4 @@
-count: 162
+count: 166
 agenda_count: 9
 sources:
 - id: src-artificial-lawyer
@@ -1794,6 +1794,51 @@ sources:
   frequency: continuo
   why: Medio tecnológico estadounidense (startups, IA, política tecnológica). Ficha
     añadida para citar URLs de techcrunch.com.
+  region: US
+  lang: EN
+  tier: archive
+- id: src-nysba
+  name: New York State Bar Association
+  url: https://nysba.org/
+  type: association
+  kind: news
+  frequency: irregular
+  why: Colegio de abogados del Estado de Nueva York (nysba.org). Ficha añadida para
+    citar sus directrices éticas sobre el uso de IA por los abogados.
+  region: US
+  lang: EN
+  tier: archive
+- id: src-yonhap
+  name: Yonhap News Agency
+  url: https://en.yna.co.kr/
+  type: media
+  kind: news
+  frequency: continuo
+  why: Agencia de noticias surcoreana (edición en inglés). Ficha añadida para citar
+    la encuesta del Tribunal Supremo de Corea sobre precedentes falsos generados por
+    IA.
+  region: KR
+  lang: EN
+  tier: archive
+- id: src-uk-cma
+  name: Competition and Markets Authority
+  url: https://www.gov.uk/government/organisations/competition-and-markets-authority
+  type: regulator
+  kind: news
+  frequency: irregular
+  why: Autoridad británica de competencia y consumo (gov.uk). Ficha añadida para citar
+    sus notas sobre Meta y sobre agentes de IA y consumidores.
+  region: UK
+  lang: EN
+  tier: archive
+- id: src-justia
+  name: Justia Dockets & Filings
+  url: https://law.justia.com/
+  type: directory
+  kind: news
+  frequency: continuo
+  why: Repositorio público de resoluciones y escritos judiciales de EE. UU. (law.justia.com).
+    Ficha añadida para citar resoluciones federales sobre IA.
   region: US
   lang: EN
   tier: archive

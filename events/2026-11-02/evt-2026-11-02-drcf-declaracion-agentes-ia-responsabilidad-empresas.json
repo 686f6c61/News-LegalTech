@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-11-02-drcf-declaracion-agentes-ia-responsabilidad-empresas",
+  "date": "2026-10-30",
+  "type": "guidance",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Los cuatro reguladores digitales británicos avisan de que la autonomía de un agente de IA no reduce la responsabilidad de quien lo despliega y de que las normas de consumo, datos, competencia y pagos ya se aplican",
+  "short_title": "Los reguladores británicos: el agente de IA no exime a quien lo usa",
+  "standfirst": "CMA, FCA, ICO y Ofcom publican una declaración conjunta; la CMA compara al agente con un empleado y recuerda multas de hasta el 10% de la facturación.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Agentes de IA",
+  "country": "Reino Unido",
+  "piece_type": "Orientación",
+  "summary_p1": "La CMA, la FCA, la ICO y Ofcom, miembros del Digital Regulation Cooperation Forum (DRCF), publicaron el 30 de octubre una declaración conjunta sobre la protección de personas y empresas en una economía de agentes de IA personales, los que compran o tratan con empresas en nombre del usuario. Los reguladores dicen que \"los marcos legales y regulatorios existentes se aplican\" a estos agentes, incluidos competencia, consumo, protección de datos, seguridad en línea, servicios financieros, pagos y ciberseguridad, que la autonomía del agente no disminuye la responsabilidad de la organización que lo despliega y que usarán sus poderes si sospechan infracciones. La CMA actualizó ese día su guía para empresas, según la cual se responde de lo que hace un agente como de lo que hace un empleado, aunque lo haya diseñado otro, con multas de hasta el 10% de la facturación mundial.",
+  "summary_p2": "La declaración no crea normas nuevas, y esa es su utilidad: deja claro que la empresa que pone un agente frente al consumidor no podrá escudarse en el proveedor del modelo. Para los equipos legales, la tarea inmediata es contractual y de registro: quién autorizó al agente, qué datos usa, qué intereses comerciales condicionan sus recomendaciones y cómo se reclama, que son las cuestiones que plantean los reguladores. Para los despachos, abre asesoramiento en contratos con proveedores de agentes y en reparto de responsabilidad entre comercio, desarrollador y medio de pago. Matiz: es una declaración de orientación sin obligaciones nuevas ni calendario de actuaciones, y la guía de la CMA es de marzo, solo actualizada ahora.",
+  "why_sota": "Cuatro reguladores coordinados fijan que la responsabilidad por los agentes de IA recae en quien los despliega, con las normas actuales.",
+  "why_now": "CMA y DRCF, 30 oct 2026. NEW frente a 09-29→11-01.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "agentes de IA",
+    "consumo",
+    "responsabilidad",
+    "protección de datos",
+    "pagos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-uk-cma",
+      "url": "https://www.gov.uk/government/publications/agentic-ai-and-consumers",
+      "cited_title": "Agentic AI and consumers (DRCF joint statement: protecting people and businesses in an agentic economy)",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-drcf",
+    "ent-uk-cma",
+    "ent-fca",
+    "ent-ico",
+    "ent-ofcom"
+  ],
+  "lang": "es",
+  "status": "published"
+}

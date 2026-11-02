@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-11-02-brechas-despachos-registro-california-ingenieria-social",
+  "date": "2026-11-01",
+  "type": "market",
+  "sota_score": 6.9,
+  "ai_legaltech": false,
+  "title": "Diez despachos estadounidenses, entre ellos Baker McKenzie, Troutman, WilmerHale y Greenberg Traurig, han notificado este año en California brechas de datos causadas en su mayoría por engaños a su propio personal",
+  "short_title": "Diez despachos notifican en California brechas por ingeniería social",
+  "standfirst": "Siete de las diez notificaciones describen ingeniería social o suplantación; ninguna identifica al atacante.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Ciberseguridad",
+  "country": "Estados Unidos",
+  "piece_type": "Incidente",
+  "summary_p1": "Baker McKenzie y Troutman Pepper Locke figuran en el registro de brechas del fiscal general de California con notificaciones del 27 y el 28 de octubre en las que explican que, en agosto, la ingeniería social (el engaño a personal del despacho) dio a terceros acceso a archivos de su trabajo jurídico, informó ComplexDiscovery el 1 de noviembre. Su revisión del registro encontró otros ocho despachos con incidentes de mayo o agosto de 2026: Fragomen, Peña & Bromberg, WilmerHale, Blank Rome, Fox Rothschild, Seyfarth Shaw, Greenberg Traurig y Sheppard Mullin. Siete de las diez notificaciones describen ingeniería social o suplantación, como una llamada que se hizo pasar por el departamento de IT para que un abogado moviera archivos a un Google Drive externo; una describe una intrusión en la red y ninguna nombra al atacante, aunque una demanda colectiva contra Troutman atribuye su incidente a SilentRansomGroup.",
+  "summary_p2": "El patrón es que el punto débil de los despachos no es la infraestructura sino las personas, y que los atacantes buscan expedientes, que contienen datos personales de clientes y de terceros. Para los clientes corporativos, es motivo para preguntar a sus despachos externos por formación antisuplantación, verificación de llamadas de soporte y tiempos de notificación; California exige desde el 1 de enero avisar a los afectados en 30 días. Para los despachos, revisar los expedientes en busca de datos personales es lo que más retrasa la notificación. Matiz: las notificaciones las redactan los propios despachos con distinto grado de detalle, y el editor de ComplexDiscovery es director de marketing de HaystackID.",
+  "why_sota": "Una revisión del registro público de California muestra un patrón de brechas por ingeniería social en grandes despachos.",
+  "why_now": "ComplexDiscovery, 1 nov 2026 (notificaciones del 27 y 28 oct). NEW frente a 09-29→11-01.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "ingeniería social",
+    "brechas de datos",
+    "despachos",
+    "notificación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-complexdiscovery",
+      "url": "https://complexdiscovery.com/a-cluster-of-law-firm-breach-notices-on-californias-register-points-mostly-to-deceived-staff/",
+      "cited_title": "A cluster of law firm breach notices on California's register points mostly to deceived staff",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-baker-mckenzie",
+    "ent-troutman-pepper-locke",
+    "ent-wilmerhale",
+    "ent-greenberg-traurig",
+    "ent-complexdiscovery",
+    "ent-haystackid"
+  ],
+  "lang": "es",
+  "status": "published"
+}

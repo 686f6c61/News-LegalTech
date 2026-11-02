@@ -1,0 +1,10 @@
+id: ent-ico
+name: Information Commissioner's Office
+type: regulator
+url: https://ico.org.uk/
+geo:
+- GB
+aliases:
+- ICO
+notes: Autoridad británica de protección de datos. Ficha mínima.
+stub: true

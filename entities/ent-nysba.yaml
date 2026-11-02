@@ -1,0 +1,10 @@
+id: ent-nysba
+name: New York State Bar Association
+type: association
+url: https://nysba.org/
+geo:
+- US
+aliases:
+- NYSBA
+notes: Colegio de abogados del Estado de Nueva York. Ficha mínima.
+stub: true

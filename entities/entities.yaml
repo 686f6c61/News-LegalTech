@@ -4717,3 +4717,121 @@ entities:
   - High Court
   notes: Tribunal superior de primera instancia de Inglaterra y Gales. Ficha mínima.
   stub: true
+- id: ent-nysba
+  name: New York State Bar Association
+  type: association
+  url: https://nysba.org/
+  geo:
+  - US
+  aliases:
+  - NYSBA
+  notes: Colegio de abogados del Estado de Nueva York. Ficha mínima.
+  stub: true
+- id: ent-korea-supreme-court
+  name: Tribunal Supremo de Corea del Sur
+  type: court
+  url: https://www.scourt.go.kr/
+  geo:
+  - KR
+  aliases:
+  - Supreme Court of Korea
+  - National Court Administration
+  - Administración Nacional de Tribunales
+  notes: Tribunal Supremo surcoreano; su Administración Nacional de Tribunales gestiona
+    la organización judicial. Ficha mínima.
+  stub: true
+- id: ent-yonhap
+  name: Yonhap News Agency
+  type: media
+  url: https://en.yna.co.kr/
+  geo:
+  - KR
+  aliases:
+  - Yonhap
+  notes: Agencia de noticias surcoreana. Ficha mínima.
+  stub: true
+- id: ent-uk-cma
+  name: Competition and Markets Authority
+  type: regulator
+  url: https://www.gov.uk/government/organisations/competition-and-markets-authority
+  geo:
+  - GB
+  aliases:
+  - CMA
+  notes: Autoridad británica de competencia y protección de los consumidores. Ficha
+    mínima.
+  stub: true
+- id: ent-ico
+  name: Information Commissioner's Office
+  type: regulator
+  url: https://ico.org.uk/
+  geo:
+  - GB
+  aliases:
+  - ICO
+  notes: Autoridad británica de protección de datos. Ficha mínima.
+  stub: true
+- id: ent-drcf
+  name: Digital Regulation Cooperation Forum
+  type: regulator
+  url: https://www.drcf.org.uk/
+  geo:
+  - GB
+  aliases:
+  - DRCF
+  notes: Foro de cooperación de los reguladores digitales británicos (CMA, FCA, ICO
+    y Ofcom). Ficha mínima.
+  stub: true
+- id: ent-runway
+  name: Runway AI
+  type: vendor
+  url: https://runwayml.com/
+  geo:
+  - US
+  aliases:
+  - Runway
+  - Runway AI, Inc.
+  notes: Desarrollador estadounidense de modelos generativos de vídeo (Gen-3). Ficha
+    mínima.
+  stub: true
+- id: ent-cps
+  name: Crown Prosecution Service
+  type: government
+  url: https://www.cps.gov.uk/
+  geo:
+  - GB
+  aliases:
+  - CPS
+  notes: Fiscalía de Inglaterra y Gales. Ficha mínima.
+  stub: true
+- id: ent-baker-mckenzie
+  name: Baker McKenzie
+  type: law_firm
+  url: https://www.bakermckenzie.com/
+  geo:
+  - Global
+  aliases:
+  - Baker & McKenzie
+  notes: Despacho internacional. Ficha mínima.
+  stub: true
+- id: ent-wilmerhale
+  name: WilmerHale
+  type: law_firm
+  url: https://www.wilmerhale.com/
+  geo:
+  - US
+  aliases:
+  - Wilmer Cutler Pickering Hale and Dorr
+  notes: Despacho estadounidense. Ficha mínima.
+  stub: true
+- id: ent-inss
+  name: Instituto Nacional de la Seguridad Social
+  type: government
+  url: https://www.seg-social.es/
+  geo:
+  - ES
+  aliases:
+  - INSS
+  notes: Entidad gestora española de las prestaciones de la Seguridad Social. Ficha
+    mínima.
+  stub: true

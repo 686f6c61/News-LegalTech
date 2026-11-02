@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-02-google-cloud-cursos-gemini-equipos-juridicos",
+  "date": "2026-10-30",
+  "type": "product",
+  "sota_score": 6.2,
+  "ai_legaltech": true,
+  "title": "Google Cloud lanza en Google Skills cursos gratuitos de Gemini para equipos jurídicos y de servicios financieros, con un programa para pasar a construir agentes en producción",
+  "short_title": "Google Cloud lanza cursos gratuitos de Gemini para equipos jurídicos",
+  "standfirst": "El paquete jurídico son cinco vídeos de 15 minutos; el programa GEAR ofrece insignias y créditos para construir agentes.",
+  "vendor_source": true,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "LegalTech",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "Google Skills, la plataforma de formación en IA de Google, ha lanzado cursos de Gemini específicos para equipos jurídicos y de servicios financieros, según una entrada del blog de Google Cloud del viernes 30 de octubre recogida por PYMNTS el 1 de noviembre. El paquete jurídico incluye cinco vídeos de 15 minutos y el financiero cuatro, ambos gratuitos, y parten de casos de uso conocidos para mostrar cómo trabajar con IA agéntica. Para quien quiera construir sistemas en producción, Google ofrece el programa gratuito Gemini Agent Ready (GEAR), con insignias de competencias. Gary Eimerman, director general de Google Cloud Learning, habla de revisiones de cumplimiento y gestión de carteras como ejemplos.",
+  "summary_p2": "La formación es la vía con la que los grandes proveedores generalistas compiten con las herramientas jurídicas especializadas: si el abogado aprende a resolver sus tareas en Gemini, la compra de un producto vertical se cuestiona. Para los departamentos jurídicos con Google Workspace, es una forma barata de formar equipos, pero la formación del proveedor no sustituye a la política interna sobre qué datos pueden entrar en la herramienta. Matiz: es un anuncio del propio proveedor, sin datos de uso, y PYMNTS exige un formulario para leer la nota completa.",
+  "why_sota": "Un proveedor generalista lleva formación de IA agéntica específica a los equipos jurídicos, en competencia con las herramientas verticales.",
+  "why_now": "PYMNTS, 1 nov 2026 (blog de Google Cloud del 30 oct). NEW frente a 09-29→11-01.",
+  "geo": [
+    "US",
+    "Global"
+  ],
+  "topics": [
+    "formación",
+    "Gemini",
+    "agentes de IA",
+    "in-house"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-launches-free-ai-courses-for-financial-services-and-legal-teams/",
+      "cited_title": "Google Cloud Launches Free AI Courses for Financial Services and Legal Teams",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-google",
+    "ent-pymnts"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,71 @@
+scan_id: full-radar-2026-11-02
+date: '2026-11-02'
+release: 02.11.26
+count: 9
+ai_share: 0.67
+dedup_against: events/2026-09-29 → 2026-11-01 + scans PASS
+event_ids:
+- evt-2026-11-02-corea-jueces-precedentes-falsos-ia-encuesta-supremo
+- evt-2026-11-02-nysba-directrices-eticas-ia-facturacion-supervision
+- evt-2026-11-02-cma-investiga-meta-terminos-contenido-editores-ia
+- evt-2026-11-02-drcf-declaracion-agentes-ia-responsabilidad-empresas
+- evt-2026-11-02-runway-demanda-youtube-dmca-1201-sigue-adelante
+- evt-2026-11-02-google-cloud-cursos-gemini-equipos-juridicos
+- evt-2026-11-02-cps-cita-sentencia-inexistente-high-court-r-v-j
+- evt-2026-11-02-brechas-despachos-registro-california-ingenieria-social
+- evt-2026-11-02-supremo-viudedad-completa-victimas-violencia-genero-compensatoria
+events:
+- id: evt-2026-11-02-corea-jueces-precedentes-falsos-ia-encuesta-supremo
+  sota_score: 8.0
+  ai_legaltech: true
+  title: Ocho de cada diez jueces surcoreanos de civil, familia y contencioso han
+    visto citar precedentes falsos o inexistentes generados por IA, según una encuesta
+    del Tribunal Supremo, que estudia multas y verificación obligatoria
+- id: evt-2026-11-02-nysba-directrices-eticas-ia-facturacion-supervision
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'El Colegio de Abogados del Estado de Nueva York aprueba sus directrices
+    éticas sobre IA: se puede facturar el tiempo de verificar lo que produce la herramienta,
+    pero no el de aprender a usarla, y el coste de la herramienta es gasto general'
+- id: evt-2026-11-02-cma-investiga-meta-terminos-contenido-editores-ia
+  sota_score: 7.6
+  ai_legaltech: true
+  title: 'La CMA británica abre expediente a Meta por abuso de posición dominante:
+    sus términos para empresas le permitirían usar el contenido de las webs de los
+    editores para sus productos de IA sin darles opción'
+- id: evt-2026-11-02-drcf-declaracion-agentes-ia-responsabilidad-empresas
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Los cuatro reguladores digitales británicos avisan de que la autonomía de
+    un agente de IA no reduce la responsabilidad de quien lo despliega y de que las
+    normas de consumo, datos, competencia y pagos ya se aplican
+- id: evt-2026-11-02-runway-demanda-youtube-dmca-1201-sigue-adelante
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Un juez federal de Nueva York deja seguir la demanda colectiva de creadores
+    de YouTube contra Runway por saltarse las protecciones técnicas de la plataforma
+    para descargar vídeos con los que entrenar su modelo
+- id: evt-2026-11-02-google-cloud-cursos-gemini-equipos-juridicos
+  sota_score: 6.2
+  ai_legaltech: true
+  title: Google Cloud lanza en Google Skills cursos gratuitos de Gemini para equipos
+    jurídicos y de servicios financieros, con un programa para pasar a construir agentes
+    en producción
+- id: evt-2026-11-02-cps-cita-sentencia-inexistente-high-court-r-v-j
+  sota_score: 6.8
+  ai_legaltech: false
+  title: La Fiscalía británica vuelve a apoyarse ante la High Court en una sentencia
+    que no existe, ahora en la decisión de seguir procesando a un niño de 11 años,
+    y el tribunal lo llama "insatisfactorio" pero irrelevante
+- id: evt-2026-11-02-brechas-despachos-registro-california-ingenieria-social
+  sota_score: 6.9
+  ai_legaltech: false
+  title: Diez despachos estadounidenses, entre ellos Baker McKenzie, Troutman, WilmerHale
+    y Greenberg Traurig, han notificado este año en California brechas de datos causadas
+    en su mayoría por engaños a su propio personal
+- id: evt-2026-11-02-supremo-viudedad-completa-victimas-violencia-genero-compensatoria
+  sota_score: 6.4
+  ai_legaltech: false
+  title: El Supremo fija en Pleno que las víctimas de violencia de género divorciadas
+    cobran la pensión de viudedad completa aunque recibieran una pensión compensatoria
+    menor

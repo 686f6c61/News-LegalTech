@@ -1,0 +1,12 @@
+id: ent-runway
+name: Runway AI
+type: vendor
+url: https://runwayml.com/
+geo:
+- US
+aliases:
+- Runway
+- Runway AI, Inc.
+notes: Desarrollador estadounidense de modelos generativos de vídeo (Gen-3). Ficha
+  mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-baker-mckenzie
+name: Baker McKenzie
+type: law_firm
+url: https://www.bakermckenzie.com/
+geo:
+- Global
+aliases:
+- Baker & McKenzie
+notes: Despacho internacional. Ficha mínima.
+stub: true

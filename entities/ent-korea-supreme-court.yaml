@@ -1,0 +1,13 @@
+id: ent-korea-supreme-court
+name: Tribunal Supremo de Corea del Sur
+type: court
+url: https://www.scourt.go.kr/
+geo:
+- KR
+aliases:
+- Supreme Court of Korea
+- National Court Administration
+- Administración Nacional de Tribunales
+notes: Tribunal Supremo surcoreano; su Administración Nacional de Tribunales gestiona
+  la organización judicial. Ficha mínima.
+stub: true

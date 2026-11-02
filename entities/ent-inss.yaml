@@ -1,0 +1,11 @@
+id: ent-inss
+name: Instituto Nacional de la Seguridad Social
+type: government
+url: https://www.seg-social.es/
+geo:
+- ES
+aliases:
+- INSS
+notes: Entidad gestora española de las prestaciones de la Seguridad Social. Ficha
+  mínima.
+stub: true

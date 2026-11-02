@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-02-runway-demanda-youtube-dmca-1201-sigue-adelante",
+  "date": "2026-10-30",
+  "type": "case_law",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Un juez federal de Nueva York deja seguir la demanda colectiva de creadores de YouTube contra Runway por saltarse las protecciones técnicas de la plataforma para descargar vídeos con los que entrenar su modelo",
+  "short_title": "Sigue la demanda de creadores de YouTube contra Runway por la DMCA",
+  "standfirst": "El juez Kaplan rechaza la moción de desestimación; la demanda se basa en la norma antielusión de la DMCA, no en la infracción de derechos de autor.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Propiedad intelectual",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El juez Lewis A. Kaplan, del Distrito Sur de Nueva York, rechazó el 30 de octubre la moción de Runway AI para desestimar la demanda colectiva Ace Cam, Inc. v. Runway AI (1:26-cv-01362), en la que creadores de YouTube alegan que la empresa eludió las medidas técnicas de protección de la plataforma para descargar sus vídeos y entrenar su modelo de vídeo Gen-3. La demanda se basa en la sección 1201(a) de la DMCA, que prohíbe eludir medidas que controlan el acceso a una obra y prevé indemnizaciones legales de 200 a 2.500 dólares por cada acto de elusión. Runway sostenía que los vídeos son públicos y que las barreras de YouTube contra la descarga son, como mucho, controles de copia; el juez no aceptó ese argumento en esta fase.",
+  "summary_p2": "La vía de la sección 1201 permite a los creadores esquivar el debate del fair use, que los desarrolladores de IA han ganado en varios casos de primera instancia, y no exige que las obras estén registradas; por eso se repite en demandas contra Nvidia, Meta, Snap, ByteDance, Apple, OpenAI y Amazon. Para los equipos legales de desarrolladores, el riesgo se desplaza de qué se usa a cómo se obtuvo, y los registros de cómo se descargaron los datos de entrenamiento serán prueba central. Matiz: es una resolución en fase de alegaciones, no un fallo sobre el fondo; no hay clase certificada y Runway podrá reiterar sus argumentos.",
+  "why_sota": "Otra demanda por datos de entrenamiento que supera la desestimación con la norma antielusión de la DMCA en lugar del fair use.",
+  "why_now": "Resolución del 30 oct 2026 (Dkt. 61), publicada en Justia. NEW frente a 09-29→11-01.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "DMCA",
+    "antielusión",
+    "datos de entrenamiento",
+    "demandas colectivas",
+    "vídeo generativo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-justia",
+      "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2026cv01362/658148/61/",
+      "cited_title": "Ace Cam, Inc. v. Runway AI Inc, 1:2026cv01362 - Document 61 (S.D.N.Y. 2026)",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-runway",
+    "ent-google"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-02-cma-investiga-meta-terminos-contenido-editores-ia",
+  "date": "2026-10-30",
+  "type": "regulation",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "La CMA británica abre expediente a Meta por abuso de posición dominante: sus términos para empresas le permitirían usar el contenido de las webs de los editores para sus productos de IA sin darles opción",
+  "short_title": "La CMA investiga a Meta por usar contenido de editores para su IA",
+  "standfirst": "Meta ya había pausado los nuevos términos el 28 de octubre; la CMA actúa con sus poderes de la Competition Act 1998 tras quejas de los editores.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Competencia",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "La Competition and Markets Authority (CMA) abrió el 30 de octubre una investigación con base en la Competition Act 1998 para determinar si Meta abusa de una posición dominante al imponer a las empresas que usan Facebook, Instagram y sus otros servicios unos términos comerciales que le permitirían recoger el contenido de las webs de editores y otras empresas y usarlo para desarrollar sus propios productos, incluidas sus funciones de IA, \"sin que esas empresas puedan elegir si se usa ni cómo\". Meta pensaba aplicar los nuevos términos el 30 de octubre, los aplazó al 20 de noviembre y el 28 anunció una pausa para consultar al sector. La CMA actúa tras quejas de la News Media Association y de Movement for an Open Web, y examinará si Meta es dominante en algún mercado británico y si sus términos constituyen un abuso. Por separado, pide información sobre la suscripción Meta One y el coste de publicar enlaces externos.",
+  "summary_p2": "Es la primera vez que una autoridad de competencia trata como posible abuso de posición dominante el uso de contenido ajeno para entrenar o alimentar IA, y no como un problema de derechos de autor, lo que da a editores y empresas una vía distinta de los tribunales. Para los despachos que asesoran a medios y marcas, conviene documentar ya qué contenido rastrea Meta y qué términos se aceptaron; para los equipos legales de plataformas, la señal es que las cláusulas de licencia sobre datos de clientes para IA serán revisadas también desde competencia. Matiz: es la apertura del expediente; la CMA subraya que no ha decidido si hay infracción ni si Meta es dominante, y los términos nuevos están en pausa.",
+  "why_sota": "Primer expediente de competencia que trata el uso del contenido de terceros para IA como posible abuso de posición dominante.",
+  "why_now": "CMA, nota del 30 oct 2026. NEW frente a 09-29→11-01 (los días 16, 20 y 23 de octubre se publicaron los cambios de términos de Meta, no la investigación).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "competencia",
+    "abuso de posición dominante",
+    "editores",
+    "datos para IA",
+    "Meta"
+  ],
+  "sources": [
+    {
+      "source_id": "src-uk-cma",
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "cited_title": "CMA opens investigation into Meta's commercial terms",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-uk-cma",
+    "ent-meta"
+  ],
+  "lang": "es",
+  "status": "published"
+}

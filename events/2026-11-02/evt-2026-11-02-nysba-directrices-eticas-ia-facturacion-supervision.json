@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-02-nysba-directrices-eticas-ia-facturacion-supervision",
+  "date": "2026-10-31",
+  "type": "guidance",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "El Colegio de Abogados del Estado de Nueva York aprueba sus directrices éticas sobre IA: se puede facturar el tiempo de verificar lo que produce la herramienta, pero no el de aprender a usarla, y el coste de la herramienta es gasto general",
+  "short_title": "NYSBA aprueba sus directrices éticas sobre el uso de IA",
+  "standfirst": "La Cámara de Delegados adoptó el informe el sábado; también pide comprobar sesgos y supervisar a proveedores y personal no abogado que use IA.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Estados Unidos",
+  "piece_type": "Orientación",
+  "summary_p1": "La Cámara de Delegados de la New York State Bar Association (NYSBA) adoptó el sábado 31 de octubre el informe \"Legal Ethics Guidelines for Lawyers' Use of Artificial Intelligence\", elaborado por su Comité de IA y Tecnologías Emergentes que preside Vivian Wesson. Las directrices permiten cobrar al cliente el tiempo dedicado a verificar los resultados de una herramienta de IA, pero no el de aprender a usarla; la compra de la herramienta es un gasto general que no se repercute salvo que se haya contratado específicamente para ese asunto, y los cargos deben ser razonables y comunicarse al cliente. El abogado responde de supervisar al personal no abogado y a los proveedores que usen IA, aunque el \"no abogado\" sea el propio sistema, y debe comprobar que los resultados no reflejen sesgos del entrenamiento. La presidenta, Taa Grays, cita además el riesgo de ejercer sin habilitación en otra jurisdicción y de no informar de su uso a clientes o tribunales.",
+  "summary_p2": "La facturación es la parte con más consecuencias económicas: la regla de verificar sí, aprender no, da un criterio que los departamentos jurídicos ya pueden exigir en sus directrices de facturación externa, y confirma que el coste de las licencias de IA lo asume el despacho. Para los despachos que trabajan en Nueva York, la supervisión de proveedores obliga a revisar contratos y flujos con terceros que usan IA. Para el resto, se suma a las opiniones de la ABA y de otros colegios como referencia sobre qué se considera diligente. Matiz: son orientaciones de una asociación voluntaria, no normas disciplinarias; las Rules of Professional Conduct de Nueva York no mencionan la IA y el informe completo es extenso, por lo que habrá que leer el detalle antes de aplicarlo.",
+  "why_sota": "Uno de los mayores colegios de abogados de EE. UU. fija criterios concretos sobre facturación y supervisión del uso de IA.",
+  "why_now": "NYSBA, 31 oct 2026. NEW frente a 09-29→11-01.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "deontología",
+    "facturación",
+    "supervisión",
+    "sesgos",
+    "uso de IA"
+  ],
+  "sources": [
+    {
+      "source_id": "src-nysba",
+      "url": "https://nysba.org/nysba-releases-in-depth-guidelines-to-advise-attorneys-on-ethical-use-of-ai/",
+      "cited_title": "NYSBA Releases In-Depth Guidelines to Advise Attorneys on Ethical Use of AI",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-nysba"
+  ],
+  "lang": "es",
+  "status": "published"
+}

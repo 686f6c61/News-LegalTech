@@ -1,0 +1,10 @@
+id: ent-cps
+name: Crown Prosecution Service
+type: government
+url: https://www.cps.gov.uk/
+geo:
+- GB
+aliases:
+- CPS
+notes: Fiscalía de Inglaterra y Gales. Ficha mínima.
+stub: true

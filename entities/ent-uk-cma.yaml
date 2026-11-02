@@ -1,0 +1,11 @@
+id: ent-uk-cma
+name: Competition and Markets Authority
+type: regulator
+url: https://www.gov.uk/government/organisations/competition-and-markets-authority
+geo:
+- GB
+aliases:
+- CMA
+notes: Autoridad británica de competencia y protección de los consumidores. Ficha
+  mínima.
+stub: true

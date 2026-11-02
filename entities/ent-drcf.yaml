@@ -1,0 +1,11 @@
+id: ent-drcf
+name: Digital Regulation Cooperation Forum
+type: regulator
+url: https://www.drcf.org.uk/
+geo:
+- GB
+aliases:
+- DRCF
+notes: Foro de cooperación de los reguladores digitales británicos (CMA, FCA, ICO
+  y Ofcom). Ficha mínima.
+stub: true

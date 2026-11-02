@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-02-cps-cita-sentencia-inexistente-high-court-r-v-j",
+  "date": "2026-11-02",
+  "type": "case_law",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "La Fiscalía británica vuelve a apoyarse ante la High Court en una sentencia que no existe, ahora en la decisión de seguir procesando a un niño de 11 años, y el tribunal lo llama \"insatisfactorio\" pero irrelevante",
+  "short_title": "La Fiscalía británica vuelve a citar una sentencia que no existe",
+  "standfirst": "El registro de la decisión citaba tres veces un \"R v J\" de 2024; la fiscal dice que se refería a R v JTB, de 2009.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Litigación",
+  "country": "Reino Unido",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "La High Court, con Lord Justice Holgate y Mr Justice Wall, ha examinado la revisión judicial de la decisión de la Crown Prosecution Service (CPS) de seguir procesando a un niño acusado de violar a su hermana cuando él tenía 11 años y ella siete, informó Legal Futures el 2 de noviembre. El registro escrito de la decisión, redactado por la fiscal Ravinder Dhillon, citaba tres veces una sentencia de 2024, \"R v J\", que no existe; en una declaración del 15 de octubre la fiscal dijo que se refería a R v JTB [2009] UKHL 20. El tribunal calificó la explicación de \"insatisfactoria\", pero declaró \"inviable\" ese motivo porque lo relevante es si los principios aplicados eran erróneos, y no lo eran. Admitió otros dos motivos y después desestimó la demanda.",
+  "summary_p2": "Es la segunda vez este año que la CPS pone ante la High Court una autoridad inexistente: en julio admitió haber presentado casos inventados por IA en una apelación de extradición. Para los despachos y fiscalías, la lección es que los documentos internos de decisión, no solo los escritos, se examinan en revisión judicial y deben verificarse igual. Matiz: el tribunal no explica cómo llegó la cita al registro ni atribuye este error a la IA, por lo que no la contamos como pieza de IA; tampoco anuncia medidas.",
+  "why_sota": "Una fiscalía nacional reincide en citar una sentencia inexistente en un documento de decisión revisado por la High Court.",
+  "why_now": "Legal Futures, 2 nov 2026. NEW frente a 09-29→11-01.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "citas inexistentes",
+    "fiscalía",
+    "revisión judicial",
+    "verificación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/cps-puts-another-fictitious-case-before-high-court",
+      "cited_title": "CPS puts another fictitious case before High Court",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-cps",
+    "ent-high-court-ew",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

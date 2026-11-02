@@ -1,0 +1,10 @@
+id: ent-yonhap
+name: Yonhap News Agency
+type: media
+url: https://en.yna.co.kr/
+geo:
+- KR
+aliases:
+- Yonhap
+notes: Agencia de noticias surcoreana. Ficha mínima.
+stub: true

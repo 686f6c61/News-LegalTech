@@ -12,8 +12,8 @@
         "schema:CreativeWork"
       ],
       "schema:name": "Radar LegalTech · acumulado",
-      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-11-01, 324 eventos).",
-      "schema:temporalCoverage": "2026-09-29/2026-11-01",
+      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-11-02, 333 eventos).",
+      "schema:temporalCoverage": "2026-09-29/2026-11-02",
       "schema:inLanguage": "es",
       "schema:license": "https://spdx.org/licenses/MIT.html",
       "schema:hasPart": [
@@ -988,6 +988,33 @@
         },
         {
           "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-01-high-court-anula-reclamacion-cedida-sociedad-abogados"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-corea-jueces-precedentes-falsos-ia-encuesta-supremo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-nysba-directrices-eticas-ia-facturacion-supervision"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-cma-investiga-meta-terminos-contenido-editores-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-drcf-declaracion-agentes-ia-responsabilidad-empresas"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-runway-demanda-youtube-dmca-1201-sigue-adelante"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-google-cloud-cursos-gemini-equipos-juridicos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-cps-cita-sentencia-inexistente-high-court-r-v-j"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-brechas-despachos-registro-california-ingenieria-social"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-supremo-viudedad-completa-victimas-violencia-genero-compensatoria"
         }
       ]
     },
@@ -15894,6 +15921,415 @@
       ]
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-corea-jueces-precedentes-falsos-ia-encuesta-supremo",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-corea-jueces-precedentes-falsos-ia-encuesta-supremo",
+      "schema:headline": "Ocho de cada diez jueces surcoreanos de civil, familia y contencioso han visto citar precedentes falsos o inexistentes generados por IA, según una encuesta del Tribunal Supremo, que estudia multas y verificación obligatoria",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Tribunal Supremo de Corea del Sur publicó el 2 de noviembre una encuesta a 360 jueces, hecha del 6 al 16 de octubre, según la cual unos ocho de cada diez jueces de asuntos civiles, de familia y contencioso-administrativos han tenido casos en los que se citaban precedentes inexistentes o falsos, informó la agencia Yonhap. De ellos, 196 (80,7%) habían visto citar precedentes que no existen, 159 (65,4%) precedentes falseados, 41 (16,9%) leyes o reglamentos falsos o inexistentes y 10 (4,1%) artículos o publicaciones inventados; 136 (57,6%) dijeron que los habían citado abogados de las partes. Casi el 92% pide medidas institucionales, entre ellas una base legal para imponer multas, requisitos de verificación y sanciones disciplinarias para los abogados reincidentes. La Administración Nacional de Tribunales advierte de que estas citas retrasan los procedimientos.",
+      "schema:articleBody": "El Tribunal Supremo de Corea del Sur publicó el 2 de noviembre una encuesta a 360 jueces, hecha del 6 al 16 de octubre, según la cual unos ocho de cada diez jueces de asuntos civiles, de familia y contencioso-administrativos han tenido casos en los que se citaban precedentes inexistentes o falsos, informó la agencia Yonhap. De ellos, 196 (80,7%) habían visto citar precedentes que no existen, 159 (65,4%) precedentes falseados, 41 (16,9%) leyes o reglamentos falsos o inexistentes y 10 (4,1%) artículos o publicaciones inventados; 136 (57,6%) dijeron que los habían citado abogados de las partes. Casi el 92% pide medidas institucionales, entre ellas una base legal para imponer multas, requisitos de verificación y sanciones disciplinarias para los abogados reincidentes. La Administración Nacional de Tribunales advierte de que estas citas retrasan los procedimientos.\n\nEs una de las primeras mediciones sistemáticas que un tribunal supremo hace entre sus propios jueces, y apunta en la misma dirección que las sanciones caso por caso de EE. UU., Reino Unido o España: el problema ya no es anecdótico y los tribunales buscan herramientas generales, no solo multas puntuales. Para los despachos con asuntos en Corea, cabe esperar requisitos de verificación de citas y quizá de declaración del uso de IA en los escritos; para los proveedores de IA jurídica, la verificación de citas contra fuentes oficiales pasa a ser requisito de venta. Matiz: la nota de Yonhap en inglés no detalla la metodología, y una parte relevante de los casos viene de partes que litigan sin abogado según la prensa coreana; las medidas son aún propuestas.",
+      "sota:type": "research",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Encuesta de un tribunal supremo a sus jueces que cuantifica las citas falsas generadas por IA y abre la vía a multas.",
+      "sota:whyNow": "Yonhap, 2 nov 2026. NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "KR"
+      ],
+      "sota:topics": [
+        "alucinaciones",
+        "citas falsas",
+        "tribunales",
+        "verificación",
+        "sanciones"
+      ],
+      "sota:summaryP1": "El Tribunal Supremo de Corea del Sur publicó el 2 de noviembre una encuesta a 360 jueces, hecha del 6 al 16 de octubre, según la cual unos ocho de cada diez jueces de asuntos civiles, de familia y contencioso-administrativos han tenido casos en los que se citaban precedentes inexistentes o falsos, informó la agencia Yonhap. De ellos, 196 (80,7%) habían visto citar precedentes que no existen, 159 (65,4%) precedentes falseados, 41 (16,9%) leyes o reglamentos falsos o inexistentes y 10 (4,1%) artículos o publicaciones inventados; 136 (57,6%) dijeron que los habían citado abogados de las partes. Casi el 92% pide medidas institucionales, entre ellas una base legal para imponer multas, requisitos de verificación y sanciones disciplinarias para los abogados reincidentes. La Administración Nacional de Tribunales advierte de que estas citas retrasan los procedimientos.",
+      "sota:summaryP2": "Es una de las primeras mediciones sistemáticas que un tribunal supremo hace entre sus propios jueces, y apunta en la misma dirección que las sanciones caso por caso de EE. UU., Reino Unido o España: el problema ya no es anecdótico y los tribunales buscan herramientas generales, no solo multas puntuales. Para los despachos con asuntos en Corea, cabe esperar requisitos de verificación de citas y quizá de declaración del uso de IA en los escritos; para los proveedores de IA jurídica, la verificación de citas contra fuentes oficiales pasa a ser requisito de venta. Matiz: la nota de Yonhap en inglés no detalla la metodología, y una parte relevante de los casos viene de partes que litigan sin abogado según la prensa coreana; las medidas son aún propuestas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://en.yna.co.kr/view/AEN20261102005900315",
+          "schema:name": "8 in 10 judges experienced cases citing AI-generated false legal precedents: survey",
+          "sota:sourceId": "src-yonhap"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-korea-supreme-court"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-yonhap"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-nysba-directrices-eticas-ia-facturacion-supervision",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-nysba-directrices-eticas-ia-facturacion-supervision",
+      "schema:headline": "El Colegio de Abogados del Estado de Nueva York aprueba sus directrices éticas sobre IA: se puede facturar el tiempo de verificar lo que produce la herramienta, pero no el de aprender a usarla, y el coste de la herramienta es gasto general",
+      "schema:datePublished": "2026-10-31",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Cámara de Delegados de la New York State Bar Association (NYSBA) adoptó el sábado 31 de octubre el informe \"Legal Ethics Guidelines for Lawyers' Use of Artificial Intelligence\", elaborado por su Comité de IA y Tecnologías Emergentes que preside Vivian Wesson. Las directrices permiten cobrar al cliente el tiempo dedicado a verificar los resultados de una herramienta de IA, pero no el de aprender a usarla; la compra de la herramienta es un gasto general que no se repercute salvo que se haya contratado específicamente para ese asunto, y los cargos deben ser razonables y comunicarse al cliente. El abogado responde de supervisar al personal no abogado y a los proveedores que usen IA, aunque el \"no abogado\" sea el propio sistema, y debe comprobar que los resultados no reflejen sesgos del entrenamiento. La presidenta, Taa Grays, cita además el riesgo de ejercer sin habilitación en otra jurisdicción y de no informar de su uso a clientes o tribunales.",
+      "schema:articleBody": "La Cámara de Delegados de la New York State Bar Association (NYSBA) adoptó el sábado 31 de octubre el informe \"Legal Ethics Guidelines for Lawyers' Use of Artificial Intelligence\", elaborado por su Comité de IA y Tecnologías Emergentes que preside Vivian Wesson. Las directrices permiten cobrar al cliente el tiempo dedicado a verificar los resultados de una herramienta de IA, pero no el de aprender a usarla; la compra de la herramienta es un gasto general que no se repercute salvo que se haya contratado específicamente para ese asunto, y los cargos deben ser razonables y comunicarse al cliente. El abogado responde de supervisar al personal no abogado y a los proveedores que usen IA, aunque el \"no abogado\" sea el propio sistema, y debe comprobar que los resultados no reflejen sesgos del entrenamiento. La presidenta, Taa Grays, cita además el riesgo de ejercer sin habilitación en otra jurisdicción y de no informar de su uso a clientes o tribunales.\n\nLa facturación es la parte con más consecuencias económicas: la regla de verificar sí, aprender no, da un criterio que los departamentos jurídicos ya pueden exigir en sus directrices de facturación externa, y confirma que el coste de las licencias de IA lo asume el despacho. Para los despachos que trabajan en Nueva York, la supervisión de proveedores obliga a revisar contratos y flujos con terceros que usan IA. Para el resto, se suma a las opiniones de la ABA y de otros colegios como referencia sobre qué se considera diligente. Matiz: son orientaciones de una asociación voluntaria, no normas disciplinarias; las Rules of Professional Conduct de Nueva York no mencionan la IA y el informe completo es extenso, por lo que habrá que leer el detalle antes de aplicarlo.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Uno de los mayores colegios de abogados de EE. UU. fija criterios concretos sobre facturación y supervisión del uso de IA.",
+      "sota:whyNow": "NYSBA, 31 oct 2026. NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "deontología",
+        "facturación",
+        "supervisión",
+        "sesgos",
+        "uso de IA"
+      ],
+      "sota:summaryP1": "La Cámara de Delegados de la New York State Bar Association (NYSBA) adoptó el sábado 31 de octubre el informe \"Legal Ethics Guidelines for Lawyers' Use of Artificial Intelligence\", elaborado por su Comité de IA y Tecnologías Emergentes que preside Vivian Wesson. Las directrices permiten cobrar al cliente el tiempo dedicado a verificar los resultados de una herramienta de IA, pero no el de aprender a usarla; la compra de la herramienta es un gasto general que no se repercute salvo que se haya contratado específicamente para ese asunto, y los cargos deben ser razonables y comunicarse al cliente. El abogado responde de supervisar al personal no abogado y a los proveedores que usen IA, aunque el \"no abogado\" sea el propio sistema, y debe comprobar que los resultados no reflejen sesgos del entrenamiento. La presidenta, Taa Grays, cita además el riesgo de ejercer sin habilitación en otra jurisdicción y de no informar de su uso a clientes o tribunales.",
+      "sota:summaryP2": "La facturación es la parte con más consecuencias económicas: la regla de verificar sí, aprender no, da un criterio que los departamentos jurídicos ya pueden exigir en sus directrices de facturación externa, y confirma que el coste de las licencias de IA lo asume el despacho. Para los despachos que trabajan en Nueva York, la supervisión de proveedores obliga a revisar contratos y flujos con terceros que usan IA. Para el resto, se suma a las opiniones de la ABA y de otros colegios como referencia sobre qué se considera diligente. Matiz: son orientaciones de una asociación voluntaria, no normas disciplinarias; las Rules of Professional Conduct de Nueva York no mencionan la IA y el informe completo es extenso, por lo que habrá que leer el detalle antes de aplicarlo.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://nysba.org/nysba-releases-in-depth-guidelines-to-advise-attorneys-on-ethical-use-of-ai/",
+          "schema:name": "NYSBA Releases In-Depth Guidelines to Advise Attorneys on Ethical Use of AI",
+          "sota:sourceId": "src-nysba"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nysba"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-cma-investiga-meta-terminos-contenido-editores-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-cma-investiga-meta-terminos-contenido-editores-ia",
+      "schema:headline": "La CMA británica abre expediente a Meta por abuso de posición dominante: sus términos para empresas le permitirían usar el contenido de las webs de los editores para sus productos de IA sin darles opción",
+      "schema:datePublished": "2026-10-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Competition and Markets Authority (CMA) abrió el 30 de octubre una investigación con base en la Competition Act 1998 para determinar si Meta abusa de una posición dominante al imponer a las empresas que usan Facebook, Instagram y sus otros servicios unos términos comerciales que le permitirían recoger el contenido de las webs de editores y otras empresas y usarlo para desarrollar sus propios productos, incluidas sus funciones de IA, \"sin que esas empresas puedan elegir si se usa ni cómo\". Meta pensaba aplicar los nuevos términos el 30 de octubre, los aplazó al 20 de noviembre y el 28 anunció una pausa para consultar al sector. La CMA actúa tras quejas de la News Media Association y de Movement for an Open Web, y examinará si Meta es dominante en algún mercado británico y si sus términos constituyen un abuso. Por separado, pide información sobre la suscripción Meta One y el coste de publicar enlaces externos.",
+      "schema:articleBody": "La Competition and Markets Authority (CMA) abrió el 30 de octubre una investigación con base en la Competition Act 1998 para determinar si Meta abusa de una posición dominante al imponer a las empresas que usan Facebook, Instagram y sus otros servicios unos términos comerciales que le permitirían recoger el contenido de las webs de editores y otras empresas y usarlo para desarrollar sus propios productos, incluidas sus funciones de IA, \"sin que esas empresas puedan elegir si se usa ni cómo\". Meta pensaba aplicar los nuevos términos el 30 de octubre, los aplazó al 20 de noviembre y el 28 anunció una pausa para consultar al sector. La CMA actúa tras quejas de la News Media Association y de Movement for an Open Web, y examinará si Meta es dominante en algún mercado británico y si sus términos constituyen un abuso. Por separado, pide información sobre la suscripción Meta One y el coste de publicar enlaces externos.\n\nEs la primera vez que una autoridad de competencia trata como posible abuso de posición dominante el uso de contenido ajeno para entrenar o alimentar IA, y no como un problema de derechos de autor, lo que da a editores y empresas una vía distinta de los tribunales. Para los despachos que asesoran a medios y marcas, conviene documentar ya qué contenido rastrea Meta y qué términos se aceptaron; para los equipos legales de plataformas, la señal es que las cláusulas de licencia sobre datos de clientes para IA serán revisadas también desde competencia. Matiz: es la apertura del expediente; la CMA subraya que no ha decidido si hay infracción ni si Meta es dominante, y los términos nuevos están en pausa.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer expediente de competencia que trata el uso del contenido de terceros para IA como posible abuso de posición dominante.",
+      "sota:whyNow": "CMA, nota del 30 oct 2026. NEW frente a 09-29→11-01 (los días 16, 20 y 23 de octubre se publicaron los cambios de términos de Meta, no la investigación).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "competencia",
+        "abuso de posición dominante",
+        "editores",
+        "datos para IA",
+        "Meta"
+      ],
+      "sota:summaryP1": "La Competition and Markets Authority (CMA) abrió el 30 de octubre una investigación con base en la Competition Act 1998 para determinar si Meta abusa de una posición dominante al imponer a las empresas que usan Facebook, Instagram y sus otros servicios unos términos comerciales que le permitirían recoger el contenido de las webs de editores y otras empresas y usarlo para desarrollar sus propios productos, incluidas sus funciones de IA, \"sin que esas empresas puedan elegir si se usa ni cómo\". Meta pensaba aplicar los nuevos términos el 30 de octubre, los aplazó al 20 de noviembre y el 28 anunció una pausa para consultar al sector. La CMA actúa tras quejas de la News Media Association y de Movement for an Open Web, y examinará si Meta es dominante en algún mercado británico y si sus términos constituyen un abuso. Por separado, pide información sobre la suscripción Meta One y el coste de publicar enlaces externos.",
+      "sota:summaryP2": "Es la primera vez que una autoridad de competencia trata como posible abuso de posición dominante el uso de contenido ajeno para entrenar o alimentar IA, y no como un problema de derechos de autor, lo que da a editores y empresas una vía distinta de los tribunales. Para los despachos que asesoran a medios y marcas, conviene documentar ya qué contenido rastrea Meta y qué términos se aceptaron; para los equipos legales de plataformas, la señal es que las cláusulas de licencia sobre datos de clientes para IA serán revisadas también desde competencia. Matiz: es la apertura del expediente; la CMA subraya que no ha decidido si hay infracción ni si Meta es dominante, y los términos nuevos están en pausa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+          "schema:name": "CMA opens investigation into Meta's commercial terms",
+          "sota:sourceId": "src-uk-cma"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uk-cma"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-meta"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-drcf-declaracion-agentes-ia-responsabilidad-empresas",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-drcf-declaracion-agentes-ia-responsabilidad-empresas",
+      "schema:headline": "Los cuatro reguladores digitales británicos avisan de que la autonomía de un agente de IA no reduce la responsabilidad de quien lo despliega y de que las normas de consumo, datos, competencia y pagos ya se aplican",
+      "schema:datePublished": "2026-10-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La CMA, la FCA, la ICO y Ofcom, miembros del Digital Regulation Cooperation Forum (DRCF), publicaron el 30 de octubre una declaración conjunta sobre la protección de personas y empresas en una economía de agentes de IA personales, los que compran o tratan con empresas en nombre del usuario. Los reguladores dicen que \"los marcos legales y regulatorios existentes se aplican\" a estos agentes, incluidos competencia, consumo, protección de datos, seguridad en línea, servicios financieros, pagos y ciberseguridad, que la autonomía del agente no disminuye la responsabilidad de la organización que lo despliega y que usarán sus poderes si sospechan infracciones. La CMA actualizó ese día su guía para empresas, según la cual se responde de lo que hace un agente como de lo que hace un empleado, aunque lo haya diseñado otro, con multas de hasta el 10% de la facturación mundial.",
+      "schema:articleBody": "La CMA, la FCA, la ICO y Ofcom, miembros del Digital Regulation Cooperation Forum (DRCF), publicaron el 30 de octubre una declaración conjunta sobre la protección de personas y empresas en una economía de agentes de IA personales, los que compran o tratan con empresas en nombre del usuario. Los reguladores dicen que \"los marcos legales y regulatorios existentes se aplican\" a estos agentes, incluidos competencia, consumo, protección de datos, seguridad en línea, servicios financieros, pagos y ciberseguridad, que la autonomía del agente no disminuye la responsabilidad de la organización que lo despliega y que usarán sus poderes si sospechan infracciones. La CMA actualizó ese día su guía para empresas, según la cual se responde de lo que hace un agente como de lo que hace un empleado, aunque lo haya diseñado otro, con multas de hasta el 10% de la facturación mundial.\n\nLa declaración no crea normas nuevas, y esa es su utilidad: deja claro que la empresa que pone un agente frente al consumidor no podrá escudarse en el proveedor del modelo. Para los equipos legales, la tarea inmediata es contractual y de registro: quién autorizó al agente, qué datos usa, qué intereses comerciales condicionan sus recomendaciones y cómo se reclama, que son las cuestiones que plantean los reguladores. Para los despachos, abre asesoramiento en contratos con proveedores de agentes y en reparto de responsabilidad entre comercio, desarrollador y medio de pago. Matiz: es una declaración de orientación sin obligaciones nuevas ni calendario de actuaciones, y la guía de la CMA es de marzo, solo actualizada ahora.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Cuatro reguladores coordinados fijan que la responsabilidad por los agentes de IA recae en quien los despliega, con las normas actuales.",
+      "sota:whyNow": "CMA y DRCF, 30 oct 2026. NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "agentes de IA",
+        "consumo",
+        "responsabilidad",
+        "protección de datos",
+        "pagos"
+      ],
+      "sota:summaryP1": "La CMA, la FCA, la ICO y Ofcom, miembros del Digital Regulation Cooperation Forum (DRCF), publicaron el 30 de octubre una declaración conjunta sobre la protección de personas y empresas en una economía de agentes de IA personales, los que compran o tratan con empresas en nombre del usuario. Los reguladores dicen que \"los marcos legales y regulatorios existentes se aplican\" a estos agentes, incluidos competencia, consumo, protección de datos, seguridad en línea, servicios financieros, pagos y ciberseguridad, que la autonomía del agente no disminuye la responsabilidad de la organización que lo despliega y que usarán sus poderes si sospechan infracciones. La CMA actualizó ese día su guía para empresas, según la cual se responde de lo que hace un agente como de lo que hace un empleado, aunque lo haya diseñado otro, con multas de hasta el 10% de la facturación mundial.",
+      "sota:summaryP2": "La declaración no crea normas nuevas, y esa es su utilidad: deja claro que la empresa que pone un agente frente al consumidor no podrá escudarse en el proveedor del modelo. Para los equipos legales, la tarea inmediata es contractual y de registro: quién autorizó al agente, qué datos usa, qué intereses comerciales condicionan sus recomendaciones y cómo se reclama, que son las cuestiones que plantean los reguladores. Para los despachos, abre asesoramiento en contratos con proveedores de agentes y en reparto de responsabilidad entre comercio, desarrollador y medio de pago. Matiz: es una declaración de orientación sin obligaciones nuevas ni calendario de actuaciones, y la guía de la CMA es de marzo, solo actualizada ahora.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.gov.uk/government/publications/agentic-ai-and-consumers",
+          "schema:name": "Agentic AI and consumers (DRCF joint statement: protecting people and businesses in an agentic economy)",
+          "sota:sourceId": "src-uk-cma"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-drcf"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uk-cma"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-fca"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ico"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ofcom"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-runway-demanda-youtube-dmca-1201-sigue-adelante",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-runway-demanda-youtube-dmca-1201-sigue-adelante",
+      "schema:headline": "Un juez federal de Nueva York deja seguir la demanda colectiva de creadores de YouTube contra Runway por saltarse las protecciones técnicas de la plataforma para descargar vídeos con los que entrenar su modelo",
+      "schema:datePublished": "2026-10-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El juez Lewis A. Kaplan, del Distrito Sur de Nueva York, rechazó el 30 de octubre la moción de Runway AI para desestimar la demanda colectiva Ace Cam, Inc. v. Runway AI (1:26-cv-01362), en la que creadores de YouTube alegan que la empresa eludió las medidas técnicas de protección de la plataforma para descargar sus vídeos y entrenar su modelo de vídeo Gen-3. La demanda se basa en la sección 1201(a) de la DMCA, que prohíbe eludir medidas que controlan el acceso a una obra y prevé indemnizaciones legales de 200 a 2.500 dólares por cada acto de elusión. Runway sostenía que los vídeos son públicos y que las barreras de YouTube contra la descarga son, como mucho, controles de copia; el juez no aceptó ese argumento en esta fase.",
+      "schema:articleBody": "El juez Lewis A. Kaplan, del Distrito Sur de Nueva York, rechazó el 30 de octubre la moción de Runway AI para desestimar la demanda colectiva Ace Cam, Inc. v. Runway AI (1:26-cv-01362), en la que creadores de YouTube alegan que la empresa eludió las medidas técnicas de protección de la plataforma para descargar sus vídeos y entrenar su modelo de vídeo Gen-3. La demanda se basa en la sección 1201(a) de la DMCA, que prohíbe eludir medidas que controlan el acceso a una obra y prevé indemnizaciones legales de 200 a 2.500 dólares por cada acto de elusión. Runway sostenía que los vídeos son públicos y que las barreras de YouTube contra la descarga son, como mucho, controles de copia; el juez no aceptó ese argumento en esta fase.\n\nLa vía de la sección 1201 permite a los creadores esquivar el debate del fair use, que los desarrolladores de IA han ganado en varios casos de primera instancia, y no exige que las obras estén registradas; por eso se repite en demandas contra Nvidia, Meta, Snap, ByteDance, Apple, OpenAI y Amazon. Para los equipos legales de desarrolladores, el riesgo se desplaza de qué se usa a cómo se obtuvo, y los registros de cómo se descargaron los datos de entrenamiento serán prueba central. Matiz: es una resolución en fase de alegaciones, no un fallo sobre el fondo; no hay clase certificada y Runway podrá reiterar sus argumentos.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Otra demanda por datos de entrenamiento que supera la desestimación con la norma antielusión de la DMCA en lugar del fair use.",
+      "sota:whyNow": "Resolución del 30 oct 2026 (Dkt. 61), publicada en Justia. NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "DMCA",
+        "antielusión",
+        "datos de entrenamiento",
+        "demandas colectivas",
+        "vídeo generativo"
+      ],
+      "sota:summaryP1": "El juez Lewis A. Kaplan, del Distrito Sur de Nueva York, rechazó el 30 de octubre la moción de Runway AI para desestimar la demanda colectiva Ace Cam, Inc. v. Runway AI (1:26-cv-01362), en la que creadores de YouTube alegan que la empresa eludió las medidas técnicas de protección de la plataforma para descargar sus vídeos y entrenar su modelo de vídeo Gen-3. La demanda se basa en la sección 1201(a) de la DMCA, que prohíbe eludir medidas que controlan el acceso a una obra y prevé indemnizaciones legales de 200 a 2.500 dólares por cada acto de elusión. Runway sostenía que los vídeos son públicos y que las barreras de YouTube contra la descarga son, como mucho, controles de copia; el juez no aceptó ese argumento en esta fase.",
+      "sota:summaryP2": "La vía de la sección 1201 permite a los creadores esquivar el debate del fair use, que los desarrolladores de IA han ganado en varios casos de primera instancia, y no exige que las obras estén registradas; por eso se repite en demandas contra Nvidia, Meta, Snap, ByteDance, Apple, OpenAI y Amazon. Para los equipos legales de desarrolladores, el riesgo se desplaza de qué se usa a cómo se obtuvo, y los registros de cómo se descargaron los datos de entrenamiento serán prueba central. Matiz: es una resolución en fase de alegaciones, no un fallo sobre el fondo; no hay clase certificada y Runway podrá reiterar sus argumentos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2026cv01362/658148/61/",
+          "schema:name": "Ace Cam, Inc. v. Runway AI Inc, 1:2026cv01362 - Document 61 (S.D.N.Y. 2026)",
+          "sota:sourceId": "src-justia"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-runway"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-google-cloud-cursos-gemini-equipos-juridicos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-google-cloud-cursos-gemini-equipos-juridicos",
+      "schema:headline": "Google Cloud lanza en Google Skills cursos gratuitos de Gemini para equipos jurídicos y de servicios financieros, con un programa para pasar a construir agentes en producción",
+      "schema:datePublished": "2026-10-30",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Google Skills, la plataforma de formación en IA de Google, ha lanzado cursos de Gemini específicos para equipos jurídicos y de servicios financieros, según una entrada del blog de Google Cloud del viernes 30 de octubre recogida por PYMNTS el 1 de noviembre. El paquete jurídico incluye cinco vídeos de 15 minutos y el financiero cuatro, ambos gratuitos, y parten de casos de uso conocidos para mostrar cómo trabajar con IA agéntica. Para quien quiera construir sistemas en producción, Google ofrece el programa gratuito Gemini Agent Ready (GEAR), con insignias de competencias. Gary Eimerman, director general de Google Cloud Learning, habla de revisiones de cumplimiento y gestión de carteras como ejemplos.",
+      "schema:articleBody": "Google Skills, la plataforma de formación en IA de Google, ha lanzado cursos de Gemini específicos para equipos jurídicos y de servicios financieros, según una entrada del blog de Google Cloud del viernes 30 de octubre recogida por PYMNTS el 1 de noviembre. El paquete jurídico incluye cinco vídeos de 15 minutos y el financiero cuatro, ambos gratuitos, y parten de casos de uso conocidos para mostrar cómo trabajar con IA agéntica. Para quien quiera construir sistemas en producción, Google ofrece el programa gratuito Gemini Agent Ready (GEAR), con insignias de competencias. Gary Eimerman, director general de Google Cloud Learning, habla de revisiones de cumplimiento y gestión de carteras como ejemplos.\n\nLa formación es la vía con la que los grandes proveedores generalistas compiten con las herramientas jurídicas especializadas: si el abogado aprende a resolver sus tareas en Gemini, la compra de un producto vertical se cuestiona. Para los departamentos jurídicos con Google Workspace, es una forma barata de formar equipos, pero la formación del proveedor no sustituye a la política interna sobre qué datos pueden entrar en la herramienta. Matiz: es un anuncio del propio proveedor, sin datos de uso, y PYMNTS exige un formulario para leer la nota completa.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un proveedor generalista lleva formación de IA agéntica específica a los equipos jurídicos, en competencia con las herramientas verticales.",
+      "sota:whyNow": "PYMNTS, 1 nov 2026 (blog de Google Cloud del 30 oct). NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "US",
+        "Global"
+      ],
+      "sota:topics": [
+        "formación",
+        "Gemini",
+        "agentes de IA",
+        "in-house"
+      ],
+      "sota:summaryP1": "Google Skills, la plataforma de formación en IA de Google, ha lanzado cursos de Gemini específicos para equipos jurídicos y de servicios financieros, según una entrada del blog de Google Cloud del viernes 30 de octubre recogida por PYMNTS el 1 de noviembre. El paquete jurídico incluye cinco vídeos de 15 minutos y el financiero cuatro, ambos gratuitos, y parten de casos de uso conocidos para mostrar cómo trabajar con IA agéntica. Para quien quiera construir sistemas en producción, Google ofrece el programa gratuito Gemini Agent Ready (GEAR), con insignias de competencias. Gary Eimerman, director general de Google Cloud Learning, habla de revisiones de cumplimiento y gestión de carteras como ejemplos.",
+      "sota:summaryP2": "La formación es la vía con la que los grandes proveedores generalistas compiten con las herramientas jurídicas especializadas: si el abogado aprende a resolver sus tareas en Gemini, la compra de un producto vertical se cuestiona. Para los departamentos jurídicos con Google Workspace, es una forma barata de formar equipos, pero la formación del proveedor no sustituye a la política interna sobre qué datos pueden entrar en la herramienta. Matiz: es un anuncio del propio proveedor, sin datos de uso, y PYMNTS exige un formulario para leer la nota completa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-launches-free-ai-courses-for-financial-services-and-legal-teams/",
+          "schema:name": "Google Cloud Launches Free AI Courses for Financial Services and Legal Teams",
+          "sota:sourceId": "src-pymnts"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pymnts"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-cps-cita-sentencia-inexistente-high-court-r-v-j",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-cps-cita-sentencia-inexistente-high-court-r-v-j",
+      "schema:headline": "La Fiscalía británica vuelve a apoyarse ante la High Court en una sentencia que no existe, ahora en la decisión de seguir procesando a un niño de 11 años, y el tribunal lo llama \"insatisfactorio\" pero irrelevante",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La High Court, con Lord Justice Holgate y Mr Justice Wall, ha examinado la revisión judicial de la decisión de la Crown Prosecution Service (CPS) de seguir procesando a un niño acusado de violar a su hermana cuando él tenía 11 años y ella siete, informó Legal Futures el 2 de noviembre. El registro escrito de la decisión, redactado por la fiscal Ravinder Dhillon, citaba tres veces una sentencia de 2024, \"R v J\", que no existe; en una declaración del 15 de octubre la fiscal dijo que se refería a R v JTB [2009] UKHL 20. El tribunal calificó la explicación de \"insatisfactoria\", pero declaró \"inviable\" ese motivo porque lo relevante es si los principios aplicados eran erróneos, y no lo eran. Admitió otros dos motivos y después desestimó la demanda.",
+      "schema:articleBody": "La High Court, con Lord Justice Holgate y Mr Justice Wall, ha examinado la revisión judicial de la decisión de la Crown Prosecution Service (CPS) de seguir procesando a un niño acusado de violar a su hermana cuando él tenía 11 años y ella siete, informó Legal Futures el 2 de noviembre. El registro escrito de la decisión, redactado por la fiscal Ravinder Dhillon, citaba tres veces una sentencia de 2024, \"R v J\", que no existe; en una declaración del 15 de octubre la fiscal dijo que se refería a R v JTB [2009] UKHL 20. El tribunal calificó la explicación de \"insatisfactoria\", pero declaró \"inviable\" ese motivo porque lo relevante es si los principios aplicados eran erróneos, y no lo eran. Admitió otros dos motivos y después desestimó la demanda.\n\nEs la segunda vez este año que la CPS pone ante la High Court una autoridad inexistente: en julio admitió haber presentado casos inventados por IA en una apelación de extradición. Para los despachos y fiscalías, la lección es que los documentos internos de decisión, no solo los escritos, se examinan en revisión judicial y deben verificarse igual. Matiz: el tribunal no explica cómo llegó la cita al registro ni atribuye este error a la IA, por lo que no la contamos como pieza de IA; tampoco anuncia medidas.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Una fiscalía nacional reincide en citar una sentencia inexistente en un documento de decisión revisado por la High Court.",
+      "sota:whyNow": "Legal Futures, 2 nov 2026. NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "citas inexistentes",
+        "fiscalía",
+        "revisión judicial",
+        "verificación"
+      ],
+      "sota:summaryP1": "La High Court, con Lord Justice Holgate y Mr Justice Wall, ha examinado la revisión judicial de la decisión de la Crown Prosecution Service (CPS) de seguir procesando a un niño acusado de violar a su hermana cuando él tenía 11 años y ella siete, informó Legal Futures el 2 de noviembre. El registro escrito de la decisión, redactado por la fiscal Ravinder Dhillon, citaba tres veces una sentencia de 2024, \"R v J\", que no existe; en una declaración del 15 de octubre la fiscal dijo que se refería a R v JTB [2009] UKHL 20. El tribunal calificó la explicación de \"insatisfactoria\", pero declaró \"inviable\" ese motivo porque lo relevante es si los principios aplicados eran erróneos, y no lo eran. Admitió otros dos motivos y después desestimó la demanda.",
+      "sota:summaryP2": "Es la segunda vez este año que la CPS pone ante la High Court una autoridad inexistente: en julio admitió haber presentado casos inventados por IA en una apelación de extradición. Para los despachos y fiscalías, la lección es que los documentos internos de decisión, no solo los escritos, se examinan en revisión judicial y deben verificarse igual. Matiz: el tribunal no explica cómo llegó la cita al registro ni atribuye este error a la IA, por lo que no la contamos como pieza de IA; tampoco anuncia medidas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/cps-puts-another-fictitious-case-before-high-court",
+          "schema:name": "CPS puts another fictitious case before High Court",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cps"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-high-court-ew"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-brechas-despachos-registro-california-ingenieria-social",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-brechas-despachos-registro-california-ingenieria-social",
+      "schema:headline": "Diez despachos estadounidenses, entre ellos Baker McKenzie, Troutman, WilmerHale y Greenberg Traurig, han notificado este año en California brechas de datos causadas en su mayoría por engaños a su propio personal",
+      "schema:datePublished": "2026-11-01",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Baker McKenzie y Troutman Pepper Locke figuran en el registro de brechas del fiscal general de California con notificaciones del 27 y el 28 de octubre en las que explican que, en agosto, la ingeniería social (el engaño a personal del despacho) dio a terceros acceso a archivos de su trabajo jurídico, informó ComplexDiscovery el 1 de noviembre. Su revisión del registro encontró otros ocho despachos con incidentes de mayo o agosto de 2026: Fragomen, Peña & Bromberg, WilmerHale, Blank Rome, Fox Rothschild, Seyfarth Shaw, Greenberg Traurig y Sheppard Mullin. Siete de las diez notificaciones describen ingeniería social o suplantación, como una llamada que se hizo pasar por el departamento de IT para que un abogado moviera archivos a un Google Drive externo; una describe una intrusión en la red y ninguna nombra al atacante, aunque una demanda colectiva contra Troutman atribuye su incidente a SilentRansomGroup.",
+      "schema:articleBody": "Baker McKenzie y Troutman Pepper Locke figuran en el registro de brechas del fiscal general de California con notificaciones del 27 y el 28 de octubre en las que explican que, en agosto, la ingeniería social (el engaño a personal del despacho) dio a terceros acceso a archivos de su trabajo jurídico, informó ComplexDiscovery el 1 de noviembre. Su revisión del registro encontró otros ocho despachos con incidentes de mayo o agosto de 2026: Fragomen, Peña & Bromberg, WilmerHale, Blank Rome, Fox Rothschild, Seyfarth Shaw, Greenberg Traurig y Sheppard Mullin. Siete de las diez notificaciones describen ingeniería social o suplantación, como una llamada que se hizo pasar por el departamento de IT para que un abogado moviera archivos a un Google Drive externo; una describe una intrusión en la red y ninguna nombra al atacante, aunque una demanda colectiva contra Troutman atribuye su incidente a SilentRansomGroup.\n\nEl patrón es que el punto débil de los despachos no es la infraestructura sino las personas, y que los atacantes buscan expedientes, que contienen datos personales de clientes y de terceros. Para los clientes corporativos, es motivo para preguntar a sus despachos externos por formación antisuplantación, verificación de llamadas de soporte y tiempos de notificación; California exige desde el 1 de enero avisar a los afectados en 30 días. Para los despachos, revisar los expedientes en busca de datos personales es lo que más retrasa la notificación. Matiz: las notificaciones las redactan los propios despachos con distinto grado de detalle, y el editor de ComplexDiscovery es director de marketing de HaystackID.",
+      "sota:type": "market",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Una revisión del registro público de California muestra un patrón de brechas por ingeniería social en grandes despachos.",
+      "sota:whyNow": "ComplexDiscovery, 1 nov 2026 (notificaciones del 27 y 28 oct). NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ciberseguridad",
+        "ingeniería social",
+        "brechas de datos",
+        "despachos",
+        "notificación"
+      ],
+      "sota:summaryP1": "Baker McKenzie y Troutman Pepper Locke figuran en el registro de brechas del fiscal general de California con notificaciones del 27 y el 28 de octubre en las que explican que, en agosto, la ingeniería social (el engaño a personal del despacho) dio a terceros acceso a archivos de su trabajo jurídico, informó ComplexDiscovery el 1 de noviembre. Su revisión del registro encontró otros ocho despachos con incidentes de mayo o agosto de 2026: Fragomen, Peña & Bromberg, WilmerHale, Blank Rome, Fox Rothschild, Seyfarth Shaw, Greenberg Traurig y Sheppard Mullin. Siete de las diez notificaciones describen ingeniería social o suplantación, como una llamada que se hizo pasar por el departamento de IT para que un abogado moviera archivos a un Google Drive externo; una describe una intrusión en la red y ninguna nombra al atacante, aunque una demanda colectiva contra Troutman atribuye su incidente a SilentRansomGroup.",
+      "sota:summaryP2": "El patrón es que el punto débil de los despachos no es la infraestructura sino las personas, y que los atacantes buscan expedientes, que contienen datos personales de clientes y de terceros. Para los clientes corporativos, es motivo para preguntar a sus despachos externos por formación antisuplantación, verificación de llamadas de soporte y tiempos de notificación; California exige desde el 1 de enero avisar a los afectados en 30 días. Para los despachos, revisar los expedientes en busca de datos personales es lo que más retrasa la notificación. Matiz: las notificaciones las redactan los propios despachos con distinto grado de detalle, y el editor de ComplexDiscovery es director de marketing de HaystackID.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://complexdiscovery.com/a-cluster-of-law-firm-breach-notices-on-californias-register-points-mostly-to-deceived-staff/",
+          "schema:name": "A cluster of law firm breach notices on California's register points mostly to deceived staff",
+          "sota:sourceId": "src-complexdiscovery"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-baker-mckenzie"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-troutman-pepper-locke"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wilmerhale"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-greenberg-traurig"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-complexdiscovery"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-haystackid"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-02-supremo-viudedad-completa-victimas-violencia-genero-compensatoria",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-02-supremo-viudedad-completa-victimas-violencia-genero-compensatoria",
+      "schema:headline": "El Supremo fija en Pleno que las víctimas de violencia de género divorciadas cobran la pensión de viudedad completa aunque recibieran una pensión compensatoria menor",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Sala de lo Social del Tribunal Supremo, reunida en Pleno, ha fijado en la sentencia 824/2026, de 9 de octubre, que el tope del artículo 220.1 de la Ley General de la Seguridad Social, que limita la pensión de viudedad de los excónyuges al importe de la pensión compensatoria, no se aplica a las mujeres víctimas de violencia de género, informó Confilegal el 2 de noviembre. La decisión, por 9 votos a 2 y con ponencia de Félix V. Azón Vilas, unifica doctrina entre el TSJ de Andalucía y el TSJ de Navarra. En el caso, el INSS había limitado la pensión a 542,57 euros al mes porque la mujer cobraba 600 euros de compensatoria; el juzgado de Granada le había reconocido 1.095,16 euros.",
+      "schema:articleBody": "La Sala de lo Social del Tribunal Supremo, reunida en Pleno, ha fijado en la sentencia 824/2026, de 9 de octubre, que el tope del artículo 220.1 de la Ley General de la Seguridad Social, que limita la pensión de viudedad de los excónyuges al importe de la pensión compensatoria, no se aplica a las mujeres víctimas de violencia de género, informó Confilegal el 2 de noviembre. La decisión, por 9 votos a 2 y con ponencia de Félix V. Azón Vilas, unifica doctrina entre el TSJ de Andalucía y el TSJ de Navarra. En el caso, el INSS había limitado la pensión a 542,57 euros al mes porque la mujer cobraba 600 euros de compensatoria; el juzgado de Granada le había reconocido 1.095,16 euros.\n\nEl criterio obliga al INSS, a juzgados y tribunales a revisar los casos iguales, y abre reclamaciones a quienes vieron recortada la pensión. Para los despachos de familia y de Seguridad Social, cambia el asesoramiento en divorcios con violencia de género: pedir la compensatoria ya no penaliza la futura viudedad. Matiz: la sentencia tiene dos votos particulares y la Fiscalía apoyaba la tesis del INSS; no es una pieza de IA.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 6.4,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Doctrina unificada del Pleno de lo Social con efecto directo sobre pensiones de viudedad.",
+      "sota:whyNow": "Confilegal, 2 nov 2026 (sentencia de 9 oct). NEW frente a 09-29→11-01.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "Seguridad Social",
+        "viudedad",
+        "violencia de género",
+        "unificación de doctrina"
+      ],
+      "sota:summaryP1": "La Sala de lo Social del Tribunal Supremo, reunida en Pleno, ha fijado en la sentencia 824/2026, de 9 de octubre, que el tope del artículo 220.1 de la Ley General de la Seguridad Social, que limita la pensión de viudedad de los excónyuges al importe de la pensión compensatoria, no se aplica a las mujeres víctimas de violencia de género, informó Confilegal el 2 de noviembre. La decisión, por 9 votos a 2 y con ponencia de Félix V. Azón Vilas, unifica doctrina entre el TSJ de Andalucía y el TSJ de Navarra. En el caso, el INSS había limitado la pensión a 542,57 euros al mes porque la mujer cobraba 600 euros de compensatoria; el juzgado de Granada le había reconocido 1.095,16 euros.",
+      "sota:summaryP2": "El criterio obliga al INSS, a juzgados y tribunales a revisar los casos iguales, y abre reclamaciones a quienes vieron recortada la pensión. Para los despachos de familia y de Seguridad Social, cambia el asesoramiento en divorcios con violencia de género: pedir la compensatoria ya no penaliza la futura viudedad. Matiz: la sentencia tiene dos votos particulares y la Fiscalía apoyaba la tesis del INSS; no es una pieza de IA.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261102-supremo-pension-viudedad-victimas-violencia-genero-sin-recorte/",
+          "schema:name": "El Supremo prohíbe recortar la pensión de viudedad de víctimas de violencia de género aunque cobren pensión compensatoria",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-es"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-inss"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-3-geeks-and-a-law-blog",
       "@type": "schema:Thing",
       "schema:identifier": "ent-3-geeks-and-a-law-blog",
@@ -16336,6 +16772,15 @@
       "schema:name": "BAE Systems",
       "sota:entityType": "company",
       "schema:url": "https://www.baesystems.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-baker-mckenzie",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-baker-mckenzie",
+      "schema:name": "Baker McKenzie",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.bakermckenzie.com/",
       "sota:stub": true
     },
     {
@@ -16989,6 +17434,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cps",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cps",
+      "schema:name": "Crown Prosecution Service",
+      "sota:entityType": "government",
+      "schema:url": "https://www.cps.gov.uk/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-crosby",
       "@type": "schema:Thing",
       "schema:identifier": "ent-crosby",
@@ -17112,6 +17566,15 @@
       "schema:name": "Docket Navigator",
       "sota:entityType": "vendor",
       "schema:url": "https://www.docketnavigator.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-drcf",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-drcf",
+      "schema:name": "Digital Regulation Cooperation Forum",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.drcf.org.uk/",
       "sota:stub": true
     },
     {
@@ -17853,6 +18316,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ico",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ico",
+      "schema:name": "Information Commissioner's Office",
+      "sota:entityType": "regulator",
+      "schema:url": "https://ico.org.uk/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ideallegal",
       "@type": "schema:Thing",
       "schema:identifier": "ent-ideallegal",
@@ -17913,6 +18385,15 @@
       "schema:name": "Innovate UK",
       "sota:entityType": "government",
       "schema:url": "https://www.ukri.org/councils/innovate-uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-inss",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-inss",
+      "schema:name": "Instituto Nacional de la Seguridad Social",
+      "sota:entityType": "government",
+      "schema:url": "https://www.seg-social.es/",
       "sota:stub": true
     },
     {
@@ -18065,6 +18546,15 @@
       "schema:name": "Kirkland & Ellis",
       "sota:entityType": "law_firm",
       "schema:url": "https://www.kirkland.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-korea-supreme-court",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-korea-supreme-court",
+      "schema:name": "Tribunal Supremo de Corea del Sur",
+      "sota:entityType": "court",
+      "schema:url": "https://www.scourt.go.kr/",
       "sota:stub": true
     },
     {
@@ -18884,6 +19374,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nysba",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nysba",
+      "schema:name": "New York State Bar Association",
+      "sota:entityType": "association",
+      "schema:url": "https://nysba.org/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-oab-pr",
       "@type": "schema:Thing",
       "schema:identifier": "ent-oab-pr",
@@ -19249,6 +19748,15 @@
       "schema:name": "ROSS Intelligence",
       "sota:entityType": "vendor",
       "schema:url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-runway",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-runway",
+      "schema:name": "Runway AI",
+      "sota:entityType": "vendor",
+      "schema:url": "https://runwayml.com/",
       "sota:stub": true
     },
     {
@@ -19684,6 +20192,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uk-cma",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-uk-cma",
+      "schema:name": "Competition and Markets Authority",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.gov.uk/government/organisations/competition-and-markets-authority",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-uk-law-commission",
       "@type": "schema:Thing",
       "schema:identifier": "ent-uk-law-commission",
@@ -19846,6 +20363,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wilmerhale",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-wilmerhale",
+      "schema:name": "WilmerHale",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.wilmerhale.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wilson-sonsini",
       "@type": "schema:Thing",
       "schema:identifier": "ent-wilson-sonsini",
@@ -19915,6 +20441,15 @@
       "schema:name": "xAI",
       "sota:entityType": "company",
       "schema:url": "https://x.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-yonhap",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-yonhap",
+      "schema:name": "Yonhap News Agency",
+      "sota:entityType": "media",
+      "schema:url": "https://en.yna.co.kr/",
       "sota:stub": true
     },
     {

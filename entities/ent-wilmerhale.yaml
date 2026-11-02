@@ -1,0 +1,10 @@
+id: ent-wilmerhale
+name: WilmerHale
+type: law_firm
+url: https://www.wilmerhale.com/
+geo:
+- US
+aliases:
+- Wilmer Cutler Pickering Hale and Dorr
+notes: Despacho estadounidense. Ficha mínima.
+stub: true

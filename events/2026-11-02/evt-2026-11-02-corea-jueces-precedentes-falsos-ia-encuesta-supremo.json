@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-02-corea-jueces-precedentes-falsos-ia-encuesta-supremo",
+  "date": "2026-11-02",
+  "type": "research",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Ocho de cada diez jueces surcoreanos de civil, familia y contencioso han visto citar precedentes falsos o inexistentes generados por IA, según una encuesta del Tribunal Supremo, que estudia multas y verificación obligatoria",
+  "short_title": "El 80% de los jueces surcoreanos ha visto precedentes falsos de IA",
+  "standfirst": "La Administración Nacional de Tribunales encuestó a 360 jueces del 6 al 16 de octubre; casi el 92% pide medidas institucionales.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Corea del Sur",
+  "piece_type": "Análisis",
+  "summary_p1": "El Tribunal Supremo de Corea del Sur publicó el 2 de noviembre una encuesta a 360 jueces, hecha del 6 al 16 de octubre, según la cual unos ocho de cada diez jueces de asuntos civiles, de familia y contencioso-administrativos han tenido casos en los que se citaban precedentes inexistentes o falsos, informó la agencia Yonhap. De ellos, 196 (80,7%) habían visto citar precedentes que no existen, 159 (65,4%) precedentes falseados, 41 (16,9%) leyes o reglamentos falsos o inexistentes y 10 (4,1%) artículos o publicaciones inventados; 136 (57,6%) dijeron que los habían citado abogados de las partes. Casi el 92% pide medidas institucionales, entre ellas una base legal para imponer multas, requisitos de verificación y sanciones disciplinarias para los abogados reincidentes. La Administración Nacional de Tribunales advierte de que estas citas retrasan los procedimientos.",
+  "summary_p2": "Es una de las primeras mediciones sistemáticas que un tribunal supremo hace entre sus propios jueces, y apunta en la misma dirección que las sanciones caso por caso de EE. UU., Reino Unido o España: el problema ya no es anecdótico y los tribunales buscan herramientas generales, no solo multas puntuales. Para los despachos con asuntos en Corea, cabe esperar requisitos de verificación de citas y quizá de declaración del uso de IA en los escritos; para los proveedores de IA jurídica, la verificación de citas contra fuentes oficiales pasa a ser requisito de venta. Matiz: la nota de Yonhap en inglés no detalla la metodología, y una parte relevante de los casos viene de partes que litigan sin abogado según la prensa coreana; las medidas son aún propuestas.",
+  "why_sota": "Encuesta de un tribunal supremo a sus jueces que cuantifica las citas falsas generadas por IA y abre la vía a multas.",
+  "why_now": "Yonhap, 2 nov 2026. NEW frente a 09-29→11-01.",
+  "geo": [
+    "KR"
+  ],
+  "topics": [
+    "alucinaciones",
+    "citas falsas",
+    "tribunales",
+    "verificación",
+    "sanciones"
+  ],
+  "sources": [
+    {
+      "source_id": "src-yonhap",
+      "url": "https://en.yna.co.kr/view/AEN20261102005900315",
+      "cited_title": "8 in 10 judges experienced cases citing AI-generated false legal precedents: survey",
+      "accessed": "2026-11-02"
+    }
+  ],
+  "entities": [
+    "ent-korea-supreme-court",
+    "ent-yonhap"
+  ],
+  "lang": "es",
+  "status": "published"
+}
