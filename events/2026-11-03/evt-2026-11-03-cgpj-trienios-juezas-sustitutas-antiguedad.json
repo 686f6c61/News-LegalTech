@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-03-cgpj-trienios-juezas-sustitutas-antiguedad",
+  "date": "2026-11-03",
+  "type": "regulation",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "El CGPJ niega a las juezas sustitutas la antigüedad por todo el tiempo de nombramiento: para los trienios solo cuenta el servicio efectivo, por 19 votos a 2",
+  "short_title": "El CGPJ solo cuenta el servicio efectivo para trienios de sustitutas",
+  "standfirst": "El voto particular de Preciado y Herreros ve discriminación indirecta: el 73,6% de los jueces sustitutos y magistrados suplentes son mujeres.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Profesión",
+  "country": "España",
+  "piece_type": "Resolución judicial",
+  "summary_p1": "El Pleno del Consejo General del Poder Judicial aprobó el 28 de octubre, por 19 votos a 2, no reconocer a las juezas sustitutas la antigüedad de todo el tiempo que permanecen nombradas: a efectos de trienios solo cuenta el servicio efectivo, informó Confilegal el 3 de noviembre. Con ese criterio, una sustituta nombrada tres años a la que llaman tres meses cada año tardaría doce en cumplir su primer trienio. Los vocales Carlos Hugo Preciado e Inés Herreros firmaron un voto particular que ve discriminación indirecta por razón de sexo: a 1 de enero de 2025 había 944 jueces sustitutos y magistrados suplentes, de los que 695 (73,6%) eran mujeres; se apoyan en jurisprudencia del TJUE sobre tiempo parcial y del Supremo sobre fijos discontinuos.",
+  "summary_p2": "La resolución agota la vía administrativa y puede recurrirse ante la Sala Tercera del Tribunal Supremo en dos meses, así que el debate se traslada a los tribunales. Para los abogados laboralistas y de función pública, el voto particular ofrece un argumentario construido con la jurisprudencia de la UE sobre trabajo a tiempo parcial que puede servir en otros colectivos de interinos; para la Administración de Justicia, el coste de una eventual estimación afectaría a retribuciones y pensiones. Matiz: el relato de Confilegal incluye valoraciones del entorno de uno de los vocales disidentes.",
+  "why_sota": "Criterio del órgano de gobierno de los jueces con un voto particular que plantea discriminación indirecta.",
+  "why_now": "Confilegal, 3 nov 2026 (Pleno de 28 oct). NEW frente a 09-29→11-02.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "Poder Judicial",
+    "jueces sustitutos",
+    "antigüedad",
+    "igualdad",
+    "discriminación indirecta"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261103-cgpj-trienios-juezas-sustitutas-antiguedad/",
+      "cited_title": "Nombradas tres años, trienio a los doce: el CGPJ cierra la puerta a la antigüedad de las juezas sustitutas",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-cgpj",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

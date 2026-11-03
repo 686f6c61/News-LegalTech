@@ -1,0 +1,10 @@
+id: ent-maine-state-bar
+name: Maine State Bar Association
+type: association
+url: https://www.mainebar.org/
+geo:
+- US
+aliases:
+- MSBA
+notes: Colegio de abogados del Estado de Maine. Ficha mínima.
+stub: true

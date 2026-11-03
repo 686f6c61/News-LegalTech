@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-03-nueva-jersey-chatbots-ia-responsabilidad-producto",
+  "date": "2026-11-02",
+  "type": "regulation",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Nueva Jersey tramita un proyecto de ley que permitiría demandar a los proveedores de chatbots de IA bajo la ley de responsabilidad por productos defectuosos, y los abogados defensores avisan de una avalancha de demandas",
+  "short_title": "Nueva Jersey quiere tratar los chatbots de IA como productos",
+  "standfirst": "El texto avanzó con rapidez en una comisión de la Asamblea estatal en octubre; para la abogacía demandante es una medida clave de protección del consumidor.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Responsabilidad de la IA",
+  "country": "Estados Unidos",
+  "piece_type": "Regulación",
+  "summary_p1": "Un proyecto de ley en Nueva Jersey permitiría a los ciudadanos demandar a los proveedores de chatbots de IA generativa con arreglo a la ley estatal de responsabilidad por productos defectuosos, informó el New Jersey Law Journal (Law.com) el 2 de noviembre. El texto avanzó con rapidez en una comisión de la Asamblea en octubre y establecería nuevas reglas de responsabilidad para las empresas que desarrollan y operan sistemas de IA generativa. Abogados defensores advierten de que podría abrir la puerta a una avalancha de reclamaciones, mientras un abogado de demandantes lo defiende como medida clave de protección del consumidor.",
+  "summary_p2": "Tratar un chatbot como producto, y no como servicio o como discurso, cambia el litigio: abre la vía de la responsabilidad por defecto de diseño o de advertencia sin tener que probar negligencia. Para los proveedores de IA, incluidos los de IA jurídica con usuarios en Nueva Jersey, convendría revisar advertencias, registros de pruebas de seguridad y cláusulas de limitación de responsabilidad; para los despachos de litigación, es un frente nuevo en ambos lados. Matiz: el artículo está tras muro de pago y solo se ve el arranque; no consta el número del proyecto ni su calendario en el pleno, y aún no es ley.",
+  "why_sota": "Uno de los primeros intentos estatales de aplicar la responsabilidad por producto a los chatbots de IA.",
+  "why_now": "New Jersey Law Journal (Law.com), 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "responsabilidad por producto",
+    "chatbots",
+    "IA generativa",
+    "legislación estatal",
+    "consumo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/njlawjournal/2026/11/02/njs-proposed-liability-for-ai-chatbots-may-open-the-floodgates-attorneys-say/",
+      "cited_title": "NJ's Proposed Liability for AI Chatbots May 'Open the Floodgates,' Attorneys Say",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

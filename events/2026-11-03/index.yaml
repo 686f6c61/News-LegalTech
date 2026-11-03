@@ -1,0 +1,84 @@
+scan_id: full-radar-2026-11-03
+date: '2026-11-03'
+release: 03.11.26
+count: 11
+ai_share: 0.64
+dedup_against: events/2026-09-29 → 2026-11-02 + scans PASS
+event_ids:
+- evt-2026-11-03-nyt-demanda-brave-scraping-ia
+- evt-2026-11-03-vetta-scissero-pujan-activos-abogados-weil
+- evt-2026-11-03-nueva-jersey-chatbots-ia-responsabilidad-producto
+- evt-2026-11-03-maine-bar-deja-decisis-clio-library-clio-work
+- evt-2026-11-03-litmas-ai-asociado-agentico-litigacion
+- evt-2026-11-03-lexisnexis-canada-investigacion-agentica
+- evt-2026-11-03-clio-canada-95-por-ciento-usa-ia
+- evt-2026-11-03-corte-suprema-argentina-anonimizador-documentos-judiciales
+- evt-2026-11-03-despachos-canadienses-brechas-datos-phishing
+- evt-2026-11-03-cgpj-trienios-juezas-sustitutas-antiguedad
+- evt-2026-11-03-examen-abogacia-eeuu-caen-aprobados-california
+events:
+- id: evt-2026-11-03-nyt-demanda-brave-scraping-ia
+  sota_score: 8.2
+  ai_legaltech: true
+  title: The New York Times demanda al navegador Brave por copiar su contenido saltándose
+    el muro de pago y venderlo a desarrolladores de IA como Anthropic, Perplexity,
+    Mistral, xAI o Cohere
+- id: evt-2026-11-03-vetta-scissero-pujan-activos-abogados-weil
+  sota_score: 7.8
+  ai_legaltech: true
+  title: Otras dos firmas nativas de IA, Vetta y Scissero, pujan por los abogados,
+    los precedentes y la tecnología de Weil, incluida su plataforma propia para operaciones,
+    y se suman a Crosby
+- id: evt-2026-11-03-nueva-jersey-chatbots-ia-responsabilidad-producto
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Nueva Jersey tramita un proyecto de ley que permitiría demandar a los proveedores
+    de chatbots de IA bajo la ley de responsabilidad por productos defectuosos, y
+    los abogados defensores avisan de una avalancha de demandas
+- id: evt-2026-11-03-maine-bar-deja-decisis-clio-library-clio-work
+  sota_score: 7.2
+  ai_legaltech: true
+  title: El colegio de abogados de Maine deja Decisis por Clio Library, ahorra más
+    de 50.000 dólares al año y dará a sus colegiados cuatro meses gratis de Clio Work,
+    la IA de Clio
+- id: evt-2026-11-03-litmas-ai-asociado-agentico-litigacion
+  sota_score: 6.6
+  ai_legaltech: true
+  title: Litmas AI relanza su plataforma de litigación como Agentic Associate, un
+    asociado agéntico que va de la investigación del caso a la redacción de una moción
+    de juicio sumario
+- id: evt-2026-11-03-lexisnexis-canada-investigacion-agentica
+  sota_score: 6.4
+  ai_legaltech: true
+  title: 'LexisNexis Canadá explica cómo encargar investigación jurídica a un agente
+    de IA: un encargo bien definido, y el abogado sigue respondiendo del análisis'
+- id: evt-2026-11-03-clio-canada-95-por-ciento-usa-ia
+  sota_score: 6.2
+  ai_legaltech: true
+  title: El 95% de los profesionales jurídicos canadienses ya usa IA, según el informe
+    de Clio, y el 66% dice que ha mejorado los ingresos de su despacho, pero solo
+    el 47% en los pequeños
+- id: evt-2026-11-03-corte-suprema-argentina-anonimizador-documentos-judiciales
+  sota_score: 7.0
+  ai_legaltech: false
+  title: La Corte Suprema argentina implanta un anonimizador de documentos judiciales
+    que detecta más de 15 tipos de datos personales y los sustituye por marcadores
+    como [Persona 1] antes de publicar o entregar resoluciones
+- id: evt-2026-11-03-despachos-canadienses-brechas-datos-phishing
+  sota_score: 7.0
+  ai_legaltech: false
+  title: Cuatro grandes despachos canadienses, McCarthy Tétrault, Borden Ladner Gervais,
+    Bennett Jones y Davies, notifican brechas de datos tras una campaña de phishing
+    contra el sector legal y financiero
+- id: evt-2026-11-03-cgpj-trienios-juezas-sustitutas-antiguedad
+  sota_score: 7.0
+  ai_legaltech: false
+  title: 'El CGPJ niega a las juezas sustitutas la antigüedad por todo el tiempo de
+    nombramiento: para los trienios solo cuenta el servicio efectivo, por 19 votos
+    a 2'
+- id: evt-2026-11-03-examen-abogacia-eeuu-caen-aprobados-california
+  sota_score: 6.6
+  ai_legaltech: false
+  title: 'Caen los aprobados del examen de acceso a la abogacía en EE. UU.: California
+    aprueba solo al 48,3% en julio, su peor dato de julio en cinco años, y Nueva York
+    baja al 67%'

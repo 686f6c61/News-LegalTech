@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-03-examen-abogacia-eeuu-caen-aprobados-california",
+  "date": "2026-11-02",
+  "type": "research",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "Caen los aprobados del examen de acceso a la abogacía en EE. UU.: California aprueba solo al 48,3% en julio, su peor dato de julio en cinco años, y Nueva York baja al 67%",
+  "short_title": "Caen los aprobados del examen de acceso a la abogacía en EE. UU.",
+  "standfirst": "La nota media del MBE baja de 142,4 a 140,7; algunos profesores apuntan, sin pruebas, a estudiar con IA.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Formación jurídica",
+  "country": "Estados Unidos",
+  "piece_type": "Informe",
+  "summary_p1": "Los resultados del bar exam (examen de acceso a la abogacía) de julio muestran caídas generalizadas, recogió Above the Law el 2 de noviembre a partir de Reuters y Law.com. El State Bar of California aprobó al 48,3% de 7.942 aspirantes, frente al 54,8% del año anterior: el peor julio en cinco años y la primera vez desde 2018 que suspende la mayoría. Los que se presentaban por primera vez aprobaron en un 64,7%, cinco puntos menos. Nueva York aprobó al 67% de 9.936 aspirantes, frente al 70%, y también bajaron Texas y Florida. La nota media nacional del MBE (la parte tipo test común) bajó de 142,4 a 140,7, y 35 de las 42 jurisdicciones con datos de ambos veranos empeoraron.",
+  "summary_p2": "No se puede culpar al nuevo NextGen UBE, que solo se estrenó en unas pocas jurisdicciones y en ninguna de las cuatro grandes. Para los despachos estadounidenses que contratan a recién graduados, supone más incorporaciones condicionadas a repetir el examen en febrero y retrasos en la colegiación. Matiz: según Reuters, algunos profesores especulan con que estudiar apoyándose en la IA o el aumento de adaptaciones en las facultades influyan, pero no hay datos que lo demuestren y un preparador recuerda que un solo año no permite sacar conclusiones.",
+  "why_sota": "Caída amplia y medible del acceso a la profesión en EE. UU., con la IA en el debate sobre las causas.",
+  "why_now": "Above the Law, 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "examen de acceso",
+    "formación jurídica",
+    "California",
+    "Nueva York",
+    "acceso a la profesión"
+  ],
+  "sources": [
+    {
+      "source_id": "src-above-the-law",
+      "url": "https://abovethelaw.com/2026/11/bar-exam-pass-rates-tanked-this-summer-and-not-just-in-california/",
+      "cited_title": "Bar Exam Pass Rates Tanked This Summer, And Not Just In California",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-state-bar-of-california",
+    "ent-above-the-law"
+  ],
+  "lang": "es",
+  "status": "published"
+}

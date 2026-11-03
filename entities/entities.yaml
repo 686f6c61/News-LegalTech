@@ -4835,3 +4835,120 @@ entities:
   notes: Entidad gestora española de las prestaciones de la Seguridad Social. Ficha
     mínima.
   stub: true
+- id: ent-brave
+  name: Brave Software
+  type: vendor
+  url: https://brave.com/
+  geo:
+  - US
+  aliases:
+  - Brave
+  notes: Empresa del navegador y el buscador Brave, con API de búsqueda para desarrolladores
+    de IA. Ficha mínima.
+  stub: true
+- id: ent-new-york-times
+  name: The New York Times Company
+  type: media
+  url: https://www.nytimes.com/
+  geo:
+  - US
+  aliases:
+  - The New York Times
+  - NYT
+  notes: Editora del diario The New York Times. Ficha mínima.
+  stub: true
+- id: ent-vetta
+  name: Vetta
+  type: law_firm
+  url: https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/
+  geo:
+  - US
+  aliases:
+  - Vetta Law
+  notes: Despacho nativo de IA centrado en capital riesgo, fundado por Nic Vetta,
+    ex Latham & Watkins. Ficha mínima.
+  stub: true
+- id: ent-scissero
+  name: Scissero
+  type: law_firm
+  url: https://www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets/
+  geo:
+  - GB
+  - US
+  aliases: []
+  notes: Despacho nativo de IA fundado por Mathias Strasser; compró el negocio de
+    servicios gestionados de Robin AI en diciembre de 2025. Ficha mínima.
+  stub: true
+- id: ent-maine-state-bar
+  name: Maine State Bar Association
+  type: association
+  url: https://www.mainebar.org/
+  geo:
+  - US
+  aliases:
+  - MSBA
+  notes: Colegio de abogados del Estado de Maine. Ficha mínima.
+  stub: true
+- id: ent-decisis
+  name: Decisis
+  type: vendor
+  url: https://www.decisis.com/
+  geo:
+  - US
+  aliases: []
+  notes: Servicio de investigación jurídica que se ofrece a los colegios de abogados
+    estatales. Ficha mínima.
+  stub: true
+- id: ent-csjn-argentina
+  name: Corte Suprema de Justicia de la Nación
+  type: court
+  url: https://www.csjn.gov.ar/
+  geo:
+  - AR
+  aliases:
+  - CSJN
+  - Corte Suprema argentina
+  notes: Máximo tribunal de Argentina. Ficha mínima.
+  stub: true
+- id: ent-litmas-ai
+  name: Litmas AI
+  type: vendor
+  url: https://www.law.com/legaltechnews/2026/11/02/legal-tech-startup-litmas-ai-launches-updated-agentic-litigation-platform/
+  geo:
+  - US
+  aliases:
+  - Litmas
+  notes: Startup de IA para litigación fundada en 2025 en Florida por Jason Weber
+    y Sriram Sekhar. Ficha mínima.
+  stub: true
+- id: ent-cgpj
+  name: Consejo General del Poder Judicial
+  type: government
+  url: https://www.poderjudicial.es/
+  geo:
+  - ES
+  aliases:
+  - CGPJ
+  notes: Órgano de gobierno del Poder Judicial español. Ficha mínima.
+  stub: true
+- id: ent-cccs
+  name: Canadian Centre for Cyber Security
+  type: government
+  url: https://www.cyber.gc.ca/
+  geo:
+  - CA
+  aliases:
+  - Centro Canadiense de Ciberseguridad
+  notes: Autoridad federal canadiense de ciberseguridad. Ficha mínima.
+  stub: true
+- id: ent-state-bar-of-california
+  name: State Bar of California
+  type: regulator
+  url: https://www.calbar.ca.gov/
+  geo:
+  - US
+  aliases:
+  - Colegio de Abogados de California
+  notes: Regulador de la abogacía en California; organiza su examen de acceso. Ficha
+    mínima.
+  stub: true

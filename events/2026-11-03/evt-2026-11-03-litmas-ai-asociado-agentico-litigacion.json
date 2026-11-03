@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-03-litmas-ai-asociado-agentico-litigacion",
+  "date": "2026-11-02",
+  "type": "product",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "Litmas AI relanza su plataforma de litigación como Agentic Associate, un asociado agéntico que va de la investigación del caso a la redacción de una moción de juicio sumario",
+  "short_title": "Litmas AI lanza su asociado agéntico para litigación",
+  "standfirst": "La startup de Florida, fundada en 2025 por un ex litigador y un ex director de producto de PayCargo, automatiza flujos completos de litigación.",
+  "vendor_source": true,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "Litmas AI, startup de IA para litigación con sede en Florida, anunció el 2 de noviembre su plataforma renovada, Litmas AI Agentic Associate, informó Legaltech News (Law.com). La empresa, fundada en 2025 por Jason Weber, antiguo litigador, fundador de Xander Law Group y ex director jurídico de PayCargo, y por Sriram Sekhar, ex director de gestión de producto de PayCargo, quiere automatizar los flujos de litigación desde la investigación del caso hasta la redacción de una motion for summary judgment (moción de juicio sumario).",
+  "summary_p2": "Es otro competidor en la carrera por el agente de litigación que encadena tareas, no solo responde preguntas, un terreno en el que ya están Harvey, Thomson Reuters y LexisNexis. Para los despachos de litigación de tamaño medio, estas startups ofrecen flujos cerrados a menor precio, pero hay que comprobar cómo verifican las citas y quién revisa cada paso antes de presentar un escrito. Matiz: la nota parte del anuncio de la empresa y está tras muro de pago; no hay datos de clientes, precio ni resultados.",
+  "why_sota": "Producto agéntico que cubre un flujo de litigación completo, de la investigación al escrito.",
+  "why_now": "Legaltech News (Law.com), 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "agentes de IA",
+    "litigación",
+    "redacción de escritos",
+    "startups"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/11/02/legal-tech-startup-litmas-ai-launches-updated-agentic-litigation-platform/",
+      "cited_title": "Legal Tech Startup Litmas AI Launches Updated Agentic Litigation Platform",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-litmas-ai",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

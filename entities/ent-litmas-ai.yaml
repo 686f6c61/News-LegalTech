@@ -1,0 +1,11 @@
+id: ent-litmas-ai
+name: Litmas AI
+type: vendor
+url: https://www.law.com/legaltechnews/2026/11/02/legal-tech-startup-litmas-ai-launches-updated-agentic-litigation-platform/
+geo:
+- US
+aliases:
+- Litmas
+notes: Startup de IA para litigación fundada en 2025 en Florida por Jason Weber y
+  Sriram Sekhar. Ficha mínima.
+stub: true

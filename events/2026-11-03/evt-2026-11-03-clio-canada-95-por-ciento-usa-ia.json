@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-03-clio-canada-95-por-ciento-usa-ia",
+  "date": "2026-11-02",
+  "type": "research",
+  "sota_score": 6.2,
+  "ai_legaltech": true,
+  "title": "El 95% de los profesionales jurídicos canadienses ya usa IA, según el informe de Clio, y el 66% dice que ha mejorado los ingresos de su despacho, pero solo el 47% en los pequeños",
+  "short_title": "Clio: el 95% de los juristas canadienses ya usa IA",
+  "standfirst": "El 74% dice que la IA le hace más probable quedarse en su despacho; la integración en los flujos de trabajo es la principal barrera.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Canadá",
+  "piece_type": "Informe",
+  "summary_p1": "Según el Legal Trends Report de Clio para despachos canadienses, recogido por Canadian Lawyer el 2 de noviembre, el 95% de los profesionales jurídicos de Canadá usa IA en su práctica y el 66% dice que ha mejorado los ingresos de su despacho: el 71% en despachos de 20 o más empleados y el 47% en los más pequeños. El 74% afirma que la IA le hace más probable quedarse en su despacho actual. El informe señala la integración en los flujos de trabajo como la principal barrera para sacar todo el rendimiento a la tecnología.",
+  "summary_p2": "La conclusión útil no es la adopción, ya casi total, sino la brecha: los despachos grandes definen dónde encaja la IA, la miden y la extienden, mientras los pequeños la usan de forma improvisada, abogado a abogado. Para los socios de despachos pequeños, el consejo práctico es elegir flujos concretos, como una primera versión de carta de reclamación o el triaje de entradas, y medir qué cambia; el dato de retención convierte además la inversión en IA en un argumento para captar y mantener talento. Matiz: es contenido patrocinado por Clio, con datos de su propio informe y recomendaciones que favorecen sus productos.",
+  "why_sota": "Dato de adopción y de impacto en ingresos de la IA en la abogacía canadiense, segmentado por tamaño de despacho.",
+  "why_now": "Canadian Lawyer, 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "adopción de IA",
+    "pequeño despacho",
+    "ingresos",
+    "retención de talento",
+    "Clio"
+  ],
+  "sources": [
+    {
+      "source_id": "src-canadian-lawyer",
+      "url": "https://www.canadianlawyermag.com/practice-areas/litigation/canadian-law-firms-are-using-ai-but-are-they-using-it-well/394838",
+      "cited_title": "Canadian law firms are using AI, but are they using it well?",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-clio",
+    "ent-canadian-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

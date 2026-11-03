@@ -1,0 +1,11 @@
+id: ent-scissero
+name: Scissero
+type: law_firm
+url: https://www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets/
+geo:
+- GB
+- US
+aliases: []
+notes: Despacho nativo de IA fundado por Mathias Strasser; compró el negocio de servicios
+  gestionados de Robin AI en diciembre de 2025. Ficha mínima.
+stub: true

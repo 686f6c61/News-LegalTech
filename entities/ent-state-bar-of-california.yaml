@@ -1,0 +1,11 @@
+id: ent-state-bar-of-california
+name: State Bar of California
+type: regulator
+url: https://www.calbar.ca.gov/
+geo:
+- US
+aliases:
+- Colegio de Abogados de California
+notes: Regulador de la abogacía en California; organiza su examen de acceso. Ficha
+  mínima.
+stub: true

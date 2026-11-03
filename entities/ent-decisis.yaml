@@ -1,0 +1,10 @@
+id: ent-decisis
+name: Decisis
+type: vendor
+url: https://www.decisis.com/
+geo:
+- US
+aliases: []
+notes: Servicio de investigación jurídica que se ofrece a los colegios de abogados
+  estatales. Ficha mínima.
+stub: true

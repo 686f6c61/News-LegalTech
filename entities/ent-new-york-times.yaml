@@ -1,0 +1,11 @@
+id: ent-new-york-times
+name: The New York Times Company
+type: media
+url: https://www.nytimes.com/
+geo:
+- US
+aliases:
+- The New York Times
+- NYT
+notes: Editora del diario The New York Times. Ficha mínima.
+stub: true

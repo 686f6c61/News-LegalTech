@@ -1,0 +1,43 @@
+{
+  "id": "evt-2026-11-03-corte-suprema-argentina-anonimizador-documentos-judiciales",
+  "date": "2026-11-03",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "La Corte Suprema argentina implanta un anonimizador de documentos judiciales que detecta más de 15 tipos de datos personales y los sustituye por marcadores como [Persona 1] antes de publicar o entregar resoluciones",
+  "short_title": "La Corte Suprema argentina estrena un anonimizador judicial",
+  "standfirst": "Lo ha desarrollado su Dirección de Sistemas con apoyo de la Red Internacional de Justicia Abierta; la revisión humana sigue siendo obligatoria.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Justicia digital",
+  "country": "Argentina",
+  "piece_type": "Producto",
+  "summary_p1": "La Corte Suprema de Justicia de la Nación ha implantado el Anonimizador de Documentos Judiciales, una plataforma para proteger los datos personales de fallos, informes y actuaciones antes de publicarlos o entregarlos a terceros, informó abogados.com.ar. Desarrollada por la Dirección de Sistemas de la Corte y disponible para los tribunales y dependencias del Poder Judicial de la Nación, procesa en esta primera etapa archivos .docx y .pdf, identifica automáticamente más de 15 categorías de datos (nombres, domicilios, DNI, CUIT y CUIL, matrículas, correos, teléfonos, cuentas bancarias, direcciones IP o datos de causas) y los reemplaza por marcadores como [Persona 1], [DNI 1] o [Lugar 1]. Los documentos se procesan en servidores seguros y se borran tras el tratamiento, y la revisión humana es obligatoria antes de descargar o difundir el resultado.",
+  "summary_p2": "Es la pieza que hace falta para publicar más jurisprudencia sin exponer a las partes, el mismo problema que Alemania quiere resolver con anonimización por IA en su reforma procesal. Para los editores jurídicos y las legaltech que reutilizan resoluciones argentinas, puede significar más volumen publicado y con un formato de seudonimización uniforme; para otros poderes judiciales, es un modelo de herramienta propia con control humano obligatorio. Matiz: la Corte habla de herramienta automatizada y no dice qué tecnología usa ni si emplea IA, y advierte de que la detección no es infalible.",
+  "why_sota": "Herramienta propia de un tribunal supremo para seudonimizar resoluciones a escala, con revisión humana obligatoria.",
+  "why_now": "abogados.com.ar, 3 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "AR"
+  ],
+  "topics": [
+    "anonimización",
+    "protección de datos",
+    "publicación de sentencias",
+    "justicia digital"
+  ],
+  "sources": [
+    {
+      "source_id": "src-abogados-com-ar",
+      "url": "https://abogados.com.ar/la-corte-implementa-un-anonimizador-judicial/40386",
+      "cited_title": "La Corte implementa un anonimizador judicial",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-csjn-argentina"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-cccs
+name: Canadian Centre for Cyber Security
+type: government
+url: https://www.cyber.gc.ca/
+geo:
+- CA
+aliases:
+- Centro Canadiense de Ciberseguridad
+notes: Autoridad federal canadiense de ciberseguridad. Ficha mínima.
+stub: true

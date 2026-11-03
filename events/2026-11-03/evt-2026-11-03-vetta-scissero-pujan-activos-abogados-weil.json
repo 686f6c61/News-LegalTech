@@ -1,0 +1,55 @@
+{
+  "id": "evt-2026-11-03-vetta-scissero-pujan-activos-abogados-weil",
+  "date": "2026-11-02",
+  "type": "market",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Otras dos firmas nativas de IA, Vetta y Scissero, pujan por los abogados, los precedentes y la tecnología de Weil, incluida su plataforma propia para operaciones, y se suman a Crosby",
+  "short_title": "Vetta y Scissero pujan por los abogados y la tecnología de Weil",
+  "standfirst": "Buscan los playbooks, precedentes y sistemas de gestión del conocimiento de Weil para entrenar su trabajo con IA, además de captar socios de capital riesgo y M&A.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Dos despachos nativos de IA, Vetta y Scissero, han dicho a Artificial Lawyer el 2 de noviembre que pujan por talento y activos de Weil, Gotshal & Manges, que se disuelve; Crosby ya había anunciado su interés. Vetta, fundado por Nic Vetta, ex Latham & Watkins, y centrado en capital riesgo, busca precedentes, playbooks (guías de actuación), sistemas de gestión del conocimiento y tecnología, y ofrece un modelo sin objetivos de horas facturables. Scissero, que compró el negocio de servicios gestionados de Robin AI en diciembre de 2025, ha presentado una manifestación de interés formal por tecnología, propiedad intelectual y datos de Weil, incluida su plataforma propia para operaciones transaccionales, y dice estar ya en conversaciones con varios abogados de Weil y con fondos dispuestos a financiar una práctica transaccional.",
+  "summary_p2": "La caída de Weil se ha convertido en una subasta del activo que más valoran las firmas de IA: el conocimiento acumulado de un gran despacho, más que su cartera de clientes. Para los despachos tradicionales es una señal de que sus precedentes y su gestión del conocimiento tienen precio de mercado y de que conviene ordenarlos y protegerlos; para los socios, aparece una salida hacia modelos sin pirámide de asociados. Matiz: según las fuentes de Artificial Lawyer, reutilizar esos precedentes solo es posible si no contienen información de clientes, algo que cada comprador tendrá que comprobar; no hay acuerdo cerrado y las declaraciones son de los propios pujadores.",
+  "why_sota": "Las firmas nativas de IA compiten por el conocimiento de un gran despacho en disolución como materia prima.",
+  "why_now": "Artificial Lawyer, 2 nov 2026. Ángulo nuevo frente a la pieza de Crosby del 31 oct. NEW frente a 09-29→11-02.",
+  "geo": [
+    "US",
+    "GB"
+  ],
+  "topics": [
+    "nuevos modelos de despacho",
+    "Weil",
+    "gestión del conocimiento",
+    "M&A legal",
+    "IA nativa"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/",
+      "cited_title": "AI-Native Firm Vetta Bids For Weil IP + Lawyers",
+      "accessed": "2026-11-03"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets/",
+      "cited_title": "Scissero Seeks Weil Gotshal Lawyers + Assets",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-vetta",
+    "ent-scissero",
+    "ent-weil",
+    "ent-crosby",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

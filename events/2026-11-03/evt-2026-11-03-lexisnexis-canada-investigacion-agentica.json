@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-03-lexisnexis-canada-investigacion-agentica",
+  "date": "2026-11-02",
+  "type": "guidance",
+  "sota_score": 6.4,
+  "ai_legaltech": true,
+  "title": "LexisNexis Canadá explica cómo encargar investigación jurídica a un agente de IA: un encargo bien definido, y el abogado sigue respondiendo del análisis",
+  "short_title": "LexisNexis Canadá explica la investigación jurídica con agentes",
+  "standfirst": "El agente persigue preguntas relacionadas y ajusta búsquedas; la empresa insiste en que una cita correcta no basta para que la investigación sea fiable.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación jurídica",
+  "country": "Canadá",
+  "piece_type": "Orientación",
+  "summary_p1": "LexisNexis Canadá describe en un blog, resumido por LegalTech.ca el 2 de noviembre, un flujo de investigación jurídica con IA agéntica: el sistema sigue un objetivo definido, persigue preguntas relacionadas, vuelve sobre las fuentes y ajusta las búsquedas a medida que aparece información, sin que el abogado tenga que iniciar cada paso. Para que no se desvíe, el encargo debe fijar jurisdicción, hechos, fechas, exclusiones y el entregable esperado. La empresa sitúa el mayor valor en asuntos con cuestiones interconectadas, no en encontrar una sentencia o un precepto concretos, e insiste en que la revisión debe mirar autoridad vinculante o persuasiva, tratamiento posterior, resoluciones contrarias y lagunas de cobertura.",
+  "summary_p2": "Es la forma en que los grandes editores jurídicos están vendiendo los agentes: menos coordinación manual y una base de investigación más elaborada, con la conclusión jurídica en manos del abogado. Para los despachos, el mensaje práctico es que el agente rinde según la calidad del encargo, así que conviene formar a los equipos en redactar instrucciones de investigación y en revisar lo que devuelve. Matiz: es contenido del propio proveedor, sin datos de rendimiento.",
+  "why_sota": "Guía de un gran editor jurídico sobre cómo delegar investigación en un agente y cómo revisarla.",
+  "why_now": "LegalTech.ca, 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "agentes de IA",
+    "investigación jurídica",
+    "verificación",
+    "LexisNexis"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/11/02/lexisnexis-outlines-how-agentic-ai-could-reshape-canadian-legal-research/",
+      "cited_title": "LexisNexis Outlines How Agentic AI Could Reshape Canadian Legal Research",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-lexisnexis",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

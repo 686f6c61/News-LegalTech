@@ -1,0 +1,11 @@
+id: ent-csjn-argentina
+name: Corte Suprema de Justicia de la Nación
+type: court
+url: https://www.csjn.gov.ar/
+geo:
+- AR
+aliases:
+- CSJN
+- Corte Suprema argentina
+notes: Máximo tribunal de Argentina. Ficha mínima.
+stub: true

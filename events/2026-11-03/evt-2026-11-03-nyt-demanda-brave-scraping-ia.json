@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-11-03-nyt-demanda-brave-scraping-ia",
+  "date": "2026-11-02",
+  "type": "litigation",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "The New York Times demanda al navegador Brave por copiar su contenido saltándose el muro de pago y venderlo a desarrolladores de IA como Anthropic, Perplexity, Mistral, xAI o Cohere",
+  "short_title": "The New York Times demanda a Brave por vender su contenido a la IA",
+  "standfirst": "La demanda, en el tribunal federal de Manhattan, pide una orden de cese e indemnización; Daily News, Chicago Tribune y Orlando Sentinel presentan otra parecida.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Propiedad intelectual",
+  "country": "Estados Unidos",
+  "piece_type": "Litigio",
+  "summary_p1": "The New York Times ha demandado a Brave, la empresa del navegador y el buscador del mismo nombre, ante el tribunal federal de Manhattan, informó TechCrunch el 2 de noviembre. Le acusa de copiar sus artículos mediante scraping (extracción automática de contenido web), incluso los que están tras el muro de pago gracias a una función que lo esquiva, y de distribuirlos a desarrolladores de IA como Anthropic, Perplexity, Mistral, xAI y Cohere a través de su índice de búsqueda, que según la demanda supera los 30.000 millones de páginas. Pide una orden que lo prohíba y una indemnización. The Daily News, Chicago Tribune y Orlando Sentinel han presentado una demanda similar en el mismo tribunal.",
+  "summary_p2": "El foco se desplaza de los creadores de modelos a los intermediarios que les venden el acceso a la web: la API (interfaz de programación) de un buscador puede ser la vía por la que el contenido protegido llega a la IA. Para los departamentos legales de editores, la demanda ofrece un esquema replicable contra proveedores de índices; para quien compra datos o búsquedas para entrenar o alimentar productos de IA, toca revisar en los contratos de dónde vienen los datos y quién responde si el proveedor se salta muros de pago. Matiz: son alegaciones de los demandantes; Brave no ha respondido en la nota y no hay resolución.",
+  "why_sota": "Primer gran litigio de prensa contra un buscador como proveedor de datos para IA, no contra un desarrollador de modelos.",
+  "why_now": "TechCrunch, 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "derechos de autor",
+    "scraping",
+    "datos de entrenamiento",
+    "medios",
+    "buscadores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-techcrunch",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "cited_title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-brave",
+    "ent-new-york-times",
+    "ent-anthropic",
+    "ent-xai",
+    "ent-cohere",
+    "ent-techcrunch"
+  ],
+  "lang": "es",
+  "status": "published"
+}

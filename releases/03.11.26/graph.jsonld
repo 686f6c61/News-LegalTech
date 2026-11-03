@@ -1,0 +1,797 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/03.11.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 03.11.26",
+      "schema:version": "03.11.26",
+      "schema:datePublished": "2026-11-03",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-11-03, 11 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/03.11.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-nyt-demanda-brave-scraping-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-vetta-scissero-pujan-activos-abogados-weil"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-nueva-jersey-chatbots-ia-responsabilidad-producto"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-maine-bar-deja-decisis-clio-library-clio-work"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-litmas-ai-asociado-agentico-litigacion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-lexisnexis-canada-investigacion-agentica"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-clio-canada-95-por-ciento-usa-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-corte-suprema-argentina-anonimizador-documentos-judiciales"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-despachos-canadienses-brechas-datos-phishing"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-cgpj-trienios-juezas-sustitutas-antiguedad"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-examen-abogacia-eeuu-caen-aprobados-california"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-nyt-demanda-brave-scraping-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-nyt-demanda-brave-scraping-ia",
+      "schema:headline": "The New York Times demanda al navegador Brave por copiar su contenido saltándose el muro de pago y venderlo a desarrolladores de IA como Anthropic, Perplexity, Mistral, xAI o Cohere",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "The New York Times ha demandado a Brave, la empresa del navegador y el buscador del mismo nombre, ante el tribunal federal de Manhattan, informó TechCrunch el 2 de noviembre. Le acusa de copiar sus artículos mediante scraping (extracción automática de contenido web), incluso los que están tras el muro de pago gracias a una función que lo esquiva, y de distribuirlos a desarrolladores de IA como Anthropic, Perplexity, Mistral, xAI y Cohere a través de su índice de búsqueda, que según la demanda supera los 30.000 millones de páginas. Pide una orden que lo prohíba y una indemnización. The Daily News, Chicago Tribune y Orlando Sentinel han presentado una demanda similar en el mismo tribunal.",
+      "schema:articleBody": "The New York Times ha demandado a Brave, la empresa del navegador y el buscador del mismo nombre, ante el tribunal federal de Manhattan, informó TechCrunch el 2 de noviembre. Le acusa de copiar sus artículos mediante scraping (extracción automática de contenido web), incluso los que están tras el muro de pago gracias a una función que lo esquiva, y de distribuirlos a desarrolladores de IA como Anthropic, Perplexity, Mistral, xAI y Cohere a través de su índice de búsqueda, que según la demanda supera los 30.000 millones de páginas. Pide una orden que lo prohíba y una indemnización. The Daily News, Chicago Tribune y Orlando Sentinel han presentado una demanda similar en el mismo tribunal.\n\nEl foco se desplaza de los creadores de modelos a los intermediarios que les venden el acceso a la web: la API (interfaz de programación) de un buscador puede ser la vía por la que el contenido protegido llega a la IA. Para los departamentos legales de editores, la demanda ofrece un esquema replicable contra proveedores de índices; para quien compra datos o búsquedas para entrenar o alimentar productos de IA, toca revisar en los contratos de dónde vienen los datos y quién responde si el proveedor se salta muros de pago. Matiz: son alegaciones de los demandantes; Brave no ha respondido en la nota y no hay resolución.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer gran litigio de prensa contra un buscador como proveedor de datos para IA, no contra un desarrollador de modelos.",
+      "sota:whyNow": "TechCrunch, 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "derechos de autor",
+        "scraping",
+        "datos de entrenamiento",
+        "medios",
+        "buscadores"
+      ],
+      "sota:summaryP1": "The New York Times ha demandado a Brave, la empresa del navegador y el buscador del mismo nombre, ante el tribunal federal de Manhattan, informó TechCrunch el 2 de noviembre. Le acusa de copiar sus artículos mediante scraping (extracción automática de contenido web), incluso los que están tras el muro de pago gracias a una función que lo esquiva, y de distribuirlos a desarrolladores de IA como Anthropic, Perplexity, Mistral, xAI y Cohere a través de su índice de búsqueda, que según la demanda supera los 30.000 millones de páginas. Pide una orden que lo prohíba y una indemnización. The Daily News, Chicago Tribune y Orlando Sentinel han presentado una demanda similar en el mismo tribunal.",
+      "sota:summaryP2": "El foco se desplaza de los creadores de modelos a los intermediarios que les venden el acceso a la web: la API (interfaz de programación) de un buscador puede ser la vía por la que el contenido protegido llega a la IA. Para los departamentos legales de editores, la demanda ofrece un esquema replicable contra proveedores de índices; para quien compra datos o búsquedas para entrenar o alimentar productos de IA, toca revisar en los contratos de dónde vienen los datos y quién responde si el proveedor se salta muros de pago. Matiz: son alegaciones de los demandantes; Brave no ha respondido en la nota y no hay resolución.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "schema:name": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+          "sota:sourceId": "src-techcrunch"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-brave"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-new-york-times"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-xai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cohere"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-techcrunch"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-vetta-scissero-pujan-activos-abogados-weil",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-vetta-scissero-pujan-activos-abogados-weil",
+      "schema:headline": "Otras dos firmas nativas de IA, Vetta y Scissero, pujan por los abogados, los precedentes y la tecnología de Weil, incluida su plataforma propia para operaciones, y se suman a Crosby",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Dos despachos nativos de IA, Vetta y Scissero, han dicho a Artificial Lawyer el 2 de noviembre que pujan por talento y activos de Weil, Gotshal & Manges, que se disuelve; Crosby ya había anunciado su interés. Vetta, fundado por Nic Vetta, ex Latham & Watkins, y centrado en capital riesgo, busca precedentes, playbooks (guías de actuación), sistemas de gestión del conocimiento y tecnología, y ofrece un modelo sin objetivos de horas facturables. Scissero, que compró el negocio de servicios gestionados de Robin AI en diciembre de 2025, ha presentado una manifestación de interés formal por tecnología, propiedad intelectual y datos de Weil, incluida su plataforma propia para operaciones transaccionales, y dice estar ya en conversaciones con varios abogados de Weil y con fondos dispuestos a financiar una práctica transaccional.",
+      "schema:articleBody": "Dos despachos nativos de IA, Vetta y Scissero, han dicho a Artificial Lawyer el 2 de noviembre que pujan por talento y activos de Weil, Gotshal & Manges, que se disuelve; Crosby ya había anunciado su interés. Vetta, fundado por Nic Vetta, ex Latham & Watkins, y centrado en capital riesgo, busca precedentes, playbooks (guías de actuación), sistemas de gestión del conocimiento y tecnología, y ofrece un modelo sin objetivos de horas facturables. Scissero, que compró el negocio de servicios gestionados de Robin AI en diciembre de 2025, ha presentado una manifestación de interés formal por tecnología, propiedad intelectual y datos de Weil, incluida su plataforma propia para operaciones transaccionales, y dice estar ya en conversaciones con varios abogados de Weil y con fondos dispuestos a financiar una práctica transaccional.\n\nLa caída de Weil se ha convertido en una subasta del activo que más valoran las firmas de IA: el conocimiento acumulado de un gran despacho, más que su cartera de clientes. Para los despachos tradicionales es una señal de que sus precedentes y su gestión del conocimiento tienen precio de mercado y de que conviene ordenarlos y protegerlos; para los socios, aparece una salida hacia modelos sin pirámide de asociados. Matiz: según las fuentes de Artificial Lawyer, reutilizar esos precedentes solo es posible si no contienen información de clientes, algo que cada comprador tendrá que comprobar; no hay acuerdo cerrado y las declaraciones son de los propios pujadores.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Las firmas nativas de IA compiten por el conocimiento de un gran despacho en disolución como materia prima.",
+      "sota:whyNow": "Artificial Lawyer, 2 nov 2026. Ángulo nuevo frente a la pieza de Crosby del 31 oct. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "US",
+        "GB"
+      ],
+      "sota:topics": [
+        "nuevos modelos de despacho",
+        "Weil",
+        "gestión del conocimiento",
+        "M&A legal",
+        "IA nativa"
+      ],
+      "sota:summaryP1": "Dos despachos nativos de IA, Vetta y Scissero, han dicho a Artificial Lawyer el 2 de noviembre que pujan por talento y activos de Weil, Gotshal & Manges, que se disuelve; Crosby ya había anunciado su interés. Vetta, fundado por Nic Vetta, ex Latham & Watkins, y centrado en capital riesgo, busca precedentes, playbooks (guías de actuación), sistemas de gestión del conocimiento y tecnología, y ofrece un modelo sin objetivos de horas facturables. Scissero, que compró el negocio de servicios gestionados de Robin AI en diciembre de 2025, ha presentado una manifestación de interés formal por tecnología, propiedad intelectual y datos de Weil, incluida su plataforma propia para operaciones transaccionales, y dice estar ya en conversaciones con varios abogados de Weil y con fondos dispuestos a financiar una práctica transaccional.",
+      "sota:summaryP2": "La caída de Weil se ha convertido en una subasta del activo que más valoran las firmas de IA: el conocimiento acumulado de un gran despacho, más que su cartera de clientes. Para los despachos tradicionales es una señal de que sus precedentes y su gestión del conocimiento tienen precio de mercado y de que conviene ordenarlos y protegerlos; para los socios, aparece una salida hacia modelos sin pirámide de asociados. Matiz: según las fuentes de Artificial Lawyer, reutilizar esos precedentes solo es posible si no contienen información de clientes, algo que cada comprador tendrá que comprobar; no hay acuerdo cerrado y las declaraciones son de los propios pujadores.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/",
+          "schema:name": "AI-Native Firm Vetta Bids For Weil IP + Lawyers",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets/",
+          "schema:name": "Scissero Seeks Weil Gotshal Lawyers + Assets",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vetta"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-scissero"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-weil"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-crosby"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-nueva-jersey-chatbots-ia-responsabilidad-producto",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-nueva-jersey-chatbots-ia-responsabilidad-producto",
+      "schema:headline": "Nueva Jersey tramita un proyecto de ley que permitiría demandar a los proveedores de chatbots de IA bajo la ley de responsabilidad por productos defectuosos, y los abogados defensores avisan de una avalancha de demandas",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Un proyecto de ley en Nueva Jersey permitiría a los ciudadanos demandar a los proveedores de chatbots de IA generativa con arreglo a la ley estatal de responsabilidad por productos defectuosos, informó el New Jersey Law Journal (Law.com) el 2 de noviembre. El texto avanzó con rapidez en una comisión de la Asamblea en octubre y establecería nuevas reglas de responsabilidad para las empresas que desarrollan y operan sistemas de IA generativa. Abogados defensores advierten de que podría abrir la puerta a una avalancha de reclamaciones, mientras un abogado de demandantes lo defiende como medida clave de protección del consumidor.",
+      "schema:articleBody": "Un proyecto de ley en Nueva Jersey permitiría a los ciudadanos demandar a los proveedores de chatbots de IA generativa con arreglo a la ley estatal de responsabilidad por productos defectuosos, informó el New Jersey Law Journal (Law.com) el 2 de noviembre. El texto avanzó con rapidez en una comisión de la Asamblea en octubre y establecería nuevas reglas de responsabilidad para las empresas que desarrollan y operan sistemas de IA generativa. Abogados defensores advierten de que podría abrir la puerta a una avalancha de reclamaciones, mientras un abogado de demandantes lo defiende como medida clave de protección del consumidor.\n\nTratar un chatbot como producto, y no como servicio o como discurso, cambia el litigio: abre la vía de la responsabilidad por defecto de diseño o de advertencia sin tener que probar negligencia. Para los proveedores de IA, incluidos los de IA jurídica con usuarios en Nueva Jersey, convendría revisar advertencias, registros de pruebas de seguridad y cláusulas de limitación de responsabilidad; para los despachos de litigación, es un frente nuevo en ambos lados. Matiz: el artículo está tras muro de pago y solo se ve el arranque; no consta el número del proyecto ni su calendario en el pleno, y aún no es ley.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Uno de los primeros intentos estatales de aplicar la responsabilidad por producto a los chatbots de IA.",
+      "sota:whyNow": "New Jersey Law Journal (Law.com), 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "responsabilidad por producto",
+        "chatbots",
+        "IA generativa",
+        "legislación estatal",
+        "consumo"
+      ],
+      "sota:summaryP1": "Un proyecto de ley en Nueva Jersey permitiría a los ciudadanos demandar a los proveedores de chatbots de IA generativa con arreglo a la ley estatal de responsabilidad por productos defectuosos, informó el New Jersey Law Journal (Law.com) el 2 de noviembre. El texto avanzó con rapidez en una comisión de la Asamblea en octubre y establecería nuevas reglas de responsabilidad para las empresas que desarrollan y operan sistemas de IA generativa. Abogados defensores advierten de que podría abrir la puerta a una avalancha de reclamaciones, mientras un abogado de demandantes lo defiende como medida clave de protección del consumidor.",
+      "sota:summaryP2": "Tratar un chatbot como producto, y no como servicio o como discurso, cambia el litigio: abre la vía de la responsabilidad por defecto de diseño o de advertencia sin tener que probar negligencia. Para los proveedores de IA, incluidos los de IA jurídica con usuarios en Nueva Jersey, convendría revisar advertencias, registros de pruebas de seguridad y cláusulas de limitación de responsabilidad; para los despachos de litigación, es un frente nuevo en ambos lados. Matiz: el artículo está tras muro de pago y solo se ve el arranque; no consta el número del proyecto ni su calendario en el pleno, y aún no es ley.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/njlawjournal/2026/11/02/njs-proposed-liability-for-ai-chatbots-may-open-the-floodgates-attorneys-say/",
+          "schema:name": "NJ's Proposed Liability for AI Chatbots May 'Open the Floodgates,' Attorneys Say",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-maine-bar-deja-decisis-clio-library-clio-work",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-maine-bar-deja-decisis-clio-library-clio-work",
+      "schema:headline": "El colegio de abogados de Maine deja Decisis por Clio Library, ahorra más de 50.000 dólares al año y dará a sus colegiados cuatro meses gratis de Clio Work, la IA de Clio",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Maine State Bar Association ha dejado el servicio de investigación jurídica Decisis y desde el 1 de octubre ofrece gratis a sus colegiados Clio Library, informó LawSites el 2 de noviembre. El colegio dice que el cambio le ahorra más de 50.000 dólares al año y le abre ingresos al margen de las cuotas. En noviembre añadirá como ventaja Clio Work, la plataforma de IA de Clio, gratis durante cuatro meses y después en versión limitada salvo suscripción. Según el recuento de LawSites, Clio Library tiene acuerdos con 36 colegios estatales, y Decisis, que había ganado Oregón en 2025, se queda en 14.",
+      "schema:articleBody": "La Maine State Bar Association ha dejado el servicio de investigación jurídica Decisis y desde el 1 de octubre ofrece gratis a sus colegiados Clio Library, informó LawSites el 2 de noviembre. El colegio dice que el cambio le ahorra más de 50.000 dólares al año y le abre ingresos al margen de las cuotas. En noviembre añadirá como ventaja Clio Work, la plataforma de IA de Clio, gratis durante cuatro meses y después en versión limitada salvo suscripción. Según el recuento de LawSites, Clio Library tiene acuerdos con 36 colegios estatales, y Decisis, que había ganado Oregón en 2025, se queda en 14.\n\nLos colegios de abogados se han convertido en un canal de distribución de la IA jurídica: quien gana el acuerdo de investigación coloca su asistente de IA ante miles de abogados de pequeño despacho. Para los proveedores, el precio de entrada es dar la base de investigación casi gratis y monetizar después la IA; para los colegios, el cálculo es de ahorro y de ingresos, no solo de calidad. Matiz: las cifras de ahorro son del propio colegio y el recuento de acuerdos es de LawSites.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Muestra cómo la IA de un proveedor de gestión de despachos llega a los abogados a través de los colegios.",
+      "sota:whyNow": "LawSites, 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "investigación jurídica",
+        "colegios de abogados",
+        "Clio",
+        "Decisis",
+        "pequeño despacho"
+      ],
+      "sota:summaryP1": "La Maine State Bar Association ha dejado el servicio de investigación jurídica Decisis y desde el 1 de octubre ofrece gratis a sus colegiados Clio Library, informó LawSites el 2 de noviembre. El colegio dice que el cambio le ahorra más de 50.000 dólares al año y le abre ingresos al margen de las cuotas. En noviembre añadirá como ventaja Clio Work, la plataforma de IA de Clio, gratis durante cuatro meses y después en versión limitada salvo suscripción. Según el recuento de LawSites, Clio Library tiene acuerdos con 36 colegios estatales, y Decisis, que había ganado Oregón en 2025, se queda en 14.",
+      "sota:summaryP2": "Los colegios de abogados se han convertido en un canal de distribución de la IA jurídica: quien gana el acuerdo de investigación coloca su asistente de IA ante miles de abogados de pequeño despacho. Para los proveedores, el precio de entrada es dar la base de investigación casi gratis y monetizar después la IA; para los colegios, el cálculo es de ahorro y de ingresos, no solo de calidad. Matiz: las cifras de ahorro son del propio colegio y el recuento de acuerdos es de LawSites.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/11/after-signing-on-with-upstart-legal-research-service-decisis-maine-bar-switches-to-clio-library.html",
+          "schema:name": "After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library",
+          "sota:sourceId": "src-lawnext"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-maine-state-bar"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-decisis"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawnext"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-litmas-ai-asociado-agentico-litigacion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-litmas-ai-asociado-agentico-litigacion",
+      "schema:headline": "Litmas AI relanza su plataforma de litigación como Agentic Associate, un asociado agéntico que va de la investigación del caso a la redacción de una moción de juicio sumario",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Litmas AI, startup de IA para litigación con sede en Florida, anunció el 2 de noviembre su plataforma renovada, Litmas AI Agentic Associate, informó Legaltech News (Law.com). La empresa, fundada en 2025 por Jason Weber, antiguo litigador, fundador de Xander Law Group y ex director jurídico de PayCargo, y por Sriram Sekhar, ex director de gestión de producto de PayCargo, quiere automatizar los flujos de litigación desde la investigación del caso hasta la redacción de una motion for summary judgment (moción de juicio sumario).",
+      "schema:articleBody": "Litmas AI, startup de IA para litigación con sede en Florida, anunció el 2 de noviembre su plataforma renovada, Litmas AI Agentic Associate, informó Legaltech News (Law.com). La empresa, fundada en 2025 por Jason Weber, antiguo litigador, fundador de Xander Law Group y ex director jurídico de PayCargo, y por Sriram Sekhar, ex director de gestión de producto de PayCargo, quiere automatizar los flujos de litigación desde la investigación del caso hasta la redacción de una motion for summary judgment (moción de juicio sumario).\n\nEs otro competidor en la carrera por el agente de litigación que encadena tareas, no solo responde preguntas, un terreno en el que ya están Harvey, Thomson Reuters y LexisNexis. Para los despachos de litigación de tamaño medio, estas startups ofrecen flujos cerrados a menor precio, pero hay que comprobar cómo verifican las citas y quién revisa cada paso antes de presentar un escrito. Matiz: la nota parte del anuncio de la empresa y está tras muro de pago; no hay datos de clientes, precio ni resultados.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Producto agéntico que cubre un flujo de litigación completo, de la investigación al escrito.",
+      "sota:whyNow": "Legaltech News (Law.com), 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "agentes de IA",
+        "litigación",
+        "redacción de escritos",
+        "startups"
+      ],
+      "sota:summaryP1": "Litmas AI, startup de IA para litigación con sede en Florida, anunció el 2 de noviembre su plataforma renovada, Litmas AI Agentic Associate, informó Legaltech News (Law.com). La empresa, fundada en 2025 por Jason Weber, antiguo litigador, fundador de Xander Law Group y ex director jurídico de PayCargo, y por Sriram Sekhar, ex director de gestión de producto de PayCargo, quiere automatizar los flujos de litigación desde la investigación del caso hasta la redacción de una motion for summary judgment (moción de juicio sumario).",
+      "sota:summaryP2": "Es otro competidor en la carrera por el agente de litigación que encadena tareas, no solo responde preguntas, un terreno en el que ya están Harvey, Thomson Reuters y LexisNexis. Para los despachos de litigación de tamaño medio, estas startups ofrecen flujos cerrados a menor precio, pero hay que comprobar cómo verifican las citas y quién revisa cada paso antes de presentar un escrito. Matiz: la nota parte del anuncio de la empresa y está tras muro de pago; no hay datos de clientes, precio ni resultados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/11/02/legal-tech-startup-litmas-ai-launches-updated-agentic-litigation-platform/",
+          "schema:name": "Legal Tech Startup Litmas AI Launches Updated Agentic Litigation Platform",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-litmas-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-lexisnexis-canada-investigacion-agentica",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-lexisnexis-canada-investigacion-agentica",
+      "schema:headline": "LexisNexis Canadá explica cómo encargar investigación jurídica a un agente de IA: un encargo bien definido, y el abogado sigue respondiendo del análisis",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LexisNexis Canadá describe en un blog, resumido por LegalTech.ca el 2 de noviembre, un flujo de investigación jurídica con IA agéntica: el sistema sigue un objetivo definido, persigue preguntas relacionadas, vuelve sobre las fuentes y ajusta las búsquedas a medida que aparece información, sin que el abogado tenga que iniciar cada paso. Para que no se desvíe, el encargo debe fijar jurisdicción, hechos, fechas, exclusiones y el entregable esperado. La empresa sitúa el mayor valor en asuntos con cuestiones interconectadas, no en encontrar una sentencia o un precepto concretos, e insiste en que la revisión debe mirar autoridad vinculante o persuasiva, tratamiento posterior, resoluciones contrarias y lagunas de cobertura.",
+      "schema:articleBody": "LexisNexis Canadá describe en un blog, resumido por LegalTech.ca el 2 de noviembre, un flujo de investigación jurídica con IA agéntica: el sistema sigue un objetivo definido, persigue preguntas relacionadas, vuelve sobre las fuentes y ajusta las búsquedas a medida que aparece información, sin que el abogado tenga que iniciar cada paso. Para que no se desvíe, el encargo debe fijar jurisdicción, hechos, fechas, exclusiones y el entregable esperado. La empresa sitúa el mayor valor en asuntos con cuestiones interconectadas, no en encontrar una sentencia o un precepto concretos, e insiste en que la revisión debe mirar autoridad vinculante o persuasiva, tratamiento posterior, resoluciones contrarias y lagunas de cobertura.\n\nEs la forma en que los grandes editores jurídicos están vendiendo los agentes: menos coordinación manual y una base de investigación más elaborada, con la conclusión jurídica en manos del abogado. Para los despachos, el mensaje práctico es que el agente rinde según la calidad del encargo, así que conviene formar a los equipos en redactar instrucciones de investigación y en revisar lo que devuelve. Matiz: es contenido del propio proveedor, sin datos de rendimiento.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 6.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Guía de un gran editor jurídico sobre cómo delegar investigación en un agente y cómo revisarla.",
+      "sota:whyNow": "LegalTech.ca, 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "agentes de IA",
+        "investigación jurídica",
+        "verificación",
+        "LexisNexis"
+      ],
+      "sota:summaryP1": "LexisNexis Canadá describe en un blog, resumido por LegalTech.ca el 2 de noviembre, un flujo de investigación jurídica con IA agéntica: el sistema sigue un objetivo definido, persigue preguntas relacionadas, vuelve sobre las fuentes y ajusta las búsquedas a medida que aparece información, sin que el abogado tenga que iniciar cada paso. Para que no se desvíe, el encargo debe fijar jurisdicción, hechos, fechas, exclusiones y el entregable esperado. La empresa sitúa el mayor valor en asuntos con cuestiones interconectadas, no en encontrar una sentencia o un precepto concretos, e insiste en que la revisión debe mirar autoridad vinculante o persuasiva, tratamiento posterior, resoluciones contrarias y lagunas de cobertura.",
+      "sota:summaryP2": "Es la forma en que los grandes editores jurídicos están vendiendo los agentes: menos coordinación manual y una base de investigación más elaborada, con la conclusión jurídica en manos del abogado. Para los despachos, el mensaje práctico es que el agente rinde según la calidad del encargo, así que conviene formar a los equipos en redactar instrucciones de investigación y en revisar lo que devuelve. Matiz: es contenido del propio proveedor, sin datos de rendimiento.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legaltech.ca/2026/11/02/lexisnexis-outlines-how-agentic-ai-could-reshape-canadian-legal-research/",
+          "schema:name": "LexisNexis Outlines How Agentic AI Could Reshape Canadian Legal Research",
+          "sota:sourceId": "src-legaltech-ca"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-ca"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-clio-canada-95-por-ciento-usa-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-clio-canada-95-por-ciento-usa-ia",
+      "schema:headline": "El 95% de los profesionales jurídicos canadienses ya usa IA, según el informe de Clio, y el 66% dice que ha mejorado los ingresos de su despacho, pero solo el 47% en los pequeños",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Según el Legal Trends Report de Clio para despachos canadienses, recogido por Canadian Lawyer el 2 de noviembre, el 95% de los profesionales jurídicos de Canadá usa IA en su práctica y el 66% dice que ha mejorado los ingresos de su despacho: el 71% en despachos de 20 o más empleados y el 47% en los más pequeños. El 74% afirma que la IA le hace más probable quedarse en su despacho actual. El informe señala la integración en los flujos de trabajo como la principal barrera para sacar todo el rendimiento a la tecnología.",
+      "schema:articleBody": "Según el Legal Trends Report de Clio para despachos canadienses, recogido por Canadian Lawyer el 2 de noviembre, el 95% de los profesionales jurídicos de Canadá usa IA en su práctica y el 66% dice que ha mejorado los ingresos de su despacho: el 71% en despachos de 20 o más empleados y el 47% en los más pequeños. El 74% afirma que la IA le hace más probable quedarse en su despacho actual. El informe señala la integración en los flujos de trabajo como la principal barrera para sacar todo el rendimiento a la tecnología.\n\nLa conclusión útil no es la adopción, ya casi total, sino la brecha: los despachos grandes definen dónde encaja la IA, la miden y la extienden, mientras los pequeños la usan de forma improvisada, abogado a abogado. Para los socios de despachos pequeños, el consejo práctico es elegir flujos concretos, como una primera versión de carta de reclamación o el triaje de entradas, y medir qué cambia; el dato de retención convierte además la inversión en IA en un argumento para captar y mantener talento. Matiz: es contenido patrocinado por Clio, con datos de su propio informe y recomendaciones que favorecen sus productos.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato de adopción y de impacto en ingresos de la IA en la abogacía canadiense, segmentado por tamaño de despacho.",
+      "sota:whyNow": "Canadian Lawyer, 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "adopción de IA",
+        "pequeño despacho",
+        "ingresos",
+        "retención de talento",
+        "Clio"
+      ],
+      "sota:summaryP1": "Según el Legal Trends Report de Clio para despachos canadienses, recogido por Canadian Lawyer el 2 de noviembre, el 95% de los profesionales jurídicos de Canadá usa IA en su práctica y el 66% dice que ha mejorado los ingresos de su despacho: el 71% en despachos de 20 o más empleados y el 47% en los más pequeños. El 74% afirma que la IA le hace más probable quedarse en su despacho actual. El informe señala la integración en los flujos de trabajo como la principal barrera para sacar todo el rendimiento a la tecnología.",
+      "sota:summaryP2": "La conclusión útil no es la adopción, ya casi total, sino la brecha: los despachos grandes definen dónde encaja la IA, la miden y la extienden, mientras los pequeños la usan de forma improvisada, abogado a abogado. Para los socios de despachos pequeños, el consejo práctico es elegir flujos concretos, como una primera versión de carta de reclamación o el triaje de entradas, y medir qué cambia; el dato de retención convierte además la inversión en IA en un argumento para captar y mantener talento. Matiz: es contenido patrocinado por Clio, con datos de su propio informe y recomendaciones que favorecen sus productos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.canadianlawyermag.com/practice-areas/litigation/canadian-law-firms-are-using-ai-but-are-they-using-it-well/394838",
+          "schema:name": "Canadian law firms are using AI, but are they using it well?",
+          "sota:sourceId": "src-canadian-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-corte-suprema-argentina-anonimizador-documentos-judiciales",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-corte-suprema-argentina-anonimizador-documentos-judiciales",
+      "schema:headline": "La Corte Suprema argentina implanta un anonimizador de documentos judiciales que detecta más de 15 tipos de datos personales y los sustituye por marcadores como [Persona 1] antes de publicar o entregar resoluciones",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Corte Suprema de Justicia de la Nación ha implantado el Anonimizador de Documentos Judiciales, una plataforma para proteger los datos personales de fallos, informes y actuaciones antes de publicarlos o entregarlos a terceros, informó abogados.com.ar. Desarrollada por la Dirección de Sistemas de la Corte y disponible para los tribunales y dependencias del Poder Judicial de la Nación, procesa en esta primera etapa archivos .docx y .pdf, identifica automáticamente más de 15 categorías de datos (nombres, domicilios, DNI, CUIT y CUIL, matrículas, correos, teléfonos, cuentas bancarias, direcciones IP o datos de causas) y los reemplaza por marcadores como [Persona 1], [DNI 1] o [Lugar 1]. Los documentos se procesan en servidores seguros y se borran tras el tratamiento, y la revisión humana es obligatoria antes de descargar o difundir el resultado.",
+      "schema:articleBody": "La Corte Suprema de Justicia de la Nación ha implantado el Anonimizador de Documentos Judiciales, una plataforma para proteger los datos personales de fallos, informes y actuaciones antes de publicarlos o entregarlos a terceros, informó abogados.com.ar. Desarrollada por la Dirección de Sistemas de la Corte y disponible para los tribunales y dependencias del Poder Judicial de la Nación, procesa en esta primera etapa archivos .docx y .pdf, identifica automáticamente más de 15 categorías de datos (nombres, domicilios, DNI, CUIT y CUIL, matrículas, correos, teléfonos, cuentas bancarias, direcciones IP o datos de causas) y los reemplaza por marcadores como [Persona 1], [DNI 1] o [Lugar 1]. Los documentos se procesan en servidores seguros y se borran tras el tratamiento, y la revisión humana es obligatoria antes de descargar o difundir el resultado.\n\nEs la pieza que hace falta para publicar más jurisprudencia sin exponer a las partes, el mismo problema que Alemania quiere resolver con anonimización por IA en su reforma procesal. Para los editores jurídicos y las legaltech que reutilizan resoluciones argentinas, puede significar más volumen publicado y con un formato de seudonimización uniforme; para otros poderes judiciales, es un modelo de herramienta propia con control humano obligatorio. Matiz: la Corte habla de herramienta automatizada y no dice qué tecnología usa ni si emplea IA, y advierte de que la detección no es infalible.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Herramienta propia de un tribunal supremo para seudonimizar resoluciones a escala, con revisión humana obligatoria.",
+      "sota:whyNow": "abogados.com.ar, 3 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "AR"
+      ],
+      "sota:topics": [
+        "anonimización",
+        "protección de datos",
+        "publicación de sentencias",
+        "justicia digital"
+      ],
+      "sota:summaryP1": "La Corte Suprema de Justicia de la Nación ha implantado el Anonimizador de Documentos Judiciales, una plataforma para proteger los datos personales de fallos, informes y actuaciones antes de publicarlos o entregarlos a terceros, informó abogados.com.ar. Desarrollada por la Dirección de Sistemas de la Corte y disponible para los tribunales y dependencias del Poder Judicial de la Nación, procesa en esta primera etapa archivos .docx y .pdf, identifica automáticamente más de 15 categorías de datos (nombres, domicilios, DNI, CUIT y CUIL, matrículas, correos, teléfonos, cuentas bancarias, direcciones IP o datos de causas) y los reemplaza por marcadores como [Persona 1], [DNI 1] o [Lugar 1]. Los documentos se procesan en servidores seguros y se borran tras el tratamiento, y la revisión humana es obligatoria antes de descargar o difundir el resultado.",
+      "sota:summaryP2": "Es la pieza que hace falta para publicar más jurisprudencia sin exponer a las partes, el mismo problema que Alemania quiere resolver con anonimización por IA en su reforma procesal. Para los editores jurídicos y las legaltech que reutilizan resoluciones argentinas, puede significar más volumen publicado y con un formato de seudonimización uniforme; para otros poderes judiciales, es un modelo de herramienta propia con control humano obligatorio. Matiz: la Corte habla de herramienta automatizada y no dice qué tecnología usa ni si emplea IA, y advierte de que la detección no es infalible.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abogados.com.ar/la-corte-implementa-un-anonimizador-judicial/40386",
+          "schema:name": "La Corte implementa un anonimizador judicial",
+          "sota:sourceId": "src-abogados-com-ar"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-csjn-argentina"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-despachos-canadienses-brechas-datos-phishing",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-despachos-canadienses-brechas-datos-phishing",
+      "schema:headline": "Cuatro grandes despachos canadienses, McCarthy Tétrault, Borden Ladner Gervais, Bennett Jones y Davies, notifican brechas de datos tras una campaña de phishing contra el sector legal y financiero",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "McCarthy Tétrault, Borden Ladner Gervais, Bennett Jones y Davies Ward Phillips & Vineberg han comunicado brechas de datos recientes, informó el ABA Journal el 2 de noviembre a partir de Law.com. Los despachos dicen que el daño está contenido, que avisan a los clientes afectados y que han contratado empresas de ciberseguridad para investigar y remediar. La semana anterior, el Canadian Centre for Cyber Security (Centro Canadiense de Ciberseguridad) alertó de una campaña de phishing (suplantación para robar credenciales) contra organizaciones jurídicas y financieras: los atacantes se hacen pasar por el soporte informático interno y dirigen a los empleados a páginas de acceso falsas.",
+      "schema:articleBody": "McCarthy Tétrault, Borden Ladner Gervais, Bennett Jones y Davies Ward Phillips & Vineberg han comunicado brechas de datos recientes, informó el ABA Journal el 2 de noviembre a partir de Law.com. Los despachos dicen que el daño está contenido, que avisan a los clientes afectados y que han contratado empresas de ciberseguridad para investigar y remediar. La semana anterior, el Canadian Centre for Cyber Security (Centro Canadiense de Ciberseguridad) alertó de una campaña de phishing (suplantación para robar credenciales) contra organizaciones jurídicas y financieras: los atacantes se hacen pasar por el soporte informático interno y dirigen a los empleados a páginas de acceso falsas.\n\nEs el mismo patrón que las brechas de despachos estadounidenses notificadas en California: el punto débil es la persona que recibe la llamada o el correo, no el sistema. Para los despachos, toca revisar los procedimientos de verificación de llamadas del supuesto soporte, la autenticación resistente al phishing y los protocolos para avisar a clientes; para los departamentos in-house, es momento de preguntar a sus despachos externos qué controles tienen. Matiz: los despachos no han detallado qué datos se vieron afectados ni si las cuatro brechas tienen el mismo origen.",
+      "sota:type": "other",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Cuatro despachos de primera línea afectados a la vez por una campaña dirigida al sector legal.",
+      "sota:whyNow": "ABA Journal, 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "CA"
+      ],
+      "sota:topics": [
+        "ciberseguridad",
+        "phishing",
+        "brechas de datos",
+        "despachos"
+      ],
+      "sota:summaryP1": "McCarthy Tétrault, Borden Ladner Gervais, Bennett Jones y Davies Ward Phillips & Vineberg han comunicado brechas de datos recientes, informó el ABA Journal el 2 de noviembre a partir de Law.com. Los despachos dicen que el daño está contenido, que avisan a los clientes afectados y que han contratado empresas de ciberseguridad para investigar y remediar. La semana anterior, el Canadian Centre for Cyber Security (Centro Canadiense de Ciberseguridad) alertó de una campaña de phishing (suplantación para robar credenciales) contra organizaciones jurídicas y financieras: los atacantes se hacen pasar por el soporte informático interno y dirigen a los empleados a páginas de acceso falsas.",
+      "sota:summaryP2": "Es el mismo patrón que las brechas de despachos estadounidenses notificadas en California: el punto débil es la persona que recibe la llamada o el correo, no el sistema. Para los despachos, toca revisar los procedimientos de verificación de llamadas del supuesto soporte, la autenticación resistente al phishing y los protocolos para avisar a clientes; para los departamentos in-house, es momento de preguntar a sus despachos externos qué controles tienen. Matiz: los despachos no han detallado qué datos se vieron afectados ni si las cuatro brechas tienen el mismo origen.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/news/article/canadian-law-firms-seeing-increased-cyber-attacks-and-data-breaches/",
+          "schema:name": "Canadian law firms seeing increased cyberattacks and data breaches",
+          "sota:sourceId": "src-aba-journal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cccs"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-cgpj-trienios-juezas-sustitutas-antiguedad",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-cgpj-trienios-juezas-sustitutas-antiguedad",
+      "schema:headline": "El CGPJ niega a las juezas sustitutas la antigüedad por todo el tiempo de nombramiento: para los trienios solo cuenta el servicio efectivo, por 19 votos a 2",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Pleno del Consejo General del Poder Judicial aprobó el 28 de octubre, por 19 votos a 2, no reconocer a las juezas sustitutas la antigüedad de todo el tiempo que permanecen nombradas: a efectos de trienios solo cuenta el servicio efectivo, informó Confilegal el 3 de noviembre. Con ese criterio, una sustituta nombrada tres años a la que llaman tres meses cada año tardaría doce en cumplir su primer trienio. Los vocales Carlos Hugo Preciado e Inés Herreros firmaron un voto particular que ve discriminación indirecta por razón de sexo: a 1 de enero de 2025 había 944 jueces sustitutos y magistrados suplentes, de los que 695 (73,6%) eran mujeres; se apoyan en jurisprudencia del TJUE sobre tiempo parcial y del Supremo sobre fijos discontinuos.",
+      "schema:articleBody": "El Pleno del Consejo General del Poder Judicial aprobó el 28 de octubre, por 19 votos a 2, no reconocer a las juezas sustitutas la antigüedad de todo el tiempo que permanecen nombradas: a efectos de trienios solo cuenta el servicio efectivo, informó Confilegal el 3 de noviembre. Con ese criterio, una sustituta nombrada tres años a la que llaman tres meses cada año tardaría doce en cumplir su primer trienio. Los vocales Carlos Hugo Preciado e Inés Herreros firmaron un voto particular que ve discriminación indirecta por razón de sexo: a 1 de enero de 2025 había 944 jueces sustitutos y magistrados suplentes, de los que 695 (73,6%) eran mujeres; se apoyan en jurisprudencia del TJUE sobre tiempo parcial y del Supremo sobre fijos discontinuos.\n\nLa resolución agota la vía administrativa y puede recurrirse ante la Sala Tercera del Tribunal Supremo en dos meses, así que el debate se traslada a los tribunales. Para los abogados laboralistas y de función pública, el voto particular ofrece un argumentario construido con la jurisprudencia de la UE sobre trabajo a tiempo parcial que puede servir en otros colectivos de interinos; para la Administración de Justicia, el coste de una eventual estimación afectaría a retribuciones y pensiones. Matiz: el relato de Confilegal incluye valoraciones del entorno de uno de los vocales disidentes.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Criterio del órgano de gobierno de los jueces con un voto particular que plantea discriminación indirecta.",
+      "sota:whyNow": "Confilegal, 3 nov 2026 (Pleno de 28 oct). NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "Poder Judicial",
+        "jueces sustitutos",
+        "antigüedad",
+        "igualdad",
+        "discriminación indirecta"
+      ],
+      "sota:summaryP1": "El Pleno del Consejo General del Poder Judicial aprobó el 28 de octubre, por 19 votos a 2, no reconocer a las juezas sustitutas la antigüedad de todo el tiempo que permanecen nombradas: a efectos de trienios solo cuenta el servicio efectivo, informó Confilegal el 3 de noviembre. Con ese criterio, una sustituta nombrada tres años a la que llaman tres meses cada año tardaría doce en cumplir su primer trienio. Los vocales Carlos Hugo Preciado e Inés Herreros firmaron un voto particular que ve discriminación indirecta por razón de sexo: a 1 de enero de 2025 había 944 jueces sustitutos y magistrados suplentes, de los que 695 (73,6%) eran mujeres; se apoyan en jurisprudencia del TJUE sobre tiempo parcial y del Supremo sobre fijos discontinuos.",
+      "sota:summaryP2": "La resolución agota la vía administrativa y puede recurrirse ante la Sala Tercera del Tribunal Supremo en dos meses, así que el debate se traslada a los tribunales. Para los abogados laboralistas y de función pública, el voto particular ofrece un argumentario construido con la jurisprudencia de la UE sobre trabajo a tiempo parcial que puede servir en otros colectivos de interinos; para la Administración de Justicia, el coste de una eventual estimación afectaría a retribuciones y pensiones. Matiz: el relato de Confilegal incluye valoraciones del entorno de uno de los vocales disidentes.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261103-cgpj-trienios-juezas-sustitutas-antiguedad/",
+          "schema:name": "Nombradas tres años, trienio a los doce: el CGPJ cierra la puerta a la antigüedad de las juezas sustitutas",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cgpj"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-03-examen-abogacia-eeuu-caen-aprobados-california",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-03-examen-abogacia-eeuu-caen-aprobados-california",
+      "schema:headline": "Caen los aprobados del examen de acceso a la abogacía en EE. UU.: California aprueba solo al 48,3% en julio, su peor dato de julio en cinco años, y Nueva York baja al 67%",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Los resultados del bar exam (examen de acceso a la abogacía) de julio muestran caídas generalizadas, recogió Above the Law el 2 de noviembre a partir de Reuters y Law.com. El State Bar of California aprobó al 48,3% de 7.942 aspirantes, frente al 54,8% del año anterior: el peor julio en cinco años y la primera vez desde 2018 que suspende la mayoría. Los que se presentaban por primera vez aprobaron en un 64,7%, cinco puntos menos. Nueva York aprobó al 67% de 9.936 aspirantes, frente al 70%, y también bajaron Texas y Florida. La nota media nacional del MBE (la parte tipo test común) bajó de 142,4 a 140,7, y 35 de las 42 jurisdicciones con datos de ambos veranos empeoraron.",
+      "schema:articleBody": "Los resultados del bar exam (examen de acceso a la abogacía) de julio muestran caídas generalizadas, recogió Above the Law el 2 de noviembre a partir de Reuters y Law.com. El State Bar of California aprobó al 48,3% de 7.942 aspirantes, frente al 54,8% del año anterior: el peor julio en cinco años y la primera vez desde 2018 que suspende la mayoría. Los que se presentaban por primera vez aprobaron en un 64,7%, cinco puntos menos. Nueva York aprobó al 67% de 9.936 aspirantes, frente al 70%, y también bajaron Texas y Florida. La nota media nacional del MBE (la parte tipo test común) bajó de 142,4 a 140,7, y 35 de las 42 jurisdicciones con datos de ambos veranos empeoraron.\n\nNo se puede culpar al nuevo NextGen UBE, que solo se estrenó en unas pocas jurisdicciones y en ninguna de las cuatro grandes. Para los despachos estadounidenses que contratan a recién graduados, supone más incorporaciones condicionadas a repetir el examen en febrero y retrasos en la colegiación. Matiz: según Reuters, algunos profesores especulan con que estudiar apoyándose en la IA o el aumento de adaptaciones en las facultades influyan, pero no hay datos que lo demuestren y un preparador recuerda que un solo año no permite sacar conclusiones.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Caída amplia y medible del acceso a la profesión en EE. UU., con la IA en el debate sobre las causas.",
+      "sota:whyNow": "Above the Law, 2 nov 2026. NEW frente a 09-29→11-02.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "examen de acceso",
+        "formación jurídica",
+        "California",
+        "Nueva York",
+        "acceso a la profesión"
+      ],
+      "sota:summaryP1": "Los resultados del bar exam (examen de acceso a la abogacía) de julio muestran caídas generalizadas, recogió Above the Law el 2 de noviembre a partir de Reuters y Law.com. El State Bar of California aprobó al 48,3% de 7.942 aspirantes, frente al 54,8% del año anterior: el peor julio en cinco años y la primera vez desde 2018 que suspende la mayoría. Los que se presentaban por primera vez aprobaron en un 64,7%, cinco puntos menos. Nueva York aprobó al 67% de 9.936 aspirantes, frente al 70%, y también bajaron Texas y Florida. La nota media nacional del MBE (la parte tipo test común) bajó de 142,4 a 140,7, y 35 de las 42 jurisdicciones con datos de ambos veranos empeoraron.",
+      "sota:summaryP2": "No se puede culpar al nuevo NextGen UBE, que solo se estrenó en unas pocas jurisdicciones y en ninguna de las cuatro grandes. Para los despachos estadounidenses que contratan a recién graduados, supone más incorporaciones condicionadas a repetir el examen en febrero y retrasos en la colegiación. Matiz: según Reuters, algunos profesores especulan con que estudiar apoyándose en la IA o el aumento de adaptaciones en las facultades influyan, pero no hay datos que lo demuestren y un preparador recuerda que un solo año no permite sacar conclusiones.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://abovethelaw.com/2026/11/bar-exam-pass-rates-tanked-this-summer-and-not-just-in-california/",
+          "schema:name": "Bar Exam Pass Rates Tanked This Summer, And Not Just In California",
+          "sota:sourceId": "src-above-the-law"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-state-bar-of-california"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aba-journal",
+      "schema:name": "ABA Journal",
+      "sota:entityType": "media",
+      "schema:url": "https://www.abajournal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-above-the-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-above-the-law",
+      "schema:name": "Above the Law",
+      "sota:entityType": "media",
+      "schema:url": "https://abovethelaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-brave",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-brave",
+      "schema:name": "Brave Software",
+      "sota:entityType": "vendor",
+      "schema:url": "https://brave.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-canadian-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-canadian-lawyer",
+      "schema:name": "Canadian Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.canadianlawyermag.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cccs",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cccs",
+      "schema:name": "Canadian Centre for Cyber Security",
+      "sota:entityType": "government",
+      "schema:url": "https://www.cyber.gc.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cgpj",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cgpj",
+      "schema:name": "Consejo General del Poder Judicial",
+      "sota:entityType": "government",
+      "schema:url": "https://www.poderjudicial.es/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clio",
+      "schema:name": "Clio",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.clio.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cohere",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cohere",
+      "schema:name": "Cohere",
+      "sota:entityType": "company",
+      "schema:url": "https://cohere.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-confilegal",
+      "schema:name": "Confilegal",
+      "sota:entityType": "media",
+      "schema:url": "https://confilegal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-crosby",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-crosby",
+      "schema:name": "Crosby",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://crosby.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-csjn-argentina",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-csjn-argentina",
+      "schema:name": "Corte Suprema de Justicia de la Nación",
+      "sota:entityType": "court",
+      "schema:url": "https://www.csjn.gov.ar/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-decisis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-decisis",
+      "schema:name": "Decisis",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.decisis.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-com",
+      "schema:name": "Law.com (Legaltech News)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.law.com/legaltechnews/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawnext",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawnext",
+      "schema:name": "LawNext",
+      "sota:entityType": "media",
+      "schema:url": "https://www.lawnext.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-ca",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legaltech-ca",
+      "schema:name": "LegalTech.ca",
+      "sota:entityType": "media",
+      "schema:url": "https://legaltech.ca/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lexisnexis",
+      "schema:name": "LexisNexis",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lexisnexis.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-litmas-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-litmas-ai",
+      "schema:name": "Litmas AI",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.law.com/legaltechnews/2026/11/02/legal-tech-startup-litmas-ai-launches-updated-agentic-litigation-platform/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-maine-state-bar",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-maine-state-bar",
+      "schema:name": "Maine State Bar Association",
+      "sota:entityType": "association",
+      "schema:url": "https://www.mainebar.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-new-york-times",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-new-york-times",
+      "schema:name": "The New York Times Company",
+      "sota:entityType": "media",
+      "schema:url": "https://www.nytimes.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-scissero",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-scissero",
+      "schema:name": "Scissero",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-state-bar-of-california",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-state-bar-of-california",
+      "schema:name": "State Bar of California",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.calbar.ca.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-techcrunch",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-techcrunch",
+      "schema:name": "TechCrunch",
+      "sota:entityType": "media",
+      "schema:url": "https://techcrunch.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-vetta",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-vetta",
+      "schema:name": "Vetta",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-weil",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-weil",
+      "schema:name": "Weil, Gotshal & Manges",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.weil.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-xai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-xai",
+      "schema:name": "xAI",
+      "sota:entityType": "company",
+      "schema:url": "https://x.ai/",
+      "sota:stub": true
+    }
+  ]
+}

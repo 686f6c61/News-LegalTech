@@ -1,0 +1,11 @@
+id: ent-vetta
+name: Vetta
+type: law_firm
+url: https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/
+geo:
+- US
+aliases:
+- Vetta Law
+notes: Despacho nativo de IA centrado en capital riesgo, fundado por Nic Vetta, ex
+  Latham & Watkins. Ficha mínima.
+stub: true

@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-03-despachos-canadienses-brechas-datos-phishing",
+  "date": "2026-11-02",
+  "type": "other",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "Cuatro grandes despachos canadienses, McCarthy Tétrault, Borden Ladner Gervais, Bennett Jones y Davies, notifican brechas de datos tras una campaña de phishing contra el sector legal y financiero",
+  "short_title": "Cuatro grandes despachos canadienses notifican brechas de datos",
+  "standfirst": "El Centro Canadiense de Ciberseguridad avisó de atacantes que se hacen pasar por el soporte informático interno y llevan a páginas de acceso falsas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Ciberseguridad",
+  "country": "Canadá",
+  "piece_type": "Incidente",
+  "summary_p1": "McCarthy Tétrault, Borden Ladner Gervais, Bennett Jones y Davies Ward Phillips & Vineberg han comunicado brechas de datos recientes, informó el ABA Journal el 2 de noviembre a partir de Law.com. Los despachos dicen que el daño está contenido, que avisan a los clientes afectados y que han contratado empresas de ciberseguridad para investigar y remediar. La semana anterior, el Canadian Centre for Cyber Security (Centro Canadiense de Ciberseguridad) alertó de una campaña de phishing (suplantación para robar credenciales) contra organizaciones jurídicas y financieras: los atacantes se hacen pasar por el soporte informático interno y dirigen a los empleados a páginas de acceso falsas.",
+  "summary_p2": "Es el mismo patrón que las brechas de despachos estadounidenses notificadas en California: el punto débil es la persona que recibe la llamada o el correo, no el sistema. Para los despachos, toca revisar los procedimientos de verificación de llamadas del supuesto soporte, la autenticación resistente al phishing y los protocolos para avisar a clientes; para los departamentos in-house, es momento de preguntar a sus despachos externos qué controles tienen. Matiz: los despachos no han detallado qué datos se vieron afectados ni si las cuatro brechas tienen el mismo origen.",
+  "why_sota": "Cuatro despachos de primera línea afectados a la vez por una campaña dirigida al sector legal.",
+  "why_now": "ABA Journal, 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "phishing",
+    "brechas de datos",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/canadian-law-firms-seeing-increased-cyber-attacks-and-data-breaches/",
+      "cited_title": "Canadian law firms seeing increased cyberattacks and data breaches",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-cccs",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+id: ent-brave
+name: Brave Software
+type: vendor
+url: https://brave.com/
+geo:
+- US
+aliases:
+- Brave
+notes: Empresa del navegador y el buscador Brave, con API de búsqueda para desarrolladores
+  de IA. Ficha mínima.
+stub: true

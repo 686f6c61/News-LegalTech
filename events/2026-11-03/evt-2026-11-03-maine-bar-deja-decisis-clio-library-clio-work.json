@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-03-maine-bar-deja-decisis-clio-library-clio-work",
+  "date": "2026-11-02",
+  "type": "market",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "El colegio de abogados de Maine deja Decisis por Clio Library, ahorra más de 50.000 dólares al año y dará a sus colegiados cuatro meses gratis de Clio Work, la IA de Clio",
+  "short_title": "Maine cambia Decisis por Clio Library y regala Clio Work",
+  "standfirst": "El cambio rige desde el 1 de octubre; Clio Library suma 36 colegios estatales y Decisis se queda en 14.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación jurídica",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "La Maine State Bar Association ha dejado el servicio de investigación jurídica Decisis y desde el 1 de octubre ofrece gratis a sus colegiados Clio Library, informó LawSites el 2 de noviembre. El colegio dice que el cambio le ahorra más de 50.000 dólares al año y le abre ingresos al margen de las cuotas. En noviembre añadirá como ventaja Clio Work, la plataforma de IA de Clio, gratis durante cuatro meses y después en versión limitada salvo suscripción. Según el recuento de LawSites, Clio Library tiene acuerdos con 36 colegios estatales, y Decisis, que había ganado Oregón en 2025, se queda en 14.",
+  "summary_p2": "Los colegios de abogados se han convertido en un canal de distribución de la IA jurídica: quien gana el acuerdo de investigación coloca su asistente de IA ante miles de abogados de pequeño despacho. Para los proveedores, el precio de entrada es dar la base de investigación casi gratis y monetizar después la IA; para los colegios, el cálculo es de ahorro y de ingresos, no solo de calidad. Matiz: las cifras de ahorro son del propio colegio y el recuento de acuerdos es de LawSites.",
+  "why_sota": "Muestra cómo la IA de un proveedor de gestión de despachos llega a los abogados a través de los colegios.",
+  "why_now": "LawSites, 2 nov 2026. NEW frente a 09-29→11-02.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "investigación jurídica",
+    "colegios de abogados",
+    "Clio",
+    "Decisis",
+    "pequeño despacho"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/11/after-signing-on-with-upstart-legal-research-service-decisis-maine-bar-switches-to-clio-library.html",
+      "cited_title": "After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library",
+      "accessed": "2026-11-03"
+    }
+  ],
+  "entities": [
+    "ent-maine-state-bar",
+    "ent-decisis",
+    "ent-clio",
+    "ent-lawnext"
+  ],
+  "lang": "es",
+  "status": "published"
+}
