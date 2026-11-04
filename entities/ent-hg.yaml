@@ -1,0 +1,12 @@
+id: ent-hg
+name: Hg
+type: company
+url: https://hgcapital.com/
+geo:
+- GB
+aliases:
+- Hg Capital
+- Hgcapital
+notes: Fondo de capital privado europeo especializado en software; propietario de
+  Litera. Ficha mínima.
+stub: true

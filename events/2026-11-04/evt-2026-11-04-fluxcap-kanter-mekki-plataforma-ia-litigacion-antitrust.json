@@ -1,0 +1,51 @@
+{
+  "id": "evt-2026-11-04-fluxcap-kanter-mekki-plataforma-ia-litigacion-antitrust",
+  "date": "2026-11-03",
+  "type": "product",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Jonathan Kanter y Doha Mekki, que dirigieron la división antitrust del Departamento de Justicia de EE. UU., lanzan FluxCap, una plataforma de IA para litigación compleja con 6,4 millones de dólares de financiación semilla",
+  "short_title": "Exresponsables antitrust de EE. UU. lanzan FluxCap, IA para litigar",
+  "standfirst": "Empieza por la competencia, se dirige a despachos de demandantes, departamentos legales y fiscalías estatales, y entre sus inversores está Burford Capital.",
+  "vendor_source": true,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Litigación",
+  "country": "Estados Unidos",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "Jonathan Kanter, exfiscal general adjunto para antitrust, y Doha Mekki, que dirigió la división en funciones, han presentado FluxCap, una plataforma de IA agéntica para litigación compleja, informó Legaltech News el 3 de noviembre; la empresa lo anunció el 28 de octubre. Tiene tres sistemas: Almanac, que organiza normas, precedentes y conocimiento de litigación; FluxFacts Engine, que conecta cada afirmación de hecho con la prueba que la sostiene, y un tercer sistema para desarrollar y poner a prueba la estrategia del caso. Cubre desde la investigación y el análisis de la prueba hasta la demanda, el discovery y la preparación de declaraciones. Ha levantado 6,4 millones de dólares de Y Combinator, Bloomberg Beta, Deep Work Capital, Coalition Operators, Burford Capital y Omidyar Network.",
+  "summary_p2": "Lo relevante es quién y para quién: exreguladores que construyen herramientas para que equipos pequeños de demandantes y fiscalías puedan con litigios de competencia contra rivales mucho mayores, con un financiador de litigios entre los socios. Para los despachos de defensa de grandes empresas, anticipa contrarios con más capacidad de análisis documental; para los departamentos legales, más demandas de competencia viables. Matiz: el artículo de Legaltech News está tras muro de pago y la descripción del producto procede sobre todo del comunicado de la empresa.",
+  "why_sota": "Exreguladores de competencia llevan la IA agéntica al lado demandante de la litigación compleja.",
+  "why_now": "Legaltech News, 3 nov 2026 (anuncio de 28 oct). NEW frente a 09-29→11-03.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "litigación",
+    "antitrust",
+    "IA agéntica",
+    "financiación de litigios",
+    "inversión"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/11/03/antitrust-leaders-dive-into-legal-tech-with-agentic-ai-litigation-platform-fluxcap/",
+      "cited_title": "Antitrust Leaders Dive Into Legal Tech With Agentic AI Litigation Platform FluxCap",
+      "accessed": "2026-11-04"
+    },
+    {
+      "source_id": "src-pr-newswire",
+      "url": "https://www.prnewswire.com/news-releases/former-justice-department-antitrust-leaders-and-leading-engineers-launch-fluxcap-a-deep-legal-tech-product-built-to-amplify-the-power-of-excellent-lawyers-302921624.html",
+      "cited_title": "Former Justice Department Antitrust Leaders and Leading Engineers Launch FluxCap",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-fluxcap",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

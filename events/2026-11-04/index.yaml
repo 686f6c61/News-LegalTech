@@ -1,0 +1,77 @@
+scan_id: full-radar-2026-11-04
+date: '2026-11-04'
+release: 04.11.26
+count: 10
+ai_share: 0.7
+dedup_against: events/2026-09-29 → 2026-11-03 + scans PASS
+event_ids:
+- evt-2026-11-04-tjue-ag-szpunar-like-company-gemini-editores-prensa
+- evt-2026-11-04-multas-abogados-jurisprudencia-falsa-ia-espana
+- evt-2026-11-04-hg-anthropic-invierten-consultora-transformacion-ia-europa
+- evt-2026-11-04-athena-despacho-inmobiliario-nativo-ia-ex-legora
+- evt-2026-11-04-fluxcap-kanter-mekki-plataforma-ia-litigacion-antitrust
+- evt-2026-11-04-manifest-law-inmigracion-nativa-ia-abre-londres
+- evt-2026-11-04-anthropic-flashprove-prueba-criptografica-modelo-ia
+- evt-2026-11-04-colin-birss-jura-master-of-the-rolls
+- evt-2026-11-04-sra-vigilancia-despachos-acumuladores
+- evt-2026-11-04-supremo-permiso-cinco-dias-operacion-familiar-baja
+events:
+- id: evt-2026-11-04-tjue-ag-szpunar-like-company-gemini-editores-prensa
+  sota_score: 8.8
+  ai_legaltech: true
+  title: 'El abogado general Szpunar, en el primer caso de IA generativa ante el TJUE:
+    un chatbot como Gemini puede contar los hechos de una noticia, pero reproducir
+    de forma reconocible el artículo puede vulnerar el derecho de los editores de
+    prensa'
+- id: evt-2026-11-04-multas-abogados-jurisprudencia-falsa-ia-espana
+  sota_score: 8.0
+  ai_legaltech: true
+  title: 'Multas de 420, 840 y 1.800 euros: los tribunales españoles ya sancionan
+    a abogados por presentar escritos con jurisprudencia inexistente, falseada o ajena
+    al caso'
+- id: evt-2026-11-04-hg-anthropic-invierten-consultora-transformacion-ia-europa
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Hg, el fondo dueño de Litera, y Anthropic invierten en una nueva empresa
+    independiente para llevar Claude a las organizaciones europeas con ingenieros
+    desplegados en el cliente
+- id: evt-2026-11-04-athena-despacho-inmobiliario-nativo-ia-ex-legora
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Dos ex de Legora lanzan Athena, un despacho afiliado nativo de IA para inmobiliario
+    comercial, con una ronda presemilla liderada por a16z speedrun
+- id: evt-2026-11-04-fluxcap-kanter-mekki-plataforma-ia-litigacion-antitrust
+  sota_score: 7.5
+  ai_legaltech: true
+  title: Jonathan Kanter y Doha Mekki, que dirigieron la división antitrust del Departamento
+    de Justicia de EE. UU., lanzan FluxCap, una plataforma de IA para litigación compleja
+    con 6,4 millones de dólares de financiación semilla
+- id: evt-2026-11-04-manifest-law-inmigracion-nativa-ia-abre-londres
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Manifest, el despacho de inmigración empresarial nativo de IA que opera como
+    ABS en Arizona, abre en Londres y se propone llegar a más de 100 jurisdicciones
+    y 40 oficinas en un año
+- id: evt-2026-11-04-anthropic-flashprove-prueba-criptografica-modelo-ia
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Anthropic publica FlashProve, un sistema de código abierto para demostrar
+    criptográficamente qué modelo de IA generó una respuesta, incluso frente al propio
+    laboratorio que lo opera
+- id: evt-2026-11-04-colin-birss-jura-master-of-the-rolls
+  sota_score: 6.8
+  ai_legaltech: false
+  title: Sir Colin Birss jura como Master of the Rolls, presidente de la Sala de lo
+    Civil del Tribunal de Apelación y jefe de la justicia civil de Inglaterra y Gales
+- id: evt-2026-11-04-sra-vigilancia-despachos-acumuladores
+  sota_score: 6.9
+  ai_legaltech: false
+  title: La SRA revisa cada mes a los despachos «acumuladores», los que han comprado
+    dos o más despachos en 24 meses, y mantiene una lista de vigilancia de firmas
+    de alto riesgo
+- id: evt-2026-11-04-supremo-permiso-cinco-dias-operacion-familiar-baja
+  sota_score: 6.6
+  ai_legaltech: false
+  title: El Supremo fija que el permiso de cinco días por la operación sin hospitalización
+    de un familiar se disfruta entero aunque el reposo prescrito sea menor, mientras
+    el familiar siga de baja

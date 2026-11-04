@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-04-anthropic-flashprove-prueba-criptografica-modelo-ia",
+  "date": "2026-11-03",
+  "type": "research",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Anthropic publica FlashProve, un sistema de código abierto para demostrar criptográficamente qué modelo de IA generó una respuesta, incluso frente al propio laboratorio que lo opera",
+  "short_title": "Anthropic publica FlashProve para probar qué modelo dio una respuesta",
+  "standfirst": "Requiere que los laboratorios publiquen una huella de cada modelo que no revela sus pesos; por ahora es investigación sin planes de despliegue.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Responsabilidad de la IA",
+  "country": "Estados Unidos",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "Anthropic trabaja en FlashProve, un sistema de código abierto de «inferencia demostrable»: una prueba criptográfica de que una respuesta concreta salió de un modelo concreto, informó TechCrunch el 3 de noviembre. Funcionaría como una firma electrónica del correo, y resistiría a impostores que hagan pasar un modelo por otro, incluido el laboratorio que lo opera, por ejemplo si cambiara en secreto a un modelo más barato. Exige que los laboratorios publiquen una huella de cada modelo que no revela sus pesos, de modo que serviría también con modelos cerrados, y la verificación podría hacerse en el dispositivo del usuario. Anthropic ha publicado la especificación técnica y código en GitHub con licencia abierta.",
+  "summary_p2": "Para el derecho, el interés está en la prueba: si un proveedor promete un modelo concreto en un contrato, o un tercero afirma que una auditoría o una revisión la hizo cierto modelo, algo así permitiría comprobarlo en lugar de confiar en la palabra. Para los departamentos legales que negocian contratos de IA y para los peritos informáticos, es una idea a seguir para cláusulas de verificación del modelo. Matiz: Anthropic dice que es un avance intermedio de investigación y que no hay planes de desplegarlo en Anthropic ni en ningún otro laboratorio.",
+  "why_sota": "Propuesta técnica para verificar qué modelo produjo un resultado, útil para contratos y prueba.",
+  "why_now": "TechCrunch, 3 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "verificación",
+    "criptografía",
+    "código abierto",
+    "contratos de IA",
+    "prueba"
+  ],
+  "sources": [
+    {
+      "source_id": "src-techcrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "cited_title": "Anthropic is working on a system to prove AI models’ identity",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-anthropic",
+    "ent-techcrunch"
+  ],
+  "lang": "es",
+  "status": "published"
+}

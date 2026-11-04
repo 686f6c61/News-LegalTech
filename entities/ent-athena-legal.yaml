@@ -1,0 +1,10 @@
+id: ent-athena-legal
+name: Athena
+type: law_firm
+url: https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/
+geo:
+- US
+aliases: []
+notes: Tecnológica de San Francisco con despacho afiliado nativo de IA para inmobiliario
+  comercial, fundada por Cem Ucan y Kieran John Keenan, ex Legora. Ficha mínima.
+stub: true

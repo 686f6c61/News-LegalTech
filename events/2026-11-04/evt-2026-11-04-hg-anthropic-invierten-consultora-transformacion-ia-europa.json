@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-04-hg-anthropic-invierten-consultora-transformacion-ia-europa",
+  "date": "2026-11-03",
+  "type": "funding",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Hg, el fondo dueño de Litera, y Anthropic invierten en una nueva empresa independiente para llevar Claude a las organizaciones europeas con ingenieros desplegados en el cliente",
+  "short_title": "Hg y Anthropic invierten en una consultora europea para usar Claude",
+  "standfirst": "La empresa se lanzará formalmente más adelante este año; no tiene aún nombre ni equipo directivo públicos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Europa",
+  "piece_type": "Inversión",
+  "summary_p1": "Hg, el fondo de capital privado con unos 110.000 millones de dólares bajo gestión y propietario de Litera, y Anthropic, junto con inversores particulares, invertirán en una nueva «empresa de transformación de IA», informó Artificial Lawyer el 3 de noviembre. Según el anuncio, será una entidad independiente que trabajará con organizaciones para pasar de los pilotos a un impacto operativo medible y para construir productos nativos de IA, sobre Claude y con ingenieros desplegados en el cliente, con foco en Europa y su mezcla de idiomas y regímenes regulatorios. Se lanzará formalmente más adelante este año.",
+  "summary_p2": "Para el sector legal, la noticia es la cercanía entre el dueño de una de las grandes plataformas de tecnología jurídica y un proveedor de modelos, que ya colaboraban en el incubador Catalyst de Hg. Para despachos y departamentos legales europeos, es una señal de que llegarán más ofertas de integración «llave en mano» con un modelo concreto, y conviene preguntar por dependencia del proveedor, ubicación de los datos y salida. Matiz: el anuncio no aclara la estructura, el nombre ni quién dirigirá la empresa, ni si Litera participará; según Artificial Lawyer, Hg no tiene por ahora participación en Anthropic.",
+  "why_sota": "Un fondo dueño de legaltech y un laboratorio de modelos se asocian para vender transformación con IA en Europa.",
+  "why_now": "Artificial Lawyer, 3 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "EU",
+    "GB"
+  ],
+  "topics": [
+    "inversión",
+    "Claude",
+    "consultoría de IA",
+    "capital privado",
+    "Europa"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/03/litera-owner-hg-anthropic-invest-in-ai-transformation-venture/",
+      "cited_title": "Litera Owner Hg + Anthropic Invest in ‘AI Transformation’ Venture",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-hg",
+    "ent-anthropic",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

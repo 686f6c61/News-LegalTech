@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-04-colin-birss-jura-master-of-the-rolls",
+  "date": "2026-11-03",
+  "type": "other",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "Sir Colin Birss jura como Master of the Rolls, presidente de la Sala de lo Civil del Tribunal de Apelación y jefe de la justicia civil de Inglaterra y Gales",
+  "short_title": "Sir Colin Birss jura como Master of the Rolls",
+  "standfirst": "La Lady Chief Justice destaca su experiencia técnica y digital; presidirá el comité de reglas procesales civiles y el Civil Justice Council.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Profesión",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "Sir Colin Birss juró el 2 de noviembre como nuevo Master of the Rolls ante la Lady Chief Justice en los Royal Courts of Justice, informó la judicatura de Inglaterra y Gales el 3 de noviembre. El cargo preside la Sala de lo Civil del Tribunal de Apelación, encabeza la justicia civil, supervisa a los jueces de unos 140 juzgados de condado y preside el Civil Procedure Rule Committee y el Civil Justice Council. La Lady Chief Justice subrayó su «experiencia técnica y digital»; Birss dijo que se apoyará en su etapa al frente de la división de Business and Property y en la contribución de Sir Geoffrey Vos.",
+  "summary_p2": "Aunque es un nombramiento, quien ocupa este puesto marca el ritmo de la digitalización y de las reglas sobre IA en la justicia civil inglesa: Birss ya había propuesto límites de páginas para litigantes sin abogado que usan IA. Para despachos con litigios en Londres y para los vendors de justicia digital, conviene seguir la agenda de los comités que ahora preside. Matiz: la nota oficial no anuncia medidas concretas.",
+  "why_sota": "Relevo al frente de la justicia civil inglesa, con un perfil técnico y digital.",
+  "why_now": "Courts and Tribunals Judiciary, 3 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "judicatura",
+    "justicia civil",
+    "Master of the Rolls",
+    "reglas procesales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-judiciary-uk",
+      "url": "https://www.judiciary.uk/new-master-of-the-rolls-sir-colin-birss-is-sworn-in/",
+      "cited_title": "New Master of the Rolls, Sir Colin Birss, is sworn in",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-colin-birss",
+    "ent-courts-tribunals-judiciary"
+  ],
+  "lang": "es",
+  "status": "published"
+}

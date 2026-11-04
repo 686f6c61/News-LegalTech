@@ -1,0 +1,53 @@
+{
+  "id": "evt-2026-11-04-athena-despacho-inmobiliario-nativo-ia-ex-legora",
+  "date": "2026-11-03",
+  "type": "funding",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Dos ex de Legora lanzan Athena, un despacho afiliado nativo de IA para inmobiliario comercial, con una ronda presemilla liderada por a16z speedrun",
+  "short_title": "Dos ex de Legora lanzan Athena, despacho inmobiliario nativo de IA",
+  "standfirst": "Sus agentes revisan contratos contra los términos del acuerdo y preparan redlines; abogados con experiencia deciden y aprueban, con honorarios fijos.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Inversión",
+  "summary_p1": "Cem Ucan y Kieran John Keenan, que trabajaron en Legora, han levantado una ronda presemilla liderada por a16z speedrun para Athena, informaron Artificial Lawyer y Legaltech News el 3 de noviembre. Athena es una tecnológica de San Francisco con un despacho afiliado que asesora en compraventas y financiación de inmobiliario comercial. Sus agentes de IA revisan cada contrato contra los términos del acuerdo, detectan incoherencias, preparan redlines y borradores de comunicaciones y aprenden las preferencias de negociación de cada cliente; abogados con experiencia toman las decisiones y aprueban todo, con alcance, calendario y honorario fijo pactados de antemano. Según la empresa, en sus primeras seis semanas redujo más de un 70% el tiempo de revisión de los abogados.",
+  "summary_p2": "Es otro ejemplo del modelo de tecnológica más despacho afiliado, la estructura que en EE. UU. permite a una empresa no controlada por abogados ofrecer servicios jurídicos a través de un despacho vinculado. Para los despachos inmobiliarios, la amenaza no es la herramienta, que ya tienen, sino el precio fijo y los plazos en horas; para los inversores en inmobiliario con muchas operaciones al año, es una alternativa que conviene comparar. Matiz: las cifras de eficiencia son de la propia empresa y las fuentes no coinciden en el importe: Artificial Lawyer habla de 2,4 millones de dólares y Legaltech News, citando Tech Funding News, de 2,5 millones.",
+  "why_sota": "Exingenieros de una plataforma de IA jurídica pasan a prestar el servicio jurídico ellos mismos.",
+  "why_now": "Artificial Lawyer y Legaltech News, 3 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "despachos nativos de IA",
+    "inmobiliario",
+    "honorarios fijos",
+    "agentes de IA",
+    "inversión"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
+      "cited_title": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
+      "accessed": "2026-11-04"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/11/03/hybrid-firm-athena-completes-25m-pre-seed-funding-round-/",
+      "cited_title": "Hybrid Firm Athena Completes $2.5M Pre-Seed Funding Round",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-athena-legal",
+    "ent-legora",
+    "ent-artificial-lawyer",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-04-manifest-law-inmigracion-nativa-ia-abre-londres",
+  "date": "2026-11-04",
+  "type": "market",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Manifest, el despacho de inmigración empresarial nativo de IA que opera como ABS en Arizona, abre en Londres y se propone llegar a más de 100 jurisdicciones y 40 oficinas en un año",
+  "short_title": "Manifest abre en Londres su práctica de inmigración nativa de IA",
+  "standfirst": "Ficha a Sophy King como presidenta de inmigración internacional; en Reino Unido prevé regularse ante la Immigration Advice Authority.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "Manifest OS, la empresa estadounidense que este año montó un despacho apoyado en su sistema de IA, ha nombrado a Sophy King presidenta de inmigración internacional para expandirse a más de 100 jurisdicciones y abrir 40 oficinas en el próximo año, con una en Londres, informó Legal Futures el 4 de noviembre. Su software funciona a través de Manifest Law, una ABS (estructura que permite a no abogados ser propietarios de un despacho) con licencia en Arizona. King, que no es abogada, explicó que en Reino Unido la actividad se regularía probablemente ante la Immigration Advice Authority y que contratará equipos de abogados y profesionales de inmigración. La empresa levantó 60 millones de dólares en una Serie A, dice atender a más de 500 clientes corporativos y prevé entrar el año que viene en otra área del derecho, sin decir cuál.",
+  "summary_p2": "Es la primera expansión internacional seria de un despacho nativo de IA en una práctica de gran volumen y muy documental, y lo hace aprovechando que en Reino Unido el asesoramiento de inmigración no exige ser ABS. Para los despachos de movilidad internacional, el competidor promete un único equipo y un único sistema en todos los países; para los departamentos de recursos humanos y legales, otra opción para programas de visados multinacionales. Matiz: las cifras de crecimiento, que la empresa sitúa en diez veces sus ingresos de este año, no están detalladas.",
+  "why_sota": "Un despacho nativo de IA nacido gracias a la liberalización de Arizona salta a Europa.",
+  "why_now": "Legal Futures, 4 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "GB",
+    "US"
+  ],
+  "topics": [
+    "despachos nativos de IA",
+    "inmigración",
+    "ABS",
+    "expansión internacional"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/ai-native-us-firm-opening-in-london-as-part-of-global-expansion",
+      "cited_title": "AI-native US firm opening in London as part of global expansion",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-manifest-law",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

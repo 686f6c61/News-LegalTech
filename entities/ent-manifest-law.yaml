@@ -1,0 +1,13 @@
+id: ent-manifest-law
+name: Manifest Law
+type: law_firm
+url: https://www.legalfutures.co.uk/latest-news/ai-native-us-firm-opening-in-london-as-part-of-global-expansion
+geo:
+- US
+- GB
+aliases:
+- Manifest OS
+- Manifest
+notes: Despacho de inmigración empresarial que funciona como ABS en Arizona sobre
+  el software de Manifest OS. Ficha mínima.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-fluxcap
+name: FluxCap
+type: vendor
+url: https://fluxcap.com/
+geo:
+- US
+aliases: []
+notes: Plataforma de IA para litigación compleja, empezando por antitrust, fundada
+  por Jonathan Kanter y Doha Mekki. Ficha mínima.
+stub: true

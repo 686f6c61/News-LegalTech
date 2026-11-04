@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-04-sra-vigilancia-despachos-acumuladores",
+  "date": "2026-11-04",
+  "type": "regulation",
+  "sota_score": 6.9,
+  "ai_legaltech": false,
+  "title": "La SRA revisa cada mes a los despachos «acumuladores», los que han comprado dos o más despachos en 24 meses, y mantiene una lista de vigilancia de firmas de alto riesgo",
+  "short_title": "La SRA vigila cada mes a los despachos que compran despachos",
+  "standfirst": "Su consejera delegada lo explica a la comisión de justicia de los Comunes tras el colapso de PM Law Group.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación profesional",
+  "country": "Reino Unido",
+  "piece_type": "Supervisión",
+  "summary_p1": "La Solicitors Regulation Authority hace revisiones mensuales de inteligencia y riesgo de los despachos «acumuladores», definidos ahora como los que han adquirido dos o más despachos en los últimos 24 meses, y su comité ejecutivo repasa cada quince días una lista de vigilancia de firmas de mayor riesgo, informó Legal Futures el 4 de noviembre. Lo explicó su consejera delegada, Sarah Rapson, a la comisión de justicia de los Comunes, que pidió explicaciones por el colapso de PM Law Group. Asigna a los despachos un riesgo alto, medio o bajo, ha formalizado los criterios de las inspecciones forenses y crea un proceso de escalado hasta el consejo.",
+  "summary_p2": "La SRA pasa de gestionar casos de uno en uno a un modelo de supervisión, con un piloto en el que participan despachos de reclamaciones masivas de consumidores, pero Rapson admite que aún no puede supervisar a todos los despachos de alto riesgo. Para los grupos que crecen comprando despachos, a menudo con capital externo, la integración y el dinero de clientes van a estar bajo examen; para los compradores, toca documentar bien esos controles antes de la siguiente adquisición. Matiz: la SRA sigue bajo tres medidas de la Legal Services Board por los casos Axiom Ince y SSB Law.",
+  "why_sota": "El regulador explica su método de vigilancia de los grupos de despachos tras varios colapsos.",
+  "why_now": "Legal Futures, 4 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "SRA",
+    "supervisión",
+    "consolidación",
+    "dinero de clientes",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/sra-keeping-close-eye-on-accumulator-law-firms",
+      "cited_title": "SRA “keeping close eye” on accumulator law firms",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-sra",
+    "ent-legal-services-board",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

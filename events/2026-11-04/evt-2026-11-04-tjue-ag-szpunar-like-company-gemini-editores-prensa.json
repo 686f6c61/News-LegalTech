@@ -1,0 +1,54 @@
+{
+  "id": "evt-2026-11-04-tjue-ag-szpunar-like-company-gemini-editores-prensa",
+  "date": "2026-11-03",
+  "type": "litigation",
+  "sota_score": 8.8,
+  "ai_legaltech": true,
+  "title": "El abogado general Szpunar, en el primer caso de IA generativa ante el TJUE: un chatbot como Gemini puede contar los hechos de una noticia, pero reproducir de forma reconocible el artículo puede vulnerar el derecho de los editores de prensa",
+  "short_title": "Szpunar: Gemini puede contar hechos, no reproducir artículos de prensa",
+  "standfirst": "Las conclusiones en el asunto C-250/25, Like Company contra Google, ven el entrenamiento cubierto como regla por la excepción de minería de textos y datos y ponen el foco en las respuestas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Propiedad intelectual",
+  "country": "Unión Europea",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El primer abogado general del Tribunal de Justicia de la UE, Maciej Szpunar, presentó el 3 de noviembre sus conclusiones en el asunto C-250/25, Like Company contra Google Ireland, el primer caso de IA generativa que llega al Tribunal. Like Company, que explota varios portales húngaros, sostiene que Gemini reprodujo y puso a disposición del público sus artículos entre junio de 2023 y mayo de 2024, e invoca el derecho de los editores de prensa del artículo 15 de la Directiva 2019/790. Szpunar propone declarar inadmisibles las dos preguntas sobre entrenamiento, porque no consta que se usaran esos artículos para entrenar y el entrenamiento no es un «uso en línea», aunque añade que entrenar un modelo está permitido, como regla, por la excepción de minería de textos y datos. Sobre las respuestas, cuando el chatbot recupera en tiempo real (RAG) un artículo y lo reutiliza, puede haber infracción si accedió eludiendo medidas técnicas, como un muro de pago, o si la respuesta reproduce de forma reconocible la expresión del artículo y sustituye su lectura.",
+  "summary_p2": "La línea que traza es útil para todos: los hechos son libres, la forma concreta de contarlos no, y la responsabilidad del proveedor aparece cuando la conducta es inherente a su modelo de negocio o no ha puesto medidas eficaces para evitarla. Para editores y sus asesores, el criterio desplaza la batalla del entrenamiento a las respuestas y a cómo se accede al contenido; para quien despliega asistentes con búsqueda web, también en despachos y departamentos legales, conviene revisar si las respuestas citan y resumen o si copian, y si respetan muros de pago. Matiz: las conclusiones no vinculan al Tribunal, que dictará sentencia más adelante.",
+  "why_sota": "Primera toma de posición en el TJUE sobre IA generativa y derechos afines de la prensa.",
+  "why_now": "TJUE (comunicado 155/26) y Confilegal, 3 y 4 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "EU",
+    "HU"
+  ],
+  "topics": [
+    "derechos de autor",
+    "editores de prensa",
+    "RAG",
+    "minería de textos y datos",
+    "TJUE"
+  ],
+  "sources": [
+    {
+      "source_id": "src-curia",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf",
+      "cited_title": "Opinion of the Advocate General Maciej Szpunar in Case C-250/25 Like Company (Press release No 155/26)",
+      "accessed": "2026-11-04"
+    },
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261104-tjue-ia-derechos-editores-prensa-google/",
+      "cited_title": "Google Gemini llega al TJUE: la IA puede contar los hechos, pero no reproducir los artículos de prensa",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-tjue",
+    "ent-like-company",
+    "ent-google",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

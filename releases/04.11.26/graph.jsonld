@@ -1,0 +1,688 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/04.11.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 04.11.26",
+      "schema:version": "04.11.26",
+      "schema:datePublished": "2026-11-04",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-11-04, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/04.11.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-tjue-ag-szpunar-like-company-gemini-editores-prensa"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-multas-abogados-jurisprudencia-falsa-ia-espana"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-hg-anthropic-invierten-consultora-transformacion-ia-europa"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-athena-despacho-inmobiliario-nativo-ia-ex-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-fluxcap-kanter-mekki-plataforma-ia-litigacion-antitrust"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-manifest-law-inmigracion-nativa-ia-abre-londres"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-anthropic-flashprove-prueba-criptografica-modelo-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-colin-birss-jura-master-of-the-rolls"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-sra-vigilancia-despachos-acumuladores"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-supremo-permiso-cinco-dias-operacion-familiar-baja"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-tjue-ag-szpunar-like-company-gemini-editores-prensa",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-tjue-ag-szpunar-like-company-gemini-editores-prensa",
+      "schema:headline": "El abogado general Szpunar, en el primer caso de IA generativa ante el TJUE: un chatbot como Gemini puede contar los hechos de una noticia, pero reproducir de forma reconocible el artículo puede vulnerar el derecho de los editores de prensa",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El primer abogado general del Tribunal de Justicia de la UE, Maciej Szpunar, presentó el 3 de noviembre sus conclusiones en el asunto C-250/25, Like Company contra Google Ireland, el primer caso de IA generativa que llega al Tribunal. Like Company, que explota varios portales húngaros, sostiene que Gemini reprodujo y puso a disposición del público sus artículos entre junio de 2023 y mayo de 2024, e invoca el derecho de los editores de prensa del artículo 15 de la Directiva 2019/790. Szpunar propone declarar inadmisibles las dos preguntas sobre entrenamiento, porque no consta que se usaran esos artículos para entrenar y el entrenamiento no es un «uso en línea», aunque añade que entrenar un modelo está permitido, como regla, por la excepción de minería de textos y datos. Sobre las respuestas, cuando el chatbot recupera en tiempo real (RAG) un artículo y lo reutiliza, puede haber infracción si accedió eludiendo medidas técnicas, como un muro de pago, o si la respuesta reproduce de forma reconocible la expresión del artículo y sustituye su lectura.",
+      "schema:articleBody": "El primer abogado general del Tribunal de Justicia de la UE, Maciej Szpunar, presentó el 3 de noviembre sus conclusiones en el asunto C-250/25, Like Company contra Google Ireland, el primer caso de IA generativa que llega al Tribunal. Like Company, que explota varios portales húngaros, sostiene que Gemini reprodujo y puso a disposición del público sus artículos entre junio de 2023 y mayo de 2024, e invoca el derecho de los editores de prensa del artículo 15 de la Directiva 2019/790. Szpunar propone declarar inadmisibles las dos preguntas sobre entrenamiento, porque no consta que se usaran esos artículos para entrenar y el entrenamiento no es un «uso en línea», aunque añade que entrenar un modelo está permitido, como regla, por la excepción de minería de textos y datos. Sobre las respuestas, cuando el chatbot recupera en tiempo real (RAG) un artículo y lo reutiliza, puede haber infracción si accedió eludiendo medidas técnicas, como un muro de pago, o si la respuesta reproduce de forma reconocible la expresión del artículo y sustituye su lectura.\n\nLa línea que traza es útil para todos: los hechos son libres, la forma concreta de contarlos no, y la responsabilidad del proveedor aparece cuando la conducta es inherente a su modelo de negocio o no ha puesto medidas eficaces para evitarla. Para editores y sus asesores, el criterio desplaza la batalla del entrenamiento a las respuestas y a cómo se accede al contenido; para quien despliega asistentes con búsqueda web, también en despachos y departamentos legales, conviene revisar si las respuestas citan y resumen o si copian, y si respetan muros de pago. Matiz: las conclusiones no vinculan al Tribunal, que dictará sentencia más adelante.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 8.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera toma de posición en el TJUE sobre IA generativa y derechos afines de la prensa.",
+      "sota:whyNow": "TJUE (comunicado 155/26) y Confilegal, 3 y 4 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "EU",
+        "HU"
+      ],
+      "sota:topics": [
+        "derechos de autor",
+        "editores de prensa",
+        "RAG",
+        "minería de textos y datos",
+        "TJUE"
+      ],
+      "sota:summaryP1": "El primer abogado general del Tribunal de Justicia de la UE, Maciej Szpunar, presentó el 3 de noviembre sus conclusiones en el asunto C-250/25, Like Company contra Google Ireland, el primer caso de IA generativa que llega al Tribunal. Like Company, que explota varios portales húngaros, sostiene que Gemini reprodujo y puso a disposición del público sus artículos entre junio de 2023 y mayo de 2024, e invoca el derecho de los editores de prensa del artículo 15 de la Directiva 2019/790. Szpunar propone declarar inadmisibles las dos preguntas sobre entrenamiento, porque no consta que se usaran esos artículos para entrenar y el entrenamiento no es un «uso en línea», aunque añade que entrenar un modelo está permitido, como regla, por la excepción de minería de textos y datos. Sobre las respuestas, cuando el chatbot recupera en tiempo real (RAG) un artículo y lo reutiliza, puede haber infracción si accedió eludiendo medidas técnicas, como un muro de pago, o si la respuesta reproduce de forma reconocible la expresión del artículo y sustituye su lectura.",
+      "sota:summaryP2": "La línea que traza es útil para todos: los hechos son libres, la forma concreta de contarlos no, y la responsabilidad del proveedor aparece cuando la conducta es inherente a su modelo de negocio o no ha puesto medidas eficaces para evitarla. Para editores y sus asesores, el criterio desplaza la batalla del entrenamiento a las respuestas y a cómo se accede al contenido; para quien despliega asistentes con búsqueda web, también en despachos y departamentos legales, conviene revisar si las respuestas citan y resumen o si copian, y si respetan muros de pago. Matiz: las conclusiones no vinculan al Tribunal, que dictará sentencia más adelante.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf",
+          "schema:name": "Opinion of the Advocate General Maciej Szpunar in Case C-250/25 Like Company (Press release No 155/26)",
+          "sota:sourceId": "src-curia"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261104-tjue-ia-derechos-editores-prensa-google/",
+          "schema:name": "Google Gemini llega al TJUE: la IA puede contar los hechos, pero no reproducir los artículos de prensa",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tjue"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-like-company"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-multas-abogados-jurisprudencia-falsa-ia-espana",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-multas-abogados-jurisprudencia-falsa-ia-espana",
+      "schema:headline": "Multas de 420, 840 y 1.800 euros: los tribunales españoles ya sancionan a abogados por presentar escritos con jurisprudencia inexistente, falseada o ajena al caso",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Confilegal reúne el 4 de noviembre las sanciones que ya han impuesto los tribunales españoles por citas jurisprudenciales que no existen. El Constitucional apercibió en septiembre de 2024 a un abogado que citó 19 sentencias irreales en una demanda de amparo, sin atribuirlo a la IA. La Sala de lo Penal del TSJ de Canarias multó con 420 euros, en febrero de 2026, a un letrado por 48 citas falsas, tras usar una IA generalista sin contrastarla, y con 840 euros, en julio, a otro con al menos 25 referencias incorrectas o falsas, aunque en ese caso no quedó acreditado el uso de IA. También en julio, la Sala de lo Social del TSJ de Galicia impuso 1.800 euros por 24 citas inventadas. La base es la buena fe procesal: el artículo 247 de la Ley de Enjuiciamiento Civil prevé multas de 180 a 6.000 euros y el 75.4 de la Ley de la Jurisdicción Social, de 600 a 6.000.",
+      "schema:articleBody": "Confilegal reúne el 4 de noviembre las sanciones que ya han impuesto los tribunales españoles por citas jurisprudenciales que no existen. El Constitucional apercibió en septiembre de 2024 a un abogado que citó 19 sentencias irreales en una demanda de amparo, sin atribuirlo a la IA. La Sala de lo Penal del TSJ de Canarias multó con 420 euros, en febrero de 2026, a un letrado por 48 citas falsas, tras usar una IA generalista sin contrastarla, y con 840 euros, en julio, a otro con al menos 25 referencias incorrectas o falsas, aunque en ese caso no quedó acreditado el uso de IA. También en julio, la Sala de lo Social del TSJ de Galicia impuso 1.800 euros por 24 citas inventadas. La base es la buena fe procesal: el artículo 247 de la Ley de Enjuiciamiento Civil prevé multas de 180 a 6.000 euros y el 75.4 de la Ley de la Jurisdicción Social, de 600 a 6.000.\n\nEl mensaje es que la herramienta no responde ante el tribunal ni ante el cliente; responde quien firma, y varios tribunales han remitido las resoluciones a los colegios para valorar medidas disciplinarias. Para los despachos, la consecuencia práctica es fijar por escrito que toda cita se verifica en el CENDOJ o en una base de datos jurídica antes de presentarla y dejar constancia de esa revisión; para los vendors de IA jurídica, el argumento comercial es la trazabilidad de cada cita a su fuente. Matiz: es un reportaje de recopilación con opiniones de un magistrado y del consejero delegado de Legalpin, no una resolución nueva.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer mapa de cuantías de las sanciones españolas por citas falsas, con su base legal.",
+      "sota:whyNow": "Confilegal, 4 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "alucinaciones",
+        "jurisprudencia falsa",
+        "buena fe procesal",
+        "sanciones",
+        "abogacía"
+      ],
+      "sota:summaryP1": "Confilegal reúne el 4 de noviembre las sanciones que ya han impuesto los tribunales españoles por citas jurisprudenciales que no existen. El Constitucional apercibió en septiembre de 2024 a un abogado que citó 19 sentencias irreales en una demanda de amparo, sin atribuirlo a la IA. La Sala de lo Penal del TSJ de Canarias multó con 420 euros, en febrero de 2026, a un letrado por 48 citas falsas, tras usar una IA generalista sin contrastarla, y con 840 euros, en julio, a otro con al menos 25 referencias incorrectas o falsas, aunque en ese caso no quedó acreditado el uso de IA. También en julio, la Sala de lo Social del TSJ de Galicia impuso 1.800 euros por 24 citas inventadas. La base es la buena fe procesal: el artículo 247 de la Ley de Enjuiciamiento Civil prevé multas de 180 a 6.000 euros y el 75.4 de la Ley de la Jurisdicción Social, de 600 a 6.000.",
+      "sota:summaryP2": "El mensaje es que la herramienta no responde ante el tribunal ni ante el cliente; responde quien firma, y varios tribunales han remitido las resoluciones a los colegios para valorar medidas disciplinarias. Para los despachos, la consecuencia práctica es fijar por escrito que toda cita se verifica en el CENDOJ o en una base de datos jurídica antes de presentarla y dejar constancia de esa revisión; para los vendors de IA jurídica, el argumento comercial es la trazabilidad de cada cita a su fuente. Matiz: es un reportaje de recopilación con opiniones de un magistrado y del consejero delegado de Legalpin, no una resolución nueva.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261104-la-ia-inventa-las-sentencias-pero-la-multa-la-paga-el-abogado-sanciones-de-hasta-1-800-euros-por-jurisprudencia-falsa/",
+          "schema:name": "La IA inventa las sentencias, pero la multa la paga el abogado: sanciones de hasta 1.800 euros por jurisprudencia falsa",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-hg-anthropic-invierten-consultora-transformacion-ia-europa",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-hg-anthropic-invierten-consultora-transformacion-ia-europa",
+      "schema:headline": "Hg, el fondo dueño de Litera, y Anthropic invierten en una nueva empresa independiente para llevar Claude a las organizaciones europeas con ingenieros desplegados en el cliente",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Hg, el fondo de capital privado con unos 110.000 millones de dólares bajo gestión y propietario de Litera, y Anthropic, junto con inversores particulares, invertirán en una nueva «empresa de transformación de IA», informó Artificial Lawyer el 3 de noviembre. Según el anuncio, será una entidad independiente que trabajará con organizaciones para pasar de los pilotos a un impacto operativo medible y para construir productos nativos de IA, sobre Claude y con ingenieros desplegados en el cliente, con foco en Europa y su mezcla de idiomas y regímenes regulatorios. Se lanzará formalmente más adelante este año.",
+      "schema:articleBody": "Hg, el fondo de capital privado con unos 110.000 millones de dólares bajo gestión y propietario de Litera, y Anthropic, junto con inversores particulares, invertirán en una nueva «empresa de transformación de IA», informó Artificial Lawyer el 3 de noviembre. Según el anuncio, será una entidad independiente que trabajará con organizaciones para pasar de los pilotos a un impacto operativo medible y para construir productos nativos de IA, sobre Claude y con ingenieros desplegados en el cliente, con foco en Europa y su mezcla de idiomas y regímenes regulatorios. Se lanzará formalmente más adelante este año.\n\nPara el sector legal, la noticia es la cercanía entre el dueño de una de las grandes plataformas de tecnología jurídica y un proveedor de modelos, que ya colaboraban en el incubador Catalyst de Hg. Para despachos y departamentos legales europeos, es una señal de que llegarán más ofertas de integración «llave en mano» con un modelo concreto, y conviene preguntar por dependencia del proveedor, ubicación de los datos y salida. Matiz: el anuncio no aclara la estructura, el nombre ni quién dirigirá la empresa, ni si Litera participará; según Artificial Lawyer, Hg no tiene por ahora participación en Anthropic.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un fondo dueño de legaltech y un laboratorio de modelos se asocian para vender transformación con IA en Europa.",
+      "sota:whyNow": "Artificial Lawyer, 3 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "EU",
+        "GB"
+      ],
+      "sota:topics": [
+        "inversión",
+        "Claude",
+        "consultoría de IA",
+        "capital privado",
+        "Europa"
+      ],
+      "sota:summaryP1": "Hg, el fondo de capital privado con unos 110.000 millones de dólares bajo gestión y propietario de Litera, y Anthropic, junto con inversores particulares, invertirán en una nueva «empresa de transformación de IA», informó Artificial Lawyer el 3 de noviembre. Según el anuncio, será una entidad independiente que trabajará con organizaciones para pasar de los pilotos a un impacto operativo medible y para construir productos nativos de IA, sobre Claude y con ingenieros desplegados en el cliente, con foco en Europa y su mezcla de idiomas y regímenes regulatorios. Se lanzará formalmente más adelante este año.",
+      "sota:summaryP2": "Para el sector legal, la noticia es la cercanía entre el dueño de una de las grandes plataformas de tecnología jurídica y un proveedor de modelos, que ya colaboraban en el incubador Catalyst de Hg. Para despachos y departamentos legales europeos, es una señal de que llegarán más ofertas de integración «llave en mano» con un modelo concreto, y conviene preguntar por dependencia del proveedor, ubicación de los datos y salida. Matiz: el anuncio no aclara la estructura, el nombre ni quién dirigirá la empresa, ni si Litera participará; según Artificial Lawyer, Hg no tiene por ahora participación en Anthropic.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/03/litera-owner-hg-anthropic-invest-in-ai-transformation-venture/",
+          "schema:name": "Litera Owner Hg + Anthropic Invest in ‘AI Transformation’ Venture",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hg"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-athena-despacho-inmobiliario-nativo-ia-ex-legora",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-athena-despacho-inmobiliario-nativo-ia-ex-legora",
+      "schema:headline": "Dos ex de Legora lanzan Athena, un despacho afiliado nativo de IA para inmobiliario comercial, con una ronda presemilla liderada por a16z speedrun",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Cem Ucan y Kieran John Keenan, que trabajaron en Legora, han levantado una ronda presemilla liderada por a16z speedrun para Athena, informaron Artificial Lawyer y Legaltech News el 3 de noviembre. Athena es una tecnológica de San Francisco con un despacho afiliado que asesora en compraventas y financiación de inmobiliario comercial. Sus agentes de IA revisan cada contrato contra los términos del acuerdo, detectan incoherencias, preparan redlines y borradores de comunicaciones y aprenden las preferencias de negociación de cada cliente; abogados con experiencia toman las decisiones y aprueban todo, con alcance, calendario y honorario fijo pactados de antemano. Según la empresa, en sus primeras seis semanas redujo más de un 70% el tiempo de revisión de los abogados.",
+      "schema:articleBody": "Cem Ucan y Kieran John Keenan, que trabajaron en Legora, han levantado una ronda presemilla liderada por a16z speedrun para Athena, informaron Artificial Lawyer y Legaltech News el 3 de noviembre. Athena es una tecnológica de San Francisco con un despacho afiliado que asesora en compraventas y financiación de inmobiliario comercial. Sus agentes de IA revisan cada contrato contra los términos del acuerdo, detectan incoherencias, preparan redlines y borradores de comunicaciones y aprenden las preferencias de negociación de cada cliente; abogados con experiencia toman las decisiones y aprueban todo, con alcance, calendario y honorario fijo pactados de antemano. Según la empresa, en sus primeras seis semanas redujo más de un 70% el tiempo de revisión de los abogados.\n\nEs otro ejemplo del modelo de tecnológica más despacho afiliado, la estructura que en EE. UU. permite a una empresa no controlada por abogados ofrecer servicios jurídicos a través de un despacho vinculado. Para los despachos inmobiliarios, la amenaza no es la herramienta, que ya tienen, sino el precio fijo y los plazos en horas; para los inversores en inmobiliario con muchas operaciones al año, es una alternativa que conviene comparar. Matiz: las cifras de eficiencia son de la propia empresa y las fuentes no coinciden en el importe: Artificial Lawyer habla de 2,4 millones de dólares y Legaltech News, citando Tech Funding News, de 2,5 millones.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Exingenieros de una plataforma de IA jurídica pasan a prestar el servicio jurídico ellos mismos.",
+      "sota:whyNow": "Artificial Lawyer y Legaltech News, 3 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "despachos nativos de IA",
+        "inmobiliario",
+        "honorarios fijos",
+        "agentes de IA",
+        "inversión"
+      ],
+      "sota:summaryP1": "Cem Ucan y Kieran John Keenan, que trabajaron en Legora, han levantado una ronda presemilla liderada por a16z speedrun para Athena, informaron Artificial Lawyer y Legaltech News el 3 de noviembre. Athena es una tecnológica de San Francisco con un despacho afiliado que asesora en compraventas y financiación de inmobiliario comercial. Sus agentes de IA revisan cada contrato contra los términos del acuerdo, detectan incoherencias, preparan redlines y borradores de comunicaciones y aprenden las preferencias de negociación de cada cliente; abogados con experiencia toman las decisiones y aprueban todo, con alcance, calendario y honorario fijo pactados de antemano. Según la empresa, en sus primeras seis semanas redujo más de un 70% el tiempo de revisión de los abogados.",
+      "sota:summaryP2": "Es otro ejemplo del modelo de tecnológica más despacho afiliado, la estructura que en EE. UU. permite a una empresa no controlada por abogados ofrecer servicios jurídicos a través de un despacho vinculado. Para los despachos inmobiliarios, la amenaza no es la herramienta, que ya tienen, sino el precio fijo y los plazos en horas; para los inversores en inmobiliario con muchas operaciones al año, es una alternativa que conviene comparar. Matiz: las cifras de eficiencia son de la propia empresa y las fuentes no coinciden en el importe: Artificial Lawyer habla de 2,4 millones de dólares y Legaltech News, citando Tech Funding News, de 2,5 millones.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
+          "schema:name": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/11/03/hybrid-firm-athena-completes-25m-pre-seed-funding-round-/",
+          "schema:name": "Hybrid Firm Athena Completes $2.5M Pre-Seed Funding Round",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-athena-legal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-fluxcap-kanter-mekki-plataforma-ia-litigacion-antitrust",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-fluxcap-kanter-mekki-plataforma-ia-litigacion-antitrust",
+      "schema:headline": "Jonathan Kanter y Doha Mekki, que dirigieron la división antitrust del Departamento de Justicia de EE. UU., lanzan FluxCap, una plataforma de IA para litigación compleja con 6,4 millones de dólares de financiación semilla",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Jonathan Kanter, exfiscal general adjunto para antitrust, y Doha Mekki, que dirigió la división en funciones, han presentado FluxCap, una plataforma de IA agéntica para litigación compleja, informó Legaltech News el 3 de noviembre; la empresa lo anunció el 28 de octubre. Tiene tres sistemas: Almanac, que organiza normas, precedentes y conocimiento de litigación; FluxFacts Engine, que conecta cada afirmación de hecho con la prueba que la sostiene, y un tercer sistema para desarrollar y poner a prueba la estrategia del caso. Cubre desde la investigación y el análisis de la prueba hasta la demanda, el discovery y la preparación de declaraciones. Ha levantado 6,4 millones de dólares de Y Combinator, Bloomberg Beta, Deep Work Capital, Coalition Operators, Burford Capital y Omidyar Network.",
+      "schema:articleBody": "Jonathan Kanter, exfiscal general adjunto para antitrust, y Doha Mekki, que dirigió la división en funciones, han presentado FluxCap, una plataforma de IA agéntica para litigación compleja, informó Legaltech News el 3 de noviembre; la empresa lo anunció el 28 de octubre. Tiene tres sistemas: Almanac, que organiza normas, precedentes y conocimiento de litigación; FluxFacts Engine, que conecta cada afirmación de hecho con la prueba que la sostiene, y un tercer sistema para desarrollar y poner a prueba la estrategia del caso. Cubre desde la investigación y el análisis de la prueba hasta la demanda, el discovery y la preparación de declaraciones. Ha levantado 6,4 millones de dólares de Y Combinator, Bloomberg Beta, Deep Work Capital, Coalition Operators, Burford Capital y Omidyar Network.\n\nLo relevante es quién y para quién: exreguladores que construyen herramientas para que equipos pequeños de demandantes y fiscalías puedan con litigios de competencia contra rivales mucho mayores, con un financiador de litigios entre los socios. Para los despachos de defensa de grandes empresas, anticipa contrarios con más capacidad de análisis documental; para los departamentos legales, más demandas de competencia viables. Matiz: el artículo de Legaltech News está tras muro de pago y la descripción del producto procede sobre todo del comunicado de la empresa.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Exreguladores de competencia llevan la IA agéntica al lado demandante de la litigación compleja.",
+      "sota:whyNow": "Legaltech News, 3 nov 2026 (anuncio de 28 oct). NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "litigación",
+        "antitrust",
+        "IA agéntica",
+        "financiación de litigios",
+        "inversión"
+      ],
+      "sota:summaryP1": "Jonathan Kanter, exfiscal general adjunto para antitrust, y Doha Mekki, que dirigió la división en funciones, han presentado FluxCap, una plataforma de IA agéntica para litigación compleja, informó Legaltech News el 3 de noviembre; la empresa lo anunció el 28 de octubre. Tiene tres sistemas: Almanac, que organiza normas, precedentes y conocimiento de litigación; FluxFacts Engine, que conecta cada afirmación de hecho con la prueba que la sostiene, y un tercer sistema para desarrollar y poner a prueba la estrategia del caso. Cubre desde la investigación y el análisis de la prueba hasta la demanda, el discovery y la preparación de declaraciones. Ha levantado 6,4 millones de dólares de Y Combinator, Bloomberg Beta, Deep Work Capital, Coalition Operators, Burford Capital y Omidyar Network.",
+      "sota:summaryP2": "Lo relevante es quién y para quién: exreguladores que construyen herramientas para que equipos pequeños de demandantes y fiscalías puedan con litigios de competencia contra rivales mucho mayores, con un financiador de litigios entre los socios. Para los despachos de defensa de grandes empresas, anticipa contrarios con más capacidad de análisis documental; para los departamentos legales, más demandas de competencia viables. Matiz: el artículo de Legaltech News está tras muro de pago y la descripción del producto procede sobre todo del comunicado de la empresa.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/11/03/antitrust-leaders-dive-into-legal-tech-with-agentic-ai-litigation-platform-fluxcap/",
+          "schema:name": "Antitrust Leaders Dive Into Legal Tech With Agentic AI Litigation Platform FluxCap",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.prnewswire.com/news-releases/former-justice-department-antitrust-leaders-and-leading-engineers-launch-fluxcap-a-deep-legal-tech-product-built-to-amplify-the-power-of-excellent-lawyers-302921624.html",
+          "schema:name": "Former Justice Department Antitrust Leaders and Leading Engineers Launch FluxCap",
+          "sota:sourceId": "src-pr-newswire"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-fluxcap"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-manifest-law-inmigracion-nativa-ia-abre-londres",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-manifest-law-inmigracion-nativa-ia-abre-londres",
+      "schema:headline": "Manifest, el despacho de inmigración empresarial nativo de IA que opera como ABS en Arizona, abre en Londres y se propone llegar a más de 100 jurisdicciones y 40 oficinas en un año",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Manifest OS, la empresa estadounidense que este año montó un despacho apoyado en su sistema de IA, ha nombrado a Sophy King presidenta de inmigración internacional para expandirse a más de 100 jurisdicciones y abrir 40 oficinas en el próximo año, con una en Londres, informó Legal Futures el 4 de noviembre. Su software funciona a través de Manifest Law, una ABS (estructura que permite a no abogados ser propietarios de un despacho) con licencia en Arizona. King, que no es abogada, explicó que en Reino Unido la actividad se regularía probablemente ante la Immigration Advice Authority y que contratará equipos de abogados y profesionales de inmigración. La empresa levantó 60 millones de dólares en una Serie A, dice atender a más de 500 clientes corporativos y prevé entrar el año que viene en otra área del derecho, sin decir cuál.",
+      "schema:articleBody": "Manifest OS, la empresa estadounidense que este año montó un despacho apoyado en su sistema de IA, ha nombrado a Sophy King presidenta de inmigración internacional para expandirse a más de 100 jurisdicciones y abrir 40 oficinas en el próximo año, con una en Londres, informó Legal Futures el 4 de noviembre. Su software funciona a través de Manifest Law, una ABS (estructura que permite a no abogados ser propietarios de un despacho) con licencia en Arizona. King, que no es abogada, explicó que en Reino Unido la actividad se regularía probablemente ante la Immigration Advice Authority y que contratará equipos de abogados y profesionales de inmigración. La empresa levantó 60 millones de dólares en una Serie A, dice atender a más de 500 clientes corporativos y prevé entrar el año que viene en otra área del derecho, sin decir cuál.\n\nEs la primera expansión internacional seria de un despacho nativo de IA en una práctica de gran volumen y muy documental, y lo hace aprovechando que en Reino Unido el asesoramiento de inmigración no exige ser ABS. Para los despachos de movilidad internacional, el competidor promete un único equipo y un único sistema en todos los países; para los departamentos de recursos humanos y legales, otra opción para programas de visados multinacionales. Matiz: las cifras de crecimiento, que la empresa sitúa en diez veces sus ingresos de este año, no están detalladas.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un despacho nativo de IA nacido gracias a la liberalización de Arizona salta a Europa.",
+      "sota:whyNow": "Legal Futures, 4 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "GB",
+        "US"
+      ],
+      "sota:topics": [
+        "despachos nativos de IA",
+        "inmigración",
+        "ABS",
+        "expansión internacional"
+      ],
+      "sota:summaryP1": "Manifest OS, la empresa estadounidense que este año montó un despacho apoyado en su sistema de IA, ha nombrado a Sophy King presidenta de inmigración internacional para expandirse a más de 100 jurisdicciones y abrir 40 oficinas en el próximo año, con una en Londres, informó Legal Futures el 4 de noviembre. Su software funciona a través de Manifest Law, una ABS (estructura que permite a no abogados ser propietarios de un despacho) con licencia en Arizona. King, que no es abogada, explicó que en Reino Unido la actividad se regularía probablemente ante la Immigration Advice Authority y que contratará equipos de abogados y profesionales de inmigración. La empresa levantó 60 millones de dólares en una Serie A, dice atender a más de 500 clientes corporativos y prevé entrar el año que viene en otra área del derecho, sin decir cuál.",
+      "sota:summaryP2": "Es la primera expansión internacional seria de un despacho nativo de IA en una práctica de gran volumen y muy documental, y lo hace aprovechando que en Reino Unido el asesoramiento de inmigración no exige ser ABS. Para los despachos de movilidad internacional, el competidor promete un único equipo y un único sistema en todos los países; para los departamentos de recursos humanos y legales, otra opción para programas de visados multinacionales. Matiz: las cifras de crecimiento, que la empresa sitúa en diez veces sus ingresos de este año, no están detalladas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/ai-native-us-firm-opening-in-london-as-part-of-global-expansion",
+          "schema:name": "AI-native US firm opening in London as part of global expansion",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-manifest-law"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-anthropic-flashprove-prueba-criptografica-modelo-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-anthropic-flashprove-prueba-criptografica-modelo-ia",
+      "schema:headline": "Anthropic publica FlashProve, un sistema de código abierto para demostrar criptográficamente qué modelo de IA generó una respuesta, incluso frente al propio laboratorio que lo opera",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Anthropic trabaja en FlashProve, un sistema de código abierto de «inferencia demostrable»: una prueba criptográfica de que una respuesta concreta salió de un modelo concreto, informó TechCrunch el 3 de noviembre. Funcionaría como una firma electrónica del correo, y resistiría a impostores que hagan pasar un modelo por otro, incluido el laboratorio que lo opera, por ejemplo si cambiara en secreto a un modelo más barato. Exige que los laboratorios publiquen una huella de cada modelo que no revela sus pesos, de modo que serviría también con modelos cerrados, y la verificación podría hacerse en el dispositivo del usuario. Anthropic ha publicado la especificación técnica y código en GitHub con licencia abierta.",
+      "schema:articleBody": "Anthropic trabaja en FlashProve, un sistema de código abierto de «inferencia demostrable»: una prueba criptográfica de que una respuesta concreta salió de un modelo concreto, informó TechCrunch el 3 de noviembre. Funcionaría como una firma electrónica del correo, y resistiría a impostores que hagan pasar un modelo por otro, incluido el laboratorio que lo opera, por ejemplo si cambiara en secreto a un modelo más barato. Exige que los laboratorios publiquen una huella de cada modelo que no revela sus pesos, de modo que serviría también con modelos cerrados, y la verificación podría hacerse en el dispositivo del usuario. Anthropic ha publicado la especificación técnica y código en GitHub con licencia abierta.\n\nPara el derecho, el interés está en la prueba: si un proveedor promete un modelo concreto en un contrato, o un tercero afirma que una auditoría o una revisión la hizo cierto modelo, algo así permitiría comprobarlo en lugar de confiar en la palabra. Para los departamentos legales que negocian contratos de IA y para los peritos informáticos, es una idea a seguir para cláusulas de verificación del modelo. Matiz: Anthropic dice que es un avance intermedio de investigación y que no hay planes de desplegarlo en Anthropic ni en ningún otro laboratorio.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Propuesta técnica para verificar qué modelo produjo un resultado, útil para contratos y prueba.",
+      "sota:whyNow": "TechCrunch, 3 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "verificación",
+        "criptografía",
+        "código abierto",
+        "contratos de IA",
+        "prueba"
+      ],
+      "sota:summaryP1": "Anthropic trabaja en FlashProve, un sistema de código abierto de «inferencia demostrable»: una prueba criptográfica de que una respuesta concreta salió de un modelo concreto, informó TechCrunch el 3 de noviembre. Funcionaría como una firma electrónica del correo, y resistiría a impostores que hagan pasar un modelo por otro, incluido el laboratorio que lo opera, por ejemplo si cambiara en secreto a un modelo más barato. Exige que los laboratorios publiquen una huella de cada modelo que no revela sus pesos, de modo que serviría también con modelos cerrados, y la verificación podría hacerse en el dispositivo del usuario. Anthropic ha publicado la especificación técnica y código en GitHub con licencia abierta.",
+      "sota:summaryP2": "Para el derecho, el interés está en la prueba: si un proveedor promete un modelo concreto en un contrato, o un tercero afirma que una auditoría o una revisión la hizo cierto modelo, algo así permitiría comprobarlo en lugar de confiar en la palabra. Para los departamentos legales que negocian contratos de IA y para los peritos informáticos, es una idea a seguir para cláusulas de verificación del modelo. Matiz: Anthropic dice que es un avance intermedio de investigación y que no hay planes de desplegarlo en Anthropic ni en ningún otro laboratorio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "schema:name": "Anthropic is working on a system to prove AI models’ identity",
+          "sota:sourceId": "src-techcrunch"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-techcrunch"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-colin-birss-jura-master-of-the-rolls",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-colin-birss-jura-master-of-the-rolls",
+      "schema:headline": "Sir Colin Birss jura como Master of the Rolls, presidente de la Sala de lo Civil del Tribunal de Apelación y jefe de la justicia civil de Inglaterra y Gales",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Sir Colin Birss juró el 2 de noviembre como nuevo Master of the Rolls ante la Lady Chief Justice en los Royal Courts of Justice, informó la judicatura de Inglaterra y Gales el 3 de noviembre. El cargo preside la Sala de lo Civil del Tribunal de Apelación, encabeza la justicia civil, supervisa a los jueces de unos 140 juzgados de condado y preside el Civil Procedure Rule Committee y el Civil Justice Council. La Lady Chief Justice subrayó su «experiencia técnica y digital»; Birss dijo que se apoyará en su etapa al frente de la división de Business and Property y en la contribución de Sir Geoffrey Vos.",
+      "schema:articleBody": "Sir Colin Birss juró el 2 de noviembre como nuevo Master of the Rolls ante la Lady Chief Justice en los Royal Courts of Justice, informó la judicatura de Inglaterra y Gales el 3 de noviembre. El cargo preside la Sala de lo Civil del Tribunal de Apelación, encabeza la justicia civil, supervisa a los jueces de unos 140 juzgados de condado y preside el Civil Procedure Rule Committee y el Civil Justice Council. La Lady Chief Justice subrayó su «experiencia técnica y digital»; Birss dijo que se apoyará en su etapa al frente de la división de Business and Property y en la contribución de Sir Geoffrey Vos.\n\nAunque es un nombramiento, quien ocupa este puesto marca el ritmo de la digitalización y de las reglas sobre IA en la justicia civil inglesa: Birss ya había propuesto límites de páginas para litigantes sin abogado que usan IA. Para despachos con litigios en Londres y para los vendors de justicia digital, conviene seguir la agenda de los comités que ahora preside. Matiz: la nota oficial no anuncia medidas concretas.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Relevo al frente de la justicia civil inglesa, con un perfil técnico y digital.",
+      "sota:whyNow": "Courts and Tribunals Judiciary, 3 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "judicatura",
+        "justicia civil",
+        "Master of the Rolls",
+        "reglas procesales"
+      ],
+      "sota:summaryP1": "Sir Colin Birss juró el 2 de noviembre como nuevo Master of the Rolls ante la Lady Chief Justice en los Royal Courts of Justice, informó la judicatura de Inglaterra y Gales el 3 de noviembre. El cargo preside la Sala de lo Civil del Tribunal de Apelación, encabeza la justicia civil, supervisa a los jueces de unos 140 juzgados de condado y preside el Civil Procedure Rule Committee y el Civil Justice Council. La Lady Chief Justice subrayó su «experiencia técnica y digital»; Birss dijo que se apoyará en su etapa al frente de la división de Business and Property y en la contribución de Sir Geoffrey Vos.",
+      "sota:summaryP2": "Aunque es un nombramiento, quien ocupa este puesto marca el ritmo de la digitalización y de las reglas sobre IA en la justicia civil inglesa: Birss ya había propuesto límites de páginas para litigantes sin abogado que usan IA. Para despachos con litigios en Londres y para los vendors de justicia digital, conviene seguir la agenda de los comités que ahora preside. Matiz: la nota oficial no anuncia medidas concretas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.judiciary.uk/new-master-of-the-rolls-sir-colin-birss-is-sworn-in/",
+          "schema:name": "New Master of the Rolls, Sir Colin Birss, is sworn in",
+          "sota:sourceId": "src-judiciary-uk"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-colin-birss"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-courts-tribunals-judiciary"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-sra-vigilancia-despachos-acumuladores",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-sra-vigilancia-despachos-acumuladores",
+      "schema:headline": "La SRA revisa cada mes a los despachos «acumuladores», los que han comprado dos o más despachos en 24 meses, y mantiene una lista de vigilancia de firmas de alto riesgo",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Solicitors Regulation Authority hace revisiones mensuales de inteligencia y riesgo de los despachos «acumuladores», definidos ahora como los que han adquirido dos o más despachos en los últimos 24 meses, y su comité ejecutivo repasa cada quince días una lista de vigilancia de firmas de mayor riesgo, informó Legal Futures el 4 de noviembre. Lo explicó su consejera delegada, Sarah Rapson, a la comisión de justicia de los Comunes, que pidió explicaciones por el colapso de PM Law Group. Asigna a los despachos un riesgo alto, medio o bajo, ha formalizado los criterios de las inspecciones forenses y crea un proceso de escalado hasta el consejo.",
+      "schema:articleBody": "La Solicitors Regulation Authority hace revisiones mensuales de inteligencia y riesgo de los despachos «acumuladores», definidos ahora como los que han adquirido dos o más despachos en los últimos 24 meses, y su comité ejecutivo repasa cada quince días una lista de vigilancia de firmas de mayor riesgo, informó Legal Futures el 4 de noviembre. Lo explicó su consejera delegada, Sarah Rapson, a la comisión de justicia de los Comunes, que pidió explicaciones por el colapso de PM Law Group. Asigna a los despachos un riesgo alto, medio o bajo, ha formalizado los criterios de las inspecciones forenses y crea un proceso de escalado hasta el consejo.\n\nLa SRA pasa de gestionar casos de uno en uno a un modelo de supervisión, con un piloto en el que participan despachos de reclamaciones masivas de consumidores, pero Rapson admite que aún no puede supervisar a todos los despachos de alto riesgo. Para los grupos que crecen comprando despachos, a menudo con capital externo, la integración y el dinero de clientes van a estar bajo examen; para los compradores, toca documentar bien esos controles antes de la siguiente adquisición. Matiz: la SRA sigue bajo tres medidas de la Legal Services Board por los casos Axiom Ince y SSB Law.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "El regulador explica su método de vigilancia de los grupos de despachos tras varios colapsos.",
+      "sota:whyNow": "Legal Futures, 4 nov 2026. NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "SRA",
+        "supervisión",
+        "consolidación",
+        "dinero de clientes",
+        "despachos"
+      ],
+      "sota:summaryP1": "La Solicitors Regulation Authority hace revisiones mensuales de inteligencia y riesgo de los despachos «acumuladores», definidos ahora como los que han adquirido dos o más despachos en los últimos 24 meses, y su comité ejecutivo repasa cada quince días una lista de vigilancia de firmas de mayor riesgo, informó Legal Futures el 4 de noviembre. Lo explicó su consejera delegada, Sarah Rapson, a la comisión de justicia de los Comunes, que pidió explicaciones por el colapso de PM Law Group. Asigna a los despachos un riesgo alto, medio o bajo, ha formalizado los criterios de las inspecciones forenses y crea un proceso de escalado hasta el consejo.",
+      "sota:summaryP2": "La SRA pasa de gestionar casos de uno en uno a un modelo de supervisión, con un piloto en el que participan despachos de reclamaciones masivas de consumidores, pero Rapson admite que aún no puede supervisar a todos los despachos de alto riesgo. Para los grupos que crecen comprando despachos, a menudo con capital externo, la integración y el dinero de clientes van a estar bajo examen; para los compradores, toca documentar bien esos controles antes de la siguiente adquisición. Matiz: la SRA sigue bajo tres medidas de la Legal Services Board por los casos Axiom Ince y SSB Law.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/sra-keeping-close-eye-on-accumulator-law-firms",
+          "schema:name": "SRA “keeping close eye” on accumulator law firms",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-services-board"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-supremo-permiso-cinco-dias-operacion-familiar-baja",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-04-supremo-permiso-cinco-dias-operacion-familiar-baja",
+      "schema:headline": "El Supremo fija que el permiso de cinco días por la operación sin hospitalización de un familiar se disfruta entero aunque el reposo prescrito sea menor, mientras el familiar siga de baja",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Sala de lo Social del Tribunal Supremo, en la sentencia 826/2026, de 9 de octubre, fija que el permiso retribuido de cinco días por intervención quirúrgica sin hospitalización de un familiar que precise reposo domiciliario puede disfrutarse completo aunque el médico prescriba menos días de reposo, pero solo mientras el familiar siga de baja médica, informó Confilegal el 4 de noviembre. Estima en parte el recurso de Unísono Soluciones de Negocio, empresa de telemarketing con unos 6.200 empleados, contra la sentencia de la Audiencia Nacional en un conflicto colectivo abierto por CGT. La Sala aplica su doctrina sobre hospitalización: lo que importa no es si el permiso es «de» o «de hasta» cinco días, sino que persista la causa. También rechaza que la empresa reduzca a tres días los acuerdos de Vigo y Gijón que permiten repartir el permiso en días alternos.",
+      "schema:articleBody": "La Sala de lo Social del Tribunal Supremo, en la sentencia 826/2026, de 9 de octubre, fija que el permiso retribuido de cinco días por intervención quirúrgica sin hospitalización de un familiar que precise reposo domiciliario puede disfrutarse completo aunque el médico prescriba menos días de reposo, pero solo mientras el familiar siga de baja médica, informó Confilegal el 4 de noviembre. Estima en parte el recurso de Unísono Soluciones de Negocio, empresa de telemarketing con unos 6.200 empleados, contra la sentencia de la Audiencia Nacional en un conflicto colectivo abierto por CGT. La Sala aplica su doctrina sobre hospitalización: lo que importa no es si el permiso es «de» o «de hasta» cinco días, sino que persista la causa. También rechaza que la empresa reduzca a tres días los acuerdos de Vigo y Gijón que permiten repartir el permiso en días alternos.\n\nNo hay giro, sino extensión de la doctrina de la hospitalización al reposo domiciliario, ambos en el artículo 37.3 b) del Estatuto de los Trabajadores, así que el criterio vale más allá del sector del contact center. Para los departamentos de recursos humanos y los laboralistas, la baja médica del familiar pasa a ser la referencia para justificar o denegar los días restantes; la Sala recuerda además que un cambio legal en la duración de un permiso no permite invocar la cláusula rebus sic stantibus. Matiz: el propio Supremo admite que, en un margen de cinco días, ese límite tendrá un alcance limitado.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Doctrina del Supremo sobre un permiso que se aplica en todos los sectores.",
+      "sota:whyNow": "Confilegal, 4 nov 2026 (STS 826/2026, de 9 oct). NEW frente a 09-29→11-03.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "permisos retribuidos",
+        "Estatuto de los Trabajadores",
+        "conflicto colectivo",
+        "Tribunal Supremo"
+      ],
+      "sota:summaryP1": "La Sala de lo Social del Tribunal Supremo, en la sentencia 826/2026, de 9 de octubre, fija que el permiso retribuido de cinco días por intervención quirúrgica sin hospitalización de un familiar que precise reposo domiciliario puede disfrutarse completo aunque el médico prescriba menos días de reposo, pero solo mientras el familiar siga de baja médica, informó Confilegal el 4 de noviembre. Estima en parte el recurso de Unísono Soluciones de Negocio, empresa de telemarketing con unos 6.200 empleados, contra la sentencia de la Audiencia Nacional en un conflicto colectivo abierto por CGT. La Sala aplica su doctrina sobre hospitalización: lo que importa no es si el permiso es «de» o «de hasta» cinco días, sino que persista la causa. También rechaza que la empresa reduzca a tres días los acuerdos de Vigo y Gijón que permiten repartir el permiso en días alternos.",
+      "sota:summaryP2": "No hay giro, sino extensión de la doctrina de la hospitalización al reposo domiciliario, ambos en el artículo 37.3 b) del Estatuto de los Trabajadores, así que el criterio vale más allá del sector del contact center. Para los departamentos de recursos humanos y los laboralistas, la baja médica del familiar pasa a ser la referencia para justificar o denegar los días restantes; la Sala recuerda además que un cambio legal en la duración de un permiso no permite invocar la cláusula rebus sic stantibus. Matiz: el propio Supremo admite que, en un margen de cinco días, ese límite tendrá un alcance limitado.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261104-supremo-permiso-cinco-dias-familiar-operado-baja-medica/",
+          "schema:name": "El Supremo blinda los cinco días de permiso por la operación de un familiar… mientras siga de baja",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-es"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-athena-legal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-athena-legal",
+      "schema:name": "Athena",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-colin-birss",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-colin-birss",
+      "schema:name": "Sir Colin Birss",
+      "sota:entityType": "other",
+      "schema:url": "https://www.judiciary.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-confilegal",
+      "schema:name": "Confilegal",
+      "sota:entityType": "media",
+      "schema:url": "https://confilegal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-courts-tribunals-judiciary",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-courts-tribunals-judiciary",
+      "schema:name": "Courts and Tribunals Judiciary (Inglaterra y Gales)",
+      "sota:entityType": "government",
+      "schema:url": "https://www.judiciary.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-fluxcap",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-fluxcap",
+      "schema:name": "FluxCap",
+      "sota:entityType": "vendor",
+      "schema:url": "https://fluxcap.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-google",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-google",
+      "schema:name": "Google",
+      "sota:entityType": "company",
+      "schema:url": "https://www.google.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hg",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-hg",
+      "schema:name": "Hg",
+      "sota:entityType": "company",
+      "schema:url": "https://hgcapital.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-com",
+      "schema:name": "Law.com (Legaltech News)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.law.com/legaltechnews/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-futures",
+      "schema:name": "Legal Futures",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalfutures.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-services-board",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-services-board",
+      "schema:name": "Legal Services Board",
+      "sota:entityType": "regulator",
+      "schema:url": "https://legalservicesboard.org.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-like-company",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-like-company",
+      "schema:name": "Like Company",
+      "sota:entityType": "media",
+      "schema:url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-manifest-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-manifest-law",
+      "schema:name": "Manifest Law",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.legalfutures.co.uk/latest-news/ai-native-us-firm-opening-in-london-as-part-of-global-expansion",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sra",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sra",
+      "schema:name": "Solicitors Regulation Authority",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.sra.org.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-techcrunch",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-techcrunch",
+      "schema:name": "TechCrunch",
+      "sota:entityType": "media",
+      "schema:url": "https://techcrunch.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tjue",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tjue",
+      "schema:name": "Tribunal de Justicia de la Unión Europea",
+      "sota:entityType": "government",
+      "schema:url": "https://curia.europa.eu/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tribunal-supremo-es",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tribunal-supremo-es",
+      "schema:name": "Tribunal Supremo (España)",
+      "sota:entityType": "other",
+      "schema:url": "https://www.poderjudicial.es/",
+      "sota:stub": true
+    }
+  ]
+}

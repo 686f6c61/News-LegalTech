@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-04-supremo-permiso-cinco-dias-operacion-familiar-baja",
+  "date": "2026-11-04",
+  "type": "case_law",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "El Supremo fija que el permiso de cinco días por la operación sin hospitalización de un familiar se disfruta entero aunque el reposo prescrito sea menor, mientras el familiar siga de baja",
+  "short_title": "El Supremo aclara el permiso de cinco días por operar a un familiar",
+  "standfirst": "La sentencia 826/2026 estima en parte el recurso de Unísono y añade el límite de la baja médica que la Audiencia Nacional había omitido.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Laboral",
+  "country": "España",
+  "piece_type": "Sentencia",
+  "summary_p1": "La Sala de lo Social del Tribunal Supremo, en la sentencia 826/2026, de 9 de octubre, fija que el permiso retribuido de cinco días por intervención quirúrgica sin hospitalización de un familiar que precise reposo domiciliario puede disfrutarse completo aunque el médico prescriba menos días de reposo, pero solo mientras el familiar siga de baja médica, informó Confilegal el 4 de noviembre. Estima en parte el recurso de Unísono Soluciones de Negocio, empresa de telemarketing con unos 6.200 empleados, contra la sentencia de la Audiencia Nacional en un conflicto colectivo abierto por CGT. La Sala aplica su doctrina sobre hospitalización: lo que importa no es si el permiso es «de» o «de hasta» cinco días, sino que persista la causa. También rechaza que la empresa reduzca a tres días los acuerdos de Vigo y Gijón que permiten repartir el permiso en días alternos.",
+  "summary_p2": "No hay giro, sino extensión de la doctrina de la hospitalización al reposo domiciliario, ambos en el artículo 37.3 b) del Estatuto de los Trabajadores, así que el criterio vale más allá del sector del contact center. Para los departamentos de recursos humanos y los laboralistas, la baja médica del familiar pasa a ser la referencia para justificar o denegar los días restantes; la Sala recuerda además que un cambio legal en la duración de un permiso no permite invocar la cláusula rebus sic stantibus. Matiz: el propio Supremo admite que, en un margen de cinco días, ese límite tendrá un alcance limitado.",
+  "why_sota": "Doctrina del Supremo sobre un permiso que se aplica en todos los sectores.",
+  "why_now": "Confilegal, 4 nov 2026 (STS 826/2026, de 9 oct). NEW frente a 09-29→11-03.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "permisos retribuidos",
+    "Estatuto de los Trabajadores",
+    "conflicto colectivo",
+    "Tribunal Supremo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261104-supremo-permiso-cinco-dias-familiar-operado-baja-medica/",
+      "cited_title": "El Supremo blinda los cinco días de permiso por la operación de un familiar… mientras siga de baja",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-tribunal-supremo-es",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

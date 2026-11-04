@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-04-multas-abogados-jurisprudencia-falsa-ia-espana",
+  "date": "2026-11-04",
+  "type": "case_law",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Multas de 420, 840 y 1.800 euros: los tribunales españoles ya sancionan a abogados por presentar escritos con jurisprudencia inexistente, falseada o ajena al caso",
+  "short_title": "Multas de hasta 1.800 euros a abogados por jurisprudencia falsa",
+  "standfirst": "Confilegal repasa los casos del Constitucional, del TSJ de Canarias y del TSJ de Galicia y recuerda la base: la buena fe procesal.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "España",
+  "piece_type": "Análisis",
+  "summary_p1": "Confilegal reúne el 4 de noviembre las sanciones que ya han impuesto los tribunales españoles por citas jurisprudenciales que no existen. El Constitucional apercibió en septiembre de 2024 a un abogado que citó 19 sentencias irreales en una demanda de amparo, sin atribuirlo a la IA. La Sala de lo Penal del TSJ de Canarias multó con 420 euros, en febrero de 2026, a un letrado por 48 citas falsas, tras usar una IA generalista sin contrastarla, y con 840 euros, en julio, a otro con al menos 25 referencias incorrectas o falsas, aunque en ese caso no quedó acreditado el uso de IA. También en julio, la Sala de lo Social del TSJ de Galicia impuso 1.800 euros por 24 citas inventadas. La base es la buena fe procesal: el artículo 247 de la Ley de Enjuiciamiento Civil prevé multas de 180 a 6.000 euros y el 75.4 de la Ley de la Jurisdicción Social, de 600 a 6.000.",
+  "summary_p2": "El mensaje es que la herramienta no responde ante el tribunal ni ante el cliente; responde quien firma, y varios tribunales han remitido las resoluciones a los colegios para valorar medidas disciplinarias. Para los despachos, la consecuencia práctica es fijar por escrito que toda cita se verifica en el CENDOJ o en una base de datos jurídica antes de presentarla y dejar constancia de esa revisión; para los vendors de IA jurídica, el argumento comercial es la trazabilidad de cada cita a su fuente. Matiz: es un reportaje de recopilación con opiniones de un magistrado y del consejero delegado de Legalpin, no una resolución nueva.",
+  "why_sota": "Primer mapa de cuantías de las sanciones españolas por citas falsas, con su base legal.",
+  "why_now": "Confilegal, 4 nov 2026. NEW frente a 09-29→11-03.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "alucinaciones",
+    "jurisprudencia falsa",
+    "buena fe procesal",
+    "sanciones",
+    "abogacía"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261104-la-ia-inventa-las-sentencias-pero-la-multa-la-paga-el-abogado-sanciones-de-hasta-1-800-euros-por-jurisprudencia-falsa/",
+      "cited_title": "La IA inventa las sentencias, pero la multa la paga el abogado: sanciones de hasta 1.800 euros por jurisprudencia falsa",
+      "accessed": "2026-11-04"
+    }
+  ],
+  "entities": [
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-like-company
+name: Like Company
+type: media
+url: https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf
+geo:
+- HU
+aliases: []
+notes: Operadora húngara de varios portales de información, demandante contra Google
+  Ireland en el asunto C-250/25. Ficha mínima.
+stub: true

@@ -4952,3 +4952,58 @@ entities:
   notes: Regulador de la abogacía en California; organiza su examen de acceso. Ficha
     mínima.
   stub: true
+- id: ent-like-company
+  name: Like Company
+  type: media
+  url: https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf
+  geo:
+  - HU
+  aliases: []
+  notes: Operadora húngara de varios portales de información, demandante contra Google
+    Ireland en el asunto C-250/25. Ficha mínima.
+  stub: true
+- id: ent-hg
+  name: Hg
+  type: company
+  url: https://hgcapital.com/
+  geo:
+  - GB
+  aliases:
+  - Hg Capital
+  - Hgcapital
+  notes: Fondo de capital privado europeo especializado en software; propietario de
+    Litera. Ficha mínima.
+  stub: true
+- id: ent-athena-legal
+  name: Athena
+  type: law_firm
+  url: https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/
+  geo:
+  - US
+  aliases: []
+  notes: Tecnológica de San Francisco con despacho afiliado nativo de IA para inmobiliario
+    comercial, fundada por Cem Ucan y Kieran John Keenan, ex Legora. Ficha mínima.
+  stub: true
+- id: ent-fluxcap
+  name: FluxCap
+  type: vendor
+  url: https://fluxcap.com/
+  geo:
+  - US
+  aliases: []
+  notes: Plataforma de IA para litigación compleja, empezando por antitrust, fundada
+    por Jonathan Kanter y Doha Mekki. Ficha mínima.
+  stub: true
+- id: ent-manifest-law
+  name: Manifest Law
+  type: law_firm
+  url: https://www.legalfutures.co.uk/latest-news/ai-native-us-firm-opening-in-london-as-part-of-global-expansion
+  geo:
+  - US
+  - GB
+  aliases:
+  - Manifest OS
+  - Manifest
+  notes: Despacho de inmigración empresarial que funciona como ABS en Arizona sobre
+    el software de Manifest OS. Ficha mínima.
+  stub: true
