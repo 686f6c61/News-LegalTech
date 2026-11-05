@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-05-decimo-circuito-uso-ia-no-justifica-recortar-honorarios",
+  "date": "2026-11-02",
+  "type": "case_law",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "El Décimo Circuito de EE. UU. confirma 115.000 dólares de honorarios para Brownstein Hyatt y rechaza que el uso de IA por los abogados obligue por sí solo a rebajarlos",
+  "short_title": "Décimo Circuito: usar IA no obliga a rebajar los honorarios",
+  "standfirst": "La demandante, Flux Drive, alegaba que la IA debía haber abaratado la factura; el tribunal exige señalar horas concretas no razonables.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Tribunal de Apelaciones del Décimo Circuito, en Denver, confirmó la condena a Flux Drive, fabricante de equipos de eficiencia para motores industriales, a pagar 115.000 dólares de honorarios a los abogados de Brownstein Hyatt Farber Schreck, que defendían a un fabricante chino en un pleito por secretos empresariales iniciado en 2024 y desestimado. Flux Drive recurrió alegando que la defensa había facturado tareas mecánicas y que su uso de IA debía haber reducido la cuenta. «Los demandantes no han demostrado que el uso de IA por la defensa hiciera irrazonables las horas que efectivamente dedicaron», escribió la jueza Carolyn McHugh en nombre de un panel unánime, que también confirmó la desestimación de la demanda. McHugh admite que la IA y herramientas similares hacen más eficientes a los abogados, pero insiste en que deben verificar ellos mismos las fuentes y los argumentos. La defensa sostuvo que revisó cada investigación asistida por IA y que Flux Drive no señaló ninguna partida inflada.",
+  "summary_p2": "Es una de las primeras resoluciones de apelación que contestan a la pregunta de si la IA debe abaratar por sí misma los honorarios que se reclaman a la contraparte: la respuesta es que hay que probar qué horas concretas sobran, no basta invocar la herramienta. Para los despachos, el criterio protege la facturación de horas reales, pero también exige dejar rastro de la verificación humana del trabajo asistido; para los departamentos in-house que revisan minutas, la vía para discutir es la partida concreta, no el uso genérico de IA. Matiz: el ABA Journal se basa en la información de Reuters y no enlaza la sentencia.",
+  "why_sota": "Criterio de apelación federal sobre IA y razonabilidad de honorarios.",
+  "why_now": "ABA Journal, 4 nov 2026, a partir de Reuters (2 nov). NEW frente a 09-29→11-04.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "honorarios",
+    "facturación",
+    "IA en despachos",
+    "verificación",
+    "tribunales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/appellate-court-lawyers-ai-use-doesnt-justify-slashing-fee-award/",
+      "cited_title": "Lawyers’ AI use doesn’t justify slashing $115K fee award, appellate court says",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-us-court-appeals-tenth-circuit",
+    "ent-brownstein-hyatt",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

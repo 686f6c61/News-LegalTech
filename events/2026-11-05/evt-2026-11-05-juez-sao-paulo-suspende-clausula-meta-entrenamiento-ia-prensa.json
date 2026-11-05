@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-11-05-juez-sao-paulo-suspende-clausula-meta-entrenamiento-ia-prensa",
+  "date": "2026-11-03",
+  "type": "litigation",
+  "sota_score": 8.7,
+  "ai_legaltech": true,
+  "title": "Un juez de São Paulo prohíbe a Meta condicionar las cuentas de los medios brasileños a que acepten el uso de su contenido para entrenar Meta AI, con multa de un millón de reales al día",
+  "short_title": "Brasil suspende la cláusula de Meta para entrenar su IA con prensa",
+  "standfirst": "La medida cautelar, pedida por ANJ, Abert y Aner, frena la cláusula que iba a entrar en vigor el 20 de noviembre.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Propiedad intelectual",
+  "country": "Brasil",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El juez Guilherme Madeira Dezem, de la 44.ª Vara Cível de São Paulo, concedió el 3 de noviembre una medida cautelar a la Associação Nacional de Jornais (ANJ), la Associação Brasileira de Emissoras de Rádio e Televisão (Abert) y la Associação Nacional de Editores de Revistas (Aner) contra Meta. La resolución suspende la cláusula de las nuevas condiciones, que debía aplicarse desde el 20 de noviembre, por la que los medios tenían que autorizar la extracción de su contenido para entrenar Meta AI como condición para conservar sus cuentas en las plataformas del grupo. Si la incumple, Meta pagará un millón de reales al día, hasta un máximo de 100 millones. El juez apoya la decisión en la ley brasileña de derechos de autor (Lei 9.610/1998), en el artículo 424 del Código Civil, que anula en los contratos de adhesión la renuncia anticipada a derechos, y en el artículo 11 del Marco Civil da Internet. Meta tiene cinco días para contestar y las asociaciones, 30 días hábiles para presentar la demanda principal.",
+  "summary_p2": "El caso ataca un mecanismo muy concreto: conseguir licencias de entrenamiento mediante condiciones de uso que el editor no puede negociar porque depende de la plataforma para su distribución. Para los despachos que asesoran a medios y a plataformas, el argumento del contrato de adhesión es exportable a otras jurisdicciones con reglas parecidas sobre cláusulas abusivas, y conviene revisar qué cesiones para IA esconden hoy las condiciones de uso de redes y herramientas. Para los equipos in-house de las tecnológicas, el aviso es que el consentimiento por aceptación de términos no basta como licencia. Matiz: es una medida cautelar, no una sentencia, y Meta puede impugnarla.",
+  "why_sota": "Primera cautelar conocida contra una cláusula de condiciones de uso que obliga a ceder contenido de prensa para entrenar IA.",
+  "why_now": "Conjur, 4 nov 2026 (resolución del 3 nov). NEW frente a 09-29→11-04.",
+  "geo": [
+    "BR"
+  ],
+  "topics": [
+    "derechos de autor",
+    "entrenamiento de IA",
+    "editores de prensa",
+    "contratos de adhesión",
+    "Meta"
+  ],
+  "sources": [
+    {
+      "source_id": "src-conjur",
+      "url": "https://conjur.com.br/2026-nov-04/juiz-proibe-meta-de-raspar-dados-da-imprensa-para-treinar-ia/",
+      "cited_title": "Juiz proíbe Meta de raspar dados da imprensa para treinar IA",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-meta",
+    "ent-anj-brasil",
+    "ent-abert",
+    "ent-aner",
+    "ent-conjur"
+  ],
+  "lang": "es",
+  "status": "published"
+}

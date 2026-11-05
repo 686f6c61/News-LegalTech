@@ -1,0 +1,50 @@
+{
+  "id": "evt-2026-11-05-sullivan-cromwell-ropes-gray-herramientas-propias-openai",
+  "date": "2026-11-04",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Sullivan & Cromwell y Ropes & Gray explican cómo construyen con ingenieros de OpenAI sus propias herramientas de IA: un analizador de contratos con los playbooks del despacho y un sistema de due diligence",
+  "short_title": "S&C y Ropes & Gray construyen herramientas propias con OpenAI",
+  "standfirst": "El ABA Journal reúne los casos y el de Freshfields con Anthropic: los despachos pasan de usar plataformas a desarrollarlas con los laboratorios.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Un reportaje del ABA Journal del 4 de noviembre detalla cómo varios grandes despachos trabajan con los laboratorios de IA para construir herramientas propias. Sullivan & Cromwell desarrolló con OpenAI el Agreement Analyzer, que integra en ChatGPT Enterprise los precedentes y playbooks de negociación del despacho o de sus clientes y propone problemas, razones y soluciones; los ingenieros de OpenAI ayudaron a pasar en pocos meses de un prototipo de un solo usuario a una versión que un grupo piloto ya prueba antes de llevarla a todo el despacho, explica el socio John Savva. Ropes & Gray construyó con OpenAI, en unos tres meses, una herramienta que reproduce los pasos de sus abogados en una due diligence y entrega un informe completo en horas; según el socio Josh Lichtenstein, en pruebas supera a las aplicaciones comerciales. El despacho habla también con Anthropic y Google y usa la ontología de Draftwise en fondos; Freshfields mantiene su alianza con Anthropic.",
+  "summary_p2": "La tendencia redefine la relación con los vendors: el despacho que aporta método y datos y el laboratorio que aporta ingeniería pueden prescindir del intermediario, y el diferencial competitivo pasa a ser el playbook propio. Para despachos medianos, la lección es que el valor está en estructurar precedentes y criterios antes de elegir herramienta; para los departamentos in-house, conviene preguntar qué datos del cliente alimentan esas herramientas y con qué permisos; para los vendors de legal AI, la competencia ya incluye a OpenAI y Anthropic trabajando directamente con los clientes. Matiz: es un reportaje con testimonios de los propios despachos, sin métricas independientes.",
+  "why_sota": "Detalle de primera mano sobre co-desarrollo despacho-laboratorio de herramientas jurídicas.",
+  "why_now": "ABA Journal, 4 nov 2026. NEW frente a 09-29→11-04.",
+  "geo": [
+    "US",
+    "GB"
+  ],
+  "topics": [
+    "herramientas a medida",
+    "due diligence",
+    "contratos",
+    "OpenAI",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/web/article/biglaw-partners-with-big-tech-to-design-and-deploy-custom-ai-tools/",
+      "cited_title": "BigLaw partners with Big Tech to design and deploy custom AI tools",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-sullivan-cromwell",
+    "ent-ropes-gray",
+    "ent-openai",
+    "ent-freshfields",
+    "ent-anthropic",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

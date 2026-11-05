@@ -1,0 +1,10 @@
+id: ent-aner
+name: Associação Nacional de Editores de Revistas (Aner)
+type: association
+url: https://www.aner.org.br/
+geo:
+- BR
+aliases:
+- Aner
+notes: Asociación brasileña de editores de revistas.
+stub: true

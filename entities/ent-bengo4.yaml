@@ -1,0 +1,12 @@
+id: ent-bengo4
+name: Bengo4.com
+type: vendor
+url: https://www.bengo4.com/corporate/
+geo:
+- JP
+aliases:
+- 弁護士ドットコム
+- Bengo4.com, Inc.
+notes: Empresa japonesa de servicios jurídicos en línea (TSE 6027); desarrolla la
+  plataforma de IA jurídica LegalBrain.
+stub: true

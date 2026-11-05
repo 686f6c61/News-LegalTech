@@ -1,0 +1,12 @@
+id: ent-legal-ombudsman
+name: Legal Ombudsman
+type: regulator
+url: https://www.legalombudsman.org.uk/
+geo:
+- GB
+aliases:
+- LeO
+- Office for Legal Complaints
+notes: Defensor de quejas sobre servicios jurídicos en Inglaterra y Gales; lo gestiona
+  la Office for Legal Complaints.
+stub: true

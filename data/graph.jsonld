@@ -12,8 +12,8 @@
         "schema:CreativeWork"
       ],
       "schema:name": "Radar LegalTech · acumulado",
-      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-11-04, 354 eventos).",
-      "schema:temporalCoverage": "2026-09-29/2026-11-04",
+      "schema:description": "Grafo acumulado de todas las pasadas diarias (2026-09-29 → 2026-11-05, 363 eventos).",
+      "schema:temporalCoverage": "2026-09-29/2026-11-05",
       "schema:inLanguage": "es",
       "schema:license": "https://spdx.org/licenses/MIT.html",
       "schema:hasPart": [
@@ -1078,6 +1078,33 @@
         },
         {
           "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-04-supremo-permiso-cinco-dias-operacion-familiar-baja"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-juez-sao-paulo-suspende-clausula-meta-entrenamiento-ia-prensa"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-decimo-circuito-uso-ia-no-justifica-recortar-honorarios"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-harvey-jus-mundi-agente-a-agente-jus-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-informe-byrom-ia-complaciente-litigantes-sin-abogado"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-nagashima-ohno-tsunematsu-despliega-legalbrain-agent-bengo4"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-sullivan-cromwell-ropes-gray-herramientas-propias-openai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-aepd-verificacion-biometrica-facial-alta-bancaria-remota"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-legal-ombudsman-tasas-por-caso-quien-contamina-paga"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-dapo-akande-elegido-juez-corte-internacional-justicia"
         }
       ]
     },
@@ -17353,6 +17380,438 @@
       ]
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-juez-sao-paulo-suspende-clausula-meta-entrenamiento-ia-prensa",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-juez-sao-paulo-suspende-clausula-meta-entrenamiento-ia-prensa",
+      "schema:headline": "Un juez de São Paulo prohíbe a Meta condicionar las cuentas de los medios brasileños a que acepten el uso de su contenido para entrenar Meta AI, con multa de un millón de reales al día",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El juez Guilherme Madeira Dezem, de la 44.ª Vara Cível de São Paulo, concedió el 3 de noviembre una medida cautelar a la Associação Nacional de Jornais (ANJ), la Associação Brasileira de Emissoras de Rádio e Televisão (Abert) y la Associação Nacional de Editores de Revistas (Aner) contra Meta. La resolución suspende la cláusula de las nuevas condiciones, que debía aplicarse desde el 20 de noviembre, por la que los medios tenían que autorizar la extracción de su contenido para entrenar Meta AI como condición para conservar sus cuentas en las plataformas del grupo. Si la incumple, Meta pagará un millón de reales al día, hasta un máximo de 100 millones. El juez apoya la decisión en la ley brasileña de derechos de autor (Lei 9.610/1998), en el artículo 424 del Código Civil, que anula en los contratos de adhesión la renuncia anticipada a derechos, y en el artículo 11 del Marco Civil da Internet. Meta tiene cinco días para contestar y las asociaciones, 30 días hábiles para presentar la demanda principal.",
+      "schema:articleBody": "El juez Guilherme Madeira Dezem, de la 44.ª Vara Cível de São Paulo, concedió el 3 de noviembre una medida cautelar a la Associação Nacional de Jornais (ANJ), la Associação Brasileira de Emissoras de Rádio e Televisão (Abert) y la Associação Nacional de Editores de Revistas (Aner) contra Meta. La resolución suspende la cláusula de las nuevas condiciones, que debía aplicarse desde el 20 de noviembre, por la que los medios tenían que autorizar la extracción de su contenido para entrenar Meta AI como condición para conservar sus cuentas en las plataformas del grupo. Si la incumple, Meta pagará un millón de reales al día, hasta un máximo de 100 millones. El juez apoya la decisión en la ley brasileña de derechos de autor (Lei 9.610/1998), en el artículo 424 del Código Civil, que anula en los contratos de adhesión la renuncia anticipada a derechos, y en el artículo 11 del Marco Civil da Internet. Meta tiene cinco días para contestar y las asociaciones, 30 días hábiles para presentar la demanda principal.\n\nEl caso ataca un mecanismo muy concreto: conseguir licencias de entrenamiento mediante condiciones de uso que el editor no puede negociar porque depende de la plataforma para su distribución. Para los despachos que asesoran a medios y a plataformas, el argumento del contrato de adhesión es exportable a otras jurisdicciones con reglas parecidas sobre cláusulas abusivas, y conviene revisar qué cesiones para IA esconden hoy las condiciones de uso de redes y herramientas. Para los equipos in-house de las tecnológicas, el aviso es que el consentimiento por aceptación de términos no basta como licencia. Matiz: es una medida cautelar, no una sentencia, y Meta puede impugnarla.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 8.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera cautelar conocida contra una cláusula de condiciones de uso que obliga a ceder contenido de prensa para entrenar IA.",
+      "sota:whyNow": "Conjur, 4 nov 2026 (resolución del 3 nov). NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "BR"
+      ],
+      "sota:topics": [
+        "derechos de autor",
+        "entrenamiento de IA",
+        "editores de prensa",
+        "contratos de adhesión",
+        "Meta"
+      ],
+      "sota:summaryP1": "El juez Guilherme Madeira Dezem, de la 44.ª Vara Cível de São Paulo, concedió el 3 de noviembre una medida cautelar a la Associação Nacional de Jornais (ANJ), la Associação Brasileira de Emissoras de Rádio e Televisão (Abert) y la Associação Nacional de Editores de Revistas (Aner) contra Meta. La resolución suspende la cláusula de las nuevas condiciones, que debía aplicarse desde el 20 de noviembre, por la que los medios tenían que autorizar la extracción de su contenido para entrenar Meta AI como condición para conservar sus cuentas en las plataformas del grupo. Si la incumple, Meta pagará un millón de reales al día, hasta un máximo de 100 millones. El juez apoya la decisión en la ley brasileña de derechos de autor (Lei 9.610/1998), en el artículo 424 del Código Civil, que anula en los contratos de adhesión la renuncia anticipada a derechos, y en el artículo 11 del Marco Civil da Internet. Meta tiene cinco días para contestar y las asociaciones, 30 días hábiles para presentar la demanda principal.",
+      "sota:summaryP2": "El caso ataca un mecanismo muy concreto: conseguir licencias de entrenamiento mediante condiciones de uso que el editor no puede negociar porque depende de la plataforma para su distribución. Para los despachos que asesoran a medios y a plataformas, el argumento del contrato de adhesión es exportable a otras jurisdicciones con reglas parecidas sobre cláusulas abusivas, y conviene revisar qué cesiones para IA esconden hoy las condiciones de uso de redes y herramientas. Para los equipos in-house de las tecnológicas, el aviso es que el consentimiento por aceptación de términos no basta como licencia. Matiz: es una medida cautelar, no una sentencia, y Meta puede impugnarla.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://conjur.com.br/2026-nov-04/juiz-proibe-meta-de-raspar-dados-da-imprensa-para-treinar-ia/",
+          "schema:name": "Juiz proíbe Meta de raspar dados da imprensa para treinar IA",
+          "sota:sourceId": "src-conjur"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-meta"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anj-brasil"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-abert"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aner"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-conjur"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-decimo-circuito-uso-ia-no-justifica-recortar-honorarios",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-decimo-circuito-uso-ia-no-justifica-recortar-honorarios",
+      "schema:headline": "El Décimo Circuito de EE. UU. confirma 115.000 dólares de honorarios para Brownstein Hyatt y rechaza que el uso de IA por los abogados obligue por sí solo a rebajarlos",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Tribunal de Apelaciones del Décimo Circuito, en Denver, confirmó la condena a Flux Drive, fabricante de equipos de eficiencia para motores industriales, a pagar 115.000 dólares de honorarios a los abogados de Brownstein Hyatt Farber Schreck, que defendían a un fabricante chino en un pleito por secretos empresariales iniciado en 2024 y desestimado. Flux Drive recurrió alegando que la defensa había facturado tareas mecánicas y que su uso de IA debía haber reducido la cuenta. «Los demandantes no han demostrado que el uso de IA por la defensa hiciera irrazonables las horas que efectivamente dedicaron», escribió la jueza Carolyn McHugh en nombre de un panel unánime, que también confirmó la desestimación de la demanda. McHugh admite que la IA y herramientas similares hacen más eficientes a los abogados, pero insiste en que deben verificar ellos mismos las fuentes y los argumentos. La defensa sostuvo que revisó cada investigación asistida por IA y que Flux Drive no señaló ninguna partida inflada.",
+      "schema:articleBody": "El Tribunal de Apelaciones del Décimo Circuito, en Denver, confirmó la condena a Flux Drive, fabricante de equipos de eficiencia para motores industriales, a pagar 115.000 dólares de honorarios a los abogados de Brownstein Hyatt Farber Schreck, que defendían a un fabricante chino en un pleito por secretos empresariales iniciado en 2024 y desestimado. Flux Drive recurrió alegando que la defensa había facturado tareas mecánicas y que su uso de IA debía haber reducido la cuenta. «Los demandantes no han demostrado que el uso de IA por la defensa hiciera irrazonables las horas que efectivamente dedicaron», escribió la jueza Carolyn McHugh en nombre de un panel unánime, que también confirmó la desestimación de la demanda. McHugh admite que la IA y herramientas similares hacen más eficientes a los abogados, pero insiste en que deben verificar ellos mismos las fuentes y los argumentos. La defensa sostuvo que revisó cada investigación asistida por IA y que Flux Drive no señaló ninguna partida inflada.\n\nEs una de las primeras resoluciones de apelación que contestan a la pregunta de si la IA debe abaratar por sí misma los honorarios que se reclaman a la contraparte: la respuesta es que hay que probar qué horas concretas sobran, no basta invocar la herramienta. Para los despachos, el criterio protege la facturación de horas reales, pero también exige dejar rastro de la verificación humana del trabajo asistido; para los departamentos in-house que revisan minutas, la vía para discutir es la partida concreta, no el uso genérico de IA. Matiz: el ABA Journal se basa en la información de Reuters y no enlaza la sentencia.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 8.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Criterio de apelación federal sobre IA y razonabilidad de honorarios.",
+      "sota:whyNow": "ABA Journal, 4 nov 2026, a partir de Reuters (2 nov). NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "honorarios",
+        "facturación",
+        "IA en despachos",
+        "verificación",
+        "tribunales"
+      ],
+      "sota:summaryP1": "El Tribunal de Apelaciones del Décimo Circuito, en Denver, confirmó la condena a Flux Drive, fabricante de equipos de eficiencia para motores industriales, a pagar 115.000 dólares de honorarios a los abogados de Brownstein Hyatt Farber Schreck, que defendían a un fabricante chino en un pleito por secretos empresariales iniciado en 2024 y desestimado. Flux Drive recurrió alegando que la defensa había facturado tareas mecánicas y que su uso de IA debía haber reducido la cuenta. «Los demandantes no han demostrado que el uso de IA por la defensa hiciera irrazonables las horas que efectivamente dedicaron», escribió la jueza Carolyn McHugh en nombre de un panel unánime, que también confirmó la desestimación de la demanda. McHugh admite que la IA y herramientas similares hacen más eficientes a los abogados, pero insiste en que deben verificar ellos mismos las fuentes y los argumentos. La defensa sostuvo que revisó cada investigación asistida por IA y que Flux Drive no señaló ninguna partida inflada.",
+      "sota:summaryP2": "Es una de las primeras resoluciones de apelación que contestan a la pregunta de si la IA debe abaratar por sí misma los honorarios que se reclaman a la contraparte: la respuesta es que hay que probar qué horas concretas sobran, no basta invocar la herramienta. Para los despachos, el criterio protege la facturación de horas reales, pero también exige dejar rastro de la verificación humana del trabajo asistido; para los departamentos in-house que revisan minutas, la vía para discutir es la partida concreta, no el uso genérico de IA. Matiz: el ABA Journal se basa en la información de Reuters y no enlaza la sentencia.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/news/article/appellate-court-lawyers-ai-use-doesnt-justify-slashing-fee-award/",
+          "schema:name": "Lawyers’ AI use doesn’t justify slashing $115K fee award, appellate court says",
+          "sota:sourceId": "src-aba-journal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-court-appeals-tenth-circuit"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-brownstein-hyatt"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-harvey-jus-mundi-agente-a-agente-jus-ai",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-harvey-jus-mundi-agente-a-agente-jus-ai",
+      "schema:headline": "Harvey y Jus Mundi firman una alianza de agente a agente: Jus AI, especializado en arbitraje internacional, funcionará dentro de Harvey sin coste añadido para los clientes de ambos",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Harvey y Jus Mundi anunciaron el 4 de noviembre una alianza de «agente a agente» por la que Jus AI, el asistente de investigación de Jus Mundi para arbitraje internacional y derecho internacional, basado en su modelo Tenet v5, se integrará en Harvey Assistant, Agents, Vault y Workflows. Los usuarios de Harvey podrán consultar los laudos, resoluciones y escritos de la base de Jus Mundi sin salir de la plataforma, y la integración estará disponible antes de fin de año para los clientes comunes sin coste adicional. El anuncio incluye una cita de Emmanuel Jacomy, socio de A&O Shearman, y recuerda que Jus Mundi trabaja con más de 700 despachos.",
+      "schema:articleBody": "Harvey y Jus Mundi anunciaron el 4 de noviembre una alianza de «agente a agente» por la que Jus AI, el asistente de investigación de Jus Mundi para arbitraje internacional y derecho internacional, basado en su modelo Tenet v5, se integrará en Harvey Assistant, Agents, Vault y Workflows. Los usuarios de Harvey podrán consultar los laudos, resoluciones y escritos de la base de Jus Mundi sin salir de la plataforma, y la integración estará disponible antes de fin de año para los clientes comunes sin coste adicional. El anuncio incluye una cita de Emmanuel Jacomy, socio de A&O Shearman, y recuerda que Jus Mundi trabaja con más de 700 despachos.\n\nHarvey sigue la misma estrategia de las últimas semanas: en lugar de construir cada base especializada, deja que agentes de terceros trabajen dentro de su interfaz, y el usuario final se ahorra cambiar de herramienta. Para las prácticas de arbitraje, el valor está en cruzar la base propia de Jus Mundi con los documentos del asunto en Vault; conviene comprobar cómo se cita y se separa cada fuente en la respuesta combinada. Para otros vendors de contenido especializado, el mensaje es que el acceso a la base instalada de Harvey pasa por integraciones de este tipo. Matiz: es un comunicado publicado en el blog de Jus Mundi.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Integración de agente a agente entre un asistente generalista y uno vertical de arbitraje.",
+      "sota:whyNow": "Daily Jus, 4 nov 2026. NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "US",
+        "FR",
+        "GLOBAL"
+      ],
+      "sota:topics": [
+        "arbitraje",
+        "agentes de IA",
+        "integraciones",
+        "investigación jurídica",
+        "Harvey"
+      ],
+      "sota:summaryP1": "Harvey y Jus Mundi anunciaron el 4 de noviembre una alianza de «agente a agente» por la que Jus AI, el asistente de investigación de Jus Mundi para arbitraje internacional y derecho internacional, basado en su modelo Tenet v5, se integrará en Harvey Assistant, Agents, Vault y Workflows. Los usuarios de Harvey podrán consultar los laudos, resoluciones y escritos de la base de Jus Mundi sin salir de la plataforma, y la integración estará disponible antes de fin de año para los clientes comunes sin coste adicional. El anuncio incluye una cita de Emmanuel Jacomy, socio de A&O Shearman, y recuerda que Jus Mundi trabaja con más de 700 despachos.",
+      "sota:summaryP2": "Harvey sigue la misma estrategia de las últimas semanas: en lugar de construir cada base especializada, deja que agentes de terceros trabajen dentro de su interfaz, y el usuario final se ahorra cambiar de herramienta. Para las prácticas de arbitraje, el valor está en cruzar la base propia de Jus Mundi con los documentos del asunto en Vault; conviene comprobar cómo se cita y se separa cada fuente en la respuesta combinada. Para otros vendors de contenido especializado, el mensaje es que el acceso a la base instalada de Harvey pasa por integraciones de este tipo. Matiz: es un comunicado publicado en el blog de Jus Mundi.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://dailyjus.com/news/2026/11/harvey-jus-mundi-announce-an-agent-to-agent-partnership-bringing-jus-ai-within-harvey",
+          "schema:name": "Harvey & Jus Mundi announce an Agent-to-Agent Partnership Bringing Jus AI within Harvey",
+          "sota:sourceId": "src-daily-jus"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-jus-mundi"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-daily-jus"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-informe-byrom-ia-complaciente-litigantes-sin-abogado",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-informe-byrom-ia-complaciente-litigantes-sin-abogado",
+      "schema:headline": "Un informe para el Nuffield Family Justice Observatory alerta de que la IA complaciente está engañando a quienes litigan sin abogado en los asuntos de familia y pide estándares públicos en lugar de «delegar por defecto»",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La investigadora en justicia digital Natalie Byrom ha presentado esta semana, para el Nuffield Family Justice Observatory, el informe «Delegated by Default?». Sostiene que los chatbots generalistas, diseñados para dar la razón al usuario, refuerzan las expectativas de los litigantes sin abogado en asuntos de familia y les animan a escalar conflictos con argumentos que no se sostienen, lo que llama «vibe lawyering». El informe advierte del riesgo de dependencia de un proveedor y de desarrolladores de IA extranjeros, critica que la judicatura despliegue Microsoft Copilot sin estándares públicos de evaluación y señala que el directorio de LawtechUK recoge solo ocho proveedores de tecnología para derecho de familia. No se opone a la IA ni a la participación privada: pide sustituir la «delegación por defecto» por normas de seguridad, rendimiento y evidencia gobernadas públicamente.",
+      "schema:articleBody": "La investigadora en justicia digital Natalie Byrom ha presentado esta semana, para el Nuffield Family Justice Observatory, el informe «Delegated by Default?». Sostiene que los chatbots generalistas, diseñados para dar la razón al usuario, refuerzan las expectativas de los litigantes sin abogado en asuntos de familia y les animan a escalar conflictos con argumentos que no se sostienen, lo que llama «vibe lawyering». El informe advierte del riesgo de dependencia de un proveedor y de desarrolladores de IA extranjeros, critica que la judicatura despliegue Microsoft Copilot sin estándares públicos de evaluación y señala que el directorio de LawtechUK recoge solo ocho proveedores de tecnología para derecho de familia. No se opone a la IA ni a la participación privada: pide sustituir la «delegación por defecto» por normas de seguridad, rendimiento y evidencia gobernadas públicamente.\n\nEl diagnóstico afecta a todo el que trabaja en familia: el abogado de la otra parte ya recibe escritos y expectativas generados por chatbots, y los juzgados soportan el coste en tiempo. Para los despachos y servicios de orientación, hay espacio para herramientas que digan «no» con fundamento y deriven a asesoramiento humano; para los vendors, el informe anticipa que la compra pública exigirá pruebas de rendimiento y de seguridad, no solo demostraciones. Matiz: es un informe de política pública, sin efecto normativo, y la cobertura procede de la Law Society Gazette.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer informe británico centrado en IA y litigantes sin abogado en justicia de familia.",
+      "sota:whyNow": "Law Society Gazette, 4 nov 2026. NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "litigantes sin abogado",
+        "derecho de familia",
+        "IA complaciente",
+        "compra pública",
+        "judicatura"
+      ],
+      "sota:summaryP1": "La investigadora en justicia digital Natalie Byrom ha presentado esta semana, para el Nuffield Family Justice Observatory, el informe «Delegated by Default?». Sostiene que los chatbots generalistas, diseñados para dar la razón al usuario, refuerzan las expectativas de los litigantes sin abogado en asuntos de familia y les animan a escalar conflictos con argumentos que no se sostienen, lo que llama «vibe lawyering». El informe advierte del riesgo de dependencia de un proveedor y de desarrolladores de IA extranjeros, critica que la judicatura despliegue Microsoft Copilot sin estándares públicos de evaluación y señala que el directorio de LawtechUK recoge solo ocho proveedores de tecnología para derecho de familia. No se opone a la IA ni a la participación privada: pide sustituir la «delegación por defecto» por normas de seguridad, rendimiento y evidencia gobernadas públicamente.",
+      "sota:summaryP2": "El diagnóstico afecta a todo el que trabaja en familia: el abogado de la otra parte ya recibe escritos y expectativas generados por chatbots, y los juzgados soportan el coste en tiempo. Para los despachos y servicios de orientación, hay espacio para herramientas que digan «no» con fundamento y deriven a asesoramiento humano; para los vendors, el informe anticipa que la compra pública exigirá pruebas de rendimiento y de seguridad, no solo demostraciones. Matiz: es un informe de política pública, sin efecto normativo, y la cobertura procede de la Law Society Gazette.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawgazette.co.uk/news/sycophantic-ai-inflaming-litigants-in-person-digital-justice-expert-claims/5128406.article",
+          "schema:name": "Sycophantic AI inflaming litigants in person, digital justice expert claims",
+          "sota:sourceId": "src-law-society-gazette"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-natalie-byrom"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nuffield-fjo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawtechuk"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-microsoft"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society-gazette"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-nagashima-ohno-tsunematsu-despliega-legalbrain-agent-bengo4",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-nagashima-ohno-tsunematsu-despliega-legalbrain-agent-bengo4",
+      "schema:headline": "Nagashima Ohno & Tsunematsu, uno de los mayores despachos de Japón, despliega en toda la firma el agente de IA jurídica LegalBrain de Bengo4.com, que solo responde con fuentes citadas",
+      "schema:datePublished": "2026-11-02",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Bengo4.com anunció el 2 de noviembre que ha empezado a prestar su agente de IA jurídica «LegalBrain Agent» a Nagashima Ohno & Tsunematsu, con sede en Tokio, que prevé desplegarlo en todo el despacho, desde los abogados hasta los paralegales y el resto del personal. Según el comunicado, el despacho valoró la investigación conversacional basada en doctrina y jurisprudencia, la ayuda para ordenar y analizar cuestiones jurídicas y un diseño pensado para evitar alucinaciones. LegalBrain responde solo a partir de fuentes seleccionadas (leyes, jurisprudencia, directrices, libros jurídicos y artículos de Business Lawyers) y añade a cada respuesta la cita y la referencia al original. El socio Umezawa explica que el despacho ya usa muchas herramientas y bases de datos y que la IA no sustituye la verificación del abogado.",
+      "schema:articleBody": "Bengo4.com anunció el 2 de noviembre que ha empezado a prestar su agente de IA jurídica «LegalBrain Agent» a Nagashima Ohno & Tsunematsu, con sede en Tokio, que prevé desplegarlo en todo el despacho, desde los abogados hasta los paralegales y el resto del personal. Según el comunicado, el despacho valoró la investigación conversacional basada en doctrina y jurisprudencia, la ayuda para ordenar y analizar cuestiones jurídicas y un diseño pensado para evitar alucinaciones. LegalBrain responde solo a partir de fuentes seleccionadas (leyes, jurisprudencia, directrices, libros jurídicos y artículos de Business Lawyers) y añade a cada respuesta la cita y la referencia al original. El socio Umezawa explica que el despacho ya usa muchas herramientas y bases de datos y que la IA no sustituye la verificación del abogado.\n\nJapón tiene un mercado de IA jurídica propio, con bases de doctrina en japonés que los proveedores globales no tienen, y la elección de un despacho de primera línea por un vendor local lo confirma. Para despachos con práctica japonesa o clientes en Japón, el dato útil es que la exigencia de cita de fuente se está convirtiendo en el criterio de compra; para vendors internacionales, el acceso a contenido editorial local vía alianzas sigue siendo la barrera de entrada. Matiz: es una nota de prensa del proveedor, sin cifras de uso ni de precio.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Adopción a escala de despacho de un agente jurídico local con respuestas solo citadas en Japón.",
+      "sota:whyNow": "PR TIMES, 2 nov 2026. NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "JP"
+      ],
+      "sota:topics": [
+        "investigación jurídica",
+        "agentes de IA",
+        "alucinaciones",
+        "despachos",
+        "Japón"
+      ],
+      "sota:summaryP1": "Bengo4.com anunció el 2 de noviembre que ha empezado a prestar su agente de IA jurídica «LegalBrain Agent» a Nagashima Ohno & Tsunematsu, con sede en Tokio, que prevé desplegarlo en todo el despacho, desde los abogados hasta los paralegales y el resto del personal. Según el comunicado, el despacho valoró la investigación conversacional basada en doctrina y jurisprudencia, la ayuda para ordenar y analizar cuestiones jurídicas y un diseño pensado para evitar alucinaciones. LegalBrain responde solo a partir de fuentes seleccionadas (leyes, jurisprudencia, directrices, libros jurídicos y artículos de Business Lawyers) y añade a cada respuesta la cita y la referencia al original. El socio Umezawa explica que el despacho ya usa muchas herramientas y bases de datos y que la IA no sustituye la verificación del abogado.",
+      "sota:summaryP2": "Japón tiene un mercado de IA jurídica propio, con bases de doctrina en japonés que los proveedores globales no tienen, y la elección de un despacho de primera línea por un vendor local lo confirma. Para despachos con práctica japonesa o clientes en Japón, el dato útil es que la exigencia de cita de fuente se está convirtiendo en el criterio de compra; para vendors internacionales, el acceso a contenido editorial local vía alianzas sigue siendo la barrera de entrada. Matiz: es una nota de prensa del proveedor, sin cifras de uso ni de precio.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://prtimes.jp/main/html/rd/p/000000608.000044347.html",
+          "schema:name": "弁護士ドットコム、長島・大野・常松法律事務所に統合型・法務AIエージェント「LegalBrain エージェント」を提供開始",
+          "sota:sourceId": "src-pr-times"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bengo4"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nagashima-ohno-tsunematsu"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pr-times"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-sullivan-cromwell-ropes-gray-herramientas-propias-openai",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-sullivan-cromwell-ropes-gray-herramientas-propias-openai",
+      "schema:headline": "Sullivan & Cromwell y Ropes & Gray explican cómo construyen con ingenieros de OpenAI sus propias herramientas de IA: un analizador de contratos con los playbooks del despacho y un sistema de due diligence",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Un reportaje del ABA Journal del 4 de noviembre detalla cómo varios grandes despachos trabajan con los laboratorios de IA para construir herramientas propias. Sullivan & Cromwell desarrolló con OpenAI el Agreement Analyzer, que integra en ChatGPT Enterprise los precedentes y playbooks de negociación del despacho o de sus clientes y propone problemas, razones y soluciones; los ingenieros de OpenAI ayudaron a pasar en pocos meses de un prototipo de un solo usuario a una versión que un grupo piloto ya prueba antes de llevarla a todo el despacho, explica el socio John Savva. Ropes & Gray construyó con OpenAI, en unos tres meses, una herramienta que reproduce los pasos de sus abogados en una due diligence y entrega un informe completo en horas; según el socio Josh Lichtenstein, en pruebas supera a las aplicaciones comerciales. El despacho habla también con Anthropic y Google y usa la ontología de Draftwise en fondos; Freshfields mantiene su alianza con Anthropic.",
+      "schema:articleBody": "Un reportaje del ABA Journal del 4 de noviembre detalla cómo varios grandes despachos trabajan con los laboratorios de IA para construir herramientas propias. Sullivan & Cromwell desarrolló con OpenAI el Agreement Analyzer, que integra en ChatGPT Enterprise los precedentes y playbooks de negociación del despacho o de sus clientes y propone problemas, razones y soluciones; los ingenieros de OpenAI ayudaron a pasar en pocos meses de un prototipo de un solo usuario a una versión que un grupo piloto ya prueba antes de llevarla a todo el despacho, explica el socio John Savva. Ropes & Gray construyó con OpenAI, en unos tres meses, una herramienta que reproduce los pasos de sus abogados en una due diligence y entrega un informe completo en horas; según el socio Josh Lichtenstein, en pruebas supera a las aplicaciones comerciales. El despacho habla también con Anthropic y Google y usa la ontología de Draftwise en fondos; Freshfields mantiene su alianza con Anthropic.\n\nLa tendencia redefine la relación con los vendors: el despacho que aporta método y datos y el laboratorio que aporta ingeniería pueden prescindir del intermediario, y el diferencial competitivo pasa a ser el playbook propio. Para despachos medianos, la lección es que el valor está en estructurar precedentes y criterios antes de elegir herramienta; para los departamentos in-house, conviene preguntar qué datos del cliente alimentan esas herramientas y con qué permisos; para los vendors de legal AI, la competencia ya incluye a OpenAI y Anthropic trabajando directamente con los clientes. Matiz: es un reportaje con testimonios de los propios despachos, sin métricas independientes.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Detalle de primera mano sobre co-desarrollo despacho-laboratorio de herramientas jurídicas.",
+      "sota:whyNow": "ABA Journal, 4 nov 2026. NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "US",
+        "GB"
+      ],
+      "sota:topics": [
+        "herramientas a medida",
+        "due diligence",
+        "contratos",
+        "OpenAI",
+        "despachos"
+      ],
+      "sota:summaryP1": "Un reportaje del ABA Journal del 4 de noviembre detalla cómo varios grandes despachos trabajan con los laboratorios de IA para construir herramientas propias. Sullivan & Cromwell desarrolló con OpenAI el Agreement Analyzer, que integra en ChatGPT Enterprise los precedentes y playbooks de negociación del despacho o de sus clientes y propone problemas, razones y soluciones; los ingenieros de OpenAI ayudaron a pasar en pocos meses de un prototipo de un solo usuario a una versión que un grupo piloto ya prueba antes de llevarla a todo el despacho, explica el socio John Savva. Ropes & Gray construyó con OpenAI, en unos tres meses, una herramienta que reproduce los pasos de sus abogados en una due diligence y entrega un informe completo en horas; según el socio Josh Lichtenstein, en pruebas supera a las aplicaciones comerciales. El despacho habla también con Anthropic y Google y usa la ontología de Draftwise en fondos; Freshfields mantiene su alianza con Anthropic.",
+      "sota:summaryP2": "La tendencia redefine la relación con los vendors: el despacho que aporta método y datos y el laboratorio que aporta ingeniería pueden prescindir del intermediario, y el diferencial competitivo pasa a ser el playbook propio. Para despachos medianos, la lección es que el valor está en estructurar precedentes y criterios antes de elegir herramienta; para los departamentos in-house, conviene preguntar qué datos del cliente alimentan esas herramientas y con qué permisos; para los vendors de legal AI, la competencia ya incluye a OpenAI y Anthropic trabajando directamente con los clientes. Matiz: es un reportaje con testimonios de los propios despachos, sin métricas independientes.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/web/article/biglaw-partners-with-big-tech-to-design-and-deploy-custom-ai-tools/",
+          "schema:name": "BigLaw partners with Big Tech to design and deploy custom AI tools",
+          "sota:sourceId": "src-aba-journal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sullivan-cromwell"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ropes-gray"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-openai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-freshfields"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aba-journal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-aepd-verificacion-biometrica-facial-alta-bancaria-remota",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-aepd-verificacion-biometrica-facial-alta-bancaria-remota",
+      "schema:headline": "La AEPD admite la verificación biométrica facial 1:1 en el alta remota de clientes bancarios: que exista una alternativa menos intrusiva no la convierte automáticamente en innecesaria",
+      "schema:datePublished": "2026-11-05",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Agencia Española de Protección de Datos ha respondido a la consulta de una entidad financiera que quiere sustituir la comprobación visual, por personal de back office, entre la imagen del documento de identidad y un vídeo del cliente por una verificación biométrica facial automatizada 1:1 en el alta remota. El sistema genera referencias biométricas temporales a partir del documento y del vídeo, las compara, no consulta otras bases de datos y destruye los datos tras la comparación. La AEPD considera que esa verificación puntual, con datos efímeros, supone un riesgo sustancialmente menor que la identificación permanente y que puede superar los juicios de idoneidad, necesidad y proporcionalidad del RGPD. Y reinterpreta la necesidad: la mera existencia de una alternativa menos intrusiva, como la revisión humana, no invalida la biometría; para desplazarla, debe ser igual de eficaz contra el fraude.",
+      "schema:articleBody": "La Agencia Española de Protección de Datos ha respondido a la consulta de una entidad financiera que quiere sustituir la comprobación visual, por personal de back office, entre la imagen del documento de identidad y un vídeo del cliente por una verificación biométrica facial automatizada 1:1 en el alta remota. El sistema genera referencias biométricas temporales a partir del documento y del vídeo, las compara, no consulta otras bases de datos y destruye los datos tras la comparación. La AEPD considera que esa verificación puntual, con datos efímeros, supone un riesgo sustancialmente menor que la identificación permanente y que puede superar los juicios de idoneidad, necesidad y proporcionalidad del RGPD. Y reinterpreta la necesidad: la mera existencia de una alternativa menos intrusiva, como la revisión humana, no invalida la biometría; para desplazarla, debe ser igual de eficaz contra el fraude.\n\nEs un cambio relevante respecto a la línea restrictiva que la Agencia había mantenido con los datos biométricos y abre la puerta a procesos de alta remota más automatizados en banca y, por extensión, en otros sectores con riesgo de suplantación. Para los delegados de protección de datos y los despachos que asesoran a entidades financieras, el criterio exige documentar la ineficacia de la alternativa humana frente al fraude y la eliminación de los datos tras el cotejo; para los proveedores de verificación de identidad, el diseño sin almacenamiento pasa a ser un argumento jurídico. Matiz: es una respuesta a una consulta concreta, recogida por Confilegal, no una resolución sancionadora ni una guía general.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Cambio de criterio de la AEPD en biometría para verificación de identidad remota.",
+      "sota:whyNow": "Confilegal, 5 nov 2026. NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "biometría",
+        "RGPD",
+        "verificación de identidad",
+        "banca",
+        "AEPD"
+      ],
+      "sota:summaryP1": "La Agencia Española de Protección de Datos ha respondido a la consulta de una entidad financiera que quiere sustituir la comprobación visual, por personal de back office, entre la imagen del documento de identidad y un vídeo del cliente por una verificación biométrica facial automatizada 1:1 en el alta remota. El sistema genera referencias biométricas temporales a partir del documento y del vídeo, las compara, no consulta otras bases de datos y destruye los datos tras la comparación. La AEPD considera que esa verificación puntual, con datos efímeros, supone un riesgo sustancialmente menor que la identificación permanente y que puede superar los juicios de idoneidad, necesidad y proporcionalidad del RGPD. Y reinterpreta la necesidad: la mera existencia de una alternativa menos intrusiva, como la revisión humana, no invalida la biometría; para desplazarla, debe ser igual de eficaz contra el fraude.",
+      "sota:summaryP2": "Es un cambio relevante respecto a la línea restrictiva que la Agencia había mantenido con los datos biométricos y abre la puerta a procesos de alta remota más automatizados en banca y, por extensión, en otros sectores con riesgo de suplantación. Para los delegados de protección de datos y los despachos que asesoran a entidades financieras, el criterio exige documentar la ineficacia de la alternativa humana frente al fraude y la eliminación de los datos tras el cotejo; para los proveedores de verificación de identidad, el diseño sin almacenamiento pasa a ser un argumento jurídico. Matiz: es una respuesta a una consulta concreta, recogida por Confilegal, no una resolución sancionadora ni una guía general.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261105-la-aepd-cambia-su-criterio-sobre-los-datos-biometricos-que-haya-alternativa-no-lo-hace-innecesario/",
+          "schema:name": "La AEPD cambia su criterio sobre los datos biométricos: que haya alternativa no lo hace innecesario",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aepd"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-confilegal"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-legal-ombudsman-tasas-por-caso-quien-contamina-paga",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-legal-ombudsman-tasas-por-caso-quien-contamina-paga",
+      "schema:headline": "El Legal Ombudsman cobrará por cada queja aceptada, de 200 a 1.500 libras, con un recargo de 400 si el despacho no respondió en ocho semanas, mientras baja hasta un 10% la cuota general de la profesión",
+      "schema:datePublished": "2026-11-05",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Office for Legal Complaints, que gestiona el Legal Ombudsman (LeO) en Inglaterra y Gales, aplicará el principio de que «quien contamina paga»: todas las quejas aceptadas generarán una tasa al despacho, salvo exención, de 200 libras si se resuelven en fase temprana, 750 tras la investigación y 1.500 tras una decisión final, más 400 libras adicionales si el despacho no dio una respuesta final al cliente en ocho semanas. A cambio, la cuota general que paga la profesión bajará hasta un 10%, aunque el presupuesto del LeO sube un 6,9%, hasta 22,8 millones de libras. El organismo prevé 21.200 quejas en 2027-2028 frente a una capacidad de unas 15.500, y ha abierto consulta sobre su borrador de estrategia 2027-2030.",
+      "schema:articleBody": "La Office for Legal Complaints, que gestiona el Legal Ombudsman (LeO) en Inglaterra y Gales, aplicará el principio de que «quien contamina paga»: todas las quejas aceptadas generarán una tasa al despacho, salvo exención, de 200 libras si se resuelven en fase temprana, 750 tras la investigación y 1.500 tras una decisión final, más 400 libras adicionales si el despacho no dio una respuesta final al cliente en ocho semanas. A cambio, la cuota general que paga la profesión bajará hasta un 10%, aunque el presupuesto del LeO sube un 6,9%, hasta 22,8 millones de libras. El organismo prevé 21.200 quejas en 2027-2028 frente a una capacidad de unas 15.500, y ha abierto consulta sobre su borrador de estrategia 2027-2030.\n\nEl cambio traslada el coste del sistema de quejas a los despachos que las generan, lo que convierte la gestión interna de reclamaciones en una partida económica directa. Para los despachos con práctica en Inglaterra y Gales, conviene revisar que el procedimiento interno da respuesta final dentro de las ocho semanas y que se documenta; para los proveedores de software de gestión, el seguimiento de quejas y plazos gana valor. Matiz: la información procede de Legal Futures y la estrategia 2027-2030 sigue en consulta.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Cambio estructural en la financiación del sistema de quejas jurídicas británico.",
+      "sota:whyNow": "Legal Futures, 5 nov 2026. NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "quejas",
+        "Legal Ombudsman",
+        "tasas",
+        "regulación profesional",
+        "despachos"
+      ],
+      "sota:summaryP1": "La Office for Legal Complaints, que gestiona el Legal Ombudsman (LeO) en Inglaterra y Gales, aplicará el principio de que «quien contamina paga»: todas las quejas aceptadas generarán una tasa al despacho, salvo exención, de 200 libras si se resuelven en fase temprana, 750 tras la investigación y 1.500 tras una decisión final, más 400 libras adicionales si el despacho no dio una respuesta final al cliente en ocho semanas. A cambio, la cuota general que paga la profesión bajará hasta un 10%, aunque el presupuesto del LeO sube un 6,9%, hasta 22,8 millones de libras. El organismo prevé 21.200 quejas en 2027-2028 frente a una capacidad de unas 15.500, y ha abierto consulta sobre su borrador de estrategia 2027-2030.",
+      "sota:summaryP2": "El cambio traslada el coste del sistema de quejas a los despachos que las generan, lo que convierte la gestión interna de reclamaciones en una partida económica directa. Para los despachos con práctica en Inglaterra y Gales, conviene revisar que el procedimiento interno da respuesta final dentro de las ocho semanas y que se documenta; para los proveedores de software de gestión, el seguimiento de quejas y plazos gana valor. Matiz: la información procede de Legal Futures y la estrategia 2027-2030 sigue en consulta.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/polluter-pays-means-profession-set-to-pay-less-for-leo",
+          "schema:name": "‘Polluter pays’ means profession set to pay less for LeO",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-ombudsman"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-05-dapo-akande-elegido-juez-corte-internacional-justicia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-05-dapo-akande-elegido-juez-corte-internacional-justicia",
+      "schema:headline": "El catedrático de Oxford Dapo Akande, elegido juez de la Corte Internacional de Justicia: es el primer británico en el tribunal en una década",
+      "schema:datePublished": "2026-11-04",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Asamblea General y el Consejo de Seguridad de Naciones Unidas eligieron esta semana al catedrático de Derecho internacional público de la Universidad de Oxford Dapo Akande como juez de la Corte Internacional de Justicia, para un mandato de nueve años. Reino Unido vuelve así al tribunal de La Haya, donde no tenía juez desde hace una década. En la misma renovación fueron elegidos también Alabrune (Francia), Hmoud (Jordania), Rena Lee (Singapur) y Okowa (Kenia). El Gobierno británico celebró la elección.",
+      "schema:articleBody": "La Asamblea General y el Consejo de Seguridad de Naciones Unidas eligieron esta semana al catedrático de Derecho internacional público de la Universidad de Oxford Dapo Akande como juez de la Corte Internacional de Justicia, para un mandato de nueve años. Reino Unido vuelve así al tribunal de La Haya, donde no tenía juez desde hace una década. En la misma renovación fueron elegidos también Alabrune (Francia), Hmoud (Jordania), Rena Lee (Singapur) y Okowa (Kenia). El Gobierno británico celebró la elección.\n\nPara los despachos con práctica de derecho internacional público y de arbitraje entre Estados, la composición de la Corte importa: Akande es una referencia académica en inmunidades, uso de la fuerza y derecho de los conflictos armados, materias presentes en asuntos pendientes. El nombramiento también reabre la representación británica en un tribunal que concentra litigios de alto perfil. Matiz: la información procede de la Law Society Gazette.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.5,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Cambio de composición en el principal tribunal internacional.",
+      "sota:whyNow": "Law Society Gazette, 4 nov 2026. NEW frente a 09-29→11-04.",
+      "sota:geo": [
+        "GB",
+        "INT"
+      ],
+      "sota:topics": [
+        "Corte Internacional de Justicia",
+        "derecho internacional",
+        "nombramientos",
+        "Naciones Unidas"
+      ],
+      "sota:summaryP1": "La Asamblea General y el Consejo de Seguridad de Naciones Unidas eligieron esta semana al catedrático de Derecho internacional público de la Universidad de Oxford Dapo Akande como juez de la Corte Internacional de Justicia, para un mandato de nueve años. Reino Unido vuelve así al tribunal de La Haya, donde no tenía juez desde hace una década. En la misma renovación fueron elegidos también Alabrune (Francia), Hmoud (Jordania), Rena Lee (Singapur) y Okowa (Kenia). El Gobierno británico celebró la elección.",
+      "sota:summaryP2": "Para los despachos con práctica de derecho internacional público y de arbitraje entre Estados, la composición de la Corte importa: Akande es una referencia académica en inmunidades, uso de la fuerza y derecho de los conflictos armados, materias presentes en asuntos pendientes. El nombramiento también reabre la representación británica en un tribunal que concentra litigios de alto perfil. Matiz: la información procede de la Law Society Gazette.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawgazette.co.uk/news/legal-academic-elected-as-first-uk-international-court-of-justice-judge-in-a-decade/5128424.article",
+          "schema:name": "Legal academic elected as first UK International Court of Justice judge in a decade",
+          "sota:sourceId": "src-law-society-gazette"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dapo-akande"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icj"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society-gazette"
+        }
+      ]
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-3-geeks-and-a-law-blog",
       "@type": "schema:Thing",
       "schema:identifier": "ent-3-geeks-and-a-law-blog",
@@ -17404,6 +17863,15 @@
       "schema:name": "Abdulrasheed Ijaodola",
       "sota:entityType": "person",
       "schema:url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-abert",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-abert",
+      "schema:name": "Associação Brasileira de Emissoras de Rádio e Televisão (Abert)",
+      "sota:entityType": "association",
+      "schema:url": "https://www.abert.org.br/",
       "sota:stub": true
     },
     {
@@ -17582,6 +18050,24 @@
       "schema:name": "American Humanist Association",
       "sota:entityType": "association",
       "schema:url": "https://americanhumanist.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-aner",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-aner",
+      "schema:name": "Associação Nacional de Editores de Revistas (Aner)",
+      "sota:entityType": "association",
+      "schema:url": "https://www.aner.org.br/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anj-brasil",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anj-brasil",
+      "schema:name": "Associação Nacional de Jornais (ANJ)",
+      "sota:entityType": "association",
+      "schema:url": "https://www.anj.org.br/",
       "sota:stub": true
     },
     {
@@ -17879,6 +18365,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bengo4",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bengo4",
+      "schema:name": "Bengo4.com",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.bengo4.com/corporate/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-benjamin-carter",
       "@type": "schema:Thing",
       "schema:identifier": "ent-benjamin-carter",
@@ -18002,6 +18497,15 @@
       "schema:name": "Brave Software",
       "sota:entityType": "vendor",
       "schema:url": "https://brave.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-brownstein-hyatt",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-brownstein-hyatt",
+      "schema:name": "Brownstein Hyatt Farber Schreck",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.bhfs.com/",
       "sota:stub": true
     },
     {
@@ -18553,6 +19057,15 @@
       "schema:name": "Daily Jus",
       "sota:entityType": "media",
       "schema:url": "https://dailyjus.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dapo-akande",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-dapo-akande",
+      "schema:name": "Dapo Akande",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lawgazette.co.uk/news/legal-academic-elected-as-first-uk-international-court-of-justice-judge-in-a-decade/5128424.article",
       "sota:stub": true
     },
     {
@@ -19411,6 +19924,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-icj",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-icj",
+      "schema:name": "Corte Internacional de Justicia",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.icj-cij.org/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ico",
       "@type": "schema:Thing",
       "schema:identifier": "ent-ico",
@@ -19893,6 +20415,15 @@
       "schema:url": "https://legaltechnology.com/"
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-ombudsman",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-ombudsman",
+      "schema:name": "Legal Ombudsman",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.legalombudsman.org.uk/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-services-board",
       "@type": "schema:Thing",
       "schema:identifier": "ent-legal-services-board",
@@ -20316,6 +20847,24 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nagashima-ohno-tsunematsu",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nagashima-ohno-tsunematsu",
+      "schema:name": "Nagashima Ohno & Tsunematsu",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.noandt.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-natalie-byrom",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-natalie-byrom",
+      "schema:name": "Natalie Byrom",
+      "sota:entityType": "person",
+      "schema:url": "https://www.lawgazette.co.uk/news/sycophantic-ai-inflaming-litigants-in-person-digital-justice-expert-claims/5128406.article",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-national-law-review",
       "@type": "schema:Thing",
       "schema:identifier": "ent-national-law-review",
@@ -20466,6 +21015,15 @@
       "schema:name": "National Security Agency",
       "sota:entityType": "government",
       "schema:url": "https://www.nsa.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nuffield-fjo",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nuffield-fjo",
+      "schema:name": "Nuffield Family Justice Observatory",
+      "sota:entityType": "academia",
+      "schema:url": "https://www.nuffieldfjo.org.uk/",
       "sota:stub": true
     },
     {
@@ -20753,6 +21311,15 @@
       "schema:name": "Politico",
       "sota:entityType": "media",
       "schema:url": "https://www.politico.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pr-times",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pr-times",
+      "schema:name": "PR TIMES",
+      "sota:entityType": "media",
+      "schema:url": "https://prtimes.jp/",
       "sota:stub": true
     },
     {
@@ -21152,6 +21719,15 @@
       "sota:stub": true
     },
     {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sullivan-cromwell",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sullivan-cromwell",
+      "schema:name": "Sullivan & Cromwell",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.sullcrom.com/",
+      "sota:stub": true
+    },
+    {
       "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sveriges-advokatsamfund",
       "@type": "schema:Thing",
       "schema:identifier": "ent-sveriges-advokatsamfund",
@@ -21419,6 +21995,15 @@
       "schema:name": "United States Court of Appeals for the Fifth Circuit",
       "sota:entityType": "government",
       "schema:url": "https://www.ca5.uscourts.gov/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-court-appeals-tenth-circuit",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-us-court-appeals-tenth-circuit",
+      "schema:name": "U.S. Court of Appeals for the Tenth Circuit",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.ca10.uscourts.gov/",
       "sota:stub": true
     },
     {

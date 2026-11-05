@@ -1,4 +1,4 @@
-count: 166
+count: 167
 agenda_count: 9
 sources:
 - id: src-artificial-lawyer
@@ -1841,6 +1841,18 @@ sources:
     Ficha añadida para citar resoluciones federales sobre IA.
   region: US
   lang: EN
+  tier: archive
+- id: src-pr-times
+  name: PR TIMES
+  url: https://prtimes.jp/
+  type: news
+  kind: news
+  frequency: continuo
+  why: Plataforma japonesa de distribución de notas de prensa. Ficha añadida para
+    citar el comunicado de Bengo4.com sobre LegalBrain Agent en Nagashima Ohno &
+    Tsunematsu.
+  region: JP
+  lang: JA
   tier: archive
 
 version: 1.0.0

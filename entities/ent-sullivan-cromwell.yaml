@@ -1,0 +1,10 @@
+id: ent-sullivan-cromwell
+name: Sullivan & Cromwell
+type: law_firm
+url: https://www.sullcrom.com/
+geo:
+- US
+aliases:
+- S&C
+notes: Despacho estadounidense con sede en Nueva York.
+stub: true

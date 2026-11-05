@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-11-05-harvey-jus-mundi-agente-a-agente-jus-ai",
+  "date": "2026-11-04",
+  "type": "product",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Harvey y Jus Mundi firman una alianza de agente a agente: Jus AI, especializado en arbitraje internacional, funcionará dentro de Harvey sin coste añadido para los clientes de ambos",
+  "short_title": "Jus AI de Jus Mundi entra en Harvey con un acuerdo agente a agente",
+  "standfirst": "El agente de Jus Mundi, con el modelo Tenet v5, estará en Assistant, Agents, Vault y Workflows antes de fin de año.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Global",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "Harvey y Jus Mundi anunciaron el 4 de noviembre una alianza de «agente a agente» por la que Jus AI, el asistente de investigación de Jus Mundi para arbitraje internacional y derecho internacional, basado en su modelo Tenet v5, se integrará en Harvey Assistant, Agents, Vault y Workflows. Los usuarios de Harvey podrán consultar los laudos, resoluciones y escritos de la base de Jus Mundi sin salir de la plataforma, y la integración estará disponible antes de fin de año para los clientes comunes sin coste adicional. El anuncio incluye una cita de Emmanuel Jacomy, socio de A&O Shearman, y recuerda que Jus Mundi trabaja con más de 700 despachos.",
+  "summary_p2": "Harvey sigue la misma estrategia de las últimas semanas: en lugar de construir cada base especializada, deja que agentes de terceros trabajen dentro de su interfaz, y el usuario final se ahorra cambiar de herramienta. Para las prácticas de arbitraje, el valor está en cruzar la base propia de Jus Mundi con los documentos del asunto en Vault; conviene comprobar cómo se cita y se separa cada fuente en la respuesta combinada. Para otros vendors de contenido especializado, el mensaje es que el acceso a la base instalada de Harvey pasa por integraciones de este tipo. Matiz: es un comunicado publicado en el blog de Jus Mundi.",
+  "why_sota": "Integración de agente a agente entre un asistente generalista y uno vertical de arbitraje.",
+  "why_now": "Daily Jus, 4 nov 2026. NEW frente a 09-29→11-04.",
+  "geo": [
+    "US",
+    "FR",
+    "GLOBAL"
+  ],
+  "topics": [
+    "arbitraje",
+    "agentes de IA",
+    "integraciones",
+    "investigación jurídica",
+    "Harvey"
+  ],
+  "sources": [
+    {
+      "source_id": "src-daily-jus",
+      "url": "https://dailyjus.com/news/2026/11/harvey-jus-mundi-announce-an-agent-to-agent-partnership-bringing-jus-ai-within-harvey",
+      "cited_title": "Harvey & Jus Mundi announce an Agent-to-Agent Partnership Bringing Jus AI within Harvey",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-jus-mundi",
+    "ent-daily-jus"
+  ],
+  "lang": "es",
+  "status": "published"
+}

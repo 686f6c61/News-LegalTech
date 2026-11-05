@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-05-nagashima-ohno-tsunematsu-despliega-legalbrain-agent-bengo4",
+  "date": "2026-11-02",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Nagashima Ohno & Tsunematsu, uno de los mayores despachos de Japón, despliega en toda la firma el agente de IA jurídica LegalBrain de Bengo4.com, que solo responde con fuentes citadas",
+  "short_title": "Nagashima Ohno & Tsunematsu adopta el agente LegalBrain de Bengo4",
+  "standfirst": "El despacho lo usará de abogados a paralegales para investigación jurídica; destaca el control de alucinaciones.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Japón",
+  "piece_type": "Adopción",
+  "summary_p1": "Bengo4.com anunció el 2 de noviembre que ha empezado a prestar su agente de IA jurídica «LegalBrain Agent» a Nagashima Ohno & Tsunematsu, con sede en Tokio, que prevé desplegarlo en todo el despacho, desde los abogados hasta los paralegales y el resto del personal. Según el comunicado, el despacho valoró la investigación conversacional basada en doctrina y jurisprudencia, la ayuda para ordenar y analizar cuestiones jurídicas y un diseño pensado para evitar alucinaciones. LegalBrain responde solo a partir de fuentes seleccionadas (leyes, jurisprudencia, directrices, libros jurídicos y artículos de Business Lawyers) y añade a cada respuesta la cita y la referencia al original. El socio Umezawa explica que el despacho ya usa muchas herramientas y bases de datos y que la IA no sustituye la verificación del abogado.",
+  "summary_p2": "Japón tiene un mercado de IA jurídica propio, con bases de doctrina en japonés que los proveedores globales no tienen, y la elección de un despacho de primera línea por un vendor local lo confirma. Para despachos con práctica japonesa o clientes en Japón, el dato útil es que la exigencia de cita de fuente se está convirtiendo en el criterio de compra; para vendors internacionales, el acceso a contenido editorial local vía alianzas sigue siendo la barrera de entrada. Matiz: es una nota de prensa del proveedor, sin cifras de uso ni de precio.",
+  "why_sota": "Adopción a escala de despacho de un agente jurídico local con respuestas solo citadas en Japón.",
+  "why_now": "PR TIMES, 2 nov 2026. NEW frente a 09-29→11-04.",
+  "geo": [
+    "JP"
+  ],
+  "topics": [
+    "investigación jurídica",
+    "agentes de IA",
+    "alucinaciones",
+    "despachos",
+    "Japón"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pr-times",
+      "url": "https://prtimes.jp/main/html/rd/p/000000608.000044347.html",
+      "cited_title": "弁護士ドットコム、長島・大野・常松法律事務所に統合型・法務AIエージェント「LegalBrain エージェント」を提供開始",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-bengo4",
+    "ent-nagashima-ohno-tsunematsu",
+    "ent-pr-times"
+  ],
+  "lang": "es",
+  "status": "published"
+}

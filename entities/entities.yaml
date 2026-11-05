@@ -5007,3 +5007,154 @@ entities:
   notes: Despacho de inmigración empresarial que funciona como ABS en Arizona sobre
     el software de Manifest OS. Ficha mínima.
   stub: true
+- id: ent-anj-brasil
+  name: Associação Nacional de Jornais (ANJ)
+  type: association
+  url: https://www.anj.org.br/
+  geo:
+  - BR
+  aliases:
+  - ANJ
+  notes: Asociación brasileña de diarios; demandante, con Abert y Aner, contra la
+    cláusula de Meta sobre entrenamiento de IA.
+  stub: true
+- id: ent-abert
+  name: Associação Brasileira de Emissoras de Rádio e Televisão (Abert)
+  type: association
+  url: https://www.abert.org.br/
+  geo:
+  - BR
+  aliases:
+  - Abert
+  notes: Asociación brasileña de radio y televisión.
+  stub: true
+- id: ent-aner
+  name: Associação Nacional de Editores de Revistas (Aner)
+  type: association
+  url: https://www.aner.org.br/
+  geo:
+  - BR
+  aliases:
+  - Aner
+  notes: Asociación brasileña de editores de revistas.
+  stub: true
+- id: ent-us-court-appeals-tenth-circuit
+  name: U.S. Court of Appeals for the Tenth Circuit
+  type: regulator
+  url: https://www.ca10.uscourts.gov/
+  geo:
+  - US
+  aliases:
+  - Décimo Circuito
+  - 10th Circuit
+  notes: Tribunal federal de apelaciones de EE. UU. con sede en Denver.
+  stub: true
+- id: ent-brownstein-hyatt
+  name: Brownstein Hyatt Farber Schreck
+  type: law_firm
+  url: https://www.bhfs.com/
+  geo:
+  - US
+  aliases:
+  - Brownstein
+  notes: Despacho estadounidense con sede en Denver.
+  stub: true
+- id: ent-nuffield-fjo
+  name: Nuffield Family Justice Observatory
+  type: academia
+  url: https://www.nuffieldfjo.org.uk/
+  geo:
+  - GB
+  aliases:
+  - Nuffield FJO
+  notes: Observatorio independiente sobre justicia de familia en Inglaterra y Gales,
+    financiado por la Nuffield Foundation.
+  stub: true
+- id: ent-natalie-byrom
+  name: Natalie Byrom
+  type: person
+  url: https://www.lawgazette.co.uk/news/sycophantic-ai-inflaming-litigants-in-person-digital-justice-expert-claims/5128406.article
+  geo:
+  - GB
+  aliases:
+  - Dr Natalie Byrom
+  notes: Investigadora británica en justicia digital; autora del informe «Delegated
+    by Default?».
+  stub: true
+- id: ent-bengo4
+  name: Bengo4.com
+  type: vendor
+  url: https://www.bengo4.com/corporate/
+  geo:
+  - JP
+  aliases:
+  - 弁護士ドットコム
+  - Bengo4.com, Inc.
+  notes: Empresa japonesa de servicios jurídicos en línea (TSE 6027); desarrolla la
+    plataforma de IA jurídica LegalBrain.
+  stub: true
+- id: ent-nagashima-ohno-tsunematsu
+  name: Nagashima Ohno & Tsunematsu
+  type: law_firm
+  url: https://www.noandt.com/
+  geo:
+  - JP
+  aliases:
+  - 長島・大野・常松法律事務所
+  - NO&T
+  notes: Uno de los mayores despachos de Japón, con sede en Tokio.
+  stub: true
+- id: ent-pr-times
+  name: PR TIMES
+  type: media
+  url: https://prtimes.jp/
+  geo:
+  - JP
+  aliases: []
+  notes: Plataforma japonesa de distribución de notas de prensa.
+  stub: true
+- id: ent-sullivan-cromwell
+  name: Sullivan & Cromwell
+  type: law_firm
+  url: https://www.sullcrom.com/
+  geo:
+  - US
+  aliases:
+  - S&C
+  notes: Despacho estadounidense con sede en Nueva York.
+  stub: true
+- id: ent-legal-ombudsman
+  name: Legal Ombudsman
+  type: regulator
+  url: https://www.legalombudsman.org.uk/
+  geo:
+  - GB
+  aliases:
+  - LeO
+  - Office for Legal Complaints
+  notes: Defensor de quejas sobre servicios jurídicos en Inglaterra y Gales; lo gestiona
+    la Office for Legal Complaints.
+  stub: true
+- id: ent-icj
+  name: Corte Internacional de Justicia
+  type: regulator
+  url: https://www.icj-cij.org/
+  geo:
+  - INT
+  aliases:
+  - International Court of Justice
+  - ICJ
+  - CIJ
+  notes: Órgano judicial principal de Naciones Unidas, con sede en La Haya.
+  stub: true
+- id: ent-dapo-akande
+  name: Dapo Akande
+  type: person
+  url: https://www.lawgazette.co.uk/news/legal-academic-elected-as-first-uk-international-court-of-justice-judge-in-a-decade/5128424.article
+  geo:
+  - GB
+  aliases:
+  - Professor Dapo Akande
+  notes: Catedrático de Derecho internacional público en Oxford; elegido juez de la
+    Corte Internacional de Justicia en noviembre de 2026.
+  stub: true

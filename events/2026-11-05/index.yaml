@@ -1,0 +1,70 @@
+scan_id: full-radar-2026-11-05
+date: '2026-11-05'
+release: 05.11.26
+count: 9
+ai_share: 0.67
+dedup_against: events/2026-09-29 → 2026-11-04 + scans PASS
+event_ids:
+- evt-2026-11-05-juez-sao-paulo-suspende-clausula-meta-entrenamiento-ia-prensa
+- evt-2026-11-05-decimo-circuito-uso-ia-no-justifica-recortar-honorarios
+- evt-2026-11-05-harvey-jus-mundi-agente-a-agente-jus-ai
+- evt-2026-11-05-informe-byrom-ia-complaciente-litigantes-sin-abogado
+- evt-2026-11-05-nagashima-ohno-tsunematsu-despliega-legalbrain-agent-bengo4
+- evt-2026-11-05-sullivan-cromwell-ropes-gray-herramientas-propias-openai
+- evt-2026-11-05-aepd-verificacion-biometrica-facial-alta-bancaria-remota
+- evt-2026-11-05-legal-ombudsman-tasas-por-caso-quien-contamina-paga
+- evt-2026-11-05-dapo-akande-elegido-juez-corte-internacional-justicia
+events:
+- id: evt-2026-11-05-juez-sao-paulo-suspende-clausula-meta-entrenamiento-ia-prensa
+  sota_score: 8.7
+  ai_legaltech: true
+  title: Un juez de São Paulo prohíbe a Meta condicionar las cuentas de los medios
+    brasileños a que acepten el uso de su contenido para entrenar Meta AI, con multa
+    de un millón de reales al día
+- id: evt-2026-11-05-decimo-circuito-uso-ia-no-justifica-recortar-honorarios
+  sota_score: 8.2
+  ai_legaltech: true
+  title: El Décimo Circuito de EE. UU. confirma 115.000 dólares de honorarios para
+    Brownstein Hyatt y rechaza que el uso de IA por los abogados obligue por sí solo
+    a rebajarlos
+- id: evt-2026-11-05-harvey-jus-mundi-agente-a-agente-jus-ai
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Harvey y Jus Mundi firman una alianza de agente a agente: Jus AI, especializado
+    en arbitraje internacional, funcionará dentro de Harvey sin coste añadido para
+    los clientes de ambos'
+- id: evt-2026-11-05-informe-byrom-ia-complaciente-litigantes-sin-abogado
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Un informe para el Nuffield Family Justice Observatory alerta de que la IA
+    complaciente está engañando a quienes litigan sin abogado en los asuntos de familia
+    y pide estándares públicos en lugar de «delegar por defecto»
+- id: evt-2026-11-05-nagashima-ohno-tsunematsu-despliega-legalbrain-agent-bengo4
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Nagashima Ohno & Tsunematsu, uno de los mayores despachos de Japón, despliega
+    en toda la firma el agente de IA jurídica LegalBrain de Bengo4.com, que solo responde
+    con fuentes citadas
+- id: evt-2026-11-05-sullivan-cromwell-ropes-gray-herramientas-propias-openai
+  sota_score: 7.0
+  ai_legaltech: true
+  title: 'Sullivan & Cromwell y Ropes & Gray explican cómo construyen con ingenieros
+    de OpenAI sus propias herramientas de IA: un analizador de contratos con los playbooks
+    del despacho y un sistema de due diligence'
+- id: evt-2026-11-05-aepd-verificacion-biometrica-facial-alta-bancaria-remota
+  sota_score: 7.0
+  ai_legaltech: false
+  title: 'La AEPD admite la verificación biométrica facial 1:1 en el alta remota de
+    clientes bancarios: que exista una alternativa menos intrusiva no la convierte
+    automáticamente en innecesaria'
+- id: evt-2026-11-05-legal-ombudsman-tasas-por-caso-quien-contamina-paga
+  sota_score: 6.8
+  ai_legaltech: false
+  title: El Legal Ombudsman cobrará por cada queja aceptada, de 200 a 1.500 libras,
+    con un recargo de 400 si el despacho no respondió en ocho semanas, mientras baja
+    hasta un 10% la cuota general de la profesión
+- id: evt-2026-11-05-dapo-akande-elegido-juez-corte-internacional-justicia
+  sota_score: 6.5
+  ai_legaltech: false
+  title: 'El catedrático de Oxford Dapo Akande, elegido juez de la Corte Internacional
+    de Justicia: es el primer británico en el tribunal en una década'

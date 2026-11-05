@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-05-legal-ombudsman-tasas-por-caso-quien-contamina-paga",
+  "date": "2026-11-05",
+  "type": "regulation",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "El Legal Ombudsman cobrará por cada queja aceptada, de 200 a 1.500 libras, con un recargo de 400 si el despacho no respondió en ocho semanas, mientras baja hasta un 10% la cuota general de la profesión",
+  "short_title": "El Legal Ombudsman cobrará por queja y bajará la cuota general",
+  "standfirst": "El presupuesto sube un 6,9%, hasta 22,8 millones de libras, y la Office for Legal Complaints consulta su estrategia 2027-2030.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación profesional",
+  "country": "Reino Unido",
+  "piece_type": "Supervisión",
+  "summary_p1": "La Office for Legal Complaints, que gestiona el Legal Ombudsman (LeO) en Inglaterra y Gales, aplicará el principio de que «quien contamina paga»: todas las quejas aceptadas generarán una tasa al despacho, salvo exención, de 200 libras si se resuelven en fase temprana, 750 tras la investigación y 1.500 tras una decisión final, más 400 libras adicionales si el despacho no dio una respuesta final al cliente en ocho semanas. A cambio, la cuota general que paga la profesión bajará hasta un 10%, aunque el presupuesto del LeO sube un 6,9%, hasta 22,8 millones de libras. El organismo prevé 21.200 quejas en 2027-2028 frente a una capacidad de unas 15.500, y ha abierto consulta sobre su borrador de estrategia 2027-2030.",
+  "summary_p2": "El cambio traslada el coste del sistema de quejas a los despachos que las generan, lo que convierte la gestión interna de reclamaciones en una partida económica directa. Para los despachos con práctica en Inglaterra y Gales, conviene revisar que el procedimiento interno da respuesta final dentro de las ocho semanas y que se documenta; para los proveedores de software de gestión, el seguimiento de quejas y plazos gana valor. Matiz: la información procede de Legal Futures y la estrategia 2027-2030 sigue en consulta.",
+  "why_sota": "Cambio estructural en la financiación del sistema de quejas jurídicas británico.",
+  "why_now": "Legal Futures, 5 nov 2026. NEW frente a 09-29→11-04.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "quejas",
+    "Legal Ombudsman",
+    "tasas",
+    "regulación profesional",
+    "despachos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/polluter-pays-means-profession-set-to-pay-less-for-leo",
+      "cited_title": "‘Polluter pays’ means profession set to pay less for LeO",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-legal-ombudsman",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

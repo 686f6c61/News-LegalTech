@@ -1,0 +1,10 @@
+id: ent-brownstein-hyatt
+name: Brownstein Hyatt Farber Schreck
+type: law_firm
+url: https://www.bhfs.com/
+geo:
+- US
+aliases:
+- Brownstein
+notes: Despacho estadounidense con sede en Denver.
+stub: true

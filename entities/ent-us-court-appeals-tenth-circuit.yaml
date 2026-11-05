@@ -1,0 +1,11 @@
+id: ent-us-court-appeals-tenth-circuit
+name: U.S. Court of Appeals for the Tenth Circuit
+type: regulator
+url: https://www.ca10.uscourts.gov/
+geo:
+- US
+aliases:
+- Décimo Circuito
+- 10th Circuit
+notes: Tribunal federal de apelaciones de EE. UU. con sede en Denver.
+stub: true

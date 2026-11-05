@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-05-dapo-akande-elegido-juez-corte-internacional-justicia",
+  "date": "2026-11-04",
+  "type": "other",
+  "sota_score": 6.5,
+  "ai_legaltech": false,
+  "title": "El catedrático de Oxford Dapo Akande, elegido juez de la Corte Internacional de Justicia: es el primer británico en el tribunal en una década",
+  "short_title": "Dapo Akande, primer juez británico en la CIJ en una década",
+  "standfirst": "Naciones Unidas renueva cinco puestos del tribunal de La Haya para mandatos de nueve años.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Profesión",
+  "country": "Internacional",
+  "piece_type": "Nombramiento",
+  "summary_p1": "La Asamblea General y el Consejo de Seguridad de Naciones Unidas eligieron esta semana al catedrático de Derecho internacional público de la Universidad de Oxford Dapo Akande como juez de la Corte Internacional de Justicia, para un mandato de nueve años. Reino Unido vuelve así al tribunal de La Haya, donde no tenía juez desde hace una década. En la misma renovación fueron elegidos también Alabrune (Francia), Hmoud (Jordania), Rena Lee (Singapur) y Okowa (Kenia). El Gobierno británico celebró la elección.",
+  "summary_p2": "Para los despachos con práctica de derecho internacional público y de arbitraje entre Estados, la composición de la Corte importa: Akande es una referencia académica en inmunidades, uso de la fuerza y derecho de los conflictos armados, materias presentes en asuntos pendientes. El nombramiento también reabre la representación británica en un tribunal que concentra litigios de alto perfil. Matiz: la información procede de la Law Society Gazette.",
+  "why_sota": "Cambio de composición en el principal tribunal internacional.",
+  "why_now": "Law Society Gazette, 4 nov 2026. NEW frente a 09-29→11-04.",
+  "geo": [
+    "GB",
+    "INT"
+  ],
+  "topics": [
+    "Corte Internacional de Justicia",
+    "derecho internacional",
+    "nombramientos",
+    "Naciones Unidas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-law-society-gazette",
+      "url": "https://www.lawgazette.co.uk/news/legal-academic-elected-as-first-uk-international-court-of-justice-judge-in-a-decade/5128424.article",
+      "cited_title": "Legal academic elected as first UK International Court of Justice judge in a decade",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-dapo-akande",
+    "ent-icj",
+    "ent-law-society-gazette"
+  ],
+  "lang": "es",
+  "status": "published"
+}

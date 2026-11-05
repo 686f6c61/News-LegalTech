@@ -1,0 +1,9 @@
+id: ent-pr-times
+name: PR TIMES
+type: media
+url: https://prtimes.jp/
+geo:
+- JP
+aliases: []
+notes: Plataforma japonesa de distribución de notas de prensa.
+stub: true

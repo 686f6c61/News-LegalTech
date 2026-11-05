@@ -1,0 +1,12 @@
+id: ent-icj
+name: Corte Internacional de Justicia
+type: regulator
+url: https://www.icj-cij.org/
+geo:
+- INT
+aliases:
+- International Court of Justice
+- ICJ
+- CIJ
+notes: Órgano judicial principal de Naciones Unidas, con sede en La Haya.
+stub: true

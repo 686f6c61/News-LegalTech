@@ -1,0 +1,11 @@
+id: ent-anj-brasil
+name: Associação Nacional de Jornais (ANJ)
+type: association
+url: https://www.anj.org.br/
+geo:
+- BR
+aliases:
+- ANJ
+notes: Asociación brasileña de diarios; demandante, con Abert y Aner, contra la cláusula
+  de Meta sobre entrenamiento de IA.
+stub: true

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-05-aepd-verificacion-biometrica-facial-alta-bancaria-remota",
+  "date": "2026-11-05",
+  "type": "guidance",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "La AEPD admite la verificación biométrica facial 1:1 en el alta remota de clientes bancarios: que exista una alternativa menos intrusiva no la convierte automáticamente en innecesaria",
+  "short_title": "AEPD: la biometría 1:1 cabe en el alta bancaria remota",
+  "standfirst": "La Agencia responde a la consulta de una entidad financiera y reinterpreta el juicio de necesidad cuando los datos son efímeros.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "España",
+  "piece_type": "Criterio",
+  "summary_p1": "La Agencia Española de Protección de Datos ha respondido a la consulta de una entidad financiera que quiere sustituir la comprobación visual, por personal de back office, entre la imagen del documento de identidad y un vídeo del cliente por una verificación biométrica facial automatizada 1:1 en el alta remota. El sistema genera referencias biométricas temporales a partir del documento y del vídeo, las compara, no consulta otras bases de datos y destruye los datos tras la comparación. La AEPD considera que esa verificación puntual, con datos efímeros, supone un riesgo sustancialmente menor que la identificación permanente y que puede superar los juicios de idoneidad, necesidad y proporcionalidad del RGPD. Y reinterpreta la necesidad: la mera existencia de una alternativa menos intrusiva, como la revisión humana, no invalida la biometría; para desplazarla, debe ser igual de eficaz contra el fraude.",
+  "summary_p2": "Es un cambio relevante respecto a la línea restrictiva que la Agencia había mantenido con los datos biométricos y abre la puerta a procesos de alta remota más automatizados en banca y, por extensión, en otros sectores con riesgo de suplantación. Para los delegados de protección de datos y los despachos que asesoran a entidades financieras, el criterio exige documentar la ineficacia de la alternativa humana frente al fraude y la eliminación de los datos tras el cotejo; para los proveedores de verificación de identidad, el diseño sin almacenamiento pasa a ser un argumento jurídico. Matiz: es una respuesta a una consulta concreta, recogida por Confilegal, no una resolución sancionadora ni una guía general.",
+  "why_sota": "Cambio de criterio de la AEPD en biometría para verificación de identidad remota.",
+  "why_now": "Confilegal, 5 nov 2026. NEW frente a 09-29→11-04.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "biometría",
+    "RGPD",
+    "verificación de identidad",
+    "banca",
+    "AEPD"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261105-la-aepd-cambia-su-criterio-sobre-los-datos-biometricos-que-haya-alternativa-no-lo-hace-innecesario/",
+      "cited_title": "La AEPD cambia su criterio sobre los datos biométricos: que haya alternativa no lo hace innecesario",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "entities": [
+    "ent-aepd",
+    "ent-confilegal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

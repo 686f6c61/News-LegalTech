@@ -1,0 +1,11 @@
+id: ent-nuffield-fjo
+name: Nuffield Family Justice Observatory
+type: academia
+url: https://www.nuffieldfjo.org.uk/
+geo:
+- GB
+aliases:
+- Nuffield FJO
+notes: Observatorio independiente sobre justicia de familia en Inglaterra y Gales,
+  financiado por la Nuffield Foundation.
+stub: true

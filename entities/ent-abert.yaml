@@ -1,0 +1,10 @@
+id: ent-abert
+name: Associação Brasileira de Emissoras de Rádio e Televisão (Abert)
+type: association
+url: https://www.abert.org.br/
+geo:
+- BR
+aliases:
+- Abert
+notes: Asociación brasileña de radio y televisión.
+stub: true
