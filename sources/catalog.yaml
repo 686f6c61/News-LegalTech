@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 167
+count: 170
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1859,4 +1859,38 @@ sources:
     Tsunematsu.
   region: JP
   lang: JA
+  tier: archive
+
+- id: src-ao-shearman
+  name: A&O Shearman
+  url: https://www.aoshearman.com/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Despacho global (web corporativa). Ficha añadida para citar el compromiso
+    de 1.100 M$ en IA y el despliegue de ContractMatrix/Harvey.
+  region: UK
+  lang: EN
+  tier: archive
+- id: src-legora
+  name: Legora
+  url: https://legora.com/
+  type: vendor
+  kind: news
+  frequency: irregular
+  why: Vendor de IA jurídica (antes Leya). Ficha añadida para citar el despliegue
+    firm-wide en Fieldfisher.
+  region: EU
+  lang: EN
+  tier: archive
+- id: src-edrm
+  name: EDRM
+  url: https://edrm.net/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Comunidad y medio de e-discovery. Ficha añadida para citar el análisis del
+    auto Farhat v. Cutera sobre citas erróneas con Legora.
+  region: US
+  lang: EN
   tier: archive

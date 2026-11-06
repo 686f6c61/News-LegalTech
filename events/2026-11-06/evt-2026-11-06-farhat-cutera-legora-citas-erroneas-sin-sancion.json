@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-06-farhat-cutera-legora-citas-erroneas-sin-sancion",
+  "date": "2026-10-28",
+  "type": "case_law",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "El Distrito Norte de California no sanciona a la abogada de Cutera que usó Legora, pero descarta las citas erróneas del escrito y no admite las correcciones posteriores",
+  "short_title": "Cutera: sin sanción por Legora, pero las citas erróneas no cuentan",
+  "standfirst": "La letrada revisó Westlaw y corrigió el borrador; se presentó por error el PDF anterior.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Deontología",
+  "country": "EE. UU.",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El juez Thomas S. Hixson, del Distrito Norte de California, dictó el 28 de octubre de 2026 un auto en Farhat v. Cutera, Inc. (26-cv-05674) que descarga la orden de mostrar causa emitida tras detectar citas inencontrables en un motion to dismiss. La abogada Lyndsey C. Heaton declaró que usó Legora para el borrador inicial, revisó las autoridades en Westlaw, corrigió errores y envió el borrador corregido a su asistente, pero se convirtió a PDF y se presentó por error la versión anterior. El tribunal no impone sanciones Rule 11 en este momento, recuerda que la responsabilidad de verificar el escrito final sigue siendo del abogado aunque use IA o delegue en personal, y advierte de sanciones futuras. Como consecuencia práctica, desestima las autoridades impugnadas y no considerará las sustitutivas ofrecidas en la declaración.",
+  "summary_p2": "El caso añade un matiz nuevo a la saga de alucinaciones: aquí hubo verificación humana y aun así falló el control del PDF final, y el coste no es la multa sino perder esas citas en el fondo del motion. Para despachos que ya usan Legora, Harvey u otras, el checklist tiene que cubrir la versión que realmente se presenta, no solo la revisión en Westlaw del borrador bueno. Para vendors, aparece el nombre de Legora en un auto federal dos semanas después de su Serie E. Matiz: la cobertura detallada procede de EDRM; el auto es público.",
+  "why_sota": "Auto federal que nombra a Legora, niega sanción por error honesto y penaliza descartando citas y correcciones.",
+  "why_now": "Auto 28 oct 2026; EDRM, 3 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "alucinaciones",
+    "Rule 11",
+    "Legora",
+    "verificación",
+    "e-discovery"
+  ],
+  "sources": [
+    {
+      "source_id": "src-edrm",
+      "url": "https://edrm.net/2026/11/honest-error-no-sanctions-but-a-penalty/",
+      "cited_title": "Honest Error – No Sanctions, But a Penalty",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-nd-cal",
+    "ent-legora",
+    "ent-edrm"
+  ],
+  "lang": "es",
+  "status": "published"
+}

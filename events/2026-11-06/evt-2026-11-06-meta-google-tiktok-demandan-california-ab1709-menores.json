@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-11-06-meta-google-tiktok-demandan-california-ab1709-menores",
+  "date": "2026-11-05",
+  "type": "litigation",
+  "sota_score": 7.2,
+  "ai_legaltech": false,
+  "title": "Meta, Google y TikTok demandan al fiscal general de California para bloquear la ley AB 1709 que restringe feeds personalizados y autoplay a menores de 16 años",
+  "short_title": "Meta, Google y TikTok atacan en tribunales la AB 1709 de California",
+  "standfirst": "La norma, firmada en septiembre, entraría en vigor a inicios de 2027 con multas de hasta 50.000 dólares por menor afectado.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Plataformas",
+  "country": "EE. UU.",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "Meta, Google y TikTok presentaron el 5 de noviembre demandas contra el fiscal general de California, Rob Bonta, para frenar la AB 1709, firmada por el gobernador Gavin Newsom en septiembre y prevista para principios de 2027. La ley prohíbe a las plataformas ofrecer autoplay y feeds personalizados a menores de 16 años y les obliga a borrar esas cuentas si no desactivan esas funciones, con multas de hasta 50.000 dólares por menor afectado. Meta alega vulneración de la Primera Enmienda y preemption de la Section 230; TikTok y Google plantean argumentos similares. La Electronic Frontier Foundation advierte de que la norma empuja a más verificación de edad y, con ella, a más recogida de datos de todos los usuarios.",
+  "summary_p2": "Aunque no es una pieza de IA jurídica, fija el marco de litigación sobre diseño de producto, menores y moderación algorítmica en el estado más influyente de EE. UU., con efecto de arrastre en compliance de plataformas y en la abogacía tech. Para despachos de privacy y First Amendment, el expediente AB 1709 se convierte en el próximo banco de pruebas tras otras leyes estatales de menores; para in-house de plataformas, el coste de no diseñar un modo «menor» puede medirse ya en 50.000 dólares por usuario. Matiz: son demandas recién presentadas; no hay medida cautelar resuelta en la cobertura de TechCrunch.",
+  "why_sota": "Ataque coordinado de las tres grandes plataformas contra la ley californiana de feeds adictivos para menores.",
+  "why_now": "TechCrunch, 5 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "menores",
+    "redes sociales",
+    "Primera Enmienda",
+    "California",
+    "compliance"
+  ],
+  "sources": [
+    {
+      "source_id": "src-techcrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "cited_title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-meta",
+    "ent-google",
+    "ent-tiktok",
+    "ent-rob-bonta",
+    "ent-california",
+    "ent-techcrunch"
+  ],
+  "lang": "es",
+  "status": "published"
+}

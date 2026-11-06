@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-06-harvey-forum-chicago-graph-fact-outlook-imanage",
+  "date": "2026-11-05",
+  "type": "product",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Harvey presenta en FORUM Chicago su Graph de contexto, el Fact Graph para litigación, agentes en Outlook y la sincronización bidireccional con iManage",
+  "short_title": "Harvey lanza Graph, Fact Graph, Outlook e iManage bidireccional",
+  "standfirst": "Más de 500 líderes oyeron la apuesta de pasar de «herramienta a la que se pregunta» a «equipo que se dirige».",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Global",
+  "piece_type": "Lanzamiento",
+  "summary_p1": "En Harvey FORUM Chicago, el 5 de noviembre, el vendor presentó delante de más de 500 líderes de despachos e in-house la siguiente fase de su plataforma. Harvey Graph mapea las relaciones de un asunto para que los agentes compartan el mismo contexto en lugar de reconstruirlo en cada paso. El Fact Graph, en early access con design partners, enlaza hechos con su fuente literal y entre sí para litigación e investigaciones internas (Harvey dice que un tercio de su base de clientes son litigadores). Los agentes ya están en Outlook para triaje, archivo a Vault, borradores y briefings diarios, siempre con aprobación humana. Con iManage anuncian una integración bidireccional en early access: el contexto entra en Harvey, el trabajo vuelve al DMS y se respetan los ethical walls ya configurados.",
+  "summary_p2": "El paquete empuja a Harvey desde el chat hacia un sistema de registro vivo del asunto, justo el terreno en el que compiten Legora, iManage y los DMS. Para litigación, el Fact Graph es la pieza a probar en un piloto con control de citas; para IT jurídico, la sincronización bidireccional con iManage reduce el miedo a un silo paralelo. Matiz: es un keynote de producto del propio Harvey; Graph, Fact Graph e iManage bidireccional están en acceso anticipado, no en disponibilidad general.",
+  "why_sota": "Primera presentación pública conjunta de Graph, Fact Graph, Outlook agents e iManage two-way en Harvey.",
+  "why_now": "Harvey blog, 5 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "US",
+    "GLOBAL"
+  ],
+  "topics": [
+    "agentes de IA",
+    "litigación",
+    "DMS",
+    "Outlook",
+    "contexto"
+  ],
+  "sources": [
+    {
+      "source_id": "src-harvey",
+      "url": "https://www.harvey.ai/blog/forum-chicago-product-announcements",
+      "cited_title": "Product Announcements From Harvey FORUM Chicago",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-imanage"
+  ],
+  "lang": "es",
+  "status": "published"
+}

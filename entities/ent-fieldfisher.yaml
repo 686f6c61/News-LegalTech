@@ -1,0 +1,12 @@
+id: ent-fieldfisher
+name: Fieldfisher
+type: law_firm
+url: https://www.fieldfisher.com/
+geo:
+- GB
+- EU
+aliases:
+- Fieldfisher X
+notes: Despacho internacional británico; despliega Legora firm-wide desde su hub de
+  IA en Berlín.
+stub: true

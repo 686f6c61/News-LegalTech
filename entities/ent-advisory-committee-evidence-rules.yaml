@@ -1,0 +1,10 @@
+id: ent-advisory-committee-evidence-rules
+name: Advisory Committee on Evidence Rules
+type: regulator
+url: https://www.uscourts.gov/rules-policies/about-rulemaking-process/committee-membership-rosters
+geo:
+- US
+aliases: []
+notes: Comité asesor de las Federal Rules of Evidence ante la Judicial Conference
+  de EE. UU.
+stub: true

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-06-comite-prueba-eeuu-atasco-reglas-ia-deepfakes",
+  "date": "2026-11-04",
+  "type": "regulation",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "El comité federal de reglas de prueba de EE. UU. sigue atascado con las normas sobre IA y deepfakes; Maura Grossman se declara poco esperanzada",
+  "short_title": "EE. UU.: atasco en las reglas federales de prueba sobre IA",
+  "standfirst": "El Advisory Committee on Evidence Rules lleva años sin consenso sobre cómo tratar deepfakes y otras pruebas con IA.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Prueba",
+  "country": "EE. UU.",
+  "piece_type": "Regulación",
+  "summary_p1": "El ABA Journal informó el 4 de noviembre de que los trabajos del Advisory Committee on Evidence Rules, que asesora a la Judicial Conference de Estados Unidos, para elaborar reglas sobre el uso de IA en los tribunales siguen estancados ante la dificultad de alcanzar un consenso. Abogados, académicos y jueces han criticado propuestas de reglas probatorias, entre ellas las relativas a deepfakes generados por IA, según la información de Law360 que recoge el ABA Journal. Maura R. Grossman, catedrática en la University of Waterloo cuya investigación ha influido en las propuestas, resume el estado de ánimo: «Bottom line: I'm not hopeful at this point».",
+  "summary_p2": "Mientras no haya regla federal específica, cada distrito seguirá improvisando con órdenes locales, OSC y la Rule 11, como en Cutera. Para litigadores y vendors de authentication o de detección de deepfakes, el vacío prolonga la incertidumbre sobre carga de la prueba y estándares de admisibilidad; para quien vende «AI evidence» a tribunales, el mensaje es que el producto llega antes que la norma. Matiz: el ABA Journal se basa en Law360 y no detalla el texto de las propuestas rechazadas; no es una norma nueva, sino la ausencia de ella.",
+  "why_sota": "Señal clara de bloqueo institucional en la rulemaking federal sobre IA y prueba.",
+  "why_now": "ABA Journal, 4 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "reglas de prueba",
+    "deepfakes",
+    "Judicial Conference",
+    "IA en tribunales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/judiciary-efforts-to-create-rules-for-ai-stalling-amid-concerns",
+      "cited_title": "Judiciary efforts to create rules for AI stalling amid concerns",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-advisory-committee-evidence-rules",
+    "ent-maura-grossman",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

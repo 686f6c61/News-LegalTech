@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-06-lopezmarques-adopta-harvey-litigacion-mercantil-penal",
+  "date": "2026-11-04",
+  "type": "product",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Lopezmarqués adopta Harvey en litigación y arbitraje, mercantil y penal económico, trabajando sobre las bases de conocimiento propias del despacho",
+  "short_title": "Lopezmarqués adopta Harvey en litigación, mercantil y penal",
+  "standfirst": "El despacho español lo usa para cronologías documentales y borradores a partir de precedentes internos.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "España",
+  "piece_type": "Adopción",
+  "summary_p1": "Harvey anunció el 4 de noviembre que el despacho español Lopezmarqués ha adoptado su plataforma en Litigación y Arbitraje, Derecho Mercantil y Societario y Delitos de cuello blanco y Derecho Penal Económico. Los abogados la usan para revisar grandes volúmenes de prueba documental, reconstruir cronologías, recuperar trabajo previo del despacho, preparar borradores a partir de transacciones anteriores y apoyar la investigación sobre bases de conocimiento internas seleccionadas. En un caso de posible transmisión fraudulenta de activos, ayudó a cruzar actas, escrituras, cuentas, extractos y facturas; en una compraventa de participaciones con reconocimiento de deuda y garantías, generó un primer borrador a partir de un memorándum interno que el socio responsable revisó. Juan José López Marqués insiste en que la IA no sustituye el juicio del abogado y en que trabajar con el historial propio reduce el riesgo frente a fuentes genéricas.",
+  "summary_p2": "Es una señal útil para el mercado español: un despacho boutique/mid-market elige Harvey con el argumento de la base propia, no solo de la potencia del modelo. Para in-house y firmas españolas que negocian con vendors, el caso de uso (cronología + borrador desde precedentes internos) es reproducible; para Harvey, refuerza la narrativa EMEA tras Broseta y el desembarco en Madrid. Matiz: es un comunicado del vendor, sin cifras de asientos ni de precio.",
+  "why_sota": "Adopción española documentada de Harvey con énfasis en bases de conocimiento propias.",
+  "why_now": "Harvey, 4 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "adopción",
+    "Harvey",
+    "España",
+    "bases de conocimiento",
+    "litigación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-harvey",
+      "url": "https://www.harvey.ai/blog/lopezmarques-adopts-harvey",
+      "cited_title": "Lopezmarqués Adopts Harvey",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-lopezmarques",
+    "ent-harvey"
+  ],
+  "lang": "es",
+  "status": "published"
+}

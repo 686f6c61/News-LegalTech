@@ -1,0 +1,13 @@
+id: ent-crcica
+name: Cairo Regional Centre for International Commercial Arbitration (CRCICA)
+type: regulator
+url: https://crcica.org/
+geo:
+- EG
+- AF
+- AS
+aliases:
+- CRCICA
+notes: Centro de arbitraje regional afroasiático con sede en El Cairo; adopta Jus
+  AI.
+stub: true

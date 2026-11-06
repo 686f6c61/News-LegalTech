@@ -1,0 +1,10 @@
+id: ent-lopezmarques
+name: Lopezmarqués
+type: law_firm
+url: https://www.lopezmarques.com/
+geo:
+- ES
+aliases:
+- López Marqués
+notes: Despacho español; adopta Harvey en litigación, mercantil y penal económico.
+stub: true

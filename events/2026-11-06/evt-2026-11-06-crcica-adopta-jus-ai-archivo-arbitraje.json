@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-11-06-crcica-adopta-jus-ai-archivo-arbitraje",
+  "date": "2026-11-05",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "CRCICA, el centro de arbitraje de El Cairo, adopta Jus AI de Jus Mundi para consultar su propio archivo institucional de laudos y doctrina",
+  "short_title": "CRCICA adopta Jus AI para su archivo de arbitraje",
+  "standfirst": "El agente trabajará sobre el repositorio privado del centro, con citas trazables y controles de confidencialidad.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Arbitraje",
+  "country": "Egipto",
+  "piece_type": "Adopción",
+  "summary_p1": "Jus Mundi anunció el 5 de noviembre que el Cairo Regional Centre for International Commercial Arbitration (CRCICA) ha adoptado Jus AI, su agente de IA centrado en arbitraje internacional. El objetivo es que los equipos jurídicos y de case management del centro busquen y analicen materiales propios acumulados durante más de cuatro décadas (CRCICA gestiona casos en árabe, inglés y francés desde 1979) sin sacar ese archivo privado. La pieza se apoya en la colaboración previa para dar visibilidad a laudos y al Journal of Arab Arbitration. Jus Mundi destaca razonamiento agéntico con citas trazables y certificaciones ISO 27001, ISO 42001 y SOC 2.",
+  "summary_p2": "Tras el acuerdo agente a agente con Harvey de ayer, Jus Mundi refuerza el otro lado del tablero: las instituciones arbitrales como clientes directos de su agente. Para despachos con práctica en Oriente Medio y África, el dato útil es que el know-how institucional árabe puede empezar a consultarse con las mismas garantías de cita que ya exige el mercado; para otros centros (ICC, LCIA, SIAC), el movimiento marca una pauta de «archivo propio + agente» que pueden copiar o licenciar. Matiz: es un comunicado canalizado por Daily Jus / Jus Mundi.",
+  "why_sota": "Primera adopción institucional conocida de Jus AI por un centro arbitral afroasiático sobre archivo propio.",
+  "why_now": "Daily Jus, 5 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "EG",
+    "FR",
+    "GLOBAL"
+  ],
+  "topics": [
+    "arbitraje",
+    "Jus AI",
+    "instituciones",
+    "archivo",
+    "confidentialidad"
+  ],
+  "sources": [
+    {
+      "source_id": "src-daily-jus",
+      "url": "https://dailyjus.com/news/2026/11/crcica-advances-institutional-arbitration-intelligence-through-jus-ai",
+      "cited_title": "CRCICA Advances Institutional Arbitration Intelligence Through Jus AI",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-crcica",
+    "ent-jus-mundi",
+    "ent-daily-jus"
+  ],
+  "lang": "es",
+  "status": "published"
+}

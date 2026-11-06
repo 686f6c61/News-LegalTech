@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-06-madrid-ley-abogacia-general-diez-anos",
+  "date": "2026-11-05",
+  "type": "regulation",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "Madrid aprueba una nueva Ley de la Abogacía General que exige diez años de experiencia para dirigir los servicios jurídicos autonómicos y separa asesoramiento y litigios",
+  "short_title": "Madrid: nueva Ley de la Abogacía General con 10 años de experiencia",
+  "standfirst": "Sustituye la norma de 1999, crea una Secretaría Técnica y regula el Cuerpo de Letrados (más de 80 juristas).",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Administración pública",
+  "country": "España",
+  "piece_type": "Regulación",
+  "summary_p1": "La Asamblea de Madrid aprobó el 5 de noviembre la nueva Ley de la Abogacía General de la Comunidad de Madrid, que sustituye el marco de 1999. El Abogado General deberá pertenecer a un cuerpo de letrados de las Administraciones públicas, preferentemente de la Comunidad, y acreditar al menos diez años de experiencia. La estructura se divide en Dirección de Asesoramiento Jurídico y Dirección de Litigios, y se crea una Secretaría Técnica para estudios, formación e impulso de la digitalización. La ley renueva el régimen de informes y consultas jurídicas y regula el Cuerpo de Letrados, integrado por más de 80 juristas, con énfasis en cualificación, independencia e imparcialidad.",
+  "summary_p2": "Para quien litiga o contrata con la Administración madrileña, cambia el interlocutor y el mapa interno de dictámenes frente a defensa en juicio. La mención expresa a digitalización en la Secretaría Técnica abre un hueco para herramientas de gestión documental y, más adelante, de IA, bajo control del cuerpo de letrados. Matiz: la pieza resume la información institucional vía Confilegal; el detalle reglamentario de la digitalización quedará en desarrollo.",
+  "why_sota": "Reforma autonómica completa de la abogacía pública madrileña con requisito de antigüedad y separación asesoramiento/litigio.",
+  "why_now": "Confilegal, 6 nov 2026 (aprobación 5 nov). NEW frente a 09-29→11-05.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "abogacía pública",
+    "Comunidad de Madrid",
+    "letrado",
+    "digitalización",
+    "organización"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261106-madrid-aprueba-una-nueva-ley-de-la-abogacia-general-que-exigira-diez-anos-de-experiencia-para-dirigir-sus-servicios-juridicos/",
+      "cited_title": "Madrid aprueba una nueva Ley de la Abogacía General que exigirá diez años de experiencia para dirigir sus servicios jurídicos",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-comunidad-madrid"
+  ],
+  "lang": "es",
+  "status": "published"
+}

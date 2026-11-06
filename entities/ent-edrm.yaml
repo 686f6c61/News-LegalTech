@@ -1,0 +1,10 @@
+id: ent-edrm
+name: EDRM
+type: media
+url: https://edrm.net/
+geo:
+- US
+aliases:
+- Electronic Discovery Reference Model
+notes: Comunidad y medio de e-discovery y pruebas electrónicas.
+stub: true

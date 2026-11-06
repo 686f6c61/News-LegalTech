@@ -1,0 +1,11 @@
+id: ent-nd-cal
+name: U.S. District Court for the Northern District of California
+type: regulator
+url: https://www.cand.uscourts.gov/
+geo:
+- US
+aliases:
+- N.D. Cal.
+- Distrito Norte de California
+notes: Tribunal federal de distrito en San Francisco.
+stub: true

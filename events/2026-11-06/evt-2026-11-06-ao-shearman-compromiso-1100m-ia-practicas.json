@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-11-06-ao-shearman-compromiso-1100m-ia-practicas",
+  "date": "2026-11-05",
+  "type": "market",
+  "sota_score": 8.6,
+  "ai_legaltech": true,
+  "title": "A&O Shearman compromete 1.100 millones de dólares en cinco años para que cada práctica dedique al menos el 3% de su tiempo a construir herramientas de IA especializadas",
+  "short_title": "A&O Shearman: 1.100 M$ y un 3% del tiempo de cada práctica en IA",
+  "standfirst": "El despacho mide el uso masivo de ContractMatrix y Harvey (96% de socios en septiembre) y quiere modularizar el conocimiento de cada área.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Global",
+  "piece_type": "Mercado",
+  "summary_p1": "A&O Shearman anunció el 5 de noviembre un compromiso de 1.100 millones de dólares (USD 1.1bn) en cinco años para acelerar su estrategia de inteligencia artificial (IA). La mayor parte vendrá de que cada práctica invierta al menos el 3% de su tiempo en desarrollar herramientas y servicios de IA propios de su área. El despacho recuerda que en 2022 fue el primero en desplegar IA generativa a escala de firma, que en 2023 lanzó ContractMatrix con Microsoft y Harvey, y que en septiembre de 2026 el 96% de los socios y el 93% de los abogados usaban sus herramientas, con más de 558.000 actividades en ContractMatrix y Harvey. Cita además un mandato plurianual tras una prueba a ciegas en la que ContractMatrix superó en un 8,5% al siguiente rival, según la evaluación del cliente.",
+  "summary_p2": "El mensaje para el mercado es que el siguiente salto no es comprar otra licencia genérica, sino convertir el know-how de cada práctica en módulos reutilizables y facturables. Para otros despachos globales, el 3% del tiempo por área es una métrica concreta que los comités de IA podrán copiar o discutir; para vendors, confirma que A&O seguirá construyendo encima de Harvey y Microsoft, no sustituyéndolos. Matiz: son cifras y compromisos del propio despacho, sin desglose de cuánto es cash y cuánto es tiempo de abogado.",
+  "why_sota": "Uno de los compromisos cuantificados más altos de un Magic Circle / BigLaw en IA jurídica con métrica de tiempo por práctica.",
+  "why_now": "A&O Shearman, 5 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "UK",
+    "US",
+    "GLOBAL"
+  ],
+  "topics": [
+    "IA en despachos",
+    "ContractMatrix",
+    "Harvey",
+    "inversión",
+    "gobernanza"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ao-shearman",
+      "url": "https://www.aoshearman.com/en/news/ao-shearman-accelerates-ai-strategy-with-a-usd11bn-lawyer-led-commitment",
+      "cited_title": "A&O Shearman accelerates AI strategy with a USD1.1 billion lawyer-led commitment",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-ao-shearman",
+    "ent-allen-overy",
+    "ent-harvey",
+    "ent-microsoft"
+  ],
+  "lang": "es",
+  "status": "published"
+}

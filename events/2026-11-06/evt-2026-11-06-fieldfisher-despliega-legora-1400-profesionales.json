@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-06-fieldfisher-despliega-legora-1400-profesionales",
+  "date": "2026-11-05",
+  "type": "product",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "Fieldfisher despliega Legora en unos 1.400 abogados y profesionales de Business Services tras un piloto de seis semanas con 137 usuarios en Europa",
+  "short_title": "Fieldfisher despliega Legora a unos 1.400 profesionales",
+  "standfirst": "El rollout lo dirige el hub Fieldfisher X en Berlín; usarán Agent, tablas de revisión y Monitors por práctica.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Reino Unido",
+  "piece_type": "Adopción",
+  "summary_p1": "Legora anunció el 5 de noviembre que Fieldfisher está desplegando su plataforma de IA jurídica en toda la firma, a unos 1.400 abogados y profesionales de Business Services de su red internacional. La decisión sigue a un piloto de seis semanas con 137 usuarios en el Reino Unido y el resto de Europa. El programa lo lidera el hub global de IA de Fieldfisher X en Berlín, creado en septiembre de 2025 bajo Doron Faibish y el AI Board que preside el socio Jan Wildhirth. Los abogados usarán Legora para investigación, revisión y redacción en litigación, mercantil, tecnología y datos y regulatoria; podrán encargar tareas multi-paso al Agent, revisar lotes en una sola tabla y montar Monitors de novedades. Los legal engineers de Legora trabajarán con el equipo de IA del despacho para convertir el know-how propio en workflows y Skills compartidos.",
+  "summary_p2": "Es una de las adopciones firm-wide europeas más amplias del otoño y sitúa a Legora frente a Harvey en un despacho pan-europeo con hub propio de producto. Para in-house y paneles, conviene preguntar qué Skills y Monitors quedan gobernados por Fieldfisher y cuáles son genéricos del vendor; para otros despachos medianos-grandes, el piloto de 137 usuarios en seis semanas marca un umbral de prueba antes del despliegue. Matiz: el comunicado es del proveedor; The Lawyer corroboró el movimiento el mismo día, pero el detalle numérico procede de Legora.",
+  "why_sota": "Despliegue paneuropeo a ~1.400 asientos de un agente jurídico con hub de IA propio del despacho.",
+  "why_now": "Legora / Fieldfisher, 5 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "GB",
+    "DE",
+    "EU"
+  ],
+  "topics": [
+    "adopción",
+    "agentes de IA",
+    "Legora",
+    "Fieldfisher X",
+    "workflows"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legora",
+      "url": "https://legora.com/newsroom/fieldfisher-goes-firm-wide-with-legora-across-its-international-network",
+      "cited_title": "Fieldfisher goes firm-wide with Legora across its international network",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-fieldfisher",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

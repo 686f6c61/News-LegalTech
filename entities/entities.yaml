@@ -5158,3 +5158,122 @@ entities:
   notes: Catedrático de Derecho internacional público en Oxford; elegido juez de la
     Corte Internacional de Justicia en noviembre de 2026.
   stub: true
+- id: ent-fieldfisher
+  name: Fieldfisher
+  type: law_firm
+  url: https://www.fieldfisher.com/
+  geo:
+  - GB
+  - EU
+  aliases:
+  - Fieldfisher X
+  notes: Despacho internacional británico; despliega Legora firm-wide desde su hub
+    de IA en Berlín.
+  stub: true
+- id: ent-lopezmarques
+  name: Lopezmarqués
+  type: law_firm
+  url: https://www.lopezmarques.com/
+  geo:
+  - ES
+  aliases:
+  - López Marqués
+  notes: Despacho español; adopta Harvey en litigación, mercantil y penal económico.
+  stub: true
+- id: ent-crcica
+  name: Cairo Regional Centre for International Commercial Arbitration (CRCICA)
+  type: regulator
+  url: https://crcica.org/
+  geo:
+  - EG
+  - AF
+  - AS
+  aliases:
+  - CRCICA
+  notes: Centro de arbitraje regional afroasiático con sede en El Cairo; adopta Jus
+    AI.
+  stub: true
+- id: ent-edrm
+  name: EDRM
+  type: media
+  url: https://edrm.net/
+  geo:
+  - US
+  aliases:
+  - Electronic Discovery Reference Model
+  notes: Comunidad y medio de e-discovery y pruebas electrónicas.
+  stub: true
+- id: ent-ao-shearman
+  name: A&O Shearman
+  type: law_firm
+  url: https://www.aoshearman.com/
+  geo:
+  - UK
+  - US
+  - GLOBAL
+  aliases:
+  - Allen & Overy Shearman
+  - A and O Shearman
+  notes: Despacho global surgido de la fusión Allen & Overy y Shearman & Sterling;
+    compromiso de 1.100 M$ en IA.
+  stub: true
+- id: ent-nd-cal
+  name: U.S. District Court for the Northern District of California
+  type: regulator
+  url: https://www.cand.uscourts.gov/
+  geo:
+  - US
+  aliases:
+  - N.D. Cal.
+  - Distrito Norte de California
+  notes: Tribunal federal de distrito en San Francisco.
+  stub: true
+- id: ent-advisory-committee-evidence-rules
+  name: Advisory Committee on Evidence Rules
+  type: regulator
+  url: https://www.uscourts.gov/rules-policies/about-rulemaking-process/committee-membership-rosters
+  geo:
+  - US
+  aliases: []
+  notes: Comité asesor de las Federal Rules of Evidence ante la Judicial Conference
+    de EE. UU.
+  stub: true
+- id: ent-richard-lloyd
+  name: Richard Lloyd
+  type: person
+  url: https://www.gov.uk/
+  geo:
+  - GB
+  aliases: []
+  notes: Autor de la revisión independiente del Legal Services Board (2026).
+  stub: true
+- id: ent-sarah-sackman
+  name: Sarah Sackman
+  type: person
+  url: https://www.gov.uk/government/people/sarah-sackman
+  geo:
+  - GB
+  aliases: []
+  notes: Ministra británica de Justicia / servicios jurídicos.
+  stub: true
+- id: ent-comunidad-madrid
+  name: Comunidad de Madrid
+  type: regulator
+  url: https://www.comunidad.madrid/
+  geo:
+  - ES
+  aliases:
+  - Asamblea de Madrid
+  notes: Administración autonómica; aprueba la nueva Ley de la Abogacía General.
+  stub: true
+- id: ent-rob-bonta
+  name: Rob Bonta
+  type: person
+  url: https://oag.ca.gov/
+  geo:
+  - US
+  aliases:
+  - California Attorney General
+  notes: Fiscal general de California; demandado por Meta, Google y TikTok por la
+    AB 1709.
+  stub: true

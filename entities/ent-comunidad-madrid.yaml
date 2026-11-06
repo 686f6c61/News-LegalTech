@@ -1,0 +1,10 @@
+id: ent-comunidad-madrid
+name: Comunidad de Madrid
+type: regulator
+url: https://www.comunidad.madrid/
+geo:
+- ES
+aliases:
+- Asamblea de Madrid
+notes: Administración autonómica; aprueba la nueva Ley de la Abogacía General.
+stub: true

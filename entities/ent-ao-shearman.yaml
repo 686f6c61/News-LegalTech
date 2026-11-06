@@ -1,0 +1,14 @@
+id: ent-ao-shearman
+name: A&O Shearman
+type: law_firm
+url: https://www.aoshearman.com/
+geo:
+- UK
+- US
+- GLOBAL
+aliases:
+- Allen & Overy Shearman
+- A and O Shearman
+notes: Despacho global surgido de la fusión Allen & Overy y Shearman & Sterling; compromiso
+  de 1.100 M$ en IA.
+stub: true

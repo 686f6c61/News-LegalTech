@@ -1,0 +1,11 @@
+id: ent-rob-bonta
+name: Rob Bonta
+type: person
+url: https://oag.ca.gov/
+geo:
+- US
+aliases:
+- California Attorney General
+notes: Fiscal general de California; demandado por Meta, Google y TikTok por la AB
+  1709.
+stub: true

@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-06-reino-unido-revision-regulacion-servicios-juridicos-lloyd",
+  "date": "2026-11-05",
+  "type": "regulation",
+  "sota_score": 7.5,
+  "ai_legaltech": false,
+  "title": "El Gobierno británico acepta la revisión Lloyd y lanza un repaso completo de la regulación de servicios jurídicos, con AI y lawtech en el alcance, de cara a 2029",
+  "short_title": "Reino Unido: repaso completo de la regulación jurídica hacia 2029",
+  "standfirst": "Sarah Sackman respalda un «reset» del sistema; el MoJ acepta todas las recomendaciones sobre el Legal Services Board.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "El Ministry of Justice británico publicó el 5 de noviembre su respuesta a la revisión independiente de Richard Lloyd sobre el Legal Services Board (LSB). La ministra Sarah Sackman acepta que hace falta un «reset» y un cambio significativo para reforzar la regulación de los servicios jurídicos. El Gobierno acepta todas las recomendaciones de Lloyd, impulsará un marco compartido de riesgos de mercado y consumidor, pedirá al LSB que limite su actividad de policy a la supervisión y se compromete a una revisión integral del marco regulatorio -límites, estructura, complejidad e implicaciones de la IA y el lawtech- con horizonte de nuevo marco hacia 2029, aunque admite que la escala del trabajo impide comprometerse del todo con esa fecha. Law Society y Bar Council respaldan acotar al LSB y piden evidencia y estabilidad.",
+  "summary_p2": "Para despachos y ABSs, el aviso es que las reglas del juego (quién regula qué, con qué datos de riesgo) pueden reescribirse en la próxima legislatura, y que AI/lawtech ya están formalmente en el pliego. Para vendors que venden a Inglaterra y Gales, conviene seguir el marco compartido de riesgos: lo que hoy es guidance puede acabar en umbrales de supervisión. Matiz: no hay texto legislativo todavía; es una respuesta de Gobierno a una revisión, con calendario tentativo.",
+  "why_sota": "El MoJ pone por escrito una revisión estructural del Legal Services Act con AI/lawtech en el mandato.",
+  "why_now": "Legal Futures / MoJ, 5 nov 2026. NEW frente a 09-29→11-05.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "Legal Services Board",
+    "regulación",
+    "lawtech",
+    "Lloyd review",
+    "consumidores"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/government-backs-comprehensive-review-of-legal-services-regulation",
+      "cited_title": "Government backs \"comprehensive review\" of legal services regulation",
+      "accessed": "2026-11-06"
+    }
+  ],
+  "entities": [
+    "ent-legal-services-board",
+    "ent-richard-lloyd",
+    "ent-sarah-sackman",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}
