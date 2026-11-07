@@ -1,0 +1,10 @@
+id: ent-conga
+name: Conga
+type: vendor
+url: https://conga.com/
+geo:
+- US
+- GLOBAL
+aliases: []
+notes: CLM empresarial; integración anunciada con Legora.
+stub: true

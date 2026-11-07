@@ -1,0 +1,12 @@
+id: ent-wesa
+name: WESA / Spotlight PA
+type: media
+url: https://www.wesanews.org/
+geo:
+- US
+aliases:
+- 90.5 WESA
+- Spotlight PA
+notes: Medio público de Pittsburgh; cobertura con Spotlight PA de la propuesta de
+  citas IA en Pensilvania.
+stub: true

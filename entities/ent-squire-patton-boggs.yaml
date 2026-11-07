@@ -1,0 +1,11 @@
+id: ent-squire-patton-boggs
+name: Squire Patton Boggs
+type: law_firm
+url: https://www.squirepattonboggs.com/
+geo:
+- US
+- GLOBAL
+aliases:
+- SPB
+notes: Despacho global; demanda colectiva propuesta tras ciberincidente.
+stub: true

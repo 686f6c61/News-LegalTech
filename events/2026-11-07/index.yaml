@@ -1,0 +1,70 @@
+scan_id: full-radar-2026-11-07
+date: '2026-11-07'
+release: 07.11.26
+count: 10
+ai_share: 0.8
+dedup_against: events/2026-09-29 → 2026-11-06 + scans PASS
+event_ids:
+- evt-2026-11-07-spencer-west-harvey-firmwide-360-socios
+- evt-2026-11-07-obermayer-adopta-legora-filadelfia
+- evt-2026-11-07-harvey-conversaciones-preliminares-ipo-latham
+- evt-2026-11-07-agiloft-tres-agentes-ask-ai-mcp-claude
+- evt-2026-11-07-pensilvania-propuesta-certificar-citas-ia
+- evt-2026-11-07-nycla-opinion-etica-genai-solos-pequenas-firmas
+- evt-2026-11-07-best-law-firms-2027-genai-duplica-implantacion
+- evt-2026-11-07-hong-kong-doj-subvencion-lawtech-20000-hkd
+- evt-2026-11-07-tsjm-despido-animadora-3d-ere-ia-videojuegos
+- evt-2026-11-07-baker-squire-demandas-colectivas-ciberataques
+events:
+- id: evt-2026-11-07-spencer-west-harvey-firmwide-360-socios
+  sota_score: 8.3
+  ai_legaltech: true
+  title: Spencer West selecciona Harvey firm-wide para más de 360 socios en 25 jurisdicciones
+    tras un piloto y una evaluación del mercado de IA jurídica
+- id: evt-2026-11-07-obermayer-adopta-legora-filadelfia
+  sota_score: 8.0
+  ai_legaltech: true
+  title: Obermayer (Filadelfia) elige Legora como plataforma de IA jurídica tras evaluar
+    varias opciones; más de 120 abogados en nueve oficinas
+- id: evt-2026-11-07-harvey-conversaciones-preliminares-ipo-latham
+  sota_score: 8.5
+  ai_legaltech: true
+  title: Harvey mantiene conversaciones preliminares con Latham & Watkins sobre un
+    posible IPO; no hay salida a bolsa inminente y Legora también sondea el mercado
+- id: evt-2026-11-07-agiloft-tres-agentes-ask-ai-mcp-claude
+  sota_score: 8.1
+  ai_legaltech: true
+  title: Agiloft lanza tres agentes de ejecución en Ask AI (bulk update, intake y
+    e-signature con Adobe Sign), visor multipanel y un servidor MCP en beta con Claude
+- id: evt-2026-11-07-pensilvania-propuesta-certificar-citas-ia
+  sota_score: 8.4
+  ai_legaltech: true
+  title: Pensilvania propone que abogados y otros presentadores certifiquen haber
+    verificado las citas y el contenido generado con IA, con posible sanción si no
+    lo hacen
+- id: evt-2026-11-07-nycla-opinion-etica-genai-solos-pequenas-firmas
+  sota_score: 7.9
+  ai_legaltech: true
+  title: La NYCLA publica una opinión ética sobre GenAI centrada en solos y despachos
+    pequeños, con marco de cuatro pasos para proteger el privilegio
+- id: evt-2026-11-07-best-law-firms-2027-genai-duplica-implantacion
+  sota_score: 7.8
+  ai_legaltech: true
+  title: 'Best Law Firms 2027: la implantación plena de GenAI se más que duplica (28%
+    en despachos de 20+; 56% en 150+) y casi la mitad ya la pone en la propuesta de
+    valor al cliente'
+- id: evt-2026-11-07-hong-kong-doj-subvencion-lawtech-20000-hkd
+  sota_score: 7.7
+  ai_legaltech: false
+  title: Hong Kong lanza un esquema de hasta 20.000 HKD para que despachos pequeños
+    y junior barristers suscriban soluciones lawtech de una lista de 14 proveedores
+- id: evt-2026-11-07-tsjm-despido-animadora-3d-ere-ia-videojuegos
+  sota_score: 7.6
+  ai_legaltech: true
+  title: El TSJM confirma la procedencia del despido de una animadora 3D en un ERE
+    de una empresa de videojuegos que incorporó IA generativa a la producción
+- id: evt-2026-11-07-baker-squire-demandas-colectivas-ciberataques
+  sota_score: 7.5
+  ai_legaltech: false
+  title: Baker McKenzie y Squire Patton Boggs afrontan demandas colectivas propuestas
+    tras ciberataques que habrían expuesto datos personales

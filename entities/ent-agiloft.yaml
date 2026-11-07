@@ -1,0 +1,10 @@
+id: ent-agiloft
+name: Agiloft
+type: vendor
+url: https://www.agiloft.com/
+geo:
+- US
+- GLOBAL
+aliases: []
+notes: CLM data-first; lanza agentes de ejecución en Ask AI (nov 2026).
+stub: true

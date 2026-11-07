@@ -1,0 +1,10 @@
+id: ent-best-lawyers
+name: Best Lawyers / Best Law Firms
+type: media
+url: https://www.bestlawyers.com/
+geo:
+- US
+aliases:
+- Best Law Firms
+notes: Rankings y informe de mercado legal EE. UU.
+stub: true

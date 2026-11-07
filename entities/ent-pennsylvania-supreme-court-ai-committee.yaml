@@ -1,0 +1,11 @@
+id: ent-pennsylvania-supreme-court-ai-committee
+name: Advisory Committee on Artificial Intelligence (Pennsylvania)
+type: regulator
+url: https://www.pacourts.us/
+geo:
+- US
+aliases:
+- Pa. AI Advisory Committee
+notes: Comité asesor de IA del Tribunal Supremo de Pensilvania; propone certificación
+  de citas generadas con IA.
+stub: true

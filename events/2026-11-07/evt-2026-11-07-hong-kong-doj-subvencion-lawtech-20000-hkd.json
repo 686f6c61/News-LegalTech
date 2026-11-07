@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-07-hong-kong-doj-subvencion-lawtech-20000-hkd",
+  "date": "2026-11-03",
+  "type": "regulation",
+  "sota_score": 7.7,
+  "ai_legaltech": false,
+  "title": "Hong Kong lanza un esquema de hasta 20.000 HKD para que despachos pequeños y junior barristers suscriban soluciones lawtech de una lista de 14 proveedores",
+  "short_title": "Hong Kong: hasta 20.000 HKD para suscribir lawtech",
+  "standfirst": "Solos y firmas de ≤5 socios, y barristers con ≤7 años de call; plazo de solicitud hasta el 29 de enero de 2027.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Política pública",
+  "country": "Hong Kong",
+  "piece_type": "Regulación",
+  "summary_p1": "El Department of Justice (DoJ) de Hong Kong lanzó el 3 de noviembre de 2026 el Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal Sector, iniciativa del Policy Address 2026 del Chief Executive. Pueden pedir la ayuda abogados en solitario o despachos de Hong Kong con no más de cinco socios, y barristers con no más de siete años de call. El esquema reembolsa hasta 20.000 dólares de Hong Kong por solicitante para una suscripción de un año a servicios de una lista designada de 14 proveedores locales, de China continental y del exterior (investigación jurídica, generación y redacción de documentos, workflow y apoyo a vistas). Gestionan la aprobación y el pago The Law Society of Hong Kong y el Hong Kong Bar Association. El DoJ subraya que los despachos pyme son ~88% del total y los junior barristers ~un tercio de la abogacía.",
+  "summary_p2": "Es una de las pocas subvenciones públicas directas a la suscripción de lawtech en Asia y baja la barrera precisamente donde el mercado privado llega peor. Para vendors, entrar en la lista designada es el canal; para despachos europeos que miran HK, señala que el hub de dispute resolution empuja adopción con dinero público, no solo con eslóganes. Matiz: el tope de 20.000 HKD cubre una licencia de entrada, no un despliegue enterprise; la lista de 14 proveedores es la que marca el perímetro.",
+  "why_sota": "Subvención pública de suscripción lawtech para pyme jurídica y junior barristers en Hong Kong.",
+  "why_now": "DoJ Hong Kong (info.gov.hk), 3 nov 2026. NEW.",
+  "geo": [
+    "HK",
+    "AS"
+  ],
+  "topics": [
+    "lawtech",
+    "subvención",
+    "Hong Kong",
+    "pyme jurídica"
+  ],
+  "sources": [
+    {
+      "source_id": "src-info-gov-hk",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300252.htm",
+      "cited_title": "DoJ launches lawtech funding scheme to enhance lawtech application capability of legal sector",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-hong-kong-doj",
+    "ent-info-gov-hk"
+  ],
+  "lang": "es",
+  "status": "published"
+}

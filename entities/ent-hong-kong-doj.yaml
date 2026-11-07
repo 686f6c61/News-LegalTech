@@ -1,0 +1,11 @@
+id: ent-hong-kong-doj
+name: Department of Justice (Hong Kong)
+type: regulator
+url: https://www.doj.gov.hk/
+geo:
+- HK
+aliases:
+- DoJ Hong Kong
+- Hong Kong Department of Justice
+notes: Lanza el Funding Scheme for LawTech Solution Subscription (nov 2026).
+stub: true

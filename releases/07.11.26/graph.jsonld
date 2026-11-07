@@ -1,0 +1,652 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/07.11.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 07.11.26",
+      "schema:version": "07.11.26",
+      "schema:datePublished": "2026-11-07",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-11-07, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/07.11.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-spencer-west-harvey-firmwide-360-socios"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-obermayer-adopta-legora-filadelfia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-harvey-conversaciones-preliminares-ipo-latham"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-agiloft-tres-agentes-ask-ai-mcp-claude"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-pensilvania-propuesta-certificar-citas-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-nycla-opinion-etica-genai-solos-pequenas-firmas"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-best-law-firms-2027-genai-duplica-implantacion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-hong-kong-doj-subvencion-lawtech-20000-hkd"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-tsjm-despido-animadora-3d-ere-ia-videojuegos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-baker-squire-demandas-colectivas-ciberataques"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-spencer-west-harvey-firmwide-360-socios",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-spencer-west-harvey-firmwide-360-socios",
+      "schema:headline": "Spencer West selecciona Harvey firm-wide para más de 360 socios en 25 jurisdicciones tras un piloto y una evaluación del mercado de IA jurídica",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Spencer West anunció el 3 de noviembre de 2026 que ha seleccionado Harvey, el sistema operativo de IA para servicios jurídicos y profesionales, para su práctica internacional de más de 360 socios en 25 jurisdicciones. La decisión sigue a un piloto y a una evaluación amplia del mercado de IA jurídica; el despacho destaca la amplitud de capacidades, la investigación específica por jurisdicción, el soporte global y la seguridad y gobernanza diseñadas ad hoc. Harvey se está desplegando ahora en toda la red y cubrirá investigación, redacción, análisis de contratos y revisión documental, además de workflows de IA para tareas complejas recurrentes en mercantil, litigación y asuntos cross-border. Simeon Spencer, senior partner y cofundador, presenta la herramienta como un habilitador para profundizar la relación con el cliente; Peter Reeve (Harvey UK) confirma que el piloto redujo tiempo en tareas intensivas.",
+      "schema:articleBody": "Spencer West anunció el 3 de noviembre de 2026 que ha seleccionado Harvey, el sistema operativo de IA para servicios jurídicos y profesionales, para su práctica internacional de más de 360 socios en 25 jurisdicciones. La decisión sigue a un piloto y a una evaluación amplia del mercado de IA jurídica; el despacho destaca la amplitud de capacidades, la investigación específica por jurisdicción, el soporte global y la seguridad y gobernanza diseñadas ad hoc. Harvey se está desplegando ahora en toda la red y cubrirá investigación, redacción, análisis de contratos y revisión documental, además de workflows de IA para tareas complejas recurrentes en mercantil, litigación y asuntos cross-border. Simeon Spencer, senior partner y cofundador, presenta la herramienta como un habilitador para profundizar la relación con el cliente; Peter Reeve (Harvey UK) confirma que el piloto redujo tiempo en tareas intensivas.\n\nEs otra adopción firm-wide de Harvey en un modelo de despacho emprendedor y partner-led, distinta de los despliegues en Magic Circle o en boutiques españolas ya cubiertos. Para paneles e in-house, la señal es la escala multi-jurisdicción (25 países) con un solo vendor; conviene preguntar cómo se gestionan muros éticos y datos entre oficinas. Matiz: el comunicado es del propio despacho (y Harvey lo replica); no hay cifras independientes de uso ni de ahorro.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Adopción firm-wide de Harvey en un despacho internacional de 360+ socios / 25 jurisdicciones.",
+      "sota:whyNow": "Spencer West / Harvey, 3 nov 2026. NEW frente a 09-29→11-06.",
+      "sota:geo": [
+        "GB",
+        "GLOBAL"
+      ],
+      "sota:topics": [
+        "adopción",
+        "Harvey",
+        "despachos",
+        "multi-jurisdicción"
+      ],
+      "sota:summaryP1": "Spencer West anunció el 3 de noviembre de 2026 que ha seleccionado Harvey, el sistema operativo de IA para servicios jurídicos y profesionales, para su práctica internacional de más de 360 socios en 25 jurisdicciones. La decisión sigue a un piloto y a una evaluación amplia del mercado de IA jurídica; el despacho destaca la amplitud de capacidades, la investigación específica por jurisdicción, el soporte global y la seguridad y gobernanza diseñadas ad hoc. Harvey se está desplegando ahora en toda la red y cubrirá investigación, redacción, análisis de contratos y revisión documental, además de workflows de IA para tareas complejas recurrentes en mercantil, litigación y asuntos cross-border. Simeon Spencer, senior partner y cofundador, presenta la herramienta como un habilitador para profundizar la relación con el cliente; Peter Reeve (Harvey UK) confirma que el piloto redujo tiempo en tareas intensivas.",
+      "sota:summaryP2": "Es otra adopción firm-wide de Harvey en un modelo de despacho emprendedor y partner-led, distinta de los despliegues en Magic Circle o en boutiques españolas ya cubiertos. Para paneles e in-house, la señal es la escala multi-jurisdicción (25 países) con un solo vendor; conviene preguntar cómo se gestionan muros éticos y datos entre oficinas. Matiz: el comunicado es del propio despacho (y Harvey lo replica); no hay cifras independientes de uso ni de ahorro.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.spencer-west.com/news/spencer-west-selects-harvey-firmwide-to-support-its-growing-international-practice/",
+          "schema:name": "Spencer West selects Harvey firmwide to support its growing international practice",
+          "sota:sourceId": "src-spencer-west"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.harvey.ai/blog/spencer-west-selects-harvey-firmwide",
+          "schema:name": "Spencer West Selects Harvey Firmwide",
+          "sota:sourceId": "src-harvey"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spencer-west"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-obermayer-adopta-legora-filadelfia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-obermayer-adopta-legora-filadelfia",
+      "schema:headline": "Obermayer (Filadelfia) elige Legora como plataforma de IA jurídica tras evaluar varias opciones; más de 120 abogados en nueve oficinas",
+      "schema:datePublished": "2026-11-05",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legora anunció el 5 de noviembre de 2026 que Obermayer Rebmann Maxwell & Hippel LLP, despacho full-service con sede en Filadelfia y más de 120 abogados en nueve oficinas, ha seleccionado Legora como su plataforma de IA jurídica. Según el comunicado, los abogados la usarán en investigación, redacción y análisis, y para aplicar el conocimiento colectivo de la firma a cada asunto. Mathieu Shapiro, managing partner, afirma que «agiliza el trabajo, pero no sustituye el juicio»; Jeffrey McShane, CTO y presidente del comité de IA, destaca tanto la tecnología como el equipo del vendor. Legora trabajó in situ con abogados y líderes tecnológicos durante la evaluación y corrió sesiones sobre casos de uso reales; Max Junestrand, CEO, insiste en que la adopción «no ocurre a distancia».",
+      "schema:articleBody": "Legora anunció el 5 de noviembre de 2026 que Obermayer Rebmann Maxwell & Hippel LLP, despacho full-service con sede en Filadelfia y más de 120 abogados en nueve oficinas, ha seleccionado Legora como su plataforma de IA jurídica. Según el comunicado, los abogados la usarán en investigación, redacción y análisis, y para aplicar el conocimiento colectivo de la firma a cada asunto. Mathieu Shapiro, managing partner, afirma que «agiliza el trabajo, pero no sustituye el juicio»; Jeffrey McShane, CTO y presidente del comité de IA, destaca tanto la tecnología como el equipo del vendor. Legora trabajó in situ con abogados y líderes tecnológicos durante la evaluación y corrió sesiones sobre casos de uso reales; Max Junestrand, CEO, insiste en que la adopción «no ocurre a distancia».\n\nTras Fieldfisher (~1.400 usuarios) el mismo día, Obermayer refuerza la narrativa de Legora en el mid-market estadounidense full-service. Para otros despachos de 100-200 abogados, el mensaje operativo es evaluación comparada más acompañamiento presencial; para Harvey y rivales, es otra ficha en la guerra de adopciones de noviembre. Matiz: es nota de proveedor; no hay métricas de piloto ni plazos de rollout firm-wide.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Adopción de Legora por un full-service de Filadelfia (120+ abogados) tras bake-off.",
+      "sota:whyNow": "Legora / Obermayer, 5 nov 2026. NEW frente a Fieldfisher del mismo día ya publicado.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "adopción",
+        "Legora",
+        "despachos",
+        "Filadelfia"
+      ],
+      "sota:summaryP1": "Legora anunció el 5 de noviembre de 2026 que Obermayer Rebmann Maxwell & Hippel LLP, despacho full-service con sede en Filadelfia y más de 120 abogados en nueve oficinas, ha seleccionado Legora como su plataforma de IA jurídica. Según el comunicado, los abogados la usarán en investigación, redacción y análisis, y para aplicar el conocimiento colectivo de la firma a cada asunto. Mathieu Shapiro, managing partner, afirma que «agiliza el trabajo, pero no sustituye el juicio»; Jeffrey McShane, CTO y presidente del comité de IA, destaca tanto la tecnología como el equipo del vendor. Legora trabajó in situ con abogados y líderes tecnológicos durante la evaluación y corrió sesiones sobre casos de uso reales; Max Junestrand, CEO, insiste en que la adopción «no ocurre a distancia».",
+      "sota:summaryP2": "Tras Fieldfisher (~1.400 usuarios) el mismo día, Obermayer refuerza la narrativa de Legora en el mid-market estadounidense full-service. Para otros despachos de 100-200 abogados, el mensaje operativo es evaluación comparada más acompañamiento presencial; para Harvey y rivales, es otra ficha en la guerra de adopciones de noviembre. Matiz: es nota de proveedor; no hay métricas de piloto ni plazos de rollout firm-wide.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://legora.com/newsroom/obermayer-adopts-legora-to-accelerate-legal-work-and-unlock-firm-knowledge",
+          "schema:name": "Obermayer adopts Legora to accelerate legal work and unlock firm knowledge",
+          "sota:sourceId": "src-legora"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-obermayer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-harvey-conversaciones-preliminares-ipo-latham",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-harvey-conversaciones-preliminares-ipo-latham",
+      "schema:headline": "Harvey mantiene conversaciones preliminares con Latham & Watkins sobre un posible IPO; no hay salida a bolsa inminente y Legora también sondea el mercado",
+      "schema:datePublished": "2026-11-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Harvey ha mantenido conversaciones preliminares con Latham & Watkins sobre un posible IPO (salida a bolsa), según Business Insider y la cobertura de Law.com y Legal Business del 6 de noviembre de 2026. No hay planes inminentes de cotizar: las reuniones son tempranas y la compañía vigilaría el comportamiento de otras salidas tecnológicas antes de decidir. Law.com sitúa la valoración más reciente en 15.500 millones de dólares; un portavoz de Harvey no quiso comentar. Artificial Lawyer añade el mismo día que fuentes confirman contactos análogos de Legora con «the Street» (valoraciones, plazos, bancos) y publica la respuesta del vendor: «No comentamos especulaciones… Max siempre ha dicho que le gustaría sacar Legora a bolsa algún día, pero es pronto; ahora estamos centrados en clientes y crecimiento».",
+      "schema:articleBody": "Harvey ha mantenido conversaciones preliminares con Latham & Watkins sobre un posible IPO (salida a bolsa), según Business Insider y la cobertura de Law.com y Legal Business del 6 de noviembre de 2026. No hay planes inminentes de cotizar: las reuniones son tempranas y la compañía vigilaría el comportamiento de otras salidas tecnológicas antes de decidir. Law.com sitúa la valoración más reciente en 15.500 millones de dólares; un portavoz de Harvey no quiso comentar. Artificial Lawyer añade el mismo día que fuentes confirman contactos análogos de Legora con «the Street» (valoraciones, plazos, bancos) y publica la respuesta del vendor: «No comentamos especulaciones… Max siempre ha dicho que le gustaría sacar Legora a bolsa algún día, pero es pronto; ahora estamos centrados en clientes y crecimiento».\n\nPara el mercado LegalTech, la señal no es un filing sino que los dos líderes de IA jurídica planifican ruta pública mientras el macro de IA se enfría y Big Tech aprieta el vertical legal. Para despachos e in-house, un IPO futuro cambia incentivos (presión trimestral vs. roadmap de producto) más que la herramienta de mañana; para inversores, Anthropic y el sentimiento AI serán el semáforo. Matiz: son filtraciones y fuentes no atribuidas; Legal Business / Law.com están parcial o totalmente tras muro; Legora niega plazos.",
+      "sota:type": "market",
+      "sota:sotaScore": 8.5,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primeros contactos públicos de Harvey (y eco de Legora) con asesores de cara a un IPO.",
+      "sota:whyNow": "Business Insider / Law.com / AL, 6 nov 2026. NEW.",
+      "sota:geo": [
+        "US",
+        "GLOBAL"
+      ],
+      "sota:topics": [
+        "IPO",
+        "Harvey",
+        "Legora",
+        "valoración",
+        "mercado"
+      ],
+      "sota:summaryP1": "Harvey ha mantenido conversaciones preliminares con Latham & Watkins sobre un posible IPO (salida a bolsa), según Business Insider y la cobertura de Law.com y Legal Business del 6 de noviembre de 2026. No hay planes inminentes de cotizar: las reuniones son tempranas y la compañía vigilaría el comportamiento de otras salidas tecnológicas antes de decidir. Law.com sitúa la valoración más reciente en 15.500 millones de dólares; un portavoz de Harvey no quiso comentar. Artificial Lawyer añade el mismo día que fuentes confirman contactos análogos de Legora con «the Street» (valoraciones, plazos, bancos) y publica la respuesta del vendor: «No comentamos especulaciones… Max siempre ha dicho que le gustaría sacar Legora a bolsa algún día, pero es pronto; ahora estamos centrados en clientes y crecimiento».",
+      "sota:summaryP2": "Para el mercado LegalTech, la señal no es un filing sino que los dos líderes de IA jurídica planifican ruta pública mientras el macro de IA se enfría y Big Tech aprieta el vertical legal. Para despachos e in-house, un IPO futuro cambia incentivos (presión trimestral vs. roadmap de producto) más que la herramienta de mañana; para inversores, Anthropic y el sentimiento AI serán el semáforo. Matiz: son filtraciones y fuentes no atribuidas; Legal Business / Law.com están parcial o totalmente tras muro; Legora niega plazos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/06/harvey-legora-ipo-plans-ao-1-1bn-legal-innovators-ny/",
+          "schema:name": "Harvey + Legora IPO Plans, A&O $1.1bn, Legal Innovators NY",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/11/06/harvey-holds-early-talks-over-potential-ipo/",
+          "schema:name": "Harvey Holds Early Talks Over Potential IPO",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-latham-watkins"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-agiloft-tres-agentes-ask-ai-mcp-claude",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-agiloft-tres-agentes-ask-ai-mcp-claude",
+      "schema:headline": "Agiloft lanza tres agentes de ejecución en Ask AI (bulk update, intake y e-signature con Adobe Sign), visor multipanel y un servidor MCP en beta con Claude",
+      "schema:datePublished": "2026-11-05",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Agiloft anunció el 5 de noviembre de 2026 tres agentes de IA dentro de Ask AI en su plataforma de contract lifecycle management (CLM): Bulk Update Agent (cambia hasta tres campos en varios registros tras previsualizar y exigir confirmación humana), Contract Request Agent (enruta en lenguaje natural al formulario de intake correcto según intención y permisos) y eSignature Agent para Adobe Acrobat Sign (prepara documentos, firmantes y orden antes de enviar). Añade un Multi-Pane Document Viewer que junta Ask AI, ficha del contrato, documento y tablas, una capa semántica configurable con terminología interna, y un servidor Model Context Protocol (MCP) en beta cuyo primer cliente es Claude de Anthropic, pensado para que herramientas externas hablen con el repositorio central sin romper permisos. El vendor enlaza el lanzamiento a su encuesta Censuswide a 2.005 responsables de procurement: al menos un 15% del gasto a proveedores fluye fuera de lo contratado y solo el 36% conecta automáticamente el award de sourcing con el contrato.",
+      "schema:articleBody": "Agiloft anunció el 5 de noviembre de 2026 tres agentes de IA dentro de Ask AI en su plataforma de contract lifecycle management (CLM): Bulk Update Agent (cambia hasta tres campos en varios registros tras previsualizar y exigir confirmación humana), Contract Request Agent (enruta en lenguaje natural al formulario de intake correcto según intención y permisos) y eSignature Agent para Adobe Acrobat Sign (prepara documentos, firmantes y orden antes de enviar). Añade un Multi-Pane Document Viewer que junta Ask AI, ficha del contrato, documento y tablas, una capa semántica configurable con terminología interna, y un servidor Model Context Protocol (MCP) en beta cuyo primer cliente es Claude de Anthropic, pensado para que herramientas externas hablen con el repositorio central sin romper permisos. El vendor enlaza el lanzamiento a su encuesta Censuswide a 2.005 responsables de procurement: al menos un 15% del gasto a proveedores fluye fuera de lo contratado y solo el 36% conecta automáticamente el award de sourcing con el contrato.\n\nEl salto es de «analizar el contrato» a «ejecutar pasos administrativos» con humano en el bucle. Para legal y procurement, el caso de uso inmediato es reducir handoffs (intake mal encaminado, firmas a mano, updates masivos); para rivales de CLM y de agentes jurídicos, el MCP con Claude marca otra vía de acceso al sistema de registro. Matiz: es nota de prensa del proveedor; el MCP sigue en beta y el acceso a las capacidades se amplía por fases.",
+      "sota:type": "product",
+      "sota:sotaScore": 8.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Agentes de ejecución en CLM (bulk/intake/firma) más MCP hacia Claude sobre el repositorio de contratos.",
+      "sota:whyNow": "Agiloft / PR Newswire / Unite.AI, 5 nov 2026. NEW.",
+      "sota:geo": [
+        "US",
+        "GLOBAL"
+      ],
+      "sota:topics": [
+        "CLM",
+        "agentes de IA",
+        "MCP",
+        "Adobe Sign",
+        "procurement"
+      ],
+      "sota:summaryP1": "Agiloft anunció el 5 de noviembre de 2026 tres agentes de IA dentro de Ask AI en su plataforma de contract lifecycle management (CLM): Bulk Update Agent (cambia hasta tres campos en varios registros tras previsualizar y exigir confirmación humana), Contract Request Agent (enruta en lenguaje natural al formulario de intake correcto según intención y permisos) y eSignature Agent para Adobe Acrobat Sign (prepara documentos, firmantes y orden antes de enviar). Añade un Multi-Pane Document Viewer que junta Ask AI, ficha del contrato, documento y tablas, una capa semántica configurable con terminología interna, y un servidor Model Context Protocol (MCP) en beta cuyo primer cliente es Claude de Anthropic, pensado para que herramientas externas hablen con el repositorio central sin romper permisos. El vendor enlaza el lanzamiento a su encuesta Censuswide a 2.005 responsables de procurement: al menos un 15% del gasto a proveedores fluye fuera de lo contratado y solo el 36% conecta automáticamente el award de sourcing con el contrato.",
+      "sota:summaryP2": "El salto es de «analizar el contrato» a «ejecutar pasos administrativos» con humano en el bucle. Para legal y procurement, el caso de uso inmediato es reducir handoffs (intake mal encaminado, firmas a mano, updates masivos); para rivales de CLM y de agentes jurídicos, el MCP con Claude marca otra vía de acceso al sistema de registro. Matiz: es nota de prensa del proveedor; el MCP sigue en beta y el acceso a las capacidades se amplía por fases.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.prnewswire.com/news-releases/agiloft-targets-enterprise-value-leakage-with-new-suite-of-execution-focused-ai-agents-302929642.html",
+          "schema:name": "Agiloft Targets Enterprise Value Leakage with New Suite of Execution-Focused AI Agents",
+          "sota:sourceId": "src-pr-newswire"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.unite.ai/agiloft-adds-three-ai-agents-for-multi-step-contract-tasks/",
+          "schema:name": "Agiloft Adds Three AI Agents for Multi-Step Contract Tasks",
+          "sota:sourceId": "src-unite-ai"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-agiloft"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-pensilvania-propuesta-certificar-citas-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-pensilvania-propuesta-certificar-citas-ia",
+      "schema:headline": "Pensilvania propone que abogados y otros presentadores certifiquen haber verificado las citas y el contenido generado con IA, con posible sanción si no lo hacen",
+      "schema:datePublished": "2026-11-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Advisory Committee on Artificial Intelligence que asesora al Tribunal Supremo de Pensilvania ha publicado una propuesta —recogida por WESA / Spotlight PA el 6 de noviembre de 2026— para que quienes presenten escritos en los tribunales del estado, abogados o litigantes en persona, certifiquen que han revisado a fondo la exactitud de cualquier contenido generado con IA generativa, incluidas citas, citas textuales y resúmenes de principios jurídicos. El comité advierte de que la GenAI puede producir información «inexacta, engañosa o fabricada». El incumplimiento podría acarrear sanciones desde amonestación a multas o el archivo del caso. El periodo de comentarios públicos corre hasta el 24 de noviembre; después el comité podrá ajustar el texto y elevarlo a los siete jueces del alto tribunal. La Pennsylvania Bar Association aún no ha tomado posición; en 2024 ya recomendó verificar todo contenido generado con IA.",
+      "schema:articleBody": "El Advisory Committee on Artificial Intelligence que asesora al Tribunal Supremo de Pensilvania ha publicado una propuesta —recogida por WESA / Spotlight PA el 6 de noviembre de 2026— para que quienes presenten escritos en los tribunales del estado, abogados o litigantes en persona, certifiquen que han revisado a fondo la exactitud de cualquier contenido generado con IA generativa, incluidas citas, citas textuales y resúmenes de principios jurídicos. El comité advierte de que la GenAI puede producir información «inexacta, engañosa o fabricada». El incumplimiento podría acarrear sanciones desde amonestación a multas o el archivo del caso. El periodo de comentarios públicos corre hasta el 24 de noviembre; después el comité podrá ajustar el texto y elevarlo a los siete jueces del alto tribunal. La Pennsylvania Bar Association aún no ha tomado posición; en 2024 ya recomendó verificar todo contenido generado con IA.\n\nLa carga de exactitud se pone explícitamente en el humano, no en la herramienta, y ampliaría a todos los presentadores una lógica que el propio tribunal ya aplicó en 2025 a jueces y personal. Para despachos que litigan en PA, conviene preparar un checklist de verificación y de certificación antes de que la norma (si se aprueba) entre en vigor; para vendors, es otra señal de que el «export to court» exige trazabilidad de citas. Matiz: es propuesta en consulta, no norma vigente (guidance_not_norm).",
+      "sota:type": "regulation",
+      "sota:sotaScore": 8.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Propuesta estatal de certificación obligatoria de verificación de citas GenAI en escritos judiciales.",
+      "sota:whyNow": "WESA / Spotlight PA, 6 nov 2026. NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "citas erróneas",
+        "tribunales",
+        "Pensilvania",
+        "certificación",
+        "GenAI"
+      ],
+      "sota:summaryP1": "El Advisory Committee on Artificial Intelligence que asesora al Tribunal Supremo de Pensilvania ha publicado una propuesta —recogida por WESA / Spotlight PA el 6 de noviembre de 2026— para que quienes presenten escritos en los tribunales del estado, abogados o litigantes en persona, certifiquen que han revisado a fondo la exactitud de cualquier contenido generado con IA generativa, incluidas citas, citas textuales y resúmenes de principios jurídicos. El comité advierte de que la GenAI puede producir información «inexacta, engañosa o fabricada». El incumplimiento podría acarrear sanciones desde amonestación a multas o el archivo del caso. El periodo de comentarios públicos corre hasta el 24 de noviembre; después el comité podrá ajustar el texto y elevarlo a los siete jueces del alto tribunal. La Pennsylvania Bar Association aún no ha tomado posición; en 2024 ya recomendó verificar todo contenido generado con IA.",
+      "sota:summaryP2": "La carga de exactitud se pone explícitamente en el humano, no en la herramienta, y ampliaría a todos los presentadores una lógica que el propio tribunal ya aplicó en 2025 a jueces y personal. Para despachos que litigan en PA, conviene preparar un checklist de verificación y de certificación antes de que la norma (si se aprueba) entre en vigor; para vendors, es otra señal de que el «export to court» exige trazabilidad de citas. Matiz: es propuesta en consulta, no norma vigente (guidance_not_norm).",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.wesanews.org/politics-government/2026-11-06/pennsylvania-ai-court-files-verification-accuracy-lawyers",
+          "schema:name": "Pennsylvania may require lawyers, other court filers to verify AI-generated citations",
+          "sota:sourceId": "src-wesa"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pennsylvania-supreme-court-ai-committee"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wesa"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-nycla-opinion-etica-genai-solos-pequenas-firmas",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-nycla-opinion-etica-genai-solos-pequenas-firmas",
+      "schema:headline": "La NYCLA publica una opinión ética sobre GenAI centrada en solos y despachos pequeños, con marco de cuatro pasos para proteger el privilegio",
+      "schema:datePublished": "2026-11-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Comité de Ética Profesional de la New York County Lawyers Association (NYCLA) publicó el 6 de noviembre de 2026 una opinión ética sobre el uso responsable de inteligencia artificial generativa (GenAI) en la práctica jurídica, con foco en abogados en solitario y despachos pequeños. La opinión reconoce potencial de eficiencia, menor coste y más acceso a la justicia, pero insiste en que el abogado sigue siendo plenamente responsable bajo las New York Rules of Professional Conduct. Repasa obligaciones de competencia, confidencialidad, candor ante los tribunales y supervisión del personal, y recuerda decisiones recientes que sancionaron el uso de contenido inexacto generado por IA. Ofrece un marco práctico de cuatro pasos orientado a la protección del privilegio abogado-cliente. Ronald C. Minkoff, presidente de NYCLA, la recomienda en especial a solos y firmas pequeñas.",
+      "schema:articleBody": "El Comité de Ética Profesional de la New York County Lawyers Association (NYCLA) publicó el 6 de noviembre de 2026 una opinión ética sobre el uso responsable de inteligencia artificial generativa (GenAI) en la práctica jurídica, con foco en abogados en solitario y despachos pequeños. La opinión reconoce potencial de eficiencia, menor coste y más acceso a la justicia, pero insiste en que el abogado sigue siendo plenamente responsable bajo las New York Rules of Professional Conduct. Repasa obligaciones de competencia, confidencialidad, candor ante los tribunales y supervisión del personal, y recuerda decisiones recientes que sancionaron el uso de contenido inexacto generado por IA. Ofrece un marco práctico de cuatro pasos orientado a la protección del privilegio abogado-cliente. Ronald C. Minkoff, presidente de NYCLA, la recomienda en especial a solos y firmas pequeñas.\n\nEs orientación de colegio, no norma vinculante, pero aterriza el deber de supervisión y de confidencialidad en el segmento que más usa herramientas genéricas de consumo. Para el abogado español o europeo que mira EE. UU., el paralelo útil es documentar revisión humana y políticas de datos antes de pegar el asunto en un chatbot; para vendors, el marco de privilegio será pregunta recurrente en RFPs de mid-market. Matiz: guidance_not_norm; el texto completo de la opinión no se resume aquí más allá del comunicado.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Opinión ética colegial de NY sobre GenAI con marco práctico de privilegio para solos/pequeñas firmas.",
+      "sota:whyNow": "NYCLA, 6 nov 2026. NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ética",
+        "GenAI",
+        "NYCLA",
+        "solos",
+        "privilegio"
+      ],
+      "sota:summaryP1": "El Comité de Ética Profesional de la New York County Lawyers Association (NYCLA) publicó el 6 de noviembre de 2026 una opinión ética sobre el uso responsable de inteligencia artificial generativa (GenAI) en la práctica jurídica, con foco en abogados en solitario y despachos pequeños. La opinión reconoce potencial de eficiencia, menor coste y más acceso a la justicia, pero insiste en que el abogado sigue siendo plenamente responsable bajo las New York Rules of Professional Conduct. Repasa obligaciones de competencia, confidencialidad, candor ante los tribunales y supervisión del personal, y recuerda decisiones recientes que sancionaron el uso de contenido inexacto generado por IA. Ofrece un marco práctico de cuatro pasos orientado a la protección del privilegio abogado-cliente. Ronald C. Minkoff, presidente de NYCLA, la recomienda en especial a solos y firmas pequeñas.",
+      "sota:summaryP2": "Es orientación de colegio, no norma vinculante, pero aterriza el deber de supervisión y de confidencialidad en el segmento que más usa herramientas genéricas de consumo. Para el abogado español o europeo que mira EE. UU., el paralelo útil es documentar revisión humana y políticas de datos antes de pegar el asunto en un chatbot; para vendors, el marco de privilegio será pregunta recurrente en RFPs de mid-market. Matiz: guidance_not_norm; el texto completo de la opinión no se resume aquí más allá del comunicado.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.nycla.org/resource/press-release/as-ai-reshapes-legal-practice-nycla-issues-new-ethics-blueprint-for-attorneys/",
+          "schema:name": "As AI Reshapes Legal Practice, NYCLA Issues New Ethics Blueprint for Attorneys",
+          "sota:sourceId": "src-nycla"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nycla"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-best-law-firms-2027-genai-duplica-implantacion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-best-law-firms-2027-genai-duplica-implantacion",
+      "schema:headline": "Best Law Firms 2027: la implantación plena de GenAI se más que duplica (28% en despachos de 20+; 56% en 150+) y casi la mitad ya la pone en la propuesta de valor al cliente",
+      "schema:datePublished": "2026-11-05",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Best Lawyers publicó el 5 de noviembre de 2026 el ranking Best Law Firms 2027 (15.671 despachos, 127 áreas, 188 mercados) junto al tercer informe anual U.S. Legal Market Report, basado en respuestas de 5.753 firmas. Entre despachos de 20 o más abogados, el 28% declara haber implantado plenamente herramientas de GenAI en varias áreas de práctica, frente al 11% del año anterior; en firmas de 150 o más abogados la cifra sube al 56% desde el 23%. El 43% de las grandes ya incluye la IA en su propuesta de valor al cliente (antes 23%). La formación sobre limitaciones y riesgos de la GenAI pasa del 22% al 63%, y las políticas claras de uso en asuntos de cliente del 14% al 47%; en despachos de 150+ llegan al 95%, pero solo el 26% de los solos las tiene. El 25% de quienes usan GenAI reporta menos horas facturables en ciertas tareas (19% el año previo).",
+      "schema:articleBody": "Best Lawyers publicó el 5 de noviembre de 2026 el ranking Best Law Firms 2027 (15.671 despachos, 127 áreas, 188 mercados) junto al tercer informe anual U.S. Legal Market Report, basado en respuestas de 5.753 firmas. Entre despachos de 20 o más abogados, el 28% declara haber implantado plenamente herramientas de GenAI en varias áreas de práctica, frente al 11% del año anterior; en firmas de 150 o más abogados la cifra sube al 56% desde el 23%. El 43% de las grandes ya incluye la IA en su propuesta de valor al cliente (antes 23%). La formación sobre limitaciones y riesgos de la GenAI pasa del 22% al 63%, y las políticas claras de uso en asuntos de cliente del 14% al 47%; en despachos de 150+ llegan al 95%, pero solo el 26% de los solos las tiene. El 25% de quienes usan GenAI reporta menos horas facturables en ciertas tareas (19% el año previo).\n\nLa foto confirma adopción acelerada en BigLaw y un agujero de gobernanza en solos —precisamente el segmento al que mira la NYCLA—. Para managing partners, el dato accionable es el salto de políticas (14%→47%) y de formación; para pricing, el 25% que ya reduce horas facturables anticipa conversaciones de fee con el cliente. Matiz: son autodeclaraciones de un ranking/informe comercial de Best Lawyers, no una encuesta académica independiente.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos de mercado EE. UU. que cuantifican la duplicación de implantación plena de GenAI y el gap de políticas por tamaño.",
+      "sota:whyNow": "Best Lawyers, 5 nov 2026. NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "adopción",
+        "GenAI",
+        "rankings",
+        "políticas",
+        "billing"
+      ],
+      "sota:summaryP1": "Best Lawyers publicó el 5 de noviembre de 2026 el ranking Best Law Firms 2027 (15.671 despachos, 127 áreas, 188 mercados) junto al tercer informe anual U.S. Legal Market Report, basado en respuestas de 5.753 firmas. Entre despachos de 20 o más abogados, el 28% declara haber implantado plenamente herramientas de GenAI en varias áreas de práctica, frente al 11% del año anterior; en firmas de 150 o más abogados la cifra sube al 56% desde el 23%. El 43% de las grandes ya incluye la IA en su propuesta de valor al cliente (antes 23%). La formación sobre limitaciones y riesgos de la GenAI pasa del 22% al 63%, y las políticas claras de uso en asuntos de cliente del 14% al 47%; en despachos de 150+ llegan al 95%, pero solo el 26% de los solos las tiene. El 25% de quienes usan GenAI reporta menos horas facturables en ciertas tareas (19% el año previo).",
+      "sota:summaryP2": "La foto confirma adopción acelerada en BigLaw y un agujero de gobernanza en solos —precisamente el segmento al que mira la NYCLA—. Para managing partners, el dato accionable es el salto de políticas (14%→47%) y de formación; para pricing, el 25% que ya reduce horas facturables anticipa conversaciones de fee con el cliente. Matiz: son autodeclaraciones de un ranking/informe comercial de Best Lawyers, no una encuesta académica independiente.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.bestlawyers.com/press/u-s-best-law-firms-2027",
+          "schema:name": "Best Law Firms Announces 2027 U.S. Rankings as AI Implementation More Than Doubles",
+          "sota:sourceId": "src-best-lawyers"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-best-lawyers"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-hong-kong-doj-subvencion-lawtech-20000-hkd",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-hong-kong-doj-subvencion-lawtech-20000-hkd",
+      "schema:headline": "Hong Kong lanza un esquema de hasta 20.000 HKD para que despachos pequeños y junior barristers suscriban soluciones lawtech de una lista de 14 proveedores",
+      "schema:datePublished": "2026-11-03",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Department of Justice (DoJ) de Hong Kong lanzó el 3 de noviembre de 2026 el Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal Sector, iniciativa del Policy Address 2026 del Chief Executive. Pueden pedir la ayuda abogados en solitario o despachos de Hong Kong con no más de cinco socios, y barristers con no más de siete años de call. El esquema reembolsa hasta 20.000 dólares de Hong Kong por solicitante para una suscripción de un año a servicios de una lista designada de 14 proveedores locales, de China continental y del exterior (investigación jurídica, generación y redacción de documentos, workflow y apoyo a vistas). Gestionan la aprobación y el pago The Law Society of Hong Kong y el Hong Kong Bar Association. El DoJ subraya que los despachos pyme son ~88% del total y los junior barristers ~un tercio de la abogacía.",
+      "schema:articleBody": "El Department of Justice (DoJ) de Hong Kong lanzó el 3 de noviembre de 2026 el Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal Sector, iniciativa del Policy Address 2026 del Chief Executive. Pueden pedir la ayuda abogados en solitario o despachos de Hong Kong con no más de cinco socios, y barristers con no más de siete años de call. El esquema reembolsa hasta 20.000 dólares de Hong Kong por solicitante para una suscripción de un año a servicios de una lista designada de 14 proveedores locales, de China continental y del exterior (investigación jurídica, generación y redacción de documentos, workflow y apoyo a vistas). Gestionan la aprobación y el pago The Law Society of Hong Kong y el Hong Kong Bar Association. El DoJ subraya que los despachos pyme son ~88% del total y los junior barristers ~un tercio de la abogacía.\n\nEs una de las pocas subvenciones públicas directas a la suscripción de lawtech en Asia y baja la barrera precisamente donde el mercado privado llega peor. Para vendors, entrar en la lista designada es el canal; para despachos europeos que miran HK, señala que el hub de dispute resolution empuja adopción con dinero público, no solo con eslóganes. Matiz: el tope de 20.000 HKD cubre una licencia de entrada, no un despliegue enterprise; la lista de 14 proveedores es la que marca el perímetro.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 7.7,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Subvención pública de suscripción lawtech para pyme jurídica y junior barristers en Hong Kong.",
+      "sota:whyNow": "DoJ Hong Kong (info.gov.hk), 3 nov 2026. NEW.",
+      "sota:geo": [
+        "HK",
+        "AS"
+      ],
+      "sota:topics": [
+        "lawtech",
+        "subvención",
+        "Hong Kong",
+        "pyme jurídica"
+      ],
+      "sota:summaryP1": "El Department of Justice (DoJ) de Hong Kong lanzó el 3 de noviembre de 2026 el Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal Sector, iniciativa del Policy Address 2026 del Chief Executive. Pueden pedir la ayuda abogados en solitario o despachos de Hong Kong con no más de cinco socios, y barristers con no más de siete años de call. El esquema reembolsa hasta 20.000 dólares de Hong Kong por solicitante para una suscripción de un año a servicios de una lista designada de 14 proveedores locales, de China continental y del exterior (investigación jurídica, generación y redacción de documentos, workflow y apoyo a vistas). Gestionan la aprobación y el pago The Law Society of Hong Kong y el Hong Kong Bar Association. El DoJ subraya que los despachos pyme son ~88% del total y los junior barristers ~un tercio de la abogacía.",
+      "sota:summaryP2": "Es una de las pocas subvenciones públicas directas a la suscripción de lawtech en Asia y baja la barrera precisamente donde el mercado privado llega peor. Para vendors, entrar en la lista designada es el canal; para despachos europeos que miran HK, señala que el hub de dispute resolution empuja adopción con dinero público, no solo con eslóganes. Matiz: el tope de 20.000 HKD cubre una licencia de entrada, no un despliegue enterprise; la lista de 14 proveedores es la que marca el perímetro.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300252.htm",
+          "schema:name": "DoJ launches lawtech funding scheme to enhance lawtech application capability of legal sector",
+          "sota:sourceId": "src-info-gov-hk"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hong-kong-doj"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-info-gov-hk"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-tsjm-despido-animadora-3d-ere-ia-videojuegos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-tsjm-despido-animadora-3d-ere-ia-videojuegos",
+      "schema:headline": "El TSJM confirma la procedencia del despido de una animadora 3D en un ERE de una empresa de videojuegos que incorporó IA generativa a la producción",
+      "schema:datePublished": "2026-11-07",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Confilegal informa el 7 de noviembre de 2026 de que el Tribunal Superior de Justicia de Madrid ha confirmado (sentencia de 8 de octubre de 2026, ponente Concepción del Brío Carretero) la procedencia del despido de una animadora 3D en el marco de un ERE de una empresa de videojuegos que, a finales de 2024, pasó de 646.297 euros de beneficio en 2023 a 3.546.027 euros de pérdidas en 2024 y redujo la cifra de negocios de 7,99 a 4,59 millones. La carta de despido invocaba herramientas de IA generativa que mejoraban la calidad visual y reducían el tiempo por escena; la compañía retuvo a dos especialistas 3D sénior para lo que la IA no cubría. En primera instancia (12 de marzo de 2026) el despido de la animadora se declaró procedente y el de una guionista, improcedente. El TSJM confirma íntegramente; Confilegal precisa que el recurso de suplicación no era el de la animadora, cuya procedencia quedó firme al mantenerse el fallo.",
+      "schema:articleBody": "Confilegal informa el 7 de noviembre de 2026 de que el Tribunal Superior de Justicia de Madrid ha confirmado (sentencia de 8 de octubre de 2026, ponente Concepción del Brío Carretero) la procedencia del despido de una animadora 3D en el marco de un ERE de una empresa de videojuegos que, a finales de 2024, pasó de 646.297 euros de beneficio en 2023 a 3.546.027 euros de pérdidas en 2024 y redujo la cifra de negocios de 7,99 a 4,59 millones. La carta de despido invocaba herramientas de IA generativa que mejoraban la calidad visual y reducían el tiempo por escena; la compañía retuvo a dos especialistas 3D sénior para lo que la IA no cubría. En primera instancia (12 de marzo de 2026) el despido de la animadora se declaró procedente y el de una guionista, improcedente. El TSJM confirma íntegramente; Confilegal precisa que el recurso de suplicación no era el de la animadora, cuya procedencia quedó firme al mantenerse el fallo.\n\nNo es un cheque en blanco para despedir «por IA»: el tribunal enmarca la amortización en causas económicas y organizativas acreditadas. Para empresas creativas y para despachos laborales, el precedente útil es documentar qué tareas absorbe la herramienta, qué puestos se conservan y por qué. Matiz: la pieza periodística aclara expresamente que no se deduce un despido automático por incorporar IA.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Confirmación judicial española de despido objetivo en ERE con IA generativa en producción creativa.",
+      "sota:whyNow": "Confilegal, 7 nov 2026 (STSJ Madrid 8 oct 2026). NEW.",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "despido",
+        "ERE",
+        "IA generativa",
+        "videojuegos",
+        "TSJM"
+      ],
+      "sota:summaryP1": "Confilegal informa el 7 de noviembre de 2026 de que el Tribunal Superior de Justicia de Madrid ha confirmado (sentencia de 8 de octubre de 2026, ponente Concepción del Brío Carretero) la procedencia del despido de una animadora 3D en el marco de un ERE de una empresa de videojuegos que, a finales de 2024, pasó de 646.297 euros de beneficio en 2023 a 3.546.027 euros de pérdidas en 2024 y redujo la cifra de negocios de 7,99 a 4,59 millones. La carta de despido invocaba herramientas de IA generativa que mejoraban la calidad visual y reducían el tiempo por escena; la compañía retuvo a dos especialistas 3D sénior para lo que la IA no cubría. En primera instancia (12 de marzo de 2026) el despido de la animadora se declaró procedente y el de una guionista, improcedente. El TSJM confirma íntegramente; Confilegal precisa que el recurso de suplicación no era el de la animadora, cuya procedencia quedó firme al mantenerse el fallo.",
+      "sota:summaryP2": "No es un cheque en blanco para despedir «por IA»: el tribunal enmarca la amortización en causas económicas y organizativas acreditadas. Para empresas creativas y para despachos laborales, el precedente útil es documentar qué tareas absorbe la herramienta, qué puestos se conservan y por qué. Matiz: la pieza periodística aclara expresamente que no se deduce un despido automático por incorporar IA.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://confilegal.com/20261107-el-tsjm-avala-un-despido-de-una-trabajadora-de-una-empresa-de-videojuegos-tras-la-llegada-de-la-ia/",
+          "schema:name": "El TSJM avala un despido de una trabajadora de una empresa de videojuegos tras la llegada de la IA",
+          "sota:sourceId": "src-confilegal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tsjm"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-07-baker-squire-demandas-colectivas-ciberataques",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-07-baker-squire-demandas-colectivas-ciberataques",
+      "schema:headline": "Baker McKenzie y Squire Patton Boggs afrontan demandas colectivas propuestas tras ciberataques que habrían expuesto datos personales",
+      "schema:datePublished": "2026-11-06",
+      "schema:inLanguage": "es",
+      "schema:abstract": "ABA Journal recoge el 6 de noviembre de 2026, citando a Reuters, que se han presentado demandas colectivas propuestas contra Baker McKenzie (Northern District of Illinois) y Squire Patton Boggs (Northern District of Ohio) por ciberataques que, según los demandantes, expusieron datos personales. Baker McKenzie dijo la semana previa que un ciberdelincuente «engañó con ingeniería social a dos de nuestros usuarios» en agosto para obtener un número limitado de archivos, y que «no hubo acceso malicioso independiente a nuestro sistema». Squire Patton Boggs reveló en octubre que un tercero no autorizado obtuvo «un conjunto limitado de información» de la firma. Ninguno de los dos despachos respondió a Reuters sobre las demandas.",
+      "schema:articleBody": "ABA Journal recoge el 6 de noviembre de 2026, citando a Reuters, que se han presentado demandas colectivas propuestas contra Baker McKenzie (Northern District of Illinois) y Squire Patton Boggs (Northern District of Ohio) por ciberataques que, según los demandantes, expusieron datos personales. Baker McKenzie dijo la semana previa que un ciberdelincuente «engañó con ingeniería social a dos de nuestros usuarios» en agosto para obtener un número limitado de archivos, y que «no hubo acceso malicioso independiente a nuestro sistema». Squire Patton Boggs reveló en octubre que un tercero no autorizado obtuvo «un conjunto limitado de información» de la firma. Ninguno de los dos despachos respondió a Reuters sobre las demandas.\n\nEncaja con el relato de Thomson Reuters y otros sobre el auge del riesgo cibernético en BigLaw y la demanda de IA «fiduciaria» on-prem o privada. Para clientes y paneles, toca revisar notificaciones de breach, cláusulas de seguridad y seguros; para el propio mercado LegalTech, cada incidente refuerza el argumento de control de datos frente a asistentes genéricos. Matiz: son demandas propuestas en fase muy temprana; los hechos del incidente los narran los propios despachos con lenguaje minimizador.",
+      "sota:type": "litigation",
+      "sota:sotaScore": 7.5,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Dos BigLaw globales encausados en class actions propuestas por exposición de datos tras ciberincidentes.",
+      "sota:whyNow": "ABA Journal / Reuters, 6 nov 2026. NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "ciberseguridad",
+        "class action",
+        "Baker McKenzie",
+        "Squire Patton Boggs"
+      ],
+      "sota:summaryP1": "ABA Journal recoge el 6 de noviembre de 2026, citando a Reuters, que se han presentado demandas colectivas propuestas contra Baker McKenzie (Northern District of Illinois) y Squire Patton Boggs (Northern District of Ohio) por ciberataques que, según los demandantes, expusieron datos personales. Baker McKenzie dijo la semana previa que un ciberdelincuente «engañó con ingeniería social a dos de nuestros usuarios» en agosto para obtener un número limitado de archivos, y que «no hubo acceso malicioso independiente a nuestro sistema». Squire Patton Boggs reveló en octubre que un tercero no autorizado obtuvo «un conjunto limitado de información» de la firma. Ninguno de los dos despachos respondió a Reuters sobre las demandas.",
+      "sota:summaryP2": "Encaja con el relato de Thomson Reuters y otros sobre el auge del riesgo cibernético en BigLaw y la demanda de IA «fiduciaria» on-prem o privada. Para clientes y paneles, toca revisar notificaciones de breach, cláusulas de seguridad y seguros; para el propio mercado LegalTech, cada incidente refuerza el argumento de control de datos frente a asistentes genéricos. Matiz: son demandas propuestas en fase muy temprana; los hechos del incidente los narran los propios despachos con lenguaje minimizador.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.abajournal.com/news/article/2-biglaw-firms-face-proposed-class-actions-over-cyber-breaches",
+          "schema:name": "2 BigLaw firms face proposed class actions over cyber breaches",
+          "sota:sourceId": "src-aba-journal"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-baker-mckenzie"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-squire-patton-boggs"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-agiloft",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-agiloft",
+      "schema:name": "Agiloft",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.agiloft.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-anthropic",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-anthropic",
+      "schema:name": "Anthropic",
+      "sota:entityType": "company",
+      "schema:url": "https://www.anthropic.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-baker-mckenzie",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-baker-mckenzie",
+      "schema:name": "Baker McKenzie",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.bakermckenzie.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-best-lawyers",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-best-lawyers",
+      "schema:name": "Best Lawyers / Best Law Firms",
+      "sota:entityType": "media",
+      "schema:url": "https://www.bestlawyers.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-hong-kong-doj",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-hong-kong-doj",
+      "schema:name": "Department of Justice (Hong Kong)",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.doj.gov.hk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-info-gov-hk",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-info-gov-hk",
+      "schema:name": "Hong Kong Government Press Releases (info.gov.hk)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.info.gov.hk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-latham-watkins",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-latham-watkins",
+      "schema:name": "Latham & Watkins",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.lw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nycla",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nycla",
+      "schema:name": "New York County Lawyers Association (NYCLA)",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.nycla.org/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-obermayer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-obermayer",
+      "schema:name": "Obermayer Rebmann Maxwell & Hippel LLP",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.obermayer.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pennsylvania-supreme-court-ai-committee",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pennsylvania-supreme-court-ai-committee",
+      "schema:name": "Advisory Committee on Artificial Intelligence (Pennsylvania)",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.pacourts.us/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-spencer-west",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-spencer-west",
+      "schema:name": "Spencer West",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.spencer-west.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-squire-patton-boggs",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-squire-patton-boggs",
+      "schema:name": "Squire Patton Boggs",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.squirepattonboggs.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-tsjm",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-tsjm",
+      "schema:name": "Tribunal Superior de Justicia de Madrid (TSJM)",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.comunidad.madrid/servicios/justicia",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-wesa",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-wesa",
+      "schema:name": "WESA / Spotlight PA",
+      "sota:entityType": "media",
+      "schema:url": "https://www.wesanews.org/",
+      "sota:stub": true
+    }
+  ]
+}

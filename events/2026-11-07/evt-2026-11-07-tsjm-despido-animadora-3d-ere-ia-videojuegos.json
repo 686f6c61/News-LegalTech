@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-07-tsjm-despido-animadora-3d-ere-ia-videojuegos",
+  "date": "2026-11-07",
+  "type": "case_law",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "El TSJM confirma la procedencia del despido de una animadora 3D en un ERE de una empresa de videojuegos que incorporó IA generativa a la producción",
+  "short_title": "TSJM: despido procedente de animadora 3D tras ERE con IA",
+  "standfirst": "La empresa pasó de beneficios a pérdidas millonarias y retuvo a dos especialistas 3D sénior; el recurso de suplicación no era el de la animadora.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Laboral",
+  "country": "España",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "Confilegal informa el 7 de noviembre de 2026 de que el Tribunal Superior de Justicia de Madrid ha confirmado (sentencia de 8 de octubre de 2026, ponente Concepción del Brío Carretero) la procedencia del despido de una animadora 3D en el marco de un ERE de una empresa de videojuegos que, a finales de 2024, pasó de 646.297 euros de beneficio en 2023 a 3.546.027 euros de pérdidas en 2024 y redujo la cifra de negocios de 7,99 a 4,59 millones. La carta de despido invocaba herramientas de IA generativa que mejoraban la calidad visual y reducían el tiempo por escena; la compañía retuvo a dos especialistas 3D sénior para lo que la IA no cubría. En primera instancia (12 de marzo de 2026) el despido de la animadora se declaró procedente y el de una guionista, improcedente. El TSJM confirma íntegramente; Confilegal precisa que el recurso de suplicación no era el de la animadora, cuya procedencia quedó firme al mantenerse el fallo.",
+  "summary_p2": "No es un cheque en blanco para despedir «por IA»: el tribunal enmarca la amortización en causas económicas y organizativas acreditadas. Para empresas creativas y para despachos laborales, el precedente útil es documentar qué tareas absorbe la herramienta, qué puestos se conservan y por qué. Matiz: la pieza periodística aclara expresamente que no se deduce un despido automático por incorporar IA.",
+  "why_sota": "Confirmación judicial española de despido objetivo en ERE con IA generativa en producción creativa.",
+  "why_now": "Confilegal, 7 nov 2026 (STSJ Madrid 8 oct 2026). NEW.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "despido",
+    "ERE",
+    "IA generativa",
+    "videojuegos",
+    "TSJM"
+  ],
+  "sources": [
+    {
+      "source_id": "src-confilegal",
+      "url": "https://confilegal.com/20261107-el-tsjm-avala-un-despido-de-una-trabajadora-de-una-empresa-de-videojuegos-tras-la-llegada-de-la-ia/",
+      "cited_title": "El TSJM avala un despido de una trabajadora de una empresa de videojuegos tras la llegada de la IA",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-tsjm"
+  ],
+  "lang": "es",
+  "status": "published"
+}

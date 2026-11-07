@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-07-pensilvania-propuesta-certificar-citas-ia",
+  "date": "2026-11-06",
+  "type": "regulation",
+  "sota_score": 8.4,
+  "ai_legaltech": true,
+  "title": "Pensilvania propone que abogados y otros presentadores certifiquen haber verificado las citas y el contenido generado con IA, con posible sanción si no lo hacen",
+  "short_title": "Pensilvania: certificar la verificación de citas hechas con IA",
+  "standfirst": "Comentarios públicos hasta el 24 de noviembre; el comité recuerda alucinaciones y el precedente de sanciones federales.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Tribunales",
+  "country": "Estados Unidos",
+  "piece_type": "Orientación",
+  "summary_p1": "El Advisory Committee on Artificial Intelligence que asesora al Tribunal Supremo de Pensilvania ha publicado una propuesta —recogida por WESA / Spotlight PA el 6 de noviembre de 2026— para que quienes presenten escritos en los tribunales del estado, abogados o litigantes en persona, certifiquen que han revisado a fondo la exactitud de cualquier contenido generado con IA generativa, incluidas citas, citas textuales y resúmenes de principios jurídicos. El comité advierte de que la GenAI puede producir información «inexacta, engañosa o fabricada». El incumplimiento podría acarrear sanciones desde amonestación a multas o el archivo del caso. El periodo de comentarios públicos corre hasta el 24 de noviembre; después el comité podrá ajustar el texto y elevarlo a los siete jueces del alto tribunal. La Pennsylvania Bar Association aún no ha tomado posición; en 2024 ya recomendó verificar todo contenido generado con IA.",
+  "summary_p2": "La carga de exactitud se pone explícitamente en el humano, no en la herramienta, y ampliaría a todos los presentadores una lógica que el propio tribunal ya aplicó en 2025 a jueces y personal. Para despachos que litigan en PA, conviene preparar un checklist de verificación y de certificación antes de que la norma (si se aprueba) entre en vigor; para vendors, es otra señal de que el «export to court» exige trazabilidad de citas. Matiz: es propuesta en consulta, no norma vigente (guidance_not_norm).",
+  "why_sota": "Propuesta estatal de certificación obligatoria de verificación de citas GenAI en escritos judiciales.",
+  "why_now": "WESA / Spotlight PA, 6 nov 2026. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "citas erróneas",
+    "tribunales",
+    "Pensilvania",
+    "certificación",
+    "GenAI"
+  ],
+  "sources": [
+    {
+      "source_id": "src-wesa",
+      "url": "https://www.wesanews.org/politics-government/2026-11-06/pennsylvania-ai-court-files-verification-accuracy-lawyers",
+      "cited_title": "Pennsylvania may require lawyers, other court filers to verify AI-generated citations",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-pennsylvania-supreme-court-ai-committee",
+    "ent-wesa"
+  ],
+  "lang": "es",
+  "status": "published"
+}

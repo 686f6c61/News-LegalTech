@@ -1,0 +1,9 @@
+id: ent-info-gov-hk
+name: Hong Kong Government Press Releases (info.gov.hk)
+type: media
+url: https://www.info.gov.hk/
+geo:
+- HK
+aliases: []
+notes: Notas oficiales del Gobierno de Hong Kong.
+stub: true

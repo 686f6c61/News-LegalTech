@@ -5277,3 +5277,128 @@ entities:
   notes: Fiscal general de California; demandado por Meta, Google y TikTok por la
     AB 1709.
   stub: true
+- id: ent-spencer-west
+  name: Spencer West
+  type: law_firm
+  url: https://www.spencer-west.com/
+  geo:
+  - GB
+  - GLOBAL
+  aliases: []
+  notes: Despacho internacional británico; despliega Harvey firm-wide (360+ socios,
+    25 jurisdicciones).
+  stub: true
+- id: ent-obermayer
+  name: Obermayer Rebmann Maxwell & Hippel LLP
+  type: law_firm
+  url: https://www.obermayer.com/
+  geo:
+  - US
+  aliases:
+  - Obermayer
+  notes: Despacho full-service con sede en Filadelfia; adopta Legora.
+  stub: true
+- id: ent-agiloft
+  name: Agiloft
+  type: vendor
+  url: https://www.agiloft.com/
+  geo:
+  - US
+  - GLOBAL
+  aliases: []
+  notes: CLM data-first; lanza agentes de ejecución en Ask AI (nov 2026).
+  stub: true
+- id: ent-conga
+  name: Conga
+  type: vendor
+  url: https://conga.com/
+  geo:
+  - US
+  - GLOBAL
+  aliases: []
+  notes: CLM empresarial; integración anunciada con Legora.
+  stub: true
+- id: ent-nycla
+  name: New York County Lawyers Association (NYCLA)
+  type: regulator
+  url: https://www.nycla.org/
+  geo:
+  - US
+  aliases:
+  - NYCLA
+  notes: Colegio de abogados del condado de Nueva York; opinión ética GenAI nov 2026.
+  stub: true
+- id: ent-pennsylvania-supreme-court-ai-committee
+  name: Advisory Committee on Artificial Intelligence (Pennsylvania)
+  type: regulator
+  url: https://www.pacourts.us/
+  geo:
+  - US
+  aliases:
+  - Pa. AI Advisory Committee
+  notes: Comité asesor de IA del Tribunal Supremo de Pensilvania; propone certificación
+    de citas generadas con IA.
+  stub: true
+- id: ent-best-lawyers
+  name: Best Lawyers / Best Law Firms
+  type: media
+  url: https://www.bestlawyers.com/
+  geo:
+  - US
+  aliases:
+  - Best Law Firms
+  notes: Rankings y informe de mercado legal EE. UU.
+  stub: true
+- id: ent-hong-kong-doj
+  name: Department of Justice (Hong Kong)
+  type: regulator
+  url: https://www.doj.gov.hk/
+  geo:
+  - HK
+  aliases:
+  - DoJ Hong Kong
+  - Hong Kong Department of Justice
+  notes: Lanza el Funding Scheme for LawTech Solution Subscription (nov 2026).
+  stub: true
+- id: ent-tsjm
+  name: Tribunal Superior de Justicia de Madrid (TSJM)
+  type: regulator
+  url: https://www.comunidad.madrid/servicios/justicia
+  geo:
+  - ES
+  aliases:
+  - TSJM
+  notes: Confirma procedencia de despido tras ERE con IA en empresa de videojuegos.
+  stub: true
+- id: ent-squire-patton-boggs
+  name: Squire Patton Boggs
+  type: law_firm
+  url: https://www.squirepattonboggs.com/
+  geo:
+  - US
+  - GLOBAL
+  aliases:
+  - SPB
+  notes: Despacho global; demanda colectiva propuesta tras ciberincidente.
+  stub: true
+- id: ent-wesa
+  name: WESA / Spotlight PA
+  type: media
+  url: https://www.wesanews.org/
+  geo:
+  - US
+  aliases:
+  - 90.5 WESA
+  - Spotlight PA
+  notes: Medio público de Pittsburgh; cobertura con Spotlight PA de la propuesta de
+    citas IA en Pensilvania.
+  stub: true
+- id: ent-info-gov-hk
+  name: Hong Kong Government Press Releases (info.gov.hk)
+  type: media
+  url: https://www.info.gov.hk/
+  geo:
+  - HK
+  aliases: []
+  notes: Notas oficiales del Gobierno de Hong Kong.
+  stub: true

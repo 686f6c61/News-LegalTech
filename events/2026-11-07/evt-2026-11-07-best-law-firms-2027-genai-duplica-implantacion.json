@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-07-best-law-firms-2027-genai-duplica-implantacion",
+  "date": "2026-11-05",
+  "type": "market",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Best Law Firms 2027: la implantación plena de GenAI se más que duplica (28% en despachos de 20+; 56% en 150+) y casi la mitad ya la pone en la propuesta de valor al cliente",
+  "short_title": "Best Law Firms 2027: la GenAI plena se más que duplica",
+  "standfirst": "Formación sobre riesgos pasa del 22% al 63%; políticas claras, del 14% al 47% (95% en grandes; solo 26% en solos).",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Estados Unidos",
+  "piece_type": "Análisis",
+  "summary_p1": "Best Lawyers publicó el 5 de noviembre de 2026 el ranking Best Law Firms 2027 (15.671 despachos, 127 áreas, 188 mercados) junto al tercer informe anual U.S. Legal Market Report, basado en respuestas de 5.753 firmas. Entre despachos de 20 o más abogados, el 28% declara haber implantado plenamente herramientas de GenAI en varias áreas de práctica, frente al 11% del año anterior; en firmas de 150 o más abogados la cifra sube al 56% desde el 23%. El 43% de las grandes ya incluye la IA en su propuesta de valor al cliente (antes 23%). La formación sobre limitaciones y riesgos de la GenAI pasa del 22% al 63%, y las políticas claras de uso en asuntos de cliente del 14% al 47%; en despachos de 150+ llegan al 95%, pero solo el 26% de los solos las tiene. El 25% de quienes usan GenAI reporta menos horas facturables en ciertas tareas (19% el año previo).",
+  "summary_p2": "La foto confirma adopción acelerada en BigLaw y un agujero de gobernanza en solos —precisamente el segmento al que mira la NYCLA—. Para managing partners, el dato accionable es el salto de políticas (14%→47%) y de formación; para pricing, el 25% que ya reduce horas facturables anticipa conversaciones de fee con el cliente. Matiz: son autodeclaraciones de un ranking/informe comercial de Best Lawyers, no una encuesta académica independiente.",
+  "why_sota": "Datos de mercado EE. UU. que cuantifican la duplicación de implantación plena de GenAI y el gap de políticas por tamaño.",
+  "why_now": "Best Lawyers, 5 nov 2026. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "adopción",
+    "GenAI",
+    "rankings",
+    "políticas",
+    "billing"
+  ],
+  "sources": [
+    {
+      "source_id": "src-best-lawyers",
+      "url": "https://www.bestlawyers.com/press/u-s-best-law-firms-2027",
+      "cited_title": "Best Law Firms Announces 2027 U.S. Rankings as AI Implementation More Than Doubles",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-best-lawyers"
+  ],
+  "lang": "es",
+  "status": "published"
+}

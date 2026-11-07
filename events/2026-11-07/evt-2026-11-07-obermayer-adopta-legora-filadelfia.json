@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-07-obermayer-adopta-legora-filadelfia",
+  "date": "2026-11-05",
+  "type": "product",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Obermayer (Filadelfia) elige Legora como plataforma de IA jurídica tras evaluar varias opciones; más de 120 abogados en nueve oficinas",
+  "short_title": "Obermayer elige Legora como plataforma de IA de la firma",
+  "standfirst": "El managing partner insiste en que agiliza el trabajo sin sustituir el juicio; el CTO valora el acompañamiento in situ del vendor.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Adopción",
+  "summary_p1": "Legora anunció el 5 de noviembre de 2026 que Obermayer Rebmann Maxwell & Hippel LLP, despacho full-service con sede en Filadelfia y más de 120 abogados en nueve oficinas, ha seleccionado Legora como su plataforma de IA jurídica. Según el comunicado, los abogados la usarán en investigación, redacción y análisis, y para aplicar el conocimiento colectivo de la firma a cada asunto. Mathieu Shapiro, managing partner, afirma que «agiliza el trabajo, pero no sustituye el juicio»; Jeffrey McShane, CTO y presidente del comité de IA, destaca tanto la tecnología como el equipo del vendor. Legora trabajó in situ con abogados y líderes tecnológicos durante la evaluación y corrió sesiones sobre casos de uso reales; Max Junestrand, CEO, insiste en que la adopción «no ocurre a distancia».",
+  "summary_p2": "Tras Fieldfisher (~1.400 usuarios) el mismo día, Obermayer refuerza la narrativa de Legora en el mid-market estadounidense full-service. Para otros despachos de 100-200 abogados, el mensaje operativo es evaluación comparada más acompañamiento presencial; para Harvey y rivales, es otra ficha en la guerra de adopciones de noviembre. Matiz: es nota de proveedor; no hay métricas de piloto ni plazos de rollout firm-wide.",
+  "why_sota": "Adopción de Legora por un full-service de Filadelfia (120+ abogados) tras bake-off.",
+  "why_now": "Legora / Obermayer, 5 nov 2026. NEW frente a Fieldfisher del mismo día ya publicado.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "adopción",
+    "Legora",
+    "despachos",
+    "Filadelfia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legora",
+      "url": "https://legora.com/newsroom/obermayer-adopts-legora-to-accelerate-legal-work-and-unlock-firm-knowledge",
+      "cited_title": "Obermayer adopts Legora to accelerate legal work and unlock firm knowledge",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-obermayer",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

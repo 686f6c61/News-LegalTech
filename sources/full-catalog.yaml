@@ -1,5 +1,11 @@
-count: 170
+version: 1.0.0
+generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
+count: 175
 agenda_count: 9
+tiers:
+  core: Monitorización diaria prioritaria (señal alta ES/AI)
+  watch: Revisión periódica / semanal
+  archive: Blogs vendor y señal secundaria; consultar bajo demanda
 sources:
 - id: src-artificial-lawyer
   name: Artificial Lawyer
@@ -1889,9 +1895,57 @@ sources:
   lang: EN
   tier: archive
 
-version: 1.0.0
-generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-tiers:
-  core: Monitorización diaria prioritaria (señal alta ES/AI)
-  watch: Revisión periódica / semanal
-  archive: Blogs vendor y señal secundaria; consultar bajo demanda
+- id: src-spencer-west
+  name: Spencer West
+  url: https://www.spencer-west.com/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Despacho internacional británico (web corporativa). Ficha añadida para citar la adopción firm-wide de Harvey.
+  region: UK
+  lang: EN
+  tier: archive
+
+- id: src-nycla
+  name: New York County Lawyers Association (NYCLA)
+  url: https://www.nycla.org/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Colegio de abogados del condado de Nueva York. Ficha añadida para citar la opinión ética sobre GenAI.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-wesa
+  name: WESA / Spotlight PA
+  url: https://www.wesanews.org/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Medio público de Pittsburgh (cobertura con Spotlight PA). Ficha añadida para citar la propuesta de certificación de citas IA en Pensilvania.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-best-lawyers
+  name: Best Lawyers / Best Law Firms
+  url: https://www.bestlawyers.com/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Rankings y informe de mercado legal EE. UU. Ficha añadida para citar Best Law Firms 2027 y datos de adopción GenAI.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-info-gov-hk
+  name: Hong Kong Government Press Releases (info.gov.hk)
+  url: https://www.info.gov.hk/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Notas oficiales del Gobierno de Hong Kong. Ficha añadida para citar el Funding Scheme for LawTech del DoJ.
+  region: HK
+  lang: EN
+  tier: archive

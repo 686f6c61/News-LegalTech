@@ -1,0 +1,11 @@
+id: ent-spencer-west
+name: Spencer West
+type: law_firm
+url: https://www.spencer-west.com/
+geo:
+- GB
+- GLOBAL
+aliases: []
+notes: Despacho internacional británico; despliega Harvey firm-wide (360+ socios,
+  25 jurisdicciones).
+stub: true

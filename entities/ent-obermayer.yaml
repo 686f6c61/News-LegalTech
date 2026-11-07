@@ -1,0 +1,10 @@
+id: ent-obermayer
+name: Obermayer Rebmann Maxwell & Hippel LLP
+type: law_firm
+url: https://www.obermayer.com/
+geo:
+- US
+aliases:
+- Obermayer
+notes: Despacho full-service con sede en Filadelfia; adopta Legora.
+stub: true

@@ -1,0 +1,10 @@
+id: ent-tsjm
+name: Tribunal Superior de Justicia de Madrid (TSJM)
+type: regulator
+url: https://www.comunidad.madrid/servicios/justicia
+geo:
+- ES
+aliases:
+- TSJM
+notes: Confirma procedencia de despido tras ERE con IA en empresa de videojuegos.
+stub: true

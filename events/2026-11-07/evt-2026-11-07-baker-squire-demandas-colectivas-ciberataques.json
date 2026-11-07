@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-07-baker-squire-demandas-colectivas-ciberataques",
+  "date": "2026-11-06",
+  "type": "litigation",
+  "sota_score": 7.5,
+  "ai_legaltech": false,
+  "title": "Baker McKenzie y Squire Patton Boggs afrontan demandas colectivas propuestas tras ciberataques que habrían expuesto datos personales",
+  "short_title": "Baker y Squire Patton Boggs: class actions por ciberataques",
+  "standfirst": "Baker habla de ingeniería social a dos usuarios en agosto; Squire reveló en octubre acceso no autorizado a un conjunto limitado de información.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Ciberseguridad",
+  "country": "Estados Unidos",
+  "piece_type": "Incidente",
+  "summary_p1": "ABA Journal recoge el 6 de noviembre de 2026, citando a Reuters, que se han presentado demandas colectivas propuestas contra Baker McKenzie (Northern District of Illinois) y Squire Patton Boggs (Northern District of Ohio) por ciberataques que, según los demandantes, expusieron datos personales. Baker McKenzie dijo la semana previa que un ciberdelincuente «engañó con ingeniería social a dos de nuestros usuarios» en agosto para obtener un número limitado de archivos, y que «no hubo acceso malicioso independiente a nuestro sistema». Squire Patton Boggs reveló en octubre que un tercero no autorizado obtuvo «un conjunto limitado de información» de la firma. Ninguno de los dos despachos respondió a Reuters sobre las demandas.",
+  "summary_p2": "Encaja con el relato de Thomson Reuters y otros sobre el auge del riesgo cibernético en BigLaw y la demanda de IA «fiduciaria» on-prem o privada. Para clientes y paneles, toca revisar notificaciones de breach, cláusulas de seguridad y seguros; para el propio mercado LegalTech, cada incidente refuerza el argumento de control de datos frente a asistentes genéricos. Matiz: son demandas propuestas en fase muy temprana; los hechos del incidente los narran los propios despachos con lenguaje minimizador.",
+  "why_sota": "Dos BigLaw globales encausados en class actions propuestas por exposición de datos tras ciberincidentes.",
+  "why_now": "ABA Journal / Reuters, 6 nov 2026. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "ciberseguridad",
+    "class action",
+    "Baker McKenzie",
+    "Squire Patton Boggs"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/2-biglaw-firms-face-proposed-class-actions-over-cyber-breaches",
+      "cited_title": "2 BigLaw firms face proposed class actions over cyber breaches",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-baker-mckenzie",
+    "ent-squire-patton-boggs"
+  ],
+  "lang": "es",
+  "status": "published"
+}

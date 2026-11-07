@@ -1,0 +1,54 @@
+{
+  "id": "evt-2026-11-07-harvey-conversaciones-preliminares-ipo-latham",
+  "date": "2026-11-06",
+  "type": "market",
+  "sota_score": 8.5,
+  "ai_legaltech": true,
+  "title": "Harvey mantiene conversaciones preliminares con Latham & Watkins sobre un posible IPO; no hay salida a bolsa inminente y Legora también sondea el mercado",
+  "short_title": "Harvey sondea un IPO con Latham; Legora también mira el mercado",
+  "standfirst": "Law.com sitúa la valoración reciente en 15.500 M$; Artificial Lawyer confirma contactos en ambos vendors y una negativa a comentar plazos por parte de Legora.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Harvey ha mantenido conversaciones preliminares con Latham & Watkins sobre un posible IPO (salida a bolsa), según Business Insider y la cobertura de Law.com y Legal Business del 6 de noviembre de 2026. No hay planes inminentes de cotizar: las reuniones son tempranas y la compañía vigilaría el comportamiento de otras salidas tecnológicas antes de decidir. Law.com sitúa la valoración más reciente en 15.500 millones de dólares; un portavoz de Harvey no quiso comentar. Artificial Lawyer añade el mismo día que fuentes confirman contactos análogos de Legora con «the Street» (valoraciones, plazos, bancos) y publica la respuesta del vendor: «No comentamos especulaciones… Max siempre ha dicho que le gustaría sacar Legora a bolsa algún día, pero es pronto; ahora estamos centrados en clientes y crecimiento».",
+  "summary_p2": "Para el mercado LegalTech, la señal no es un filing sino que los dos líderes de IA jurídica planifican ruta pública mientras el macro de IA se enfría y Big Tech aprieta el vertical legal. Para despachos e in-house, un IPO futuro cambia incentivos (presión trimestral vs. roadmap de producto) más que la herramienta de mañana; para inversores, Anthropic y el sentimiento AI serán el semáforo. Matiz: son filtraciones y fuentes no atribuidas; Legal Business / Law.com están parcial o totalmente tras muro; Legora niega plazos.",
+  "why_sota": "Primeros contactos públicos de Harvey (y eco de Legora) con asesores de cara a un IPO.",
+  "why_now": "Business Insider / Law.com / AL, 6 nov 2026. NEW.",
+  "geo": [
+    "US",
+    "GLOBAL"
+  ],
+  "topics": [
+    "IPO",
+    "Harvey",
+    "Legora",
+    "valoración",
+    "mercado"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/06/harvey-legora-ipo-plans-ao-1-1bn-legal-innovators-ny/",
+      "cited_title": "Harvey + Legora IPO Plans, A&O $1.1bn, Legal Innovators NY",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/11/06/harvey-holds-early-talks-over-potential-ipo/",
+      "cited_title": "Harvey Holds Early Talks Over Potential IPO",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-legora",
+    "ent-latham-watkins",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-nycla
+name: New York County Lawyers Association (NYCLA)
+type: regulator
+url: https://www.nycla.org/
+geo:
+- US
+aliases:
+- NYCLA
+notes: Colegio de abogados del condado de Nueva York; opinión ética GenAI nov 2026.
+stub: true

@@ -1,0 +1,51 @@
+{
+  "id": "evt-2026-11-07-spencer-west-harvey-firmwide-360-socios",
+  "date": "2026-11-03",
+  "type": "product",
+  "sota_score": 8.3,
+  "ai_legaltech": true,
+  "title": "Spencer West selecciona Harvey firm-wide para más de 360 socios en 25 jurisdicciones tras un piloto y una evaluación del mercado de IA jurídica",
+  "short_title": "Spencer West despliega Harvey a 360+ socios en 25 países",
+  "standfirst": "El despacho británico internacional cita investigación por jurisdicción, seguridad y gobernanza como criterios de elección.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Reino Unido",
+  "piece_type": "Adopción",
+  "summary_p1": "Spencer West anunció el 3 de noviembre de 2026 que ha seleccionado Harvey, el sistema operativo de IA para servicios jurídicos y profesionales, para su práctica internacional de más de 360 socios en 25 jurisdicciones. La decisión sigue a un piloto y a una evaluación amplia del mercado de IA jurídica; el despacho destaca la amplitud de capacidades, la investigación específica por jurisdicción, el soporte global y la seguridad y gobernanza diseñadas ad hoc. Harvey se está desplegando ahora en toda la red y cubrirá investigación, redacción, análisis de contratos y revisión documental, además de workflows de IA para tareas complejas recurrentes en mercantil, litigación y asuntos cross-border. Simeon Spencer, senior partner y cofundador, presenta la herramienta como un habilitador para profundizar la relación con el cliente; Peter Reeve (Harvey UK) confirma que el piloto redujo tiempo en tareas intensivas.",
+  "summary_p2": "Es otra adopción firm-wide de Harvey en un modelo de despacho emprendedor y partner-led, distinta de los despliegues en Magic Circle o en boutiques españolas ya cubiertos. Para paneles e in-house, la señal es la escala multi-jurisdicción (25 países) con un solo vendor; conviene preguntar cómo se gestionan muros éticos y datos entre oficinas. Matiz: el comunicado es del propio despacho (y Harvey lo replica); no hay cifras independientes de uso ni de ahorro.",
+  "why_sota": "Adopción firm-wide de Harvey en un despacho internacional de 360+ socios / 25 jurisdicciones.",
+  "why_now": "Spencer West / Harvey, 3 nov 2026. NEW frente a 09-29→11-06.",
+  "geo": [
+    "GB",
+    "GLOBAL"
+  ],
+  "topics": [
+    "adopción",
+    "Harvey",
+    "despachos",
+    "multi-jurisdicción"
+  ],
+  "sources": [
+    {
+      "source_id": "src-spencer-west",
+      "url": "https://www.spencer-west.com/news/spencer-west-selects-harvey-firmwide-to-support-its-growing-international-practice/",
+      "cited_title": "Spencer West selects Harvey firmwide to support its growing international practice",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source_id": "src-harvey",
+      "url": "https://www.harvey.ai/blog/spencer-west-selects-harvey-firmwide",
+      "cited_title": "Spencer West Selects Harvey Firmwide",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-spencer-west",
+    "ent-harvey"
+  ],
+  "lang": "es",
+  "status": "published"
+}

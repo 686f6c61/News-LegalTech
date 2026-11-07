@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-11-07-agiloft-tres-agentes-ask-ai-mcp-claude",
+  "date": "2026-11-05",
+  "type": "product",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "Agiloft lanza tres agentes de ejecución en Ask AI (bulk update, intake y e-signature con Adobe Sign), visor multipanel y un servidor MCP en beta con Claude",
+  "short_title": "Agiloft: tres agentes CLM, visor multipanel y MCP con Claude",
+  "standfirst": "El Bulk Update Agent exige confirmación humana; el MCP abre el repositorio de contratos a clientes externos con permisos del CLM.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Contratos",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "Agiloft anunció el 5 de noviembre de 2026 tres agentes de IA dentro de Ask AI en su plataforma de contract lifecycle management (CLM): Bulk Update Agent (cambia hasta tres campos en varios registros tras previsualizar y exigir confirmación humana), Contract Request Agent (enruta en lenguaje natural al formulario de intake correcto según intención y permisos) y eSignature Agent para Adobe Acrobat Sign (prepara documentos, firmantes y orden antes de enviar). Añade un Multi-Pane Document Viewer que junta Ask AI, ficha del contrato, documento y tablas, una capa semántica configurable con terminología interna, y un servidor Model Context Protocol (MCP) en beta cuyo primer cliente es Claude de Anthropic, pensado para que herramientas externas hablen con el repositorio central sin romper permisos. El vendor enlaza el lanzamiento a su encuesta Censuswide a 2.005 responsables de procurement: al menos un 15% del gasto a proveedores fluye fuera de lo contratado y solo el 36% conecta automáticamente el award de sourcing con el contrato.",
+  "summary_p2": "El salto es de «analizar el contrato» a «ejecutar pasos administrativos» con humano en el bucle. Para legal y procurement, el caso de uso inmediato es reducir handoffs (intake mal encaminado, firmas a mano, updates masivos); para rivales de CLM y de agentes jurídicos, el MCP con Claude marca otra vía de acceso al sistema de registro. Matiz: es nota de prensa del proveedor; el MCP sigue en beta y el acceso a las capacidades se amplía por fases.",
+  "why_sota": "Agentes de ejecución en CLM (bulk/intake/firma) más MCP hacia Claude sobre el repositorio de contratos.",
+  "why_now": "Agiloft / PR Newswire / Unite.AI, 5 nov 2026. NEW.",
+  "geo": [
+    "US",
+    "GLOBAL"
+  ],
+  "topics": [
+    "CLM",
+    "agentes de IA",
+    "MCP",
+    "Adobe Sign",
+    "procurement"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pr-newswire",
+      "url": "https://www.prnewswire.com/news-releases/agiloft-targets-enterprise-value-leakage-with-new-suite-of-execution-focused-ai-agents-302929642.html",
+      "cited_title": "Agiloft Targets Enterprise Value Leakage with New Suite of Execution-Focused AI Agents",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/agiloft-adds-three-ai-agents-for-multi-step-contract-tasks/",
+      "cited_title": "Agiloft Adds Three AI Agents for Multi-Step Contract Tasks",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "entities": [
+    "ent-agiloft",
+    "ent-anthropic"
+  ],
+  "lang": "es",
+  "status": "published"
+}
