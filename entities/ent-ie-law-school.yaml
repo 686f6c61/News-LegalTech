@@ -1,0 +1,12 @@
+id: ent-ie-law-school
+name: IE Law School (IE University)
+type: research
+url: https://www.ie.edu/law-school/
+geo:
+- ES
+aliases:
+- IE University
+- IE Law School
+notes: Coautora con Thomson Reuters Institute del informe State of European Legal
+  Markets (nov 2026).
+stub: true

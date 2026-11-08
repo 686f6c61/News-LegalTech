@@ -5402,3 +5402,109 @@ entities:
   aliases: []
   notes: Notas oficiales del Gobierno de Hong Kong.
   stub: true
+- id: ent-cozen-oconnor
+  name: Cozen O'Connor
+  type: law_firm
+  url: https://www.cozen.com/
+  geo:
+  - US
+  - GLOBAL
+  aliases:
+  - Cozen
+  notes: Despacho estadounidense de más de 1.000 abogados y 35 oficinas; implanta
+    Harvey firm-wide (nov 2026).
+  stub: true
+- id: ent-wongpartnership
+  name: WongPartnership LLP
+  type: law_firm
+  url: https://www.wongpartnership.com/
+  geo:
+  - SG
+  aliases:
+  - WongPartnership
+  notes: Despacho de Singapur; elige August como socio estratégico de IA (nov 2026);
+    ya usaba Harvey y pilota CoCounsel.
+  stub: true
+- id: ent-bythelaw
+  name: ByTheLaw
+  type: vendor
+  url: https://bythelaw.com/
+  geo:
+  - PT
+  aliases: []
+  notes: Legaltech portuguesa de gestión del conocimiento e IA jurídica; compra la
+    plataforma advIA (nov 2026).
+  stub: true
+- id: ent-iberian-lawyer
+  name: Iberian Lawyer
+  type: media
+  url: https://iberianlawyer.com/
+  geo:
+  - ES
+  - PT
+  aliases: []
+  notes: Medio sobre el mercado legal de España y Portugal.
+  stub: true
+- id: ent-pinsent-masons
+  name: Pinsent Masons
+  type: law_firm
+  url: https://www.pinsentmasons.com/
+  geo:
+  - GB
+  - GLOBAL
+  aliases: []
+  notes: Despacho multinacional británico; usuario líder del piloto de Orbital para
+    Derecho escocés.
+  stub: true
+- id: ent-ie-law-school
+  name: IE Law School (IE University)
+  type: research
+  url: https://www.ie.edu/law-school/
+  geo:
+  - ES
+  aliases:
+  - IE University
+  - IE Law School
+  notes: Coautora con Thomson Reuters Institute del informe State of European Legal
+    Markets (nov 2026).
+  stub: true
+- id: ent-europa-press
+  name: Europa Press
+  type: media
+  url: https://www.europapress.es/
+  geo:
+  - ES
+  aliases: []
+  notes: Agencia de noticias española.
+  stub: true
+- id: ent-hessen-justizministerium
+  name: Hessisches Ministerium der Justiz
+  type: regulator
+  url: https://justizministerium.hessen.de/
+  geo:
+  - DE
+  aliases:
+  - Ministerio de Justicia de Hesse
+  notes: Ministerio de Justicia del Land de Hesse; despliega herramientas de IA en
+    juzgados y fiscalías.
+  stub: true
+- id: ent-ratio-law
+  name: Ratio Law
+  type: law_firm
+  url: https://www.legalfutures.co.uk/latest-news/court-finds-law-firm-negligent-over-simple-human-error
+  geo:
+  - GB
+  aliases: []
+  notes: Despacho de Manchester condenado por negligencia en la redacción de una garantía
+    (nov 2026).
+  stub: true
+- id: ent-law-society-of-saskatchewan
+  name: Law Society of Saskatchewan
+  type: regulator
+  url: https://www.lawsociety.sk.ca/
+  geo:
+  - CA
+  aliases: []
+  notes: Regulador de la abogacía de Saskatchewan; asumirá la regulación de los agentes
+    no abogados.
+  stub: true

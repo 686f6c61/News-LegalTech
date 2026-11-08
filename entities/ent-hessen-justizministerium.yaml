@@ -1,0 +1,11 @@
+id: ent-hessen-justizministerium
+name: Hessisches Ministerium der Justiz
+type: regulator
+url: https://justizministerium.hessen.de/
+geo:
+- DE
+aliases:
+- Ministerio de Justicia de Hesse
+notes: Ministerio de Justicia del Land de Hesse; despliega herramientas de IA en juzgados
+  y fiscalías.
+stub: true

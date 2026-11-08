@@ -1,0 +1,10 @@
+id: ent-law-society-of-saskatchewan
+name: Law Society of Saskatchewan
+type: regulator
+url: https://www.lawsociety.sk.ca/
+geo:
+- CA
+aliases: []
+notes: Regulador de la abogacía de Saskatchewan; asumirá la regulación de los agentes
+  no abogados.
+stub: true

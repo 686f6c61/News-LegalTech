@@ -1,0 +1,10 @@
+id: ent-bythelaw
+name: ByTheLaw
+type: vendor
+url: https://bythelaw.com/
+geo:
+- PT
+aliases: []
+notes: Legaltech portuguesa de gestión del conocimiento e IA jurídica; compra la plataforma
+  advIA (nov 2026).
+stub: true

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-08-joanna-smith-peritos-ia-declaracion-lista-practica",
+  "date": "2026-11-06",
+  "type": "guidance",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "La jueza Joanna Smith, coautora del informe del Civil Justice Council, da a los peritos una lista práctica para usar IA: declarar solo cuando influya en el fondo y poder explicarlo bajo juramento",
+  "short_title": "Joanna Smith a los peritos: declarar la IA si influye en el informe",
+  "standfirst": "En la conferencia de peritos de Bond Solon, la jueza separa los usos administrativos de los que generan o influyen en el contenido sustantivo del dictamen.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Tribunales",
+  "country": "Reino Unido",
+  "piece_type": "Orientación",
+  "summary_p1": "El 6 de noviembre de 2026, la jueza Joanna Smith, de los Business and Property Courts del High Court y copresidenta del grupo de trabajo del Civil Justice Council sobre el uso de IA en documentos judiciales, explicó en la conferencia de peritos de Bond Solon cómo aterrizar esas recomendaciones. Parte de una idea simple: la IA no cambia los deberes del perito (independencia, objetividad, transparencia y competencia). La declaración que propone el CJC solo se exigiría cuando la IA haya generado o influido en el contenido sustantivo del informe, incluida su metodología, no para usos administrativos como ordenar documentos, cronologías o correcciones. Pero avisa de que la frontera es fina: un resumen automático que omite un matiz o una transcripción inexacta pueden acabar influyendo en el fondo. Propone una lista de preguntas para cada encargo, desde si las instrucciones permiten la IA y si la herramienta es segura y adecuada, hasta si el perito podría explicar ante un juez y bajo juramento exactamente cómo la usó. Y anticipa que, sin una declaración suficiente, el perito debe esperar un contrainterrogatorio exigente.",
+  "summary_p2": "Ya contamos la recomendación del CJC; lo nuevo es la guía práctica de una de sus autoras, que adelanta cómo se va a examinar la IA en sala. Para despachos de litigación, implica incluir la IA en las instrucciones al perito y pedir registro de cómo se usó, también por su equipo. Para firmas de peritaje y vendors de analítica, la trazabilidad y la explicabilidad de la herramienta pasan a ser argumento de venta, porque el perito tendrá que justificar por qué eligió ese sistema. Matiz: es un discurso extrajudicial; la declaración depende de que el comité de reglas procesales acepte la recomendación del CJC.",
+  "why_sota": "Guía práctica de la coautora del informe CJC sobre cómo se examinará el uso de IA por peritos en tribunales de Inglaterra y Gales.",
+  "why_now": "Courts and Tribunals Judiciary, 6 nov 2026. NEW como discurso; complementa la recomendación del CJC publicada el 30 oct.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "peritos",
+    "prueba pericial",
+    "declaración de IA",
+    "Civil Justice Council",
+    "Inglaterra y Gales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-judiciary-uk",
+      "url": "https://www.judiciary.uk/speech-by-mrs-justice-joanna-smith-artificial-intelligence-and-expert-evidence-opportunities-risks-and-responsibilities/",
+      "cited_title": "Speech by Mrs Justice Joanna Smith: Artificial Intelligence and Expert Evidence - Opportunities, Risks and Responsibilities",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-courts-tribunals-judiciary",
+    "ent-civil-justice-council"
+  ],
+  "lang": "es",
+  "status": "published"
+}

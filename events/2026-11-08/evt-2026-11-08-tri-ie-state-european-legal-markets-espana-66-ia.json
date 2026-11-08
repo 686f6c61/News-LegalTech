@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-08-tri-ie-state-european-legal-markets-espana-66-ia",
+  "date": "2026-11-06",
+  "type": "research",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "El 66% de los abogados de despacho en España dice ahorrar tiempo de forma significativa con IA, frente al 52% en Europa y el 32% mundial, según Thomson Reuters Institute e IE Law School",
+  "short_title": "España lidera en Europa el ahorro de tiempo con IA en despachos",
+  "standfirst": "El informe State of European Legal Markets también sitúa a España entre los mercados con mejores perspectivas de gasto jurídico externo.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "España",
+  "piece_type": "Informe",
+  "summary_p1": "Europa Press recoge el 6 de noviembre de 2026 el informe State of European Legal Markets de Thomson Reuters Institute e IE Law School. El dato que lo hace relevante para España es doble. Por un lado, el 66% de los abogados de despacho encuestados en España afirma haber visto un efecto positivo significativo de la IA en eficiencia y ahorro de tiempo, frente al 52% en Europa y el 32% a nivel mundial. Por otro, entre los directores jurídicos españoles el 32% espera aumentar el gasto en asesoramiento externo, el 46% mantenerlo y el 14% reducirlo, un saldo de 18 puntos frente a 8 en Europa continental. El estudio se apoya en 215 entrevistas a directores jurídicos de 22 países y en 347 entrevistas a despachos de 27 países europeos. A escala europea, solo el 15% ve una mejora sustancial en la calidad del trabajo y el 12% en la satisfacción del cliente, mientras que el 51% de los directores jurídicos cree que el uso de IA diferenciará a los despachos en los próximos cinco años.",
+  "summary_p2": "La lectura útil es la brecha: los despachos españoles declaran eficiencia, pero en Europa casi nadie ve todavía mejoras de calidad ni de satisfacción del cliente, y los clientes ya usan la IA como criterio de selección. Para socios y responsables de innovación, el reto es pasar de \"ahorro horas\" a demostrar al cliente qué cambia en el resultado y en el precio. Para in-house, el saldo positivo de gasto en España da margen para exigir esa transparencia en las licitaciones de paneles. Matiz: Thomson Reuters vende herramientas de IA jurídica como CoCounsel, las cifras son autodeclaradas y la submuestra española no se detalla en la nota.",
+  "why_sota": "Primer dato comparado España-Europa-mundo de impacto declarado de la IA en despachos, con expectativas de gasto de los directores jurídicos.",
+  "why_now": "Europa Press / TRI e IE Law School, 6 nov 2026. NEW frente al Legal Trends de Clio y la encuesta de Tirant ya publicados.",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "encuesta",
+    "adopción",
+    "España",
+    "gasto jurídico",
+    "directores jurídicos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-europa-press",
+      "url": "https://www.europapress.es/sociedad/noticia-66-abogados-espana-afirma-obtener-importantes-mejoras-ahorrar-tiempo-gracias-ia-estudio-20261106113847.html",
+      "cited_title": "El 66% de abogados en España afirma obtener importantes mejoras y ahorrar tiempo gracias a la IA, según un estudio",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-thomson-reuters",
+    "ent-ie-law-school",
+    "ent-europa-press"
+  ],
+  "lang": "es",
+  "status": "published"
+}

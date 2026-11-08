@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 175
+count: 179
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1947,5 +1947,49 @@ sources:
   frequency: irregular
   why: Notas oficiales del Gobierno de Hong Kong. Ficha añadida para citar el Funding Scheme for LawTech del DoJ.
   region: HK
+  lang: EN
+  tier: archive
+
+- id: src-cozen-oconnor
+  name: Cozen O'Connor
+  url: https://www.cozen.com/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Despacho internacional estadounidense (web corporativa). Ficha añadida para citar la implantación firm-wide de Harvey.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-wongpartnership
+  name: WongPartnership
+  url: https://www.wongpartnership.com/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Despacho de Singapur (web corporativa). Ficha añadida para citar su alianza con August para IA a medida.
+  region: SG
+  lang: EN
+  tier: archive
+
+- id: src-iberian-lawyer
+  name: Iberian Lawyer
+  url: https://iberianlawyer.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Medio sobre mercado legal de España y Portugal (despachos, operaciones, legaltech). Ficha añadida para citar la compra de advIA por ByTheLaw.
+  region: ES / PT
+  lang: EN
+  tier: watch
+
+- id: src-pinsent-masons
+  name: Pinsent Masons
+  url: https://www.pinsentmasons.com/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Despacho multinacional británico (notas de prensa). Ficha añadida para citar el lanzamiento de Orbital para Derecho escocés tras su piloto.
+  region: UK
   lang: EN
   tier: archive

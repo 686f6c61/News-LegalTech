@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-08-cozen-oconnor-harvey-firmwide-1000-abogados",
+  "date": "2026-11-03",
+  "type": "product",
+  "sota_score": 8.3,
+  "ai_legaltech": true,
+  "title": "Cozen O'Connor implanta Harvey en toda la firma, más de 1.000 abogados, tras un piloto en el que ya construyó agentes propios para inmobiliario, mercantil y private client",
+  "short_title": "Cozen O'Connor implanta Harvey en toda la firma tras su piloto",
+  "standfirst": "El despacho estadounidense pone el acento en rediseñar flujos de trabajo práctica a práctica y en gobernar los agentes, no solo en la herramienta.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Adopción",
+  "summary_p1": "Cozen O'Connor, despacho estadounidense con más de 1.000 abogados y 35 oficinas en dos continentes, anunció el 3 de noviembre de 2026 que implantará Harvey en toda la firma después de un piloto que abarcó trabajo transaccional y contencioso. Lo interesante no es la adopción en sí, que ya es habitual en este tamaño, sino lo que se hizo durante el piloto: los abogados empezaron a construir agentes a medida con el equipo de Harvey para flujos concretos de inmobiliario, mercantil y private client, con la idea de convertir la experiencia de los abogados en procesos repetibles. La firma anuncia formación específica, implantación y \"agent governance\". Andrew Woolf, Chief Strategy and Innovation Officer, lo resume así: sacar valor de la IA exige \"tanto una tecnología sólida como cambios en la forma de hacer el trabajo jurídico\", y dice que eligieron Harvey también por su compromiso de rediseñar flujos práctica a práctica y construir agentes \"con controles y rendición de cuentas claros\".",
+  "summary_p2": "Para despachos de tamaño similar, la señal es que el piloto ya no sirve solo para medir satisfacción: se usa para fabricar agentes propios y decidir quién los gobierna antes del despliegue general. Eso desplaza el presupuesto hacia ingeniería jurídica interna y gestión del cambio, y obliga a los vendors a vender acompañamiento además de licencias. Para clientes in-house, conviene preguntar qué agentes intervienen en sus asuntos y con qué controles. Matiz: es una nota de prensa del propio despacho, con citas de su CEO y del CEO de Harvey; no hay métricas del piloto ni plazos de despliegue.",
+  "why_sota": "Adopción firm-wide de Harvey en un despacho de 1.000+ abogados con agentes construidos durante el piloto y gobernanza de agentes explícita.",
+  "why_now": "Cozen O'Connor, 3 nov 2026. NEW frente a 09-29→11-07.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "adopción",
+    "Harvey",
+    "agentes",
+    "despachos",
+    "gobernanza"
+  ],
+  "sources": [
+    {
+      "source_id": "src-cozen-oconnor",
+      "url": "https://www.cozen.com/news-resources/news/2026/cozen-o-connor-selects-harvey-across-its-practice-groups",
+      "cited_title": "Cozen O'Connor Selects Leading AI Platform Harvey Across Its Practice Groups",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-cozen-oconnor",
+    "ent-harvey"
+  ],
+  "lang": "es",
+  "status": "published"
+}

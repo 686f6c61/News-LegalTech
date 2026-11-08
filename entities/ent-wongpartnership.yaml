@@ -1,0 +1,11 @@
+id: ent-wongpartnership
+name: WongPartnership LLP
+type: law_firm
+url: https://www.wongpartnership.com/
+geo:
+- SG
+aliases:
+- WongPartnership
+notes: Despacho de Singapur; elige August como socio estratégico de IA (nov 2026);
+  ya usaba Harvey y pilota CoCounsel.
+stub: true

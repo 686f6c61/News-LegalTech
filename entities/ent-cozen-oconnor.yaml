@@ -1,0 +1,12 @@
+id: ent-cozen-oconnor
+name: Cozen O'Connor
+type: law_firm
+url: https://www.cozen.com/
+geo:
+- US
+- GLOBAL
+aliases:
+- Cozen
+notes: Despacho estadounidense de más de 1.000 abogados y 35 oficinas; implanta Harvey
+  firm-wide (nov 2026).
+stub: true

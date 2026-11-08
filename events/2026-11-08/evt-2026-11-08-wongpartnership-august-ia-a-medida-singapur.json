@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-08-wongpartnership-august-ia-a-medida-singapur",
+  "date": "2026-11-04",
+  "type": "product",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "WongPartnership, primer gran despacho de Singapur con August, construirá IA a medida para abogados y personal no letrado sin abandonar Harvey ni su piloto de CoCounsel",
+  "short_title": "WongPartnership elige August para construir IA a medida en Singapur",
+  "standfirst": "La firma ya fue la primera del Sudeste Asiático en desplegar Harvey y pilota CoCounsel; August aporta una plataforma configurable e ingenieros desplazados.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Singapur",
+  "piece_type": "Adopción",
+  "summary_p1": "WongPartnership, uno de los mayores despachos de Singapur, anunció el 4 de noviembre de 2026 que ha elegido August como socio estratégico de IA para llevar herramientas y formación a toda la organización, tanto a abogados como a personal no letrado. Según la nota, es el primer gran despacho de Singapur que trabaja con August y usará su plataforma configurable para construir herramientas basadas en su propio conocimiento y metodologías, diseñadas junto al vendor. Vale la pena leerlo por el contexto: la firma recuerda que fue la primera del Sudeste Asiático en desplegar Harvey y que colabora con Thomson Reuters en productos jurídicos con IA, empezando por un piloto de CoCounsel. Ng Wai King, presidente y socio sénior, dice que la alianza permite \"ir más allá de la adopción\" y ofrecer servicios que se sientan como una extensión de su experiencia \"y no como un producto añadido\".",
+  "summary_p2": "Es un ejemplo claro de despacho multiplataforma: un asistente generalista, un piloto de otro proveedor y una tercera capa para herramientas propias. Para los despachos, el mensaje es que la diferenciación se busca en lo que se construye encima con el know-how de la casa, no en elegir un único proveedor. Para vendors como August, que despliegan ingenieros junto al cliente, Asia se abre como mercado donde competir sin desplazar al incumbente. Matiz: es una nota conjunta del despacho y del vendor; no detalla número de usuarios, casos de uso concretos ni calendario.",
+  "why_sota": "Despacho líder de Singapur suma August como capa de IA a medida sobre Harvey y un piloto de CoCounsel.",
+  "why_now": "WongPartnership / August, 4 nov 2026. NEW.",
+  "geo": [
+    "SG"
+  ],
+  "topics": [
+    "adopción",
+    "August",
+    "IA a medida",
+    "Singapur",
+    "multiplataforma"
+  ],
+  "sources": [
+    {
+      "source_id": "src-wongpartnership",
+      "url": "https://www.wongpartnership.com/news/detail/wongpartnership-selects-august-to-build-custom-ai",
+      "cited_title": "WongPartnership selects August to build Custom AI",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-wongpartnership",
+    "ent-august",
+    "ent-harvey",
+    "ent-thomson-reuters"
+  ],
+  "lang": "es",
+  "status": "published"
+}

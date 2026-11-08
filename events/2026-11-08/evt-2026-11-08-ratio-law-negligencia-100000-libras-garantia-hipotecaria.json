@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-08-ratio-law-negligencia-100000-libras-garantia-hipotecaria",
+  "date": "2026-11-08",
+  "type": "case_law",
+  "sota_score": 7.2,
+  "ai_legaltech": false,
+  "title": "Un tribunal de Manchester condena a Ratio Law a pagar 100.000 libras por borrar sin querer la cifra garantizada de una hipoteca, lo que la dejó sin efecto por indeterminación",
+  "short_title": "Ratio Law pagará 100.000 libras por borrar la cifra de una garantía",
+  "standfirst": "El despacho admitió un \"simple error humano\"; el juez aplica la pérdida de oportunidad y critica la falta de atención de la socia a los detalles.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Responsabilidad profesional",
+  "country": "Reino Unido",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "Legal Futures informa el 8 de noviembre de 2026 de que el juez Stephen Davies, actuando como juez del High Court en Manchester, ha condenado al despacho Ratio Law a pagar 100.000 libras más intereses a un antiguo cliente, MPP (Services) Ltd. El cliente pidió revisar un borrador de garantía hipotecaria (formulario CH1) por 180.000 libras sobre la vivienda de su socia en un negocio de residencias; al revisarlo, una socia cofundadora del despacho borró las palabras \"2nd Charge of £180,000\" del apartado que fijaba la deuda garantizada y no las repuso. Sin cifra, la garantía quedó expuesta a la nulidad por indeterminación, y el cliente, ya con otros abogados, aceptó en mediación cancelar su inscripción. El despacho admitió el incumplimiento como \"simple error humano\"; el juez fue más duro: concluyó que la socia \"no estaba realmente interesada\" en los detalles porque veía el encargo como un mínimo para contentar a un cliente, y estimó por pérdida de oportunidad que lo más probable habría sido un acuerdo de 100.000 libras.",
+  "summary_p2": "Es un recordatorio útil en plena carrera por automatizar la revisión documental: los encargos \"pequeños\" para clientes recurrentes son los que se revisan deprisa, y el juez no aceptó que el alcance limitado redujera la responsabilidad cuando la pérdida estaba dentro del deber asumido. Para despachos, la lección práctica es documentar el alcance real del encargo y revisar los cambios hechos en el documento antes de devolverlo; para aseguradoras de responsabilidad civil profesional, es un caso claro de pérdida de oportunidad cuantificada. Matiz: es una sentencia de primera instancia contada por Legal Futures; no consta si habrá recurso.",
+  "why_sota": "Condena por negligencia en redacción de garantías con análisis de alcance del deber y pérdida de oportunidad.",
+  "why_now": "Legal Futures, 8 nov 2026. NEW.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "negligencia profesional",
+    "garantías",
+    "pérdida de oportunidad",
+    "Inglaterra y Gales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/court-finds-law-firm-negligent-over-simple-human-error",
+      "cited_title": "Court finds law firm negligent over \"simple human error\"",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-ratio-law",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

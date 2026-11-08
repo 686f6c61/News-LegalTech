@@ -1,0 +1,9 @@
+id: ent-europa-press
+name: Europa Press
+type: media
+url: https://www.europapress.es/
+geo:
+- ES
+aliases: []
+notes: Agencia de noticias española.
+stub: true

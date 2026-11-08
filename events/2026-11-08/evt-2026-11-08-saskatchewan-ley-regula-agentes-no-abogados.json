@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-08-saskatchewan-ley-regula-agentes-no-abogados",
+  "date": "2026-11-04",
+  "type": "regulation",
+  "sota_score": 7.0,
+  "ai_legaltech": false,
+  "title": "Saskatchewan presenta una ley para que su Law Society regule a los agentes no abogados que representan a clientes de forma habitual ante tribunales y organismos administrativos",
+  "short_title": "Saskatchewan quiere regular a los agentes que no son abogados",
+  "standfirst": "La reforma no toca a los limited licensees creados el año pasado y saca los problemas de salud de los profesionales del cauce disciplinario.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Regulación",
+  "country": "Canadá",
+  "piece_type": "Regulación",
+  "summary_p1": "Canadian Lawyer informa de que el Gobierno de Saskatchewan presentó el 4 de noviembre de 2026 la Legal Profession Amendment Act, 2026, que amplía la supervisión de la Law Society of Saskatchewan sobre los agentes, personas que no son abogados pero que pueden ayudar a las partes en determinados asuntos. El problema que ataca es concreto: la ley permite la representación ocasional, pero algunos agentes representan a clientes de forma habitual ante tribunales y organismos, y el Gobierno dice que la norma no pretende crear \"una clase no regulada de proveedores de servicios jurídicos\". La reforma autoriza a la Law Society a regular la actividad de los agentes, no cambia el régimen de los limited licensees introducidos el año pasado (con registro, seguro y código de conducta) y crea un procedimiento propio para los profesionales con problemas de salud que afecten a su ejercicio, que hoy tienen que pasar por un expediente disciplinario. El director ejecutivo de la Law Society, Tim Brown, dice que hasta ahora había \"un vacío\" en la supervisión de los agentes.",
+  "summary_p2": "Es la otra cara del debate sobre proveedores no abogados: mientras se abren licencias limitadas para ampliar el acceso a la justicia, los reguladores quieren cerrar la puerta a quienes ejercen de facto sin supervisión ni seguro. Para despachos y proveedores de servicios jurídicos alternativos en Canadá, el perímetro de lo que exige licencia se estrecha; para quienes diseñan modelos de servicio con paralegales o plataformas de representación, conviene vigilar cómo defina la Law Society la habitualidad. Matiz: es un proyecto de ley presentado, no una norma en vigor, y el alcance práctico dependerá de la regulación que apruebe la Law Society.",
+  "why_sota": "Ampliación del perímetro regulatorio a proveedores no abogados en una provincia que ya creó licencias limitadas.",
+  "why_now": "Canadian Lawyer, 5 nov 2026 (proyecto presentado el 4 nov). NEW.",
+  "geo": [
+    "CA"
+  ],
+  "topics": [
+    "regulación profesional",
+    "proveedores no abogados",
+    "Saskatchewan",
+    "acceso a la justicia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-canadian-lawyer",
+      "url": "https://www.canadianlawyermag.com/news/general/saskatchewan-legal-profession-amendment-act-to-boost-agent-regulation/394886",
+      "cited_title": "Saskatchewan Legal Profession Amendment Act to boost agent regulation",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-law-society-of-saskatchewan",
+    "ent-canadian-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

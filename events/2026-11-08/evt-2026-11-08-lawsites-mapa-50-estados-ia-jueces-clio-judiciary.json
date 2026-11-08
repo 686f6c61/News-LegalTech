@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-08-lawsites-mapa-50-estados-ia-jueces-clio-judiciary",
+  "date": "2026-11-05",
+  "type": "analysis",
+  "sota_score": 8.2,
+  "ai_legaltech": true,
+  "title": "Clio quiere vender IA a los jueces, pero un mapa de 50 estados de LawSites muestra que las reglas van del veto de Massachusetts a la apertura controlada de Nueva York",
+  "short_title": "IA para jueces en EE. UU.: del veto de Massachusetts a Nueva York",
+  "standfirst": "Bob Ambrogi revisa las políticas estatales sobre IA generativa para jueces y personal judicial a 30 de octubre de 2026; todas coinciden en que el juez no puede delegar su decisión.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Tribunales",
+  "country": "Estados Unidos",
+  "piece_type": "Análisis",
+  "summary_p1": "Bob Ambrogi publicó el 5 de noviembre de 2026 en LawSites una tabla estado por estado de las políticas sobre IA generativa dirigidas a jueces y personal judicial, con datos a 30 de octubre. La excusa es la apuesta de Clio por los juzgados (ha fichado a Pablo Arredondo y a Bridget McCormack y compró Learned Hand), y la pregunta es si esa puerta está siquiera abierta. El resultado es que no hay consenso nacional: Massachusetts prohíbe desde noviembre de 2025 usar IA generativa para investigación, redacción u otro trabajo jurídico a jueces, letrados, empleados y contratistas; Nueva York permite herramientas aprobadas y una opinión ética de septiembre de 2026 admite que un juez resuma transcripciones con una IA privada; Rhode Island tiene guías solo orientativas; Iowa aprobó en julio unas reglas que entran en vigor el 1 de enero de 2027; Wisconsin retiró su propuesta el 15 de octubre. Ambrogi explica que hizo la tabla con ChatGPT, la contrastó con Claude y la completó con su propia investigación.",
+  "summary_p2": "Para vendors que miran al mercado judicial, el mapa es una hoja de ruta comercial: varios estados (Arizona, Nueva York, Pensilvania, Carolina del Sur, Utah y Virginia) controlan qué herramientas puede usar el personal, lo que convierte la homologación en el verdadero cuello de botella. Para abogados que litigan en varios estados, explica por qué el mismo juez puede o no apoyarse en IA según dónde esté. Y el punto común, que la IA asiste pero no decide, marca el límite de cualquier producto \"judiciary-grade\". Matiz: es un análisis de un periodista que pide correcciones a los lectores; \"no identificado\" no significa que no exista política, y buena parte de lo que recoge son guías no vinculantes.",
+  "why_sota": "Primer mapa público de 50 estados sobre IA generativa para jueces en plena entrada de Clio en el mercado judicial.",
+  "why_now": "LawSites, 5 nov 2026 (datos a 30 oct). NEW frente a la compra de Learned Hand ya publicada.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "jueces",
+    "tribunales",
+    "políticas de IA",
+    "Clio",
+    "Massachusetts",
+    "Nueva York"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
+      "cited_title": "Clio Wants To Bring AI to the Judiciary, But 50-State Survey Reveals Policies Differ in Whether They Allow It",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-lawnext",
+    "ent-clio",
+    "ent-learned-hand"
+  ],
+  "lang": "es",
+  "status": "published"
+}

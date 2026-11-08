@@ -1,0 +1,11 @@
+id: ent-pinsent-masons
+name: Pinsent Masons
+type: law_firm
+url: https://www.pinsentmasons.com/
+geo:
+- GB
+- GLOBAL
+aliases: []
+notes: Despacho multinacional británico; usuario líder del piloto de Orbital para
+  Derecho escocés.
+stub: true

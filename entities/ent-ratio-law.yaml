@@ -1,0 +1,10 @@
+id: ent-ratio-law
+name: Ratio Law
+type: law_firm
+url: https://www.legalfutures.co.uk/latest-news/court-finds-law-firm-negligent-over-simple-human-error
+geo:
+- GB
+aliases: []
+notes: Despacho de Manchester condenado por negligencia en la redacción de una garantía
+  (nov 2026).
+stub: true

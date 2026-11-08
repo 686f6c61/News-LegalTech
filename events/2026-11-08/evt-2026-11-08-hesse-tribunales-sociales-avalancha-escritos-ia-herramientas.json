@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-08-hesse-tribunales-sociales-avalancha-escritos-ia-herramientas",
+  "date": "2026-11-05",
+  "type": "other",
+  "sota_score": 7.8,
+  "ai_legaltech": true,
+  "title": "Los tribunales sociales alemanes reciben una oleada de demandas redactadas con IA y Hesse responde con herramientas propias para anonimizar, estructurar datos y tramitar procedimientos masivos",
+  "short_title": "Hesse responde con IA a la oleada de demandas sociales hechas con IA",
+  "standfirst": "Sin obligación de abogado ni tasas, la jurisdicción social es la más expuesta; la judicatura advierte de que la IA anima a demandar en casos sin recorrido.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Tribunales",
+  "country": "Alemania",
+  "piece_type": "Análisis",
+  "summary_p1": "Legal Tribune Online, con dpa, cuenta el 5 de noviembre de 2026 cómo la IA está tensionando la jurisdicción social alemana, donde no hay tasas ni obligación de abogado (artículo 73.1 de la ley procesal social). Con IA, cualquier ciudadano redacta una demanda en segundos, y el artículo lo conecta con las cifras del Deutscher Richterbund: en 2025 las demandas en los 68 tribunales sociales subieron de media un 10%, hasta más de 263.500, y los procedimientos urgentes un 47%, hasta casi 40.000. Julia Pfeffer, jueza en Gießen y portavoz de la asociación judicial de Hesse, señala que la IA aconseja demandar incluso cuando no hay posibilidades y que sus razonamientos jurídicos no siempre son sólidos. El Ministerio de Justicia de Hesse admite que no se puede detectar con certeza un texto generado por IA, aunque hay indicios como una extensión muy superior a la media, lagunas de contenido o falta de datos concretos. Su respuesta es usar IA: el ministro Christian Heinz cita \"JANO\" para anonimizar documentos en segundos, \"MAKI\" para procedimientos masivos como los de derechos de pasajeros aéreos y una herramienta en prueba en las fiscalías para estructurar grandes volúmenes de datos.",
+  "summary_p2": "Es el reverso del acceso a la justicia con IA: abarata la demanda, pero traslada el coste al juzgado, y la respuesta institucional es una carrera de herramientas en ambos lados. Para vendors de govtech y legaltech judicial en Europa, Hesse muestra demanda real de anonimización, triaje y gestión de procedimientos masivos. Para abogados laboralistas y de Seguridad Social, anticipa juzgados más saturados y más escépticos con escritos largos sin datos concretos. Matiz: el aumento de demandas se presenta junto al fenómeno de la IA, pero ninguna cifra del artículo aísla qué parte se debe a escritos generados con IA.",
+  "why_sota": "Caso documentado de jurisdicción europea sin obligación de abogado saturada por escritos con IA y respondiendo con IA propia.",
+  "why_now": "LTO / dpa, 5 nov 2026. NEW.",
+  "geo": [
+    "DE"
+  ],
+  "topics": [
+    "tribunales",
+    "acceso a la justicia",
+    "IA en la justicia",
+    "Alemania",
+    "procedimientos masivos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-tribune-online-legal-tech",
+      "url": "https://www.lto.de/recht/justiz/j/sozialgerichte-hessen-justiz-ki-flut-schriftsaetze-software-hilfe",
+      "cited_title": "Ausschweifende Schriftsätze belasten die Justiz: Software unterstützt hessische Gerichte gegen Flut der KI-Texte",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-legal-tribune-online",
+    "ent-hessen-justizministerium"
+  ],
+  "lang": "es",
+  "status": "published"
+}

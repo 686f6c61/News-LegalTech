@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-08-bythelaw-compra-advia-8000-abogados-portugal",
+  "date": "2026-11-06",
+  "type": "market",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "ByTheLaw compra la plataforma advIA y supera los 8.000 abogados usuarios en Portugal, más de una quinta parte de los colegiados en ejercicio",
+  "short_title": "ByTheLaw compra advIA y suma más de 8.000 abogados en Portugal",
+  "standfirst": "Es la primera adquisición de la legaltech portuguesa, que vende gestión del conocimiento, verificación de citas, anonimización y transcripción de vistas en portugués europeo.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Portugal",
+  "piece_type": "Adquisición",
+  "summary_p1": "Iberian Lawyer informa el 6 de noviembre de 2026 de que la legaltech portuguesa ByTheLaw ha comprado la plataforma advIA, con lo que su base de usuarios supera los 8.000 abogados, más de una quinta parte de los unos 36.400 colegiados en ejercicio en Portugal según Pordata. No se han revelado las condiciones. Es la primera adquisición de la compañía, que la presenta como un paso hacia la consolidación del sector legaltech portugués. ByTheLaw nació de un año de trabajo dentro de Sérvulo & Associados y cita como clientes a Sérvulo, CMS Portugal y P&A Legal, a los equipos jurídicos de ANA Aeroportos y Delta, pilotos con MC Sonae e Ibersol, proyectos con los municipios de Coimbra y Paredes y protocolos con varios consejos regionales de la Ordem dos Advogados. Además de su gestor de conocimiento, ofrece RefChecker, que contrasta referencias jurídicas con bases oficiales y marca citas posiblemente erróneas o inexistentes, un anonimizador y un transcriptor de vistas en portugués europeo.",
+  "summary_p2": "Es la primera consolidación visible en un mercado pequeño y muy local, donde la ventaja no es el modelo sino los datos y la lengua: legislación y jurisprudencia portuguesas, portugués europeo en las vistas y acuerdos con los colegios regionales. Para despachos ibéricos, confirma que los proveedores locales compiten con los globales por cobertura de fuentes y verificación de citas más que por funciones genéricas. Para los grandes vendors que miran a Portugal, el atajo será comprar o aliarse con quien ya tiene la base instalada. Matiz: las cifras de usuarios y clientes proceden de la propia empresa; no se distingue cuántos de los 8.000 son usuarios activos.",
+  "why_sota": "Primera adquisición de consolidación en la legaltech portuguesa con más de una quinta parte de los abogados como usuarios declarados.",
+  "why_now": "Iberian Lawyer, 6 nov 2026. NEW.",
+  "geo": [
+    "PT"
+  ],
+  "topics": [
+    "adquisición",
+    "Portugal",
+    "consolidación",
+    "verificación de citas",
+    "gestión del conocimiento"
+  ],
+  "sources": [
+    {
+      "source_id": "src-iberian-lawyer",
+      "url": "https://iberianlawyer.com/bythelaw-acquires-advia-platform-adding-8000/",
+      "cited_title": "ByTheLaw acquires advIA platform",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-bythelaw",
+    "ent-iberian-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

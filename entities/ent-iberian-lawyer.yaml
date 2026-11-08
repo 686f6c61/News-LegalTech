@@ -1,0 +1,10 @@
+id: ent-iberian-lawyer
+name: Iberian Lawyer
+type: media
+url: https://iberianlawyer.com/
+geo:
+- ES
+- PT
+aliases: []
+notes: Medio sobre el mercado legal de España y Portugal.
+stub: true

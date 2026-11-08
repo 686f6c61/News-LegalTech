@@ -1,0 +1,51 @@
+{
+  "id": "evt-2026-11-08-orbital-derecho-escoces-inmobiliario-pinsent-masons",
+  "date": "2026-11-05",
+  "type": "product",
+  "sota_score": 7.5,
+  "ai_legaltech": true,
+  "title": "Orbital lanza 22 flujos de IA para inmobiliario comercial bajo Derecho escocés tras un piloto con Pinsent Masons: títulos, escrituras Sasine, arrendamientos y certificados de título",
+  "short_title": "Orbital lleva su IA inmobiliaria al Derecho escocés con Pinsent Masons",
+  "standfirst": "Hasta ahora la herramienta solo cubría Inglaterra y Gales; Pinsent Masons probó los informes con abogados que trabajan en ambas jurisdicciones.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Reino Unido",
+  "piece_type": "Producto",
+  "summary_p1": "Pinsent Masons anunció el 5 de noviembre de 2026 que Orbital, plataforma de IA para trabajo inmobiliario, ha lanzado 22 flujos específicos para inmobiliario comercial escocés tras un piloto estructurado en el que el despacho fue usuario principal. Cubren title sheets, escrituras Sasine, búsquedas registrales, arrendamientos y ofertas PSG, y generan primeros borradores de certificados de título PSG para revisión del abogado. Merece la lectura porque explica por qué no basta con traducir: el ingeniero jurídico de Orbital Ruairidh McKillop sostiene que \"un informe inglés no se puede parchear\" para Escocia, porque instituciones como rei interitus o el tratamiento de los títulos Sasine y las real burdens cambian el trabajo. En el piloto participaron abogados que ya usaban Orbital para Inglaterra y Gales y comparaban resultados entre jurisdicciones, junto a otros dedicados solo a Escocia. La nota cifra en casi 2.000 millones de libras el inmobiliario comercial que cambió de manos en Escocia el año pasado y anticipa más funciones, entre ellas informes de título completos con el impuesto LBTT y redacción empezando por arrendamientos.",
+  "summary_p2": "Es un buen ejemplo de que la siguiente frontera de la IA vertical es la jurisdicción pequeña y con instituciones propias, donde las herramientas genéricas fallan y el piloto con un despacho local hace de control de calidad. Para despachos con práctica escocesa, reduce la excusa de que \"la IA solo sirve para Derecho inglés\"; para Orbital, refuerza su posición frente a competidores generalistas en real estate. Para otros mercados con Derecho propio, incluido el foral español, el patrón es replicable. Matiz: es una nota del despacho y del vendor; no hay métricas de tiempo ahorrado ni de precisión del piloto.",
+  "why_sota": "IA vertical inmobiliaria adaptada a una jurisdicción con instituciones propias, validada con un despacho multinacional.",
+  "why_now": "Pinsent Masons / Orbital, 5 nov 2026. NEW.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "inmobiliario",
+    "Escocia",
+    "Orbital",
+    "flujos de trabajo",
+    "jurisdicción"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pinsent-masons",
+      "url": "https://www.pinsentmasons.com/about-us/announcements/orbital-scots-law-workflows-real-estate-pilot-pinsent-masons",
+      "cited_title": "Orbital launches Scots Law workflows for Commercial Real Estate following pilot with Pinsent Masons",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/07/bonus-wrap-harvey-jus-mundi-li-ny/",
+      "cited_title": "Bonus Wrap: Harvey, Jus Mundi, LI NY +",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "entities": [
+    "ent-orbital",
+    "ent-pinsent-masons"
+  ],
+  "lang": "es",
+  "status": "published"
+}
