@@ -1,0 +1,11 @@
+id: ent-juritas
+name: Juritas
+type: vendor
+url: https://juritas.com/
+geo:
+- SE
+- IE
+aliases: []
+notes: Startup de inteligencia de contratos con sede en Estocolmo; ronda pre-seed
+  de 1,4 millones de euros (nov 2026).
+stub: true

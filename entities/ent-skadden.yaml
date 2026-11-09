@@ -1,0 +1,12 @@
+id: ent-skadden
+name: Skadden, Arps, Slate, Meagher & Flom
+type: law_firm
+url: https://www.skadden.com/
+geo:
+- US
+- GLOBAL
+aliases:
+- Skadden
+notes: Despacho estadounidense; socio de Thomson Reuters para construir aplicaciones
+  sobre el modelo Thomson (nov 2026).
+stub: true

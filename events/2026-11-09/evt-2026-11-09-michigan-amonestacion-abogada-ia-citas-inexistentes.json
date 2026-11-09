@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-09-michigan-amonestacion-abogada-ia-citas-inexistentes",
+  "date": "2026-11-05",
+  "type": "case",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "Michigan amonesta por consentimiento a una abogada que presentó una objeción con citas de casos inexistentes generadas por IA y le impone 762,76 dólares de costas",
+  "short_title": "Michigan amonesta a una abogada por citas inexistentes de IA",
+  "standfirst": "El aviso del Attorney Discipline Board recoge que admitió los hechos y que infringió el deber de competencia y otras normas deontológicas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Deontología",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Attorney Discipline Board de Michigan emitió el 5 de noviembre de 2026 un aviso de amonestación por consentimiento (caso 26-68-GA) contra la abogada Suzan Gabbara, de Troy. El aviso recoge que presentó, en nombre de su cliente, una objeción a una recomendación del Friend of the Court (organismo que asiste en asuntos de familia) usando una herramienta de IA que incluía citas de numerosos casos inexistentes o que no respaldaban la posición de su cliente. La letrada admitió todos los hechos y el panel concluyó que incumplió el deber de competencia de la regla 1.1(b), que su conducta fue perjudicial para la administración de justicia (regla 8.4(c) y regla 9.104(1) del reglamento judicial) y que expuso a la profesión y a los tribunales al descrédito. Se le impone una amonestación con efecto inmediato y 762,76 dólares de costas.",
+  "summary_p2": "Es otro ejemplo de que la sanción disciplinaria, y no solo la judicial, ya alcanza a quien firma un escrito con citas inventadas, incluso en un asunto de familia de bajo perfil. Para despachos pequeños y abogados que litigan en solitario, el mensaje es que la verificación de cada cita antes de presentar es parte del deber de competencia y debe documentarse en el flujo de trabajo. Para los vendors, refuerza el valor de las herramientas de comprobación de citas. Matiz: es un acuerdo por consentimiento sobre un caso concreto; el aviso no nombra la herramienta de IA utilizada y la sanción es una amonestación con costas reducidas.",
+  "why_sota": "Sanción disciplinaria formal por citas inexistentes de IA en un asunto de familia, con admisión de hechos y referencia expresa al deber de competencia.",
+  "why_now": "Attorney Discipline Board de Michigan, aviso de 5 nov 2026. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "alucinaciones",
+    "deontología",
+    "competencia",
+    "Michigan",
+    "sanción"
+  ],
+  "sources": [
+    {
+      "source_id": "src-attorney-discipline-board-michigan",
+      "url": "https://adbmich.org/media/in4hsabg/ga-v-gabbara-cse-no-26-68-ga.pdf",
+      "cited_title": "Notice of Reprimand (By Consent), Case No. 26-68-GA",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-attorney-discipline-board-michigan"
+  ],
+  "lang": "es",
+  "status": "published"
+}

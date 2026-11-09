@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-09-prudencia-nova-expedientes-verificacion-articulos-penas-catastro",
+  "date": "2026-11-06",
+  "type": "product",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Prudencia.ai suma a Prudencia Nova un gestor de expedientes, verificación de artículos, cálculo de penas y consulta del Catastro, y presume del primer puesto en un índice de fiabilidad",
+  "short_title": "Prudencia Nova añade expedientes, verificación de artículos y Catastro",
+  "standfirst": "La IA jurídica barcelonesa publica el balance del último mes de producto y cita una puntuación de 90,6 sobre 100 en un índice de fiabilidad jurídica.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "España",
+  "piece_type": "Producto",
+  "summary_p1": "Prudencia.ai publicó el 6 de noviembre de 2026 las novedades del último mes de Prudencia Nova, su IA jurídica. Incluyen un gestor de expedientes con ficha, documentos, conversaciones, plazos, listas de comprobación y cierre con informe para el cliente, en el que los documentos subidos en una conversación quedan disponibles en las demás del mismo expediente; un editor que propone cambios sobre documentos Word y PDF; y un sistema que contrasta los artículos citados con su texto vigente. Añade revisión del suplico de los escritos, cálculo de plazos con festivos autonómicos, una herramienta de cálculo de penas basada en los artículos 62 a 74 del Código Penal, consulta del Catastro, nuevas fuentes (AEPD, TEAC, Fiscalía General del Estado y tratados europeos), un anonimizador con tachado negro y un mecanismo que recurre a un modelo más potente en consultas complejas. La empresa afirma que ocupó el primer puesto entre 15 asistentes en la campaña C2026-Q3 del Índice de Fiabilidad Jurídica de observatorio.legal, con 90,6 sobre 100.",
+  "summary_p2": "El valor para despachos pequeños está en que la verificación de citas y plazos, el punto donde más se hunde la confianza en la IA, se vende como funcionalidad de producto y no como advertencia. Para competidores como los grandes editores, el listón es ahora integrar expedientes, redacción y comprobación de fuentes oficiales en una sola herramienta. Para quien compra, el criterio razonable es probar la verificación con sus propios casos. Matiz: es un blog de la propia empresa, la cifra del índice es autodeclarada y no se explica cómo se calcula, y la propia nota insiste en que el resultado debe revisarlo el abogado.",
+  "why_sota": "Una IA jurídica española empaqueta verificación de artículos, plazos autonómicos, cálculo de penas y expedientes en una sola plataforma.",
+  "why_now": "Prudencia.ai, 6 nov 2026. NEW (frente a la pieza de lanzamiento del 16 oct).",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "Prudencia",
+    "expedientes",
+    "verificación de citas",
+    "plazos",
+    "jurisprudencia"
+  ],
+  "sources": [
+    {
+      "source_id": "src-prudencia-ai",
+      "url": "https://prudencia.ai/blog/novedades-de-prudencia-ai/",
+      "cited_title": "Novedades de Prudencia.ai: más herramientas de inteligencia artificial para abogados y despachos",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-prudencia-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}

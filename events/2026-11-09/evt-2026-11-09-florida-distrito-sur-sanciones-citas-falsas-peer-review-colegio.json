@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-09-florida-distrito-sur-sanciones-citas-falsas-peer-review-colegio",
+  "date": "2026-11-03",
+  "type": "case",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Dos jueces del distrito sur de Florida derivan al comité de revisión y al Colegio a los abogados de dos casos con citas falsas de IA, con cursos, multas y cartas de disculpa",
+  "short_title": "Florida deriva a dos equipos de abogados por citas falsas de IA",
+  "standfirst": "Una de las órdenes recuerda que no basta fiarse del abogado de otro estado que redactó el escrito.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Tribunales",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Southern District of Florida Blog resumió el 3 de noviembre de 2026 dos órdenes administrativas del tribunal federal (2026-87 y 2026-95) que sancionan a abogados por usar IA de forma indebida. En Multiphone Latin America v. Millicom, la Chief Judge Altonaga halló que el escrito citaba dos casos de apelación de Florida alucinados (hallucinated, inexistentes) y frases que no figuran en los casos citados, y que la propuesta de réplica citaba mal otros más, presentando en algún pasaje los encabezados de Westlaw como si fueran citas literales. En Dubinin v. Papazian, el juez Ruiz identificó al menos diez citas fabricadas o tergiversadas; el abogado de Florida que firmó dijo que lo había redactado una abogada de Nueva York que nunca compareció ni pidió la admisión pro hac vice (autorización para actuar en un caso concreto), y ella atribuyó el uso de IA a una asistente jurídica. Los abogados fueron derivados al comité de revisión por pares y al Colegio de Abogados de Florida, y deben hacer cursos de formación, pagar sanciones económicas y escribir cartas de disculpa.",
+  "summary_p2": "La lección práctica es de cadena de responsabilidad: quien firma responde de todo lo que presenta, aunque lo haya redactado un colega externo o personal de apoyo. Para despachos con colaboradores en otras jurisdicciones, conviene fijar quién verifica las citas antes de la firma y dejar constancia. Para los vendors, el caso de las citas de Westlaw presentadas como literales apunta a un fallo que las herramientas de verificación deberían detectar. Matiz: la fuente es una entrada de blog de un abogado que resume las órdenes, no las propias órdenes; no indica el importe de las sanciones ni la herramienta de IA utilizada.",
+  "why_sota": "Dos sanciones paralelas de un tribunal federal, con derivación al Colegio y responsabilidad del firmante por escritos redactados por terceros.",
+  "why_now": "Southern District of Florida Blog, 3 nov 2026. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "alucinaciones",
+    "sanciones",
+    "Florida",
+    "responsabilidad del firmante",
+    "pro hac vice"
+  ],
+  "sources": [
+    {
+      "source_id": "src-sdfla-blog",
+      "url": "http://sdfla.blogspot.com/2026/11/more-lawyers-sanctioned-for-improper.html",
+      "cited_title": "More Lawyers Sanctioned for Improper Use of AI",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-sdfla-blog"
+  ],
+  "lang": "es",
+  "status": "published"
+}

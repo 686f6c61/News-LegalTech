@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-09-ai-consultas-modulo-notificaciones-electronicas-200-flujos",
+  "date": "2026-11-04",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Ai Consultas presentará en Accountex un módulo que lee, resume y propone la contestación de las notificaciones electrónicas de la Administración, y más de 200 flujos predefinidos",
+  "short_title": "Ai Consultas prepara un módulo de notificaciones electrónicas con IA",
+  "standfirst": "La plataforma para asesorías y despachos promete controlar vencimientos, citar la fuente oficial y el ECLI de cada sentencia y automatizar procesos habituales.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "España",
+  "piece_type": "Producto",
+  "summary_p1": "Ai Consultas, plataforma de IA fiscal, laboral y jurídica, anunció el 4 de noviembre de 2026 que presentará en Accountex España 2026 (IFEMA Madrid, 18 y 19 de noviembre) un módulo de gestión de notificaciones electrónicas. Según la nota, consulta automáticamente las notificaciones de prácticamente todos los organismos públicos, las descarga a voluntad del usuario, resume su contenido, identifica qué se solicita, propone la actuación y genera la contestación. Incluye control de vencimientos, avisos, sincronización con calendarios externos y organización por cliente, organismo y estado con asignación a responsables. Presenta también un nuevo motor jurídico que cita en cada respuesta las fuentes y el acceso a la fuente oficial, con el identificador ECLI en la jurisprudencia, y amplía a más de 200 los flujos de trabajo predefinidos (tributario, laboral, mercantil, procesal, civil y otros), que el profesional puede adaptar.",
+  "summary_p2": "Las notificaciones electrónicas son uno de los puntos donde un despacho o una asesoría pierde plazos y horas, así que automatizar su lectura, su clasificación y el borrador de respuesta toca un dolor real. Para los profesionales, la pregunta es qué controles humanos exige la herramienta antes de que un borrador salga hacia la Administración y cómo se gestionan los accesos a los buzones. Para los vendors, confirma que el producto se mide por flujos de trabajo y no por respuestas aisladas. Matiz: es una nota de la propia empresa publicada en la web de la feria; habla de lo que \"presentará\", no aporta datos de uso ni precios y no detalla cómo se accede a los buzones de cada organismo.",
+  "why_sota": "Automatización de notificaciones electrónicas con resumen, propuesta de actuación y borrador de contestación para el mercado de asesorías y despachos español.",
+  "why_now": "Accountex España, 4-5 nov 2026. NEW.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "notificaciones electrónicas",
+    "flujos",
+    "ECLI",
+    "asesorías",
+    "automatización"
+  ],
+  "sources": [
+    {
+      "source_id": "src-accountex-espana",
+      "url": "https://divcommanual.com/acxs-hr/2026/11/05/ai-consultas-presenta-en-accountex-2026-la-revolucion-de-su-plataforma-de-ia-para-asesores-y-abogados-2/",
+      "cited_title": "Ai Consultas presenta en Accountex 2026 la revolución de su plataforma de IA para asesores y abogados",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-ai-consultas",
+    "ent-accountex-espana"
+  ],
+  "lang": "es",
+  "status": "published"
+}

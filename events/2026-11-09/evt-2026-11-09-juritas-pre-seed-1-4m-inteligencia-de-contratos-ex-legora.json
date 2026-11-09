@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-09-juritas-pre-seed-1-4m-inteligencia-de-contratos-ex-legora",
+  "date": "2026-11-04",
+  "type": "funding",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Juritas, fundada por una exdirectiva de Legora, levanta 1,4 millones de euros para que la IA lea lo que los contratos prometen después de firmarse",
+  "short_title": "Juritas levanta 1,4 M EUR para inteligencia de contratos con IA",
+  "standfirst": "La startup de Estocolmo conecta repositorios, vincula anexos y renovaciones a cada contrato y calcula los importes en código, no con la IA.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Inversión",
+  "country": "Suecia",
+  "piece_type": "Inversión",
+  "summary_p1": "Juritas, startup de inteligencia de contratos (contract intelligence) de origen irlandés y sede en Estocolmo, anunció una ronda pre-seed (financiación inicial previa a la semilla) de 1,4 millones de euros, según Silicon Republic el 4 de noviembre de 2026. La lidera Passion Capital, con Blackwood, Araya Ventures, Baseline, Angel Invest y el ByFounders Angel Collective. La fundó este año Michelle Cotter, con pasado directivo en Legora, Revolut y Epidemic Sound. La plataforma se conecta a repositorios como SharePoint y Google Drive, vincula enmiendas, órdenes de compra y renovaciones a cada contrato para leerlo \"como está hoy, no como se firmó\", registra las obligaciones con su cláusula y calcula el dinero \"en código, nunca estimado por la IA\". Empieza por contratos de proveedores para que compras y finanzas comprueben que se cumple lo prometido y recuperen valor no reclamado. Los datos se almacenan en la UE y la empresa dice que no entrena modelos con los contratos.",
+  "summary_p2": "Es una apuesta por el valor posterior a la firma, un hueco frente a las herramientas centradas en redactar y revisar. Para equipos jurídicos y de compras, el atractivo está en convertir contratos en alertas de descuentos, renovaciones e importes pendientes; para los despachos, en un posible servicio gestionado sobre contratos de clientes. La decisión de calcular importes con código y citar la cláusula responde a la desconfianza ante cifras generadas por un modelo. Matiz: todo procede de la propia empresa y de sus inversores, no hay clientes ni resultados medidos y el producto está en fase muy temprana.",
+  "why_sota": "Ronda inicial europea en inteligencia de contratos posterior a la firma, con cálculo determinista de importes y cláusula citada.",
+  "why_now": "Silicon Republic, 4 nov 2026 (Law.com, 6 nov). NEW.",
+  "geo": [
+    "SE",
+    "IE"
+  ],
+  "topics": [
+    "financiación",
+    "contratos",
+    "post-firma",
+    "Legora",
+    "Europa"
+  ],
+  "sources": [
+    {
+      "source_id": "src-silicon-republic",
+      "url": "https://www.siliconrepublic.com/start-ups/irish-founded-juritas-raises-e1-4m-for-contract-intelligence-tech",
+      "cited_title": "Irish-founded Juritas raises €1.4m for contract intelligence tech",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-juritas",
+    "ent-silicon-republic",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

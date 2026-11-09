@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-09-pinsent-masons-vario-crafty-counsel-juniors-no-lideran-adopcion-ia",
+  "date": "2026-11-03",
+  "type": "research",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Solo el 31% de los juristas in-house cree que sus juniors lideran la adopción de IA, según una encuesta de Pinsent Masons Vario y Crafty Counsel",
+  "short_title": "Solo el 31% in-house cree que los juniors lideran la adopción de IA",
+  "standfirst": "La encuesta, a 133 profesionales, atribuye la adopción a la disposición, la confianza y la oportunidad de experimentar, no a la edad.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Reino Unido",
+  "piece_type": "Informe",
+  "summary_p1": "Pinsent Masons Vario, el servicio de talento jurídico flexible de Pinsent Masons, publicó el 3 de noviembre de 2026 los resultados de una encuesta realizada con la comunidad in-house Crafty Counsel a 133 profesionales jurídicos de empresa en todas las etapas de su carrera. El 80% está de acuerdo en que la aptitud tecnológica varía dentro de sus equipos, pero solo el 31% cree que los miembros junior estén impulsando la adopción de IA. Una cuarta parte admite que las diferencias de pericia y de disposición generan conflictos en el equipo, aunque para la mayoría no son un problema; cuando hay fricción, el estilo de comunicación es la causa más citada (23%). James Lewindon, de Pinsent Masons Vario, concluye que disposición, confianza y oportunidad pesan mucho más que la edad, y que los casos de uso de la tecnología se construyen mejor sobre el conocimiento de flujos y puntos de dolor de abogados con experiencia.",
+  "summary_p2": "Para los responsables de departamentos jurídicos, el dato invita a dejar de delegar la IA en los más jóvenes y a diseñar la adopción alrededor de los flujos que dominan los abogados con más recorrido. Para los despachos y los vendors, que suelen formar a los juniors como motor del cambio, implica reorientar la formación y el acompañamiento. Matiz: la muestra es pequeña, la hace una unidad comercial de Pinsent Masons junto a una comunidad profesional y no se trata de una medición del uso real de las herramientas, sino de percepciones declaradas.",
+  "why_sota": "Dato empírico contra el supuesto de que los juniors lideran la adopción de IA en los departamentos jurídicos.",
+  "why_now": "Pinsent Masons (Out-Law), 3 nov 2026. NEW (Law.com lo recogió el 5 nov).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "adopción de IA",
+    "in-house",
+    "encuesta",
+    "formación",
+    "juniors"
+  ],
+  "sources": [
+    {
+      "source_id": "src-pinsent-masons",
+      "url": "https://www.pinsentmasons.com/out-law/news/legal-tech-adoption-driven-by-confidence-and-opportunity-rather-than-age-study-finds",
+      "cited_title": "Legal tech adoption driven by confidence and opportunity rather than age, study finds",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-pinsent-masons",
+    "ent-pinsent-masons-vario",
+    "ent-crafty-counsel"
+  ],
+  "lang": "es",
+  "status": "published"
+}

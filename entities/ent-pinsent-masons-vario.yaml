@@ -1,0 +1,11 @@
+id: ent-pinsent-masons-vario
+name: Pinsent Masons Vario
+type: vendor
+url: https://www.pinsentmasons.com/
+geo:
+- GB
+aliases:
+- Vario
+notes: Servicio de talento jurídico flexible de Pinsent Masons; coautor de la encuesta
+  con Crafty Counsel (nov 2026).
+stub: true

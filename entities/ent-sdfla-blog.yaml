@@ -1,0 +1,9 @@
+id: ent-sdfla-blog
+name: Southern District of Florida Blog
+type: media
+url: http://sdfla.blogspot.com/
+geo:
+- US
+aliases: []
+notes: Blog de Jordi C. Martínez-Cid sobre el distrito sur de Florida.
+stub: true

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-09-lsb-pymes-necesidad-legal-sin-ayuda-profesional-encuesta-yougov",
+  "date": "2026-11-09",
+  "type": "research",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "El Legal Services Board concluye que la mayoría de las pequeñas empresas con una necesidad legal seria no recibe ayuda profesional, y solo un 6% recurrió a IA como ChatGPT",
+  "short_title": "LSB: las pymes con necesidad legal seria no reciben ayuda profesional",
+  "standfirst": "La encuesta a 10.352 empresas dice que los problemas legales frenan el crecimiento y que el obstáculo es identificar y encontrar ayuda, más que el precio.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Mercado",
+  "country": "Reino Unido",
+  "piece_type": "Informe",
+  "summary_p1": "Legal Futures informó el 9 de noviembre de 2026 de la nueva encuesta del Legal Services Board (LSB) sobre las necesidades legales de las pequeñas empresas, realizada con YouGov a 10.352 empresas. El 36% vivió al menos un problema legal el último año y cerca de una de cada cinco dijo que había impedido o retrasado inversiones. Un 11% tenía una necesidad legal, es decir, un problema cuya gravedad percibida superaba su capacidad de resolverlo sin ayuda profesional, y solo dos de cada diez de ellas la vio atendida, sobre todo por no buscar ayuda. Entre las vías elegidas, el 24% buscó asesoramiento independiente (contable 26%, asesor fiscal o financiero 21%, despacho de abogados 18%), el 16% acudió a conocidos del mundo empresarial y el 6% usó una plataforma de IA como ChatGPT. El LSB señala que el coste no lo explica todo: pesan no pedir ayuda a tiempo, no saber dónde buscarla y la falta de confianza.",
+  "summary_p2": "Para despachos y legaltechs que venden a pymes, el dato cambia el foco de abaratar el servicio a ayudar a la empresa a detectar que tiene un problema legal y a encontrar la puerta de entrada, a través de contables, bancos, aceleradoras y asesores, que son sus primeros interlocutores. Para el regulador, deja el acceso de las pymes como asunto de política pública pendiente. La IA aparece todavía como vía marginal, lo que da perspectiva a los discursos de sustitución. Matiz: es una encuesta autodeclarada; el porcentaje de IA es el de empresas que buscaron algún tipo de ayuda y no mide la calidad de lo que recibieron.",
+  "why_sota": "Dato regulatorio amplio (10.352 empresas) sobre la brecha de acceso a ayuda legal de las pymes y el peso real de la IA como vía de consulta.",
+  "why_now": "Legal Futures, 9 nov 2026. NEW.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "pymes",
+    "acceso a la justicia",
+    "LSB",
+    "encuesta",
+    "necesidades legales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/lsb-small-businesses-not-getting-the-legal-help-they-need",
+      "cited_title": "LSB: Small businesses not getting the legal help they need",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-legal-services-board",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

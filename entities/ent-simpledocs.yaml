@@ -1,0 +1,11 @@
+id: ent-simpledocs
+name: SimpleDocs
+type: vendor
+url: https://simpledocs.com/
+geo:
+- US
+aliases:
+- Law Insider
+notes: Proveedor de gestión de contratos con IA y matriz de Law Insider; lanza SimpleDocs
+  360 (nov 2026).
+stub: true

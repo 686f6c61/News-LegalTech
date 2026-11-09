@@ -1,0 +1,9 @@
+id: ent-silicon-republic
+name: Silicon Republic
+type: media
+url: https://www.siliconrepublic.com/
+geo:
+- IE
+aliases: []
+notes: Medio irlandés de tecnología y startups.
+stub: true

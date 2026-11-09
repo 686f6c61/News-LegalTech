@@ -1,0 +1,73 @@
+scan_id: full-radar-2026-11-09
+date: '2026-11-09'
+release: 09.11.26
+count: 10
+ai_share: 0.9
+dedup_against: events/2026-09-29 → 2026-11-08 + scans PASS
+event_ids:
+- evt-2026-11-09-thomson-reuters-ia-a-medida-skadden-modelo-thomson
+- evt-2026-11-09-lefebvre-genia-l-proyectos-gestion-lexon-despacho
+- evt-2026-11-09-prudencia-nova-expedientes-verificacion-articulos-penas-catastro
+- evt-2026-11-09-ai-consultas-modulo-notificaciones-electronicas-200-flujos
+- evt-2026-11-09-michigan-amonestacion-abogada-ia-citas-inexistentes
+- evt-2026-11-09-florida-distrito-sur-sanciones-citas-falsas-peer-review-colegio
+- evt-2026-11-09-pinsent-masons-vario-crafty-counsel-juniors-no-lideran-adopcion-ia
+- evt-2026-11-09-juritas-pre-seed-1-4m-inteligencia-de-contratos-ex-legora
+- evt-2026-11-09-simpledocs-360-clm-nativo-ia-law-insider
+- evt-2026-11-09-lsb-pymes-necesidad-legal-sin-ayuda-profesional-encuesta-yougov
+events:
+- id: evt-2026-11-09-thomson-reuters-ia-a-medida-skadden-modelo-thomson
+  sota_score: 8.1
+  ai_legaltech: true
+  title: Thomson Reuters apuesta a que más despachos querrán IA a medida y privada
+    tras su alianza con Skadden, y promete precio fijo frente al cobro por uso
+- id: evt-2026-11-09-lefebvre-genia-l-proyectos-gestion-lexon-despacho
+  sota_score: 7.6
+  ai_legaltech: true
+  title: Lefebvre amplía GenIA-L con Proyectos y un módulo de Gestión de LexON para
+    llevar la IA jurídica de la consulta a la gestión del despacho
+- id: evt-2026-11-09-prudencia-nova-expedientes-verificacion-articulos-penas-catastro
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Prudencia.ai suma a Prudencia Nova un gestor de expedientes, verificación
+    de artículos, cálculo de penas y consulta del Catastro, y presume del primer puesto
+    en un índice de fiabilidad
+- id: evt-2026-11-09-ai-consultas-modulo-notificaciones-electronicas-200-flujos
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Ai Consultas presentará en Accountex un módulo que lee, resume y propone
+    la contestación de las notificaciones electrónicas de la Administración, y más
+    de 200 flujos predefinidos
+- id: evt-2026-11-09-michigan-amonestacion-abogada-ia-citas-inexistentes
+  sota_score: 7.3
+  ai_legaltech: true
+  title: Michigan amonesta por consentimiento a una abogada que presentó una objeción
+    con citas de casos inexistentes generadas por IA y le impone 762,76 dólares de
+    costas
+- id: evt-2026-11-09-florida-distrito-sur-sanciones-citas-falsas-peer-review-colegio
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Dos jueces del distrito sur de Florida derivan al comité de revisión y al
+    Colegio a los abogados de dos casos con citas falsas de IA, con cursos, multas
+    y cartas de disculpa
+- id: evt-2026-11-09-pinsent-masons-vario-crafty-counsel-juniors-no-lideran-adopcion-ia
+  sota_score: 6.9
+  ai_legaltech: true
+  title: Solo el 31% de los juristas in-house cree que sus juniors lideran la adopción
+    de IA, según una encuesta de Pinsent Masons Vario y Crafty Counsel
+- id: evt-2026-11-09-juritas-pre-seed-1-4m-inteligencia-de-contratos-ex-legora
+  sota_score: 7.1
+  ai_legaltech: true
+  title: Juritas, fundada por una exdirectiva de Legora, levanta 1,4 millones de euros
+    para que la IA lea lo que los contratos prometen después de firmarse
+- id: evt-2026-11-09-simpledocs-360-clm-nativo-ia-law-insider
+  sota_score: 6.8
+  ai_legaltech: true
+  title: SimpleDocs lanza SimpleDocs 360, una plataforma de gestión del ciclo de vida
+    de contratos nativa en IA que usa la base de Law Insider como contexto de mercado
+- id: evt-2026-11-09-lsb-pymes-necesidad-legal-sin-ayuda-profesional-encuesta-yougov
+  sota_score: 6.6
+  ai_legaltech: false
+  title: El Legal Services Board concluye que la mayoría de las pequeñas empresas
+    con una necesidad legal seria no recibe ayuda profesional, y solo un 6% recurrió
+    a IA como ChatGPT

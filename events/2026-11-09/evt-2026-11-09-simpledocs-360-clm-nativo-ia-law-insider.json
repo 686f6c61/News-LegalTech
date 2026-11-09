@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-09-simpledocs-360-clm-nativo-ia-law-insider",
+  "date": "2026-11-06",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "SimpleDocs lanza SimpleDocs 360, una plataforma de gestión del ciclo de vida de contratos nativa en IA que usa la base de Law Insider como contexto de mercado",
+  "short_title": "SimpleDocs 360: gestión de contratos nativa en IA con Law Insider",
+  "standfirst": "Reúne redacción en Word, flujos de solicitudes y aprobaciones y un repositorio con búsqueda, extracción de datos y alertas de renovación.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "SimpleDocs, proveedor de soluciones de contratos con IA y matriz de Law Insider, anunció el 6 de noviembre de 2026 SimpleDocs 360, una plataforma de contract lifecycle management (gestión del ciclo de vida de contratos, CLM) construida desde cero para la IA generativa. Se compone de tres productos: SimpleAI, para redactar, revisar, redactar cambios y negociar en Microsoft Word con agentes, playbooks (guías de negociación) y precedentes; Workflow, para solicitudes, enrutado y aprobaciones; y Repository, un repositorio con búsqueda avanzada, análisis automático, extracción de datos estructurados y alertas de renovaciones y obligaciones. Se integra con Salesforce, Slack, Oracle, SharePoint y DocuSign, y usa la base de contratos y cláusulas de Law Insider como contexto de mercado. Estará disponible desde noviembre de 2026, con lista de espera, y cita clientes como Herbalife, OneDigital, Ferrovial y Menzies Aviation.",
+  "summary_p2": "El movimiento sigue la tendencia de unificar redacción, aprobación y gestión posterior en una sola plataforma, y de anclar la IA en datos propios (aquí, Law Insider) para dar respaldo a las recomendaciones. Para equipos in-house, la pregunta es si una plataforma integral reduce la complejidad de implantación que critica el propio vendor; para otros proveedores de CLM, sube la presión de ofrecer el ciclo completo. Matiz: es un comunicado del propio vendor republicado en LawSites, sin métricas, precios ni evaluación independiente; la cita de cliente es de Solventum, que no figura en la lista de clientes destacados.",
+  "why_sota": "Lanzamiento de una plataforma de contratos que integra redacción en Word, flujos y repositorio y usa una gran base de cláusulas como contexto.",
+  "why_now": "LawSites (comunicado de SimpleDocs), 6 nov 2026. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "CLM",
+    "contratos",
+    "Word",
+    "Law Insider",
+    "playbooks"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/11/introducing-simpledocs-360-ai-native-contract-lifecycle-management.html",
+      "cited_title": "Introducing SimpleDocs 360: AI-Native Contract Lifecycle Management",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-simpledocs",
+    "ent-lawnext"
+  ],
+  "lang": "es",
+  "status": "published"
+}

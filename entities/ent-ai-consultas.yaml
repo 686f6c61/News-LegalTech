@@ -1,0 +1,10 @@
+id: ent-ai-consultas
+name: Ai Consultas
+type: vendor
+url: https://aiconsultas.com/
+geo:
+- ES
+aliases: []
+notes: Plataforma de IA fiscal, laboral y jurídica para despachos y asesorías; presenta
+  módulo de notificaciones en Accountex España 2026.
+stub: true

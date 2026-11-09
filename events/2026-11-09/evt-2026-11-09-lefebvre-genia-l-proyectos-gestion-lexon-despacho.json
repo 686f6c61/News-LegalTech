@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-09-lefebvre-genia-l-proyectos-gestion-lexon-despacho",
+  "date": "2026-11-04",
+  "type": "product",
+  "sota_score": 7.6,
+  "ai_legaltech": true,
+  "title": "Lefebvre amplía GenIA-L con Proyectos y un módulo de Gestión de LexON para llevar la IA jurídica de la consulta a la gestión del despacho",
+  "short_title": "Lefebvre lleva GenIA-L de la consulta a la gestión del despacho",
+  "standfirst": "La plataforma añade un espacio por asunto y funciones de expedientes, agenda, tareas y facturación; la nota no aporta métricas de ahorro.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "España",
+  "piece_type": "Producto",
+  "summary_p1": "Lefebvre anunció el 4 de noviembre de 2026 una ampliación de GenIA-L, su IA jurídica, con dos novedades: Proyectos, un espacio dentro del chat para organizar la información de cada asunto, y Gestión, un módulo que incorpora funciones de LexON, su software de despachos, para expedientes, clientes, agenda, actuaciones, tareas y facturación. El usuario puede añadir archivos al chat durante una conversación y trabajar con documentación compleja sin perder el contexto previo, combinando sus documentos con legislación, jurisprudencia, doctrina administrativa y contenidos editoriales de Lefebvre, como los Mementos. La compañía recuerda que la plataforma cuenta con las certificaciones ISO/IEC 42001, ISO/IEC 27001 y el Esquema Nacional de Seguridad, y su consejero delegado, José Ángel Sandín, la enmarca en el concepto \"Tecnología con oficio\".",
+  "summary_p2": "La jugada acerca el producto de investigación jurídica al software de gestión del despacho: si el contexto del asunto vive en un solo sitio, el abogado evita reconstruirlo en cada tarea. Para los despachos pequeños y medianos, compite con las plataformas que ya mezclan IA y gestión; para los vendors independientes, estrecha el hueco entre asistente y práctica. Matiz: es una nota de la propia compañía, y Lawyerpress señala que no describe un agente que ejecute solo la secuencia entre investigación, redacción, actuación procesal y facturación, que no aporta métricas de ahorro y que ISO/IEC 42001 acredita un sistema de gestión de IA, no la corrección jurídica de cada respuesta.",
+  "why_sota": "Un grande editorial español fusiona IA jurídica con gestión de despacho y espacio por asunto sobre fuentes propias.",
+  "why_now": "Lawyerpress, 4 nov 2026. NEW (frente a la pieza de GenIA-L de 23 oct: aquí Proyectos y Gestión).",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "Lefebvre",
+    "GenIA-L",
+    "LexON",
+    "gestión de despachos",
+    "contexto por asunto"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/11/04/lefebvre-amplia-genia-l-de-la-consulta-juridica-a-la-gestion-del-despacho/",
+      "cited_title": "Lefebvre amplía GenIA-L: de la consulta jurídica a la gestión del despacho",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-lefebvre",
+    "ent-lawyerpress"
+  ],
+  "lang": "es",
+  "status": "published"
+}

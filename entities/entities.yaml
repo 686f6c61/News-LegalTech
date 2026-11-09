@@ -5508,3 +5508,117 @@ entities:
   notes: Regulador de la abogacía de Saskatchewan; asumirá la regulación de los agentes
     no abogados.
   stub: true
+- id: ent-skadden
+  name: Skadden, Arps, Slate, Meagher & Flom
+  type: law_firm
+  url: https://www.skadden.com/
+  geo:
+  - US
+  - GLOBAL
+  aliases:
+  - Skadden
+  notes: Despacho estadounidense; socio de Thomson Reuters para construir aplicaciones
+    sobre el modelo Thomson (nov 2026).
+  stub: true
+- id: ent-the-logic
+  name: The Logic
+  type: media
+  url: https://thelogic.co/
+  geo:
+  - CA
+  aliases: []
+  notes: Medio canadiense de tecnología y negocio; entrevista a Steve Hasker (nov
+    2026).
+  stub: true
+- id: ent-ai-consultas
+  name: Ai Consultas
+  type: vendor
+  url: https://aiconsultas.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Plataforma de IA fiscal, laboral y jurídica para despachos y asesorías; presenta
+    módulo de notificaciones en Accountex España 2026.
+  stub: true
+- id: ent-accountex-espana
+  name: Accountex España
+  type: media
+  url: https://divcommanual.com/acxs-hr/
+  geo:
+  - ES
+  aliases:
+  - Accountex España 2026
+  notes: Feria de contabilidad y asesoría (IFEMA Madrid, 18 y 19 nov 2026); publica
+    fichas de expositor.
+  stub: true
+- id: ent-attorney-discipline-board-michigan
+  name: Attorney Discipline Board (Michigan)
+  type: regulator
+  url: https://adbmich.org/
+  geo:
+  - US
+  aliases:
+  - ADB Michigan
+  notes: Órgano disciplinario de la abogacía de Michigan; publica avisos de amonestación.
+  stub: true
+- id: ent-sdfla-blog
+  name: Southern District of Florida Blog
+  type: media
+  url: http://sdfla.blogspot.com/
+  geo:
+  - US
+  aliases: []
+  notes: Blog de Jordi C. Martínez-Cid sobre el distrito sur de Florida.
+  stub: true
+- id: ent-pinsent-masons-vario
+  name: Pinsent Masons Vario
+  type: vendor
+  url: https://www.pinsentmasons.com/
+  geo:
+  - GB
+  aliases:
+  - Vario
+  notes: Servicio de talento jurídico flexible de Pinsent Masons; coautor de la encuesta
+    con Crafty Counsel (nov 2026).
+  stub: true
+- id: ent-crafty-counsel
+  name: Crafty Counsel
+  type: association
+  url: https://craftycounsel.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Comunidad de abogados in-house; coautora de la encuesta con Pinsent Masons
+    Vario (nov 2026).
+  stub: true
+- id: ent-juritas
+  name: Juritas
+  type: vendor
+  url: https://juritas.com/
+  geo:
+  - SE
+  - IE
+  aliases: []
+  notes: Startup de inteligencia de contratos con sede en Estocolmo; ronda pre-seed
+    de 1,4 millones de euros (nov 2026).
+  stub: true
+- id: ent-silicon-republic
+  name: Silicon Republic
+  type: media
+  url: https://www.siliconrepublic.com/
+  geo:
+  - IE
+  aliases: []
+  notes: Medio irlandés de tecnología y startups.
+  stub: true
+- id: ent-simpledocs
+  name: SimpleDocs
+  type: vendor
+  url: https://simpledocs.com/
+  geo:
+  - US
+  aliases:
+  - Law Insider
+  notes: Proveedor de gestión de contratos con IA y matriz de Law Insider; lanza SimpleDocs
+    360 (nov 2026).
+  stub: true

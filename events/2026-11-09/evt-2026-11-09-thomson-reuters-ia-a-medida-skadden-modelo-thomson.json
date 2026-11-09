@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-09-thomson-reuters-ia-a-medida-skadden-modelo-thomson",
+  "date": "2026-11-06",
+  "type": "market",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "Thomson Reuters apuesta a que más despachos querrán IA a medida y privada tras su alianza con Skadden, y promete precio fijo frente al cobro por uso",
+  "short_title": "Thomson Reuters: más despachos querrán IA privada tras Skadden",
+  "standfirst": "Su consejero delegado defiende el modelo propio Thomson, sobre modelos de pesos abiertos, como respuesta a los ciberataques contra despachos y a la factura variable de la IA.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Canadá",
+  "piece_type": "Entrevista",
+  "summary_p1": "The Logic publicó el 6 de noviembre de 2026 una entrevista con Steve Hasker, consejero delegado de Thomson Reuters, que dice recibir más consultas de despachos interesados en sistemas de IA privados y a medida (custom AI) en un entorno de ciberamenazas que describe como \"dreadful\" para el sector. Su argumento comercial es el acuerdo reciente con Skadden: los clientes pueden construir agentes sin compartir su propiedad intelectual ni sus datos con un tercero. Hasker critica a las startups que, en sus palabras, son un \"reskinned frontier model\" (un modelo de frontera con otra piel) y sostiene que Thomson, el modelo de lenguaje propio lanzado en agosto, puede cambiar entre modelos de pesos abiertos (open-weight models) sin que la información vuelva a quien los creó. Promete además una tarifa de \"all you can eat\" (consumo libre) frente al cobro por uso, y admite que los socios gestores de los grandes despachos están dispuestos a gastar en IA pero aún no ven el retorno. Las acciones de la compañía caen alrededor de un 20% en un año y bajaron el martes tras presentar resultados.",
+  "summary_p2": "Para los despachos, la conversación se desplaza de qué asistente comprar a dónde viven los datos y quién controla el modelo, con la ciberseguridad como argumento de compra. Para los vendors de IA jurídica, el mensaje de Thomson Reuters es que la confianza y el precio previsible pueden ser una ventaja frente a los modelos generalistas. Para los equipos in-house y los compradores, la cuestión práctica es exigir trazabilidad sobre qué modelo se usa, dónde se aloja y cómo se factura el consumo. Matiz: son declaraciones del propio consejero delegado sobre su estrategia, en un artículo que también recoge el escepticismo de los inversores; no se aportan cifras de adopción ni detalles técnicos verificables de la alianza con Skadden.",
+  "why_sota": "El proveedor líder defiende públicamente la IA privada y a medida sobre su propio modelo, con Skadden como socio de diseño, y precio fijo frente a uso.",
+  "why_now": "The Logic, 6 nov 2026. NEW frente a 09-29→11-08.",
+  "geo": [
+    "CA",
+    "US"
+  ],
+  "topics": [
+    "Thomson Reuters",
+    "IA a medida",
+    "Skadden",
+    "ciberseguridad",
+    "precio"
+  ],
+  "sources": [
+    {
+      "source_id": "src-the-logic",
+      "url": "https://thelogic.co/news/thomson-reuters-steve-hasker-custom-ai-law/",
+      "cited_title": "Thomson Reuters bets more law firms will opt for custom AI following 'explosive' cyber risks",
+      "accessed": "2026-11-09"
+    }
+  ],
+  "entities": [
+    "ent-thomson-reuters",
+    "ent-skadden",
+    "ent-the-logic"
+  ],
+  "lang": "es",
+  "status": "published"
+}

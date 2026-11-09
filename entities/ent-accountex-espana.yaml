@@ -1,0 +1,11 @@
+id: ent-accountex-espana
+name: Accountex España
+type: media
+url: https://divcommanual.com/acxs-hr/
+geo:
+- ES
+aliases:
+- Accountex España 2026
+notes: Feria de contabilidad y asesoría (IFEMA Madrid, 18 y 19 nov 2026); publica
+  fichas de expositor.
+stub: true

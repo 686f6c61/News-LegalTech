@@ -1,0 +1,10 @@
+id: ent-attorney-discipline-board-michigan
+name: Attorney Discipline Board (Michigan)
+type: regulator
+url: https://adbmich.org/
+geo:
+- US
+aliases:
+- ADB Michigan
+notes: Órgano disciplinario de la abogacía de Michigan; publica avisos de amonestación.
+stub: true

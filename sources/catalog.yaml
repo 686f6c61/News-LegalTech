@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 179
+count: 185
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -1991,5 +1991,71 @@ sources:
   frequency: irregular
   why: Despacho multinacional británico (notas de prensa). Ficha añadida para citar el lanzamiento de Orbital para Derecho escocés tras su piloto.
   region: UK
+  lang: EN
+  tier: archive
+
+- id: src-the-logic
+  name: The Logic
+  url: https://thelogic.co/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Medio canadiense de tecnología y negocio. Ficha añadida para citar la entrevista a Steve Hasker sobre IA a medida.
+  region: CA
+  lang: EN
+  tier: archive
+
+- id: src-prudencia-ai
+  name: Prudencia.ai
+  url: https://prudencia.ai/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Blog de producto de la IA jurídica española Prudencia. Ficha añadida para citar las novedades de Prudencia Nova.
+  region: ES
+  lang: ES
+  tier: archive
+
+- id: src-accountex-espana
+  name: Accountex España
+  url: https://divcommanual.com/acxs-hr/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Web de la feria Accountex España (fichas de expositor). Ficha añadida para citar la nota de Ai Consultas.
+  region: ES
+  lang: ES
+  tier: archive
+
+- id: src-attorney-discipline-board-michigan
+  name: Attorney Discipline Board (Michigan)
+  url: https://adbmich.org/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Órgano disciplinario de la abogacía de Michigan (avisos de sanción). Ficha añadida para citar una amonestación por citas de IA.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-sdfla-blog
+  name: Southern District of Florida Blog
+  url: http://sdfla.blogspot.com/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Blog sobre el tribunal federal del distrito sur de Florida. Ficha añadida para citar las sanciones por citas falsas de IA.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-silicon-republic
+  name: Silicon Republic
+  url: https://www.siliconrepublic.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Medio irlandés de tecnología y startups. Ficha añadida para citar la ronda de Juritas.
+  region: IE
   lang: EN
   tier: archive

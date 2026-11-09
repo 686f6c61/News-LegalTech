@@ -1,0 +1,10 @@
+id: ent-crafty-counsel
+name: Crafty Counsel
+type: association
+url: https://craftycounsel.com/
+geo:
+- GB
+aliases: []
+notes: Comunidad de abogados in-house; coautora de la encuesta con Pinsent Masons
+  Vario (nov 2026).
+stub: true

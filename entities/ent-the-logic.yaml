@@ -1,0 +1,9 @@
+id: ent-the-logic
+name: The Logic
+type: media
+url: https://thelogic.co/
+geo:
+- CA
+aliases: []
+notes: Medio canadiense de tecnología y negocio; entrevista a Steve Hasker (nov 2026).
+stub: true
