@@ -1,0 +1,11 @@
+id: ent-baretz-brunelle
+name: Baretz+Brunelle
+type: vendor
+url: https://www.baretzbrunelle.com/
+geo:
+- US
+aliases:
+- B+B
+notes: Consultora de crecimiento para el sector legal; socia estratégica de Legaltech
+  Hub (nov 2026).
+stub: true

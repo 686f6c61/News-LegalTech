@@ -1,0 +1,52 @@
+scan_id: full-radar-2026-11-10
+date: '2026-11-10'
+release: 10.11.26
+count: 7
+ai_share: 0.71
+dedup_against: events/2026-09-29 → 2026-11-09 + scans PASS
+event_ids:
+- evt-2026-11-10-crosby-seguro-5m-agentes-ia-testudo-sin-supervision-paralegal
+- evt-2026-11-10-addleshaw-goddard-harvey-3400-co-desarrollo-clientes
+- evt-2026-11-10-blackletter-seed-6m-despacho-ia-tarifa-fija-operaciones-complejas
+- evt-2026-11-10-nikki-shaver-davis-polk-chief-ai-knowledge-officer-legaltech-hub-plink
+- evt-2026-11-10-worldcc-deloitte-ironclad-62-por-ciento-ia-contratos-productividad-individual
+- evt-2026-11-10-lawfairy-primer-caso-consumidor-visado-modelo-determinista-149-libras
+- evt-2026-11-10-cnil-diez-sanciones-simplificadas-ciberseguridad-colectividades-territoriales
+events:
+- id: evt-2026-11-10-crosby-seguro-5m-agentes-ia-testudo-sin-supervision-paralegal
+  sota_score: 8.0
+  ai_legaltech: true
+  title: Crosby asegura por 5 millones de dólares el trabajo de sus agentes de IA
+    con Testudo y retira la supervisión de abogados de las tareas de paralegal
+- id: evt-2026-11-10-addleshaw-goddard-harvey-3400-co-desarrollo-clientes
+  sota_score: 7.9
+  ai_legaltech: true
+  title: Addleshaw Goddard elige Harvey para sus más de 3.400 profesionales y lo acompaña
+    de un programa de co-desarrollo que incluye sesiones trimestrales con clientes
+- id: evt-2026-11-10-blackletter-seed-6m-despacho-ia-tarifa-fija-operaciones-complejas
+  sota_score: 7.4
+  ai_legaltech: true
+  title: Blackletter levanta 6 millones de dólares de seed para un despacho de IA
+    y tarifa fija centrado en operaciones complejas, con BlackletterOS como sistema
+    de trabajo
+- id: evt-2026-11-10-nikki-shaver-davis-polk-chief-ai-knowledge-officer-legaltech-hub-plink
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Nikki Shaver deja Legaltech Hub para ser la primera chief AI and knowledge
+    officer de Davis Polk, y Jeroen Plink asume como CEO con Baretz+Brunelle como
+    socio estratégico
+- id: evt-2026-11-10-worldcc-deloitte-ironclad-62-por-ciento-ia-contratos-productividad-individual
+  sota_score: 6.9
+  ai_legaltech: true
+  title: Un informe de WorldCC, Deloitte e Ironclad indica que el 62% de las organizaciones
+    no ve en resultados de negocio la mejora individual que la IA da en contratos
+- id: evt-2026-11-10-lawfairy-primer-caso-consumidor-visado-modelo-determinista-149-libras
+  sota_score: 6.6
+  ai_legaltech: false
+  title: LawFairy cierra su primer caso para un consumidor, un visado británico, con
+    un modelo determinista de 149 libras y un solicitor de consultoría a continuación
+- id: evt-2026-11-10-cnil-diez-sanciones-simplificadas-ciberseguridad-colectividades-territoriales
+  sota_score: 6.5
+  ai_legaltech: false
+  title: La CNIL sanciona a diez entidades locales con multas de 3.000 a 20.000 euros
+    por fallos de ciberseguridad y por no hacer evaluaciones de impacto

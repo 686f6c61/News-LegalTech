@@ -1,0 +1,53 @@
+{
+  "id": "evt-2026-11-10-blackletter-seed-6m-despacho-ia-tarifa-fija-operaciones-complejas",
+  "date": "2026-11-09",
+  "type": "funding",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Blackletter levanta 6 millones de dólares de seed para un despacho de IA y tarifa fija centrado en operaciones complejas, con BlackletterOS como sistema de trabajo",
+  "short_title": "Blackletter levanta 6 M$ para un despacho de IA de tarifa fija",
+  "standfirst": "Fundado por exdirectivos de Cohere y Blue J, cobra por resultado, dice tener más de 75 clientes y sus cifras de eficiencia son suyas.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Inversión",
+  "country": "Estados Unidos y Canadá",
+  "piece_type": "Inversión",
+  "summary_p1": "Blackletter anunció el 9 de noviembre de 2026 una ronda seed de 6 millones de dólares liderada por Lerer Hippeau, con Seven Stars, Maple VC, Garage Capital y Ripple Ventures y varios inversores individuales, para desarrollar su plataforma de IA jurídica y contratar abogados e ingenieros. Los fundadores son Jonathan Rosenbluth y David Stewart, ambos con responsabilidades de producto e ingeniería en Cohere, y Avi Brudner, que fue director de operaciones de Blue J. El despacho cobra tarifas fijas por resultado y no por horas; su BlackletterOS coordina los asuntos, trabaja tareas de varios pasos y acumula el contexto de cada cliente, mientras un abogado senior firma el criterio y responde del resultado. Dice tener más de 75 clientes desde que salió del modo oculto en junio y, según Artificial Lawyer, siete abogados por ahora; trabaja M&A, financiación, mercantil y laboral.",
+  "summary_p2": "Es otra señal de que el capital sigue apostando por despachos nativos de IA y, dentro de ellos, por quien se atreve con el extremo difícil, no con los contratos rutinarios. Para los despachos tradicionales, el reto es la tarifa fija en asuntos que hasta ahora se cobraban por horas; para los vendors de software, estos despachos desarrollan su propio sistema y no compran el de otros. Matiz: casi todo viene de la nota de la empresa, incluidas las afirmaciones de que sus abogados terminan tareas en menos de la mitad de tiempo y de que BlackletterOS es más preciso que el software jurídico líder, sin datos para contrastarlas. Falta ver si ese rendimiento aguanta una plantilla mucho mayor y la función de inteligencia proactiva que anuncia.",
+  "why_sota": "Seed para un despacho de IA de tarifa fija orientado a operaciones complejas, un segmento menos explorado por los nuevos modelos.",
+  "why_now": "Unite.AI y Artificial Lawyer, 9 nov 2026. NEW.",
+  "geo": [
+    "US",
+    "CA"
+  ],
+  "topics": [
+    "Blackletter",
+    "despacho nativo de IA",
+    "tarifa fija",
+    "seed",
+    "BlackletterOS"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/blackletter-raises-6m-seed-to-expand-its-ai-legal-platform/",
+      "cited_title": "Blackletter Raises $6M Seed to Expand Its AI Legal Platform",
+      "accessed": "2026-11-10"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod/",
+      "cited_title": "Blackletter Bags $6m for Transactional New Mod",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "entities": [
+    "ent-blackletter",
+    "ent-unite-ai",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

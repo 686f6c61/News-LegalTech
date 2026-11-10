@@ -1,0 +1,11 @@
+id: ent-worldcc
+name: World Commerce & Contracting
+type: association
+url: https://www.worldcc.com/
+geo:
+- GLOBAL
+aliases:
+- WorldCC
+notes: Asociación profesional de contratación y comercio; autora del informe sobre
+  IA en contratos con Deloitte e Ironclad (nov 2026).
+stub: true

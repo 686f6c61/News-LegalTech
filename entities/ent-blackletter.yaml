@@ -1,0 +1,12 @@
+id: ent-blackletter
+name: Blackletter
+type: law_firm
+url: https://www.unite.ai/blackletter-raises-6m-seed-to-expand-its-ai-legal-platform/
+geo:
+- US
+- CA
+aliases:
+- Blackletter Legal LLP
+notes: Despacho nativo de IA de tarifa fija, fundado por exdirectivos de Cohere y
+  Blue J; seed de 6 millones de dólares (nov 2026).
+stub: true

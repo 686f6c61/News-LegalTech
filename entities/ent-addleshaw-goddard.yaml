@@ -1,0 +1,11 @@
+id: ent-addleshaw-goddard
+name: Addleshaw Goddard
+type: law_firm
+url: https://www.addleshawgoddard.com/
+geo:
+- GB
+aliases:
+- AG
+notes: Despacho internacional con sede en Londres; despliega Harvey y co-desarrolla
+  funciones con ese proveedor (nov 2026).
+stub: true

@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-10-worldcc-deloitte-ironclad-62-por-ciento-ia-contratos-productividad-individual",
+  "date": "2026-11-09",
+  "type": "research",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Un informe de WorldCC, Deloitte e Ironclad indica que el 62% de las organizaciones no ve en resultados de negocio la mejora individual que la IA da en contratos",
+  "short_title": "WorldCC: la IA acelera contratos pero el ROI no llega a la empresa",
+  "standfirst": "Solo el 4% usa la IA en contratación como plataforma transversal; el informe lo atribuye a sistemas y procesos fragmentados.",
+  "vendor_source": true,
+  "paywalled": true,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Investigación",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "Law.com Legaltech News publicó el 9 de noviembre de 2026 los resultados de una investigación de World Commerce & Contracting (WorldCC) con el apoyo de Deloitte y del proveedor de gestión del ciclo de vida de contratos Ironclad. El 62% de los encuestados percibe una mayor productividad individual gracias a la IA, pero dice no poder demostrar el efecto correspondiente en la organización, y solo el 4% la emplea como plataforma transversal. Tim Cummins, de WorldCC, y Craig Conte, de Deloitte Legal, defienden orientar la IA a resultados comerciales en lugar de limitarse a acelerar el trabajo de contratación que ya existe. El artículo atribuye parte de la brecha a sistemas y procesos fragmentados.",
+  "summary_p2": "Para los equipos in-house y de contratación, el mensaje es que medir horas ahorradas no basta para justificar la inversión y que el valor depende de rediseñar el proceso, no de añadir una herramienta a cada persona. Para los vendors, sobre todo los de gestión de contratos, empuja a vender flujos de extremo a extremo y métricas de negocio. Matiz: Law.com está tras muro de pago y solo hemos podido leer el arranque; el informe lo copatrocina Ironclad, vendor del mercado, y no conocemos el tamaño ni la composición de la muestra. Según otro medio que resume la cobertura, el informe no cuantifica la brecha entre el retorno individual y el organizativo, y la causa de la fragmentación es la lectura de sus autores.",
+  "why_sota": "Dato de mercado sobre la brecha entre productividad individual con IA y resultado organizativo en contratación.",
+  "why_now": "Law.com Legaltech News, 9 nov 2026. NEW (frente a la pieza de brecha de valor de IA de 2 oct, que es otro estudio).",
+  "geo": [
+    "GLOBAL"
+  ],
+  "topics": [
+    "WorldCC",
+    "Deloitte",
+    "Ironclad",
+    "ROI de IA",
+    "contratación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/legaltechnews/2026/11/09/ai-makes-contracting-faster-yet-businesses-are-struggling-to-show-the-roi/",
+      "cited_title": "AI Makes Contracting Faster Yet Businesses Are Struggling to Show the ROI",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "entities": [
+    "ent-worldcc",
+    "ent-deloitte",
+    "ent-ironclad",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

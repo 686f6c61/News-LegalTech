@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-10-lawfairy-primer-caso-consumidor-visado-modelo-determinista-149-libras",
+  "date": "2026-11-10",
+  "type": "product",
+  "sota_score": 6.6,
+  "ai_legaltech": false,
+  "title": "LawFairy cierra su primer caso para un consumidor, un visado británico, con un modelo determinista de 149 libras y un solicitor de consultoría a continuación",
+  "short_title": "LawFairy completa su primer caso de consumidor con modelo determinista",
+  "standfirst": "El despacho solo tecnológico autorizado por la SRA codifica la ley en rutas de decisión auditables; la IA generativa solo da soporte a la interfaz.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Servicios jurídicos",
+  "country": "Reino Unido",
+  "piece_type": "Producto",
+  "summary_p1": "Legal Futures informó el 10 de noviembre de 2026 de que LawFairy, despacho solo tecnológico autorizado por la Solicitors Regulation Authority (SRA), ha completado con éxito su primer caso para un consumidor, un ciudadano suizo que consiguió un visado británico. El usuario, que había descubierto que su asesor presentó la solicitud con la categoría de visado equivocada, obtuvo una evaluación en la plataforma por 149 libras fijas y, el mismo día, el contacto con una solicitor consultora de Setfords, que encontró otras cuestiones y llevó la solicitud corregida hasta su aprobación en septiembre. LawFairy usa un \"fully deterministic legal model\" (modelo jurídico plenamente determinista) que codifica la ley en rutas de decisión con resultado auditable, frente a la IA generativa; cubre más de 70 rutas de inmigración y nacionalidad, y la generativa solo ayuda en la interfaz. Tiene 12 despachos en su panel de derivación.",
+  "summary_p2": "El caso es un contrapunto al discurso de que todo pasa por modelos generativos: un sistema determinista, barato y auditable, con el abogado solo donde hace falta criterio, es otra forma de abrir el acceso a servicios jurídicos de bajo coste. Para los despachos de derivación, es un canal de clientes ya informados; para los reguladores, un ejemplo concreto de modelo autorizado cuyas decisiones se pueden revisar. Matiz: un único caso narrado por la propia empresa, con testimonios de la solicitor y del cliente, y la compañía admite que el servicio de consumo sigue en fase temprana de pruebas; no hay datos de volumen ni de resultados más allá de este expediente.",
+  "why_sota": "Primer caso de consumidor completado por un despacho solo tecnológico autorizado, con modelo determinista y auditable frente a la IA generativa.",
+  "why_now": "Legal Futures, 10 nov 2026. NEW (frente a la pieza de LawFairy de 21 oct).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "LawFairy",
+    "modelo determinista",
+    "SRA",
+    "inmigración",
+    "tarifa fija"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/first-satisfied-client-for-groundbreaking-technology-only-law-firm",
+      "cited_title": "First satisfied client for groundbreaking technology-only law firm",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "entities": [
+    "ent-lawfairy",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

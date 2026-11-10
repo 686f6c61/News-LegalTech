@@ -1,0 +1,59 @@
+{
+  "id": "evt-2026-11-10-addleshaw-goddard-harvey-3400-co-desarrollo-clientes",
+  "date": "2026-11-09",
+  "type": "market",
+  "sota_score": 7.9,
+  "ai_legaltech": true,
+  "title": "Addleshaw Goddard elige Harvey para sus más de 3.400 profesionales y lo acompaña de un programa de co-desarrollo que incluye sesiones trimestrales con clientes",
+  "short_title": "Addleshaw Goddard despliega Harvey y co-desarrolla con sus clientes",
+  "standfirst": "Tras tres meses de evaluación con 400 personas, el despacho británico dará Harvey a toda la plantilla desde enero y trabajará con su equipo de producto en matter orchestration (orquestación de asuntos) y litigación.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "Addleshaw Goddard anunció el 9 de noviembre de 2026 una colaboración con Harvey: desde enero proporcionará la plataforma a toda su plantilla de más de 3.400 abogados y profesionales de servicios de negocio en Europa, Oriente Medio y Asia. Antes hubo una evaluación de tres meses dirigida por su Innovation Group, de 80 personas, en la que 400 profesionales probaron plataformas con tareas reales. El despacho se compromete a trabajar con los equipos de producto e ingeniería de Harvey para dar forma a funciones de proyectos grandes, como la orquestación de asuntos de M&A y la litigación compleja, y cita como primer resultado las Review Tables (tablas de revisión), para comparar y verificar grandes volúmenes de información. Artificial Lawyer añade que su plataforma interna AGPT seguirá, pero se usará más para pruebas. Además, ambas partes se reunirán cada trimestre con clientes seleccionados para identificar problemas y, si procede, co-crear soluciones.",
+  "summary_p2": "Que un despacho de este tamaño negocie influencia sobre la hoja de ruta de un proveedor, y no solo licencias, es la tendencia a seguir: la elección de plataforma deja de ser una compra y se convierte en una alianza de desarrollo. Para los clientes, las sesiones trimestrales son una vía para pedir funciones y condiciones; para los vendors rivales, el listón de la oferta sube de un asistente a un equipo de ingeniería dedicado. Matiz: la fuente principal es el comunicado conjunto, sin cifras de uso ni de coste, y la propia Westland subraya que la supervisión y la responsabilidad humanas siguen en el centro. The Lawyer, que titula la noticia con la presencia de personal de Harvey en reuniones con clientes, está tras muro de pago y no lo hemos podido leer entero.",
+  "why_sota": "Despliegue de Harvey a más de 3.400 personas con co-desarrollo explícito y clientes en el circuito.",
+  "why_now": "Artificial Lawyer y blog de Harvey, 9 nov 2026. NEW (frente a Fieldfisher/Legora de 6 nov).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "Addleshaw Goddard",
+    "Harvey",
+    "co-desarrollo",
+    "Review Tables",
+    "orquestación de asuntos"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/09/addleshaw-goddard-picks-harvey-fieldfisher-opts-for-legora/",
+      "cited_title": "Addleshaw Goddard Picks Harvey, Fieldfisher Opts For Legora",
+      "accessed": "2026-11-10"
+    },
+    {
+      "source_id": "src-harvey",
+      "url": "https://www.harvey.ai/blog/addleshaw-goddard-and-harvey-launch-firmwide-collaboration-to-shape-ai-enabled-legal-delivery",
+      "cited_title": "Addleshaw Goddard and Harvey launch firmwide collaboration to shape AI-enabled legal delivery",
+      "accessed": "2026-11-10"
+    },
+    {
+      "source_id": "src-the-lawyer",
+      "url": "https://www.thelawyer.com/addleshaws-to-bring-harvey-staff-into-client-meetings-in-ai-tie-up/",
+      "cited_title": "Addleshaws to bring Harvey staff into client meetings in AI tie-up",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "entities": [
+    "ent-addleshaw-goddard",
+    "ent-harvey",
+    "ent-artificial-lawyer",
+    "ent-the-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

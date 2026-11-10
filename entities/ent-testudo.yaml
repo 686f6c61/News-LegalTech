@@ -1,0 +1,10 @@
+id: ent-testudo
+name: Testudo
+type: vendor
+url: https://www.testudo.co/
+geo:
+- GB
+aliases: []
+notes: Aseguradora de dos años respaldada por Lloyd's of London; emite la póliza de
+  responsabilidad de IA de Crosby (nov 2026).
+stub: true

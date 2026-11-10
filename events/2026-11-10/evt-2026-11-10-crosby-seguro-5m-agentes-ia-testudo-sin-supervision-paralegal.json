@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-11-10-crosby-seguro-5m-agentes-ia-testudo-sin-supervision-paralegal",
+  "date": "2026-11-09",
+  "type": "market",
+  "sota_score": 8.0,
+  "ai_legaltech": true,
+  "title": "Crosby asegura por 5 millones de dólares el trabajo de sus agentes de IA con Testudo y retira la supervisión de abogados de las tareas de paralegal",
+  "short_title": "Crosby asegura a sus agentes de IA y quita supervisión humana",
+  "standfirst": "El despacho nativo de IA dice que es la primera póliza de responsabilidad para agentes y que cubre alrededor del 20% del trabajo que antes revisaban sus abogados.",
+  "vendor_source": true,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Crosby, despacho nativo de IA, publicó el 9 de noviembre de 2026 que ha contratado una póliza de 5 millones de dólares que cubre el trabajo de sus agentes, con Testudo, una aseguradora respaldada por Lloyd's of London. Según la compañía, la póliza entró en vigor a principios de noviembre y desde entonces ha retirado la revisión de abogados de las tareas que legalmente no la exigen, a las que llama \"paralegal tasks\" (tareas de paralegal) y que suponen cerca del 20% del trabajo que antes revisaban sus letrados. Testudo analizó sus sistemas, modelos, controles de gobernanza y registros de revisión humana. Crosby afirma que hoy tiene tantos agentes como abogados revisando contratos y espera una proporción de 15 a 1 a final de año. The Lawyer lo presenta como un acuerdo pionero; The New York Times, citado por Quartz, cifra en unos 60 los abogados que supervisan el proceso y en seis meses lo que costó conseguir la cobertura.",
+  "summary_p2": "La noticia pone precio y póliza a una pregunta que el sector venía esquivando: quién responde cuando un agente actúa sin un abogado en el circuito. Para los despachos y las aseguradoras, abre la puerta a coberturas específicas de IA distintas del seguro de responsabilidad profesional de siempre; para los compradores, un seguro propio es un argumento frente a una herramienta de software sin respaldo. Matiz: la fuente principal es el blog de la propia empresa y The Lawyer está tras muro de pago, de modo que el detalle de lo que cubre y excluye la póliza no es verificable. Un profesor de Stanford citado por el Times advierte de que un asegurador podría argumentar que la salida de una máquina sin supervisión no es un servicio prestado \"como abogado\", y la normativa estadounidense exige supervisión de los no abogados.",
+  "why_sota": "Primera póliza declarada de responsabilidad para agentes de IA en un despacho, ligada a la retirada de supervisión humana en tareas de paralegal.",
+  "why_now": "Blog de Crosby y The Lawyer, 9 nov 2026. NEW (frente a la pieza de Crosby de 31 oct sobre la puja por activos de Weil).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "Crosby",
+    "seguro de IA",
+    "Testudo",
+    "agentes",
+    "paralegal tasks"
+  ],
+  "sources": [
+    {
+      "source_id": "src-crosby",
+      "url": "https://crosby.ai/blog/ai-agent-insurance",
+      "cited_title": "Building safer lawyer agents",
+      "accessed": "2026-11-10"
+    },
+    {
+      "source_id": "src-the-lawyer",
+      "url": "https://www.thelawyer.com/ai-native-firm-crosby-secures-landmark-insurance-deal-for-its-ai-agents/",
+      "cited_title": "AI-native firm Crosby secures landmark insurance deal for its AI agents",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "entities": [
+    "ent-crosby",
+    "ent-testudo",
+    "ent-the-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

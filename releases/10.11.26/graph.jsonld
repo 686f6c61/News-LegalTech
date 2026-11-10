@@ -1,0 +1,573 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/10.11.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 10.11.26",
+      "schema:version": "10.11.26",
+      "schema:datePublished": "2026-11-10",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-11-10, 7 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/10.11.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-crosby-seguro-5m-agentes-ia-testudo-sin-supervision-paralegal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-addleshaw-goddard-harvey-3400-co-desarrollo-clientes"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-blackletter-seed-6m-despacho-ia-tarifa-fija-operaciones-complejas"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-nikki-shaver-davis-polk-chief-ai-knowledge-officer-legaltech-hub-plink"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-worldcc-deloitte-ironclad-62-por-ciento-ia-contratos-productividad-individual"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-lawfairy-primer-caso-consumidor-visado-modelo-determinista-149-libras"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-cnil-diez-sanciones-simplificadas-ciberseguridad-colectividades-territoriales"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-crosby-seguro-5m-agentes-ia-testudo-sin-supervision-paralegal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-10-crosby-seguro-5m-agentes-ia-testudo-sin-supervision-paralegal",
+      "schema:headline": "Crosby asegura por 5 millones de dólares el trabajo de sus agentes de IA con Testudo y retira la supervisión de abogados de las tareas de paralegal",
+      "schema:datePublished": "2026-11-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Crosby, despacho nativo de IA, publicó el 9 de noviembre de 2026 que ha contratado una póliza de 5 millones de dólares que cubre el trabajo de sus agentes, con Testudo, una aseguradora respaldada por Lloyd's of London. Según la compañía, la póliza entró en vigor a principios de noviembre y desde entonces ha retirado la revisión de abogados de las tareas que legalmente no la exigen, a las que llama \"paralegal tasks\" (tareas de paralegal) y que suponen cerca del 20% del trabajo que antes revisaban sus letrados. Testudo analizó sus sistemas, modelos, controles de gobernanza y registros de revisión humana. Crosby afirma que hoy tiene tantos agentes como abogados revisando contratos y espera una proporción de 15 a 1 a final de año. The Lawyer lo presenta como un acuerdo pionero; The New York Times, citado por Quartz, cifra en unos 60 los abogados que supervisan el proceso y en seis meses lo que costó conseguir la cobertura.",
+      "schema:articleBody": "Crosby, despacho nativo de IA, publicó el 9 de noviembre de 2026 que ha contratado una póliza de 5 millones de dólares que cubre el trabajo de sus agentes, con Testudo, una aseguradora respaldada por Lloyd's of London. Según la compañía, la póliza entró en vigor a principios de noviembre y desde entonces ha retirado la revisión de abogados de las tareas que legalmente no la exigen, a las que llama \"paralegal tasks\" (tareas de paralegal) y que suponen cerca del 20% del trabajo que antes revisaban sus letrados. Testudo analizó sus sistemas, modelos, controles de gobernanza y registros de revisión humana. Crosby afirma que hoy tiene tantos agentes como abogados revisando contratos y espera una proporción de 15 a 1 a final de año. The Lawyer lo presenta como un acuerdo pionero; The New York Times, citado por Quartz, cifra en unos 60 los abogados que supervisan el proceso y en seis meses lo que costó conseguir la cobertura.\n\nLa noticia pone precio y póliza a una pregunta que el sector venía esquivando: quién responde cuando un agente actúa sin un abogado en el circuito. Para los despachos y las aseguradoras, abre la puerta a coberturas específicas de IA distintas del seguro de responsabilidad profesional de siempre; para los compradores, un seguro propio es un argumento frente a una herramienta de software sin respaldo. Matiz: la fuente principal es el blog de la propia empresa y The Lawyer está tras muro de pago, de modo que el detalle de lo que cubre y excluye la póliza no es verificable. Un profesor de Stanford citado por el Times advierte de que un asegurador podría argumentar que la salida de una máquina sin supervisión no es un servicio prestado \"como abogado\", y la normativa estadounidense exige supervisión de los no abogados.",
+      "sota:type": "market",
+      "sota:sotaScore": 8.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primera póliza declarada de responsabilidad para agentes de IA en un despacho, ligada a la retirada de supervisión humana en tareas de paralegal.",
+      "sota:whyNow": "Blog de Crosby y The Lawyer, 9 nov 2026. NEW (frente a la pieza de Crosby de 31 oct sobre la puja por activos de Weil).",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "Crosby",
+        "seguro de IA",
+        "Testudo",
+        "agentes",
+        "paralegal tasks"
+      ],
+      "sota:summaryP1": "Crosby, despacho nativo de IA, publicó el 9 de noviembre de 2026 que ha contratado una póliza de 5 millones de dólares que cubre el trabajo de sus agentes, con Testudo, una aseguradora respaldada por Lloyd's of London. Según la compañía, la póliza entró en vigor a principios de noviembre y desde entonces ha retirado la revisión de abogados de las tareas que legalmente no la exigen, a las que llama \"paralegal tasks\" (tareas de paralegal) y que suponen cerca del 20% del trabajo que antes revisaban sus letrados. Testudo analizó sus sistemas, modelos, controles de gobernanza y registros de revisión humana. Crosby afirma que hoy tiene tantos agentes como abogados revisando contratos y espera una proporción de 15 a 1 a final de año. The Lawyer lo presenta como un acuerdo pionero; The New York Times, citado por Quartz, cifra en unos 60 los abogados que supervisan el proceso y en seis meses lo que costó conseguir la cobertura.",
+      "sota:summaryP2": "La noticia pone precio y póliza a una pregunta que el sector venía esquivando: quién responde cuando un agente actúa sin un abogado en el circuito. Para los despachos y las aseguradoras, abre la puerta a coberturas específicas de IA distintas del seguro de responsabilidad profesional de siempre; para los compradores, un seguro propio es un argumento frente a una herramienta de software sin respaldo. Matiz: la fuente principal es el blog de la propia empresa y The Lawyer está tras muro de pago, de modo que el detalle de lo que cubre y excluye la póliza no es verificable. Un profesor de Stanford citado por el Times advierte de que un asegurador podría argumentar que la salida de una máquina sin supervisión no es un servicio prestado \"como abogado\", y la normativa estadounidense exige supervisión de los no abogados.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://crosby.ai/blog/ai-agent-insurance",
+          "schema:name": "Building safer lawyer agents",
+          "sota:sourceId": "src-crosby"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.thelawyer.com/ai-native-firm-crosby-secures-landmark-insurance-deal-for-its-ai-agents/",
+          "schema:name": "AI-native firm Crosby secures landmark insurance deal for its AI agents",
+          "sota:sourceId": "src-the-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-crosby"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-testudo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-the-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-addleshaw-goddard-harvey-3400-co-desarrollo-clientes",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-10-addleshaw-goddard-harvey-3400-co-desarrollo-clientes",
+      "schema:headline": "Addleshaw Goddard elige Harvey para sus más de 3.400 profesionales y lo acompaña de un programa de co-desarrollo que incluye sesiones trimestrales con clientes",
+      "schema:datePublished": "2026-11-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Addleshaw Goddard anunció el 9 de noviembre de 2026 una colaboración con Harvey: desde enero proporcionará la plataforma a toda su plantilla de más de 3.400 abogados y profesionales de servicios de negocio en Europa, Oriente Medio y Asia. Antes hubo una evaluación de tres meses dirigida por su Innovation Group, de 80 personas, en la que 400 profesionales probaron plataformas con tareas reales. El despacho se compromete a trabajar con los equipos de producto e ingeniería de Harvey para dar forma a funciones de proyectos grandes, como la orquestación de asuntos de M&A y la litigación compleja, y cita como primer resultado las Review Tables (tablas de revisión), para comparar y verificar grandes volúmenes de información. Artificial Lawyer añade que su plataforma interna AGPT seguirá, pero se usará más para pruebas. Además, ambas partes se reunirán cada trimestre con clientes seleccionados para identificar problemas y, si procede, co-crear soluciones.",
+      "schema:articleBody": "Addleshaw Goddard anunció el 9 de noviembre de 2026 una colaboración con Harvey: desde enero proporcionará la plataforma a toda su plantilla de más de 3.400 abogados y profesionales de servicios de negocio en Europa, Oriente Medio y Asia. Antes hubo una evaluación de tres meses dirigida por su Innovation Group, de 80 personas, en la que 400 profesionales probaron plataformas con tareas reales. El despacho se compromete a trabajar con los equipos de producto e ingeniería de Harvey para dar forma a funciones de proyectos grandes, como la orquestación de asuntos de M&A y la litigación compleja, y cita como primer resultado las Review Tables (tablas de revisión), para comparar y verificar grandes volúmenes de información. Artificial Lawyer añade que su plataforma interna AGPT seguirá, pero se usará más para pruebas. Además, ambas partes se reunirán cada trimestre con clientes seleccionados para identificar problemas y, si procede, co-crear soluciones.\n\nQue un despacho de este tamaño negocie influencia sobre la hoja de ruta de un proveedor, y no solo licencias, es la tendencia a seguir: la elección de plataforma deja de ser una compra y se convierte en una alianza de desarrollo. Para los clientes, las sesiones trimestrales son una vía para pedir funciones y condiciones; para los vendors rivales, el listón de la oferta sube de un asistente a un equipo de ingeniería dedicado. Matiz: la fuente principal es el comunicado conjunto, sin cifras de uso ni de coste, y la propia Westland subraya que la supervisión y la responsabilidad humanas siguen en el centro. The Lawyer, que titula la noticia con la presencia de personal de Harvey en reuniones con clientes, está tras muro de pago y no lo hemos podido leer entero.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Despliegue de Harvey a más de 3.400 personas con co-desarrollo explícito y clientes en el circuito.",
+      "sota:whyNow": "Artificial Lawyer y blog de Harvey, 9 nov 2026. NEW (frente a Fieldfisher/Legora de 6 nov).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "Addleshaw Goddard",
+        "Harvey",
+        "co-desarrollo",
+        "Review Tables",
+        "orquestación de asuntos"
+      ],
+      "sota:summaryP1": "Addleshaw Goddard anunció el 9 de noviembre de 2026 una colaboración con Harvey: desde enero proporcionará la plataforma a toda su plantilla de más de 3.400 abogados y profesionales de servicios de negocio en Europa, Oriente Medio y Asia. Antes hubo una evaluación de tres meses dirigida por su Innovation Group, de 80 personas, en la que 400 profesionales probaron plataformas con tareas reales. El despacho se compromete a trabajar con los equipos de producto e ingeniería de Harvey para dar forma a funciones de proyectos grandes, como la orquestación de asuntos de M&A y la litigación compleja, y cita como primer resultado las Review Tables (tablas de revisión), para comparar y verificar grandes volúmenes de información. Artificial Lawyer añade que su plataforma interna AGPT seguirá, pero se usará más para pruebas. Además, ambas partes se reunirán cada trimestre con clientes seleccionados para identificar problemas y, si procede, co-crear soluciones.",
+      "sota:summaryP2": "Que un despacho de este tamaño negocie influencia sobre la hoja de ruta de un proveedor, y no solo licencias, es la tendencia a seguir: la elección de plataforma deja de ser una compra y se convierte en una alianza de desarrollo. Para los clientes, las sesiones trimestrales son una vía para pedir funciones y condiciones; para los vendors rivales, el listón de la oferta sube de un asistente a un equipo de ingeniería dedicado. Matiz: la fuente principal es el comunicado conjunto, sin cifras de uso ni de coste, y la propia Westland subraya que la supervisión y la responsabilidad humanas siguen en el centro. The Lawyer, que titula la noticia con la presencia de personal de Harvey en reuniones con clientes, está tras muro de pago y no lo hemos podido leer entero.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/09/addleshaw-goddard-picks-harvey-fieldfisher-opts-for-legora/",
+          "schema:name": "Addleshaw Goddard Picks Harvey, Fieldfisher Opts For Legora",
+          "sota:sourceId": "src-artificial-lawyer"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.harvey.ai/blog/addleshaw-goddard-and-harvey-launch-firmwide-collaboration-to-shape-ai-enabled-legal-delivery",
+          "schema:name": "Addleshaw Goddard and Harvey launch firmwide collaboration to shape AI-enabled legal delivery",
+          "sota:sourceId": "src-harvey"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.thelawyer.com/addleshaws-to-bring-harvey-staff-into-client-meetings-in-ai-tie-up/",
+          "schema:name": "Addleshaws to bring Harvey staff into client meetings in AI tie-up",
+          "sota:sourceId": "src-the-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-addleshaw-goddard"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-the-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-blackletter-seed-6m-despacho-ia-tarifa-fija-operaciones-complejas",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-10-blackletter-seed-6m-despacho-ia-tarifa-fija-operaciones-complejas",
+      "schema:headline": "Blackletter levanta 6 millones de dólares de seed para un despacho de IA y tarifa fija centrado en operaciones complejas, con BlackletterOS como sistema de trabajo",
+      "schema:datePublished": "2026-11-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Blackletter anunció el 9 de noviembre de 2026 una ronda seed de 6 millones de dólares liderada por Lerer Hippeau, con Seven Stars, Maple VC, Garage Capital y Ripple Ventures y varios inversores individuales, para desarrollar su plataforma de IA jurídica y contratar abogados e ingenieros. Los fundadores son Jonathan Rosenbluth y David Stewart, ambos con responsabilidades de producto e ingeniería en Cohere, y Avi Brudner, que fue director de operaciones de Blue J. El despacho cobra tarifas fijas por resultado y no por horas; su BlackletterOS coordina los asuntos, trabaja tareas de varios pasos y acumula el contexto de cada cliente, mientras un abogado senior firma el criterio y responde del resultado. Dice tener más de 75 clientes desde que salió del modo oculto en junio y, según Artificial Lawyer, siete abogados por ahora; trabaja M&A, financiación, mercantil y laboral.",
+      "schema:articleBody": "Blackletter anunció el 9 de noviembre de 2026 una ronda seed de 6 millones de dólares liderada por Lerer Hippeau, con Seven Stars, Maple VC, Garage Capital y Ripple Ventures y varios inversores individuales, para desarrollar su plataforma de IA jurídica y contratar abogados e ingenieros. Los fundadores son Jonathan Rosenbluth y David Stewart, ambos con responsabilidades de producto e ingeniería en Cohere, y Avi Brudner, que fue director de operaciones de Blue J. El despacho cobra tarifas fijas por resultado y no por horas; su BlackletterOS coordina los asuntos, trabaja tareas de varios pasos y acumula el contexto de cada cliente, mientras un abogado senior firma el criterio y responde del resultado. Dice tener más de 75 clientes desde que salió del modo oculto en junio y, según Artificial Lawyer, siete abogados por ahora; trabaja M&A, financiación, mercantil y laboral.\n\nEs otra señal de que el capital sigue apostando por despachos nativos de IA y, dentro de ellos, por quien se atreve con el extremo difícil, no con los contratos rutinarios. Para los despachos tradicionales, el reto es la tarifa fija en asuntos que hasta ahora se cobraban por horas; para los vendors de software, estos despachos desarrollan su propio sistema y no compran el de otros. Matiz: casi todo viene de la nota de la empresa, incluidas las afirmaciones de que sus abogados terminan tareas en menos de la mitad de tiempo y de que BlackletterOS es más preciso que el software jurídico líder, sin datos para contrastarlas. Falta ver si ese rendimiento aguanta una plantilla mucho mayor y la función de inteligencia proactiva que anuncia.",
+      "sota:type": "funding",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Seed para un despacho de IA de tarifa fija orientado a operaciones complejas, un segmento menos explorado por los nuevos modelos.",
+      "sota:whyNow": "Unite.AI y Artificial Lawyer, 9 nov 2026. NEW.",
+      "sota:geo": [
+        "US",
+        "CA"
+      ],
+      "sota:topics": [
+        "Blackletter",
+        "despacho nativo de IA",
+        "tarifa fija",
+        "seed",
+        "BlackletterOS"
+      ],
+      "sota:summaryP1": "Blackletter anunció el 9 de noviembre de 2026 una ronda seed de 6 millones de dólares liderada por Lerer Hippeau, con Seven Stars, Maple VC, Garage Capital y Ripple Ventures y varios inversores individuales, para desarrollar su plataforma de IA jurídica y contratar abogados e ingenieros. Los fundadores son Jonathan Rosenbluth y David Stewart, ambos con responsabilidades de producto e ingeniería en Cohere, y Avi Brudner, que fue director de operaciones de Blue J. El despacho cobra tarifas fijas por resultado y no por horas; su BlackletterOS coordina los asuntos, trabaja tareas de varios pasos y acumula el contexto de cada cliente, mientras un abogado senior firma el criterio y responde del resultado. Dice tener más de 75 clientes desde que salió del modo oculto en junio y, según Artificial Lawyer, siete abogados por ahora; trabaja M&A, financiación, mercantil y laboral.",
+      "sota:summaryP2": "Es otra señal de que el capital sigue apostando por despachos nativos de IA y, dentro de ellos, por quien se atreve con el extremo difícil, no con los contratos rutinarios. Para los despachos tradicionales, el reto es la tarifa fija en asuntos que hasta ahora se cobraban por horas; para los vendors de software, estos despachos desarrollan su propio sistema y no compran el de otros. Matiz: casi todo viene de la nota de la empresa, incluidas las afirmaciones de que sus abogados terminan tareas en menos de la mitad de tiempo y de que BlackletterOS es más preciso que el software jurídico líder, sin datos para contrastarlas. Falta ver si ese rendimiento aguanta una plantilla mucho mayor y la función de inteligencia proactiva que anuncia.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.unite.ai/blackletter-raises-6m-seed-to-expand-its-ai-legal-platform/",
+          "schema:name": "Blackletter Raises $6M Seed to Expand Its AI Legal Platform",
+          "sota:sourceId": "src-unite-ai"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod/",
+          "schema:name": "Blackletter Bags $6m for Transactional New Mod",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-blackletter"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-nikki-shaver-davis-polk-chief-ai-knowledge-officer-legaltech-hub-plink",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-10-nikki-shaver-davis-polk-chief-ai-knowledge-officer-legaltech-hub-plink",
+      "schema:headline": "Nikki Shaver deja Legaltech Hub para ser la primera chief AI and knowledge officer de Davis Polk, y Jeroen Plink asume como CEO con Baretz+Brunelle como socio estratégico",
+      "schema:datePublished": "2026-11-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Nikki Shaver, CEO de Legaltech Hub, dejará la compañía el 1 de diciembre de 2026 para incorporarse a Davis Polk como chief AI and knowledge officer (directora de IA y conocimiento), un puesto que Law.com describe como el primero de su tipo en el despacho. Shaver y su marido, Chris Ford, fundaron Legaltech Hub en 2020 como directorio de LegalTech y lo convirtieron en una referencia de análisis del sector; él también se va y ambos siguen como accionistas. Jeroen Plink, inversor y director de operaciones desde 2022, pasa a CEO. La empresa anunció además una alianza estratégica con Baretz+Brunelle y su rama de innovación, que según LawNext no prevé cambios en el negocio de Legaltech Hub; preguntado si es el preludio de una compra, Spencer Baretz respondió que por ahora es una alianza comercial y que no especula más.",
+      "schema:articleBody": "Nikki Shaver, CEO de Legaltech Hub, dejará la compañía el 1 de diciembre de 2026 para incorporarse a Davis Polk como chief AI and knowledge officer (directora de IA y conocimiento), un puesto que Law.com describe como el primero de su tipo en el despacho. Shaver y su marido, Chris Ford, fundaron Legaltech Hub en 2020 como directorio de LegalTech y lo convirtieron en una referencia de análisis del sector; él también se va y ambos siguen como accionistas. Jeroen Plink, inversor y director de operaciones desde 2022, pasa a CEO. La empresa anunció además una alianza estratégica con Baretz+Brunelle y su rama de innovación, que según LawNext no prevé cambios en el negocio de Legaltech Hub; preguntado si es el preludio de una compra, Spencer Baretz respondió que por ahora es una alianza comercial y que no especula más.\n\nQue un despacho de primer nivel cree un puesto de dirección de IA y lo cubra con quien más ha analizado el mercado de proveedores confirma que la IA ya se gestiona como función ejecutiva. Para los vendors, pierden a una de las analistas con más influencia en la compra y deben mirar quién ocupa su lugar; para los compradores, la independencia de Legaltech Hub frente a una consultora que también representa a proveedores es un punto a vigilar. Matiz: son movimientos de personas y de una alianza comercial anunciados por las empresas, sin condiciones económicas, y la fuente principal es un comunicado recogido por LawNext; no hay indicios en el texto de una adquisición, solo la pregunta sin respuesta.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Primer puesto de dirección de IA en Davis Polk y reordenación de uno de los directorios de referencia del sector.",
+      "sota:whyNow": "LawNext y Law.com, 9 nov 2026. NEW (frente a la pieza del mapa GenAI de Legaltech Hub de 6 oct).",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "Davis Polk",
+        "Legaltech Hub",
+        "chief AI officer",
+        "Baretz+Brunelle",
+        "alianza estratégica"
+      ],
+      "sota:summaryP1": "Nikki Shaver, CEO de Legaltech Hub, dejará la compañía el 1 de diciembre de 2026 para incorporarse a Davis Polk como chief AI and knowledge officer (directora de IA y conocimiento), un puesto que Law.com describe como el primero de su tipo en el despacho. Shaver y su marido, Chris Ford, fundaron Legaltech Hub en 2020 como directorio de LegalTech y lo convirtieron en una referencia de análisis del sector; él también se va y ambos siguen como accionistas. Jeroen Plink, inversor y director de operaciones desde 2022, pasa a CEO. La empresa anunció además una alianza estratégica con Baretz+Brunelle y su rama de innovación, que según LawNext no prevé cambios en el negocio de Legaltech Hub; preguntado si es el preludio de una compra, Spencer Baretz respondió que por ahora es una alianza comercial y que no especula más.",
+      "sota:summaryP2": "Que un despacho de primer nivel cree un puesto de dirección de IA y lo cubra con quien más ha analizado el mercado de proveedores confirma que la IA ya se gestiona como función ejecutiva. Para los vendors, pierden a una de las analistas con más influencia en la compra y deben mirar quién ocupa su lugar; para los compradores, la independencia de Legaltech Hub frente a una consultora que también representa a proveedores es un punto a vigilar. Matiz: son movimientos de personas y de una alianza comercial anunciados por las empresas, sin condiciones económicas, y la fuente principal es un comunicado recogido por LawNext; no hay indicios en el texto de una adquisición, solo la pregunta sin respuesta.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawnext.com/2026/11/founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-step-in-announces-strategic-partnership.html",
+          "schema:name": "Founder Nikki Shaver to Leave Legaltech Hub, Investor Jeroen Plink to Step In, Announces Strategic Partnership",
+          "sota:sourceId": "src-lawnext"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/newyorklawjournal/2026/11/09/davis-polk-hires-first-c-suite-ai-member-arriving-from-legaltech-hub/",
+          "schema:name": "Davis Polk Hires First C-Suite AI Member, Arriving from LegalTech Hub",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-davis-polk"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-hub"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-baretz-brunelle"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawnext"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-worldcc-deloitte-ironclad-62-por-ciento-ia-contratos-productividad-individual",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-10-worldcc-deloitte-ironclad-62-por-ciento-ia-contratos-productividad-individual",
+      "schema:headline": "Un informe de WorldCC, Deloitte e Ironclad indica que el 62% de las organizaciones no ve en resultados de negocio la mejora individual que la IA da en contratos",
+      "schema:datePublished": "2026-11-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Law.com Legaltech News publicó el 9 de noviembre de 2026 los resultados de una investigación de World Commerce & Contracting (WorldCC) con el apoyo de Deloitte y del proveedor de gestión del ciclo de vida de contratos Ironclad. El 62% de los encuestados percibe una mayor productividad individual gracias a la IA, pero dice no poder demostrar el efecto correspondiente en la organización, y solo el 4% la emplea como plataforma transversal. Tim Cummins, de WorldCC, y Craig Conte, de Deloitte Legal, defienden orientar la IA a resultados comerciales en lugar de limitarse a acelerar el trabajo de contratación que ya existe. El artículo atribuye parte de la brecha a sistemas y procesos fragmentados.",
+      "schema:articleBody": "Law.com Legaltech News publicó el 9 de noviembre de 2026 los resultados de una investigación de World Commerce & Contracting (WorldCC) con el apoyo de Deloitte y del proveedor de gestión del ciclo de vida de contratos Ironclad. El 62% de los encuestados percibe una mayor productividad individual gracias a la IA, pero dice no poder demostrar el efecto correspondiente en la organización, y solo el 4% la emplea como plataforma transversal. Tim Cummins, de WorldCC, y Craig Conte, de Deloitte Legal, defienden orientar la IA a resultados comerciales en lugar de limitarse a acelerar el trabajo de contratación que ya existe. El artículo atribuye parte de la brecha a sistemas y procesos fragmentados.\n\nPara los equipos in-house y de contratación, el mensaje es que medir horas ahorradas no basta para justificar la inversión y que el valor depende de rediseñar el proceso, no de añadir una herramienta a cada persona. Para los vendors, sobre todo los de gestión de contratos, empuja a vender flujos de extremo a extremo y métricas de negocio. Matiz: Law.com está tras muro de pago y solo hemos podido leer el arranque; el informe lo copatrocina Ironclad, vendor del mercado, y no conocemos el tamaño ni la composición de la muestra. Según otro medio que resume la cobertura, el informe no cuantifica la brecha entre el retorno individual y el organizativo, y la causa de la fragmentación es la lectura de sus autores.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato de mercado sobre la brecha entre productividad individual con IA y resultado organizativo en contratación.",
+      "sota:whyNow": "Law.com Legaltech News, 9 nov 2026. NEW (frente a la pieza de brecha de valor de IA de 2 oct, que es otro estudio).",
+      "sota:geo": [
+        "GLOBAL"
+      ],
+      "sota:topics": [
+        "WorldCC",
+        "Deloitte",
+        "Ironclad",
+        "ROI de IA",
+        "contratación"
+      ],
+      "sota:summaryP1": "Law.com Legaltech News publicó el 9 de noviembre de 2026 los resultados de una investigación de World Commerce & Contracting (WorldCC) con el apoyo de Deloitte y del proveedor de gestión del ciclo de vida de contratos Ironclad. El 62% de los encuestados percibe una mayor productividad individual gracias a la IA, pero dice no poder demostrar el efecto correspondiente en la organización, y solo el 4% la emplea como plataforma transversal. Tim Cummins, de WorldCC, y Craig Conte, de Deloitte Legal, defienden orientar la IA a resultados comerciales en lugar de limitarse a acelerar el trabajo de contratación que ya existe. El artículo atribuye parte de la brecha a sistemas y procesos fragmentados.",
+      "sota:summaryP2": "Para los equipos in-house y de contratación, el mensaje es que medir horas ahorradas no basta para justificar la inversión y que el valor depende de rediseñar el proceso, no de añadir una herramienta a cada persona. Para los vendors, sobre todo los de gestión de contratos, empuja a vender flujos de extremo a extremo y métricas de negocio. Matiz: Law.com está tras muro de pago y solo hemos podido leer el arranque; el informe lo copatrocina Ironclad, vendor del mercado, y no conocemos el tamaño ni la composición de la muestra. Según otro medio que resume la cobertura, el informe no cuantifica la brecha entre el retorno individual y el organizativo, y la causa de la fragmentación es la lectura de sus autores.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.law.com/legaltechnews/2026/11/09/ai-makes-contracting-faster-yet-businesses-are-struggling-to-show-the-roi/",
+          "schema:name": "AI Makes Contracting Faster Yet Businesses Are Struggling to Show the ROI",
+          "sota:sourceId": "src-legaltech-news-law-com-alm"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-worldcc"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-deloitte"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ironclad"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-lawfairy-primer-caso-consumidor-visado-modelo-determinista-149-libras",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-10-lawfairy-primer-caso-consumidor-visado-modelo-determinista-149-libras",
+      "schema:headline": "LawFairy cierra su primer caso para un consumidor, un visado británico, con un modelo determinista de 149 libras y un solicitor de consultoría a continuación",
+      "schema:datePublished": "2026-11-10",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal Futures informó el 10 de noviembre de 2026 de que LawFairy, despacho solo tecnológico autorizado por la Solicitors Regulation Authority (SRA), ha completado con éxito su primer caso para un consumidor, un ciudadano suizo que consiguió un visado británico. El usuario, que había descubierto que su asesor presentó la solicitud con la categoría de visado equivocada, obtuvo una evaluación en la plataforma por 149 libras fijas y, el mismo día, el contacto con una solicitor consultora de Setfords, que encontró otras cuestiones y llevó la solicitud corregida hasta su aprobación en septiembre. LawFairy usa un \"fully deterministic legal model\" (modelo jurídico plenamente determinista) que codifica la ley en rutas de decisión con resultado auditable, frente a la IA generativa; cubre más de 70 rutas de inmigración y nacionalidad, y la generativa solo ayuda en la interfaz. Tiene 12 despachos en su panel de derivación.",
+      "schema:articleBody": "Legal Futures informó el 10 de noviembre de 2026 de que LawFairy, despacho solo tecnológico autorizado por la Solicitors Regulation Authority (SRA), ha completado con éxito su primer caso para un consumidor, un ciudadano suizo que consiguió un visado británico. El usuario, que había descubierto que su asesor presentó la solicitud con la categoría de visado equivocada, obtuvo una evaluación en la plataforma por 149 libras fijas y, el mismo día, el contacto con una solicitor consultora de Setfords, que encontró otras cuestiones y llevó la solicitud corregida hasta su aprobación en septiembre. LawFairy usa un \"fully deterministic legal model\" (modelo jurídico plenamente determinista) que codifica la ley en rutas de decisión con resultado auditable, frente a la IA generativa; cubre más de 70 rutas de inmigración y nacionalidad, y la generativa solo ayuda en la interfaz. Tiene 12 despachos en su panel de derivación.\n\nEl caso es un contrapunto al discurso de que todo pasa por modelos generativos: un sistema determinista, barato y auditable, con el abogado solo donde hace falta criterio, es otra forma de abrir el acceso a servicios jurídicos de bajo coste. Para los despachos de derivación, es un canal de clientes ya informados; para los reguladores, un ejemplo concreto de modelo autorizado cuyas decisiones se pueden revisar. Matiz: un único caso narrado por la propia empresa, con testimonios de la solicitor y del cliente, y la compañía admite que el servicio de consumo sigue en fase temprana de pruebas; no hay datos de volumen ni de resultados más allá de este expediente.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Primer caso de consumidor completado por un despacho solo tecnológico autorizado, con modelo determinista y auditable frente a la IA generativa.",
+      "sota:whyNow": "Legal Futures, 10 nov 2026. NEW (frente a la pieza de LawFairy de 21 oct).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "LawFairy",
+        "modelo determinista",
+        "SRA",
+        "inmigración",
+        "tarifa fija"
+      ],
+      "sota:summaryP1": "Legal Futures informó el 10 de noviembre de 2026 de que LawFairy, despacho solo tecnológico autorizado por la Solicitors Regulation Authority (SRA), ha completado con éxito su primer caso para un consumidor, un ciudadano suizo que consiguió un visado británico. El usuario, que había descubierto que su asesor presentó la solicitud con la categoría de visado equivocada, obtuvo una evaluación en la plataforma por 149 libras fijas y, el mismo día, el contacto con una solicitor consultora de Setfords, que encontró otras cuestiones y llevó la solicitud corregida hasta su aprobación en septiembre. LawFairy usa un \"fully deterministic legal model\" (modelo jurídico plenamente determinista) que codifica la ley en rutas de decisión con resultado auditable, frente a la IA generativa; cubre más de 70 rutas de inmigración y nacionalidad, y la generativa solo ayuda en la interfaz. Tiene 12 despachos en su panel de derivación.",
+      "sota:summaryP2": "El caso es un contrapunto al discurso de que todo pasa por modelos generativos: un sistema determinista, barato y auditable, con el abogado solo donde hace falta criterio, es otra forma de abrir el acceso a servicios jurídicos de bajo coste. Para los despachos de derivación, es un canal de clientes ya informados; para los reguladores, un ejemplo concreto de modelo autorizado cuyas decisiones se pueden revisar. Matiz: un único caso narrado por la propia empresa, con testimonios de la solicitor y del cliente, y la compañía admite que el servicio de consumo sigue en fase temprana de pruebas; no hay datos de volumen ni de resultados más allá de este expediente.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/latest-news/first-satisfied-client-for-groundbreaking-technology-only-law-firm",
+          "schema:name": "First satisfied client for groundbreaking technology-only law firm",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawfairy"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-10-cnil-diez-sanciones-simplificadas-ciberseguridad-colectividades-territoriales",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-10-cnil-diez-sanciones-simplificadas-ciberseguridad-colectividades-territoriales",
+      "schema:headline": "La CNIL sanciona a diez entidades locales con multas de 3.000 a 20.000 euros por fallos de ciberseguridad y por no hacer evaluaciones de impacto",
+      "schema:datePublished": "2026-11-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La CNIL, autoridad francesa de protección de datos, anunció el 9 de noviembre de 2026 diez sanciones simplificadas contra colectividades territoriales y un establecimiento público por incumplimientos de ciberseguridad, resultado de su tema anual de control de 2025. Entre los fallos están la ausencia de autenticación multifactor para administradores, proveedores con acceso permanente a la red o con cuentas compartidas, registros incompletos o no explotados, redes sin segmentar, servidores con sistemas obsoletos y contraseñas débiles o enviadas en claro. Varias decisiones señalan también la falta de homologación de seguridad que exige el referencial general de seguridad (RGS) y la ausencia de evaluaciones de impacto (AIPD, equivalente a las evaluaciones de impacto del RGPD) para servicios escolares en línea y videovigilancia en la vía pública. Las multas van de 3.000 a 20.000 euros.",
+      "schema:articleBody": "La CNIL, autoridad francesa de protección de datos, anunció el 9 de noviembre de 2026 diez sanciones simplificadas contra colectividades territoriales y un establecimiento público por incumplimientos de ciberseguridad, resultado de su tema anual de control de 2025. Entre los fallos están la ausencia de autenticación multifactor para administradores, proveedores con acceso permanente a la red o con cuentas compartidas, registros incompletos o no explotados, redes sin segmentar, servidores con sistemas obsoletos y contraseñas débiles o enviadas en claro. Varias decisiones señalan también la falta de homologación de seguridad que exige el referencial general de seguridad (RGS) y la ausencia de evaluaciones de impacto (AIPD, equivalente a las evaluaciones de impacto del RGPD) para servicios escolares en línea y videovigilancia en la vía pública. Las multas van de 3.000 a 20.000 euros.\n\nAunque son entidades públicas, la lista es un inventario práctico de lo que un regulador revisa a quien trata muchos datos: acceso de terceros, autenticación, trazabilidad y análisis de riesgo previos a un servicio nuevo. Para los vendors de software que acceden a redes de clientes, las decisiones recuerdan que el acceso permanente o compartido es una exposición, y para los despachos que asesoran a administraciones o a proveedores, una referencia de cumplimiento. Matiz: es un comunicado del propio regulador, en procedimiento simplificado y con importes bajos; no es una sanción contra un proveedor de IA ni de tecnología jurídica, y es un asunto francés cuyo valor para España es de analogía con el RGPD.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.5,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Regulador de referencia publica un patrón de fallos de ciberseguridad y de AIPD ligado a servicios digitales con datos de menores.",
+      "sota:whyNow": "CNIL, nov 2026. NEW (frente a otras decisiones CNIL de octubre sobre prospección y cookies).",
+      "sota:geo": [
+        "FR",
+        "EU"
+      ],
+      "sota:topics": [
+        "CNIL",
+        "ciberseguridad",
+        "AIPD",
+        "RGPD",
+        "sanciones simplificadas"
+      ],
+      "sota:summaryP1": "La CNIL, autoridad francesa de protección de datos, anunció el 9 de noviembre de 2026 diez sanciones simplificadas contra colectividades territoriales y un establecimiento público por incumplimientos de ciberseguridad, resultado de su tema anual de control de 2025. Entre los fallos están la ausencia de autenticación multifactor para administradores, proveedores con acceso permanente a la red o con cuentas compartidas, registros incompletos o no explotados, redes sin segmentar, servidores con sistemas obsoletos y contraseñas débiles o enviadas en claro. Varias decisiones señalan también la falta de homologación de seguridad que exige el referencial general de seguridad (RGS) y la ausencia de evaluaciones de impacto (AIPD, equivalente a las evaluaciones de impacto del RGPD) para servicios escolares en línea y videovigilancia en la vía pública. Las multas van de 3.000 a 20.000 euros.",
+      "sota:summaryP2": "Aunque son entidades públicas, la lista es un inventario práctico de lo que un regulador revisa a quien trata muchos datos: acceso de terceros, autenticación, trazabilidad y análisis de riesgo previos a un servicio nuevo. Para los vendors de software que acceden a redes de clientes, las decisiones recuerdan que el acceso permanente o compartido es una exposición, y para los despachos que asesoran a administraciones o a proveedores, una referencia de cumplimiento. Matiz: es un comunicado del propio regulador, en procedimiento simplificado y con importes bajos; no es una sanción contra un proveedor de IA ni de tecnología jurídica, y es un asunto francés cuyo valor para España es de analogía con el RGPD.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+          "schema:name": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+          "sota:sourceId": "src-cnil"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cnil"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-addleshaw-goddard",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-addleshaw-goddard",
+      "schema:name": "Addleshaw Goddard",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.addleshawgoddard.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-baretz-brunelle",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-baretz-brunelle",
+      "schema:name": "Baretz+Brunelle",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.baretzbrunelle.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-blackletter",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-blackletter",
+      "schema:name": "Blackletter",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.unite.ai/blackletter-raises-6m-seed-to-expand-its-ai-legal-platform/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-cnil",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-cnil",
+      "schema:name": "CNIL",
+      "sota:entityType": "regulator",
+      "schema:url": "https://www.cnil.fr/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-crosby",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-crosby",
+      "schema:name": "Crosby",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://crosby.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-davis-polk",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-davis-polk",
+      "schema:name": "Davis Polk",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.davispolk.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-deloitte",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-deloitte",
+      "schema:name": "Deloitte",
+      "sota:entityType": "company",
+      "schema:url": "https://www.deloitte.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-ironclad",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-ironclad",
+      "schema:name": "Ironclad",
+      "sota:entityType": "vendor",
+      "schema:url": "https://ironcladapp.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-com",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-com",
+      "schema:name": "Law.com (Legaltech News)",
+      "sota:entityType": "media",
+      "schema:url": "https://www.law.com/legaltechnews/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawfairy",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawfairy",
+      "schema:name": "LawFairy",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.lawfairy.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawnext",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawnext",
+      "schema:name": "LawNext",
+      "sota:entityType": "media",
+      "schema:url": "https://www.lawnext.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-futures",
+      "schema:name": "Legal Futures",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalfutures.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-hub",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legaltech-hub",
+      "schema:name": "Legaltech Hub",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legaltechnologyhub.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-testudo",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-testudo",
+      "schema:name": "Testudo",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.testudo.co/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-the-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-the-lawyer",
+      "schema:name": "The Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.thelawyer.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-unite-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-unite-ai",
+      "schema:name": "Unite.AI",
+      "sota:entityType": "media",
+      "schema:url": "https://www.unite.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-worldcc",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-worldcc",
+      "schema:name": "World Commerce & Contracting",
+      "sota:entityType": "association",
+      "schema:url": "https://www.worldcc.com/",
+      "sota:stub": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-10-cnil-diez-sanciones-simplificadas-ciberseguridad-colectividades-territoriales",
+  "date": "2026-11-09",
+  "type": "regulation",
+  "sota_score": 6.5,
+  "ai_legaltech": false,
+  "title": "La CNIL sanciona a diez entidades locales con multas de 3.000 a 20.000 euros por fallos de ciberseguridad y por no hacer evaluaciones de impacto",
+  "short_title": "La CNIL impone diez sanciones por ciberseguridad a entidades locales",
+  "standfirst": "Autenticación débil, accesos permanentes de proveedores, redes sin segmentar y falta de AIPD en servicios escolares y videovigilancia.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": true,
+  "topic": "Protección de datos",
+  "country": "Francia",
+  "piece_type": "Regulación",
+  "summary_p1": "La CNIL, autoridad francesa de protección de datos, anunció el 9 de noviembre de 2026 diez sanciones simplificadas contra colectividades territoriales y un establecimiento público por incumplimientos de ciberseguridad, resultado de su tema anual de control de 2025. Entre los fallos están la ausencia de autenticación multifactor para administradores, proveedores con acceso permanente a la red o con cuentas compartidas, registros incompletos o no explotados, redes sin segmentar, servidores con sistemas obsoletos y contraseñas débiles o enviadas en claro. Varias decisiones señalan también la falta de homologación de seguridad que exige el referencial general de seguridad (RGS) y la ausencia de evaluaciones de impacto (AIPD, equivalente a las evaluaciones de impacto del RGPD) para servicios escolares en línea y videovigilancia en la vía pública. Las multas van de 3.000 a 20.000 euros.",
+  "summary_p2": "Aunque son entidades públicas, la lista es un inventario práctico de lo que un regulador revisa a quien trata muchos datos: acceso de terceros, autenticación, trazabilidad y análisis de riesgo previos a un servicio nuevo. Para los vendors de software que acceden a redes de clientes, las decisiones recuerdan que el acceso permanente o compartido es una exposición, y para los despachos que asesoran a administraciones o a proveedores, una referencia de cumplimiento. Matiz: es un comunicado del propio regulador, en procedimiento simplificado y con importes bajos; no es una sanción contra un proveedor de IA ni de tecnología jurídica, y es un asunto francés cuyo valor para España es de analogía con el RGPD.",
+  "why_sota": "Regulador de referencia publica un patrón de fallos de ciberseguridad y de AIPD ligado a servicios digitales con datos de menores.",
+  "why_now": "CNIL, nov 2026. NEW (frente a otras decisiones CNIL de octubre sobre prospección y cookies).",
+  "geo": [
+    "FR",
+    "EU"
+  ],
+  "topics": [
+    "CNIL",
+    "ciberseguridad",
+    "AIPD",
+    "RGPD",
+    "sanciones simplificadas"
+  ],
+  "sources": [
+    {
+      "source_id": "src-cnil",
+      "url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+      "cited_title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "entities": [
+    "ent-cnil"
+  ],
+  "lang": "es",
+  "status": "published"
+}

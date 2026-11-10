@@ -1,0 +1,54 @@
+{
+  "id": "evt-2026-11-10-nikki-shaver-davis-polk-chief-ai-knowledge-officer-legaltech-hub-plink",
+  "date": "2026-11-09",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Nikki Shaver deja Legaltech Hub para ser la primera chief AI and knowledge officer de Davis Polk, y Jeroen Plink asume como CEO con Baretz+Brunelle como socio estratégico",
+  "short_title": "Nikki Shaver pasa de Legaltech Hub a Davis Polk como chief AI officer",
+  "standfirst": "La fundadora del directorio de LegalTech se va el 1 de diciembre; Legaltech Hub se alía con Baretz+Brunelle y su rama LexFusion, sin descartar nada más.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "Nikki Shaver, CEO de Legaltech Hub, dejará la compañía el 1 de diciembre de 2026 para incorporarse a Davis Polk como chief AI and knowledge officer (directora de IA y conocimiento), un puesto que Law.com describe como el primero de su tipo en el despacho. Shaver y su marido, Chris Ford, fundaron Legaltech Hub en 2020 como directorio de LegalTech y lo convirtieron en una referencia de análisis del sector; él también se va y ambos siguen como accionistas. Jeroen Plink, inversor y director de operaciones desde 2022, pasa a CEO. La empresa anunció además una alianza estratégica con Baretz+Brunelle y su rama de innovación, que según LawNext no prevé cambios en el negocio de Legaltech Hub; preguntado si es el preludio de una compra, Spencer Baretz respondió que por ahora es una alianza comercial y que no especula más.",
+  "summary_p2": "Que un despacho de primer nivel cree un puesto de dirección de IA y lo cubra con quien más ha analizado el mercado de proveedores confirma que la IA ya se gestiona como función ejecutiva. Para los vendors, pierden a una de las analistas con más influencia en la compra y deben mirar quién ocupa su lugar; para los compradores, la independencia de Legaltech Hub frente a una consultora que también representa a proveedores es un punto a vigilar. Matiz: son movimientos de personas y de una alianza comercial anunciados por las empresas, sin condiciones económicas, y la fuente principal es un comunicado recogido por LawNext; no hay indicios en el texto de una adquisición, solo la pregunta sin respuesta.",
+  "why_sota": "Primer puesto de dirección de IA en Davis Polk y reordenación de uno de los directorios de referencia del sector.",
+  "why_now": "LawNext y Law.com, 9 nov 2026. NEW (frente a la pieza del mapa GenAI de Legaltech Hub de 6 oct).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "Davis Polk",
+    "Legaltech Hub",
+    "chief AI officer",
+    "Baretz+Brunelle",
+    "alianza estratégica"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/11/founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-step-in-announces-strategic-partnership.html",
+      "cited_title": "Founder Nikki Shaver to Leave Legaltech Hub, Investor Jeroen Plink to Step In, Announces Strategic Partnership",
+      "accessed": "2026-11-10"
+    },
+    {
+      "source_id": "src-legaltech-news-law-com-alm",
+      "url": "https://www.law.com/newyorklawjournal/2026/11/09/davis-polk-hires-first-c-suite-ai-member-arriving-from-legaltech-hub/",
+      "cited_title": "Davis Polk Hires First C-Suite AI Member, Arriving from LegalTech Hub",
+      "accessed": "2026-11-10"
+    }
+  ],
+  "entities": [
+    "ent-davis-polk",
+    "ent-legaltech-hub",
+    "ent-baretz-brunelle",
+    "ent-lawnext",
+    "ent-law-com"
+  ],
+  "lang": "es",
+  "status": "published"
+}

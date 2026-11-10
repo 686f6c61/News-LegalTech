@@ -5622,3 +5622,58 @@ entities:
   notes: Proveedor de gestión de contratos con IA y matriz de Law Insider; lanza SimpleDocs
     360 (nov 2026).
   stub: true
+- id: ent-testudo
+  name: Testudo
+  type: vendor
+  url: https://www.testudo.co/
+  geo:
+  - GB
+  aliases: []
+  notes: Aseguradora de dos años respaldada por Lloyd's of London; emite la póliza
+    de responsabilidad de IA de Crosby (nov 2026).
+  stub: true
+- id: ent-addleshaw-goddard
+  name: Addleshaw Goddard
+  type: law_firm
+  url: https://www.addleshawgoddard.com/
+  geo:
+  - GB
+  aliases:
+  - AG
+  notes: Despacho internacional con sede en Londres; despliega Harvey y co-desarrolla
+    funciones con ese proveedor (nov 2026).
+  stub: true
+- id: ent-blackletter
+  name: Blackletter
+  type: law_firm
+  url: https://www.unite.ai/blackletter-raises-6m-seed-to-expand-its-ai-legal-platform/
+  geo:
+  - US
+  - CA
+  aliases:
+  - Blackletter Legal LLP
+  notes: Despacho nativo de IA de tarifa fija, fundado por exdirectivos de Cohere
+    y Blue J; seed de 6 millones de dólares (nov 2026).
+  stub: true
+- id: ent-baretz-brunelle
+  name: Baretz+Brunelle
+  type: vendor
+  url: https://www.baretzbrunelle.com/
+  geo:
+  - US
+  aliases:
+  - B+B
+  notes: Consultora de crecimiento para el sector legal; socia estratégica de Legaltech
+    Hub (nov 2026).
+  stub: true
+- id: ent-worldcc
+  name: World Commerce & Contracting
+  type: association
+  url: https://www.worldcc.com/
+  geo:
+  - GLOBAL
+  aliases:
+  - WorldCC
+  notes: Asociación profesional de contratación y comercio; autora del informe sobre
+    IA en contratos con Deloitte e Ironclad (nov 2026).
+  stub: true

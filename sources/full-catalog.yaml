@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 185
+count: 186
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -2057,5 +2057,16 @@ sources:
   frequency: diario
   why: Medio irlandés de tecnología y startups. Ficha añadida para citar la ronda de Juritas.
   region: IE
+  lang: EN
+  tier: archive
+
+- id: src-crosby
+  name: Crosby
+  url: https://crosby.ai/
+  type: news
+  kind: news
+  frequency: irregular
+  why: Blog del despacho nativo de IA Crosby. Ficha añadida para citar su anuncio del seguro para agentes.
+  region: US
   lang: EN
   tier: archive
