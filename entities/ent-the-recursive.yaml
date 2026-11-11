@@ -1,0 +1,10 @@
+id: ent-the-recursive
+name: The Recursive
+type: media
+url: https://www.therecursive.com/
+geo:
+- EU
+aliases: []
+notes: Medio de noticias sobre startups y tecnología en Europa central y del este.
+  Ficha mínima.
+stub: true

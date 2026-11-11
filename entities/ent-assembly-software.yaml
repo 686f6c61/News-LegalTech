@@ -1,0 +1,11 @@
+id: ent-assembly-software
+name: Assembly Software
+type: vendor
+url: https://www.assemblysoftware.com/
+geo:
+- US
+aliases:
+- Neos
+notes: Proveedor de gestión de casos para despachos de daños personales; edita Neos
+  y NeosAI (nov 2026).
+stub: true

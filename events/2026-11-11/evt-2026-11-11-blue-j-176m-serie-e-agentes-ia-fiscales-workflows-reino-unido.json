@@ -1,0 +1,55 @@
+{
+  "id": "evt-2026-11-11-blue-j-176m-serie-e-agentes-ia-fiscales-workflows-reino-unido",
+  "date": "2026-11-10",
+  "type": "funding",
+  "sota_score": 8.1,
+  "ai_legaltech": true,
+  "title": "Blue J levanta 176 millones de dólares en una serie E liderada por JMI Equity para escalar Workflows, sus agentes de IA para trabajo fiscal, y crecer en Reino Unido",
+  "short_title": "Blue J levanta 176 M$ para escalar sus agentes de IA fiscales",
+  "standfirst": "La plataforma de investigación fiscal, valorada en más de 700 millones de dólares, dice usarlo para que sus agentes lleven el trabajo desde la consulta hasta el entregable, con pasos inspeccionables.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Inversión",
+  "country": "Canadá",
+  "piece_type": "Inversión",
+  "summary_p1": "Blue J, plataforma canadiense de investigación y asesoramiento fiscal, anunció el 10 de noviembre de 2026 una serie E de 176 millones de dólares liderada por JMI Equity, con Oak HC/FT, Sapphire Ventures e Intrepid Growth Partners. LawSites informa de una valoración de más de 700 millones de dólares y Artificial Lawyer, de que duplica con creces los 300 millones de 2025. El dinero irá a escalar Workflows, su IA agéntica (agentic AI) para trabajo fiscal, y a crecer en Reino Unido y otros mercados. Según la empresa, sus agentes pueden revisar declaraciones antes de presentarlas, preparar respuestas a requerimientos del IRS, analizar acuerdos de sociedades y fideicomisos, valorar el nexo multiestatal y redactar comunicaciones a clientes, con fuentes y pasos inspeccionables. Dice que ha respondido más de 14 millones de preguntas fiscales, que más de 6.500 organizaciones la usan, entre ellas firmas Big Four, y que prevé superar los 200 empleados a final de año. En octubre ya había integrado su investigación en Legora.",
+  "summary_p2": "La noticia confirma que el capital sigue yendo a agentes que ejecutan el trabajo y no solo a asistentes que contestan, y que lo hace en una vertical con fuentes autorizadas y clientes dispuestos a pagar, la fiscal. Para los despachos con práctica tributaria y las asesorías, el listón sube: la comparación ya no es con un buscador, sino con un equipo de agentes que entrega borradores revisables; para los vendors generalistas, la alianza con Legora apunta a un modelo de integración en lugar de competencia. Matiz: casi todas las cifras (usuarios, preguntas, crecimiento de ingresos) son de la propia empresa y el total de fondos recaudados, unos 315 millones, es una estimación de Artificial Lawyer que la compañía no ha confirmado.",
+  "why_sota": "Mayor ronda del día en IA jurídica y fiscal: 176 millones de dólares para agentes que ejecutan trabajo de principio a fin.",
+  "why_now": "LawSites y Artificial Lawyer, 10 nov 2026. NEW (frente a la alianza de Blue J con Legora de octubre).",
+  "geo": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "topics": [
+    "Blue J",
+    "serie E",
+    "JMI Equity",
+    "IA fiscal",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/11/tax-research-platform-blue-j-raises-176m-to-expand-its-agentic-ai-and-reach-new-markets.html",
+      "cited_title": "Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets",
+      "accessed": "2026-11-11"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/10/blue-j-follows-legora-alliance-with-176m-raise/",
+      "cited_title": "Blue J Follows Legora Alliance With $176m Raise",
+      "accessed": "2026-11-11"
+    }
+  ],
+  "entities": [
+    "ent-blue-j",
+    "ent-legora",
+    "ent-lawnext",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

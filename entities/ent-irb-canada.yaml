@@ -1,0 +1,12 @@
+id: ent-irb-canada
+name: Immigration and Refugee Board of Canada
+type: regulator
+url: https://irb-cisr.gc.ca/
+geo:
+- CA
+aliases:
+- IRB
+- Refugee Protection Division
+notes: Tribunal administrativo canadiense de inmigración y refugio; su Refugee Protection
+  Division decidió el caso Horvath (nov 2026).
+stub: true

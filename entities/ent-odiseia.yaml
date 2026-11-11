@@ -1,0 +1,11 @@
+id: ent-odiseia
+name: OdiseIA4Good
+type: association
+url: https://www.odiseia.org/
+geo:
+- ES
+aliases:
+- OdiseIA
+notes: Asociación española sin ánimo de lucro, fundada en 2019, sobre ética y uso
+  responsable de la IA. Ficha mínima.
+stub: true

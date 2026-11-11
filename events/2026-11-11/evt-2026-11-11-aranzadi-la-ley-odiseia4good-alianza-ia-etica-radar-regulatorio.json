@@ -1,0 +1,53 @@
+{
+  "id": "evt-2026-11-11-aranzadi-la-ley-odiseia4good-alianza-ia-etica-radar-regulatorio",
+  "date": "2026-11-10",
+  "type": "market",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "Aranzadi LA LEY y OdiseIA4Good se alían para seguir las tendencias regulatorias y éticas de la IA, publicar análisis y organizar formación para profesionales del Derecho",
+  "short_title": "Aranzadi LA LEY y OdiseIA se alían en ética de la IA jurídica",
+  "standfirst": "La editorial jurídica usará sus medios y su fondo de más de 6.000 títulos para difundir los criterios de la asociación; el acuerdo prevé webinars anuales, tribunas y estudios.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "España",
+  "piece_type": "Mercado",
+  "summary_p1": "Aranzadi LA LEY anunció el 10 de noviembre de 2026 un acuerdo con la asociación OdiseIA, presentada como OdiseIA4Good, para impulsar el conocimiento sobre IA ética en el sector jurídico. Según Lawyerpress, la alianza prevé un seguimiento de las tendencias regulatorias y éticas de la IA, la publicación de tribunas, entrevistas y estudios, y webinars anuales y otras actividades formativas sobre gobernanza ética y cumplimiento normativo. Los contenidos circularán por los medios de la editorial, entre ellos Diario LA LEY, Noticias Jurídicas y Legal Today, y su fondo de más de 6.000 títulos. OdiseIA, fundada en 2019, reúne unos 150 socios individuales y 25 institucionales. Cristina Retana, de Aranzadi LA LEY, y la presidenta Idoia Salazar defienden convertir los principios éticos en criterios aplicables a decisiones sobre desarrollo y uso de la IA.",
+  "summary_p2": "Para los despachos y los departamentos jurídicos españoles, el valor práctico es un canal editorial de referencia para anticipar riesgos, derechos y dilemas de la IA que, con el Reglamento europeo en marcha, entran ya en el asesoramiento diario. Para los proveedores, muestra que una editorial jurídica tradicional se posiciona como árbitro de la gobernanza de la IA, una vía distinta de lanzar su propio asistente. Matiz: es un acuerdo de colaboración anunciado por las partes, sin calendario, cifras ni entregables concretos, y no una norma ni una guía técnica; habrá que ver qué productos y formación salen de él.",
+  "why_sota": "Una editorial jurídica líder en España fija alianza para liderar el radar regulatorio y ético de la IA en el sector legal.",
+  "why_now": "Lawyerpress y LegalToday, 10 nov 2026. NEW.",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "Aranzadi LA LEY",
+    "OdiseIA4Good",
+    "IA ética",
+    "gobernanza",
+    "formación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawyerpress-news",
+      "url": "https://www.lawyerpress.com/2026/11/10/aranzadi-la-ley-y-odiseia-colaboraran-en-formacion-y-analisis-sobre-inteligencia-artificial-etica/",
+      "cited_title": "Aranzadi LA LEY y OdiseIA colaborarán en formación y análisis sobre inteligencia artificial ética",
+      "accessed": "2026-11-11"
+    },
+    {
+      "source_id": "src-legaltoday",
+      "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/aranzadi-la-ley-y-odiseia4good-impulsan-la-inteligencia-artificial-etica-en-el-sector-legal-2026-11-10/",
+      "cited_title": "Aranzadi LA LEY y Odiseia4good impulsan la inteligencia artificial ética en el sector legal",
+      "accessed": "2026-11-11"
+    }
+  ],
+  "entities": [
+    "ent-aranzadi-la-ley",
+    "ent-odiseia",
+    "ent-lawyerpress",
+    "ent-legaltoday"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "evt-2026-11-11-litera-compare-firm-ai-search-plugins-microsoft-copilot-for-legal",
+  "date": "2026-11-10",
+  "type": "product",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Litera lleva Compare, su comparador determinista de documentos, y Firm AI Search a Microsoft Copilot for legal como plugins y adopta Microsoft 365 E7",
+  "short_title": "Litera lleva Compare y Firm AI Search a Copilot for legal",
+  "standfirst": "El abogado pide la comparación en lenguaje natural dentro de Copilot y el motor de Litera genera el redline; la búsqueda de experiencia solo llega, de momento, a clientes con Foundation Cloud.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Litera anunció el 10 de noviembre de 2026 que Litera Compare y Firm AI Search ya están disponibles dentro de Microsoft Copilot for legal mediante plugins. Compare es el comparador de documentos de la compañía, que según ella usa un enfoque determinista (mismo resultado cada vez, sin predicción) y funciona sobre Word, Excel, PowerPoint, PDF y otros formatos; Copilot lo llama y devuelve un enlace al redline (versión comparada), que el abogado puede pedir que resuma, con riesgos y propuestas de mitigación. Firm AI Search conecta Litera Foundation, los sistemas de asuntos y las bases de experiencia para responder, con citas y respetando muros éticos y permisos, preguntas como quién del despacho ha llevado operaciones de M&A transfronterizas para farmacéuticas alemanas. Litera también adopta Microsoft 365 E7, la Frontier Suite. Artificial Lawyer preguntó si Copilot for legal canibaliza a Litera; su directivo Adam Ryan dijo que no y que el cliente sigue necesitando suscripción.",
+  "summary_p2": "Para los despachos, la integración permite usar herramientas ya contratadas desde el asistente donde trabajan, y da a Litera un papel claro frente a las funciones generales de Copilot: el redline fiable por debajo y la IA por encima. Para los vendors, es la señal de que Copilot for legal se convierte en un canal de distribución al que se llega por el registro de plugins. Matiz: es un comunicado del proveedor, y la afirmación de que su algoritmo es más preciso que los modelos generales no se ha verificado de forma independiente; además, Microsoft indica que los plugins de socios se despliegan poco a poco y el propio Litera aclara que Firm AI Search exige Foundation y que su despliegue inicial fue para firmas de Estados Unidos.",
+  "why_sota": "Un vendor de legaltech establecido se enchufa a Copilot for legal con un motor determinista bajo la IA.",
+  "why_now": "Comunicado de Litera y Artificial Lawyer, 10 nov 2026. NEW (frente al lanzamiento de Copilot for legal del 16 de octubre).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "Litera",
+    "Copilot for legal",
+    "Litera Compare",
+    "Firm AI Search",
+    "plugins"
+  ],
+  "sources": [
+    {
+      "source_id": "src-litera-resources",
+      "url": "https://www.litera.com/newslinks/litera-microsoft-copilot-legal",
+      "cited_title": "Litera Brings Document Comparison and Firm AI Search to Microsoft Copilot for Legal",
+      "accessed": "2026-11-11"
+    },
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/10/copilot-for-legal-wont-cannibalize-us-litera/",
+      "cited_title": "Copilot for Legal Won't Cannibalize Us - Litera",
+      "accessed": "2026-11-11"
+    }
+  ],
+  "entities": [
+    "ent-litera",
+    "ent-microsoft-copilot-for-legal",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

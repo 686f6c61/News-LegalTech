@@ -1,0 +1,62 @@
+scan_id: full-radar-2026-11-11
+date: '2026-11-11'
+release: 11.11.26
+count: 8
+ai_share: 0.75
+dedup_against: events/2026-09-29 → 2026-11-10 + scans PASS
+event_ids:
+- evt-2026-11-11-blue-j-176m-serie-e-agentes-ia-fiscales-workflows-reino-unido
+- evt-2026-11-11-harvey-jus-mundi-jus-ai-arbitraje-integrado-sin-coste
+- evt-2026-11-11-litera-compare-firm-ai-search-plugins-microsoft-copilot-for-legal
+- evt-2026-11-11-lexroom-lex-agente-whatsapp-abogados-beta-cerrada-cinco-mercados
+- evt-2026-11-11-assembly-software-neos-demands-plus-cronologias-medicas-demandas-30-minutos
+- evt-2026-11-11-aranzadi-la-ley-odiseia4good-alianza-ia-etica-radar-regulatorio
+- evt-2026-11-11-federal-court-canada-horvath-cita-fantasma-irb-sin-ia
+- evt-2026-11-11-clc-project-2000-lawyers-conveyancing-10000-abogados-college-tecnico
+events:
+- id: evt-2026-11-11-blue-j-176m-serie-e-agentes-ia-fiscales-workflows-reino-unido
+  sota_score: 8.1
+  ai_legaltech: true
+  title: Blue J levanta 176 millones de dólares en una serie E liderada por JMI Equity
+    para escalar Workflows, sus agentes de IA para trabajo fiscal, y crecer en Reino
+    Unido
+- id: evt-2026-11-11-harvey-jus-mundi-jus-ai-arbitraje-integrado-sin-coste
+  sota_score: 7.7
+  ai_legaltech: true
+  title: Harvey integrará Jus AI, el asistente de investigación en arbitraje de Jus
+    Mundi, en su Assistant, Agents, Vault y Workflows sin coste adicional para clientes
+    comunes
+- id: evt-2026-11-11-litera-compare-firm-ai-search-plugins-microsoft-copilot-for-legal
+  sota_score: 7.2
+  ai_legaltech: true
+  title: Litera lleva Compare, su comparador determinista de documentos, y Firm AI
+    Search a Microsoft Copilot for legal como plugins y adopta Microsoft 365 E7
+- id: evt-2026-11-11-lexroom-lex-agente-whatsapp-abogados-beta-cerrada-cinco-mercados
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Lexroom lanza en beta cerrada lex, un agente de IA para abogados que funciona
+    por WhatsApp y llega a España, Italia, Alemania, Francia y Bulgaria
+- id: evt-2026-11-11-assembly-software-neos-demands-plus-cronologias-medicas-demandas-30-minutos
+  sota_score: 6.9
+  ai_legaltech: true
+  title: Assembly Software lanza Neos Demands Plus, IA que redacta cronologías médicas
+    y cartas de reclamación dentro del gestor de casos y la estima en unos 30 minutos
+    por reclamación
+- id: evt-2026-11-11-aranzadi-la-ley-odiseia4good-alianza-ia-etica-radar-regulatorio
+  sota_score: 6.6
+  ai_legaltech: true
+  title: Aranzadi LA LEY y OdiseIA4Good se alían para seguir las tendencias regulatorias
+    y éticas de la IA, publicar análisis y organizar formación para profesionales
+    del Derecho
+- id: evt-2026-11-11-federal-court-canada-horvath-cita-fantasma-irb-sin-ia
+  sota_score: 6.8
+  ai_legaltech: false
+  title: La Federal Court de Canadá anula una decisión del tribunal de refugio que
+    citaba una sentencia "fantasma" y el abogado del demandante descarta que interviniera
+    la IA
+- id: evt-2026-11-11-clc-project-2000-lawyers-conveyancing-10000-abogados-college-tecnico
+  sota_score: 6.3
+  ai_legaltech: false
+  title: El regulador de conveyancers de Inglaterra y Gales lanza Project 2,000 Lawyers
+    para atraer 2.000 aprendices más hasta 2030 y pide un college técnico para derecho
+    de consumo

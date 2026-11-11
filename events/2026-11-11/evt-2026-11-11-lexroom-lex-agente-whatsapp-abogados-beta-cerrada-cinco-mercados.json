@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-11-11-lexroom-lex-agente-whatsapp-abogados-beta-cerrada-cinco-mercados",
+  "date": "2026-11-10",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Lexroom lanza en beta cerrada lex, un agente de IA para abogados que funciona por WhatsApp y llega a España, Italia, Alemania, Francia y Bulgaria",
+  "short_title": "Lexroom lanza lex, un agente de IA para abogados en WhatsApp",
+  "standfirst": "Vigila correos, agenda y expedientes, propone acciones y prepara borradores, pero nada se envía, agenda o presenta sin la aprobación del abogado; está dirigido a despachos pequeños y medianos.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Italia",
+  "piece_type": "Producto",
+  "summary_p1": "The Recursive informó el 10 de noviembre de 2026 de que Lexroom, legaltech de IA de origen italiano, ha lanzado lex, un asistente personal para abogados al que se accede por WhatsApp con texto y notas de voz. Según la compañía, puede vigilar correos, calendarios, comunicaciones con clientes y expedientes para detectar tareas pendientes, proponer horarios de reunión, hacer investigación jurídica y preparar primeros borradores, con un proceso de aprobación humana: lex recomienda y nada se envía, agenda ni presenta sin autorización del abogado. Está en beta cerrada desde el 10 de noviembre en cinco mercados europeos, Bulgaria, Italia, España, Alemania y Francia, con lista de espera, y se integra en su plataforma, que conecta con más de 16 millones de fuentes jurídicas. Lexroom afirma que supera los 30 millones de euros de ingresos anuales recurrentes, 20.000 clientes y 300 profesionales, tras una serie B de 50 millones de dólares en mayo.",
+  "summary_p2": "Es un paso de la IA jurídica de la consulta al trabajo delegado, y por un canal, la mensajería, que los abogados de despachos pequeños ya usan a diario; el atractivo es dar a un abogado solo el apoyo administrativo que antes tenía una gran firma. Para esos despachos, es una herramienta a probar con cuidado en materia de confidencialidad y secreto profesional, porque implica dar acceso a correo, agenda y expedientes a un agente que opera sobre WhatsApp; para los competidores locales, eleva el listón de producto en España. Matiz: la fuente es una crónica del sector basada en datos de la empresa, el producto está en beta cerrada sin fecha de lanzamiento general y no hay datos de resultados ni detalles de seguridad.",
+  "why_sota": "Agente de IA para abogados sobre WhatsApp con aprobación humana en cada acción, ya en beta en cinco países europeos, España incluida.",
+  "why_now": "The Recursive, 10 nov 2026. NEW (frente a Lexroom y JAC del 10 de octubre).",
+  "geo": [
+    "IT",
+    "ES",
+    "DE",
+    "FR",
+    "BG"
+  ],
+  "topics": [
+    "Lexroom",
+    "lex",
+    "agente de IA",
+    "WhatsApp",
+    "beta cerrada"
+  ],
+  "sources": [
+    {
+      "source_id": "src-the-recursive",
+      "url": "https://www.therecursive.com/lexroom-launches-legal-ai-agent-two-months-after-praven-intelekt-acquisition/",
+      "cited_title": "Lexroom Launches Legal AI Agent Two Months After Praven Intelekt Acquisition",
+      "accessed": "2026-11-11"
+    }
+  ],
+  "entities": [
+    "ent-lexroom",
+    "ent-the-recursive"
+  ],
+  "lang": "es",
+  "status": "published"
+}

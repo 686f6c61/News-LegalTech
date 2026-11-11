@@ -1,0 +1,11 @@
+id: ent-global-legal-post
+name: The Global Legal Post
+type: media
+url: https://www.globallegalpost.com/
+geo:
+- GB
+- Global
+aliases: []
+notes: Medio internacional de noticias del sector jurídico, con sección de legaltech.
+  Ficha mínima.
+stub: true

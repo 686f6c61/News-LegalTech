@@ -1,0 +1,11 @@
+id: ent-clc
+name: Council for Licensed Conveyancers
+type: regulator
+url: https://www.clc-uk.org/
+geo:
+- GB
+aliases:
+- CLC
+notes: Regulador de los licensed conveyancers de Inglaterra y Gales; lanzó Project
+  2,000 Lawyers (nov 2026).
+stub: true

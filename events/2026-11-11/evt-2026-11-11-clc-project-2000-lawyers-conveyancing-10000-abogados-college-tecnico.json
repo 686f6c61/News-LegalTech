@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-11-clc-project-2000-lawyers-conveyancing-10000-abogados-college-tecnico",
+  "date": "2026-11-11",
+  "type": "other",
+  "sota_score": 6.3,
+  "ai_legaltech": false,
+  "title": "El regulador de conveyancers de Inglaterra y Gales lanza Project 2,000 Lawyers para atraer 2.000 aprendices más hasta 2030 y pide un college técnico para derecho de consumo",
+  "short_title": "El CLC busca 2.000 conveyancers más para 2030 en Inglaterra y Gales",
+  "standfirst": "Los conveyancers cualificados han bajado de 13.000 en 2021 a unos 10.000; el CLC propone vías aceleradas y un technical excellence college para conveyancing y sucesiones.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": true,
+  "topic": "Servicios jurídicos",
+  "country": "Reino Unido",
+  "piece_type": "Regulación",
+  "summary_p1": "Legal Futures informó el 11 de noviembre de 2026 de que el Council for Licensed Conveyancers (CLC), regulador de los conveyancers (profesionales de transmisiones inmobiliarias) de Inglaterra y Gales, ha lanzado Project 2,000 Lawyers, una campaña para que 2.000 aprendices más se cualifiquen con él hasta 2030. Según sus cifras, unos 10.000 abogados cualificados trabajan en conveyancing, frente a 13.000 en 2021, y 2.000 más ayudarían a reducir retrasos y operaciones fallidas y podrían apoyar hasta 400.000 transacciones inmobiliarias más al año. El CLC pide además un technical excellence college (centro técnico de excelencia) para disciplinas jurídicas de consumo, de entrada conveyancing y sucesiones, y anuncia una vía acelerada de cualificación para graduados no jurídicos, junto con otras para graduados en Derecho, paralegales, solicitors y otros perfiles. Lo vincula con la hoja de ruta del Gobierno para la compraventa de vivienda.",
+  "summary_p2": "Para los despachos de conveyancing, el mensaje es que el cuello de botella es de personas y no solo de procesos: la escasez de abogados cualificados limita la capacidad y empuja a automatizar lo que se pueda, y las reformas de compraventa de vivienda traerán nuevos requisitos de proceso y tecnología. Para los proveedores de legaltech del sector inmobiliario, es un indicio de demanda de herramientas que dejen a cada abogado supervisar más operaciones. Matiz: el artículo no menciona la IA ni propone tecnología concreta; las cifras de plantilla y el potencial de 400.000 operaciones son del regulador, que es parte interesada porque aspira a atraer más aprendices a su propia vía de cualificación.",
+  "why_sota": "Un regulador cuantifica el déficit de abogados de conveyancing, de 13.000 a 10.000 en cinco años, y propone vías de entrada nuevas.",
+  "why_now": "Legal Futures, 11 nov 2026. NEW.",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "CLC",
+    "conveyancing",
+    "cualificación",
+    "capacidad",
+    "vivienda"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/latest-news/regulator-calls-for-2000-more-conveyancing-lawyers",
+      "cited_title": "Regulator calls for 2,000 more conveyancing lawyers",
+      "accessed": "2026-11-11"
+    }
+  ],
+  "entities": [
+    "ent-clc",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

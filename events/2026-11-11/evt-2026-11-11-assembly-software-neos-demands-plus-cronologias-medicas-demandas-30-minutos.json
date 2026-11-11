@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-11-assembly-software-neos-demands-plus-cronologias-medicas-demandas-30-minutos",
+  "date": "2026-11-10",
+  "type": "product",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Assembly Software lanza Neos Demands Plus, IA que redacta cronologías médicas y cartas de reclamación dentro del gestor de casos y la estima en unos 30 minutos por reclamación",
+  "short_title": "Assembly lanza Neos Demands Plus para cronologías y reclamaciones",
+  "standfirst": "IA para despachos de daños personales que cita los registros originales, avisa de huecos de tratamiento y deja la aprobación al abogado; el ahorro estimado es del propio proveedor.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Estados Unidos",
+  "piece_type": "Producto",
+  "summary_p1": "Assembly Software anunció el 10 de noviembre de 2026 la disponibilidad general de Neos Demands Plus, IA integrada en su gestor de casos Neos que construye cronologías médicas y redacta demand letters (cartas de reclamación de indemnización) para despachos de daños personales y otros de alto volumen. Trabaja con los registros ya incluidos en el caso, actualiza la cronología cuando llegan nuevos documentos, destaca lesiones y tratamientos relevantes, avisa de huecos de tratamiento y de posibles registros que faltan, como el informe de una resonancia pedida, y redacta la reclamación a partir del historial y de las cartas anteriores del propio despacho. Cada cita abre el registro original en Neos y un abogado aprueba cada reclamación antes de salir. Según Assembly, sus pruebas beta y estimaciones sitúan la redacción y revisión en unos 30 minutos, frente a entre tres y diez horas o más a mano. Está disponible para firmas en NeosAI Platinum y los datos de los casos no se usan para entrenar modelos.",
+  "summary_p2": "Es un caso claro de IA de nicho incrustada en el sistema de gestión donde ya vive el trabajo, con una tarea muy repetitiva y medible, la reclamación previa a la negociación en lesiones. Para los despachos de daños personales, un ahorro de horas por expediente es capacidad para llevar más casos, y la trazabilidad de las citas facilita la revisión; para los proveedores de gestión de casos, la IA embebida es ya una condición del producto. Matiz: la fuente es un comunicado del proveedor publicado por LawSites, las cifras de tiempo son estimaciones de beta, y los testimonios son de firmas clientes, de modo que no hay evidencia independiente de calidad o de resultados en las negociaciones.",
+  "why_sota": "IA embebida en el gestor de casos que produce el entregable central de un despacho de daños personales con citas verificables y aprobación humana.",
+  "why_now": "LawSites (comunicado de Assembly Software), 10 nov 2026. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "Assembly Software",
+    "Neos",
+    "demand letter",
+    "cronología médica",
+    "daños personales"
+  ],
+  "sources": [
+    {
+      "source_id": "src-lawnext",
+      "url": "https://www.lawnext.com/2026/11/assembly-software-launches-neos-demands-plus-ai-that-builds-medical-chronologies-and-demand-letters-inside-neos.html",
+      "cited_title": "Assembly Software Launches Neos Demands Plus, AI That Builds Medical Chronologies and Demand Letters Inside Neos",
+      "accessed": "2026-11-11"
+    }
+  ],
+  "entities": [
+    "ent-assembly-software",
+    "ent-lawnext"
+  ],
+  "lang": "es",
+  "status": "published"
+}

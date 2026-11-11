@@ -1,0 +1,11 @@
+id: ent-aranzadi-la-ley
+name: Aranzadi LA LEY
+type: vendor
+url: https://www.aranzadilaley.es/
+geo:
+- ES
+aliases:
+- Wolters Kluwer Legal & Regulatory España
+notes: Editorial jurídica española; edita Diario LA LEY, Noticias Jurídicas y Legal
+  Today. Ficha mínima.
+stub: true

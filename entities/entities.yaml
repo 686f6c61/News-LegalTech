@@ -5677,3 +5677,90 @@ entities:
   notes: Asociación profesional de contratación y comercio; autora del informe sobre
     IA en contratos con Deloitte e Ironclad (nov 2026).
   stub: true
+- id: ent-the-recursive
+  name: The Recursive
+  type: media
+  url: https://www.therecursive.com/
+  geo:
+  - EU
+  aliases: []
+  notes: Medio de noticias sobre startups y tecnología en Europa central y del este.
+    Ficha mínima.
+  stub: true
+- id: ent-global-legal-post
+  name: The Global Legal Post
+  type: media
+  url: https://www.globallegalpost.com/
+  geo:
+  - GB
+  - Global
+  aliases: []
+  notes: Medio internacional de noticias del sector jurídico, con sección de legaltech.
+    Ficha mínima.
+  stub: true
+- id: ent-litera
+  name: Litera
+  type: vendor
+  url: https://www.litera.com/
+  geo:
+  - US
+  aliases: []
+  notes: Proveedor de legal AI y software para despachos (Litera Compare, Foundation,
+    Firm AI Search). Ficha mínima.
+  stub: true
+- id: ent-assembly-software
+  name: Assembly Software
+  type: vendor
+  url: https://www.assemblysoftware.com/
+  geo:
+  - US
+  aliases:
+  - Neos
+  notes: Proveedor de gestión de casos para despachos de daños personales; edita Neos
+    y NeosAI (nov 2026).
+  stub: true
+- id: ent-aranzadi-la-ley
+  name: Aranzadi LA LEY
+  type: vendor
+  url: https://www.aranzadilaley.es/
+  geo:
+  - ES
+  aliases:
+  - Wolters Kluwer Legal & Regulatory España
+  notes: Editorial jurídica española; edita Diario LA LEY, Noticias Jurídicas y Legal
+    Today. Ficha mínima.
+  stub: true
+- id: ent-odiseia
+  name: OdiseIA4Good
+  type: association
+  url: https://www.odiseia.org/
+  geo:
+  - ES
+  aliases:
+  - OdiseIA
+  notes: Asociación española sin ánimo de lucro, fundada en 2019, sobre ética y uso
+    responsable de la IA. Ficha mínima.
+  stub: true
+- id: ent-irb-canada
+  name: Immigration and Refugee Board of Canada
+  type: regulator
+  url: https://irb-cisr.gc.ca/
+  geo:
+  - CA
+  aliases:
+  - IRB
+  - Refugee Protection Division
+  notes: Tribunal administrativo canadiense de inmigración y refugio; su Refugee Protection
+    Division decidió el caso Horvath (nov 2026).
+  stub: true
+- id: ent-clc
+  name: Council for Licensed Conveyancers
+  type: regulator
+  url: https://www.clc-uk.org/
+  geo:
+  - GB
+  aliases:
+  - CLC
+  notes: Regulador de los licensed conveyancers de Inglaterra y Gales; lanzó Project
+    2,000 Lawyers (nov 2026).
+  stub: true

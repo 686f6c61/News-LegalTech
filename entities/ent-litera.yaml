@@ -1,0 +1,10 @@
+id: ent-litera
+name: Litera
+type: vendor
+url: https://www.litera.com/
+geo:
+- US
+aliases: []
+notes: Proveedor de legal AI y software para despachos (Litera Compare, Foundation,
+  Firm AI Search). Ficha mínima.
+stub: true

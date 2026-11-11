@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 186
+count: 188
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -2068,5 +2068,27 @@ sources:
   frequency: irregular
   why: Blog del despacho nativo de IA Crosby. Ficha añadida para citar su anuncio del seguro para agentes.
   region: US
+  lang: EN
+  tier: archive
+
+- id: src-global-legal-post
+  name: The Global Legal Post
+  url: https://www.globallegalpost.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Medio internacional de noticias del sector jurídico y legaltech. Ficha añadida para citar la alianza Harvey / Jus Mundi.
+  region: Global
+  lang: EN
+  tier: archive
+
+- id: src-the-recursive
+  name: The Recursive
+  url: https://www.therecursive.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Medio de startups y tecnología de Europa central y del este. Ficha añadida para citar el lanzamiento de lex de Lexroom.
+  region: EU
   lang: EN
   tier: archive

@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-11-11-harvey-jus-mundi-jus-ai-arbitraje-integrado-sin-coste",
+  "date": "2026-11-10",
+  "type": "product",
+  "sota_score": 7.7,
+  "ai_legaltech": true,
+  "title": "Harvey integrará Jus AI, el asistente de investigación en arbitraje de Jus Mundi, en su Assistant, Agents, Vault y Workflows sin coste adicional para clientes comunes",
+  "short_title": "Harvey integra Jus AI de Jus Mundi para arbitraje internacional",
+  "standfirst": "Los clientes de ambos podrán investigar laudos, tratados y reglamentos y contrastar un argumento con decisiones previas sin salir de Harvey, a finales de año; Jus Mundi ya hizo lo mismo con Legora en marzo.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "The Global Legal Post informó el 10 de noviembre de 2026 de que Harvey y Jus Mundi, plataforma parisina de inteligencia en arbitraje internacional, se asocian para que Jus AI, su asistente agéntico de investigación, esté disponible dentro de Harvey, en sus ofertas Assistant, Agents, Vault y Workflows. Los abogados podrán buscar laudos, tratados y reglamentos de instituciones arbitrales, poner a prueba el argumento de un cliente frente a decisiones previas y comparar la investigación con los documentos del caso guardados en Harvey Vault (almacén seguro de documentos). Los clientes comunes accederán a Jus AI en Harvey antes de que acabe el año, sin coste adicional. El medio recuerda que Jus Mundi cerró una alianza parecida con Legora en marzo y que Harvey anunció la semana pasada otra con tres editoriales jurídicas italianas.",
+  "summary_p2": "El movimiento es un ejemplo de cómo las plataformas generalistas cierran su cobertura con contenido especializado de terceros en lugar de construirlo: arbitraje internacional y disputas transfronterizas pasan a resolverse dentro de la misma interfaz donde ya viven los documentos del asunto. Para los despachos con práctica de arbitraje, reduce el cambio de herramienta y refuerza la ventaja de quien ya paga una de las dos plataformas; para Jus Mundi, estar en Harvey y en Legora lo convierte en capa de datos neutral, con el riesgo de depender de las dos. Matiz: la fuente es una crónica del sector basada en declaraciones de las dos empresas, sin cifras de uso ni detalles técnicos, y la disponibilidad es una promesa para finales de 2026.",
+  "why_sota": "Harvey y Legora ya incorporan Jus AI: el contenido arbitral especializado se vuelve un componente enchufable de las plataformas.",
+  "why_now": "The Global Legal Post, 10 nov 2026. NEW (frente a la beta privada de Jus Mundi del 28 de octubre y Jus AI 3.0 del 15 de octubre).",
+  "geo": [
+    "FR",
+    "US"
+  ],
+  "topics": [
+    "Harvey",
+    "Jus Mundi",
+    "Jus AI",
+    "arbitraje internacional",
+    "integración"
+  ],
+  "sources": [
+    {
+      "source_id": "src-global-legal-post",
+      "url": "https://www.globallegalpost.com/news/harvey-partners-with-online-arbitration-research-platform-jus-mundi-1280169880",
+      "cited_title": "Harvey partners with online arbitration research platform Jus Mundi",
+      "accessed": "2026-11-11"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-jus-mundi",
+    "ent-legora",
+    "ent-global-legal-post"
+  ],
+  "lang": "es",
+  "status": "published"
+}
