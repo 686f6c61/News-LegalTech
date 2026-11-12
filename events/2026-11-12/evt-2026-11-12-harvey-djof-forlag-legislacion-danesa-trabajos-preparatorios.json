@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-12-harvey-djof-forlag-legislacion-danesa-trabajos-preparatorios",
+  "date": "2026-11-11",
+  "type": "partnership",
+  "sota_score": 7.4,
+  "ai_legaltech": true,
+  "title": "Harvey incorporará la legislación danesa, sus decretos de desarrollo y sus trabajos preparatorios mediante una alianza con la editorial jurídica Djøf Forlag, sin coste adicional",
+  "short_title": "Harvey suma legislación danesa con Djøf Forlag",
+  "standfirst": "Los abogados con licencia de Jurabibliotek podrán investigar y redactar sobre leyes consolidadas y sus trabajos preparatorios junto a sus propios documentos, a partir del inicio de 2027.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Dinamarca",
+  "piece_type": "Mercado",
+  "summary_p1": "Harvey anunció el 11 de noviembre de 2026 una alianza con Djøf Forlag, una de las editoriales jurídicas más establecidas de Dinamarca, para llevar a su plataforma la legislación consolidada danesa, los decretos (executive orders) dictados en su desarrollo y las enmiendas y documentos preparatorios. Los abogados con licencia de la plataforma digital de Djøf, Jurabibliotek, podrán investigar y redactar con ese contenido junto a sus propios documentos, y cada respuesta citará su fuente. El contenido servirá en Assistant, Agents, Vault, Workflows y el complemento de Word, con casos de uso como leer un precepto contra la intención del legislador, pasar de una ley a los decretos que la desarrollan o redactar asesoramiento en derecho danés a partir de estas fuentes y del precedente del propio despacho. Según Harvey, estará disponible a comienzos del próximo año y sin cargo adicional.",
+  "summary_p2": "Es otro ejemplo del patrón que se repite: la plataforma generalista no escribe la biblioteca jurídica de cada país, la licencia a un editor local, y el editor gana un canal para su contenido sin construir IA propia. Para despachos daneses y para quien asesora en derecho de Dinamarca, la posibilidad de seguir de la ley a su intención legislativa dentro de la misma herramienta ahorra cambios de aplicación, y para las editoriales europeas es una señal de que tendrán que decidir con qué plataformas de IA se alían. Matiz: la fuente es el blog de Harvey, el acceso exige licencia previa de Jurabibliotek, llega a comienzos de 2027 y no se detallan condiciones comerciales ni controles de calidad sobre las respuestas.",
+  "why_sota": "Contenido legislativo nacional licenciado por un editor local pasa a ser un componente de la plataforma de IA, con citas a la fuente.",
+  "why_now": "Blog de Harvey, 11 nov 2026. NEW (frente a Jus Mundi y Addleshaw Goddard).",
+  "geo": [
+    "DK",
+    "US"
+  ],
+  "topics": [
+    "Harvey",
+    "Djøf Forlag",
+    "Jurabibliotek",
+    "legislación danesa",
+    "trabajos preparatorios"
+  ],
+  "sources": [
+    {
+      "source_id": "src-harvey",
+      "url": "https://www.harvey.ai/blog/harvey-adds-danish-legislation-and-its-preparatory-works-through-partnership-with-djof-forlag",
+      "cited_title": "Harvey Adds Danish Legislation and its Preparatory Works Through Partnership with Djøf Forlag",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-djof-forlag"
+  ],
+  "lang": "es",
+  "status": "published"
+}

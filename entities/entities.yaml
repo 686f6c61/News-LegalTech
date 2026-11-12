@@ -5764,3 +5764,108 @@ entities:
   notes: Regulador de los licensed conveyancers de Inglaterra y Gales; lanzó Project
     2,000 Lawyers (nov 2026).
   stub: true
+- id: ent-djof-forlag
+  name: Djøf Forlag
+  type: vendor
+  url: https://www.djoef-forlag.dk/
+  geo:
+  - DK
+  aliases:
+  - Jurabibliotek
+  notes: Editorial jurídica danesa; su plataforma digital Jurabibliotek aloja legislación
+    y trabajos preparatorios. Ficha mínima.
+  stub: true
+- id: ent-centro-estudios-garrigues
+  name: Centro de Estudios Garrigues
+  type: association
+  url: https://www.centrogarrigues.com/
+  geo:
+  - ES
+  aliases:
+  - CEG
+  notes: Centro académico de formación jurídica y empresarial vinculado a Garrigues;
+    tiene un CEG AI Hub. Ficha mínima.
+  stub: true
+- id: ent-todojuristas
+  name: TodoJuristas
+  type: media
+  url: https://www.todojuristas.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Medio jurídico español. Ficha mínima.
+  stub: true
+- id: ent-pr-newswire
+  name: PR Newswire
+  type: media
+  url: https://www.prnewswire.com/
+  geo:
+  - Global
+  aliases: []
+  notes: Servicio de comunicados de prensa; el contenido es del emisor. Ficha mínima.
+  stub: true
+- id: ent-claren
+  name: Claren
+  type: vendor
+  url: https://www.claren.com/
+  geo:
+  - GB
+  - US
+  aliases:
+  - Envoys
+  notes: Legaltech con sedes en Londres y California; lanzó los agentes in-house Envoys
+    (nov 2026). Ficha mínima.
+  stub: true
+- id: ent-us-district-court-delaware
+  name: U.S. District Court for the District of Delaware
+  type: court
+  url: https://www.ded.uscourts.gov/
+  geo:
+  - US
+  aliases:
+  - D. Del.
+  notes: Tribunal federal de distrito de Delaware; resolvió Gill v. Everyday Dose
+    (nov 2026). Ficha mínima.
+  stub: true
+- id: ent-administrative-court-ew
+  name: Administrative Court (Inglaterra y Gales)
+  type: court
+  url: https://www.judiciary.uk/courts-and-tribunals/higher-courts/administrative-court/
+  geo:
+  - GB
+  aliases:
+  - Administrative Court
+  notes: Sala de la High Court que conoce de la revisión judicial; publica la Judicial
+    Review Guide 2026. Ficha mínima.
+  stub: true
+- id: ent-bighand
+  name: BigHand
+  type: vendor
+  url: https://www.bighand.com/
+  geo:
+  - GB
+  - US
+  aliases: []
+  notes: Proveedor de software de gestión de recursos y productividad para despachos.
+    Ficha mínima.
+  stub: true
+- id: ent-nino-legal
+  name: Nino Legal
+  type: vendor
+  url: https://www.ninolegal.ai/
+  geo:
+  - AR
+  aliases: []
+  notes: Plataforma argentina de IA jurídica por fuero y jurisdicción. Ficha mínima.
+  stub: true
+- id: ent-infobae
+  name: Infobae
+  type: media
+  url: https://www.infobae.com/
+  geo:
+  - AR
+  - LATAM
+  aliases: []
+  notes: Medio de noticias argentino; su sección inhouse recoge contenido de empresas.
+    Ficha mínima.
+  stub: true

@@ -1,0 +1,11 @@
+id: ent-bighand
+name: BigHand
+type: vendor
+url: https://www.bighand.com/
+geo:
+- GB
+- US
+aliases: []
+notes: Proveedor de software de gestión de recursos y productividad para despachos.
+  Ficha mínima.
+stub: true

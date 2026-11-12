@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 188
+count: 191
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -2090,5 +2090,38 @@ sources:
   frequency: diario
   why: Medio de startups y tecnología de Europa central y del este. Ficha añadida para citar el lanzamiento de lex de Lexroom.
   region: EU
+  lang: EN
+  tier: archive
+
+- id: src-todojuristas
+  name: TodoJuristas
+  url: https://www.todojuristas.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Medio jurídico español. Ficha añadida para citar la alianza Centro de Estudios Garrigues y Harvey.
+  region: ES
+  lang: ES
+  tier: archive
+
+- id: src-infobae
+  name: Infobae
+  url: https://www.infobae.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Medio argentino; su sección inhouse recoge contenido de empresas. Ficha añadida para citar el informe de Nino Legal.
+  region: LATAM
+  lang: ES
+  tier: archive
+
+- id: src-us-district-court-delaware
+  name: U.S. District Court for the District of Delaware
+  url: https://www.ded.uscourts.gov/
+  type: regulator
+  kind: news
+  frequency: continuo
+  why: Tribunal federal de distrito de Delaware. Ficha añadida para citar la resolución en Gill v. Everyday Dose.
+  region: US
   lang: EN
   tier: archive

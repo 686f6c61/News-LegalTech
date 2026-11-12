@@ -1,0 +1,49 @@
+{
+  "id": "evt-2026-11-12-legal-business-thomson-reuters-gc-legal-tech-pulse-82-ia-generativa",
+  "date": "2026-11-11",
+  "type": "research",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "El General Counsel Legal Tech Pulse 2026 de Legal Business y Thomson Reuters halla que el 82% de más de 250 directores jurídicos europeos ya implanta IA generativa y que cerca del 60% la considera fiable",
+  "short_title": "Legal Business: el 82% de los GC europeos implanta IA generativa",
+  "standfirst": "La confianza sube del 40% al 60% en un año; informe patrocinado por Thomson Reuters, cuyos directivos aparecen citados en la pieza.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "Legal Business publicó el 11 de noviembre de 2026 el General Counsel Legal Tech Pulse 2026, elaborado con Thomson Reuters a partir de las respuestas de más de 250 directores jurídicos de Reino Unido, Irlanda, Francia, España, Italia, Alemania, países nórdicos, Benelux, Suiza y Austria. El 82% dice que ya implanta soluciones de IA generativa en su equipo; cerca del 60% considera la IA un recurso fiable \"completamente\" o \"mucho\", frente al 40% del año anterior, y solo el 14% no está de acuerdo, frente al 31%. Casi el 80% prioriza ganar eficiencia sin ampliar plantilla y solo el 5% quiere reducir su equipo. Los testimonios son llamativos: el jefe jurídico de INWIT dice que \"ahora preguntamos primero a la IA\" y que en el 90% de los casos le basta, y el de Allegro afirma que han eliminado el abogado externo en litigios menores, con primeros borradores de escritos que hay que verificar.",
+  "summary_p2": "La lectura es que la IA se está convirtiendo en la primera parada del in-house, y eso presiona al trabajo rutinario que hoy se subcontrata a despachos, aunque los propios directores insisten en que no sustituye la pericia humana. Para los despachos, es una señal para revisar qué trabajo menor siguen cobrando; para los vendors, de que la confianza ya no es la barrera principal, sino la integración y los presupuestos. Matiz: el informe lo hace Legal Business en colaboración con Thomson Reuters, que vende CoCounsel y aparece en los testimonios; es una encuesta de percepción sobre una muestra concreta de GC, no una medición del uso real, y el informe completo no se ha revisado aquí.",
+  "why_sota": "Dato europeo de adopción y confianza en IA generativa entre directores jurídicos, con el salto del 40% al 60% de fiabilidad percibida.",
+  "why_now": "Legal Business, 11 nov 2026. NEW.",
+  "geo": [
+    "GB",
+    "ES",
+    "DE",
+    "FR",
+    "IT"
+  ],
+  "topics": [
+    "directores jurídicos",
+    "IA generativa",
+    "encuesta",
+    "confianza",
+    "in-house"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-business",
+      "url": "https://www.legalbusiness.co.uk/in-house/we-now-ask-the-ai-first-exclusive-new-research-reveals-how-ai-is-transforming-in-house-legal/",
+      "cited_title": "'We now ask the AI first' - exclusive new research reveals how AI is transforming in-house legal",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-legal-business",
+    "ent-thomson-reuters"
+  ],
+  "lang": "es",
+  "status": "published"
+}

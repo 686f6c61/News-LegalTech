@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-12-bighand-law-firm-talent-resourcing-report-2026-ia-coste-entrega",
+  "date": "2026-11-11",
+  "type": "research",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "El informe de BigHand sobre talento y recursos 2026 halla que el 99% de los despachos cambia su plantilla por la IA pero solo el 22% considera la rentabilidad del asunto al asignar trabajo",
+  "short_title": "BigHand: los despachos rehacen equipos por la IA sin medir el coste",
+  "standfirst": "El 46% de los despachos dice que los clientes preguntan por qué no bajan las tarifas pese a la IA; encuesta de un proveedor de gestión de recursos a más de 800 líderes del Reino Unido y Norteamérica.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "BigHand, proveedor de software de gestión de recursos para despachos, publicó el 11 de noviembre de 2026 su Law Firm Talent and Resourcing Report 2026, con una encuesta a más de 800 líderes de despachos del Reino Unido y Norteamérica, recogida por Legal Futures. El 99% dice que la IA ya cambia sus prioridades de contratación y la composición de los equipos, pero solo el 22% considera explícitamente la rentabilidad del asunto al asignar trabajo y el 13% se centra en mejorar el apalancamiento de los abogados. El 46% afirma que clientes han preguntado por qué las tarifas no han bajado a pesar del uso de IA, el 42% ha recibido peticiones de honorarios alternativos ligados a la eficiencia de la IA y solo el 1% dice que los clientes no han planteado el impacto de la IA en precio o servicio. Solo el 23% vigila la rentabilidad por asunto en la dirección, el 37% reparte el trabajo sobre todo por preferencia del socio y dos tercios no tienen un proceso formal para evitar la infrautilización.",
+  "summary_p2": "El dato importante es la brecha entre rediseñar equipos por la IA y saber qué cuesta entregar cada asunto, justo cuando los clientes empiezan a pedir que la eficiencia se vea en la factura. Para los despachos, implica preparar un plan de dotación antes de aceptar el encargo y datos de rentabilidad con los que negociar honorarios alternativos; para los vendors de gestión, es el argumento comercial que el propio informe sustenta. Matiz: es una encuesta de un proveedor que vende gestión de recursos y cita a un cliente suyo (DLA Piper), reproducida como contenido de asociado de Legal Futures, y refleja percepciones declaradas en despachos de Reino Unido y Norteamérica.",
+  "why_sota": "Datos de presión de clientes sobre tarifas por la IA y de la falta de medición de rentabilidad en los despachos.",
+  "why_now": "Legal Futures (contenido de BigHand), 11 nov 2026. NEW.",
+  "geo": [
+    "GB",
+    "US"
+  ],
+  "topics": [
+    "BigHand",
+    "rentabilidad",
+    "honorarios",
+    "dotación de equipos",
+    "IA"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/associate-news/bighand-report-finds-law-firms-restructuring-for-ai-without-managing-the-cost-of-delivery",
+      "cited_title": "BigHand Report finds law firms restructuring for AI without managing the cost of delivery",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-bighand",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

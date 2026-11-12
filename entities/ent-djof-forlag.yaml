@@ -1,0 +1,11 @@
+id: ent-djof-forlag
+name: Djøf Forlag
+type: vendor
+url: https://www.djoef-forlag.dk/
+geo:
+- DK
+aliases:
+- Jurabibliotek
+notes: Editorial jurídica danesa; su plataforma digital Jurabibliotek aloja legislación
+  y trabajos preparatorios. Ficha mínima.
+stub: true

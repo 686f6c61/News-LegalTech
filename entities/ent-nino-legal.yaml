@@ -1,0 +1,9 @@
+id: ent-nino-legal
+name: Nino Legal
+type: vendor
+url: https://www.ninolegal.ai/
+geo:
+- AR
+aliases: []
+notes: Plataforma argentina de IA jurídica por fuero y jurisdicción. Ficha mínima.
+stub: true

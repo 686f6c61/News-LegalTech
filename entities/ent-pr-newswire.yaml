@@ -1,0 +1,9 @@
+id: ent-pr-newswire
+name: PR Newswire
+type: media
+url: https://www.prnewswire.com/
+geo:
+- Global
+aliases: []
+notes: Servicio de comunicados de prensa; el contenido es del emisor. Ficha mínima.
+stub: true

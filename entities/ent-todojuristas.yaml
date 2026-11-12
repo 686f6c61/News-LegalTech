@@ -1,0 +1,9 @@
+id: ent-todojuristas
+name: TodoJuristas
+type: media
+url: https://www.todojuristas.com/
+geo:
+- ES
+aliases: []
+notes: Medio jurídico español. Ficha mínima.
+stub: true

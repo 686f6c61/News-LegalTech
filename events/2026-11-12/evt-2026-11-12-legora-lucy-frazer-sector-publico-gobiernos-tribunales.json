@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-12-legora-lucy-frazer-sector-publico-gobiernos-tribunales",
+  "date": "2026-11-11",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Legora pone a la ex Solicitor General Lucy Frazer KC al frente de su estrategia con el sector público, de gobiernos, reguladores y tribunales",
+  "short_title": "Legora ficha a Lucy Frazer para vender IA al sector público",
+  "standfirst": "La antigua ministra, asesora de la compañía desde julio, dirigirá a tiempo parcial las alianzas con administraciones, empezando por Reino Unido y EMEA; Artificial Lawyer lo recibe con ironía.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Reino Unido",
+  "piece_type": "Mercado",
+  "summary_p1": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Legora quiere ganar ingresos entre gobiernos y organismos públicos, con Lucy Frazer KC, antigua ministra del Gabinete británico y dos veces Solicitor General, al frente. Frazer, asesora de la compañía desde julio, ampliará su papel a tiempo parcial, trabajando la mayor parte de la semana en la oficina de Londres, para construir alianzas con gobiernos y agencias públicas en todo el mundo: equipos jurídicos de la administración, reguladores, entidades locales y tribunales. Legora cita como motivo la presión sobre los tribunales ingleses, con un atasco en el Crown Court de 80.829 casos a finales de junio de 2026, más del doble que antes de la pandemia, y la afirmación de que las herramientas de IA generales aumentan la carga de los tribunales al facilitar presentar reclamaciones. Artificial Lawyer añade que Clio también apunta a los tribunales como área de crecimiento.",
+  "summary_p2": "El movimiento muestra que la competencia entre plataformas de IA jurídica se traslada de los grandes despachos a la administración y la justicia, donde las compras son grandes, lentas y exigen confianza, auditabilidad y seguridad. Para vendors, fichar a una figura política es una forma de acceso y credibilidad ante comprador público; para administraciones y tribunales, abre la pregunta de qué estándares de verificación y supervisión humana exigirán a estas herramientas. Matiz: la fuente es una pieza de opinión con tono crítico basada en lo que Legora declaró a Artificial Lawyer, el papel es a tiempo parcial, y no se anuncian contratos públicos concretos.",
+  "why_sota": "Legora abre una línea de negocio con gobiernos, reguladores y tribunales, liderada por una ex Solicitor General.",
+  "why_now": "Artificial Lawyer, 11 nov 2026. NEW (frente al perfil de Legora del 10 de noviembre en la alianza con Blue J).",
+  "geo": [
+    "GB",
+    "Global"
+  ],
+  "topics": [
+    "Legora",
+    "Lucy Frazer",
+    "sector público",
+    "tribunales",
+    "administración"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister/",
+      "cited_title": "Legora Targets Public Sector With Ex-Minister",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-legora",
+    "ent-clio",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

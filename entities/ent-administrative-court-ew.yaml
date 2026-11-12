@@ -1,0 +1,11 @@
+id: ent-administrative-court-ew
+name: Administrative Court (Inglaterra y Gales)
+type: court
+url: https://www.judiciary.uk/courts-and-tribunals/higher-courts/administrative-court/
+geo:
+- GB
+aliases:
+- Administrative Court
+notes: Sala de la High Court que conoce de la revisión judicial; publica la Judicial
+  Review Guide 2026. Ficha mínima.
+stub: true

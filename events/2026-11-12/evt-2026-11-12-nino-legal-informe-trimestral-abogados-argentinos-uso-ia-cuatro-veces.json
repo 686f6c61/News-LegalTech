@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-12-nino-legal-informe-trimestral-abogados-argentinos-uso-ia-cuatro-veces",
+  "date": "2026-11-12",
+  "type": "research",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Nino Legal informa de que el tiempo mensual de los abogados argentinos con IA casi se cuadruplicó entre febrero y septiembre de 2026, de 1 hora y 1 minuto a 3 horas y 55 minutos",
+  "short_title": "Nino Legal: el uso de IA de los abogados argentinos se cuadruplica",
+  "standfirst": "Datos de la propia plataforma, con más de 8.100 profesionales y 163.000 consultas; el 67% busca jurisprudencia y el 62% sube archivos, y la empresa advierte de que no se extrapola a toda la abogacía.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Argentina",
+  "piece_type": "Análisis",
+  "summary_p1": "Infobae informó el 12 de noviembre de 2026 del informe trimestral de Nino Legal, plataforma argentina de IA jurídica, sobre la actividad de sus propios usuarios entre julio y septiembre. El tiempo mensual de uso por abogado pasó de 1 hora y 1 minuto en febrero a 3 horas y 55 minutos en septiembre; desde abril, los usuarios activos se multiplicaron por 3,1 y las consultas por 5,4. La plataforma suma más de 8.100 profesionales y más de 163.000 consultas sobre una base de más de 827.000 fallos oficiales y 34.500 normas. En septiembre cada usuario activo hizo de media 21 consultas por semana; el 67% buscó jurisprudencia con IA, cerca del 60% de las consultas fue a asistentes especializados por fuero, el 62% subió archivos (demandas, contratos, sentencias o escritos de la contraparte) y el 31% usó herramientas auxiliares, sobre todo de revisión, como corrección de redacción (35%) y revisión lógica de argumentos (27%).",
+  "summary_p2": "Lo interesante es que el crecimiento no se debe solo a más usuarios sino a más uso por persona, y que se desplaza de la búsqueda al análisis del expediente, la redacción y la revisión, con asistentes que aplican la normativa de un fuero y una jurisdicción determinados, relevante en un país con códigos procesales distintos por provincia. Para vendors latinoamericanos, sugiere que la ventaja está en la especialización jurisdiccional; para despachos, en que la IA ya funciona como \"segunda lectura\" antes de presentar un escrito. Matiz: son datos agregados de usuarios de una empresa que vende el producto, la propia Nino Legal dice que no se extrapolan a toda la abogacía argentina, y el informe completo no se ha revisado aquí.",
+  "why_sota": "Serie trimestral de uso real de una plataforma de IA jurídica en Argentina: tiempo, consultas, jurisprudencia y archivos.",
+  "why_now": "Infobae, 12 nov 2026. NEW.",
+  "geo": [
+    "AR"
+  ],
+  "topics": [
+    "Nino Legal",
+    "Argentina",
+    "uso de IA",
+    "jurisprudencia",
+    "informe trimestral"
+  ],
+  "sources": [
+    {
+      "source_id": "src-infobae",
+      "url": "https://www.infobae.com/inhouse/2026/11/12/el-uso-de-inteligencia-artificial-entre-los-abogados-argentinos-crecio-casi-cuatro-veces-en-siete-meses-segun-un-estudio/",
+      "cited_title": "El uso de inteligencia artificial entre los abogados argentinos creció casi cuatro veces en siete meses, según un estudio",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-nino-legal",
+    "ent-infobae"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-12-centro-estudios-garrigues-harvey-alianza-aulas-ceg-ai-hub",
+  "date": "2026-11-11",
+  "type": "partnership",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "El Centro de Estudios Garrigues y Harvey se alían para dar acceso a la plataforma a alumnos y profesores y ofrecer Harvey Academy en el nuevo CEG AI Hub",
+  "short_title": "El Centro de Estudios Garrigues da Harvey a alumnos y profesores",
+  "standfirst": "El centro se suma a las más de 100 alianzas de Harvey con facultades de Derecho y lo presenta como uno de sus early AI adopters; Harvey Academy estará en el CEG AI Hub.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Formación",
+  "country": "España",
+  "piece_type": "Mercado",
+  "summary_p1": "TodoJuristas informó el 11 de noviembre de 2026 de un acuerdo de colaboración entre el Centro de Estudios Garrigues y Harvey para incorporar la IA jurídica a la formación de alumnos y profesores. El centro pasa a formar parte de las instituciones académicas con las que trabaja Harvey, dentro de las 100 alianzas con facultades de Derecho que la compañía ha anunciado recientemente en el mundo, y se incorpora como uno de sus early AI adopters. Alumnos y profesores tendrán acceso a la plataforma, y Harvey Academy, su plataforma de formación en IA jurídica, estará disponible a través del CEG AI Hub, el nuevo espacio del centro dedicado a la IA y los recursos tecnológicos aplicados a la enseñanza. Omar Puertas, Legal Innovation Partner de Harvey, y Mercedes de Prada, directora general del centro, subrayan la idea de usarla \"con criterio\" y mantener el criterio jurídico sobre los resultados.",
+  "summary_p2": "La noticia importa porque desplaza la competencia por el abogado joven a la universidad: quien aprende con una herramienta durante el máster tiende a llevársela al despacho, y las plataformas lo saben. Para los despachos españoles que reclutan de estos programas, supone que los nuevos profesionales llegarán con experiencia previa en agentes y flujos de trabajo, y para otras escuelas de práctica jurídica, la presión de ofrecer algo equivalente. Matiz: la fuente es una nota de la propia institución recogida por un medio jurídico, no se informa de condiciones, número de licencias ni de resultados docentes, y el acuerdo es con un solo proveedor.",
+  "why_sota": "La formación jurídica se convierte en canal de adopción de plataformas de IA: Harvey entra en un centro de formación español de referencia.",
+  "why_now": "TodoJuristas, 11 nov 2026. NEW.",
+  "geo": [
+    "ES",
+    "US"
+  ],
+  "topics": [
+    "Harvey",
+    "Centro de Estudios Garrigues",
+    "Harvey Academy",
+    "CEG AI Hub",
+    "formación jurídica"
+  ],
+  "sources": [
+    {
+      "source_id": "src-todojuristas",
+      "url": "https://www.todojuristas.com/el-centro-de-estudios-garrigues-y-harvey-se-alian-para-acercar-la-inteligencia-artificial-juridica-a-las-aulas/",
+      "cited_title": "El Centro de Estudios Garrigues y Harvey se alían para acercar la inteligencia artificial jurídica a las aulas",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-centro-estudios-garrigues",
+    "ent-todojuristas"
+  ],
+  "lang": "es",
+  "status": "published"
+}

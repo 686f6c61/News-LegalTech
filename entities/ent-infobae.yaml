@@ -1,0 +1,11 @@
+id: ent-infobae
+name: Infobae
+type: media
+url: https://www.infobae.com/
+geo:
+- AR
+- LATAM
+aliases: []
+notes: Medio de noticias argentino; su sección inhouse recoge contenido de empresas.
+  Ficha mínima.
+stub: true

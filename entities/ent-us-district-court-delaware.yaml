@@ -1,0 +1,11 @@
+id: ent-us-district-court-delaware
+name: U.S. District Court for the District of Delaware
+type: court
+url: https://www.ded.uscourts.gov/
+geo:
+- US
+aliases:
+- D. Del.
+notes: Tribunal federal de distrito de Delaware; resolvió Gill v. Everyday Dose (nov
+  2026). Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-centro-estudios-garrigues
+name: Centro de Estudios Garrigues
+type: association
+url: https://www.centrogarrigues.com/
+geo:
+- ES
+aliases:
+- CEG
+notes: Centro académico de formación jurídica y empresarial vinculado a Garrigues;
+  tiene un CEG AI Hub. Ficha mínima.
+stub: true

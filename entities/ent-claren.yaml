@@ -1,0 +1,12 @@
+id: ent-claren
+name: Claren
+type: vendor
+url: https://www.claren.com/
+geo:
+- GB
+- US
+aliases:
+- Envoys
+notes: Legaltech con sedes en Londres y California; lanzó los agentes in-house Envoys
+  (nov 2026). Ficha mínima.
+stub: true

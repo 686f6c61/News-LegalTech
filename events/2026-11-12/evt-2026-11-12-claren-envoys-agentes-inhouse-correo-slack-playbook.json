@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-12-claren-envoys-agentes-inhouse-correo-slack-playbook",
+  "date": "2026-11-11",
+  "type": "product",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Claren lanza Envoys, agentes in-house siempre activos que absorben tareas desde el correo o Slack, las contrastan con el playbook y escalan a los abogados cuando hace falta",
+  "short_title": "Claren lanza Envoys, agentes in-house que trabajan desde Slack",
+  "standfirst": "Revisan un contrato pedido por un comercial, lo redactan en redline y preparan la respuesta; la compañía dice que se usa en más de 35 países y ha revisado más de 100.000 contratos.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "",
+  "piece_type": "Producto",
+  "summary_p1": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Claren, legaltech con sedes en Londres y California, ha lanzado Envoys, agentes siempre activos que absorben tareas in-house desde el correo o Slack, ejecutan el asunto contra el playbook correspondiente y escalan a los abogados cuando es necesario. Según la compañía, cada Envoy tiene su propio ordenador, su propia memoria y una función, desde revisión y redline de contratos hasta intake, investigación, privacidad y due diligence. El ejemplo es el de un comercial que pregunta por Slack, a última hora, si puede firmar un contrato: el Envoy lo revisa contra el playbook, lo marca y redacta la respuesta, y una tarea completada puede convertirse en una rutina que se aplica a cada contrato de venta o renovación. Los equipos legales mantienen el control y cada Envoy solo ve lo que ve su equipo. Claren dice que lo usan abogados in-house en más de 35 países y que ha revisado más de 100.000 contratos.",
+  "summary_p2": "La idea relevante es que el cuello de botella in-house no es el trabajo jurídico sino lo que lo rodea, las peticiones dispersas por canales de mensajería, y el agente ataca esa entrada en lugar de ofrecer otro chat. Para los departamentos jurídicos de empresa, supone repensar la puerta de entrada de las consultas del negocio y, sobre todo, decidir quién define y mantiene el playbook; para los vendors de revisión de contratos, otra entrada a un mercado donde varios construyen lo mismo. Matiz: las cifras y el funcionamiento son declaraciones de la empresa, Artificial Lawyer reconoce que otros proveedores desarrollan enfoques similares y no hay datos de precisión, precio ni detalles de seguridad.",
+  "why_sota": "Agentes in-house que viven en Slack y correo, aplican el playbook y se convierten en rutinas recurrentes.",
+  "why_now": "Artificial Lawyer, 11 nov 2026. NEW (frente a los agentes de Lexroom del 10 de noviembre).",
+  "geo": [
+    "GB",
+    "US"
+  ],
+  "topics": [
+    "Claren",
+    "Envoys",
+    "agentes in-house",
+    "playbook",
+    "Slack"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
+      "cited_title": "Claren Launches 'Envoys' Inhouse Agents",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-claren",
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

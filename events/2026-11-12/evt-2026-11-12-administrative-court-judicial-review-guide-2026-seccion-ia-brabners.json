@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-12-administrative-court-judicial-review-guide-2026-seccion-ia-brabners",
+  "date": "2026-11-11",
+  "type": "regulation",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "La Administrative Court de Inglaterra y Gales incluye por primera vez una sección sobre el uso de IA en su Judicial Review Guide 2026, con sanciones que llegan a la remisión a la policía",
+  "short_title": "La Administrative Court añade sección de IA a su guía de 2026",
+  "standfirst": "El apartado 2.3 exige cuidado razonable al citar autoridades y advierte de costas, rechazo del escrito, remisión al regulador, desacato y remisión a la policía; el análisis es de un despacho.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Regulación",
+  "country": "Reino Unido",
+  "piece_type": "Orientación",
+  "summary_p1": "Legal Futures publicó el 11 de noviembre de 2026 un análisis del despacho Brabners sobre la Judicial Review Guide 2026 de la Administrative Court de Inglaterra y Gales, que sustituye a la de 2025 y debe ser seguida por todos los usuarios del tribunal, incluidos los litigantes sin abogado. Por primera vez incluye una sección específica sobre IA: el apartado 2.3 advierte de que los chatbots de IA son propensos a errores y exige cuidado razonable, en particular al citar autoridades y exponer principios jurídicos o hechos. El 2.3.2 enumera las consecuencias posibles del incumplimiento: sanciones en costas, rechazo del escrito, remisión a un regulador, procedimiento por desacato y remisión a la policía. El texto llega después de la position statement de la judicatura sobre el uso de IA por los jueces y de la nota práctica de 58 páginas de la Law Society para los solicitors, y se acompaña de una Practice Statement sobre solicitudes urgentes y de límites de páginas, como 40 para el Statement of Facts and Grounds.",
+  "summary_p2": "El valor es que un tribunal especializado fija por escrito, y con una lista de sanciones, lo que espera de quien usa IA ante él, en un ámbito donde se han producido citas inventadas. Para litigantes y despachos que llevan revisión judicial, la consecuencia práctica es documentar la verificación de cada autoridad y respetar los límites de extensión y de urgencia (el formulario N463 decide por sí solo la urgencia). Matiz: es una guía de procedimiento, no una norma de rango legal; el análisis procede de un despacho que ofrece sus servicios en el mismo texto y conviene leer el apartado original de la guía antes de aplicarlo.",
+  "why_sota": "Un tribunal inglés especializado incorpora una sección propia sobre IA en su guía, con una lista de consecuencias por incumplir.",
+  "why_now": "Legal Futures (contenido de Brabners), 11 nov 2026. NEW (frente a la declaración del CJC y la position statement judicial).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "Administrative Court",
+    "revisión judicial",
+    "guía",
+    "uso de IA",
+    "sanciones"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legal-futures",
+      "url": "https://www.legalfutures.co.uk/associate-news/new-judicial-review-guidance-explained-ai-use-urgent-applications",
+      "cited_title": "New judicial review guidance explained - AI use & urgent applications",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-administrative-court-ew",
+    "ent-courts-tribunals-judiciary",
+    "ent-law-society",
+    "ent-legal-futures"
+  ],
+  "lang": "es",
+  "status": "published"
+}

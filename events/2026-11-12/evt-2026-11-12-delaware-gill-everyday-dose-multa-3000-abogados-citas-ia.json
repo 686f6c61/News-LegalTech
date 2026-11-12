@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-12-delaware-gill-everyday-dose-multa-3000-abogados-citas-ia",
+  "date": "2026-11-09",
+  "type": "incident",
+  "sota_score": 7.3,
+  "ai_legaltech": true,
+  "title": "Un juez federal de Delaware multa con 3.000 dólares a cada uno a dos abogados por un escrito con dos casos inexistentes y citas inventadas en Gill v. Everyday Dose y halla infracción de la Regla 11 en el abogado local",
+  "short_title": "Delaware multa a dos abogados por citas de IA inventadas",
+  "standfirst": "La resolución dice que usar IA no es sancionable por sí mismo, sino presentar su resultado sin supervisión; al abogado local, que no sabía que se había usado IA, no le impone sanción.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Jurisprudencia",
+  "country": "Estados Unidos",
+  "piece_type": "Incidente",
+  "summary_p1": "Un magistrate judge (juez federal de instancia) de Delaware impuso el 9 de noviembre de 2026 una multa de 3.000 dólares a cada uno de los abogados Charles Slamowitz y Zack G. Sharpe IV por un escrito de contestación en Gill v. Everyday Dose que citaba dos casos inexistentes y atribuía citas inventadas a cinco resoluciones reales, según la resolución del tribunal y el resumen de LexCircuit. El tribunal sostiene que usar IA no es sancionable por sí mismo, pero presentar su resultado sin supervisión adecuada infringe la Regla 11. También halló que el abogado local, Joseph S. Naylor, que firmó y presentó el escrito, la infringió, pero no le sancionó por su testimonio creíble, su arrepentimiento y las medidas correctivas: recibió el escrito la mañana del vencimiento, no se le dijo que se había usado IA y después redactó una política de IA para su despacho. Los dos multados deberán adjuntar la resolución a cualquier solicitud futura de admisión pro hac vice en el distrito, se notificará a las autoridades colegiales y el tribunal certificó hechos para un procedimiento por desacato contra Sharpe, que no acudió a la vista.",
+  "summary_p2": "La lectura útil es la de reparto de responsabilidad: el tribunal no sanciona la herramienta, sino la ausencia de verificación y la falta de franqueza posterior, y hace responsable también a quien firma un escrito que otros redactaron. Para despachos con abogados locales o equipos distribuidos, la lección es exigir que se declare el uso de IA en cada borrador y verificar cada cita antes de firmar; para los vendors de verificación de citas, es otro caso que ilustra la demanda. Matiz: es un tribunal federal de primera instancia que aplica la Regla 11 a hechos concretos, no una norma general; el relato se apoya en la resolución y en un resumen secundario, y no se menciona qué herramienta de IA se usó.",
+  "why_sota": "Sanción por citas de IA que distingue entre uso de IA (no sancionable) y falta de supervisión, y alcanza al abogado local que firma.",
+  "why_now": "Resolución del 9 nov 2026 y resumen de LexCircuit del 11 de noviembre. NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "alucinaciones",
+    "Regla 11",
+    "sanciones",
+    "Delaware",
+    "abogado local"
+  ],
+  "sources": [
+    {
+      "source_id": "src-us-district-court-delaware",
+      "url": "https://www.ded.uscourts.gov/sites/ded/files/opinions/24-1359_2.pdf",
+      "cited_title": "Memorandum Order, Gill v. Everyday Dose (D. Del.)",
+      "accessed": "2026-11-12"
+    }
+  ],
+  "entities": [
+    "ent-us-district-court-delaware"
+  ],
+  "lang": "es",
+  "status": "published"
+}

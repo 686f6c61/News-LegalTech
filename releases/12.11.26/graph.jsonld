@@ -1,0 +1,691 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/12.11.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 12.11.26",
+      "schema:version": "12.11.26",
+      "schema:datePublished": "2026-11-12",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-11-12, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/12.11.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-harvey-djof-forlag-legislacion-danesa-trabajos-preparatorios"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-centro-estudios-garrigues-harvey-alianza-aulas-ceg-ai-hub"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-lawvu-servidor-mcp-claude-copilot-chatgpt-harvey-legora-legalos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-claren-envoys-agentes-inhouse-correo-slack-playbook"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-legora-lucy-frazer-sector-publico-gobiernos-tribunales"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-delaware-gill-everyday-dose-multa-3000-abogados-citas-ia"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-administrative-court-judicial-review-guide-2026-seccion-ia-brabners"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-legal-business-thomson-reuters-gc-legal-tech-pulse-82-ia-generativa"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-bighand-law-firm-talent-resourcing-report-2026-ia-coste-entrega"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-nino-legal-informe-trimestral-abogados-argentinos-uso-ia-cuatro-veces"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-harvey-djof-forlag-legislacion-danesa-trabajos-preparatorios",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-harvey-djof-forlag-legislacion-danesa-trabajos-preparatorios",
+      "schema:headline": "Harvey incorporará la legislación danesa, sus decretos de desarrollo y sus trabajos preparatorios mediante una alianza con la editorial jurídica Djøf Forlag, sin coste adicional",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Harvey anunció el 11 de noviembre de 2026 una alianza con Djøf Forlag, una de las editoriales jurídicas más establecidas de Dinamarca, para llevar a su plataforma la legislación consolidada danesa, los decretos (executive orders) dictados en su desarrollo y las enmiendas y documentos preparatorios. Los abogados con licencia de la plataforma digital de Djøf, Jurabibliotek, podrán investigar y redactar con ese contenido junto a sus propios documentos, y cada respuesta citará su fuente. El contenido servirá en Assistant, Agents, Vault, Workflows y el complemento de Word, con casos de uso como leer un precepto contra la intención del legislador, pasar de una ley a los decretos que la desarrollan o redactar asesoramiento en derecho danés a partir de estas fuentes y del precedente del propio despacho. Según Harvey, estará disponible a comienzos del próximo año y sin cargo adicional.",
+      "schema:articleBody": "Harvey anunció el 11 de noviembre de 2026 una alianza con Djøf Forlag, una de las editoriales jurídicas más establecidas de Dinamarca, para llevar a su plataforma la legislación consolidada danesa, los decretos (executive orders) dictados en su desarrollo y las enmiendas y documentos preparatorios. Los abogados con licencia de la plataforma digital de Djøf, Jurabibliotek, podrán investigar y redactar con ese contenido junto a sus propios documentos, y cada respuesta citará su fuente. El contenido servirá en Assistant, Agents, Vault, Workflows y el complemento de Word, con casos de uso como leer un precepto contra la intención del legislador, pasar de una ley a los decretos que la desarrollan o redactar asesoramiento en derecho danés a partir de estas fuentes y del precedente del propio despacho. Según Harvey, estará disponible a comienzos del próximo año y sin cargo adicional.\n\nEs otro ejemplo del patrón que se repite: la plataforma generalista no escribe la biblioteca jurídica de cada país, la licencia a un editor local, y el editor gana un canal para su contenido sin construir IA propia. Para despachos daneses y para quien asesora en derecho de Dinamarca, la posibilidad de seguir de la ley a su intención legislativa dentro de la misma herramienta ahorra cambios de aplicación, y para las editoriales europeas es una señal de que tendrán que decidir con qué plataformas de IA se alían. Matiz: la fuente es el blog de Harvey, el acceso exige licencia previa de Jurabibliotek, llega a comienzos de 2027 y no se detallan condiciones comerciales ni controles de calidad sobre las respuestas.",
+      "sota:type": "partnership",
+      "sota:sotaScore": 7.4,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Contenido legislativo nacional licenciado por un editor local pasa a ser un componente de la plataforma de IA, con citas a la fuente.",
+      "sota:whyNow": "Blog de Harvey, 11 nov 2026. NEW (frente a Jus Mundi y Addleshaw Goddard).",
+      "sota:geo": [
+        "DK",
+        "US"
+      ],
+      "sota:topics": [
+        "Harvey",
+        "Djøf Forlag",
+        "Jurabibliotek",
+        "legislación danesa",
+        "trabajos preparatorios"
+      ],
+      "sota:summaryP1": "Harvey anunció el 11 de noviembre de 2026 una alianza con Djøf Forlag, una de las editoriales jurídicas más establecidas de Dinamarca, para llevar a su plataforma la legislación consolidada danesa, los decretos (executive orders) dictados en su desarrollo y las enmiendas y documentos preparatorios. Los abogados con licencia de la plataforma digital de Djøf, Jurabibliotek, podrán investigar y redactar con ese contenido junto a sus propios documentos, y cada respuesta citará su fuente. El contenido servirá en Assistant, Agents, Vault, Workflows y el complemento de Word, con casos de uso como leer un precepto contra la intención del legislador, pasar de una ley a los decretos que la desarrollan o redactar asesoramiento en derecho danés a partir de estas fuentes y del precedente del propio despacho. Según Harvey, estará disponible a comienzos del próximo año y sin cargo adicional.",
+      "sota:summaryP2": "Es otro ejemplo del patrón que se repite: la plataforma generalista no escribe la biblioteca jurídica de cada país, la licencia a un editor local, y el editor gana un canal para su contenido sin construir IA propia. Para despachos daneses y para quien asesora en derecho de Dinamarca, la posibilidad de seguir de la ley a su intención legislativa dentro de la misma herramienta ahorra cambios de aplicación, y para las editoriales europeas es una señal de que tendrán que decidir con qué plataformas de IA se alían. Matiz: la fuente es el blog de Harvey, el acceso exige licencia previa de Jurabibliotek, llega a comienzos de 2027 y no se detallan condiciones comerciales ni controles de calidad sobre las respuestas.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.harvey.ai/blog/harvey-adds-danish-legislation-and-its-preparatory-works-through-partnership-with-djof-forlag",
+          "schema:name": "Harvey Adds Danish Legislation and its Preparatory Works Through Partnership with Djøf Forlag",
+          "sota:sourceId": "src-harvey"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-djof-forlag"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-centro-estudios-garrigues-harvey-alianza-aulas-ceg-ai-hub",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-centro-estudios-garrigues-harvey-alianza-aulas-ceg-ai-hub",
+      "schema:headline": "El Centro de Estudios Garrigues y Harvey se alían para dar acceso a la plataforma a alumnos y profesores y ofrecer Harvey Academy en el nuevo CEG AI Hub",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "TodoJuristas informó el 11 de noviembre de 2026 de un acuerdo de colaboración entre el Centro de Estudios Garrigues y Harvey para incorporar la IA jurídica a la formación de alumnos y profesores. El centro pasa a formar parte de las instituciones académicas con las que trabaja Harvey, dentro de las 100 alianzas con facultades de Derecho que la compañía ha anunciado recientemente en el mundo, y se incorpora como uno de sus early AI adopters. Alumnos y profesores tendrán acceso a la plataforma, y Harvey Academy, su plataforma de formación en IA jurídica, estará disponible a través del CEG AI Hub, el nuevo espacio del centro dedicado a la IA y los recursos tecnológicos aplicados a la enseñanza. Omar Puertas, Legal Innovation Partner de Harvey, y Mercedes de Prada, directora general del centro, subrayan la idea de usarla \"con criterio\" y mantener el criterio jurídico sobre los resultados.",
+      "schema:articleBody": "TodoJuristas informó el 11 de noviembre de 2026 de un acuerdo de colaboración entre el Centro de Estudios Garrigues y Harvey para incorporar la IA jurídica a la formación de alumnos y profesores. El centro pasa a formar parte de las instituciones académicas con las que trabaja Harvey, dentro de las 100 alianzas con facultades de Derecho que la compañía ha anunciado recientemente en el mundo, y se incorpora como uno de sus early AI adopters. Alumnos y profesores tendrán acceso a la plataforma, y Harvey Academy, su plataforma de formación en IA jurídica, estará disponible a través del CEG AI Hub, el nuevo espacio del centro dedicado a la IA y los recursos tecnológicos aplicados a la enseñanza. Omar Puertas, Legal Innovation Partner de Harvey, y Mercedes de Prada, directora general del centro, subrayan la idea de usarla \"con criterio\" y mantener el criterio jurídico sobre los resultados.\n\nLa noticia importa porque desplaza la competencia por el abogado joven a la universidad: quien aprende con una herramienta durante el máster tiende a llevársela al despacho, y las plataformas lo saben. Para los despachos españoles que reclutan de estos programas, supone que los nuevos profesionales llegarán con experiencia previa en agentes y flujos de trabajo, y para otras escuelas de práctica jurídica, la presión de ofrecer algo equivalente. Matiz: la fuente es una nota de la propia institución recogida por un medio jurídico, no se informa de condiciones, número de licencias ni de resultados docentes, y el acuerdo es con un solo proveedor.",
+      "sota:type": "partnership",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "La formación jurídica se convierte en canal de adopción de plataformas de IA: Harvey entra en un centro de formación español de referencia.",
+      "sota:whyNow": "TodoJuristas, 11 nov 2026. NEW.",
+      "sota:geo": [
+        "ES",
+        "US"
+      ],
+      "sota:topics": [
+        "Harvey",
+        "Centro de Estudios Garrigues",
+        "Harvey Academy",
+        "CEG AI Hub",
+        "formación jurídica"
+      ],
+      "sota:summaryP1": "TodoJuristas informó el 11 de noviembre de 2026 de un acuerdo de colaboración entre el Centro de Estudios Garrigues y Harvey para incorporar la IA jurídica a la formación de alumnos y profesores. El centro pasa a formar parte de las instituciones académicas con las que trabaja Harvey, dentro de las 100 alianzas con facultades de Derecho que la compañía ha anunciado recientemente en el mundo, y se incorpora como uno de sus early AI adopters. Alumnos y profesores tendrán acceso a la plataforma, y Harvey Academy, su plataforma de formación en IA jurídica, estará disponible a través del CEG AI Hub, el nuevo espacio del centro dedicado a la IA y los recursos tecnológicos aplicados a la enseñanza. Omar Puertas, Legal Innovation Partner de Harvey, y Mercedes de Prada, directora general del centro, subrayan la idea de usarla \"con criterio\" y mantener el criterio jurídico sobre los resultados.",
+      "sota:summaryP2": "La noticia importa porque desplaza la competencia por el abogado joven a la universidad: quien aprende con una herramienta durante el máster tiende a llevársela al despacho, y las plataformas lo saben. Para los despachos españoles que reclutan de estos programas, supone que los nuevos profesionales llegarán con experiencia previa en agentes y flujos de trabajo, y para otras escuelas de práctica jurídica, la presión de ofrecer algo equivalente. Matiz: la fuente es una nota de la propia institución recogida por un medio jurídico, no se informa de condiciones, número de licencias ni de resultados docentes, y el acuerdo es con un solo proveedor.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.todojuristas.com/el-centro-de-estudios-garrigues-y-harvey-se-alian-para-acercar-la-inteligencia-artificial-juridica-a-las-aulas/",
+          "schema:name": "El Centro de Estudios Garrigues y Harvey se alían para acercar la inteligencia artificial jurídica a las aulas",
+          "sota:sourceId": "src-todojuristas"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-centro-estudios-garrigues"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-todojuristas"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-lawvu-servidor-mcp-claude-copilot-chatgpt-harvey-legora-legalos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-lawvu-servidor-mcp-claude-copilot-chatgpt-harvey-legora-legalos",
+      "schema:headline": "LawVu conecta Claude, Microsoft Copilot, ChatGPT, Harvey y Legora a los datos y flujos de su plataforma in-house LegalOS mediante un servidor MCP con más de 50 acciones",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LawVu, proveedor neozelandés de software para departamentos jurídicos, anunció el 11 de noviembre de 2026 que sus clientes pueden conectar a LegalOS cinco herramientas de IA: Claude de Anthropic, Copilot de Microsoft, ChatGPT de OpenAI, Harvey y Legora. La conexión se hace por un servidor MCP (Model Context Protocol, un estándar abierto para que las herramientas de IA lean y escriban en otros sistemas) que, según la compañía, expone más de 50 acciones para consultar y actualizar datos, está disponible de inmediato y no requiere desarrollo a medida. Los permisos de cada persona en LawVu se trasladan a cada herramienta, de modo que la gobernanza se define una vez. El ejemplo que da es el de un abogado que, desde Copilot, pregunta qué contratos de proveedores se renuevan automáticamente el trimestre próximo y asigna una tarea de revisión a un colega.",
+      "schema:articleBody": "LawVu, proveedor neozelandés de software para departamentos jurídicos, anunció el 11 de noviembre de 2026 que sus clientes pueden conectar a LegalOS cinco herramientas de IA: Claude de Anthropic, Copilot de Microsoft, ChatGPT de OpenAI, Harvey y Legora. La conexión se hace por un servidor MCP (Model Context Protocol, un estándar abierto para que las herramientas de IA lean y escriban en otros sistemas) que, según la compañía, expone más de 50 acciones para consultar y actualizar datos, está disponible de inmediato y no requiere desarrollo a medida. Los permisos de cada persona en LawVu se trasladan a cada herramienta, de modo que la gobernanza se define una vez. El ejemplo que da es el de un abogado que, desde Copilot, pregunta qué contratos de proveedores se renuevan automáticamente el trimestre próximo y asigna una tarea de revisión a un colega.\n\nEl mensaje es que el in-house no va a usar una sola IA: trabajará con varias a la vez y quiere que todas lean el mismo repositorio de contratos y asuntos, con control de acceso. Para los vendors de gestión legal, abrir un servidor MCP pasa a ser requisito de producto, y su valor se desplaza al dato y a la gobernanza más que a la interfaz; para los departamentos jurídicos, es una vía para no depender de una plataforma concreta. Matiz: es un comunicado del proveedor, sin cifras de uso ni auditoría independiente de la seguridad, y que los permisos se trasladen correctamente a herramientas de terceros es una afirmación a verificar antes de abrir datos sensibles.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un vendor in-house abre sus datos a cinco asistentes de IA por MCP con los permisos del usuario, en lugar de competir con ellos.",
+      "sota:whyNow": "Comunicado en PR Newswire, 11 nov 2026. NEW (frente a LawVu Lens del 8 de octubre).",
+      "sota:geo": [
+        "NZ",
+        "Global"
+      ],
+      "sota:topics": [
+        "LawVu",
+        "MCP",
+        "LegalOS",
+        "Claude",
+        "Copilot",
+        "Harvey",
+        "Legora"
+      ],
+      "sota:summaryP1": "LawVu, proveedor neozelandés de software para departamentos jurídicos, anunció el 11 de noviembre de 2026 que sus clientes pueden conectar a LegalOS cinco herramientas de IA: Claude de Anthropic, Copilot de Microsoft, ChatGPT de OpenAI, Harvey y Legora. La conexión se hace por un servidor MCP (Model Context Protocol, un estándar abierto para que las herramientas de IA lean y escriban en otros sistemas) que, según la compañía, expone más de 50 acciones para consultar y actualizar datos, está disponible de inmediato y no requiere desarrollo a medida. Los permisos de cada persona en LawVu se trasladan a cada herramienta, de modo que la gobernanza se define una vez. El ejemplo que da es el de un abogado que, desde Copilot, pregunta qué contratos de proveedores se renuevan automáticamente el trimestre próximo y asigna una tarea de revisión a un colega.",
+      "sota:summaryP2": "El mensaje es que el in-house no va a usar una sola IA: trabajará con varias a la vez y quiere que todas lean el mismo repositorio de contratos y asuntos, con control de acceso. Para los vendors de gestión legal, abrir un servidor MCP pasa a ser requisito de producto, y su valor se desplaza al dato y a la gobernanza más que a la interfaz; para los departamentos jurídicos, es una vía para no depender de una plataforma concreta. Matiz: es un comunicado del proveedor, sin cifras de uso ni auditoría independiente de la seguridad, y que los permisos se trasladen correctamente a herramientas de terceros es una afirmación a verificar antes de abrir datos sensibles.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.prnewswire.com/news-releases/lawvu-connects-anthropics-claude-microsoft-copilot-openais-chatgpt-harvey-and-legora-to-in-house-legals-data-and-workflows-302935762.html",
+          "schema:name": "LawVu connects Anthropic's Claude, Microsoft Copilot, OpenAI's ChatGPT, Harvey and Legora to in-house legal's data and workflows",
+          "sota:sourceId": "src-pr-newswire"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawvu"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pr-newswire"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-claren-envoys-agentes-inhouse-correo-slack-playbook",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-claren-envoys-agentes-inhouse-correo-slack-playbook",
+      "schema:headline": "Claren lanza Envoys, agentes in-house siempre activos que absorben tareas desde el correo o Slack, las contrastan con el playbook y escalan a los abogados cuando hace falta",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Claren, legaltech con sedes en Londres y California, ha lanzado Envoys, agentes siempre activos que absorben tareas in-house desde el correo o Slack, ejecutan el asunto contra el playbook correspondiente y escalan a los abogados cuando es necesario. Según la compañía, cada Envoy tiene su propio ordenador, su propia memoria y una función, desde revisión y redline de contratos hasta intake, investigación, privacidad y due diligence. El ejemplo es el de un comercial que pregunta por Slack, a última hora, si puede firmar un contrato: el Envoy lo revisa contra el playbook, lo marca y redacta la respuesta, y una tarea completada puede convertirse en una rutina que se aplica a cada contrato de venta o renovación. Los equipos legales mantienen el control y cada Envoy solo ve lo que ve su equipo. Claren dice que lo usan abogados in-house en más de 35 países y que ha revisado más de 100.000 contratos.",
+      "schema:articleBody": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Claren, legaltech con sedes en Londres y California, ha lanzado Envoys, agentes siempre activos que absorben tareas in-house desde el correo o Slack, ejecutan el asunto contra el playbook correspondiente y escalan a los abogados cuando es necesario. Según la compañía, cada Envoy tiene su propio ordenador, su propia memoria y una función, desde revisión y redline de contratos hasta intake, investigación, privacidad y due diligence. El ejemplo es el de un comercial que pregunta por Slack, a última hora, si puede firmar un contrato: el Envoy lo revisa contra el playbook, lo marca y redacta la respuesta, y una tarea completada puede convertirse en una rutina que se aplica a cada contrato de venta o renovación. Los equipos legales mantienen el control y cada Envoy solo ve lo que ve su equipo. Claren dice que lo usan abogados in-house en más de 35 países y que ha revisado más de 100.000 contratos.\n\nLa idea relevante es que el cuello de botella in-house no es el trabajo jurídico sino lo que lo rodea, las peticiones dispersas por canales de mensajería, y el agente ataca esa entrada en lugar de ofrecer otro chat. Para los departamentos jurídicos de empresa, supone repensar la puerta de entrada de las consultas del negocio y, sobre todo, decidir quién define y mantiene el playbook; para los vendors de revisión de contratos, otra entrada a un mercado donde varios construyen lo mismo. Matiz: las cifras y el funcionamiento son declaraciones de la empresa, Artificial Lawyer reconoce que otros proveedores desarrollan enfoques similares y no hay datos de precisión, precio ni detalles de seguridad.",
+      "sota:type": "product",
+      "sota:sotaScore": 7.1,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Agentes in-house que viven en Slack y correo, aplican el playbook y se convierten en rutinas recurrentes.",
+      "sota:whyNow": "Artificial Lawyer, 11 nov 2026. NEW (frente a los agentes de Lexroom del 10 de noviembre).",
+      "sota:geo": [
+        "GB",
+        "US"
+      ],
+      "sota:topics": [
+        "Claren",
+        "Envoys",
+        "agentes in-house",
+        "playbook",
+        "Slack"
+      ],
+      "sota:summaryP1": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Claren, legaltech con sedes en Londres y California, ha lanzado Envoys, agentes siempre activos que absorben tareas in-house desde el correo o Slack, ejecutan el asunto contra el playbook correspondiente y escalan a los abogados cuando es necesario. Según la compañía, cada Envoy tiene su propio ordenador, su propia memoria y una función, desde revisión y redline de contratos hasta intake, investigación, privacidad y due diligence. El ejemplo es el de un comercial que pregunta por Slack, a última hora, si puede firmar un contrato: el Envoy lo revisa contra el playbook, lo marca y redacta la respuesta, y una tarea completada puede convertirse en una rutina que se aplica a cada contrato de venta o renovación. Los equipos legales mantienen el control y cada Envoy solo ve lo que ve su equipo. Claren dice que lo usan abogados in-house en más de 35 países y que ha revisado más de 100.000 contratos.",
+      "sota:summaryP2": "La idea relevante es que el cuello de botella in-house no es el trabajo jurídico sino lo que lo rodea, las peticiones dispersas por canales de mensajería, y el agente ataca esa entrada en lugar de ofrecer otro chat. Para los departamentos jurídicos de empresa, supone repensar la puerta de entrada de las consultas del negocio y, sobre todo, decidir quién define y mantiene el playbook; para los vendors de revisión de contratos, otra entrada a un mercado donde varios construyen lo mismo. Matiz: las cifras y el funcionamiento son declaraciones de la empresa, Artificial Lawyer reconoce que otros proveedores desarrollan enfoques similares y no hay datos de precisión, precio ni detalles de seguridad.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
+          "schema:name": "Claren Launches 'Envoys' Inhouse Agents",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-claren"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-legora-lucy-frazer-sector-publico-gobiernos-tribunales",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-legora-lucy-frazer-sector-publico-gobiernos-tribunales",
+      "schema:headline": "Legora pone a la ex Solicitor General Lucy Frazer KC al frente de su estrategia con el sector público, de gobiernos, reguladores y tribunales",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Legora quiere ganar ingresos entre gobiernos y organismos públicos, con Lucy Frazer KC, antigua ministra del Gabinete británico y dos veces Solicitor General, al frente. Frazer, asesora de la compañía desde julio, ampliará su papel a tiempo parcial, trabajando la mayor parte de la semana en la oficina de Londres, para construir alianzas con gobiernos y agencias públicas en todo el mundo: equipos jurídicos de la administración, reguladores, entidades locales y tribunales. Legora cita como motivo la presión sobre los tribunales ingleses, con un atasco en el Crown Court de 80.829 casos a finales de junio de 2026, más del doble que antes de la pandemia, y la afirmación de que las herramientas de IA generales aumentan la carga de los tribunales al facilitar presentar reclamaciones. Artificial Lawyer añade que Clio también apunta a los tribunales como área de crecimiento.",
+      "schema:articleBody": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Legora quiere ganar ingresos entre gobiernos y organismos públicos, con Lucy Frazer KC, antigua ministra del Gabinete británico y dos veces Solicitor General, al frente. Frazer, asesora de la compañía desde julio, ampliará su papel a tiempo parcial, trabajando la mayor parte de la semana en la oficina de Londres, para construir alianzas con gobiernos y agencias públicas en todo el mundo: equipos jurídicos de la administración, reguladores, entidades locales y tribunales. Legora cita como motivo la presión sobre los tribunales ingleses, con un atasco en el Crown Court de 80.829 casos a finales de junio de 2026, más del doble que antes de la pandemia, y la afirmación de que las herramientas de IA generales aumentan la carga de los tribunales al facilitar presentar reclamaciones. Artificial Lawyer añade que Clio también apunta a los tribunales como área de crecimiento.\n\nEl movimiento muestra que la competencia entre plataformas de IA jurídica se traslada de los grandes despachos a la administración y la justicia, donde las compras son grandes, lentas y exigen confianza, auditabilidad y seguridad. Para vendors, fichar a una figura política es una forma de acceso y credibilidad ante comprador público; para administraciones y tribunales, abre la pregunta de qué estándares de verificación y supervisión humana exigirán a estas herramientas. Matiz: la fuente es una pieza de opinión con tono crítico basada en lo que Legora declaró a Artificial Lawyer, el papel es a tiempo parcial, y no se anuncian contratos públicos concretos.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Legora abre una línea de negocio con gobiernos, reguladores y tribunales, liderada por una ex Solicitor General.",
+      "sota:whyNow": "Artificial Lawyer, 11 nov 2026. NEW (frente al perfil de Legora del 10 de noviembre en la alianza con Blue J).",
+      "sota:geo": [
+        "GB",
+        "Global"
+      ],
+      "sota:topics": [
+        "Legora",
+        "Lucy Frazer",
+        "sector público",
+        "tribunales",
+        "administración"
+      ],
+      "sota:summaryP1": "Artificial Lawyer informó el 11 de noviembre de 2026 de que Legora quiere ganar ingresos entre gobiernos y organismos públicos, con Lucy Frazer KC, antigua ministra del Gabinete británico y dos veces Solicitor General, al frente. Frazer, asesora de la compañía desde julio, ampliará su papel a tiempo parcial, trabajando la mayor parte de la semana en la oficina de Londres, para construir alianzas con gobiernos y agencias públicas en todo el mundo: equipos jurídicos de la administración, reguladores, entidades locales y tribunales. Legora cita como motivo la presión sobre los tribunales ingleses, con un atasco en el Crown Court de 80.829 casos a finales de junio de 2026, más del doble que antes de la pandemia, y la afirmación de que las herramientas de IA generales aumentan la carga de los tribunales al facilitar presentar reclamaciones. Artificial Lawyer añade que Clio también apunta a los tribunales como área de crecimiento.",
+      "sota:summaryP2": "El movimiento muestra que la competencia entre plataformas de IA jurídica se traslada de los grandes despachos a la administración y la justicia, donde las compras son grandes, lentas y exigen confianza, auditabilidad y seguridad. Para vendors, fichar a una figura política es una forma de acceso y credibilidad ante comprador público; para administraciones y tribunales, abre la pregunta de qué estándares de verificación y supervisión humana exigirán a estas herramientas. Matiz: la fuente es una pieza de opinión con tono crítico basada en lo que Legora declaró a Artificial Lawyer, el papel es a tiempo parcial, y no se anuncian contratos públicos concretos.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister/",
+          "schema:name": "Legora Targets Public Sector With Ex-Minister",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-delaware-gill-everyday-dose-multa-3000-abogados-citas-ia",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-delaware-gill-everyday-dose-multa-3000-abogados-citas-ia",
+      "schema:headline": "Un juez federal de Delaware multa con 3.000 dólares a cada uno a dos abogados por un escrito con dos casos inexistentes y citas inventadas en Gill v. Everyday Dose y halla infracción de la Regla 11 en el abogado local",
+      "schema:datePublished": "2026-11-09",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Un magistrate judge (juez federal de instancia) de Delaware impuso el 9 de noviembre de 2026 una multa de 3.000 dólares a cada uno de los abogados Charles Slamowitz y Zack G. Sharpe IV por un escrito de contestación en Gill v. Everyday Dose que citaba dos casos inexistentes y atribuía citas inventadas a cinco resoluciones reales, según la resolución del tribunal y el resumen de LexCircuit. El tribunal sostiene que usar IA no es sancionable por sí mismo, pero presentar su resultado sin supervisión adecuada infringe la Regla 11. También halló que el abogado local, Joseph S. Naylor, que firmó y presentó el escrito, la infringió, pero no le sancionó por su testimonio creíble, su arrepentimiento y las medidas correctivas: recibió el escrito la mañana del vencimiento, no se le dijo que se había usado IA y después redactó una política de IA para su despacho. Los dos multados deberán adjuntar la resolución a cualquier solicitud futura de admisión pro hac vice en el distrito, se notificará a las autoridades colegiales y el tribunal certificó hechos para un procedimiento por desacato contra Sharpe, que no acudió a la vista.",
+      "schema:articleBody": "Un magistrate judge (juez federal de instancia) de Delaware impuso el 9 de noviembre de 2026 una multa de 3.000 dólares a cada uno de los abogados Charles Slamowitz y Zack G. Sharpe IV por un escrito de contestación en Gill v. Everyday Dose que citaba dos casos inexistentes y atribuía citas inventadas a cinco resoluciones reales, según la resolución del tribunal y el resumen de LexCircuit. El tribunal sostiene que usar IA no es sancionable por sí mismo, pero presentar su resultado sin supervisión adecuada infringe la Regla 11. También halló que el abogado local, Joseph S. Naylor, que firmó y presentó el escrito, la infringió, pero no le sancionó por su testimonio creíble, su arrepentimiento y las medidas correctivas: recibió el escrito la mañana del vencimiento, no se le dijo que se había usado IA y después redactó una política de IA para su despacho. Los dos multados deberán adjuntar la resolución a cualquier solicitud futura de admisión pro hac vice en el distrito, se notificará a las autoridades colegiales y el tribunal certificó hechos para un procedimiento por desacato contra Sharpe, que no acudió a la vista.\n\nLa lectura útil es la de reparto de responsabilidad: el tribunal no sanciona la herramienta, sino la ausencia de verificación y la falta de franqueza posterior, y hace responsable también a quien firma un escrito que otros redactaron. Para despachos con abogados locales o equipos distribuidos, la lección es exigir que se declare el uso de IA en cada borrador y verificar cada cita antes de firmar; para los vendors de verificación de citas, es otro caso que ilustra la demanda. Matiz: es un tribunal federal de primera instancia que aplica la Regla 11 a hechos concretos, no una norma general; el relato se apoya en la resolución y en un resumen secundario, y no se menciona qué herramienta de IA se usó.",
+      "sota:type": "incident",
+      "sota:sotaScore": 7.3,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Sanción por citas de IA que distingue entre uso de IA (no sancionable) y falta de supervisión, y alcanza al abogado local que firma.",
+      "sota:whyNow": "Resolución del 9 nov 2026 y resumen de LexCircuit del 11 de noviembre. NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "alucinaciones",
+        "Regla 11",
+        "sanciones",
+        "Delaware",
+        "abogado local"
+      ],
+      "sota:summaryP1": "Un magistrate judge (juez federal de instancia) de Delaware impuso el 9 de noviembre de 2026 una multa de 3.000 dólares a cada uno de los abogados Charles Slamowitz y Zack G. Sharpe IV por un escrito de contestación en Gill v. Everyday Dose que citaba dos casos inexistentes y atribuía citas inventadas a cinco resoluciones reales, según la resolución del tribunal y el resumen de LexCircuit. El tribunal sostiene que usar IA no es sancionable por sí mismo, pero presentar su resultado sin supervisión adecuada infringe la Regla 11. También halló que el abogado local, Joseph S. Naylor, que firmó y presentó el escrito, la infringió, pero no le sancionó por su testimonio creíble, su arrepentimiento y las medidas correctivas: recibió el escrito la mañana del vencimiento, no se le dijo que se había usado IA y después redactó una política de IA para su despacho. Los dos multados deberán adjuntar la resolución a cualquier solicitud futura de admisión pro hac vice en el distrito, se notificará a las autoridades colegiales y el tribunal certificó hechos para un procedimiento por desacato contra Sharpe, que no acudió a la vista.",
+      "sota:summaryP2": "La lectura útil es la de reparto de responsabilidad: el tribunal no sanciona la herramienta, sino la ausencia de verificación y la falta de franqueza posterior, y hace responsable también a quien firma un escrito que otros redactaron. Para despachos con abogados locales o equipos distribuidos, la lección es exigir que se declare el uso de IA en cada borrador y verificar cada cita antes de firmar; para los vendors de verificación de citas, es otro caso que ilustra la demanda. Matiz: es un tribunal federal de primera instancia que aplica la Regla 11 a hechos concretos, no una norma general; el relato se apoya en la resolución y en un resumen secundario, y no se menciona qué herramienta de IA se usó.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.ded.uscourts.gov/sites/ded/files/opinions/24-1359_2.pdf",
+          "schema:name": "Memorandum Order, Gill v. Everyday Dose (D. Del.)",
+          "sota:sourceId": "src-us-district-court-delaware"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-district-court-delaware"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-administrative-court-judicial-review-guide-2026-seccion-ia-brabners",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-administrative-court-judicial-review-guide-2026-seccion-ia-brabners",
+      "schema:headline": "La Administrative Court de Inglaterra y Gales incluye por primera vez una sección sobre el uso de IA en su Judicial Review Guide 2026, con sanciones que llegan a la remisión a la policía",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal Futures publicó el 11 de noviembre de 2026 un análisis del despacho Brabners sobre la Judicial Review Guide 2026 de la Administrative Court de Inglaterra y Gales, que sustituye a la de 2025 y debe ser seguida por todos los usuarios del tribunal, incluidos los litigantes sin abogado. Por primera vez incluye una sección específica sobre IA: el apartado 2.3 advierte de que los chatbots de IA son propensos a errores y exige cuidado razonable, en particular al citar autoridades y exponer principios jurídicos o hechos. El 2.3.2 enumera las consecuencias posibles del incumplimiento: sanciones en costas, rechazo del escrito, remisión a un regulador, procedimiento por desacato y remisión a la policía. El texto llega después de la position statement de la judicatura sobre el uso de IA por los jueces y de la nota práctica de 58 páginas de la Law Society para los solicitors, y se acompaña de una Practice Statement sobre solicitudes urgentes y de límites de páginas, como 40 para el Statement of Facts and Grounds.",
+      "schema:articleBody": "Legal Futures publicó el 11 de noviembre de 2026 un análisis del despacho Brabners sobre la Judicial Review Guide 2026 de la Administrative Court de Inglaterra y Gales, que sustituye a la de 2025 y debe ser seguida por todos los usuarios del tribunal, incluidos los litigantes sin abogado. Por primera vez incluye una sección específica sobre IA: el apartado 2.3 advierte de que los chatbots de IA son propensos a errores y exige cuidado razonable, en particular al citar autoridades y exponer principios jurídicos o hechos. El 2.3.2 enumera las consecuencias posibles del incumplimiento: sanciones en costas, rechazo del escrito, remisión a un regulador, procedimiento por desacato y remisión a la policía. El texto llega después de la position statement de la judicatura sobre el uso de IA por los jueces y de la nota práctica de 58 páginas de la Law Society para los solicitors, y se acompaña de una Practice Statement sobre solicitudes urgentes y de límites de páginas, como 40 para el Statement of Facts and Grounds.\n\nEl valor es que un tribunal especializado fija por escrito, y con una lista de sanciones, lo que espera de quien usa IA ante él, en un ámbito donde se han producido citas inventadas. Para litigantes y despachos que llevan revisión judicial, la consecuencia práctica es documentar la verificación de cada autoridad y respetar los límites de extensión y de urgencia (el formulario N463 decide por sí solo la urgencia). Matiz: es una guía de procedimiento, no una norma de rango legal; el análisis procede de un despacho que ofrece sus servicios en el mismo texto y conviene leer el apartado original de la guía antes de aplicarlo.",
+      "sota:type": "regulation",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un tribunal inglés especializado incorpora una sección propia sobre IA en su guía, con una lista de consecuencias por incumplir.",
+      "sota:whyNow": "Legal Futures (contenido de Brabners), 11 nov 2026. NEW (frente a la declaración del CJC y la position statement judicial).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "Administrative Court",
+        "revisión judicial",
+        "guía",
+        "uso de IA",
+        "sanciones"
+      ],
+      "sota:summaryP1": "Legal Futures publicó el 11 de noviembre de 2026 un análisis del despacho Brabners sobre la Judicial Review Guide 2026 de la Administrative Court de Inglaterra y Gales, que sustituye a la de 2025 y debe ser seguida por todos los usuarios del tribunal, incluidos los litigantes sin abogado. Por primera vez incluye una sección específica sobre IA: el apartado 2.3 advierte de que los chatbots de IA son propensos a errores y exige cuidado razonable, en particular al citar autoridades y exponer principios jurídicos o hechos. El 2.3.2 enumera las consecuencias posibles del incumplimiento: sanciones en costas, rechazo del escrito, remisión a un regulador, procedimiento por desacato y remisión a la policía. El texto llega después de la position statement de la judicatura sobre el uso de IA por los jueces y de la nota práctica de 58 páginas de la Law Society para los solicitors, y se acompaña de una Practice Statement sobre solicitudes urgentes y de límites de páginas, como 40 para el Statement of Facts and Grounds.",
+      "sota:summaryP2": "El valor es que un tribunal especializado fija por escrito, y con una lista de sanciones, lo que espera de quien usa IA ante él, en un ámbito donde se han producido citas inventadas. Para litigantes y despachos que llevan revisión judicial, la consecuencia práctica es documentar la verificación de cada autoridad y respetar los límites de extensión y de urgencia (el formulario N463 decide por sí solo la urgencia). Matiz: es una guía de procedimiento, no una norma de rango legal; el análisis procede de un despacho que ofrece sus servicios en el mismo texto y conviene leer el apartado original de la guía antes de aplicarlo.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/associate-news/new-judicial-review-guidance-explained-ai-use-urgent-applications",
+          "schema:name": "New judicial review guidance explained - AI use & urgent applications",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-administrative-court-ew"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-courts-tribunals-judiciary"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-legal-business-thomson-reuters-gc-legal-tech-pulse-82-ia-generativa",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-legal-business-thomson-reuters-gc-legal-tech-pulse-82-ia-generativa",
+      "schema:headline": "El General Counsel Legal Tech Pulse 2026 de Legal Business y Thomson Reuters halla que el 82% de más de 250 directores jurídicos europeos ya implanta IA generativa y que cerca del 60% la considera fiable",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Legal Business publicó el 11 de noviembre de 2026 el General Counsel Legal Tech Pulse 2026, elaborado con Thomson Reuters a partir de las respuestas de más de 250 directores jurídicos de Reino Unido, Irlanda, Francia, España, Italia, Alemania, países nórdicos, Benelux, Suiza y Austria. El 82% dice que ya implanta soluciones de IA generativa en su equipo; cerca del 60% considera la IA un recurso fiable \"completamente\" o \"mucho\", frente al 40% del año anterior, y solo el 14% no está de acuerdo, frente al 31%. Casi el 80% prioriza ganar eficiencia sin ampliar plantilla y solo el 5% quiere reducir su equipo. Los testimonios son llamativos: el jefe jurídico de INWIT dice que \"ahora preguntamos primero a la IA\" y que en el 90% de los casos le basta, y el de Allegro afirma que han eliminado el abogado externo en litigios menores, con primeros borradores de escritos que hay que verificar.",
+      "schema:articleBody": "Legal Business publicó el 11 de noviembre de 2026 el General Counsel Legal Tech Pulse 2026, elaborado con Thomson Reuters a partir de las respuestas de más de 250 directores jurídicos de Reino Unido, Irlanda, Francia, España, Italia, Alemania, países nórdicos, Benelux, Suiza y Austria. El 82% dice que ya implanta soluciones de IA generativa en su equipo; cerca del 60% considera la IA un recurso fiable \"completamente\" o \"mucho\", frente al 40% del año anterior, y solo el 14% no está de acuerdo, frente al 31%. Casi el 80% prioriza ganar eficiencia sin ampliar plantilla y solo el 5% quiere reducir su equipo. Los testimonios son llamativos: el jefe jurídico de INWIT dice que \"ahora preguntamos primero a la IA\" y que en el 90% de los casos le basta, y el de Allegro afirma que han eliminado el abogado externo en litigios menores, con primeros borradores de escritos que hay que verificar.\n\nLa lectura es que la IA se está convirtiendo en la primera parada del in-house, y eso presiona al trabajo rutinario que hoy se subcontrata a despachos, aunque los propios directores insisten en que no sustituye la pericia humana. Para los despachos, es una señal para revisar qué trabajo menor siguen cobrando; para los vendors, de que la confianza ya no es la barrera principal, sino la integración y los presupuestos. Matiz: el informe lo hace Legal Business en colaboración con Thomson Reuters, que vende CoCounsel y aparece en los testimonios; es una encuesta de percepción sobre una muestra concreta de GC, no una medición del uso real, y el informe completo no se ha revisado aquí.",
+      "sota:type": "research",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Dato europeo de adopción y confianza en IA generativa entre directores jurídicos, con el salto del 40% al 60% de fiabilidad percibida.",
+      "sota:whyNow": "Legal Business, 11 nov 2026. NEW.",
+      "sota:geo": [
+        "GB",
+        "ES",
+        "DE",
+        "FR",
+        "IT"
+      ],
+      "sota:topics": [
+        "directores jurídicos",
+        "IA generativa",
+        "encuesta",
+        "confianza",
+        "in-house"
+      ],
+      "sota:summaryP1": "Legal Business publicó el 11 de noviembre de 2026 el General Counsel Legal Tech Pulse 2026, elaborado con Thomson Reuters a partir de las respuestas de más de 250 directores jurídicos de Reino Unido, Irlanda, Francia, España, Italia, Alemania, países nórdicos, Benelux, Suiza y Austria. El 82% dice que ya implanta soluciones de IA generativa en su equipo; cerca del 60% considera la IA un recurso fiable \"completamente\" o \"mucho\", frente al 40% del año anterior, y solo el 14% no está de acuerdo, frente al 31%. Casi el 80% prioriza ganar eficiencia sin ampliar plantilla y solo el 5% quiere reducir su equipo. Los testimonios son llamativos: el jefe jurídico de INWIT dice que \"ahora preguntamos primero a la IA\" y que en el 90% de los casos le basta, y el de Allegro afirma que han eliminado el abogado externo en litigios menores, con primeros borradores de escritos que hay que verificar.",
+      "sota:summaryP2": "La lectura es que la IA se está convirtiendo en la primera parada del in-house, y eso presiona al trabajo rutinario que hoy se subcontrata a despachos, aunque los propios directores insisten en que no sustituye la pericia humana. Para los despachos, es una señal para revisar qué trabajo menor siguen cobrando; para los vendors, de que la confianza ya no es la barrera principal, sino la integración y los presupuestos. Matiz: el informe lo hace Legal Business en colaboración con Thomson Reuters, que vende CoCounsel y aparece en los testimonios; es una encuesta de percepción sobre una muestra concreta de GC, no una medición del uso real, y el informe completo no se ha revisado aquí.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalbusiness.co.uk/in-house/we-now-ask-the-ai-first-exclusive-new-research-reveals-how-ai-is-transforming-in-house-legal/",
+          "schema:name": "'We now ask the AI first' - exclusive new research reveals how AI is transforming in-house legal",
+          "sota:sourceId": "src-legal-business"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-business"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-bighand-law-firm-talent-resourcing-report-2026-ia-coste-entrega",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-bighand-law-firm-talent-resourcing-report-2026-ia-coste-entrega",
+      "schema:headline": "El informe de BigHand sobre talento y recursos 2026 halla que el 99% de los despachos cambia su plantilla por la IA pero solo el 22% considera la rentabilidad del asunto al asignar trabajo",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "BigHand, proveedor de software de gestión de recursos para despachos, publicó el 11 de noviembre de 2026 su Law Firm Talent and Resourcing Report 2026, con una encuesta a más de 800 líderes de despachos del Reino Unido y Norteamérica, recogida por Legal Futures. El 99% dice que la IA ya cambia sus prioridades de contratación y la composición de los equipos, pero solo el 22% considera explícitamente la rentabilidad del asunto al asignar trabajo y el 13% se centra en mejorar el apalancamiento de los abogados. El 46% afirma que clientes han preguntado por qué las tarifas no han bajado a pesar del uso de IA, el 42% ha recibido peticiones de honorarios alternativos ligados a la eficiencia de la IA y solo el 1% dice que los clientes no han planteado el impacto de la IA en precio o servicio. Solo el 23% vigila la rentabilidad por asunto en la dirección, el 37% reparte el trabajo sobre todo por preferencia del socio y dos tercios no tienen un proceso formal para evitar la infrautilización.",
+      "schema:articleBody": "BigHand, proveedor de software de gestión de recursos para despachos, publicó el 11 de noviembre de 2026 su Law Firm Talent and Resourcing Report 2026, con una encuesta a más de 800 líderes de despachos del Reino Unido y Norteamérica, recogida por Legal Futures. El 99% dice que la IA ya cambia sus prioridades de contratación y la composición de los equipos, pero solo el 22% considera explícitamente la rentabilidad del asunto al asignar trabajo y el 13% se centra en mejorar el apalancamiento de los abogados. El 46% afirma que clientes han preguntado por qué las tarifas no han bajado a pesar del uso de IA, el 42% ha recibido peticiones de honorarios alternativos ligados a la eficiencia de la IA y solo el 1% dice que los clientes no han planteado el impacto de la IA en precio o servicio. Solo el 23% vigila la rentabilidad por asunto en la dirección, el 37% reparte el trabajo sobre todo por preferencia del socio y dos tercios no tienen un proceso formal para evitar la infrautilización.\n\nEl dato importante es la brecha entre rediseñar equipos por la IA y saber qué cuesta entregar cada asunto, justo cuando los clientes empiezan a pedir que la eficiencia se vea en la factura. Para los despachos, implica preparar un plan de dotación antes de aceptar el encargo y datos de rentabilidad con los que negociar honorarios alternativos; para los vendors de gestión, es el argumento comercial que el propio informe sustenta. Matiz: es una encuesta de un proveedor que vende gestión de recursos y cita a un cliente suyo (DLA Piper), reproducida como contenido de asociado de Legal Futures, y refleja percepciones declaradas en despachos de Reino Unido y Norteamérica.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Datos de presión de clientes sobre tarifas por la IA y de la falta de medición de rentabilidad en los despachos.",
+      "sota:whyNow": "Legal Futures (contenido de BigHand), 11 nov 2026. NEW.",
+      "sota:geo": [
+        "GB",
+        "US"
+      ],
+      "sota:topics": [
+        "BigHand",
+        "rentabilidad",
+        "honorarios",
+        "dotación de equipos",
+        "IA"
+      ],
+      "sota:summaryP1": "BigHand, proveedor de software de gestión de recursos para despachos, publicó el 11 de noviembre de 2026 su Law Firm Talent and Resourcing Report 2026, con una encuesta a más de 800 líderes de despachos del Reino Unido y Norteamérica, recogida por Legal Futures. El 99% dice que la IA ya cambia sus prioridades de contratación y la composición de los equipos, pero solo el 22% considera explícitamente la rentabilidad del asunto al asignar trabajo y el 13% se centra en mejorar el apalancamiento de los abogados. El 46% afirma que clientes han preguntado por qué las tarifas no han bajado a pesar del uso de IA, el 42% ha recibido peticiones de honorarios alternativos ligados a la eficiencia de la IA y solo el 1% dice que los clientes no han planteado el impacto de la IA en precio o servicio. Solo el 23% vigila la rentabilidad por asunto en la dirección, el 37% reparte el trabajo sobre todo por preferencia del socio y dos tercios no tienen un proceso formal para evitar la infrautilización.",
+      "sota:summaryP2": "El dato importante es la brecha entre rediseñar equipos por la IA y saber qué cuesta entregar cada asunto, justo cuando los clientes empiezan a pedir que la eficiencia se vea en la factura. Para los despachos, implica preparar un plan de dotación antes de aceptar el encargo y datos de rentabilidad con los que negociar honorarios alternativos; para los vendors de gestión, es el argumento comercial que el propio informe sustenta. Matiz: es una encuesta de un proveedor que vende gestión de recursos y cita a un cliente suyo (DLA Piper), reproducida como contenido de asociado de Legal Futures, y refleja percepciones declaradas en despachos de Reino Unido y Norteamérica.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legalfutures.co.uk/associate-news/bighand-report-finds-law-firms-restructuring-for-ai-without-managing-the-cost-of-delivery",
+          "schema:name": "BigHand Report finds law firms restructuring for AI without managing the cost of delivery",
+          "sota:sourceId": "src-legal-futures"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bighand"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-12-nino-legal-informe-trimestral-abogados-argentinos-uso-ia-cuatro-veces",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-12-nino-legal-informe-trimestral-abogados-argentinos-uso-ia-cuatro-veces",
+      "schema:headline": "Nino Legal informa de que el tiempo mensual de los abogados argentinos con IA casi se cuadruplicó entre febrero y septiembre de 2026, de 1 hora y 1 minuto a 3 horas y 55 minutos",
+      "schema:datePublished": "2026-11-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Infobae informó el 12 de noviembre de 2026 del informe trimestral de Nino Legal, plataforma argentina de IA jurídica, sobre la actividad de sus propios usuarios entre julio y septiembre. El tiempo mensual de uso por abogado pasó de 1 hora y 1 minuto en febrero a 3 horas y 55 minutos en septiembre; desde abril, los usuarios activos se multiplicaron por 3,1 y las consultas por 5,4. La plataforma suma más de 8.100 profesionales y más de 163.000 consultas sobre una base de más de 827.000 fallos oficiales y 34.500 normas. En septiembre cada usuario activo hizo de media 21 consultas por semana; el 67% buscó jurisprudencia con IA, cerca del 60% de las consultas fue a asistentes especializados por fuero, el 62% subió archivos (demandas, contratos, sentencias o escritos de la contraparte) y el 31% usó herramientas auxiliares, sobre todo de revisión, como corrección de redacción (35%) y revisión lógica de argumentos (27%).",
+      "schema:articleBody": "Infobae informó el 12 de noviembre de 2026 del informe trimestral de Nino Legal, plataforma argentina de IA jurídica, sobre la actividad de sus propios usuarios entre julio y septiembre. El tiempo mensual de uso por abogado pasó de 1 hora y 1 minuto en febrero a 3 horas y 55 minutos en septiembre; desde abril, los usuarios activos se multiplicaron por 3,1 y las consultas por 5,4. La plataforma suma más de 8.100 profesionales y más de 163.000 consultas sobre una base de más de 827.000 fallos oficiales y 34.500 normas. En septiembre cada usuario activo hizo de media 21 consultas por semana; el 67% buscó jurisprudencia con IA, cerca del 60% de las consultas fue a asistentes especializados por fuero, el 62% subió archivos (demandas, contratos, sentencias o escritos de la contraparte) y el 31% usó herramientas auxiliares, sobre todo de revisión, como corrección de redacción (35%) y revisión lógica de argumentos (27%).\n\nLo interesante es que el crecimiento no se debe solo a más usuarios sino a más uso por persona, y que se desplaza de la búsqueda al análisis del expediente, la redacción y la revisión, con asistentes que aplican la normativa de un fuero y una jurisdicción determinados, relevante en un país con códigos procesales distintos por provincia. Para vendors latinoamericanos, sugiere que la ventaja está en la especialización jurisdiccional; para despachos, en que la IA ya funciona como \"segunda lectura\" antes de presentar un escrito. Matiz: son datos agregados de usuarios de una empresa que vende el producto, la propia Nino Legal dice que no se extrapolan a toda la abogacía argentina, y el informe completo no se ha revisado aquí.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Serie trimestral de uso real de una plataforma de IA jurídica en Argentina: tiempo, consultas, jurisprudencia y archivos.",
+      "sota:whyNow": "Infobae, 12 nov 2026. NEW.",
+      "sota:geo": [
+        "AR"
+      ],
+      "sota:topics": [
+        "Nino Legal",
+        "Argentina",
+        "uso de IA",
+        "jurisprudencia",
+        "informe trimestral"
+      ],
+      "sota:summaryP1": "Infobae informó el 12 de noviembre de 2026 del informe trimestral de Nino Legal, plataforma argentina de IA jurídica, sobre la actividad de sus propios usuarios entre julio y septiembre. El tiempo mensual de uso por abogado pasó de 1 hora y 1 minuto en febrero a 3 horas y 55 minutos en septiembre; desde abril, los usuarios activos se multiplicaron por 3,1 y las consultas por 5,4. La plataforma suma más de 8.100 profesionales y más de 163.000 consultas sobre una base de más de 827.000 fallos oficiales y 34.500 normas. En septiembre cada usuario activo hizo de media 21 consultas por semana; el 67% buscó jurisprudencia con IA, cerca del 60% de las consultas fue a asistentes especializados por fuero, el 62% subió archivos (demandas, contratos, sentencias o escritos de la contraparte) y el 31% usó herramientas auxiliares, sobre todo de revisión, como corrección de redacción (35%) y revisión lógica de argumentos (27%).",
+      "sota:summaryP2": "Lo interesante es que el crecimiento no se debe solo a más usuarios sino a más uso por persona, y que se desplaza de la búsqueda al análisis del expediente, la redacción y la revisión, con asistentes que aplican la normativa de un fuero y una jurisdicción determinados, relevante en un país con códigos procesales distintos por provincia. Para vendors latinoamericanos, sugiere que la ventaja está en la especialización jurisdiccional; para despachos, en que la IA ya funciona como \"segunda lectura\" antes de presentar un escrito. Matiz: son datos agregados de usuarios de una empresa que vende el producto, la propia Nino Legal dice que no se extrapolan a toda la abogacía argentina, y el informe completo no se ha revisado aquí.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.infobae.com/inhouse/2026/11/12/el-uso-de-inteligencia-artificial-entre-los-abogados-argentinos-crecio-casi-cuatro-veces-en-siete-meses-segun-un-estudio/",
+          "schema:name": "El uso de inteligencia artificial entre los abogados argentinos creció casi cuatro veces en siete meses, según un estudio",
+          "sota:sourceId": "src-infobae"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nino-legal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-infobae"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-administrative-court-ew",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-administrative-court-ew",
+      "schema:name": "Administrative Court (Inglaterra y Gales)",
+      "sota:entityType": "court",
+      "schema:url": "https://www.judiciary.uk/courts-and-tribunals/higher-courts/administrative-court/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bighand",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bighand",
+      "schema:name": "BigHand",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.bighand.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-centro-estudios-garrigues",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-centro-estudios-garrigues",
+      "schema:name": "Centro de Estudios Garrigues",
+      "sota:entityType": "association",
+      "schema:url": "https://www.centrogarrigues.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-claren",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-claren",
+      "schema:name": "Claren",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.claren.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clio",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clio",
+      "schema:name": "Clio",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.clio.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-courts-tribunals-judiciary",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-courts-tribunals-judiciary",
+      "schema:name": "Courts and Tribunals Judiciary (Inglaterra y Gales)",
+      "sota:entityType": "government",
+      "schema:url": "https://www.judiciary.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-djof-forlag",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-djof-forlag",
+      "schema:name": "Djøf Forlag",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.djoef-forlag.dk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-infobae",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-infobae",
+      "schema:name": "Infobae",
+      "sota:entityType": "media",
+      "schema:url": "https://www.infobae.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-society",
+      "schema:name": "The Law Society of England and Wales",
+      "sota:entityType": "association",
+      "schema:url": "https://www.lawsociety.org.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lawvu",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lawvu",
+      "schema:name": "LawVu",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lawvu.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-business",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-business",
+      "schema:name": "Legal Business",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalbusiness.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legal-futures",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legal-futures",
+      "schema:name": "Legal Futures",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legalfutures.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-nino-legal",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-nino-legal",
+      "schema:name": "Nino Legal",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.ninolegal.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-pr-newswire",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-pr-newswire",
+      "schema:name": "PR Newswire",
+      "sota:entityType": "media",
+      "schema:url": "https://www.prnewswire.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-thomson-reuters",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-thomson-reuters",
+      "schema:name": "Thomson Reuters",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.thomsonreuters.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-todojuristas",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-todojuristas",
+      "schema:name": "TodoJuristas",
+      "sota:entityType": "media",
+      "schema:url": "https://www.todojuristas.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-us-district-court-delaware",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-us-district-court-delaware",
+      "schema:name": "U.S. District Court for the District of Delaware",
+      "sota:entityType": "court",
+      "schema:url": "https://www.ded.uscourts.gov/",
+      "sota:stub": true
+    }
+  ]
+}
