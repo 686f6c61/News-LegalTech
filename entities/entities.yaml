@@ -5869,3 +5869,75 @@ entities:
   notes: Medio de noticias argentino; su sección inhouse recoge contenido de empresas.
     Ficha mínima.
   stub: true
+- id: ent-dilitrust
+  name: DiliTrust
+  type: vendor
+  url: https://www.dilitrust.com/
+  geo:
+  - FR
+  aliases:
+  - Lini
+  notes: Plataforma francesa de gestión de contratos, entidades jurídicas y gobierno
+    corporativo para equipos in-house; su IA se llama Lini. Ficha mínima.
+  stub: true
+- id: ent-non-billable
+  name: Non-Billable
+  type: media
+  url: https://www.nonbillable.co.uk/
+  geo:
+  - GB
+  aliases: []
+  notes: Medio británico sobre la profesión jurídica y la tecnología. Ficha mínima.
+  stub: true
+- id: ent-eldigesto
+  name: elDigesto
+  type: vendor
+  url: https://www.eldigesto.cl/
+  geo:
+  - CL
+  aliases: []
+  notes: Startup chilena de IA jurídica fundada por el abogado Gabriel Castro; adquirida
+    por Grupo Tirant en noviembre de 2026. Ficha mínima.
+  stub: true
+- id: ent-cube
+  name: CUBE
+  type: vendor
+  url: https://www.cube.global/
+  geo:
+  - Global
+  aliases: []
+  notes: Proveedor de inteligencia regulatoria cuyo contenido se integra en CoCounsel
+    Legal de Thomson Reuters. Ficha mínima.
+  stub: true
+- id: ent-scale-ai
+  name: Scale AI
+  type: vendor
+  url: https://scale.com/
+  geo:
+  - US
+  aliases: []
+  notes: Empresa de datos y evaluación de IA; autora, con el IMDA, del banco de pruebas
+    SG-LegalClarify. Ficha mínima.
+  stub: true
+- id: ent-imda
+  name: Infocomm Media Development Authority
+  type: regulator
+  url: https://www.imda.gov.sg/
+  geo:
+  - SG
+  aliases:
+  - IMDA
+  notes: Regulador singapurense de medios y telecomunicaciones; colabora con Scale
+    AI en evaluación de modelos. Ficha mínima.
+  stub: true
+- id: ent-us-court-of-appeals-fifth-circuit
+  name: U.S. Court of Appeals for the Fifth Circuit
+  type: court
+  url: https://www.ca5.uscourts.gov/
+  geo:
+  - US
+  aliases:
+  - Fifth Circuit
+  notes: Tribunal federal de apelación; resolvió Jackson Federation of Teachers v.
+    Fitch (oct 2026). Ficha mínima.
+  stub: true

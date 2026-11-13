@@ -1,0 +1,9 @@
+id: ent-non-billable
+name: Non-Billable
+type: media
+url: https://www.nonbillable.co.uk/
+geo:
+- GB
+aliases: []
+notes: Medio británico sobre la profesión jurídica y la tecnología. Ficha mínima.
+stub: true

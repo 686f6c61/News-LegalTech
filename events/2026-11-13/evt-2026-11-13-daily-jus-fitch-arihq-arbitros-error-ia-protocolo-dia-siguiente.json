@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-13-daily-jus-fitch-arihq-arbitros-error-ia-protocolo-dia-siguiente",
+  "date": "2026-11-12",
+  "type": "opinion",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Un artículo de Daily Jus extrae del caso Fitch, del Quinto Circuito, y de la anulación de un laudo en Quebec qué debe hacer un árbitro cuando descubre una cita inventada: avisar a todas las partes y describir el problema",
+  "short_title": "Daily Jus: qué debe hacer un árbitro ante una cita de IA inventada",
+  "standfirst": "El Quinto Circuito reasignó el caso Fitch por cómo se gestionó una orden con hechos y citas falsos; es opinión de un profesor publicada en el blog de Jus Mundi.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Arbitraje",
+  "country": "Estados Unidos",
+  "piece_type": "Análisis",
+  "summary_p1": "Daily Jus, el blog de Jus Mundi, publicó el 12 de noviembre de 2026 un artículo del profesor Barry Appleton (New York Law School) sobre Jackson Federation of Teachers v. Fitch, resuelto el 22 de octubre de 2026 por el Quinto Circuito. El tribunal anuló una medida cautelar y ordenó reasignar el caso a otro juez porque la orden de restricción original citaba a partes que no lo eran, declaraciones de personas que quizá no existen y términos que no figuran en una ley de Misisipi, y el juez reconoció que se había usado IA en su preparación. Según Appleton, lo que pesó en la reasignación fue sobre todo cómo se gestionó el error durante las trece semanas siguientes: se retiró la orden original del expediente y se sustituyó por una versión «corregida» con fecha retroactiva, y se calificó de «clerical» lo que eran partes y hechos inventados. El artículo añade que una cita falsa sobrevivió incluso a la revisión y se descubrió en la vista, y recuerda que el Tribunal Superior de Quebec anuló en 2026 un laudo por el uso de IA del árbitro. Su protocolo: avisar por escrito a todas las partes a la vez, no sustituir un documento por otro sin explicación, describir el problema en vez de calificarlo e invitar a las partes a opinar.",
+  "summary_p2": "La lectura útil para árbitros, tribunales y abogados es que el riesgo no se agota en la cita falsa, sino en el encubrimiento: en un procedimiento administrado, la vía de la «corrección de errores» del reglamento de la CCI no sirve para arreglar en silencio un laudo con una autoridad inventada, porque justificarla exigiría revelar la herramienta y la fase en que se usó. Para las instituciones de arbitraje, apunta a que el protocolo sobre IA de los árbitros que prepara la CCI tendrá que decir también qué hacer después del error. Matiz: es una opinión de un académico, publicada en el blog de un proveedor de IA para arbitraje (Jus Mundi), la lectura de Fitch y de la decisión de Quebec es la suya, el autor señala que su cronología difiere de una nota a pie de la resolución, y el proyecto de protocolo de la CCI se cita por una nota de una reunión, no por el documento.",
+  "why_sota": "Caso del Quinto Circuito sobre una orden con citas y hechos falsos con lecciones prácticas para árbitros que descubren un error de IA en un laudo.",
+  "why_now": "Daily Jus, 12 nov 2026. NEW (frente a las piezas de sanciones por citas de IA ya publicadas).",
+  "geo": [
+    "US",
+    "CA"
+  ],
+  "topics": [
+    "Fitch",
+    "Quinto Circuito",
+    "arbitraje",
+    "alucinaciones",
+    "laudo anulado"
+  ],
+  "sources": [
+    {
+      "source_id": "src-daily-jus",
+      "url": "https://dailyjus.com/legal-tech/2026/11/the-morning-after-what-fitch-teaches-arbitrators-about-fixing-an-ai-error",
+      "cited_title": "The Morning After: What Fitch Teaches Arbitrators About Fixing an AI Error",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-daily-jus",
+    "ent-us-court-of-appeals-fifth-circuit"
+  ],
+  "lang": "es",
+  "status": "published"
+}

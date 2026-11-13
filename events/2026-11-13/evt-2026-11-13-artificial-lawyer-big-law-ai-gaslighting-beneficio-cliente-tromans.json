@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-13-artificial-lawyer-big-law-ai-gaslighting-beneficio-cliente-tromans",
+  "date": "2026-11-12",
+  "type": "opinion",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Richard Tromans pregunta en Artificial Lawyer si el gran despacho hace «AI gaslighting» con anuncios multimillonarios y le pide cifras de qué gana el cliente en coste, plazo, calidad y riesgo",
+  "short_title": "Artificial Lawyer pide a Big Law probar qué gana el cliente con la IA",
+  "standfirst": "Es una opinión del fundador del medio sin datos propios: propone mostrar menos coste, más rapidez, mejor producto y menos riesgo, y sugiere que los beneficios reales llegarán por in-house y firmas medianas.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "",
+  "piece_type": "Opinión",
+  "summary_p1": "Richard Tromans, fundador de Artificial Lawyer, publicó el 12 de noviembre de 2026 un artículo de opinión en el que se pregunta si la oleada de grandes gestos de algunos despachos de Big Law con la IA, a veces de cientos de millones de dólares, es «AI gaslighting»: si los resultados que recibe el cliente son los mismos, al mismo precio y entregados igual, duda de para qué sirve todo ello, y plantea que podría ser un coste de hacer negocio, un proyecto de marketing o una forma de reducir costes internos sin beneficio para el cliente. Propone una «modesta proposición»: dejar de hablar de lo gastado y publicar cifras de cómo la IA beneficia a quien compra los servicios, empezando por lo fácil, que partes del asunto o todo él cuesten menos y se hagan más rápido, y siguiendo por lo difícil, demostrar mejor producto y menor riesgo a largo plazo. Concluye con una ironía: puede que quienes cambien de verdad su forma de trabajar y recojan los beneficios sean los abogados in-house y las firmas pequeñas y medianas con tarifas fijas o a éxito.",
+  "summary_p2": "Importa porque pone en palabras una pregunta que ya hacen los clientes: si el despacho invierte y ahorra, ¿qué recibe quien paga? Para los departamentos jurídicos, es un argumento para pedir métricas de ahorro, plazo y calidad en las revisiones de panel y en los acuerdos de tarifas, y para los despachos, un aviso de que los anuncios de inversión sin datos sobre el cliente pueden perder credibilidad. Matiz: es una opinión del editor de un medio especializado, sin datos ni ejemplos concretos de ningún despacho, y la hipótesis de que la IA solo reduce costes internos no se contrasta con evidencia.",
+  "why_sota": "Crítica de un medio de referencia a los anuncios de IA de Big Law, con una lista de métricas que el cliente podría exigir.",
+  "why_now": "Artificial Lawyer, 12 nov 2026. NEW (frente a Latham y las piezas de despachos de otros días).",
+  "geo": [
+    "GB",
+    "US"
+  ],
+  "topics": [
+    "Artificial Lawyer",
+    "Big Law",
+    "beneficio al cliente",
+    "tarifas",
+    "opinión"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
+      "cited_title": "Is Big Law 'AI Gaslighting' Us?",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

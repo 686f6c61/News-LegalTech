@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-13-icam-aepd-cotino-encuentro-ia-proteccion-datos-articulo-22-rgpd",
+  "date": "2026-11-12",
+  "type": "guidance",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "El presidente de la AEPD defiende ante el ICAM una IA con garantías y un artículo 22 del RGPD más claro, centrado en transparencia, explicabilidad y revisión humana en lugar de prohibiciones generales",
+  "short_title": "La AEPD pide ante el ICAM un artículo 22 del RGPD más claro",
+  "standfirst": "Lorenzo Cotino repasó las guías de la AEPD sobre IA en la administración y agentes, y avanzó un laboratorio con 140 grupos; son posiciones expresadas en un acto, no una norma.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Protección de datos",
+  "country": "España",
+  "piece_type": "Orientación",
+  "summary_p1": "El Ilustre Colegio de la Abogacía de Madrid (ICAM) informó el 12 de noviembre de 2026 de que celebró un encuentro de ICAM AVANZA con el presidente de la Agencia Española de Protección de Datos (AEPD), Lorenzo Cotino, y representantes de grandes empresas, despachos, instituciones y academia sobre los retos jurídicos de la IA y la protección de datos. Según la nota, Cotino defendió una visión favorable a adoptar la IA con las garantías necesarias y repasó iniciativas de su mandato: la guía para el uso de IA en las administraciones públicas, los trabajos sobre agentes de IA, el decálogo sobre asistentes de IA y las actuaciones sobre generación de imágenes, protección de denunciantes y neurodatos. Destacó también un laboratorio de investigación con 140 grupos. Sobre el artículo 22 del RGPD, relativo a las decisiones individuales automatizadas, planteó avanzar hacia un marco más claro que supere las incertidumbres del concepto de decisión exclusivamente automatizada y priorice transparencia, explicabilidad y posibilidad de revisión humana frente a prohibiciones generales. El decano del ICAM, Eugenio Ribón, reivindicó el papel de la abogacía en definir las reglas de la transformación digital.",
+  "summary_p2": "Para quien asesora en IA y datos, la señal es el tono del regulador: orientación práctica, apertura a revisar el artículo 22 y atención a los agentes de IA, que es un tema donde hoy hay poca guía. Los equipos de cumplimiento pueden leerlo como un adelanto de qué criterios mirará la AEPD (garantías efectivas más que prohibiciones) y los despachos, como un foro donde influir en ellos. Matiz: es la crónica del propio colegio sobre un acto, las posiciones de Cotino son declaraciones suyas y no un cambio normativo ni un criterio vinculante, la reforma del artículo 22 dependería del legislador europeo, y la nota no ofrece fechas ni textos concretos.",
+  "why_sota": "El regulador español de datos expone en un foro de la abogacía su línea sobre agentes de IA y sobre el futuro del artículo 22 del RGPD.",
+  "why_now": "Nota del ICAM, 12 nov 2026. NEW (frente a las piezas de la AEPD de octubre).",
+  "geo": [
+    "ES",
+    "EU"
+  ],
+  "topics": [
+    "AEPD",
+    "ICAM",
+    "RGPD",
+    "artículo 22",
+    "agentes de IA"
+  ],
+  "sources": [
+    {
+      "source_id": "src-icam",
+      "url": "https://web.icam.es/lorenzo-cotino-inteligencia-artificial-proteccion-datos-icam/",
+      "cited_title": "El ICAM reúne al presidente de la AEPD y a destacados expertos de la abogacía para abordar los retos de la inteligencia artificial y la protección de datos",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-icam",
+    "ent-aepd"
+  ],
+  "lang": "es",
+  "status": "published"
+}

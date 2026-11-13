@@ -1,0 +1,11 @@
+id: ent-imda
+name: Infocomm Media Development Authority
+type: regulator
+url: https://www.imda.gov.sg/
+geo:
+- SG
+aliases:
+- IMDA
+notes: Regulador singapurense de medios y telecomunicaciones; colabora con Scale AI
+  en evaluación de modelos. Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-dilitrust
+name: DiliTrust
+type: vendor
+url: https://www.dilitrust.com/
+geo:
+- FR
+aliases:
+- Lini
+notes: Plataforma francesa de gestión de contratos, entidades jurídicas y gobierno
+  corporativo para equipos in-house; su IA se llama Lini. Ficha mínima.
+stub: true

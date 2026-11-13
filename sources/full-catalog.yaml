@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 191
+count: 192
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -2123,5 +2123,16 @@ sources:
   frequency: continuo
   why: Tribunal federal de distrito de Delaware. Ficha añadida para citar la resolución en Gill v. Everyday Dose.
   region: US
+  lang: EN
+  tier: archive
+
+- id: src-non-billable
+  name: Non-Billable
+  url: https://www.nonbillable.co.uk/
+  type: news
+  kind: news
+  frequency: diario
+  why: Medio británico sobre la profesión jurídica y la tecnología. Ficha añadida para citar el marco de fluidez en IA encargado por Harvey.
+  region: GB
   lang: EN
   tier: archive

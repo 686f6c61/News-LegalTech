@@ -1,0 +1,11 @@
+id: ent-us-court-of-appeals-fifth-circuit
+name: U.S. Court of Appeals for the Fifth Circuit
+type: court
+url: https://www.ca5.uscourts.gov/
+geo:
+- US
+aliases:
+- Fifth Circuit
+notes: Tribunal federal de apelación; resolvió Jackson Federation of Teachers v. Fitch
+  (oct 2026). Ficha mínima.
+stub: true

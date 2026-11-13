@@ -1,0 +1,48 @@
+{
+  "id": "evt-2026-11-13-cube-thomson-reuters-cocounsel-legal-inteligencia-regulatoria-750-jurisdicciones",
+  "date": "2026-11-12",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Thomson Reuters incorpora la inteligencia regulatoria de CUBE a CoCounsel Legal, con normas y orientaciones de más de 12.000 organismos en 750 jurisdicciones",
+  "short_title": "CoCounsel Legal suma la inteligencia regulatoria de CUBE",
+  "standfirst": "Los agentes de CoCounsel consultarán a los de CUBE para traer normas y guías supervisoras junto a Westlaw y Practical Law; las cifras de rendimiento son del benchmark de CUBE.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación jurídica",
+  "country": "",
+  "piece_type": "Integración",
+  "summary_p1": "LegalTech.ca informó el 12 de noviembre de 2026 de que Thomson Reuters ha añadido la inteligencia regulatoria de CUBE a CoCounsel Legal, de modo que el abogado pueda investigar tanto las normas que se aplican a un cliente como las orientaciones que los reguladores han publicado sobre cómo cumplirlas. Cuando se hace una pregunta regulatoria, los agentes de IA de CoCounsel pueden llamar a los de CUBE para recuperar reglas, códigos y guías de supervisión, que se muestran junto a Westlaw, Practical Law y la información de Reuters. CUBE dice que sigue a más de 12.000 organismos emisores en 750 jurisdicciones, con 250 expertos en la materia que revisan el contenido. En su propio benchmark, afirma haber recuperado entre seis y 17 veces más material de orientación, códigos y documentos de supervisión que los otros modelos probados, y de tres a cuatro veces más regulaciones que clasifica como esenciales. La integración sigue al Multinational Profile de CoCounsel Legal, que permite comparar requisitos en más de 100 países y territorios.",
+  "summary_p2": "La noticia es relevante porque el hueco que más se nota en la investigación regulatoria con IA no está en la ley, sino en las guías y criterios de los supervisores, que cambian según la jurisdicción y deciden qué hay que demostrar. Para despachos y equipos de cumplimiento con clientes en varios mercados, es un candidato a probar con casos reales, y para los proveedores de contenido regulatorio, una muestra de que su ruta es integrarse en las plataformas grandes mediante agentes. Matiz: las cifras de recuperación proceden del benchmark de la propia CUBE, recuperar más material no equivale a responder mejor, la fuente es una breve de un medio canadiense y no se informa de disponibilidad, precio ni de cómo se verifican las citas.",
+  "why_sota": "Agentes de una plataforma jurídica llaman a agentes de un proveedor regulatorio para traer también las guías supervisoras de cada jurisdicción.",
+  "why_now": "LegalTech.ca, 12 nov 2026. NEW (frente a otras noticias de CoCounsel).",
+  "geo": [
+    "US",
+    "CA",
+    "Global"
+  ],
+  "topics": [
+    "Thomson Reuters",
+    "CoCounsel Legal",
+    "CUBE",
+    "regulación",
+    "agentes"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-ca",
+      "url": "https://legaltech.ca/2026/11/12/cube-brings-global-regulatory-guidance-to-cocounsel-legal/",
+      "cited_title": "CUBE Brings Global Regulatory Guidance to CoCounsel Legal",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-thomson-reuters",
+    "ent-cube",
+    "ent-legaltech-ca"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,10 @@
+id: ent-eldigesto
+name: elDigesto
+type: vendor
+url: https://www.eldigesto.cl/
+geo:
+- CL
+aliases: []
+notes: Startup chilena de IA jurídica fundada por el abogado Gabriel Castro; adquirida
+  por Grupo Tirant en noviembre de 2026. Ficha mínima.
+stub: true

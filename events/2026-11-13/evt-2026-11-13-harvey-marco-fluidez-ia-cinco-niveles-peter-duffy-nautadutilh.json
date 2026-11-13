@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-13-harvey-marco-fluidez-ia-cinco-niveles-peter-duffy-nautadutilh",
+  "date": "2026-11-12",
+  "type": "guidance",
+  "sota_score": 7.1,
+  "ai_legaltech": true,
+  "title": "Un marco de cinco niveles encargado por Harvey a Peter Duffy permite medir la fluidez en IA de cada abogado con datos de uso de la plataforma, y NautaDutilh ya lo cita en una oferta de empleo",
+  "short_title": "Harvey encarga un marco de cinco niveles de fluidez en IA",
+  "standfirst": "Va de «Dormant» a «Catalyst» y se basa en datos de uso, no en autoevaluaciones; es un marco impulsado por un proveedor y su valor depende de que lo adopte el mercado.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "Reino Unido",
+  "piece_type": "Orientación",
+  "summary_p1": "Non-Billable publicó el 12 de noviembre de 2026 que el consultor de IA jurídica Peter Duffy, fundador de TITANS y antes en DWF y Deloitte, ha desarrollado, en una investigación encargada por Harvey, un marco de cinco niveles para medir la fluidez en IA de los abogados: Dormant (no usuario), Functional (usos básicos como resumir o redactar sencillo), Proficient (uso regular y fiable en trabajo sustantivo), Builder (crea activos reutilizables, como agentes y playbooks, para sí y sus colegas) y Catalyst (los crea para un equipo, área o firma y fija estándares). La mayor diferencia, según Duffy, está entre los niveles tres y cuatro, cuando se pasa de usar IA a construir con ella, y poco tiene que ver con la antigüedad. El marco es agnóstico de plataforma y permite que las firmas analicen sus datos de uso para asignar a cada abogado un nivel, con la evidencia, sin depender de autoevaluaciones. CMS Netherlands participó en la investigación y NautaDutilh ya lo menciona en una oferta para dos asociados de M&A.",
+  "summary_p2": "La utilidad es que las firmas dejan de medir adopción con cifras de prompts y licencias activas, que pueden ocultar que casi nada ha cambiado en el trabajo, y pasan a un lenguaje común que sirve para formación, evaluación y selección: pedir un «Proficient (L3)» o un «Builder (L4)» es más concreto que exigir «comodidad con herramientas de IA». Para los despachos, el mensaje práctico de Duffy es llevar a todos al nivel tres y formar un grupo menor de constructores, y para los candidatos, saber qué se les va a pedir. Matiz: el marco lo encarga Harvey, lo cuenta un medio con las declaraciones de su autor y de firmas participantes, medir con datos de uso plantea cuestiones de privacidad laboral que la fuente no desarrolla, y no hay validación independiente de que los niveles predigan la calidad del trabajo.",
+  "why_sota": "Marco de fluidez en IA con cinco niveles medidos con datos de uso de plataforma, que ya entra en la selección de personal.",
+  "why_now": "Non-Billable, 12 nov 2026. NEW (frente a las piezas de adopción por despacho y de formación de otros días).",
+  "geo": [
+    "GB",
+    "NL"
+  ],
+  "topics": [
+    "Harvey",
+    "Peter Duffy",
+    "fluidez en IA",
+    "TITANS",
+    "NautaDutilh"
+  ],
+  "sources": [
+    {
+      "source_id": "src-non-billable",
+      "url": "https://www.nonbillable.co.uk/news/how-to-measure-ai-fluency-lawyers-framework-harvey",
+      "cited_title": "Law firms have a new way to measure how good their lawyers are at AI",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-harvey",
+    "ent-non-billable",
+    "ent-nautadutilh"
+  ],
+  "lang": "es",
+  "status": "published"
+}

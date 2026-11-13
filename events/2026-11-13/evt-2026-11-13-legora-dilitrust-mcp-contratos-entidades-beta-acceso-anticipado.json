@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-13-legora-dilitrust-mcp-contratos-entidades-beta-acceso-anticipado",
+  "date": "2026-11-11",
+  "type": "product",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Legora y DiliTrust se alían para que los equipos in-house busquen en Legora sus contratos, plantillas y fichas de sociedades de DiliTrust mediante MCP, en beta de acceso anticipado",
+  "short_title": "Legora conecta los contratos y sociedades de DiliTrust por MCP",
+  "standfirst": "La integración solo lee datos de DiliTrust, respeta sus permisos y deja allí cambios, aprobaciones y firmas; empieza como beta para clientes comunes y sin precio.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Contratos y datos",
+  "country": "",
+  "piece_type": "Integración",
+  "summary_p1": "Legora y DiliTrust anunciaron el 11 de noviembre de 2026 una alianza para que los clientes de ambas puedan buscar desde Legora los contratos, las plantillas aprobadas y los registros de entidades que gestionan en DiliTrust. La integración se apoya en el Model Context Protocol (MCP, un estándar abierto para que las herramientas de IA consulten otros sistemas) y llegará a los clientes comunes como beta de acceso anticipado. Según el comunicado, permite preguntar por obligaciones, fechas, partes o ley aplicable de un contrato, localizar contratos por palabra clave, contraparte, carpeta o tipo para que el agente de Legora muestre datos de varios a la vez, redactar o editar a partir de las plantillas aprobadas y consultar fichas de sociedades, con su jurisdicción, accionistas, estructura de gobierno y capital. La integración lee los datos sin modificarlos, el acceso sigue los permisos definidos en DiliTrust y cualquier cambio, aprobación o firma se hace allí.",
+  "summary_p2": "La idea es que el abogado in-house investigue y redacte en una herramienta mientras el registro vivo de contratos y sociedades sigue en otra, sin exportaciones manuales, y que la fuente de verdad no se duplique. Para los departamentos jurídicos que ya usan DiliTrust y valoran Legora, es una razón concreta para pedir acceso a la beta, y para los vendors de gestión de contratos, una señal más de que abrir el dato a los asistentes de IA de terceros se está volviendo requisito. Matiz: es un comunicado conjunto de los proveedores, es una beta con acceso anticipado sin fecha de disponibilidad general ni precio, la integración es de solo lectura por ahora (lo presentan como primer paso con más fases) y no hay datos de uso ni evaluación independiente.",
+  "why_sota": "Integración MCP de solo lectura entre un agente jurídico y un repositorio de contratos y sociedades que conserva los permisos de origen.",
+  "why_now": "Comunicado de Legora y DiliTrust, 11 nov 2026. NEW (frente a LawVu MCP del 12 de noviembre y Legora x Agiloft).",
+  "geo": [
+    "SE",
+    "FR"
+  ],
+  "topics": [
+    "Legora",
+    "DiliTrust",
+    "MCP",
+    "contratos",
+    "gobierno corporativo"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legora",
+      "url": "https://legora.com/newsroom/legora-and-dilitrust-partner-to-connect-legal-ai-with-contract-and-entity-management-for-in-house-legal-teams",
+      "cited_title": "Legora and DiliTrust partner to connect legal AI with contract and entity management for in-house legal teams",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-legora",
+    "ent-dilitrust"
+  ],
+  "lang": "es",
+  "status": "published"
+}

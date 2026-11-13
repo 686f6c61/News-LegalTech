@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-13-latham-un-millon-dolares-premios-asociados-iniciativas-ia-2027",
+  "date": "2026-11-12",
+  "type": "market",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Latham & Watkins reserva un millón de dólares para premiar en 2027 a los asociados que lideren o aporten a iniciativas de IA del despacho y de sus clientes",
+  "short_title": "Latham reserva 1 M$ para premiar a asociados que impulsen IA",
+  "standfirst": "Los premios, abiertos a todos los asociados, se repartirán en primavera según su importancia, impacto y escalabilidad; el ABA Journal cita a Reuters y no hay detalle de criterios ni reparto.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Despachos",
+  "country": "Estados Unidos",
+  "piece_type": "Mercado",
+  "summary_p1": "El ABA Journal informó el 12 de noviembre de 2026 de que Latham & Watkins pone en marcha un programa para recompensar a sus asociados: reserva un millón de dólares para quienes lideren o contribuyan a iniciativas de inteligencia artificial del despacho y de sus clientes en 2027. Según Reuters, citado por la revista, todos los asociados pueden optar a los premios, que se asignarán tras un proceso de nominación y revisión en primavera, y la firma ha dicho que se basarán en la significación, el impacto y la escalabilidad de cada contribución. El texto recuerda otros programas recientes: Ropes & Gray permite a sus más de 1.000 asociados y counsels computar 100 horas de experimentación y formación en IA dentro de sus horas facturables, y Kirkland & Ellis habría dicho que destinará 500 millones de dólares de sus ingresos a una plataforma de IA propia en los próximos años.",
+  "summary_p2": "Lo interesante es el mecanismo: en lugar de pedir adopción, el despacho paga por contribuciones medibles, lo que traslada el incentivo de usar la herramienta a construir y escalar soluciones, justo la diferencia entre niveles de fluidez que se discute en otras piezas del día. Para los despachos que compiten por talento joven, es una referencia de cuánto se está dispuesto a pagar por esa capacidad, y para las áreas de innovación, un argumento para pedir presupuesto de incentivos. Matiz: es una nota breve que se apoya en Reuters, no se detalla cómo se reparte, cuántos premios habrá ni su importe individual, y la cifra, de un millón, es modesta frente a los ingresos de una firma de ese tamaño.",
+  "why_sota": "Un gran despacho convierte la contribución a proyectos de IA en un premio económico explícito para sus asociados.",
+  "why_now": "ABA Journal (citando a Reuters), 12 nov 2026. NEW (frente a Ropes & Gray y Kirkland, ya citados).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "Latham & Watkins",
+    "asociados",
+    "incentivos",
+    "IA",
+    "Ropes & Gray"
+  ],
+  "sources": [
+    {
+      "source_id": "src-aba-journal",
+      "url": "https://www.abajournal.com/news/article/latham-watkins-devotes-1m-to-associate-ai-program/",
+      "cited_title": "Latham & Watkins devotes $1M to AI program for associates",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-latham-watkins",
+    "ent-aba-journal"
+  ],
+  "lang": "es",
+  "status": "published"
+}

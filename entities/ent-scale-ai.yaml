@@ -1,0 +1,10 @@
+id: ent-scale-ai
+name: Scale AI
+type: vendor
+url: https://scale.com/
+geo:
+- US
+aliases: []
+notes: Empresa de datos y evaluación de IA; autora, con el IMDA, del banco de pruebas
+  SG-LegalClarify. Ficha mínima.
+stub: true

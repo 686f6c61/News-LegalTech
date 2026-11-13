@@ -1,0 +1,10 @@
+id: ent-cube
+name: CUBE
+type: vendor
+url: https://www.cube.global/
+geo:
+- Global
+aliases: []
+notes: Proveedor de inteligencia regulatoria cuyo contenido se integra en CoCounsel
+  Legal de Thomson Reuters. Ficha mínima.
+stub: true

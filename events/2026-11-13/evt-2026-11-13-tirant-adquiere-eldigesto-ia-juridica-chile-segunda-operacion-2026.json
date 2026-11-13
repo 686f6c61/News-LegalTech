@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-13-tirant-adquiere-eldigesto-ia-juridica-chile-segunda-operacion-2026",
+  "date": "2026-11-12",
+  "type": "market",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Grupo Tirant adquiere elDigesto, una startup chilena de IA jurídica, en su segunda operación corporativa de 2026 tras la compra de elDial en Argentina",
+  "short_title": "Grupo Tirant compra la startup chilena de IA jurídica elDigesto",
+  "standfirst": "La editorial valenciana refuerza su apuesta legaltech en Iberoamérica; el comunicado no da precio ni condiciones y la fuente es la propia Tirant.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "España",
+  "piece_type": "Adquisición",
+  "summary_p1": "Grupo Tirant anunció el 12 de noviembre de 2026 la adquisición de elDigesto, una startup chilena especializada en inteligencia artificial jurídica y herramientas digitales para profesionales del Derecho. Fundada en Chile por el abogado Gabriel Castro, elDigesto combina IA jurídica con herramientas de trabajo y acceso a fuentes especializadas. Es la segunda operación corporativa de la editorial valenciana en 2026, tras su entrada en Argentina en septiembre con la integración de elDial, y refuerza su presencia en Chile, donde opera desde hace más de una década y ha publicado más de 1.200 títulos. Laura Barrios, subdirectora del grupo, dice que su vocación es ser el mayor y mejor proveedor de tecnología y conocimiento jurídico en Iberoamérica, y Castro afirma que integrarse en el grupo era la mejor opción para su proyecto. Tirant presenta su plataforma Tirant Prime, con IA propia, investigación jurídica y gestión, como la base sobre la que se apoyará.",
+  "summary_p2": "Importa porque confirma una pauta del mercado: las editoriales jurídicas con un corpus propio compran capacidades de IA en lugar de depender solo de terceros, y lo hacen país a país en Iberoamérica. Para los despachos y departamentos jurídicos que usan Tirant, la compra sugiere más funciones de IA con fuentes especializadas en Chile y, probablemente, en la plataforma común, y para las startups locales de IA jurídica, un posible camino de salida frente a las plataformas globales. Matiz: la fuente es el comunicado de la propia Tirant, no se informa de precio ni de condiciones, ni de qué ocurrirá con el producto y los clientes de elDigesto, y cualquier integración con Tirant Prime queda por ver.",
+  "why_sota": "Una editorial jurídica ibérica compra una startup de IA jurídica en LATAM para sumar capacidades a su plataforma.",
+  "why_now": "Comunicado de Grupo Tirant, 12 nov 2026. NEW.",
+  "geo": [
+    "ES",
+    "CL",
+    "AR"
+  ],
+  "topics": [
+    "Grupo Tirant",
+    "elDigesto",
+    "adquisición",
+    "Chile",
+    "Tirant Prime"
+  ],
+  "sources": [
+    {
+      "source_id": "src-tirant-lo-blanch",
+      "url": "https://tirant.com/noticias-tirant/noticia-grupo-tirant-refuerza-su-apuesta-tecnologica-con-la-adquisicion-de-la-start-up-chilena-de-ia-juridica-eldigesto/",
+      "cited_title": "Grupo Tirant refuerza su apuesta tecnológica con la adquisición de la start-up chilena de IA jurídica elDigesto",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-tirant",
+    "ent-eldigesto"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-13-scale-ai-imda-sg-legalclarify-benchmark-derecho-singapur-preguntas-hechos",
+  "date": "2026-11-12",
+  "type": "research",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "Scale AI y el IMDA de Singapur presentan SG-LegalClarify, un banco de pruebas con 1.860 escenarios de derecho singapurense que mide si 19 modelos piden los hechos que faltan antes de responder",
+  "short_title": "SG-LegalClarify mide si los modelos piden los hechos que faltan",
+  "standfirst": "El mejor modelo cumple el 69,8% de los criterios obligatorios a libro cerrado y alrededor del 39% de los casos con datos incompletos no recibe ninguna pregunta aclaratoria; la fuente es un texto de Unite.AI redactado por un agente de IA.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación",
+  "country": "Singapur",
+  "piece_type": "Informe",
+  "summary_p1": "Unite.AI informó el 12 de noviembre de 2026 de que Scale AI y la Infocomm Media Development Authority (IMDA) de Singapur han presentado SG-LegalClarify, un banco de pruebas que evalúa a 19 modelos de lenguaje en 1.860 escenarios de diez áreas del derecho de Singapur y mide tanto la exactitud jurídica como si el modelo pregunta por los hechos que faltan antes de contestar. Parte de 1.100 preguntas en inglés, 340 completas y 760 incompletas, redactadas por 23 abogados verificados, con rúbricas de 12.546 criterios. Según el artículo, el mejor modelo a libro cerrado cumplió el 69,8% de los criterios obligatorios, frente a una media del 53,8%; con búsqueda web el líder llegó al 77,8% y la media al 63,0%. La recuperación de reglas fue el componente más débil, con 43,2% sin búsqueda y 56,5% con ella. Alrededor del 39% de los escenarios con datos ausentes no recibió ninguna pregunta aclaratoria, y en torno al 28% de los que ya eran suficientes recibió preguntas innecesarias. Incluso cuando los modelos pedían todos los hechos relevantes, solo el 55,6% llegó a la conclusión correcta.",
+  "summary_p2": "El interés práctico es que el banco de pruebas trata la pregunta aclaratoria como parte de la exactitud, algo que casi no se evalúa y que es lo que hace un buen abogado ante un cliente que cuenta la mitad de la historia, y que lo mide con derecho local y no con pruebas internacionales. Para los vendors, es una vara de evaluación más para asistentes de consulta ciudadana, y para quienes compran o regulan IA jurídica, un recordatorio de que los resultados en un ordenamiento no se trasladan sin más a otro. Matiz: la fuente es un artículo de Unite.AI firmado por un agente de IA y revisado por su redacción, no el artículo científico, que no se ha consultado; los nombres de modelos y cifras son los que da ese texto, los autores reconocen límites en la validación humana y en el acceso a búsqueda, y los propios autores advierten de que las puntuaciones no prueban que un modelo sea seguro para dar asesoramiento jurídico sin supervisión.",
+  "why_sota": "Benchmark jurídico nacional que evalúa a la vez la exactitud y la capacidad de pedir los hechos que faltan, con 12.546 criterios de abogados.",
+  "why_now": "Unite.AI, 12 nov 2026. NEW (frente a otros benchmarks jurídicos ya citados).",
+  "geo": [
+    "SG",
+    "US"
+  ],
+  "topics": [
+    "Scale AI",
+    "IMDA",
+    "SG-LegalClarify",
+    "benchmark",
+    "Singapur"
+  ],
+  "sources": [
+    {
+      "source_id": "src-unite-ai",
+      "url": "https://www.unite.ai/scale-ai-launches-singapore-legal-reasoning-benchmark-with-imda/",
+      "cited_title": "Scale AI Launches Singapore Legal Reasoning Benchmark with IMDA",
+      "accessed": "2026-11-13"
+    }
+  ],
+  "entities": [
+    "ent-scale-ai",
+    "ent-imda",
+    "ent-unite-ai"
+  ],
+  "lang": "es",
+  "status": "published"
+}
