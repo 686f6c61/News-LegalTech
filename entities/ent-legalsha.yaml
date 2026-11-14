@@ -1,0 +1,10 @@
+id: ent-legalsha
+name: Abogados Legalsha
+type: law_firm
+url: https://www.legalsha.com/
+geo:
+- ES
+aliases: []
+notes: Despacho español de reclamaciones de consumo; su CEO, Rebin Shamamy, firma
+  la tribuna de El Confidencial. Ficha mínima.
+stub: true

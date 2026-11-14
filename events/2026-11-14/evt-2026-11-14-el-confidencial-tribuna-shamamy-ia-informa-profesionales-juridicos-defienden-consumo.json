@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-14-el-confidencial-tribuna-shamamy-ia-informa-profesionales-juridicos-defienden-consumo",
+  "date": "2026-11-13",
+  "type": "opinion",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Una tribuna en El Confidencial advierte de que consultar a ChatGPT sobre consumo da respuestas convincentes pero no orientación jurídica a medida, y pide verificar normas y sentencias en fuentes oficiales",
+  "short_title": "El Confidencial: la IA informa, los profesionales jurídicos defienden",
+  "standfirst": "Es una tribuna firmada por el CEO de Abogados Legalsha, un despacho con interés en el asunto; es opinión, no datos, y el Centro Europeo del Consumidor se cita sin enlace.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Ejercicio profesional e IA",
+  "country": "España",
+  "piece_type": "Opinión",
+  "summary_p1": "Rebin Shamamy, CEO de Abogados Legalsha, publicó el 13 de noviembre de 2026 en El Confidencial una tribuna en la que sostiene que usar ChatGPT y otras herramientas de IA para resolver dudas de consumo puede democratizar el acceso a la información jurídica, pero que no garantiza un asesoramiento individualizado. Recuerda que el Centro Europeo del Consumidor en España advirtió de reclamaciones apoyadas en sentencias inexistentes generadas por IA, y que una respuesta puede ser correcta en abstracto y inadecuada para el caso concreto por la fecha del contrato, una cláusula o los plazos. Concluye que la clave es un uso crítico con verificación, y que las administraciones deberían reforzar el acceso a información oficial comprensible y a canales de orientación.",
+  "summary_p2": "Importa porque pone el foco en un riesgo que ya llega a los despachos de consumo: clientes que traen reclamaciones preparadas con IA, con citas que hay que comprobar y con la expectativa de que el trabajo cueste menos. Para los despachos, es un argumento para un protocolo de primera consulta que verifique lo que trae el cliente y explique qué aporta el análisis del caso, y para los organismos de consumo, para reforzar la información oficial. Matiz: el autor dirige un despacho de reclamaciones, es opinión sin datos propios y el Reglamento (UE) 2024/1689 se menciona solo a título general, sin analizar las obligaciones de transparencia en este uso.",
+  "why_sota": "Visión de un despacho de consumo sobre los clientes que se asesoran con IA.",
+  "why_now": "El Confidencial, 13 nov 2026. NEW (frente a Carrera/Marbella del 13 nov: otro autor y otro ángulo, el consumidor).",
+  "geo": [
+    "ES"
+  ],
+  "topics": [
+    "consumo",
+    "ChatGPT",
+    "verificación",
+    "Centro Europeo del Consumidor",
+    "opinión"
+  ],
+  "sources": [
+    {
+      "source_id": "src-el-confidencial",
+      "url": "https://www.elconfidencial.com/juridico/tribuna/2026-11-13/la-ia-informa-los-profesionales-juridicos-defienden_4453644/",
+      "cited_title": "La IA informa, los profesionales jurídicos defienden",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-el-confidencial",
+    "ent-legalsha"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+id: ent-association-of-costs-lawyers
+name: Association of Costs Lawyers
+type: association
+url: https://www.costslawyer.co.uk/
+geo:
+- GB
+aliases:
+- ACL
+notes: Asociación británica de abogados de costas; celebró su conferencia anual a
+  principios de noviembre de 2026. Ficha mínima.
+stub: true

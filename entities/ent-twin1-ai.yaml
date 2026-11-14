@@ -1,0 +1,11 @@
+id: ent-twin1-ai
+name: Twin1 AI
+type: vendor
+url: https://twin1.ai/
+geo:
+- US
+- GB
+aliases: []
+notes: Startup de gemelos digitales de IA para profesionales, con clientes como Linklaters,
+  Orrick y Dechert. Ficha mínima.
+stub: true

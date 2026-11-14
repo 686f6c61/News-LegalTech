@@ -1,0 +1,9 @@
+id: ent-legaltech-digest
+name: LegalTech Digest
+type: media
+url: https://www.legaltechdigest.com/
+geo:
+- US
+aliases: []
+notes: Agregador de noticias legaltech que resume otras fuentes. Ficha mínima.
+stub: true

@@ -1,0 +1,11 @@
+id: ent-delaware-court-of-chancery
+name: Tribunal de Chancery de Delaware
+type: court
+url: https://courts.delaware.gov/chancery/
+geo:
+- US
+aliases:
+- Delaware Court of Chancery
+notes: Tribunal de equidad de Delaware; la vicecanciller Lori W. Will impuso la sanción
+  de 2.500 dólares. Ficha mínima.
+stub: true

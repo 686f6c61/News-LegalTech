@@ -1,0 +1,11 @@
+id: ent-universidad-iberoamericana
+name: Universidad Iberoamericana
+type: university
+url: https://ibero.mx/
+geo:
+- MX
+aliases:
+- Ibero
+notes: Universidad de Ciudad de México; su Observatorio sobre el Sistema de Justicia
+  organizó el seminario El Derecho y la IA. Ficha mínima.
+stub: true

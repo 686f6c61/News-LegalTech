@@ -5941,3 +5941,118 @@ entities:
   notes: Tribunal federal de apelación; resolvió Jackson Federation of Teachers v.
     Fitch (oct 2026). Ficha mínima.
   stub: true
+- id: ent-richards-layton-finger
+  name: Richards, Layton & Finger
+  type: law_firm
+  url: https://www.rlf.com/
+  geo:
+  - US
+  aliases:
+  - RL&F
+  notes: Despacho de Wilmington (Delaware); su directivo Richard Rollo fue sancionado
+    por un escrito con alucinaciones de IA. Ficha mínima.
+  stub: true
+- id: ent-delaware-court-of-chancery
+  name: Tribunal de Chancery de Delaware
+  type: court
+  url: https://courts.delaware.gov/chancery/
+  geo:
+  - US
+  aliases:
+  - Delaware Court of Chancery
+  notes: Tribunal de equidad de Delaware; la vicecanciller Lori W. Will impuso la
+    sanción de 2.500 dólares. Ficha mínima.
+  stub: true
+- id: ent-twin1-ai
+  name: Twin1 AI
+  type: vendor
+  url: https://twin1.ai/
+  geo:
+  - US
+  - GB
+  aliases: []
+  notes: Startup de gemelos digitales de IA para profesionales, con clientes como
+    Linklaters, Orrick y Dechert. Ficha mínima.
+  stub: true
+- id: ent-curql
+  name: Curql
+  type: investor
+  url: https://curql.com/
+  geo:
+  - US
+  aliases: []
+  notes: Fondo estratégico respaldado por más de 160 cooperativas de crédito; lideró
+    la ampliación seed de Twin1 AI. Ficha mínima.
+  stub: true
+- id: ent-association-of-costs-lawyers
+  name: Association of Costs Lawyers
+  type: association
+  url: https://www.costslawyer.co.uk/
+  geo:
+  - GB
+  aliases:
+  - ACL
+  notes: Asociación británica de abogados de costas; celebró su conferencia anual
+    a principios de noviembre de 2026. Ficha mínima.
+  stub: true
+- id: ent-clifford-chance
+  name: Clifford Chance
+  type: law_firm
+  url: https://www.cliffordchance.com/
+  geo:
+  - GB
+  aliases: []
+  notes: Despacho internacional; organizó la sesión sobre IA en arbitraje en la Dubai
+    Arbitration Week. Ficha mínima.
+  stub: true
+- id: ent-dubai-arbitration-week
+  name: Dubai Arbitration Week
+  type: other
+  url: https://www.dubaiarbitrationweek.com/
+  geo:
+  - AE
+  aliases: []
+  notes: Semana de arbitraje celebrada del 9 al 13 de noviembre de 2026 en Dubái.
+    Ficha mínima.
+  stub: true
+- id: ent-sartori-partners
+  name: Sartori & Partners
+  type: media
+  url: https://sartoriglobal.com/
+  geo:
+  - US
+  - GB
+  aliases: []
+  notes: Consultora de selección que publica análisis de movimientos de abogados.
+    Ficha mínima.
+  stub: true
+- id: ent-legalsha
+  name: Abogados Legalsha
+  type: law_firm
+  url: https://www.legalsha.com/
+  geo:
+  - ES
+  aliases: []
+  notes: Despacho español de reclamaciones de consumo; su CEO, Rebin Shamamy, firma
+    la tribuna de El Confidencial. Ficha mínima.
+  stub: true
+- id: ent-universidad-iberoamericana
+  name: Universidad Iberoamericana
+  type: university
+  url: https://ibero.mx/
+  geo:
+  - MX
+  aliases:
+  - Ibero
+  notes: Universidad de Ciudad de México; su Observatorio sobre el Sistema de Justicia
+    organizó el seminario El Derecho y la IA. Ficha mínima.
+  stub: true
+- id: ent-legaltech-digest
+  name: LegalTech Digest
+  type: media
+  url: https://www.legaltechdigest.com/
+  geo:
+  - US
+  aliases: []
+  notes: Agregador de noticias legaltech que resume otras fuentes. Ficha mínima.
+  stub: true

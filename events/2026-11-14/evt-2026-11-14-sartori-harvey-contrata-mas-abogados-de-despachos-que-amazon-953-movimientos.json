@@ -1,0 +1,47 @@
+{
+  "id": "evt-2026-11-14-sartori-harvey-contrata-mas-abogados-de-despachos-que-amazon-953-movimientos",
+  "date": "2026-11-11",
+  "type": "research",
+  "sota_score": 6.8,
+  "ai_legaltech": false,
+  "title": "Sartori & Partners cuenta 953 abogados que pasaron de despachos a empresas entre mayo y octubre de 2026: Harvey, con entre 21 y 40, es la empresa que más contrató, por delante de Amazon",
+  "short_title": "Harvey, primera empresa en contratar abogados de despachos, por delante de Amazon",
+  "standfirst": "Son datos de una consultora de selección a partir de anuncios públicos y perfiles profesionales, en bandas y no cifras exactas; el análisis de Sartori no es una estadística oficial.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Mercado",
+  "country": "Estados Unidos y Reino Unido",
+  "piece_type": "Informe",
+  "summary_p1": "La consultora de selección Sartori & Partners publicó el 11 de noviembre de 2026 que entre mayo y octubre de 2026 pasaron 953 abogados de despachos a empresas, repartidos entre 772 empleadores. Harvey fue la empresa que más contrató, con entre 21 y 40 abogados, por delante de Amazon (11-20); Apple, Legora, Capital One, TikTok, OpenAI y Stellantis contrataron cada una entre 5 y 10. La consultora explica que las empresas de tecnología jurídica, como Harvey y Legora, suelen contratar a esos abogados para roles de producto, no solo para asientos legales, y que los asociados fueron el 76,7% de los movimientos a empresas y los despachos de más de mil abogados aportaron el 59,3%.",
+  "summary_p2": "Importa porque mide una competencia por el talento jurídico que ya no es solo entre despachos: los vendors de IA legal se disputan a los mismos asociados que los departamentos jurídicos, y lo hacen con roles nuevos de producto. Para los despachos grandes, es una pista de dónde van sus asociados junior, y para los directores jurídicos que contratan, de con quién compiten por perfiles de tecnología, datos y privacidad, que se mueven a empresas a un ritmo de 30,3 por cada cien movimientos laterales frente a 13,1 en todas las prácticas. Matiz: la fuente reconoce que los datos salen de anuncios públicos y perfiles profesionales y se dan en bandas, y la nota de la tabla indica que octubre se ve bajo porque las fechas de incorporación se confirman con retraso.",
+  "why_sota": "Cifra por primera vez qué empresas, y entre ellas dos vendors de IA legal, se llevan más abogados de despachos.",
+  "why_now": "Sartori & Partners, 11 nov 2026; InhouseBlog lo destaca el 13. NEW. No es IA en sentido estricto: mercado de talento.",
+  "geo": [
+    "US",
+    "GB"
+  ],
+  "topics": [
+    "Harvey",
+    "Legora",
+    "talento",
+    "contratación",
+    "Sartori"
+  ],
+  "sources": [
+    {
+      "source_id": "src-sartori-partners",
+      "url": "https://sartoriglobal.com/insights/intelligence/in-house/companies-hiring-lawyers-from-law-firms-2026/",
+      "cited_title": "Companies Hiring Lawyers From Law Firms in 2026: Harvey Hired Most",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-sartori-partners",
+    "ent-harvey",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

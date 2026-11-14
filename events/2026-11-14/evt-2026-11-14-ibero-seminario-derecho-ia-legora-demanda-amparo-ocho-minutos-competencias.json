@@ -1,0 +1,45 @@
+{
+  "id": "evt-2026-11-14-ibero-seminario-derecho-ia-legora-demanda-amparo-ocho-minutos-competencias",
+  "date": "2026-11-13",
+  "type": "other",
+  "sota_score": 6.7,
+  "ai_legaltech": true,
+  "title": "En el seminario El Derecho y la IA de la Ibero, una representante de Legora redacta en ocho minutos un borrador de demanda de amparo y ponentes enumeran siete competencias que sustituirán a memorizar leyes",
+  "short_title": "Ibero (México): IA redacta un amparo en minutos y cambia las competencias del abogado",
+  "standfirst": "Es un comunicado de prensa de la propia universidad sobre un seminario, con demostración de una vendor (Legora) y cifras atribuidas a Thomson Reuters sin enlace.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Formación",
+  "country": "México",
+  "piece_type": "Análisis",
+  "summary_p1": "La Universidad Iberoamericana de Ciudad de México publicó el 13 de noviembre de 2026 una nota sobre el seminario anual El Derecho y la IA, del Observatorio IBERO sobre el Sistema de Justicia. Stefania Rollandin, de Legora, mostró en directo cómo revisó un contrato, procesó información de un arbitraje, organizó actuaciones en un calendario y generó borradores para un juicio de amparo en ocho minutos, trabajo que, dijo, solo la demanda y las pruebas podía llevar antes tres días, y recordó que el abogado es quien firma. Xavier Careaga, de Galicia Abogados, enumeró siete competencias (resolver problemas, gestionar proyectos, analizar riesgos, creatividad, conocimiento interdisciplinar, negociación y manejo de la incertidumbre), y Ana Paula Rumualdo alertó sobre usos gubernamentales de la IA que afecten derechos.",
+  "summary_p2": "Importa porque muestra el tipo de mensaje que ya reciben las escuelas de Derecho y los despachos en México: el valor se desplaza de producir documentos a formular preguntas y asumir la responsabilidad. Para los despachos, es una referencia para redefinir la formación de juniors, y para las facultades, para enseñar verificación y criterio junto con el uso de herramientas. Matiz: el comunicado es institucional, la demostración corre a cargo de una vendor, las cifras atribuidas a Thomson Reuters (40% de despachos y 47% de áreas jurídicas internas con IA generativa) no se enlazan y los tiempos de ocho minutos o tres días son declaraciones, no mediciones.",
+  "why_sota": "Caso latinoamericano de IA en el aula jurídica con demostración de producto real.",
+  "why_now": "Ibero (prensa), 13 nov 2026. NEW (Latinoamérica; sin solapamiento con Tirant/elDigesto de Chile).",
+  "geo": [
+    "MX"
+  ],
+  "topics": [
+    "Ibero",
+    "Legora",
+    "amparo",
+    "formación",
+    "competencias"
+  ],
+  "sources": [
+    {
+      "source_id": "src-ibero-prensa",
+      "url": "https://prensa.ibero.mx/es-MX/nota/la-ia-ya-redacta-demandas-en-minutos-que-habilidades-necesitaran-los-abogados-del-futuro",
+      "cited_title": "La IA ya redacta demandas en minutos: ¿qué habilidades necesitarán los abogados del futuro?",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-universidad-iberoamericana",
+    "ent-legora"
+  ],
+  "lang": "es",
+  "status": "published"
+}

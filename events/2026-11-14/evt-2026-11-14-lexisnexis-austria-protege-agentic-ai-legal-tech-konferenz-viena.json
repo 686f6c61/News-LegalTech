@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-14-lexisnexis-austria-protege-agentic-ai-legal-tech-konferenz-viena",
+  "date": "2026-11-12",
+  "type": "product",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "LexisNexis Austria presenta en Viena Lexis+ con Protégé, un asistente de IA agéntica (agentic AI) que planifica la investigación, elige rutas y comprueba resultados intermedios con fuentes verificables",
+  "short_title": "LexisNexis presenta en Viena Lexis+ con Protégé agéntico",
+  "standfirst": "Es una nota de prensa de LexisNexis Austria distribuida por APA-OTS bajo responsabilidad del emisor; describe capacidades sin datos de precisión, precios ni evaluación independiente.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Producto",
+  "country": "Austria",
+  "piece_type": "Producto",
+  "summary_p1": "LexisNexis Austria presentó en la Legal Tech Konferenz, celebrada en el Park Hyatt de Viena, la nueva base tecnológica de Lexis+ con Protégé, centrada en IA agéntica (agentic AI). Según la nota difundida el 12 de noviembre de 2026, el asistente descompone preguntas complejas en subtareas, sigue los puntos abiertos, replanifica la búsqueda si los primeros resultados no bastan y devuelve las respuestas con referencias comprobables a contenidos de LexisNexis. La compañía añade que la metodología de trabajo fue definida con expertos jurídicos austriacos y que los usuarios podrán lanzar skills (flujos predefinidos para tareas repetitivas); anuncia pruebas en la LexCon del 17 de noviembre en Innsbruck y del 18 en Linz.",
+  "summary_p2": "Importa porque muestra a un proveedor de contenido jurídico llevando su asistente de respuesta a respuesta de trabajo, con método local y fuente propia como diferencial frente a las plataformas generalistas. Para los despachos y departamentos jurídicos de Austria y la región DACH, es una referencia para pedir demostraciones con casos propios, y para otros editores, otra señal de que los asistentes agénticos se venden con contenido y metodología nacional. Matiz: es una nota de prensa del propio proveedor, sin cifras de precisión ni de uso, sin precios y con una mesa redonda sobre el papel de los juristas en 2030 que no aporta evidencia sobre el producto.",
+  "why_sota": "Un gran editor jurídico lleva el asistente agéntico a un mercado nacional con método y fuentes locales.",
+  "why_now": "APA-OTS (nota de LexisNexis Austria), 12 nov 2026. NEW.",
+  "geo": [
+    "AT"
+  ],
+  "topics": [
+    "LexisNexis",
+    "Protégé",
+    "agentic AI",
+    "Austria",
+    "skills"
+  ],
+  "sources": [
+    {
+      "source_id": "src-apa-ots",
+      "url": "https://www.ots.at/presseaussendung/OTS_20261112_OTS0057/legal-tech-konferenz-2026-lexisnexis-praesentierte-neue-agentic-ai-technologie-von-lexis-mit-protg",
+      "cited_title": "Legal Tech Konferenz 2026: LexisNexis präsentierte neue Agentic AI Technologie von Lexis+ mit Protégé",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-lexisnexis"
+  ],
+  "lang": "es",
+  "status": "published"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-14-artificial-lawyer-wrap-matterbench-llm-solos-malos-agentes-tareas-complejas",
+  "date": "2026-11-13",
+  "type": "research",
+  "sota_score": 6.9,
+  "ai_legaltech": true,
+  "title": "Artificial Lawyer recoge que MatterBench evaluó varios LLM y que, por sí solos, rinden muy mal como soporte de agentes en trabajo jurídico complejo y de largo recorrido, aunque en la práctica se usan con guías, contexto y herramientas",
+  "short_title": "Artificial Lawyer: MatterBench ve flojos a los LLM solos en tareas jurídicas complejas",
+  "standfirst": "Es una referencia de un párrafo en el Wrap semanal de Artificial Lawyer, sin cifras, sin enlace al informe y con el matiz del propio medio; no se ha podido contrastar la evaluación original.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación",
+  "country": "",
+  "piece_type": "Análisis",
+  "summary_p1": "El Wrap semanal de Artificial Lawyer del 13 de noviembre de 2026 recoge que MatterBench hizo una evaluación (eval) de un conjunto de modelos de lenguaje (LLM) y concluyó que, por sí solos, eran muy malos como soporte de agentes de IA para trabajo jurídico complejo. El medio añade que, en la mayoría de los casos, el entorno (harness) que usarían los grandes despachos y los equipos in-house incluiría muchas guías, contexto y herramientas adicionales para que funcionara bien. La conclusión que destaca es que los LLM generales, sin más, no son buenos en las tareas jurídicas más complejas y de largo recorrido.",
+  "summary_p2": "Importa porque refuerza una idea de compra: lo que decide el resultado de un agente jurídico es el entorno que se construye alrededor del modelo, no el modelo desnudo. Para los despachos y departamentos jurídicos, es un argumento para preguntar a los proveedores por guías, herramientas, comprobaciones y pruebas propias en lugar de comparar solo modelos, y para los vendors, una razón para publicar evaluaciones de su producto completo. Matiz: la fuente es un párrafo de un medio especializado sin cifras ni enlace a MatterBench, no se ha podido verificar la metodología ni los modelos probados, y el propio Artificial Lawyer reconoce que el resultado no refleja el uso real.",
+  "why_sota": "Evaluación de agentes jurídicos que sostiene que el entorno pesa más que el modelo solo.",
+  "why_now": "Artificial Lawyer, 13 nov 2026 (Wrap). NEW (frente a SG-LegalClarify del 13 nov: otro benchmark).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "MatterBench",
+    "LLM",
+    "agentes",
+    "evaluación",
+    "Artificial Lawyer"
+  ],
+  "sources": [
+    {
+      "source_id": "src-artificial-lawyer",
+      "url": "https://www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday/",
+      "cited_title": "Legal Innovators NY Starts Tuesday +",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-artificial-lawyer"
+  ],
+  "lang": "es",
+  "status": "published"
+}

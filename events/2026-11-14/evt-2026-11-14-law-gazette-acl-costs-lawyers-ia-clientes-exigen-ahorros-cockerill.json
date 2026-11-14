@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-14-law-gazette-acl-costs-lawyers-ia-clientes-exigen-ahorros-cockerill",
+  "date": "2026-11-13",
+  "type": "market",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "En la conferencia de la Association of Costs Lawyers, la jueza Cockerill pregunta cómo trasladar al cliente el ahorro que genera la IA, y dos directores jurídicos piden transparencia sobre precio y ahorros",
+  "short_title": "Costs lawyers y la jueza Cockerill: cómo repercutir en el precio el ahorro de la IA",
+  "standfirst": "Es una crónica del Law Society Gazette de una conferencia, con opiniones de ponentes y sin datos propios; recoge además la guía de la Law Society sobre facturar tiempo cuando se usa IA.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Servicios jurídicos",
+  "country": "Reino Unido",
+  "piece_type": "Análisis",
+  "summary_p1": "El Law Society Gazette publicó el 13 de noviembre de 2026 una crónica de la conferencia de la Association of Costs Lawyers (abogados de costas), donde los profesionales se mostraron convencidos de que la IA no los sustituirá, pero los clientes ya piden que las eficiencias se noten en las facturas. La lady justice Cockerill, vicepresidenta de la jurisdicción civil, preguntó cómo replicar en lo que paga el cliente la ganancia de eficiencia cuando la tecnología acelera parte del trabajo, y animó a los costs lawyers a liderar esa conversación. El texto recuerda que la Law Society modificó el mes pasado su guía: si se factura por tiempo, solo puede cobrarse el tiempo realmente dedicado, no el que habría llevado la tarea sin IA, aunque sí el de operar el sistema, revisar y verificar.",
+  "summary_p2": "Importa porque junta tres señales en una sola pieza: una jueza que pide repensar cómo se mide y cobra el valor, una guía profesional que prohíbe facturar tiempo que la IA ha ahorrado y compradores como Lloyds Banking Group o Compass Group que preguntan por el uso de IA y por el reparto del ahorro. Para despachos y proveedores de servicios jurídicos con tarifas por hora, es un motivo para revisar cartas de encargo, honorarios fijos y registro del tiempo de revisión y verificación, y para los departamentos jurídicos, un argumento para pedir transparencia. Matiz: son declaraciones de ponentes en una conferencia, la guía de la Law Society no tiene fuerza de norma y la crónica no aporta datos propios de ahorro real.",
+  "why_sota": "Un tribunal, un colegio profesional y dos compradores apuntan en la misma dirección sobre facturación y IA.",
+  "why_now": "Law Society Gazette, 13 nov 2026. NEW (frente a Artificial Lawyer 12 nov y BigHand 12 nov: otro foro, otro ángulo de costas y guía de facturación).",
+  "geo": [
+    "GB"
+  ],
+  "topics": [
+    "Law Society",
+    "costs lawyers",
+    "facturación",
+    "Cockerill",
+    "honorarios"
+  ],
+  "sources": [
+    {
+      "source_id": "src-law-society-gazette",
+      "url": "https://www.lawgazette.co.uk/news-focus/acl-conference-costs-lawyers-upbeat-about-ai-threat-but-clients-demand-savings/5128528.article",
+      "cited_title": "ACL conference: Costs lawyers upbeat about AI threat but clients demand savings",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-law-society-gazette",
+    "ent-law-society",
+    "ent-association-of-costs-lawyers"
+  ],
+  "lang": "es",
+  "status": "published"
+}

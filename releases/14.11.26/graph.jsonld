@@ -1,0 +1,658 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "sota": "https://legalnews.686f6c61.dev/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/releases/14.11.26",
+      "@type": [
+        "schema:Dataset",
+        "schema:CreativeWork"
+      ],
+      "schema:name": "Radar LegalTech · 14.11.26",
+      "schema:version": "14.11.26",
+      "schema:datePublished": "2026-11-14",
+      "schema:description": "Release diaria del grafo Observatorio LegalTech SOTA (día operativo 2026-11-14, 10 eventos).",
+      "schema:inLanguage": "es",
+      "schema:url": "https://github.com/686f6c61/News-LegalTech/releases/download/14.11.26/graph.jsonld",
+      "schema:license": "https://spdx.org/licenses/MIT.html",
+      "schema:hasPart": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-delaware-chancery-richards-layton-rollo-sancion-2500-ia-alucinaciones"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-twin1-ai-extension-seed-5-millones-gemelos-digitales-linklaters-orrick-dechert"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-law-gazette-acl-costs-lawyers-ia-clientes-exigen-ahorros-cockerill"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-scc-times-clifford-chance-dubai-arbitration-week-ia-arbitraje-privilegio-divulgacion"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-lexisnexis-austria-protege-agentic-ai-legal-tech-konferenz-viena"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-sartori-harvey-contrata-mas-abogados-de-despachos-que-amazon-953-movimientos"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-el-confidencial-tribuna-shamamy-ia-informa-profesionales-juridicos-defienden-consumo"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-ibero-seminario-derecho-ia-legora-demanda-amparo-ocho-minutos-competencias"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-legaltech-digest-litigadores-cautos-ia-70-por-ciento-semanal"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-artificial-lawyer-wrap-matterbench-llm-solos-malos-agentes-tareas-complejas"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-delaware-chancery-richards-layton-rollo-sancion-2500-ia-alucinaciones",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-delaware-chancery-richards-layton-rollo-sancion-2500-ia-alucinaciones",
+      "schema:headline": "El Tribunal de Chancery de Delaware sanciona con 2.500 dólares a un directivo de Richards, Layton & Finger por un escrito con alucinaciones de IA, pese a la política de IA y la formación obligatoria del despacho",
+      "schema:datePublished": "2026-11-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Tribunal de Chancery de Delaware sancionó el viernes 13 de noviembre de 2026 con 2.500 dólares a Richard Rollo, directivo (director) de Richards, Layton & Finger, por presentar un escrito de contestación que incluía alucinaciones de IA generativa. Según la resolución que cita Bloomberg Law, Rollo no verificó la exactitud del escrito aunque el despacho tiene una política completa sobre IA generativa y formación ética obligatoria. La vicecanciller Lori W. Will afirmó que usar IA generativa en la práctica jurídica no está prohibido ni es en sí problemático, pero que el cuidado que exige esa herramienta faltó en este caso.",
+      "schema:articleBody": "El Tribunal de Chancery de Delaware sancionó el viernes 13 de noviembre de 2026 con 2.500 dólares a Richard Rollo, directivo (director) de Richards, Layton & Finger, por presentar un escrito de contestación que incluía alucinaciones de IA generativa. Según la resolución que cita Bloomberg Law, Rollo no verificó la exactitud del escrito aunque el despacho tiene una política completa sobre IA generativa y formación ética obligatoria. La vicecanciller Lori W. Will afirmó que usar IA generativa en la práctica jurídica no está prohibido ni es en sí problemático, pero que el cuidado que exige esa herramienta faltó en este caso.\n\nImporta porque el caso desmonta la defensa de que tener una política y un curso basta: el tribunal juzga la verificación concreta del escrito, y lo hace con un despacho de primer nivel del mercado societario de Delaware, no con un abogado aislado. Para los despachos y los departamentos jurídicos, es un argumento para exigir un paso de verificación de citas y citas literales con responsable identificado antes de cada presentación, y para los vendors de investigación jurídica, un recordatorio de que el riesgo recae en quien firma. Matiz: la fuente accesible es un resumen parcial de Bloomberg Law, con acceso limitado a su texto completo, y la cuantía es modesta, lo que no permite inferir un criterio general del tribunal sobre otras sanciones.",
+      "sota:type": "case_law",
+      "sota:sotaScore": 7.2,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Sanción judicial a un despacho de primer nivel pese a contar con política y formación de IA.",
+      "sota:whyNow": "Bloomberg Law, 13 nov 2026. NEW (frente a la multa de Gill en Delaware del 12 nov, otro asunto).",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "Delaware",
+        "Chancery",
+        "alucinaciones de IA",
+        "sanciones",
+        "verificación"
+      ],
+      "sota:summaryP1": "El Tribunal de Chancery de Delaware sancionó el viernes 13 de noviembre de 2026 con 2.500 dólares a Richard Rollo, directivo (director) de Richards, Layton & Finger, por presentar un escrito de contestación que incluía alucinaciones de IA generativa. Según la resolución que cita Bloomberg Law, Rollo no verificó la exactitud del escrito aunque el despacho tiene una política completa sobre IA generativa y formación ética obligatoria. La vicecanciller Lori W. Will afirmó que usar IA generativa en la práctica jurídica no está prohibido ni es en sí problemático, pero que el cuidado que exige esa herramienta faltó en este caso.",
+      "sota:summaryP2": "Importa porque el caso desmonta la defensa de que tener una política y un curso basta: el tribunal juzga la verificación concreta del escrito, y lo hace con un despacho de primer nivel del mercado societario de Delaware, no con un abogado aislado. Para los despachos y los departamentos jurídicos, es un argumento para exigir un paso de verificación de citas y citas literales con responsable identificado antes de cada presentación, y para los vendors de investigación jurídica, un recordatorio de que el riesgo recae en quien firma. Matiz: la fuente accesible es un resumen parcial de Bloomberg Law, con acceso limitado a su texto completo, y la cuantía es modesta, lo que no permite inferir un criterio general del tribunal sobre otras sanciones.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://news.bloomberglaw.com/litigation/delaware-chancery-court-sanctions-attorney-for-ai-hallucinations",
+          "schema:name": "Delaware Chancery Court Sanctions Attorney for AI Hallucinations",
+          "sota:sourceId": "src-bloomberg-law-news"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bloomberg-law"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-richards-layton-finger"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-delaware-court-of-chancery"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-twin1-ai-extension-seed-5-millones-gemelos-digitales-linklaters-orrick-dechert",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-twin1-ai-extension-seed-5-millones-gemelos-digitales-linklaters-orrick-dechert",
+      "schema:headline": "Twin1 AI amplía en 5 millones de dólares su ronda seed (capital semilla) hasta 25 millones para extender sus gemelos digitales de IA a despachos globales, cooperativas de crédito y grandes entidades financieras",
+      "schema:datePublished": "2026-11-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Twin1 AI, plataforma con sede en San Mateo (California) que da a cada profesional un gemelo digital de IA basado, con permiso, en sus correos, reuniones, documentos, Slack y Teams, anunció el 12 de noviembre de 2026 una ampliación de 5 millones de dólares de su ronda seed (capital semilla), liderada por Curql, un fondo respaldado por más de 160 cooperativas de crédito. Eleva la ronda a 25 millones, tras los 20 millones de agosto liderados por Bessemer, Tribeca y Aramco Ventures. La empresa dice que usará el dinero para ampliar su despliegue en cooperativas de crédito, despachos globales e instituciones financieras, crecer en San Mateo y Londres y desarrollar su red de gemelos, capacidades autónomas y controles de gobernanza. Cita a Linklaters, Orrick y Dechert entre sus clientes del sector jurídico.",
+      "schema:articleBody": "Twin1 AI, plataforma con sede en San Mateo (California) que da a cada profesional un gemelo digital de IA basado, con permiso, en sus correos, reuniones, documentos, Slack y Teams, anunció el 12 de noviembre de 2026 una ampliación de 5 millones de dólares de su ronda seed (capital semilla), liderada por Curql, un fondo respaldado por más de 160 cooperativas de crédito. Eleva la ronda a 25 millones, tras los 20 millones de agosto liderados por Bessemer, Tribeca y Aramco Ventures. La empresa dice que usará el dinero para ampliar su despliegue en cooperativas de crédito, despachos globales e instituciones financieras, crecer en San Mateo y Londres y desarrollar su red de gemelos, capacidades autónomas y controles de gobernanza. Cita a Linklaters, Orrick y Dechert entre sus clientes del sector jurídico.\n\nImporta porque es una forma distinta de IA para despachos: en lugar de un asistente de investigación o redacción, un gemelo que conserva el conocimiento y el criterio de cada abogado para que no se pierda cuando se va. Para los despachos, la pregunta práctica es qué permisos, qué trazabilidad y qué control del secreto profesional ofrece un sistema que lee correo y chats, y para los vendors, que el capital sigue fluyendo hacia plataformas de gestión del conocimiento. Matiz: es un comunicado de la empresa, el ejemplo concreto de uso que da es el de una cooperativa de crédito y no un despacho, y no hay datos independientes de adopción ni de resultados en las firmas que nombra.",
+      "sota:type": "funding",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Financiación de una startup de gemelos digitales con tres grandes despachos como clientes declarados.",
+      "sota:whyNow": "Twin1 AI (comunicado), 12 nov 2026; Artificial Lawyer lo recoge el 13. NEW.",
+      "sota:geo": [
+        "US",
+        "GB"
+      ],
+      "sota:topics": [
+        "Twin1 AI",
+        "gemelos digitales",
+        "seed",
+        "gestión del conocimiento",
+        "Linklaters"
+      ],
+      "sota:summaryP1": "Twin1 AI, plataforma con sede en San Mateo (California) que da a cada profesional un gemelo digital de IA basado, con permiso, en sus correos, reuniones, documentos, Slack y Teams, anunció el 12 de noviembre de 2026 una ampliación de 5 millones de dólares de su ronda seed (capital semilla), liderada por Curql, un fondo respaldado por más de 160 cooperativas de crédito. Eleva la ronda a 25 millones, tras los 20 millones de agosto liderados por Bessemer, Tribeca y Aramco Ventures. La empresa dice que usará el dinero para ampliar su despliegue en cooperativas de crédito, despachos globales e instituciones financieras, crecer en San Mateo y Londres y desarrollar su red de gemelos, capacidades autónomas y controles de gobernanza. Cita a Linklaters, Orrick y Dechert entre sus clientes del sector jurídico.",
+      "sota:summaryP2": "Importa porque es una forma distinta de IA para despachos: en lugar de un asistente de investigación o redacción, un gemelo que conserva el conocimiento y el criterio de cada abogado para que no se pierda cuando se va. Para los despachos, la pregunta práctica es qué permisos, qué trazabilidad y qué control del secreto profesional ofrece un sistema que lee correo y chats, y para los vendors, que el capital sigue fluyendo hacia plataformas de gestión del conocimiento. Matiz: es un comunicado de la empresa, el ejemplo concreto de uso que da es el de una cooperativa de crédito y no un despacho, y no hay datos independientes de adopción ni de resultados en las firmas que nombra.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://twin1.ai/news/twin1-ai-adds-5-million-seed-extension-led-by-curql",
+          "schema:name": "Twin1 AI Adds $5 Million Seed Extension Led by Curql to Expand AI-Powered Digital Twins Across Regulated Industries and Enterprises",
+          "sota:sourceId": "src-twin1-ai"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-twin1-ai"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-curql"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-law-gazette-acl-costs-lawyers-ia-clientes-exigen-ahorros-cockerill",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-law-gazette-acl-costs-lawyers-ia-clientes-exigen-ahorros-cockerill",
+      "schema:headline": "En la conferencia de la Association of Costs Lawyers, la jueza Cockerill pregunta cómo trasladar al cliente el ahorro que genera la IA, y dos directores jurídicos piden transparencia sobre precio y ahorros",
+      "schema:datePublished": "2026-11-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Law Society Gazette publicó el 13 de noviembre de 2026 una crónica de la conferencia de la Association of Costs Lawyers (abogados de costas), donde los profesionales se mostraron convencidos de que la IA no los sustituirá, pero los clientes ya piden que las eficiencias se noten en las facturas. La lady justice Cockerill, vicepresidenta de la jurisdicción civil, preguntó cómo replicar en lo que paga el cliente la ganancia de eficiencia cuando la tecnología acelera parte del trabajo, y animó a los costs lawyers a liderar esa conversación. El texto recuerda que la Law Society modificó el mes pasado su guía: si se factura por tiempo, solo puede cobrarse el tiempo realmente dedicado, no el que habría llevado la tarea sin IA, aunque sí el de operar el sistema, revisar y verificar.",
+      "schema:articleBody": "El Law Society Gazette publicó el 13 de noviembre de 2026 una crónica de la conferencia de la Association of Costs Lawyers (abogados de costas), donde los profesionales se mostraron convencidos de que la IA no los sustituirá, pero los clientes ya piden que las eficiencias se noten en las facturas. La lady justice Cockerill, vicepresidenta de la jurisdicción civil, preguntó cómo replicar en lo que paga el cliente la ganancia de eficiencia cuando la tecnología acelera parte del trabajo, y animó a los costs lawyers a liderar esa conversación. El texto recuerda que la Law Society modificó el mes pasado su guía: si se factura por tiempo, solo puede cobrarse el tiempo realmente dedicado, no el que habría llevado la tarea sin IA, aunque sí el de operar el sistema, revisar y verificar.\n\nImporta porque junta tres señales en una sola pieza: una jueza que pide repensar cómo se mide y cobra el valor, una guía profesional que prohíbe facturar tiempo que la IA ha ahorrado y compradores como Lloyds Banking Group o Compass Group que preguntan por el uso de IA y por el reparto del ahorro. Para despachos y proveedores de servicios jurídicos con tarifas por hora, es un motivo para revisar cartas de encargo, honorarios fijos y registro del tiempo de revisión y verificación, y para los departamentos jurídicos, un argumento para pedir transparencia. Matiz: son declaraciones de ponentes en una conferencia, la guía de la Law Society no tiene fuerza de norma y la crónica no aporta datos propios de ahorro real.",
+      "sota:type": "market",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un tribunal, un colegio profesional y dos compradores apuntan en la misma dirección sobre facturación y IA.",
+      "sota:whyNow": "Law Society Gazette, 13 nov 2026. NEW (frente a Artificial Lawyer 12 nov y BigHand 12 nov: otro foro, otro ángulo de costas y guía de facturación).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "Law Society",
+        "costs lawyers",
+        "facturación",
+        "Cockerill",
+        "honorarios"
+      ],
+      "sota:summaryP1": "El Law Society Gazette publicó el 13 de noviembre de 2026 una crónica de la conferencia de la Association of Costs Lawyers (abogados de costas), donde los profesionales se mostraron convencidos de que la IA no los sustituirá, pero los clientes ya piden que las eficiencias se noten en las facturas. La lady justice Cockerill, vicepresidenta de la jurisdicción civil, preguntó cómo replicar en lo que paga el cliente la ganancia de eficiencia cuando la tecnología acelera parte del trabajo, y animó a los costs lawyers a liderar esa conversación. El texto recuerda que la Law Society modificó el mes pasado su guía: si se factura por tiempo, solo puede cobrarse el tiempo realmente dedicado, no el que habría llevado la tarea sin IA, aunque sí el de operar el sistema, revisar y verificar.",
+      "sota:summaryP2": "Importa porque junta tres señales en una sola pieza: una jueza que pide repensar cómo se mide y cobra el valor, una guía profesional que prohíbe facturar tiempo que la IA ha ahorrado y compradores como Lloyds Banking Group o Compass Group que preguntan por el uso de IA y por el reparto del ahorro. Para despachos y proveedores de servicios jurídicos con tarifas por hora, es un motivo para revisar cartas de encargo, honorarios fijos y registro del tiempo de revisión y verificación, y para los departamentos jurídicos, un argumento para pedir transparencia. Matiz: son declaraciones de ponentes en una conferencia, la guía de la Law Society no tiene fuerza de norma y la crónica no aporta datos propios de ahorro real.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.lawgazette.co.uk/news-focus/acl-conference-costs-lawyers-upbeat-about-ai-threat-but-clients-demand-savings/5128528.article",
+          "schema:name": "ACL conference: Costs lawyers upbeat about AI threat but clients demand savings",
+          "sota:sourceId": "src-law-society-gazette"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society-gazette"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-association-of-costs-lawyers"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-scc-times-clifford-chance-dubai-arbitration-week-ia-arbitraje-privilegio-divulgacion",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-scc-times-clifford-chance-dubai-arbitration-week-ia-arbitraje-privilegio-divulgacion",
+      "schema:headline": "Una sesión de Clifford Chance en la Dubai Arbitration Week reparte el uso de IA en arbitraje en tres fases, avisa del privilegio con herramientas abiertas y defiende distinguir usos materiales de rutinarios antes de exigir divulgación",
+      "schema:datePublished": "2026-11-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "SCC Times publicó el 14 de noviembre de 2026 la crónica de la sesión AI in Arbitration - Balancing Risk and Opportunity, organizada por Clifford Chance el 11 de noviembre en la Dubai Arbitration Week. La senior associate Victoria St-Amour situó el valor de la IA en la evaluación temprana del caso, la producción y revisión de documentos (con herramientas que, según ella, pueden revisar entre 100.000 y 200.000 documentos al día) y la administración de audiencias, y contó que su equipo tardó semanas en afinar un prompt de tres o cuatro páginas antes de lanzarlo. La abogada Prachi Trivedi recordó que el Upper Tribunal británico (caso Munir) consideró que meter cartas de clientes en una herramienta abierta equivale a ponerlas en dominio público, con efectos sobre confidencialidad y privilegio, y favoreció distinguir los usos materiales de los rutinarios antes de imponer una divulgación general, en línea con la guía de la CIArb.",
+      "schema:articleBody": "SCC Times publicó el 14 de noviembre de 2026 la crónica de la sesión AI in Arbitration - Balancing Risk and Opportunity, organizada por Clifford Chance el 11 de noviembre en la Dubai Arbitration Week. La senior associate Victoria St-Amour situó el valor de la IA en la evaluación temprana del caso, la producción y revisión de documentos (con herramientas que, según ella, pueden revisar entre 100.000 y 200.000 documentos al día) y la administración de audiencias, y contó que su equipo tardó semanas en afinar un prompt de tres o cuatro páginas antes de lanzarlo. La abogada Prachi Trivedi recordó que el Upper Tribunal británico (caso Munir) consideró que meter cartas de clientes en una herramienta abierta equivale a ponerlas en dominio público, con efectos sobre confidencialidad y privilegio, y favoreció distinguir los usos materiales de los rutinarios antes de imponer una divulgación general, en línea con la guía de la CIArb.\n\nImporta porque baja a práctica tres cuestiones que ya afectan a cualquier despacho de arbitraje: dónde se procesan los datos del cliente, quién responde si el privilegio se discute y cómo se tratarán los costes si un tribunal considera razonable haber usado IA, con referencia al artículo 41(5) de las reglas CCI 2026. Para los despachos, es un argumento para usar herramientas empresariales con control de datos, políticas contra cuentas personales y un registro de cómo se usó la IA, y para los vendors, que el mercado pide confidencialidad verificable antes que funciones nuevas. Matiz: son opiniones de ponentes, de una firma y de sus invitados, sin datos propios de la sesión sobre ahorro real y con las referencias a la regulación de la CCI y de la CIArb a título ilustrativo.",
+      "sota:type": "guidance",
+      "sota:sotaScore": 7.0,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Cuestiones prácticas de privilegio, costes y divulgación del uso de IA en arbitraje internacional.",
+      "sota:whyNow": "SCC Times, 14 nov 2026 (sesión del 11 nov). NEW (frente a Daily Jus / caso Fitch del 13 nov: otro foro, otro enfoque).",
+      "sota:geo": [
+        "AE",
+        "GB"
+      ],
+      "sota:topics": [
+        "Dubai Arbitration Week",
+        "Clifford Chance",
+        "arbitraje",
+        "privilegio",
+        "divulgación"
+      ],
+      "sota:summaryP1": "SCC Times publicó el 14 de noviembre de 2026 la crónica de la sesión AI in Arbitration - Balancing Risk and Opportunity, organizada por Clifford Chance el 11 de noviembre en la Dubai Arbitration Week. La senior associate Victoria St-Amour situó el valor de la IA en la evaluación temprana del caso, la producción y revisión de documentos (con herramientas que, según ella, pueden revisar entre 100.000 y 200.000 documentos al día) y la administración de audiencias, y contó que su equipo tardó semanas en afinar un prompt de tres o cuatro páginas antes de lanzarlo. La abogada Prachi Trivedi recordó que el Upper Tribunal británico (caso Munir) consideró que meter cartas de clientes en una herramienta abierta equivale a ponerlas en dominio público, con efectos sobre confidencialidad y privilegio, y favoreció distinguir los usos materiales de los rutinarios antes de imponer una divulgación general, en línea con la guía de la CIArb.",
+      "sota:summaryP2": "Importa porque baja a práctica tres cuestiones que ya afectan a cualquier despacho de arbitraje: dónde se procesan los datos del cliente, quién responde si el privilegio se discute y cómo se tratarán los costes si un tribunal considera razonable haber usado IA, con referencia al artículo 41(5) de las reglas CCI 2026. Para los despachos, es un argumento para usar herramientas empresariales con control de datos, políticas contra cuentas personales y un registro de cómo se usó la IA, y para los vendors, que el mercado pide confidencialidad verificable antes que funciones nuevas. Matiz: son opiniones de ponentes, de una firma y de sus invitados, sin datos propios de la sesión sobre ahorro real y con las referencias a la regulación de la CCI y de la CIArb a título ilustrativo.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.scconline.com/blog/post/2026/11/14/dubai-arbitration-week-2026-clifford-chance-ai-in-arbitration-risk-opportunity/",
+          "schema:name": "Dubai Arbitration Week 2026: Examining AI's growing role, risks and safeguards in international arbitration",
+          "sota:sourceId": "src-scc-times"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clifford-chance"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dubai-arbitration-week"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-lexisnexis-austria-protege-agentic-ai-legal-tech-konferenz-viena",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-lexisnexis-austria-protege-agentic-ai-legal-tech-konferenz-viena",
+      "schema:headline": "LexisNexis Austria presenta en Viena Lexis+ con Protégé, un asistente de IA agéntica (agentic AI) que planifica la investigación, elige rutas y comprueba resultados intermedios con fuentes verificables",
+      "schema:datePublished": "2026-11-12",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LexisNexis Austria presentó en la Legal Tech Konferenz, celebrada en el Park Hyatt de Viena, la nueva base tecnológica de Lexis+ con Protégé, centrada en IA agéntica (agentic AI). Según la nota difundida el 12 de noviembre de 2026, el asistente descompone preguntas complejas en subtareas, sigue los puntos abiertos, replanifica la búsqueda si los primeros resultados no bastan y devuelve las respuestas con referencias comprobables a contenidos de LexisNexis. La compañía añade que la metodología de trabajo fue definida con expertos jurídicos austriacos y que los usuarios podrán lanzar skills (flujos predefinidos para tareas repetitivas); anuncia pruebas en la LexCon del 17 de noviembre en Innsbruck y del 18 en Linz.",
+      "schema:articleBody": "LexisNexis Austria presentó en la Legal Tech Konferenz, celebrada en el Park Hyatt de Viena, la nueva base tecnológica de Lexis+ con Protégé, centrada en IA agéntica (agentic AI). Según la nota difundida el 12 de noviembre de 2026, el asistente descompone preguntas complejas en subtareas, sigue los puntos abiertos, replanifica la búsqueda si los primeros resultados no bastan y devuelve las respuestas con referencias comprobables a contenidos de LexisNexis. La compañía añade que la metodología de trabajo fue definida con expertos jurídicos austriacos y que los usuarios podrán lanzar skills (flujos predefinidos para tareas repetitivas); anuncia pruebas en la LexCon del 17 de noviembre en Innsbruck y del 18 en Linz.\n\nImporta porque muestra a un proveedor de contenido jurídico llevando su asistente de respuesta a respuesta de trabajo, con método local y fuente propia como diferencial frente a las plataformas generalistas. Para los despachos y departamentos jurídicos de Austria y la región DACH, es una referencia para pedir demostraciones con casos propios, y para otros editores, otra señal de que los asistentes agénticos se venden con contenido y metodología nacional. Matiz: es una nota de prensa del propio proveedor, sin cifras de precisión ni de uso, sin precios y con una mesa redonda sobre el papel de los juristas en 2030 que no aporta evidencia sobre el producto.",
+      "sota:type": "product",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Un gran editor jurídico lleva el asistente agéntico a un mercado nacional con método y fuentes locales.",
+      "sota:whyNow": "APA-OTS (nota de LexisNexis Austria), 12 nov 2026. NEW.",
+      "sota:geo": [
+        "AT"
+      ],
+      "sota:topics": [
+        "LexisNexis",
+        "Protégé",
+        "agentic AI",
+        "Austria",
+        "skills"
+      ],
+      "sota:summaryP1": "LexisNexis Austria presentó en la Legal Tech Konferenz, celebrada en el Park Hyatt de Viena, la nueva base tecnológica de Lexis+ con Protégé, centrada en IA agéntica (agentic AI). Según la nota difundida el 12 de noviembre de 2026, el asistente descompone preguntas complejas en subtareas, sigue los puntos abiertos, replanifica la búsqueda si los primeros resultados no bastan y devuelve las respuestas con referencias comprobables a contenidos de LexisNexis. La compañía añade que la metodología de trabajo fue definida con expertos jurídicos austriacos y que los usuarios podrán lanzar skills (flujos predefinidos para tareas repetitivas); anuncia pruebas en la LexCon del 17 de noviembre en Innsbruck y del 18 en Linz.",
+      "sota:summaryP2": "Importa porque muestra a un proveedor de contenido jurídico llevando su asistente de respuesta a respuesta de trabajo, con método local y fuente propia como diferencial frente a las plataformas generalistas. Para los despachos y departamentos jurídicos de Austria y la región DACH, es una referencia para pedir demostraciones con casos propios, y para otros editores, otra señal de que los asistentes agénticos se venden con contenido y metodología nacional. Matiz: es una nota de prensa del propio proveedor, sin cifras de precisión ni de uso, sin precios y con una mesa redonda sobre el papel de los juristas en 2030 que no aporta evidencia sobre el producto.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.ots.at/presseaussendung/OTS_20261112_OTS0057/legal-tech-konferenz-2026-lexisnexis-praesentierte-neue-agentic-ai-technologie-von-lexis-mit-protg",
+          "schema:name": "Legal Tech Konferenz 2026: LexisNexis präsentierte neue Agentic AI Technologie von Lexis+ mit Protégé",
+          "sota:sourceId": "src-apa-ots"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-sartori-harvey-contrata-mas-abogados-de-despachos-que-amazon-953-movimientos",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-sartori-harvey-contrata-mas-abogados-de-despachos-que-amazon-953-movimientos",
+      "schema:headline": "Sartori & Partners cuenta 953 abogados que pasaron de despachos a empresas entre mayo y octubre de 2026: Harvey, con entre 21 y 40, es la empresa que más contrató, por delante de Amazon",
+      "schema:datePublished": "2026-11-11",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La consultora de selección Sartori & Partners publicó el 11 de noviembre de 2026 que entre mayo y octubre de 2026 pasaron 953 abogados de despachos a empresas, repartidos entre 772 empleadores. Harvey fue la empresa que más contrató, con entre 21 y 40 abogados, por delante de Amazon (11-20); Apple, Legora, Capital One, TikTok, OpenAI y Stellantis contrataron cada una entre 5 y 10. La consultora explica que las empresas de tecnología jurídica, como Harvey y Legora, suelen contratar a esos abogados para roles de producto, no solo para asientos legales, y que los asociados fueron el 76,7% de los movimientos a empresas y los despachos de más de mil abogados aportaron el 59,3%.",
+      "schema:articleBody": "La consultora de selección Sartori & Partners publicó el 11 de noviembre de 2026 que entre mayo y octubre de 2026 pasaron 953 abogados de despachos a empresas, repartidos entre 772 empleadores. Harvey fue la empresa que más contrató, con entre 21 y 40 abogados, por delante de Amazon (11-20); Apple, Legora, Capital One, TikTok, OpenAI y Stellantis contrataron cada una entre 5 y 10. La consultora explica que las empresas de tecnología jurídica, como Harvey y Legora, suelen contratar a esos abogados para roles de producto, no solo para asientos legales, y que los asociados fueron el 76,7% de los movimientos a empresas y los despachos de más de mil abogados aportaron el 59,3%.\n\nImporta porque mide una competencia por el talento jurídico que ya no es solo entre despachos: los vendors de IA legal se disputan a los mismos asociados que los departamentos jurídicos, y lo hacen con roles nuevos de producto. Para los despachos grandes, es una pista de dónde van sus asociados junior, y para los directores jurídicos que contratan, de con quién compiten por perfiles de tecnología, datos y privacidad, que se mueven a empresas a un ritmo de 30,3 por cada cien movimientos laterales frente a 13,1 en todas las prácticas. Matiz: la fuente reconoce que los datos salen de anuncios públicos y perfiles profesionales y se dan en bandas, y la nota de la tabla indica que octubre se ve bajo porque las fechas de incorporación se confirman con retraso.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": false,
+      "sota:whySota": "Cifra por primera vez qué empresas, y entre ellas dos vendors de IA legal, se llevan más abogados de despachos.",
+      "sota:whyNow": "Sartori & Partners, 11 nov 2026; InhouseBlog lo destaca el 13. NEW. No es IA en sentido estricto: mercado de talento.",
+      "sota:geo": [
+        "US",
+        "GB"
+      ],
+      "sota:topics": [
+        "Harvey",
+        "Legora",
+        "talento",
+        "contratación",
+        "Sartori"
+      ],
+      "sota:summaryP1": "La consultora de selección Sartori & Partners publicó el 11 de noviembre de 2026 que entre mayo y octubre de 2026 pasaron 953 abogados de despachos a empresas, repartidos entre 772 empleadores. Harvey fue la empresa que más contrató, con entre 21 y 40 abogados, por delante de Amazon (11-20); Apple, Legora, Capital One, TikTok, OpenAI y Stellantis contrataron cada una entre 5 y 10. La consultora explica que las empresas de tecnología jurídica, como Harvey y Legora, suelen contratar a esos abogados para roles de producto, no solo para asientos legales, y que los asociados fueron el 76,7% de los movimientos a empresas y los despachos de más de mil abogados aportaron el 59,3%.",
+      "sota:summaryP2": "Importa porque mide una competencia por el talento jurídico que ya no es solo entre despachos: los vendors de IA legal se disputan a los mismos asociados que los departamentos jurídicos, y lo hacen con roles nuevos de producto. Para los despachos grandes, es una pista de dónde van sus asociados junior, y para los directores jurídicos que contratan, de con quién compiten por perfiles de tecnología, datos y privacidad, que se mueven a empresas a un ritmo de 30,3 por cada cien movimientos laterales frente a 13,1 en todas las prácticas. Matiz: la fuente reconoce que los datos salen de anuncios públicos y perfiles profesionales y se dan en bandas, y la nota de la tabla indica que octubre se ve bajo porque las fechas de incorporación se confirman con retraso.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://sartoriglobal.com/insights/intelligence/in-house/companies-hiring-lawyers-from-law-firms-2026/",
+          "schema:name": "Companies Hiring Lawyers From Law Firms in 2026: Harvey Hired Most",
+          "sota:sourceId": "src-sartori-partners"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sartori-partners"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-el-confidencial-tribuna-shamamy-ia-informa-profesionales-juridicos-defienden-consumo",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-el-confidencial-tribuna-shamamy-ia-informa-profesionales-juridicos-defienden-consumo",
+      "schema:headline": "Una tribuna en El Confidencial advierte de que consultar a ChatGPT sobre consumo da respuestas convincentes pero no orientación jurídica a medida, y pide verificar normas y sentencias en fuentes oficiales",
+      "schema:datePublished": "2026-11-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "Rebin Shamamy, CEO de Abogados Legalsha, publicó el 13 de noviembre de 2026 en El Confidencial una tribuna en la que sostiene que usar ChatGPT y otras herramientas de IA para resolver dudas de consumo puede democratizar el acceso a la información jurídica, pero que no garantiza un asesoramiento individualizado. Recuerda que el Centro Europeo del Consumidor en España advirtió de reclamaciones apoyadas en sentencias inexistentes generadas por IA, y que una respuesta puede ser correcta en abstracto y inadecuada para el caso concreto por la fecha del contrato, una cláusula o los plazos. Concluye que la clave es un uso crítico con verificación, y que las administraciones deberían reforzar el acceso a información oficial comprensible y a canales de orientación.",
+      "schema:articleBody": "Rebin Shamamy, CEO de Abogados Legalsha, publicó el 13 de noviembre de 2026 en El Confidencial una tribuna en la que sostiene que usar ChatGPT y otras herramientas de IA para resolver dudas de consumo puede democratizar el acceso a la información jurídica, pero que no garantiza un asesoramiento individualizado. Recuerda que el Centro Europeo del Consumidor en España advirtió de reclamaciones apoyadas en sentencias inexistentes generadas por IA, y que una respuesta puede ser correcta en abstracto y inadecuada para el caso concreto por la fecha del contrato, una cláusula o los plazos. Concluye que la clave es un uso crítico con verificación, y que las administraciones deberían reforzar el acceso a información oficial comprensible y a canales de orientación.\n\nImporta porque pone el foco en un riesgo que ya llega a los despachos de consumo: clientes que traen reclamaciones preparadas con IA, con citas que hay que comprobar y con la expectativa de que el trabajo cueste menos. Para los despachos, es un argumento para un protocolo de primera consulta que verifique lo que trae el cliente y explique qué aporta el análisis del caso, y para los organismos de consumo, para reforzar la información oficial. Matiz: el autor dirige un despacho de reclamaciones, es opinión sin datos propios y el Reglamento (UE) 2024/1689 se menciona solo a título general, sin analizar las obligaciones de transparencia en este uso.",
+      "sota:type": "opinion",
+      "sota:sotaScore": 6.8,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Visión de un despacho de consumo sobre los clientes que se asesoran con IA.",
+      "sota:whyNow": "El Confidencial, 13 nov 2026. NEW (frente a Carrera/Marbella del 13 nov: otro autor y otro ángulo, el consumidor).",
+      "sota:geo": [
+        "ES"
+      ],
+      "sota:topics": [
+        "consumo",
+        "ChatGPT",
+        "verificación",
+        "Centro Europeo del Consumidor",
+        "opinión"
+      ],
+      "sota:summaryP1": "Rebin Shamamy, CEO de Abogados Legalsha, publicó el 13 de noviembre de 2026 en El Confidencial una tribuna en la que sostiene que usar ChatGPT y otras herramientas de IA para resolver dudas de consumo puede democratizar el acceso a la información jurídica, pero que no garantiza un asesoramiento individualizado. Recuerda que el Centro Europeo del Consumidor en España advirtió de reclamaciones apoyadas en sentencias inexistentes generadas por IA, y que una respuesta puede ser correcta en abstracto y inadecuada para el caso concreto por la fecha del contrato, una cláusula o los plazos. Concluye que la clave es un uso crítico con verificación, y que las administraciones deberían reforzar el acceso a información oficial comprensible y a canales de orientación.",
+      "sota:summaryP2": "Importa porque pone el foco en un riesgo que ya llega a los despachos de consumo: clientes que traen reclamaciones preparadas con IA, con citas que hay que comprobar y con la expectativa de que el trabajo cueste menos. Para los despachos, es un argumento para un protocolo de primera consulta que verifique lo que trae el cliente y explique qué aporta el análisis del caso, y para los organismos de consumo, para reforzar la información oficial. Matiz: el autor dirige un despacho de reclamaciones, es opinión sin datos propios y el Reglamento (UE) 2024/1689 se menciona solo a título general, sin analizar las obligaciones de transparencia en este uso.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.elconfidencial.com/juridico/tribuna/2026-11-13/la-ia-informa-los-profesionales-juridicos-defienden_4453644/",
+          "schema:name": "La IA informa, los profesionales jurídicos defienden",
+          "sota:sourceId": "src-el-confidencial"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-confidencial"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalsha"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-ibero-seminario-derecho-ia-legora-demanda-amparo-ocho-minutos-competencias",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-ibero-seminario-derecho-ia-legora-demanda-amparo-ocho-minutos-competencias",
+      "schema:headline": "En el seminario El Derecho y la IA de la Ibero, una representante de Legora redacta en ocho minutos un borrador de demanda de amparo y ponentes enumeran siete competencias que sustituirán a memorizar leyes",
+      "schema:datePublished": "2026-11-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "La Universidad Iberoamericana de Ciudad de México publicó el 13 de noviembre de 2026 una nota sobre el seminario anual El Derecho y la IA, del Observatorio IBERO sobre el Sistema de Justicia. Stefania Rollandin, de Legora, mostró en directo cómo revisó un contrato, procesó información de un arbitraje, organizó actuaciones en un calendario y generó borradores para un juicio de amparo en ocho minutos, trabajo que, dijo, solo la demanda y las pruebas podía llevar antes tres días, y recordó que el abogado es quien firma. Xavier Careaga, de Galicia Abogados, enumeró siete competencias (resolver problemas, gestionar proyectos, analizar riesgos, creatividad, conocimiento interdisciplinar, negociación y manejo de la incertidumbre), y Ana Paula Rumualdo alertó sobre usos gubernamentales de la IA que afecten derechos.",
+      "schema:articleBody": "La Universidad Iberoamericana de Ciudad de México publicó el 13 de noviembre de 2026 una nota sobre el seminario anual El Derecho y la IA, del Observatorio IBERO sobre el Sistema de Justicia. Stefania Rollandin, de Legora, mostró en directo cómo revisó un contrato, procesó información de un arbitraje, organizó actuaciones en un calendario y generó borradores para un juicio de amparo en ocho minutos, trabajo que, dijo, solo la demanda y las pruebas podía llevar antes tres días, y recordó que el abogado es quien firma. Xavier Careaga, de Galicia Abogados, enumeró siete competencias (resolver problemas, gestionar proyectos, analizar riesgos, creatividad, conocimiento interdisciplinar, negociación y manejo de la incertidumbre), y Ana Paula Rumualdo alertó sobre usos gubernamentales de la IA que afecten derechos.\n\nImporta porque muestra el tipo de mensaje que ya reciben las escuelas de Derecho y los despachos en México: el valor se desplaza de producir documentos a formular preguntas y asumir la responsabilidad. Para los despachos, es una referencia para redefinir la formación de juniors, y para las facultades, para enseñar verificación y criterio junto con el uso de herramientas. Matiz: el comunicado es institucional, la demostración corre a cargo de una vendor, las cifras atribuidas a Thomson Reuters (40% de despachos y 47% de áreas jurídicas internas con IA generativa) no se enlazan y los tiempos de ocho minutos o tres días son declaraciones, no mediciones.",
+      "sota:type": "other",
+      "sota:sotaScore": 6.7,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Caso latinoamericano de IA en el aula jurídica con demostración de producto real.",
+      "sota:whyNow": "Ibero (prensa), 13 nov 2026. NEW (Latinoamérica; sin solapamiento con Tirant/elDigesto de Chile).",
+      "sota:geo": [
+        "MX"
+      ],
+      "sota:topics": [
+        "Ibero",
+        "Legora",
+        "amparo",
+        "formación",
+        "competencias"
+      ],
+      "sota:summaryP1": "La Universidad Iberoamericana de Ciudad de México publicó el 13 de noviembre de 2026 una nota sobre el seminario anual El Derecho y la IA, del Observatorio IBERO sobre el Sistema de Justicia. Stefania Rollandin, de Legora, mostró en directo cómo revisó un contrato, procesó información de un arbitraje, organizó actuaciones en un calendario y generó borradores para un juicio de amparo en ocho minutos, trabajo que, dijo, solo la demanda y las pruebas podía llevar antes tres días, y recordó que el abogado es quien firma. Xavier Careaga, de Galicia Abogados, enumeró siete competencias (resolver problemas, gestionar proyectos, analizar riesgos, creatividad, conocimiento interdisciplinar, negociación y manejo de la incertidumbre), y Ana Paula Rumualdo alertó sobre usos gubernamentales de la IA que afecten derechos.",
+      "sota:summaryP2": "Importa porque muestra el tipo de mensaje que ya reciben las escuelas de Derecho y los despachos en México: el valor se desplaza de producir documentos a formular preguntas y asumir la responsabilidad. Para los despachos, es una referencia para redefinir la formación de juniors, y para las facultades, para enseñar verificación y criterio junto con el uso de herramientas. Matiz: el comunicado es institucional, la demostración corre a cargo de una vendor, las cifras atribuidas a Thomson Reuters (40% de despachos y 47% de áreas jurídicas internas con IA generativa) no se enlazan y los tiempos de ocho minutos o tres días son declaraciones, no mediciones.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://prensa.ibero.mx/es-MX/nota/la-ia-ya-redacta-demandas-en-minutos-que-habilidades-necesitaran-los-abogados-del-futuro",
+          "schema:name": "La IA ya redacta demandas en minutos: ¿qué habilidades necesitarán los abogados del futuro?",
+          "sota:sourceId": "src-ibero-prensa"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-universidad-iberoamericana"
+        },
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-legaltech-digest-litigadores-cautos-ia-70-por-ciento-semanal",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-legaltech-digest-litigadores-cautos-ia-70-por-ciento-semanal",
+      "schema:headline": "LegalTech Digest resume que el 70% de los abogados de despacho usa IA cada semana, pero los litigantes siguen siendo cautos por el escrutinio judicial, los riesgos éticos y la calidad",
+      "schema:datePublished": "2026-11-14",
+      "schema:inLanguage": "es",
+      "schema:abstract": "LegalTech Digest publicó el 14 de noviembre de 2026 un resumen de un informe de Law.com Legal Tech News según el cual el 70% de los abogados de despacho usa IA al menos una vez por semana en 2026, frente al 27% de 2024. La implantación sigue siendo menor: solo el 46% de los despachos tiene IA de uso general y el 34% plataformas específicas de derecho, y el 78% de los despachos de demandantes la usa pero solo el 30% la tiene integrada en el trabajo diario. Los litigantes, dice, son más cautos por el escrutinio de los tribunales, las obligaciones éticas y la exigencia de calidad, y Joe Green, de Gunderson Dettmer, resume que quien empuja los límites acaba encontrando muros que creía que la IA saltaría.",
+      "schema:articleBody": "LegalTech Digest publicó el 14 de noviembre de 2026 un resumen de un informe de Law.com Legal Tech News según el cual el 70% de los abogados de despacho usa IA al menos una vez por semana en 2026, frente al 27% de 2024. La implantación sigue siendo menor: solo el 46% de los despachos tiene IA de uso general y el 34% plataformas específicas de derecho, y el 78% de los despachos de demandantes la usa pero solo el 30% la tiene integrada en el trabajo diario. Los litigantes, dice, son más cautos por el escrutinio de los tribunales, las obligaciones éticas y la exigencia de calidad, y Joe Green, de Gunderson Dettmer, resume que quien empuja los límites acaba encontrando muros que creía que la IA saltaría.\n\nImporta porque separa uso individual de implantación: aunque la mayoría de los abogados prueba la IA cada semana, pocas firmas la han integrado, y los litigantes tienen más razones para frenar con sanciones por alucinaciones en el mismo mes. Para los despachos, es un dato de referencia para fijar objetivos de adopción por práctica, y para los vendors, para diseñar herramientas de litigación con verificación visible. Matiz: es un resumen de un agregador, las cifras proceden de varias fuentes (ABA, Law.com y un informe del sector) sin enlaces directos, y la pieza incluye un estudio académico de 2025 como parte de las barreras.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.6,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Las cifras de uso semanal frente a implantación real, con foco en litigación.",
+      "sota:whyNow": "LegalTech Digest, 14 nov 2026 (cita a Law.com Legal Tech News). NEW.",
+      "sota:geo": [
+        "US"
+      ],
+      "sota:topics": [
+        "uso de IA",
+        "litigación",
+        "adopción",
+        "Law.com",
+        "Gunderson Dettmer"
+      ],
+      "sota:summaryP1": "LegalTech Digest publicó el 14 de noviembre de 2026 un resumen de un informe de Law.com Legal Tech News según el cual el 70% de los abogados de despacho usa IA al menos una vez por semana en 2026, frente al 27% de 2024. La implantación sigue siendo menor: solo el 46% de los despachos tiene IA de uso general y el 34% plataformas específicas de derecho, y el 78% de los despachos de demandantes la usa pero solo el 30% la tiene integrada en el trabajo diario. Los litigantes, dice, son más cautos por el escrutinio de los tribunales, las obligaciones éticas y la exigencia de calidad, y Joe Green, de Gunderson Dettmer, resume que quien empuja los límites acaba encontrando muros que creía que la IA saltaría.",
+      "sota:summaryP2": "Importa porque separa uso individual de implantación: aunque la mayoría de los abogados prueba la IA cada semana, pocas firmas la han integrado, y los litigantes tienen más razones para frenar con sanciones por alucinaciones en el mismo mes. Para los despachos, es un dato de referencia para fijar objetivos de adopción por práctica, y para los vendors, para diseñar herramientas de litigación con verificación visible. Matiz: es un resumen de un agregador, las cifras proceden de varias fuentes (ABA, Law.com y un informe del sector) sin enlaces directos, y la pieza incluye un estudio académico de 2025 como parte de las barreras.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.legaltechdigest.com/news/litigators-cautious-about-ai-adoption-despite-growing-legal-use",
+          "schema:name": "Litigators Cautious About AI Adoption Despite Growing Legal Use",
+          "sota:sourceId": "src-legaltech-digest"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-digest"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/events/evt-2026-11-14-artificial-lawyer-wrap-matterbench-llm-solos-malos-agentes-tareas-complejas",
+      "@type": "schema:Article",
+      "schema:identifier": "evt-2026-11-14-artificial-lawyer-wrap-matterbench-llm-solos-malos-agentes-tareas-complejas",
+      "schema:headline": "Artificial Lawyer recoge que MatterBench evaluó varios LLM y que, por sí solos, rinden muy mal como soporte de agentes en trabajo jurídico complejo y de largo recorrido, aunque en la práctica se usan con guías, contexto y herramientas",
+      "schema:datePublished": "2026-11-13",
+      "schema:inLanguage": "es",
+      "schema:abstract": "El Wrap semanal de Artificial Lawyer del 13 de noviembre de 2026 recoge que MatterBench hizo una evaluación (eval) de un conjunto de modelos de lenguaje (LLM) y concluyó que, por sí solos, eran muy malos como soporte de agentes de IA para trabajo jurídico complejo. El medio añade que, en la mayoría de los casos, el entorno (harness) que usarían los grandes despachos y los equipos in-house incluiría muchas guías, contexto y herramientas adicionales para que funcionara bien. La conclusión que destaca es que los LLM generales, sin más, no son buenos en las tareas jurídicas más complejas y de largo recorrido.",
+      "schema:articleBody": "El Wrap semanal de Artificial Lawyer del 13 de noviembre de 2026 recoge que MatterBench hizo una evaluación (eval) de un conjunto de modelos de lenguaje (LLM) y concluyó que, por sí solos, eran muy malos como soporte de agentes de IA para trabajo jurídico complejo. El medio añade que, en la mayoría de los casos, el entorno (harness) que usarían los grandes despachos y los equipos in-house incluiría muchas guías, contexto y herramientas adicionales para que funcionara bien. La conclusión que destaca es que los LLM generales, sin más, no son buenos en las tareas jurídicas más complejas y de largo recorrido.\n\nImporta porque refuerza una idea de compra: lo que decide el resultado de un agente jurídico es el entorno que se construye alrededor del modelo, no el modelo desnudo. Para los despachos y departamentos jurídicos, es un argumento para preguntar a los proveedores por guías, herramientas, comprobaciones y pruebas propias en lugar de comparar solo modelos, y para los vendors, una razón para publicar evaluaciones de su producto completo. Matiz: la fuente es un párrafo de un medio especializado sin cifras ni enlace a MatterBench, no se ha podido verificar la metodología ni los modelos probados, y el propio Artificial Lawyer reconoce que el resultado no refleja el uso real.",
+      "sota:type": "research",
+      "sota:sotaScore": 6.9,
+      "sota:aiLegaltech": true,
+      "sota:whySota": "Evaluación de agentes jurídicos que sostiene que el entorno pesa más que el modelo solo.",
+      "sota:whyNow": "Artificial Lawyer, 13 nov 2026 (Wrap). NEW (frente a SG-LegalClarify del 13 nov: otro benchmark).",
+      "sota:geo": [
+        "GB"
+      ],
+      "sota:topics": [
+        "MatterBench",
+        "LLM",
+        "agentes",
+        "evaluación",
+        "Artificial Lawyer"
+      ],
+      "sota:summaryP1": "El Wrap semanal de Artificial Lawyer del 13 de noviembre de 2026 recoge que MatterBench hizo una evaluación (eval) de un conjunto de modelos de lenguaje (LLM) y concluyó que, por sí solos, eran muy malos como soporte de agentes de IA para trabajo jurídico complejo. El medio añade que, en la mayoría de los casos, el entorno (harness) que usarían los grandes despachos y los equipos in-house incluiría muchas guías, contexto y herramientas adicionales para que funcionara bien. La conclusión que destaca es que los LLM generales, sin más, no son buenos en las tareas jurídicas más complejas y de largo recorrido.",
+      "sota:summaryP2": "Importa porque refuerza una idea de compra: lo que decide el resultado de un agente jurídico es el entorno que se construye alrededor del modelo, no el modelo desnudo. Para los despachos y departamentos jurídicos, es un argumento para preguntar a los proveedores por guías, herramientas, comprobaciones y pruebas propias en lugar de comparar solo modelos, y para los vendors, una razón para publicar evaluaciones de su producto completo. Matiz: la fuente es un párrafo de un medio especializado sin cifras ni enlace a MatterBench, no se ha podido verificar la metodología ni los modelos probados, y el propio Artificial Lawyer reconoce que el resultado no refleja el uso real.",
+      "schema:citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "schema:url": "https://www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday/",
+          "schema:name": "Legal Innovators NY Starts Tuesday +",
+          "sota:sourceId": "src-artificial-lawyer"
+        }
+      ],
+      "schema:about": [
+        {
+          "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-artificial-lawyer",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-artificial-lawyer",
+      "schema:name": "Artificial Lawyer",
+      "sota:entityType": "media",
+      "schema:url": "https://www.artificiallawyer.com/"
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-association-of-costs-lawyers",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-association-of-costs-lawyers",
+      "schema:name": "Association of Costs Lawyers",
+      "sota:entityType": "association",
+      "schema:url": "https://www.costslawyer.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-bloomberg-law",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-bloomberg-law",
+      "schema:name": "Bloomberg Law",
+      "sota:entityType": "vendor",
+      "schema:url": "https://pro.bloomberglaw.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-clifford-chance",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-clifford-chance",
+      "schema:name": "Clifford Chance",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.cliffordchance.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-curql",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-curql",
+      "schema:name": "Curql",
+      "sota:entityType": "investor",
+      "schema:url": "https://curql.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-delaware-court-of-chancery",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-delaware-court-of-chancery",
+      "schema:name": "Tribunal de Chancery de Delaware",
+      "sota:entityType": "court",
+      "schema:url": "https://courts.delaware.gov/chancery/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-dubai-arbitration-week",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-dubai-arbitration-week",
+      "schema:name": "Dubai Arbitration Week",
+      "sota:entityType": "other",
+      "schema:url": "https://www.dubaiarbitrationweek.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-el-confidencial",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-el-confidencial",
+      "schema:name": "El Confidencial",
+      "sota:entityType": "media",
+      "schema:url": "https://www.elconfidencial.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-harvey",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-harvey",
+      "schema:name": "Harvey",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.harvey.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-society",
+      "schema:name": "The Law Society of England and Wales",
+      "sota:entityType": "association",
+      "schema:url": "https://www.lawsociety.org.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-law-society-gazette",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-law-society-gazette",
+      "schema:name": "Law Society Gazette",
+      "sota:entityType": "media",
+      "schema:url": "https://www.lawgazette.co.uk/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legalsha",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legalsha",
+      "schema:name": "Abogados Legalsha",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.legalsha.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legaltech-digest",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legaltech-digest",
+      "schema:name": "LegalTech Digest",
+      "sota:entityType": "media",
+      "schema:url": "https://www.legaltechdigest.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-legora",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-legora",
+      "schema:name": "Legora",
+      "sota:entityType": "vendor",
+      "schema:url": "https://legora.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-lexisnexis",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-lexisnexis",
+      "schema:name": "LexisNexis",
+      "sota:entityType": "vendor",
+      "schema:url": "https://www.lexisnexis.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-richards-layton-finger",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-richards-layton-finger",
+      "schema:name": "Richards, Layton & Finger",
+      "sota:entityType": "law_firm",
+      "schema:url": "https://www.rlf.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-sartori-partners",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-sartori-partners",
+      "schema:name": "Sartori & Partners",
+      "sota:entityType": "media",
+      "schema:url": "https://sartoriglobal.com/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-twin1-ai",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-twin1-ai",
+      "schema:name": "Twin1 AI",
+      "sota:entityType": "vendor",
+      "schema:url": "https://twin1.ai/",
+      "sota:stub": true
+    },
+    {
+      "@id": "https://github.com/686f6c61/News-LegalTech/entities/ent-universidad-iberoamericana",
+      "@type": "schema:Thing",
+      "schema:identifier": "ent-universidad-iberoamericana",
+      "schema:name": "Universidad Iberoamericana",
+      "sota:entityType": "university",
+      "schema:url": "https://ibero.mx/",
+      "sota:stub": true
+    }
+  ]
+}

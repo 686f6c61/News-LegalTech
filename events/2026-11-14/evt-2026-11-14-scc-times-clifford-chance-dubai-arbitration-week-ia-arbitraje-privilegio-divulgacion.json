@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-14-scc-times-clifford-chance-dubai-arbitration-week-ia-arbitraje-privilegio-divulgacion",
+  "date": "2026-11-14",
+  "type": "guidance",
+  "sota_score": 7.0,
+  "ai_legaltech": true,
+  "title": "Una sesión de Clifford Chance en la Dubai Arbitration Week reparte el uso de IA en arbitraje en tres fases, avisa del privilegio con herramientas abiertas y defiende distinguir usos materiales de rutinarios antes de exigir divulgación",
+  "short_title": "Clifford Chance en Dubái: IA en arbitraje, privilegio y divulgación proporcionada",
+  "standfirst": "Es la crónica de una mesa redonda de SCC Times con ponentes de Clifford Chance, Deloitte y AWS; son opiniones y experiencias profesionales, no una norma ni un estudio.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": true,
+  "not_ai": false,
+  "topic": "Arbitraje",
+  "country": "Emiratos Árabes Unidos",
+  "piece_type": "Análisis",
+  "summary_p1": "SCC Times publicó el 14 de noviembre de 2026 la crónica de la sesión AI in Arbitration - Balancing Risk and Opportunity, organizada por Clifford Chance el 11 de noviembre en la Dubai Arbitration Week. La senior associate Victoria St-Amour situó el valor de la IA en la evaluación temprana del caso, la producción y revisión de documentos (con herramientas que, según ella, pueden revisar entre 100.000 y 200.000 documentos al día) y la administración de audiencias, y contó que su equipo tardó semanas en afinar un prompt de tres o cuatro páginas antes de lanzarlo. La abogada Prachi Trivedi recordó que el Upper Tribunal británico (caso Munir) consideró que meter cartas de clientes en una herramienta abierta equivale a ponerlas en dominio público, con efectos sobre confidencialidad y privilegio, y favoreció distinguir los usos materiales de los rutinarios antes de imponer una divulgación general, en línea con la guía de la CIArb.",
+  "summary_p2": "Importa porque baja a práctica tres cuestiones que ya afectan a cualquier despacho de arbitraje: dónde se procesan los datos del cliente, quién responde si el privilegio se discute y cómo se tratarán los costes si un tribunal considera razonable haber usado IA, con referencia al artículo 41(5) de las reglas CCI 2026. Para los despachos, es un argumento para usar herramientas empresariales con control de datos, políticas contra cuentas personales y un registro de cómo se usó la IA, y para los vendors, que el mercado pide confidencialidad verificable antes que funciones nuevas. Matiz: son opiniones de ponentes, de una firma y de sus invitados, sin datos propios de la sesión sobre ahorro real y con las referencias a la regulación de la CCI y de la CIArb a título ilustrativo.",
+  "why_sota": "Cuestiones prácticas de privilegio, costes y divulgación del uso de IA en arbitraje internacional.",
+  "why_now": "SCC Times, 14 nov 2026 (sesión del 11 nov). NEW (frente a Daily Jus / caso Fitch del 13 nov: otro foro, otro enfoque).",
+  "geo": [
+    "AE",
+    "GB"
+  ],
+  "topics": [
+    "Dubai Arbitration Week",
+    "Clifford Chance",
+    "arbitraje",
+    "privilegio",
+    "divulgación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-scc-times",
+      "url": "https://www.scconline.com/blog/post/2026/11/14/dubai-arbitration-week-2026-clifford-chance-ai-in-arbitration-risk-opportunity/",
+      "cited_title": "Dubai Arbitration Week 2026: Examining AI's growing role, risks and safeguards in international arbitration",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-clifford-chance",
+    "ent-dubai-arbitration-week"
+  ],
+  "lang": "es",
+  "status": "published"
+}

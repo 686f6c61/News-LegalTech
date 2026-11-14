@@ -1,0 +1,78 @@
+scan_id: full-radar-2026-11-14
+date: '2026-11-14'
+release: 14.11.26
+count: 10
+ai_share: 0.9
+dedup_against: events/2026-09-29 → 2026-11-13 + scans PASS
+event_ids:
+- evt-2026-11-14-delaware-chancery-richards-layton-rollo-sancion-2500-ia-alucinaciones
+- evt-2026-11-14-twin1-ai-extension-seed-5-millones-gemelos-digitales-linklaters-orrick-dechert
+- evt-2026-11-14-law-gazette-acl-costs-lawyers-ia-clientes-exigen-ahorros-cockerill
+- evt-2026-11-14-scc-times-clifford-chance-dubai-arbitration-week-ia-arbitraje-privilegio-divulgacion
+- evt-2026-11-14-lexisnexis-austria-protege-agentic-ai-legal-tech-konferenz-viena
+- evt-2026-11-14-sartori-harvey-contrata-mas-abogados-de-despachos-que-amazon-953-movimientos
+- evt-2026-11-14-el-confidencial-tribuna-shamamy-ia-informa-profesionales-juridicos-defienden-consumo
+- evt-2026-11-14-ibero-seminario-derecho-ia-legora-demanda-amparo-ocho-minutos-competencias
+- evt-2026-11-14-legaltech-digest-litigadores-cautos-ia-70-por-ciento-semanal
+- evt-2026-11-14-artificial-lawyer-wrap-matterbench-llm-solos-malos-agentes-tareas-complejas
+events:
+- id: evt-2026-11-14-delaware-chancery-richards-layton-rollo-sancion-2500-ia-alucinaciones
+  sota_score: 7.2
+  ai_legaltech: true
+  title: El Tribunal de Chancery de Delaware sanciona con 2.500 dólares a un directivo
+    de Richards, Layton & Finger por un escrito con alucinaciones de IA, pese a la
+    política de IA y la formación obligatoria del despacho
+- id: evt-2026-11-14-twin1-ai-extension-seed-5-millones-gemelos-digitales-linklaters-orrick-dechert
+  sota_score: 6.8
+  ai_legaltech: true
+  title: Twin1 AI amplía en 5 millones de dólares su ronda seed (capital semilla)
+    hasta 25 millones para extender sus gemelos digitales de IA a despachos globales,
+    cooperativas de crédito y grandes entidades financieras
+- id: evt-2026-11-14-law-gazette-acl-costs-lawyers-ia-clientes-exigen-ahorros-cockerill
+  sota_score: 7.0
+  ai_legaltech: true
+  title: En la conferencia de la Association of Costs Lawyers, la jueza Cockerill
+    pregunta cómo trasladar al cliente el ahorro que genera la IA, y dos directores
+    jurídicos piden transparencia sobre precio y ahorros
+- id: evt-2026-11-14-scc-times-clifford-chance-dubai-arbitration-week-ia-arbitraje-privilegio-divulgacion
+  sota_score: 7.0
+  ai_legaltech: true
+  title: Una sesión de Clifford Chance en la Dubai Arbitration Week reparte el uso
+    de IA en arbitraje en tres fases, avisa del privilegio con herramientas abiertas
+    y defiende distinguir usos materiales de rutinarios antes de exigir divulgación
+- id: evt-2026-11-14-lexisnexis-austria-protege-agentic-ai-legal-tech-konferenz-viena
+  sota_score: 6.8
+  ai_legaltech: true
+  title: LexisNexis Austria presenta en Viena Lexis+ con Protégé, un asistente de
+    IA agéntica (agentic AI) que planifica la investigación, elige rutas y comprueba
+    resultados intermedios con fuentes verificables
+- id: evt-2026-11-14-sartori-harvey-contrata-mas-abogados-de-despachos-que-amazon-953-movimientos
+  sota_score: 6.8
+  ai_legaltech: false
+  title: 'Sartori & Partners cuenta 953 abogados que pasaron de despachos a empresas
+    entre mayo y octubre de 2026: Harvey, con entre 21 y 40, es la empresa que más
+    contrató, por delante de Amazon'
+- id: evt-2026-11-14-el-confidencial-tribuna-shamamy-ia-informa-profesionales-juridicos-defienden-consumo
+  sota_score: 6.8
+  ai_legaltech: true
+  title: Una tribuna en El Confidencial advierte de que consultar a ChatGPT sobre
+    consumo da respuestas convincentes pero no orientación jurídica a medida, y pide
+    verificar normas y sentencias en fuentes oficiales
+- id: evt-2026-11-14-ibero-seminario-derecho-ia-legora-demanda-amparo-ocho-minutos-competencias
+  sota_score: 6.7
+  ai_legaltech: true
+  title: En el seminario El Derecho y la IA de la Ibero, una representante de Legora
+    redacta en ocho minutos un borrador de demanda de amparo y ponentes enumeran siete
+    competencias que sustituirán a memorizar leyes
+- id: evt-2026-11-14-legaltech-digest-litigadores-cautos-ia-70-por-ciento-semanal
+  sota_score: 6.6
+  ai_legaltech: true
+  title: LegalTech Digest resume que el 70% de los abogados de despacho usa IA cada
+    semana, pero los litigantes siguen siendo cautos por el escrutinio judicial, los
+    riesgos éticos y la calidad
+- id: evt-2026-11-14-artificial-lawyer-wrap-matterbench-llm-solos-malos-agentes-tareas-complejas
+  sota_score: 6.9
+  ai_legaltech: true
+  title: Artificial Lawyer recoge que MatterBench evaluó varios LLM y que, por sí
+    solos, rinden muy mal como soporte de agentes en trabajo jurídico complejo y de
+    largo recorrido, aunque en la práctica se usan con guías, contexto y herramientas

@@ -1,0 +1,11 @@
+id: ent-richards-layton-finger
+name: Richards, Layton & Finger
+type: law_firm
+url: https://www.rlf.com/
+geo:
+- US
+aliases:
+- RL&F
+notes: Despacho de Wilmington (Delaware); su directivo Richard Rollo fue sancionado
+  por un escrito con alucinaciones de IA. Ficha mínima.
+stub: true

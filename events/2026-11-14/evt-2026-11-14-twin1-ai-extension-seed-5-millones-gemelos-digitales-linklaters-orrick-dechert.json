@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-14-twin1-ai-extension-seed-5-millones-gemelos-digitales-linklaters-orrick-dechert",
+  "date": "2026-11-12",
+  "type": "funding",
+  "sota_score": 6.8,
+  "ai_legaltech": true,
+  "title": "Twin1 AI amplía en 5 millones de dólares su ronda seed (capital semilla) hasta 25 millones para extender sus gemelos digitales de IA a despachos globales, cooperativas de crédito y grandes entidades financieras",
+  "short_title": "Twin1 AI suma 5 M$ a su seed y llega a 25 M$ con Linklaters, Orrick y Dechert como clientes",
+  "standfirst": "La ampliación la lidera Curql y es un comunicado de la propia empresa; no da cifras de uso, ingresos ni de despachos concretos más allá de los tres nombres que cita.",
+  "vendor_source": true,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Inversión",
+  "country": "Estados Unidos y Reino Unido",
+  "piece_type": "Inversión",
+  "summary_p1": "Twin1 AI, plataforma con sede en San Mateo (California) que da a cada profesional un gemelo digital de IA basado, con permiso, en sus correos, reuniones, documentos, Slack y Teams, anunció el 12 de noviembre de 2026 una ampliación de 5 millones de dólares de su ronda seed (capital semilla), liderada por Curql, un fondo respaldado por más de 160 cooperativas de crédito. Eleva la ronda a 25 millones, tras los 20 millones de agosto liderados por Bessemer, Tribeca y Aramco Ventures. La empresa dice que usará el dinero para ampliar su despliegue en cooperativas de crédito, despachos globales e instituciones financieras, crecer en San Mateo y Londres y desarrollar su red de gemelos, capacidades autónomas y controles de gobernanza. Cita a Linklaters, Orrick y Dechert entre sus clientes del sector jurídico.",
+  "summary_p2": "Importa porque es una forma distinta de IA para despachos: en lugar de un asistente de investigación o redacción, un gemelo que conserva el conocimiento y el criterio de cada abogado para que no se pierda cuando se va. Para los despachos, la pregunta práctica es qué permisos, qué trazabilidad y qué control del secreto profesional ofrece un sistema que lee correo y chats, y para los vendors, que el capital sigue fluyendo hacia plataformas de gestión del conocimiento. Matiz: es un comunicado de la empresa, el ejemplo concreto de uso que da es el de una cooperativa de crédito y no un despacho, y no hay datos independientes de adopción ni de resultados en las firmas que nombra.",
+  "why_sota": "Financiación de una startup de gemelos digitales con tres grandes despachos como clientes declarados.",
+  "why_now": "Twin1 AI (comunicado), 12 nov 2026; Artificial Lawyer lo recoge el 13. NEW.",
+  "geo": [
+    "US",
+    "GB"
+  ],
+  "topics": [
+    "Twin1 AI",
+    "gemelos digitales",
+    "seed",
+    "gestión del conocimiento",
+    "Linklaters"
+  ],
+  "sources": [
+    {
+      "source_id": "src-twin1-ai",
+      "url": "https://twin1.ai/news/twin1-ai-adds-5-million-seed-extension-led-by-curql",
+      "cited_title": "Twin1 AI Adds $5 Million Seed Extension Led by Curql to Expand AI-Powered Digital Twins Across Regulated Industries and Enterprises",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-twin1-ai",
+    "ent-curql"
+  ],
+  "lang": "es",
+  "status": "published"
+}

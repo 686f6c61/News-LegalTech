@@ -1,6 +1,6 @@
 version: 1.0.0
 generated_from: /workspace/legaltech/fuentes-legaltech-mundiales.md
-count: 192
+count: 199
 agenda_count: 9
 tiers:
   core: Monitorización diaria prioritaria (señal alta ES/AI)
@@ -2134,5 +2134,82 @@ sources:
   frequency: diario
   why: Medio británico sobre la profesión jurídica y la tecnología. Ficha añadida para citar el marco de fluidez en IA encargado por Harvey.
   region: GB
+  lang: EN
+  tier: archive
+
+- id: src-bloomberg-law-news
+  name: Bloomberg Law News
+  url: https://news.bloomberglaw.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Noticias de Bloomberg Law. Ficha añadida para citar la sanción de Delaware Chancery por alucinaciones de IA.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-twin1-ai
+  name: Twin1 AI
+  url: https://twin1.ai/
+  type: news
+  kind: news
+  frequency: diario
+  why: Vendor de gemelos digitales de IA para profesionales. Ficha añadida para citar su ampliación de seed.
+  region: US
+  lang: EN
+  tier: archive
+
+- id: src-scc-times
+  name: SCC Times
+  url: https://www.scconline.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Blog de SCC Online sobre arbitraje; socio de documentación de Dubai Arbitration Week. Ficha añadida para citar la sesión de Clifford Chance sobre IA.
+  region: IN
+  lang: EN
+  tier: archive
+
+- id: src-apa-ots
+  name: APA-OTS
+  url: https://www.ots.at/
+  type: news
+  kind: news
+  frequency: diario
+  why: Servicio austriaco de notas de prensa (APA). Ficha añadida para citar la nota de LexisNexis Austria sobre Lexis+ con Protégé.
+  region: AT
+  lang: DE
+  tier: archive
+
+- id: src-sartori-partners
+  name: Sartori & Partners
+  url: https://sartoriglobal.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Consultora de selección con datos de movimientos de abogados. Ficha añadida para citar el estudio sobre abogados que pasan de despachos a empresas.
+  region: GLOBAL
+  lang: EN
+  tier: archive
+
+- id: src-ibero-prensa
+  name: Universidad Iberoamericana (prensa)
+  url: https://prensa.ibero.mx/
+  type: news
+  kind: news
+  frequency: diario
+  why: Sala de prensa de la Ibero de Ciudad de México. Ficha añadida para citar el seminario El Derecho y la IA.
+  region: MX
+  lang: ES
+  tier: archive
+
+- id: src-legaltech-digest
+  name: LegalTech Digest
+  url: https://www.legaltechdigest.com/
+  type: news
+  kind: news
+  frequency: diario
+  why: Agregador de noticias legaltech que resume otras fuentes. Ficha añadida para citar el resumen sobre litigantes y adopción de IA.
+  region: US
   lang: EN
   tier: archive

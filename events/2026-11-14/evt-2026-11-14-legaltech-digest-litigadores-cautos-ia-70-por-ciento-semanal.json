@@ -1,0 +1,44 @@
+{
+  "id": "evt-2026-11-14-legaltech-digest-litigadores-cautos-ia-70-por-ciento-semanal",
+  "date": "2026-11-14",
+  "type": "research",
+  "sota_score": 6.6,
+  "ai_legaltech": true,
+  "title": "LegalTech Digest resume que el 70% de los abogados de despacho usa IA cada semana, pero los litigantes siguen siendo cautos por el escrutinio judicial, los riesgos éticos y la calidad",
+  "short_title": "LegalTech Digest: 70% usa IA semanal, pero los litigantes son cautos",
+  "standfirst": "Es un resumen de un agregador de un informe de Law.com Legal Tech News que mezcla cifras de otras fuentes (ABA y otro informe del sector) sin enlazarlas; las cifras no son verificables desde la pieza.",
+  "vendor_source": false,
+  "paywalled": false,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Investigación",
+  "country": "Estados Unidos",
+  "piece_type": "Informe",
+  "summary_p1": "LegalTech Digest publicó el 14 de noviembre de 2026 un resumen de un informe de Law.com Legal Tech News según el cual el 70% de los abogados de despacho usa IA al menos una vez por semana en 2026, frente al 27% de 2024. La implantación sigue siendo menor: solo el 46% de los despachos tiene IA de uso general y el 34% plataformas específicas de derecho, y el 78% de los despachos de demandantes la usa pero solo el 30% la tiene integrada en el trabajo diario. Los litigantes, dice, son más cautos por el escrutinio de los tribunales, las obligaciones éticas y la exigencia de calidad, y Joe Green, de Gunderson Dettmer, resume que quien empuja los límites acaba encontrando muros que creía que la IA saltaría.",
+  "summary_p2": "Importa porque separa uso individual de implantación: aunque la mayoría de los abogados prueba la IA cada semana, pocas firmas la han integrado, y los litigantes tienen más razones para frenar con sanciones por alucinaciones en el mismo mes. Para los despachos, es un dato de referencia para fijar objetivos de adopción por práctica, y para los vendors, para diseñar herramientas de litigación con verificación visible. Matiz: es un resumen de un agregador, las cifras proceden de varias fuentes (ABA, Law.com y un informe del sector) sin enlaces directos, y la pieza incluye un estudio académico de 2025 como parte de las barreras.",
+  "why_sota": "Las cifras de uso semanal frente a implantación real, con foco en litigación.",
+  "why_now": "LegalTech Digest, 14 nov 2026 (cita a Law.com Legal Tech News). NEW.",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "uso de IA",
+    "litigación",
+    "adopción",
+    "Law.com",
+    "Gunderson Dettmer"
+  ],
+  "sources": [
+    {
+      "source_id": "src-legaltech-digest",
+      "url": "https://www.legaltechdigest.com/news/litigators-cautious-about-ai-adoption-despite-growing-legal-use",
+      "cited_title": "Litigators Cautious About AI Adoption Despite Growing Legal Use",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-legaltech-digest"
+  ],
+  "lang": "es",
+  "status": "published"
+}

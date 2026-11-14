@@ -1,0 +1,10 @@
+id: ent-clifford-chance
+name: Clifford Chance
+type: law_firm
+url: https://www.cliffordchance.com/
+geo:
+- GB
+aliases: []
+notes: Despacho internacional; organizó la sesión sobre IA en arbitraje en la Dubai
+  Arbitration Week. Ficha mínima.
+stub: true

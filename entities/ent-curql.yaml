@@ -1,0 +1,10 @@
+id: ent-curql
+name: Curql
+type: investor
+url: https://curql.com/
+geo:
+- US
+aliases: []
+notes: Fondo estratégico respaldado por más de 160 cooperativas de crédito; lideró
+  la ampliación seed de Twin1 AI. Ficha mínima.
+stub: true

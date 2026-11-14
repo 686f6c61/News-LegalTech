@@ -1,0 +1,46 @@
+{
+  "id": "evt-2026-11-14-delaware-chancery-richards-layton-rollo-sancion-2500-ia-alucinaciones",
+  "date": "2026-11-13",
+  "type": "case_law",
+  "sota_score": 7.2,
+  "ai_legaltech": true,
+  "title": "El Tribunal de Chancery de Delaware sanciona con 2.500 dólares a un directivo de Richards, Layton & Finger por un escrito con alucinaciones de IA, pese a la política de IA y la formación obligatoria del despacho",
+  "short_title": "Chancery de Delaware sanciona a un socio de Richards Layton por un escrito con alucinaciones de IA",
+  "standfirst": "La vicecanciller Will dice que usar IA generativa no está prohibido ni es problemático en sí, pero que faltó verificar el escrito; la fuente es un resumen de Bloomberg Law con acceso parcial.",
+  "vendor_source": false,
+  "paywalled": true,
+  "guidance_not_norm": false,
+  "not_ai": false,
+  "topic": "Jurisprudencia",
+  "country": "Estados Unidos",
+  "piece_type": "Jurisprudencia",
+  "summary_p1": "El Tribunal de Chancery de Delaware sancionó el viernes 13 de noviembre de 2026 con 2.500 dólares a Richard Rollo, directivo (director) de Richards, Layton & Finger, por presentar un escrito de contestación que incluía alucinaciones de IA generativa. Según la resolución que cita Bloomberg Law, Rollo no verificó la exactitud del escrito aunque el despacho tiene una política completa sobre IA generativa y formación ética obligatoria. La vicecanciller Lori W. Will afirmó que usar IA generativa en la práctica jurídica no está prohibido ni es en sí problemático, pero que el cuidado que exige esa herramienta faltó en este caso.",
+  "summary_p2": "Importa porque el caso desmonta la defensa de que tener una política y un curso basta: el tribunal juzga la verificación concreta del escrito, y lo hace con un despacho de primer nivel del mercado societario de Delaware, no con un abogado aislado. Para los despachos y los departamentos jurídicos, es un argumento para exigir un paso de verificación de citas y citas literales con responsable identificado antes de cada presentación, y para los vendors de investigación jurídica, un recordatorio de que el riesgo recae en quien firma. Matiz: la fuente accesible es un resumen parcial de Bloomberg Law, con acceso limitado a su texto completo, y la cuantía es modesta, lo que no permite inferir un criterio general del tribunal sobre otras sanciones.",
+  "why_sota": "Sanción judicial a un despacho de primer nivel pese a contar con política y formación de IA.",
+  "why_now": "Bloomberg Law, 13 nov 2026. NEW (frente a la multa de Gill en Delaware del 12 nov, otro asunto).",
+  "geo": [
+    "US"
+  ],
+  "topics": [
+    "Delaware",
+    "Chancery",
+    "alucinaciones de IA",
+    "sanciones",
+    "verificación"
+  ],
+  "sources": [
+    {
+      "source_id": "src-bloomberg-law-news",
+      "url": "https://news.bloomberglaw.com/litigation/delaware-chancery-court-sanctions-attorney-for-ai-hallucinations",
+      "cited_title": "Delaware Chancery Court Sanctions Attorney for AI Hallucinations",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "entities": [
+    "ent-bloomberg-law",
+    "ent-richards-layton-finger",
+    "ent-delaware-court-of-chancery"
+  ],
+  "lang": "es",
+  "status": "published"
+}
